@@ -14,7 +14,7 @@
           "context": "κατέβην χθὲς εἰς Πειραιᾶ"
         }
       ],
-      "observation": "Explicit first-person downward movement into the Piraeus opens the narration."
+      "observation": "Explicit downward movement into the Piraeus opens the narration."
     },
     {
       "signal_id": "s002",
@@ -48,7 +48,7 @@
           "context": "τὴν παννυχίδα θεασόμεθα"
         }
       ],
-      "observation": "θεάομαι appears as the stated purpose of descent, and returns as inducement to stay; θεωρέω marks the completed viewing between them."
+      "observation": "Forms of θεάομαι frame the section: first as Socrates' stated purpose for descending, then as Polemarchus' inducement to stay; θεωρέω appears between them for the completed viewing of the procession."
     },
     {
       "signal_id": "s003",
@@ -82,33 +82,12 @@
           "context": "ἀλλὰ περιμενοῦμεν"
         }
       ],
-      "observation": "Forms of περιμένω recur densely as the command to wait passes from Polemarchus through the slave to Socrates and Glaucon's acceptance."
+      "observation": "περιμένω recurs four times in rapid succession, passing from Polemarchus' command through the slave to Socrates and Glaucon's compliance."
     },
     {
       "signal_id": "s004",
       "features": [
-        "changed_context_recurrence",
-        "directional_spatial_cluster"
-      ],
-      "elements": [
-        {
-          "form": "οἴκαδε",
-          "lemma": null,
-          "location": "327b",
-          "context": "ἡμᾶς οἴκαδε ὡρμημένους"
-        },
-        {
-          "form": "οἴκαδε",
-          "lemma": null,
-          "location": "328b",
-          "context": "ᾖμεν οὖν οἴκαδε εἰς τοῦ Πολεμάρχου"
-        }
-      ],
-      "observation": "οἴκαδε first describes Socrates heading toward his own home and then names arrival at Polemarchus' house."
-    },
-    {
-      "signal_id": "s005",
-      "features": [
+        "semantic_cluster",
         "local_contrast"
       ],
       "elements": [
@@ -119,19 +98,35 @@
           "context": "τὸ ἢν πείσωμεν ὑμᾶς ὡς χρὴ ἡμᾶς ἀφεῖναι"
         },
         {
-          "form": "μὴ ἀκούοντας",
-          "lemma": "ἀκούω",
+          "form": "πεῖσαι μὴ ἀκούοντας",
+          "lemma": "πείθω",
           "location": "327c",
-          "context": "πεῖσαι μὴ ἀκούοντας"
-        },
-        {
-          "form": "μὴ ἀκουσομένων",
-          "lemma": "ἀκούω",
-          "location": "327c",
-          "context": "ὡς τοίνυν μὴ ἀκουσομένων, οὕτω διανοεῖσθε"
+          "context": "ἦ καὶ δύναισθ᾽ ἄν, ἦ δ᾽ ὅς, πεῖσαι μὴ ἀκούοντας"
         }
       ],
-      "observation": "Socrates proposes persuading (πείσωμεν) as the remaining option; Polemarchus counters with the impossibility of persuading those who will not listen (μὴ ἀκούοντας), and Glaucon confirms they will not listen (μὴ ἀκουσομένων)."
+      "observation": "Socrates proposes persuading (πείσωμεν) as the remaining option; Polemarchus immediately blocks it with the condition μὴ ἀκούοντας, making persuasion impossible."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "directional_spatial_cluster",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἴκαδε ὡρμημένους",
+          "lemma": null,
+          "location": "327b",
+          "context": "κατιδὼν οὖν πόρρωθεν ἡμᾶς οἴκαδε ὡρμημένους"
+        },
+        {
+          "form": "οἴκαδε εἰς τοῦ Πολεμάρχου",
+          "lemma": null,
+          "location": "328b",
+          "context": "ᾖμεν οὖν οἴκαδε εἰς τοῦ Πολεμάρχου"
+        }
+      ],
+      "observation": "οἴκαδε first describes Socrates heading toward his own home; it returns naming arrival at Polemarchus' house instead."
     },
     {
       "signal_id": "s006",
@@ -146,35 +141,34 @@
           "context": "ἀπῇμεν πρὸς τὸ ἄστυ"
         },
         {
-          "form": "πρὸς ἄστυ",
+          "form": "πρὸς ἑσπέραν",
           "lemma": null,
-          "location": "327c",
-          "context": "ὡρμῆσθαι ὡς ἀπιόντες"
+          "location": "328a",
+          "context": "λαμπὰς ἔσται πρὸς ἑσπέραν"
         }
       ],
-      "observation": "Movement toward the ἄστυ (city/town) marks the intended return that is interrupted."
+      "observation": "πρὸς τὸ ἄστυ marks the intended direction of departure; πρὸς ἑσπέραν marks the time-direction of the evening event that prevents it."
     },
     {
       "signal_id": "s007",
       "features": [
-        "sequence_pattern",
         "other_textual_pattern"
       ],
       "elements": [
         {
-          "form": "ὁρᾷς",
-          "lemma": "ὁράω",
-          "location": "327c",
-          "context": "ὁρᾷς οὖν ἡμᾶς, ἔφη, ὅσοι ἐσμέν"
+          "form": "δραμόντα τὸν παῖδα",
+          "lemma": null,
+          "location": "327b",
+          "context": "ἐκέλευσε δραμόντα τὸν παῖδα περιμεῖναί ἑ κελεῦσαι"
         },
         {
-          "form": "κατιδὼν",
-          "lemma": "καθοράω",
+          "form": "ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου",
+          "lemma": null,
           "location": "327b",
-          "context": "κατιδὼν οὖν πόρρωθεν ἡμᾶς οἴκαδε ὡρμημένους"
+          "context": null
         }
       ],
-      "observation": "Polemarchus first sees (κατιδών) Socrates from afar; then asks Socrates to see (ὁρᾷς) how many they are—a reversal of who is seen and who sees."
+      "observation": "The slave (παῖς) runs forward at Polemarchus' command, then physically grasps Socrates' cloak from behind—a bodily detention."
     },
     {
       "signal_id": "s008",
@@ -183,13 +177,19 @@
       ],
       "elements": [
         {
-          "form": "κρείττους γένεσθε",
+          "form": "ἡ τῶν ἐπιχωρίων πομπὴ",
           "lemma": null,
-          "location": "327c",
-          "context": "ἢ τοίνυν τούτων κρείττους γένεσθε ἢ μένετ᾽ αὐτοῦ"
+          "location": "327a",
+          "context": "καλὴ μὲν οὖν μοι καὶ ἡ τῶν ἐπιχωρίων πομπὴ ἔδοξεν εἶναι"
+        },
+        {
+          "form": "ἣν οἱ Θρᾷκες ἔπεμπον",
+          "lemma": null,
+          "location": "327a",
+          "context": "οὐ μέντοι ἧττον ἐφαίνετο πρέπειν ἣν οἱ Θρᾷκες ἔπεμπον"
         }
       ],
-      "observation": "Polemarchus presents a disjunction between overpowering them (κρείττους γένεσθε) or remaining (μένετε)—force versus staying."
+      "observation": "The local procession is judged beautiful but the Thracian procession appears no less fitting—a comparison between native and foreign elements."
     },
     {
       "signal_id": "s009",
@@ -198,13 +198,13 @@
       ],
       "elements": [
         {
-          "form": "ἅτε νῦν πρῶτον ἄγοντες",
+          "form": "νῦν πρῶτον ἄγοντες",
           "lemma": null,
           "location": "327a",
-          "context": "τίνα τρόπον ποιήσουσιν ἅτε νῦν πρῶτον ἄγοντες"
+          "context": "ἅτε νῦν πρῶτον ἄγοντες"
         }
       ],
-      "observation": "The festival is marked as being held for the first time (νῦν πρῶτον), making the occasion novel."
+      "observation": "The festival is explicitly being held for the first time (νῦν πρῶτον)."
     },
     {
       "signal_id": "s010",
@@ -213,24 +213,45 @@
       ],
       "elements": [
         {
-          "form": "λαμπὰς",
-          "lemma": "λαμπάς",
+          "form": "μένετε",
+          "lemma": "μένω",
           "location": "328a",
-          "context": "λαμπὰς ἔσται πρὸς ἑσπέραν ἀφ᾽ ἵππων τῇ θεῷ"
+          "context": "ἀλλὰ μένετε"
         },
         {
-          "form": "λαμπάδια",
-          "lemma": "λαμπάδιον",
-          "location": "328a",
-          "context": "λαμπάδια ἔχοντες διαδώσουσιν ἀλλήλοις ἁμιλλώμενοι τοῖς ἵπποις"
+          "form": "μενετέον",
+          "lemma": "μένω",
+          "location": "328b",
+          "context": "ἔοικεν, ἔφη, μενετέον εἶναι"
+        },
+        {
+          "form": "μένετ᾽ αὐτοῦ",
+          "lemma": "μένω",
+          "location": "327c",
+          "context": "ἢ μένετ᾽ αὐτοῦ"
         }
       ],
-      "observation": "A torch-race on horseback is described: λαμπάς/λαμπάδια are passed between riders (διαδώσουσιν ἀλλήλοις), combining fire and relay."
+      "observation": "μένω appears alongside περιμένω as Polemarchus' demand; Glaucon's μενετέον (verbal adjective of necessity) marks the yielding."
     },
     {
       "signal_id": "s011",
       "features": [
         "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ὁράτε οὖν ἡμᾶς, ἔφη, ὅσοι ἐσμέν",
+          "lemma": null,
+          "location": "327c",
+          "context": null
+        }
+      ],
+      "observation": "Polemarchus draws attention to numerical superiority (ὅσοι ἐσμέν) as the ground for the constraint on Socrates."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_correspondence"
       ],
       "elements": [
         {
@@ -246,49 +267,40 @@
           "context": "τεθυκὼς γὰρ ἐτύγχανεν ἐν τῇ αὐλῇ"
         }
       ],
-      "observation": "Cephalus is found crowned (ἐστεφανωμένος) and having just sacrificed (τεθυκώς) in the courtyard—a ritual state upon arrival."
-    },
-    {
-      "signal_id": "s012",
-      "features": [
-        "intention_completion"
-      ],
-      "elements": [
-        {
-          "form": "προσευξόμενός",
-          "lemma": "προσεύχομαι",
-          "location": "327a",
-          "context": "προσευξόμενός τε τῇ θεῷ"
-        },
-        {
-          "form": "προσευξάμενοι",
-          "lemma": "προσεύχομαι",
-          "location": "327b",
-          "context": "προσευξάμενοι δὲ καὶ θεωρήσαντες"
-        }
-      ],
-      "observation": "The purpose of praying (προσευξόμενος, future participle) is completed by the aorist participle (προσευξάμενοι)."
+      "observation": "Cephalus is found crowned and seated, having just sacrificed in the courtyard—ritual state upon arrival."
     },
     {
       "signal_id": "s013",
       "features": [
-        "local_correspondence"
+        "sequence_pattern"
       ],
       "elements": [
         {
-          "form": "πομπὴ",
-          "lemma": "πομπή",
-          "location": "327a",
-          "context": "ἡ τῶν ἐπιχωρίων πομπὴ"
+          "form": "ἐξαναστησόμεθα",
+          "lemma": "ἐξανίστημι",
+          "location": "328a",
+          "context": "ἐξαναστησόμεθα γὰρ μετὰ τὸ δεῖπνον"
         },
         {
-          "form": "πομπῆς",
-          "lemma": "πομπή",
-          "location": "327c",
-          "context": "ὡς ἀπὸ τῆς πομπῆς"
+          "form": "θεασόμεθα",
+          "lemma": "θεάομαι",
+          "location": "328a",
+          "context": "καὶ τὴν παννυχίδα θεασόμεθα"
+        },
+        {
+          "form": "συνεσόμεθά",
+          "lemma": "σύνειμι",
+          "location": "328a",
+          "context": "καὶ συνεσόμεθά τε πολλοῖς τῶν νέων"
+        },
+        {
+          "form": "διαλεξόμεθα",
+          "lemma": "διαλέγομαι",
+          "location": "328a",
+          "context": "καὶ διαλεξόμεθα"
         }
       ],
-      "observation": "The local procession (πομπή) first appears as an object of viewing and then as the event from which the group has come."
+      "observation": "Polemarchus projects a sequence of future activities in first-person plural: rising after dinner, viewing the pannychis, being with the young men, and conversing (διαλεξόμεθα)."
     },
     {
       "signal_id": "s014",
@@ -297,19 +309,13 @@
       ],
       "elements": [
         {
-          "form": "ὄπισθεν",
+          "form": "λαμπάδια ἔχοντες διαδώσουσιν ἀλλήλοις ἁμιλλώμενοι τοῖς ἵπποις",
           "lemma": null,
-          "location": "327b",
-          "context": "μου ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου"
-        },
-        {
-          "form": "ὄπισθεν",
-          "lemma": null,
-          "location": "327b",
-          "context": "οὗτος, ἔφη, ὄπισθεν προσέρχεται"
+          "location": "328a",
+          "context": null
         }
       ],
-      "observation": "ὄπισθεν appears twice: once for the slave grabbing Socrates' cloak from behind, once for Polemarchus approaching from behind."
+      "observation": "The torch-relay on horseback (λαμπάδια + ἵπποις) is called καινόν by Socrates—something novel and unexpected."
     },
     {
       "signal_id": "s015",
@@ -318,67 +324,13 @@
       ],
       "elements": [
         {
-          "form": "μετεστράφην",
-          "lemma": "μεταστρέφω",
-          "location": "327b",
-          "context": "καὶ ἐγὼ μετεστράφην τε καὶ ἠρόμην ὅπου αὐτὸς εἴη"
-        }
-      ],
-      "observation": "Socrates turns around (μετεστράφην)—a physical reversal of direction at the moment of being stopped."
-    },
-    {
-      "signal_id": "s016",
-      "features": [
-        "semantic_cluster"
-      ],
-      "elements": [
-        {
-          "form": "παννυχίδα",
-          "lemma": "παννυχίς",
-          "location": "328a",
-          "context": "πρός γε παννυχίδα ποιήσουσιν"
-        },
-        {
-          "form": "παννυχίδα",
-          "lemma": "παννυχίς",
-          "location": "328a",
-          "context": "τὴν παννυχίδα θεασόμεθα"
-        },
-        {
-          "form": "μετὰ τὸ δεῖπνον",
+          "form": "ἐκαθεζόμεθα οὖν παρ᾽ αὐτόν· ἔκειντο γὰρ δίφροι τινὲς αὐτόθι κύκλῳ",
           "lemma": null,
-          "location": "328a",
-          "context": "ἐξαναστησόμεθα γὰρ μετὰ τὸ δεῖπνον"
-        },
-        {
-          "form": "διαλεξόμεθα",
-          "lemma": "διαλέγομαι",
-          "location": "328a",
-          "context": "συνεσόμεθά τε πολλοῖς τῶν νέων αὐτόθι καὶ διαλεξόμεθα"
+          "location": "328c",
+          "context": null
         }
       ],
-      "observation": "Polemarchus' inducements accumulate: all-night festival, dinner, conversation (διαλεξόμεθα) with young men—a projected evening sequence."
-    },
-    {
-      "signal_id": "s017",
-      "features": [
-        "other_textual_pattern"
-      ],
-      "elements": [
-        {
-          "form": "μενετέον",
-          "lemma": "μένω",
-          "location": "328b",
-          "context": "ἔοικεν, ἔφη, μενετέον εἶναι"
-        },
-        {
-          "form": "μένετ᾽",
-          "lemma": "μένω",
-          "location": "327c",
-          "context": "ἢ μένετ᾽ αὐτοῦ"
-        }
-      ],
-      "observation": "μένω first appears as one horn of Polemarchus' disjunction (μένετε) and returns as Glaucon's verbal adjective of necessity (μενετέον)."
+      "observation": "The section closes with the group sitting in a circle (κύκλῳ) of chairs around Cephalus."
     }
   ]
 }
