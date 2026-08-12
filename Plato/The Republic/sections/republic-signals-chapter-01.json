@@ -21,7 +21,7 @@
               "context": "κατέβην χθὲς εἰς Πειραιᾶ"
             }
           ],
-          "observation": "Explicit first-person downward movement into the Piraeus opens the narration."
+          "observation": "Explicit downward movement into the Piraeus opens the narration."
         },
         {
           "signal_id": "s002",
@@ -55,7 +55,7 @@
               "context": "τὴν παννυχίδα θεασόμεθα"
             }
           ],
-          "observation": "θεάομαι appears as the stated purpose of descent, and returns as inducement to stay; θεωρέω marks the completed viewing between them."
+          "observation": "Forms of θεάομαι frame the section: first as Socrates' stated purpose for descending, then as Polemarchus' inducement to stay; θεωρέω appears between them for the completed viewing of the procession."
         },
         {
           "signal_id": "s003",
@@ -89,33 +89,12 @@
               "context": "ἀλλὰ περιμενοῦμεν"
             }
           ],
-          "observation": "Forms of περιμένω recur densely as the command to wait passes from Polemarchus through the slave to Socrates and Glaucon's acceptance."
+          "observation": "περιμένω recurs four times in rapid succession, passing from Polemarchus' command through the slave to Socrates and Glaucon's compliance."
         },
         {
           "signal_id": "s004",
           "features": [
-            "changed_context_recurrence",
-            "directional_spatial_cluster"
-          ],
-          "elements": [
-            {
-              "form": "οἴκαδε",
-              "lemma": null,
-              "location": "327b",
-              "context": "ἡμᾶς οἴκαδε ὡρμημένους"
-            },
-            {
-              "form": "οἴκαδε",
-              "lemma": null,
-              "location": "328b",
-              "context": "ᾖμεν οὖν οἴκαδε εἰς τοῦ Πολεμάρχου"
-            }
-          ],
-          "observation": "οἴκαδε first describes Socrates heading toward his own home and then names arrival at Polemarchus' house."
-        },
-        {
-          "signal_id": "s005",
-          "features": [
+            "semantic_cluster",
             "local_contrast"
           ],
           "elements": [
@@ -126,19 +105,35 @@
               "context": "τὸ ἢν πείσωμεν ὑμᾶς ὡς χρὴ ἡμᾶς ἀφεῖναι"
             },
             {
-              "form": "μὴ ἀκούοντας",
-              "lemma": "ἀκούω",
+              "form": "πεῖσαι μὴ ἀκούοντας",
+              "lemma": "πείθω",
               "location": "327c",
-              "context": "πεῖσαι μὴ ἀκούοντας"
-            },
-            {
-              "form": "μὴ ἀκουσομένων",
-              "lemma": "ἀκούω",
-              "location": "327c",
-              "context": "ὡς τοίνυν μὴ ἀκουσομένων, οὕτω διανοεῖσθε"
+              "context": "ἦ καὶ δύναισθ᾽ ἄν, ἦ δ᾽ ὅς, πεῖσαι μὴ ἀκούοντας"
             }
           ],
-          "observation": "Socrates proposes persuading (πείσωμεν) as the remaining option; Polemarchus counters with the impossibility of persuading those who will not listen (μὴ ἀκούοντας), and Glaucon confirms they will not listen (μὴ ἀκουσομένων)."
+          "observation": "Socrates proposes persuading (πείσωμεν) as the remaining option; Polemarchus immediately blocks it with the condition μὴ ἀκούοντας, making persuasion impossible."
+        },
+        {
+          "signal_id": "s005",
+          "features": [
+            "directional_spatial_cluster",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "οἴκαδε ὡρμημένους",
+              "lemma": null,
+              "location": "327b",
+              "context": "κατιδὼν οὖν πόρρωθεν ἡμᾶς οἴκαδε ὡρμημένους"
+            },
+            {
+              "form": "οἴκαδε εἰς τοῦ Πολεμάρχου",
+              "lemma": null,
+              "location": "328b",
+              "context": "ᾖμεν οὖν οἴκαδε εἰς τοῦ Πολεμάρχου"
+            }
+          ],
+          "observation": "οἴκαδε first describes Socrates heading toward his own home; it returns naming arrival at Polemarchus' house instead."
         },
         {
           "signal_id": "s006",
@@ -153,35 +148,34 @@
               "context": "ἀπῇμεν πρὸς τὸ ἄστυ"
             },
             {
-              "form": "πρὸς ἄστυ",
+              "form": "πρὸς ἑσπέραν",
               "lemma": null,
-              "location": "327c",
-              "context": "ὡρμῆσθαι ὡς ἀπιόντες"
+              "location": "328a",
+              "context": "λαμπὰς ἔσται πρὸς ἑσπέραν"
             }
           ],
-          "observation": "Movement toward the ἄστυ (city/town) marks the intended return that is interrupted."
+          "observation": "πρὸς τὸ ἄστυ marks the intended direction of departure; πρὸς ἑσπέραν marks the time-direction of the evening event that prevents it."
         },
         {
           "signal_id": "s007",
           "features": [
-            "sequence_pattern",
             "other_textual_pattern"
           ],
           "elements": [
             {
-              "form": "ὁρᾷς",
-              "lemma": "ὁράω",
-              "location": "327c",
-              "context": "ὁρᾷς οὖν ἡμᾶς, ἔφη, ὅσοι ἐσμέν"
+              "form": "δραμόντα τὸν παῖδα",
+              "lemma": null,
+              "location": "327b",
+              "context": "ἐκέλευσε δραμόντα τὸν παῖδα περιμεῖναί ἑ κελεῦσαι"
             },
             {
-              "form": "κατιδὼν",
-              "lemma": "καθοράω",
+              "form": "ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου",
+              "lemma": null,
               "location": "327b",
-              "context": "κατιδὼν οὖν πόρρωθεν ἡμᾶς οἴκαδε ὡρμημένους"
+              "context": null
             }
           ],
-          "observation": "Polemarchus first sees (κατιδών) Socrates from afar; then asks Socrates to see (ὁρᾷς) how many they are—a reversal of who is seen and who sees."
+          "observation": "The slave (παῖς) runs forward at Polemarchus' command, then physically grasps Socrates' cloak from behind—a bodily detention."
         },
         {
           "signal_id": "s008",
@@ -190,13 +184,19 @@
           ],
           "elements": [
             {
-              "form": "κρείττους γένεσθε",
+              "form": "ἡ τῶν ἐπιχωρίων πομπὴ",
               "lemma": null,
-              "location": "327c",
-              "context": "ἢ τοίνυν τούτων κρείττους γένεσθε ἢ μένετ᾽ αὐτοῦ"
+              "location": "327a",
+              "context": "καλὴ μὲν οὖν μοι καὶ ἡ τῶν ἐπιχωρίων πομπὴ ἔδοξεν εἶναι"
+            },
+            {
+              "form": "ἣν οἱ Θρᾷκες ἔπεμπον",
+              "lemma": null,
+              "location": "327a",
+              "context": "οὐ μέντοι ἧττον ἐφαίνετο πρέπειν ἣν οἱ Θρᾷκες ἔπεμπον"
             }
           ],
-          "observation": "Polemarchus presents a disjunction between overpowering them (κρείττους γένεσθε) or remaining (μένετε)—force versus staying."
+          "observation": "The local procession is judged beautiful but the Thracian procession appears no less fitting—a comparison between native and foreign elements."
         },
         {
           "signal_id": "s009",
@@ -205,13 +205,13 @@
           ],
           "elements": [
             {
-              "form": "ἅτε νῦν πρῶτον ἄγοντες",
+              "form": "νῦν πρῶτον ἄγοντες",
               "lemma": null,
               "location": "327a",
-              "context": "τίνα τρόπον ποιήσουσιν ἅτε νῦν πρῶτον ἄγοντες"
+              "context": "ἅτε νῦν πρῶτον ἄγοντες"
             }
           ],
-          "observation": "The festival is marked as being held for the first time (νῦν πρῶτον), making the occasion novel."
+          "observation": "The festival is explicitly being held for the first time (νῦν πρῶτον)."
         },
         {
           "signal_id": "s010",
@@ -220,24 +220,45 @@
           ],
           "elements": [
             {
-              "form": "λαμπὰς",
-              "lemma": "λαμπάς",
+              "form": "μένετε",
+              "lemma": "μένω",
               "location": "328a",
-              "context": "λαμπὰς ἔσται πρὸς ἑσπέραν ἀφ᾽ ἵππων τῇ θεῷ"
+              "context": "ἀλλὰ μένετε"
             },
             {
-              "form": "λαμπάδια",
-              "lemma": "λαμπάδιον",
-              "location": "328a",
-              "context": "λαμπάδια ἔχοντες διαδώσουσιν ἀλλήλοις ἁμιλλώμενοι τοῖς ἵπποις"
+              "form": "μενετέον",
+              "lemma": "μένω",
+              "location": "328b",
+              "context": "ἔοικεν, ἔφη, μενετέον εἶναι"
+            },
+            {
+              "form": "μένετ᾽ αὐτοῦ",
+              "lemma": "μένω",
+              "location": "327c",
+              "context": "ἢ μένετ᾽ αὐτοῦ"
             }
           ],
-          "observation": "A torch-race on horseback is described: λαμπάς/λαμπάδια are passed between riders (διαδώσουσιν ἀλλήλοις), combining fire and relay."
+          "observation": "μένω appears alongside περιμένω as Polemarchus' demand; Glaucon's μενετέον (verbal adjective of necessity) marks the yielding."
         },
         {
           "signal_id": "s011",
           "features": [
             "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ὁράτε οὖν ἡμᾶς, ἔφη, ὅσοι ἐσμέν",
+              "lemma": null,
+              "location": "327c",
+              "context": null
+            }
+          ],
+          "observation": "Polemarchus draws attention to numerical superiority (ὅσοι ἐσμέν) as the ground for the constraint on Socrates."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "local_correspondence"
           ],
           "elements": [
             {
@@ -253,49 +274,40 @@
               "context": "τεθυκὼς γὰρ ἐτύγχανεν ἐν τῇ αὐλῇ"
             }
           ],
-          "observation": "Cephalus is found crowned (ἐστεφανωμένος) and having just sacrificed (τεθυκώς) in the courtyard—a ritual state upon arrival."
-        },
-        {
-          "signal_id": "s012",
-          "features": [
-            "intention_completion"
-          ],
-          "elements": [
-            {
-              "form": "προσευξόμενός",
-              "lemma": "προσεύχομαι",
-              "location": "327a",
-              "context": "προσευξόμενός τε τῇ θεῷ"
-            },
-            {
-              "form": "προσευξάμενοι",
-              "lemma": "προσεύχομαι",
-              "location": "327b",
-              "context": "προσευξάμενοι δὲ καὶ θεωρήσαντες"
-            }
-          ],
-          "observation": "The purpose of praying (προσευξόμενος, future participle) is completed by the aorist participle (προσευξάμενοι)."
+          "observation": "Cephalus is found crowned and seated, having just sacrificed in the courtyard—ritual state upon arrival."
         },
         {
           "signal_id": "s013",
           "features": [
-            "local_correspondence"
+            "sequence_pattern"
           ],
           "elements": [
             {
-              "form": "πομπὴ",
-              "lemma": "πομπή",
-              "location": "327a",
-              "context": "ἡ τῶν ἐπιχωρίων πομπὴ"
+              "form": "ἐξαναστησόμεθα",
+              "lemma": "ἐξανίστημι",
+              "location": "328a",
+              "context": "ἐξαναστησόμεθα γὰρ μετὰ τὸ δεῖπνον"
             },
             {
-              "form": "πομπῆς",
-              "lemma": "πομπή",
-              "location": "327c",
-              "context": "ὡς ἀπὸ τῆς πομπῆς"
+              "form": "θεασόμεθα",
+              "lemma": "θεάομαι",
+              "location": "328a",
+              "context": "καὶ τὴν παννυχίδα θεασόμεθα"
+            },
+            {
+              "form": "συνεσόμεθά",
+              "lemma": "σύνειμι",
+              "location": "328a",
+              "context": "καὶ συνεσόμεθά τε πολλοῖς τῶν νέων"
+            },
+            {
+              "form": "διαλεξόμεθα",
+              "lemma": "διαλέγομαι",
+              "location": "328a",
+              "context": "καὶ διαλεξόμεθα"
             }
           ],
-          "observation": "The local procession (πομπή) first appears as an object of viewing and then as the event from which the group has come."
+          "observation": "Polemarchus projects a sequence of future activities in first-person plural: rising after dinner, viewing the pannychis, being with the young men, and conversing (διαλεξόμεθα)."
         },
         {
           "signal_id": "s014",
@@ -304,19 +316,13 @@
           ],
           "elements": [
             {
-              "form": "ὄπισθεν",
+              "form": "λαμπάδια ἔχοντες διαδώσουσιν ἀλλήλοις ἁμιλλώμενοι τοῖς ἵπποις",
               "lemma": null,
-              "location": "327b",
-              "context": "μου ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου"
-            },
-            {
-              "form": "ὄπισθεν",
-              "lemma": null,
-              "location": "327b",
-              "context": "οὗτος, ἔφη, ὄπισθεν προσέρχεται"
+              "location": "328a",
+              "context": null
             }
           ],
-          "observation": "ὄπισθεν appears twice: once for the slave grabbing Socrates' cloak from behind, once for Polemarchus approaching from behind."
+          "observation": "The torch-relay on horseback (λαμπάδια + ἵπποις) is called καινόν by Socrates—something novel and unexpected."
         },
         {
           "signal_id": "s015",
@@ -325,13 +331,1612 @@
           ],
           "elements": [
             {
-              "form": "μετεστράφην",
-              "lemma": "μεταστρέφω",
-              "location": "327b",
-              "context": "καὶ ἐγὼ μετεστράφην τε καὶ ἠρόμην ὅπου αὐτὸς εἴη"
+              "form": "ἐκαθεζόμεθα οὖν παρ᾽ αὐτόν· ἔκειντο γὰρ δίφροι τινὲς αὐτόθι κύκλῳ",
+              "lemma": null,
+              "location": "328c",
+              "context": null
             }
           ],
-          "observation": "Socrates turns around (μετεστράφην)—a physical reversal of direction at the moment of being stopped."
+          "observation": "The section closes with the group sitting in a circle (κύκλῳ) of chairs around Cephalus."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-01-section-02",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "features": [
+            "directional_spatial_cluster",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "καταβαίνων",
+              "lemma": "καταβαίνω",
+              "location": "328c",
+              "context": "οὐδὲ θαμίζεις ἡμῖν καταβαίνων εἰς τὸν Πειραιᾶ"
+            },
+            {
+              "form": "πορεύεσθαι πρὸς τὸ ἄστυ",
+              "lemma": null,
+              "location": "328c",
+              "context": "τοῦ ῥᾳδίως πορεύεσθαι πρὸς τὸ ἄστυ"
+            },
+            {
+              "form": "δεῦρο ἰέναι",
+              "lemma": null,
+              "location": "328d",
+              "context": "σε χρὴ πυκνότερον δεῦρο ἰέναι"
+            }
+          ],
+          "observation": "Cephalus' speech contains a cluster of directional movement terms: descending to the Piraeus, traveling to the city, and coming 'here,' with the direction of travel reversing as he proposes Socrates should come to him rather than Cephalus going up."
+        },
+        {
+          "signal_id": "s002",
+          "features": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἡδοναὶ ἀπομαραίνονται",
+              "lemma": null,
+              "location": "328d",
+              "context": "αἱ κατὰ τὸ σῶμα ἡδοναὶ ἀπομαραίνονται"
+            },
+            {
+              "form": "αὔξονται αἱ περὶ τοὺς λόγους ἐπιθυμίαι τε καὶ ἡδοναί",
+              "lemma": null,
+              "location": "328d",
+              "context": null
+            }
+          ],
+          "observation": "Bodily pleasures wither (ἀπομαραίνονται) while desires and pleasures concerning λόγοι increase (αὔξονται)—an explicit inverse proportion."
+        },
+        {
+          "signal_id": "s003",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ὁδόν",
+              "lemma": "ὁδός",
+              "location": "328e",
+              "context": "ὥσπερ τινὰ ὁδὸν προεληλυθότων ἣν καὶ ἡμᾶς ἴσως δεήσει πορεύεσθαι"
+            },
+            {
+              "form": "τραχεῖα καὶ χαλεπή, ἢ ῥᾳδία καὶ εὔπορος",
+              "lemma": null,
+              "location": "328e",
+              "context": "ποία τίς ἐστιν, τραχεῖα καὶ χαλεπή, ἢ ῥᾳδία καὶ εὔπορος"
+            }
+          ],
+          "observation": "Socrates describes old age as a road (ὁδός) already traveled by the elderly, asking whether it is rough and difficult or easy and passable."
+        },
+        {
+          "signal_id": "s004",
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ῥᾳδίως",
+              "lemma": "ῥᾴδιος",
+              "location": "328c",
+              "context": "τοῦ ῥᾳδίως πορεύεσθαι πρὸς τὸ ἄστυ"
+            },
+            {
+              "form": "ῥᾳδία",
+              "lemma": "ῥᾴδιος",
+              "location": "328e",
+              "context": "ῥᾳδία καὶ εὔπορος"
+            },
+            {
+              "form": "ῥᾳδίως",
+              "lemma": "ῥᾴδιος",
+              "location": "329e",
+              "context": "ῥᾳδίως τὸ γῆρας φέρειν"
+            },
+            {
+              "form": "ῥᾳδίως",
+              "lemma": "ῥᾴδιος",
+              "location": "330a",
+              "context": "ῥᾳδίως γῆρας μετὰ πενίας ἐνέγκοι"
+            }
+          ],
+          "observation": "ῥᾴδιος recurs across multiple contexts: ease of physical travel, the road of old age, bearing old age, and bearing old age with poverty."
+        },
+        {
+          "signal_id": "s005",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "δεσπότην",
+              "lemma": "δεσπότης",
+              "location": "329c",
+              "context": "λυττῶντά τινα καὶ ἄγριον δεσπότην ἀποδράς"
+            },
+            {
+              "form": "δεσποτῶν",
+              "lemma": "δεσπότης",
+              "location": "329d",
+              "context": "δεσποτῶν πάνυ πολλῶν ἐστι καὶ μαινομένων ἀπηλλάχθαι"
+            }
+          ],
+          "observation": "Sophocles' image of fleeing a raging master (δεσπότην) is restated by Cephalus as release from many mad masters (δεσποτῶν... μαινομένων)."
+        },
+        {
+          "signal_id": "s006",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τρόπος",
+              "lemma": "τρόπος",
+              "location": "329d",
+              "context": "οὐ τὸ γῆρας, ὦ Σώκρατες, ἀλλὰ ὁ τρόπος τῶν ἀνθρώπων"
+            },
+            {
+              "form": "γῆρας",
+              "lemma": "γῆρας",
+              "location": "329d",
+              "context": null
+            }
+          ],
+          "observation": "Cephalus explicitly names τρόπος rather than γῆρας as the single cause (μία τις αἰτία) of difficulty in old age and relations with kin."
+        },
+        {
+          "signal_id": "s007",
+          "features": [
+            "semantic_cluster",
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "πάππου",
+              "lemma": "πάππος",
+              "location": "330b",
+              "context": "τοῦ τε πάππου καὶ τοῦ πατρός"
+            },
+            {
+              "form": "πάππος",
+              "lemma": "πάππος",
+              "location": "330b",
+              "context": "ὁ μὲν γὰρ πάππος τε καὶ ὁμώνυμος ἐμοὶ"
+            },
+            {
+              "form": "Λυσανίας δὲ ὁ πατήρ",
+              "lemma": null,
+              "location": "330b",
+              "context": null
+            },
+            {
+              "form": "καταλίπω",
+              "lemma": "καταλείπω",
+              "location": "330b",
+              "context": "ἐὰν μὴ ἐλάττω καταλίπω τούτοισιν"
+            },
+            {
+              "form": "παρέλαβον",
+              "lemma": "παραλαμβάνω",
+              "location": "330b",
+              "context": "πλείω ἢ παρέλαβον"
+            }
+          ],
+          "observation": "Three generations of wealth: grandfather multiplied it, father diminished it, Cephalus aims to leave (καταλίπω) slightly more than he received (παρέλαβον)—a cycle of inheritance with receiving and handing over."
+        },
+        {
+          "signal_id": "s008",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ποιηταὶ τὰ αὑτῶν ποιήματα",
+              "lemma": null,
+              "location": "330c",
+              "context": null
+            },
+            {
+              "form": "πατέρες τοὺς παῖδας",
+              "lemma": null,
+              "location": "330c",
+              "context": null
+            },
+            {
+              "form": "χρηματισάμενοι περὶ τὰ χρήματα",
+              "lemma": null,
+              "location": "330c",
+              "context": "ὡς ἔργον ἑαυτῶν"
+            }
+          ],
+          "observation": "Triple analogy: poets love their poems, fathers love their children, money-makers love their money as their own work (ἔργον ἑαυτῶν)."
+        },
+        {
+          "signal_id": "s009",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "παραδίδωμι ὑμῖν τὸν λόγον",
+              "lemma": "παραδίδωμι",
+              "location": "331d",
+              "context": null
+            },
+            {
+              "form": "κληρονόμος",
+              "lemma": "κληρονόμος",
+              "location": "331d",
+              "context": "τῶν γε σῶν κληρονόμος"
+            },
+            {
+              "form": "ᾔει πρὸς τὰ ἱερά",
+              "lemma": null,
+              "location": "331d",
+              "context": null
+            }
+          ],
+          "observation": "Cephalus hands over the λόγος (παραδίδωμι) and departs to the sacrifices; Polemarchus is named heir (κληρονόμος) of his argument, echoing the inheritance discussion."
+        },
+        {
+          "signal_id": "s010",
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιθυμίαι",
+              "lemma": "ἐπιθυμία",
+              "location": "328d",
+              "context": "αἱ περὶ τοὺς λόγους ἐπιθυμίαι"
+            },
+            {
+              "form": "ἐπιθυμίαι",
+              "lemma": "ἐπιθυμία",
+              "location": "329c",
+              "context": "ἐπειδὰν αἱ ἐπιθυμίαι παύσωνται κατατείνουσαι καὶ χαλάσωσιν"
+            }
+          ],
+          "observation": "ἐπιθυμίαι first names desires for conversation that grow in old age, then names the desires (sexual etc.) that cease and release one."
+        },
+        {
+          "signal_id": "s011",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "εἰσέρχεται αὐτῷ δέος καὶ φροντίς",
+              "lemma": null,
+              "location": "330d",
+              "context": "ἐπειδάν τις ἐγγὺς ᾖ τοῦ οἴεσθαι τελευτήσειν"
+            },
+            {
+              "form": "μῦθοι περὶ τῶν ἐν Ἅιδου",
+              "lemma": null,
+              "location": "330d",
+              "context": "ὡς τὸν ἐνθάδε ἀδικήσαντα δεῖ ἐκεῖ διδόναι δίκην"
+            },
+            {
+              "form": "ὑποψίας... καὶ δείματος μεστός",
+              "lemma": null,
+              "location": "330e",
+              "context": null
+            }
+          ],
+          "observation": "Near death, fear (δέος) enters; myths about Hades and paying penalty (διδόναι δίκην) that were previously laughed at (καταγελώμενοι) now torment the soul."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἀποδιδόναι",
+              "lemma": "ἀποδίδωμι",
+              "location": "331c",
+              "context": "τὸ ἀποδιδόναι ἄν τίς τι παρά του λάβῃ"
+            },
+            {
+              "form": "ὀφείλοντα",
+              "lemma": "ὀφείλω",
+              "location": "331b",
+              "context": "μηδ᾽ αὖ ὀφείλοντα ἢ θεῷ θυσίας τινὰς ἢ ἀνθρώπῳ χρήματα"
+            },
+            {
+              "form": "ὅπλα",
+              "lemma": "ὅπλον",
+              "location": "331c",
+              "context": "λάβοι παρὰ φίλου ἀνδρὸς σωφρονοῦντος ὅπλα, εἰ μανεὶς ἀπαιτοῖ"
+            }
+          ],
+          "observation": "Socrates tests the definition of justice as returning what one has received (ἀποδιδόναι) with the counterexample of returning weapons (ὅπλα) to a madman—connecting owing (ὀφείλοντα) to gods and men with the problem of returning."
+        },
+        {
+          "signal_id": "s013",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "γελάσας",
+              "lemma": "γελάω",
+              "location": "331d",
+              "context": "ἦ δ᾽ ὃς γελάσας, καὶ ἅμα ᾔει πρὸς τὰ ἱερά"
+            }
+          ],
+          "observation": "Cephalus departs laughing (γελάσας) and simultaneously (ἅμα) going toward the sacred rites—his exit combines laughter with movement toward sacrifice."
+        },
+        {
+          "signal_id": "s014",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἐξαπατῆσαι ἢ ψεύσασθαι",
+              "lemma": null,
+              "location": "331b",
+              "context": "τὸ γὰρ μηδὲ ἄκοντά τινα ἐξαπατῆσαι ἢ ψεύσασθαι"
+            },
+            {
+              "form": "ἀληθῆ λέγειν",
+              "lemma": null,
+              "location": "331c",
+              "context": "τὴν ἀλήθειαν αὐτὸ φήσομεν εἶναι"
+            },
+            {
+              "form": "τἀληθῆ λέγειν",
+              "lemma": null,
+              "location": "331c",
+              "context": "πρὸς τὸν οὕτως ἔχοντα πάντα ἐθέλων τἀληθῆ λέγειν"
+            }
+          ],
+          "observation": "Truth-telling (ἀλήθεια) appears both as a candidate definition of justice and as something that should sometimes be withheld—the same act is both just and unjust."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-01-section-03",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "features": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ὀφειλόμενα",
+              "lemma": "ὀφείλω",
+              "location": "331e",
+              "context": "τὸ τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι δίκαιόν ἐστι"
+            },
+            {
+              "form": "ὀφειλομένον",
+              "lemma": "ὀφείλω",
+              "location": "332a",
+              "context": "τὸ τὰ ὀφειλόμενα δίκαιον εἶναι ἀποδιδόναι"
+            },
+            {
+              "form": "ὀφείλειν",
+              "lemma": "ὀφείλω",
+              "location": "332a",
+              "context": "τοῖς γὰρ φίλοις οἴεται ὀφείλειν τοὺς φίλους ἀγαθόν"
+            },
+            {
+              "form": "ὀφειλόμενα",
+              "lemma": "ὀφείλω",
+              "location": "332a",
+              "context": "οὐ τὰ ὀφειλόμενα ἀποδιδόναι"
+            },
+            {
+              "form": "ὀφείλεται",
+              "lemma": "ὀφείλω",
+              "location": "332b",
+              "context": "ὅ γε ὀφείλεται αὐτοῖς"
+            },
+            {
+              "form": "ὀφειλόμενον",
+              "lemma": "ὀφείλω",
+              "location": "332b",
+              "context": "ὅτι ἂν τύχῃ ὀφειλόμενον"
+            },
+            {
+              "form": "ὀφείλεσθαι",
+              "lemma": "ὀφείλω",
+              "location": "335e",
+              "context": "τοῖς μὲν ἐχθροῖς βλάβην ὀφείλεσθαι"
+            }
+          ],
+          "observation": "Forms of ὀφείλω recur densely throughout the section, marking the contested content of justice as owing/being-owed."
+        },
+        {
+          "signal_id": "s002",
+          "features": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἀποδιδόναι",
+              "lemma": "ἀποδίδωμι",
+              "location": "331e",
+              "context": null
+            },
+            {
+              "form": "ἀποδιδόναι",
+              "lemma": "ἀποδίδωμι",
+              "location": "332a",
+              "context": null
+            },
+            {
+              "form": "ἀποδιδοῦσα",
+              "lemma": "ἀποδίδωμι",
+              "location": "332c",
+              "context": "ἡ τίσιν οὖν τί ἀποδιδοῦσα τέχνη"
+            },
+            {
+              "form": "ἀποδοτέον",
+              "lemma": "ἀποδίδωμι",
+              "location": "332a",
+              "context": "ἀποδοτέον δέ γε οὐδʼ ὁπωστιοῦν τότε"
+            },
+            {
+              "form": "ἀπόδοσις",
+              "lemma": "ἀπόδοσις",
+              "location": "332b",
+              "context": "ἐάνπερ ἡ ἀπόδοσις καὶ ἡ λῆψις βλαβερὰ γίγνηται"
+            }
+          ],
+          "observation": "Forms of ἀποδίδωμι and the noun ἀπόδοσις recur as the action that defines justice—giving back what is owed."
+        },
+        {
+          "signal_id": "s003",
+          "features": [
+            "local_contrast",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "φίλους",
+              "lemma": "φίλος",
+              "location": "332a",
+              "context": "τοῖς γὰρ φίλοις οἴεται ὀφείλειν τοὺς φίλους ἀγαθόν μέν τι δρᾶν"
+            },
+            {
+              "form": "ἐχθροῖς",
+              "lemma": "ἐχθρός",
+              "location": "332b",
+              "context": "τοῖς ἐχθροῖς ἀποδοτέον ὅτι ἂν τύχῃ ὀφειλόμενον"
+            },
+            {
+              "form": "φίλους",
+              "lemma": "φίλος",
+              "location": "334e",
+              "context": "δίκαιον εἶναι τοὺς μὲν φίλους βλάπτειν"
+            },
+            {
+              "form": "ἐχθρούς",
+              "lemma": "ἐχθρός",
+              "location": "334e",
+              "context": "τοὺς δʼ ἐχθροὺς ὠφελεῖν"
+            }
+          ],
+          "observation": "The φίλος/ἐχθρός pair structures the argument and undergoes reversal: what begins as helping friends and harming enemies inverts into harming friends and helping enemies for those who misjudge."
+        },
+        {
+          "signal_id": "s004",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κληρονόμος",
+              "lemma": "κληρονόμος",
+              "location": "331e",
+              "context": "σὺ ὁ τοῦ λόγου κληρονόμος"
+            }
+          ],
+          "observation": "Socrates addresses Polemarchus as 'heir of the argument' (τοῦ λόγου κληρονόμος), transferring the logos from Cephalus to Polemarchus as an inheritance."
+        },
+        {
+          "signal_id": "s005",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ᾐνίξατο",
+              "lemma": "αἰνίσσομαι",
+              "location": "332b",
+              "context": "ᾐνίξατο ἄρα ὡς ἔοικεν ὁ Σιμωνίδης ποιητικῶς τὸ δίκαιον"
+            },
+            {
+              "form": "ποιητικῶς",
+              "lemma": "ποιητικός",
+              "location": "332b",
+              "context": null
+            }
+          ],
+          "observation": "Socrates says Simonides spoke 'poetically in riddles' (ᾐνίξατο ... ποιητικῶς) about justice, characterizing the poet's speech as requiring interpretation."
+        },
+        {
+          "signal_id": "s006",
+          "features": [
+            "semantic_cluster",
+            "syntactic_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "τέχνη ἰατρική",
+              "lemma": null,
+              "location": "332c",
+              "context": "ἡ τίσιν οὖν τί ἀποδιδοῦσα ... τέχνη ἰατρικὴ καλεῖται"
+            },
+            {
+              "form": "μαγειρική",
+              "lemma": "μαγειρικός",
+              "location": "332c",
+              "context": "τέχνη μαγειρικὴ καλεῖται"
+            },
+            {
+              "form": "δικαιοσύνη",
+              "lemma": "δικαιοσύνη",
+              "location": "332d",
+              "context": "ἡ οὖν δὴ τίσιν τί ἀποδιδοῦσα τέχνη δικαιοσύνη ἂν καλοῖτο"
+            }
+          ],
+          "observation": "A repeated syntactic frame—ἡ τίσιν τί ἀποδιδοῦσα τέχνη X καλεῖται—applies first to medicine, then cookery, then justice, pressing justice to identify its specific recipients and products."
+        },
+        {
+          "signal_id": "s007",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "χρήσιμον",
+              "lemma": "χρήσιμος",
+              "location": "333a",
+              "context": "χρήσιμον ἄρα καὶ ἐν εἰρήνῃ δικαιοσύνη"
+            },
+            {
+              "form": "ἄχρηστον",
+              "lemma": "ἄχρηστος",
+              "location": "333c",
+              "context": "ὅταν ἄρα ἄχρηστον ᾖ ἀργύριον, τότε χρήσιμος ἐπʼ αὐτῷ ἡ δικαιοσύνη"
+            }
+          ],
+          "observation": "Justice is called χρήσιμον in peace but then shown to be useful (χρήσιμος) only when money is ἄχρηστον—i.e., only in non-use—creating a paradox of uselessness in use."
+        },
+        {
+          "signal_id": "s008",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "παρακαταθεμένου",
+              "lemma": "παρακατατίθημι",
+              "location": "331e",
+              "context": "τό τινος παρακαταθεμένου τι ὁτῳοῦν μὴ σωφρόνως ἀπαιτοῦντι ἀποδιδόναι"
+            },
+            {
+              "form": "παρακατέθετο",
+              "lemma": "παρακατατίθημι",
+              "location": "332a",
+              "context": "ὀφειλομένον πού ἐστιν τοῦτο ὃ παρεκατέθετο"
+            },
+            {
+              "form": "παρακαταθέσθαι",
+              "lemma": "παρακατατίθημι",
+              "location": "333c",
+              "context": "ὅταν παρακαταθέσθαι καὶ σῶν εἶναι"
+            }
+          ],
+          "observation": "Forms of παρακατατίθημι (deposit/entrust) recur, connecting the initial counter-example of the madman's deposit to the later conclusion that justice is useful only for safekeeping."
+        },
+        {
+          "signal_id": "s009",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κλέπτης",
+              "lemma": "κλέπτης",
+              "location": "334a",
+              "context": "κλέπτης ἄρα τις ὁ δίκαιος ἀναπέφανται"
+            },
+            {
+              "form": "κλεπτοσύνῃ",
+              "lemma": "κλεπτοσύνη",
+              "location": "334b",
+              "context": "πάντας ἀνθρώπους κεκάσθαι κλεπτοσύνῃ θʼ ὅρκῳ τε"
+            },
+            {
+              "form": "κλεπτική",
+              "lemma": "κλεπτικός",
+              "location": "334b",
+              "context": "ἡ δικαιοσύνη ... κλεπτική τις εἶναι"
+            }
+          ],
+          "observation": "The just person is revealed as a thief (κλέπτης ἀναπέφανται), linked via Homer's Autolycus (κλεπτοσύνῃ) to the conclusion that justice is a κλεπτική—a stealing art."
+        },
+        {
+          "signal_id": "s010",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "Αὐτόλυκον",
+              "lemma": "Αὐτόλυκος",
+              "location": "334b",
+              "context": "τὸν τοῦ Ὀδυσσέως πρὸς μητρὸς πάππον Αὐτόλυκον"
+            },
+            {
+              "form": "Ὁμήρου",
+              "lemma": "Ὅμηρος",
+              "location": "334a",
+              "context": "κινδυνεύεις παρʼ Ὁμήρου μεμαθηκέναι αὐτό"
+            }
+          ],
+          "observation": "Socrates attributes the thief-as-just-man idea to Homer, citing Odysseus' maternal grandfather Autolycus as surpassing all in thievery and oath."
+        },
+        {
+          "signal_id": "s011",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "βλαπτόμενοι",
+              "lemma": "βλάπτω",
+              "location": "335b",
+              "context": "βλαπτόμενοι δʼ ἵπποι βελτίους ἢ χείρους γίγνονται"
+            },
+            {
+              "form": "ἀρετήν",
+              "lemma": "ἀρετή",
+              "location": "335b",
+              "context": "εἰς τὴν τῶν ἵππων ἀρετήν"
+            },
+            {
+              "form": "ἀνθρωπείαν ἀρετήν",
+              "lemma": null,
+              "location": "335c",
+              "context": "βλαπτομένους εἰς τὴν ἀνθρωπείαν ἀρετὴν χείρους γίγνεσθαι"
+            }
+          ],
+          "observation": "The analogy moves from horses and dogs to humans: harming (βλάπτω) makes each worse with respect to its own ἀρετή, and human ἀρετή is identified as δικαιοσύνη."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "syntactic_parallel"
+          ],
+          "elements": [
+            {
+              "form": "τῇ μουσικῇ οἱ μουσικοὶ ἀμούσους δύνανται ποιεῖν",
+              "lemma": null,
+              "location": "335c",
+              "context": null
+            },
+            {
+              "form": "τῇ ἱππικῇ οἱ ἱππικοὶ ἀφίππους",
+              "lemma": null,
+              "location": "335c",
+              "context": null
+            },
+            {
+              "form": "τῇ δικαιοσύνῃ δὴ οἱ δίκαιοι ἀδίκους",
+              "lemma": null,
+              "location": "335c",
+              "context": null
+            }
+          ],
+          "observation": "Three parallel questions—can the musical make unmusical by music, horsemen make unhorsemen by horsemanship, the just make unjust by justice—all answered negatively, establishing that no excellence produces its opposite."
+        },
+        {
+          "signal_id": "s013",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "θερμότητος",
+              "lemma": "θερμότης",
+              "location": "335d",
+              "context": "οὐ γὰρ θερμότητος οἶμαι ἔργον ψύχειν ἀλλὰ τοῦ ἐναντίου"
+            },
+            {
+              "form": "ξηρότητος",
+              "lemma": "ξηρότης",
+              "location": "335d",
+              "context": "οὐδὲ ξηρότητος ὑγραίνειν ἀλλὰ τοῦ ἐναντίου"
+            }
+          ],
+          "observation": "Physical contraries (hot/cold, dry/wet) serve as analogues: harming is not the work of the good, just as cooling is not the work of heat."
+        },
+        {
+          "signal_id": "s014",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "Περιάνδρου",
+              "lemma": "Περίανδρος",
+              "location": "336a",
+              "context": null
+            },
+            {
+              "form": "Περδίκκου",
+              "lemma": "Περδίκκας",
+              "location": "336a",
+              "context": null
+            },
+            {
+              "form": "Ξέρξου",
+              "lemma": "Ξέρξης",
+              "location": "336a",
+              "context": null
+            },
+            {
+              "form": "Ἰσμηνίου τοῦ Θηβαίου",
+              "lemma": null,
+              "location": "336a",
+              "context": null
+            }
+          ],
+          "observation": "Socrates attributes the maxim 'help friends, harm enemies' not to a wise man but to a wealthy powerful man—Periander, Perdiccas, Xerxes, or Ismenias the Theban—a list of tyrants and rich men."
+        },
+        {
+          "signal_id": "s015",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "μαχούμεθα",
+              "lemma": "μάχομαι",
+              "location": "335e",
+              "context": "μαχούμεθα ἄρα κοινῇ ἐγώ τε καὶ σύ"
+            },
+            {
+              "form": "κοινωνεῖν τῆς μάχης",
+              "lemma": null,
+              "location": "335e",
+              "context": "ἐγὼ γοῦν ἕτοιμός εἰμι κοινωνεῖν τῆς μάχης"
+            }
+          ],
+          "observation": "Socrates proposes joint combat (μαχούμεθα κοινῇ) against anyone who attributes the maxim to a wise man, and Polemarchus declares readiness to share in the fight (κοινωνεῖν τῆς μάχης)—a military alliance between interlocutors."
+        },
+        {
+          "signal_id": "s016",
+          "features": [
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "δοκοῦντας",
+              "lemma": "δοκέω",
+              "location": "334c",
+              "context": "φίλους δὲ λέγεις εἶναι πότερον τοὺς δοκοῦντας ἑκάστῳ χρηστοὺς εἶναι"
+            },
+            {
+              "form": "ὄντας",
+              "lemma": "εἰμί",
+              "location": "334c",
+              "context": "ἢ τοὺς ὄντας, κἂν μὴ δοκῶσι"
+            },
+            {
+              "form": "δοκοῦντά τε ... καὶ τὸν ὄντα",
+              "lemma": null,
+              "location": "334e",
+              "context": "τὸν δοκοῦντά τε καὶ τὸν ὄντα χρηστὸν φίλον"
+            }
+          ],
+          "observation": "The contrast between δοκοῦντας (seeming) and ὄντας (being) structures the revision of who counts as friend/enemy, moving from appearance-based to reality-based definition."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-01-section-04",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ὥσπερ θηρίον",
+              "lemma": "θηρίον",
+              "location": "336b",
+              "context": "συστρέψας ἑαυτὸν ὥσπερ θηρίον ἧκεν ἐφʼ ἡμᾶς ὡς διαρπασόμενος"
+            }
+          ],
+          "observation": "Thrasymachus is compared to a wild beast crouching and springing to tear apart its prey."
+        },
+        {
+          "signal_id": "s002",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "δείσαντες",
+              "lemma": "δείδω",
+              "location": "336b",
+              "context": "ἐγώ τε καὶ ὁ Πολέμαρχος δείσαντες διεπτοήθημεν"
+            },
+            {
+              "form": "ἐφοβούμην",
+              "lemma": "φοβέω",
+              "location": "336d",
+              "context": "προσβλέπων αὐτὸν ἐφοβούμην"
+            },
+            {
+              "form": "ἄφωνος",
+              "lemma": "ἄφωνος",
+              "location": "336d",
+              "context": "ἄφωνος ἂν γενέσθαι"
+            }
+          ],
+          "observation": "A cluster of fear-language: Socrates and Polemarchus are frightened, Socrates fears looking at Thrasymachus, and says he would have become speechless."
+        },
+        {
+          "signal_id": "s003",
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀποκρίνασθαι",
+              "lemma": "ἀποκρίνομαι",
+              "location": "336c",
+              "context": "αὐτὸς ἀπόκρινai καὶ εἰπὲ τί φῂς εἶναι τὸ δίκαιον"
+            },
+            {
+              "form": "ἀποκρίνασθαι",
+              "lemma": "ἀποκρίνομαι",
+              "location": "337a",
+              "context": "σὺ ἀποκρίνασθαι μὲν οὐκ ἐθελήσοις"
+            },
+            {
+              "form": "ἀποκρινόμενος",
+              "lemma": "ἀποκρίνομαι",
+              "location": "338a",
+              "context": "ἐμοί τε χαρίζου ἀποκρινόμενος"
+            },
+            {
+              "form": "ἀποκρινόμενον",
+              "lemma": "ἀποκρίνομαι",
+              "location": "338a",
+              "context": "πρὸς τὸ ἐμὲ εἶναι τὸν ἀποκρινόμενον"
+            }
+          ],
+          "observation": "Forms of ἀποκρίνομαι recur densely as the contested action—who will answer and who will ask is the central dispute between Thrasymachus and Socrates."
+        },
+        {
+          "signal_id": "s004",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐρωτᾶν",
+              "lemma": "ἐρωτάω",
+              "location": "336c",
+              "context": "ῥᾷον ἐρωτᾶν ἢ ἀποκρίνεσθαι"
+            },
+            {
+              "form": "ἀποκρίνεσθαι",
+              "lemma": "ἀποκρίνομαι",
+              "location": "336c",
+              "context": null
+            }
+          ],
+          "observation": "Thrasymachus states that asking is easier than answering, establishing a contrast between the two roles that becomes the subject of negotiation."
+        },
+        {
+          "signal_id": "s005",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "εἰς τὸ μέσον",
+              "lemma": null,
+              "location": "336b",
+              "context": "ὁ δʼ εἰς τὸ μέσον φθεγξάμενος"
+            }
+          ],
+          "observation": "Thrasymachus speaks 'into the middle'—a spatial detail marking his forceful entry into the conversation."
+        },
+        {
+          "signal_id": "s006",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "φλυαρία",
+              "lemma": "φλυαρία",
+              "location": "336b",
+              "context": "τίς ὑμᾶς πάλαι φλυαρία ἔχει"
+            },
+            {
+              "form": "φλυαρῇς",
+              "lemma": "φλυαρέω",
+              "location": "337b",
+              "context": "ἐὰν τοιαῦτα φλυαρῇς"
+            },
+            {
+              "form": "ὕθλους",
+              "lemma": "ὖθλος",
+              "location": "336d",
+              "context": "οὐκ ἀποδέξομαι ἐὰν ὕθλους τοιούτους λέγῃς"
+            }
+          ],
+          "observation": "Thrasymachus uses dismissive terms for nonsense (φλυαρία, ὕθλους, φλυαρῇς) to characterize the prior conversation."
+        },
+        {
+          "signal_id": "s007",
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "χρυσίον",
+              "lemma": "χρυσίον",
+              "location": "336e",
+              "context": "εἰ μὲν χρυσίον ἐζητοῦμεν"
+            },
+            {
+              "form": "δικαιοσύνην",
+              "lemma": "δικαιοσύνη",
+              "location": "336e",
+              "context": "δικαιοσύνην δὲ ζητοῦντας, πρᾶγμα πολλῶν χρυσίων τιμιώτερον"
+            }
+          ],
+          "observation": "Socrates compares the search for justice to searching for gold, stating justice is worth more than many golds."
+        },
+        {
+          "signal_id": "s008",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "πρότερος ἑωράκη αὐτὸν ἢ ἐκεῖνος ἐμέ",
+              "lemma": null,
+              "location": "336d",
+              "context": null
+            }
+          ],
+          "observation": "Socrates says he looked at Thrasymachus before Thrasymachus looked at him—a prior seeing that enabled speech rather than speechlessness."
+        },
+        {
+          "signal_id": "s009",
+          "features": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "εἰρωνεία",
+              "lemma": "εἰρωνεία",
+              "location": "337a",
+              "context": "αὕτη ʼκείνη ἡ εἰωθυῖα εἰρωνεία Σωκράτους"
+            },
+            {
+              "form": "εἰρωνεύσοιο",
+              "lemma": "εἰρωνεύομαι",
+              "location": "337a",
+              "context": "εἰρωνεύσοιο δὲ καὶ πάντα μᾶλλον ποιήσοις ἢ ἀποκρινοῖο"
+            }
+          ],
+          "observation": "Thrasymachus names Socrates' εἰρωνεία as habitual (εἰωθυῖα) and predicted (προὔλεγον), using both noun and verb."
+        },
+        {
+          "signal_id": "s010",
+          "features": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "διδάσκειν",
+              "lemma": "διδάσκω",
+              "location": "338b",
+              "context": "αὐτὸν μὲν μὴ ἐθέλειν διδάσκειν"
+            },
+            {
+              "form": "μανθάνειν",
+              "lemma": "μανθάνω",
+              "location": "338b",
+              "context": "παρὰ δὲ τῶν ἄλλων περιιόντα μανθάνειν"
+            },
+            {
+              "form": "χάριν ἀποδιδόναι",
+              "lemma": null,
+              "location": "338b",
+              "context": "τούτων μηδὲ χάριν ἀποδιδόναι"
+            }
+          ],
+          "observation": "Thrasymachus accuses Socrates of learning from others without teaching and without giving back gratitude—a triad of teaching, learning, and non-reciprocation."
+        },
+        {
+          "signal_id": "s011",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐκτίνω",
+              "lemma": "ἐκτίνω",
+              "location": "338b",
+              "context": "ἐκτίνω γὰρ ὅσην δύναμαι"
+            },
+            {
+              "form": "ἐπαινεῖν μόνον",
+              "lemma": null,
+              "location": "338b",
+              "context": "δύναμαι δὲ ἐπαινεῖν μόνον· χρήματα γὰρ οὐκ ἔχω"
+            }
+          ],
+          "observation": "Socrates says he pays back what he can—praise only, since he has no money. Payment is limited to ἐπαινεῖν."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὰ δώδεκα",
+              "lemma": "δώδεκα",
+              "location": "337a-b",
+              "context": "ὁπόσα ἐστὶν τὰ δώδεκα... δὶς ἓξ μηδʼ ὅτι τρὶς τέτταρα μηδʼ ὅτι ἑξάκις δύο μηδʼ ὅτι τετράκις τρία"
+            }
+          ],
+          "observation": "Socrates offers an analogy: if asked what twelve is, one cannot be forbidden from giving true answers (twice six, three fours, six twos, four threes) simply because the questioner prohibits them."
+        },
+        {
+          "signal_id": "s013",
+          "features": [
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἀργύριον",
+              "lemma": "ἀργύριον",
+              "location": "337d",
+              "context": "πρὸς τῷ μαθεῖν καὶ ἀπότεισον ἀργύριον"
+            },
+            {
+              "form": "ἔστιν",
+              "lemma": "εἰμί",
+              "location": "337d",
+              "context": "ἀλλὰ ἔστιν, ἔφη ὁ Γλαύκων"
+            },
+            {
+              "form": "εἰσοίσομεν",
+              "lemma": "εἰσφέρω",
+              "location": "337d",
+              "context": "πάντες γὰρ ἡμεῖς Σωκράτει εἰσοίσομεν"
+            }
+          ],
+          "observation": "Thrasymachus demands money in addition to learning; Glaucon intervenes offering that all present will contribute (εἰσοίσομεν) on Socrates' behalf."
+        },
+        {
+          "signal_id": "s014",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὸ τοῦ κρείττονος συμφέρον",
+              "lemma": null,
+              "location": "338c",
+              "context": "φημὶ γὰρ ἐγὼ εἶναι τὸ δίκαιον οὐκ ἄλλο τι ἢ τὸ τοῦ κρείττονος συμφέρον"
+            }
+          ],
+          "observation": "Thrasymachus' definition: the just is nothing other than the advantage of the stronger."
+        },
+        {
+          "signal_id": "s015",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐπαινεῖς",
+              "lemma": "ἐπαινέω",
+              "location": "338c",
+              "context": "ἀλλὰ τί οὐκ ἐπαινεῖς; ἀλλὰ οὐκ ἐθελήσεις"
+            }
+          ],
+          "observation": "Immediately after stating his definition, Thrasymachus demands praise—and predicts Socrates will refuse it."
+        },
+        {
+          "signal_id": "s016",
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ὑποκατακλινόμενοι",
+              "lemma": "ὑποκατακλίνω",
+              "location": "336c",
+              "context": "τί εὐηθίζεσθε πρὸς ἀλλήλους ὑποκατακλινόμενοι ὑμῖν αὐτοῖς"
+            },
+            {
+              "form": "ὑποκατακλίνεσθαι",
+              "lemma": "ὑποκατακλίνω",
+              "location": "336e",
+              "context": "οὐκ ἄν ποτε ἡμᾶς ἑκόντας εἶναι ὑποκατακλίνεσθαι ἀλλήλοις"
+            }
+          ],
+          "observation": "ὑποκατακλίνω (yielding/deferring) appears first as Thrasymachus' accusation, then is echoed by Socrates in the gold analogy—the same word reapplied."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-01-section-05",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "features": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "συμφέρον",
+              "lemma": "συμφέρον",
+              "location": "338c",
+              "context": "τὸ τοῦ κρείττονος φῂς συμφέρον δίκαιον εἶναι"
+            },
+            {
+              "form": "συμφέρει",
+              "lemma": "συμφέρω",
+              "location": "338c",
+              "context": "αὐτῷ συμφέρει τὰ βόεια κρέα"
+            },
+            {
+              "form": "συμφέρον",
+              "lemma": "συμφέρον",
+              "location": "338d",
+              "context": "πρὸς τὸ αὑτῇ συμφέρον"
+            },
+            {
+              "form": "συμφέροντά",
+              "lemma": "συμφέρον",
+              "location": "339c",
+              "context": "τὸ τὰ συμφέροντά ἐστι τίθεσθαι ἑαυτοῖς"
+            },
+            {
+              "form": "ἀσύμφορα",
+              "lemma": "ἀσύμφορος",
+              "location": "339e",
+              "context": "τὸ ἀσύμφορα ποιεῖν τοῖς ἄρχουσί τε καὶ κρείττοσι"
+            },
+            {
+              "form": "συμφέρον",
+              "lemma": "συμφέρον",
+              "location": "341d",
+              "context": "ἐπὶ τῷ τὸ συμφέρον ἑκάστῳ ζητεῖν τε καὶ ἐκπορίζειν"
+            },
+            {
+              "form": "συμφέρον",
+              "lemma": "συμφέρον",
+              "location": "342e",
+              "context": "τὸ αὑτῷ συμφέρον σκοπεῖ οὐδʼ ἐπιτάττει"
+            }
+          ],
+          "observation": "Forms of συμφέρω/συμφέρον appear with extreme density throughout the section, shifting from the ruler's advantage to the ruled's advantage as the craft analogy develops."
+        },
+        {
+          "signal_id": "s002",
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "κρείττονος",
+              "lemma": "κρείττων",
+              "location": "338c",
+              "context": "τὸ τοῦ κρείττονος συμφέρον"
+            },
+            {
+              "form": "κρείττων",
+              "lemma": "κρείττων",
+              "location": "338c",
+              "context": "Πουλυδάμας ἡμῶν κρείττων ὁ παγκρατιαστής"
+            },
+            {
+              "form": "κρείττονος",
+              "lemma": "κρείττων",
+              "location": "339a",
+              "context": "τὸ τοῦ κρείττονος συμφέρον"
+            },
+            {
+              "form": "κρείττους",
+              "lemma": "κρείττων",
+              "location": "340b",
+              "context": "τοὺς κρείττους τὰ αὑτοῖς ἀσύμφορα κελεύειν"
+            },
+            {
+              "form": "κρείττονος",
+              "lemma": "κρείττων",
+              "location": "342c",
+              "context": "τὸ τοῦ κρείττονος συμφέρον σκοπεῖ οὐδʼ ἐπιτάττει"
+            }
+          ],
+          "observation": "κρείττων recurs throughout as the pivotal term; its first appearance links to physical strength (Polydamas the pancratiast) and thereafter exclusively to political rule."
+        },
+        {
+          "signal_id": "s003",
+          "features": [
+            "semantic_cluster",
+            "syntactic_parallel"
+          ],
+          "elements": [
+            {
+              "form": "ἰατρόν",
+              "lemma": "ἰατρός",
+              "location": "340d",
+              "context": "ἰατρὸν καλεῖς σὺ τὸν ἐξαμαρτάνοντα περὶ τοὺς κάμνοντας"
+            },
+            {
+              "form": "λογιστικόν",
+              "lemma": "λογιστικός",
+              "location": "340d",
+              "context": "ἢ λογιστικόν, ὃς ἂν ἐν λογισμῷ ἁμαρτάνῃ"
+            },
+            {
+              "form": "γραμματιστής",
+              "lemma": "γραμματιστής",
+              "location": "340d",
+              "context": "ὁ γραμματιστής"
+            }
+          ],
+          "observation": "Thrasymachus introduces a series of craftsmen—ἰατρός, λογιστικός, γραμματιστής—in parallel to argue that insofar as each is what we call them, they do not err."
+        },
+        {
+          "signal_id": "s004",
+          "features": [
+            "lexical_family",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἐξαμαρτάνοντα",
+              "lemma": "ἐξαμαρτάνω",
+              "location": "340c",
+              "context": "κρείττω με οἴει καλεῖν τὸν ἐξαμαρτάνοντα"
+            },
+            {
+              "form": "ἁμαρτάνῃ",
+              "lemma": "ἁμαρτάνω",
+              "location": "340d",
+              "context": "ἐν λογισμῷ ἁμαρτάνῃ"
+            },
+            {
+              "form": "ἐξήμαρτεν",
+              "lemma": "ἐξαμαρτάνω",
+              "location": "340d",
+              "context": "ὁ ἰατρὸς ἐξήμαρτεν καὶ ὁ λογιστὴς ἐξήμαρτεν"
+            },
+            {
+              "form": "ἁμαρτάνει",
+              "lemma": "ἁμαρτάνω",
+              "location": "340e",
+              "context": "οὐδέποτε ἁμαρτάνει"
+            },
+            {
+              "form": "ἁμαρτάνων",
+              "lemma": "ἁμαρτάνω",
+              "location": "340e",
+              "context": "ἐπιλειπούσης γὰρ ἐπιστήμης ὁ ἁμαρτάνων ἁμαρτάνει"
+            },
+            {
+              "form": "ἥμαρτεν",
+              "lemma": "ἁμαρτάνω",
+              "location": "340e",
+              "context": "ὁ ἰατρὸς ἥμαρτεν καὶ ὁ ἄρχων ἥμαρτεν"
+            }
+          ],
+          "observation": "Forms of ἁμαρτάνω/ἐξαμαρτάνω cluster densely around Thrasymachus's strict-sense argument: the craftsman qua craftsman never errs."
+        },
+        {
+          "signal_id": "s005",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τῷ ῥήματι",
+              "lemma": "ῥῆμα",
+              "location": "340d",
+              "context": "λεγόμεν τῷ ῥήματι οὕτως"
+            },
+            {
+              "form": "τὸν ἀκριβεῖ λόγῳ",
+              "lemma": "λόγος",
+              "location": "341b",
+              "context": "τὸν τῷ ἀκριβεστάτῳ λόγῳ ἄρχοντα ὄντα"
+            }
+          ],
+          "observation": "Thrasymachus distinguishes speaking τῷ ῥήματι (by common usage) from τῷ ἀκριβεῖ λόγῳ (in the strict account), establishing the precise/loose distinction."
+        },
+        {
+          "signal_id": "s006",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κακουργήσαις",
+              "lemma": "κακουργέω",
+              "location": "338d",
+              "context": "ταύτῃ ὑπολαμβάνεις ᾗ ἂν κακουργήσαις μάλιστα τὸν λόγον"
+            },
+            {
+              "form": "κακουργοῦντά",
+              "lemma": "κακουργέω",
+              "location": "341a",
+              "context": "ἐξ ἐπιβουλῆς ἐν τοῖς λόγοις κακουργοῦντά σε"
+            },
+            {
+              "form": "κακουργεῖ",
+              "lemma": "κακουργέω",
+              "location": "341b",
+              "context": "πρὸς ταῦτα κακούργει καὶ συκοφάντει"
+            }
+          ],
+          "observation": "κακουργέω appears three times: first Thrasymachus accuses Socrates of damaging the argument, then says Socrates plots κακουργία, then challenges him to do his worst."
+        },
+        {
+          "signal_id": "s007",
+          "features": [
+            "lexical_family",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "συκοφάντης",
+              "lemma": "συκοφάντης",
+              "location": "340d",
+              "context": "συκοφάντης γὰρ εἶ, ὦ Σώκρατες, ἐν τοῖς λόγοις"
+            },
+            {
+              "form": "συκοφαντεῖν",
+              "lemma": "συκοφαντέω",
+              "location": "341a",
+              "context": "δοκῶ σοι συκοφαντεῖν"
+            },
+            {
+              "form": "συκοφαντεῖν",
+              "lemma": "συκοφαντέω",
+              "location": "341c",
+              "context": "ξυρεῖν ἐπιχειρεῖν λέοντα καὶ συκοφαντεῖν Θρασύμαχον"
+            },
+            {
+              "form": "συκοφάντει",
+              "lemma": "συκοφαντέω",
+              "location": "341b",
+              "context": "κακούργει καὶ συκοφάντει"
+            }
+          ],
+          "observation": "συκοφάντης/συκοφαντέω recurs as Thrasymachus's repeated accusation against Socrates's method of argument."
+        },
+        {
+          "signal_id": "s008",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "βδελυρός",
+              "lemma": "βδελυρός",
+              "location": "338d",
+              "context": "βδελυρὸς γὰρ εἶ, ὦ Σώκρατες"
+            },
+            {
+              "form": "συκοφάντης",
+              "lemma": "συκοφάντης",
+              "location": "340d",
+              "context": "συκοφάντης γὰρ εἶ, ὦ Σώκρατες"
+            }
+          ],
+          "observation": "Thrasymachus twice uses the formula 'X γὰρ εἶ, ὦ Σώκρατες' with abusive epithets (βδελυρός, συκοφάντης)."
+        },
+        {
+          "signal_id": "s009",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "κυβερνήτης",
+              "lemma": "κυβερνήτης",
+              "location": "341c",
+              "context": "ὁ ὀρθῶς κυβερνήτης ναυτῶν ἄρχων ἐστὶν ἢ ναύτης"
+            },
+            {
+              "form": "ναυτῶν ἄρχων",
+              "lemma": null,
+              "location": "341c",
+              "context": "ναυτῶν ἄρχων"
+            },
+            {
+              "form": "ναύτης",
+              "lemma": "ναύτης",
+              "location": "341d",
+              "context": "οὐδʼ ἐστὶν κλητέος ναύτης"
+            },
+            {
+              "form": "τέχνην",
+              "lemma": "τέχνη",
+              "location": "341d",
+              "context": "κατὰ τὴν τέχνην καὶ τὴν τῶν ναυτῶν ἀρχήν"
+            }
+          ],
+          "observation": "The κυβερνήτης is distinguished from ναύτης: he is named not κατὰ τὸ πλεῖν but κατὰ τὴν τέχνην καὶ τὴν τῶν ναυτῶν ἀρχήν."
+        },
+        {
+          "signal_id": "s010",
+          "features": [
+            "semantic_cluster",
+            "structural_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἰατρικὴ ἰατρικῇ τὸ συμφέρον σκοπεῖ",
+              "lemma": null,
+              "location": "342c",
+              "context": null
+            },
+            {
+              "form": "ἱππικὴ ἱππικῇ ἀλλὰ ἵπποις",
+              "lemma": null,
+              "location": "342c",
+              "context": "οὐδὲ ἱππικὴ ἱππικῇ ἀλλὰ ἵπποις"
+            },
+            {
+              "form": "οὐδὲ ἄλλη τέχνη οὐδεμία ἑαυτῇ",
+              "lemma": null,
+              "location": "342c",
+              "context": null
+            }
+          ],
+          "observation": "A three-part parallel: ἰατρική does not seek its own benefit but the body's; ἱππική not its own but horses'; no τέχνη seeks its own benefit."
+        },
+        {
+          "signal_id": "s011",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "συνεχώρησεν ἐνταῦθα καὶ μάλα μόγις",
+              "lemma": null,
+              "location": "342c",
+              "context": null
+            },
+            {
+              "form": "συνωμολόγησε μὲν καὶ ταῦτα τελευτῶν",
+              "lemma": null,
+              "location": "342d",
+              "context": null
+            },
+            {
+              "form": "συνέφησε μόγις",
+              "lemma": null,
+              "location": "342e",
+              "context": null
+            }
+          ],
+          "observation": "Three narrative descriptions of Thrasymachus conceding—with μόγις appearing twice—mark his reluctant agreement as Socrates completes the craft analogy."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "Πουλυδάμας",
+              "lemma": "Πουλυδάμας",
+              "location": "338c",
+              "context": "Πουλυδάμας ἡμῶν κρείττων ὁ παγκρατιαστής"
+            },
+            {
+              "form": "βόεια κρέα",
+              "lemma": null,
+              "location": "338c",
+              "context": "αὐτῷ συμφέρει τὰ βόεια κρέα πρὸς τὸ σῶμα"
+            }
+          ],
+          "observation": "Socrates introduces the athlete Polydamas and beef as a reductio of 'advantage of the stronger,' grounding κρείττων in bodily strength and diet."
+        },
+        {
+          "signal_id": "s013",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ὡς ἔπος εἰπεῖν",
+              "lemma": null,
+              "location": "341b",
+              "context": "τὸν ὡς ἔπος εἰπεῖν"
+            },
+            {
+              "form": "τῷ ἀκριβεῖ λόγῳ",
+              "lemma": null,
+              "location": "341b",
+              "context": "τὸν ἀκριβεῖ λόγῳ"
+            }
+          ],
+          "observation": "Socrates asks Thrasymachus to clarify whether he means the ruler ὡς ἔπος εἰπεῖν (loosely) or τῷ ἀκριβεῖ λόγῳ (strictly); Thrasymachus chooses the strict sense."
+        },
+        {
+          "signal_id": "s014",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ξυρεῖν",
+              "lemma": "ξυρέω",
+              "location": "341c",
+              "context": "ξυρεῖν ἐπιχειρεῖν λέοντα"
+            },
+            {
+              "form": "λέοντα",
+              "lemma": "λέων",
+              "location": "341c",
+              "context": null
+            }
+          ],
+          "observation": "Socrates says he would not be so mad as to try to shave a lion—an animal image for Thrasymachus."
+        },
+        {
+          "signal_id": "s015",
+          "features": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "πρὸς ἐκεῖνο βλέπων",
+              "lemma": "βλέπω",
+              "location": "342e",
+              "context": "πρὸς ἐκεῖνο βλέπων καὶ τὸ ἐκείνῳ συμφέρον καὶ πρέπον"
+            },
+            {
+              "form": "λέγει ἃ λέγει καὶ ποιεῖ ἃ ποιεῖ ἅπαντα",
+              "lemma": null,
+              "location": "342e",
+              "context": null
+            }
+          ],
+          "observation": "The section closes with the ruler who looks toward (βλέπων) the ruled and says/does everything for that one's benefit—completing the reversal of Thrasymachus's thesis."
         },
         {
           "signal_id": "s016",
@@ -340,52 +1945,1178 @@
           ],
           "elements": [
             {
-              "form": "παννυχίδα",
-              "lemma": "παννυχίς",
-              "location": "328a",
-              "context": "πρός γε παννυχίδα ποιήσουσιν"
+              "form": "δημοκρατοῦνται",
+              "lemma": "δημοκρατέω",
+              "location": "338d",
+              "context": null
             },
             {
-              "form": "παννυχίδα",
-              "lemma": "παννυχίς",
-              "location": "328a",
-              "context": "τὴν παννυχίδα θεασόμεθα"
+              "form": "τυραννοῦνται",
+              "lemma": "τυραννέω",
+              "location": "338d",
+              "context": null
             },
             {
-              "form": "μετὰ τὸ δεῖπνον",
-              "lemma": null,
-              "location": "328a",
-              "context": "ἐξαναστησόμεθα γὰρ μετὰ τὸ δεῖπνον"
+              "form": "ἀριστοκρατοῦνται",
+              "lemma": "ἀριστοκρατέω",
+              "location": "338d",
+              "context": null
             },
             {
-              "form": "διαλεξόμεθα",
-              "lemma": "διαλέγομαι",
-              "location": "328a",
-              "context": "συνεσόμεθά τε πολλοῖς τῶν νέων αὐτόθι καὶ διαλεξόμεθα"
+              "form": "δημοκρατικούς",
+              "lemma": "δημοκρατικός",
+              "location": "338e",
+              "context": "δημοκρατία μὲν δημοκρατικούς"
+            },
+            {
+              "form": "τυραννικούς",
+              "lemma": "τυραννικός",
+              "location": "338e",
+              "context": "τυραννὶς δὲ τυραννικούς"
             }
           ],
-          "observation": "Polemarchus' inducements accumulate: all-night festival, dinner, conversation (διαλεξόμεθα) with young men—a projected evening sequence."
+          "observation": "Thrasymachus lists three regime types and their corresponding laws in morphological parallel, grounding his claim that each ruling power legislates for its own advantage."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-01-section-06",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "features": [
+            "semantic_cluster",
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τίτθη",
+              "lemma": "τίτθη",
+              "location": "343a",
+              "context": "τίτθη σοι ἔστιν"
+            },
+            {
+              "form": "κορυζῶντα",
+              "lemma": "κορυζάω",
+              "location": "343a",
+              "context": "κορυζῶντα περιορᾷ"
+            },
+            {
+              "form": "ἀπομύττει",
+              "lemma": "ἀπομύττω",
+              "location": "343a",
+              "context": "οὐκ ἀπομύττει δεόμενον"
+            }
+          ],
+          "observation": "Thrasymachus addresses Socrates with imagery of a nurse (τίτθη) who neglects a child running with a snotty nose (κορυζῶντα, ἀπομύττει), clustering infantile care language."
         },
         {
-          "signal_id": "s017",
+          "signal_id": "s002",
+          "features": [
+            "semantic_cluster",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ποιμένα",
+              "lemma": "ποιμήν",
+              "location": "343a",
+              "context": "πρόβατα οὐδὲ ποιμένα γιγνώσκεις"
+            },
+            {
+              "form": "ποιμένας",
+              "lemma": "ποιμήν",
+              "location": "343b",
+              "context": "τοὺς ποιμένας ἢ τοὺς βουκόλους"
+            },
+            {
+              "form": "πρόβατα",
+              "lemma": "πρόβατον",
+              "location": "343b",
+              "context": "τὸ τῶν προβάτων… ἀγαθὸν σκοπεῖν"
+            },
+            {
+              "form": "ποιμήν",
+              "lemma": "ποιμήν",
+              "location": "345c",
+              "context": "καθ᾽ ὅσον ποιμήν ἐστιν"
+            },
+            {
+              "form": "πιαίνειν",
+              "lemma": "πιαίνω",
+              "location": "345c",
+              "context": "πιαίνειν οἴει αὐτὸν τὰ πρόβατα"
+            },
+            {
+              "form": "ποιμενικῇ",
+              "lemma": "ποιμενική",
+              "location": "345d",
+              "context": "τῇ δὲ ποιμενικῇ οὐ δήπου ἄλλου του μέλει"
+            }
+          ],
+          "observation": "The shepherd/flock vocabulary (ποιμήν, πρόβατον, βουκόλος, πιαίνω) recurs densely from Thrasymachus's challenge through Socrates' counter-argument, with the shepherd's orientation shifting from self-interest to the flock's benefit."
+        },
+        {
+          "signal_id": "s003",
+          "features": [
+            "local_contrast",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ὡς ἀληθῶς ἄρχουσιν",
+              "lemma": null,
+              "location": "343b",
+              "context": "οἳ ὡς ἀληθῶς ἄρχουσιν"
+            },
+            {
+              "form": "τὸν ὡς ἀληθῶς ποιμένα",
+              "lemma": null,
+              "location": "345c",
+              "context": "τὸν ὡς ἀληθῶς ἰατρὸν τὸ πρῶτον ὁριζόμενος τὸν ὡς ἀληθῶς ποιμένα"
+            }
+          ],
+          "observation": "The phrase ὡς ἀληθῶς first qualifies rulers in Thrasymachus's speech (those who truly rule exploit subjects) and returns when Socrates uses it for the true shepherd who serves the flock's good."
+        },
+        {
+          "signal_id": "s004",
+          "features": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "συμφέρον",
+              "lemma": "συμφέρω",
+              "location": "343c",
+              "context": "τοῦ κρείττονός τε καὶ ἄρχοντος συμφέρον"
+            },
+            {
+              "form": "συμφέρον",
+              "lemma": "συμφέρω",
+              "location": "344c",
+              "context": "τὸ μὲν τοῦ κρείττονος συμφέρον τὸ δίκαιον"
+            },
+            {
+              "form": "συμφέρον",
+              "lemma": "συμφέρω",
+              "location": "347d",
+              "context": "οὐ πέφυκε τὸ αὑτῷ συμφέρον σκοπεῖσθαι ἀλλὰ τὸ τῷ ἀρχομένῳ"
+            }
+          ],
+          "observation": "συμφέρον recurs throughout: Thrasymachus assigns it to the κρείττων, while Socrates concludes the true ruler's nature is to seek τὸ τῷ ἀρχομένῳ συμφέρον."
+        },
+        {
+          "signal_id": "s005",
           "features": [
             "other_textual_pattern"
           ],
           "elements": [
             {
-              "form": "μενετέον",
-              "lemma": "μένω",
-              "location": "328b",
-              "context": "ἔοικεν, ἔφη, μενετέον εἶναι"
-            },
-            {
-              "form": "μένετ᾽",
-              "lemma": "μένω",
-              "location": "327c",
-              "context": "ἢ μένετ᾽ αὐτοῦ"
+              "form": "ὥσπερ βαλανεύς",
+              "lemma": "βαλανεύς",
+              "location": "344d",
+              "context": "ὥσπερ βαλανεὺς ἡμῶν καταντλήσας κατὰ τῶν ὤτων ἀθρόον καὶ πολὺν τὸν λόγον"
             }
           ],
-          "observation": "μένω first appears as one horn of Polemarchus' disjunction (μένετε) and returns as Glaucon's verbal adjective of necessity (μενετέον)."
+          "observation": "Thrasymachus's speech is compared to a bath-attendant pouring a flood of water over the ears—a concrete bodily image for verbal inundation."
+        },
+        {
+          "signal_id": "s006",
+          "features": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "ἐν νῷ εἶχεν ἀπιέναι",
+              "lemma": null,
+              "location": "344d",
+              "context": "ὁ Θρασύμαχος ἐν νῷ εἶχεν ἀπιέναι"
+            },
+            {
+              "form": "ἠνάγκασαν ὑπομεῖναί τε καὶ παρασχεῖν τῶν εἰρημένων λόγον",
+              "lemma": null,
+              "location": "344d",
+              "context": null
+            }
+          ],
+          "observation": "Thrasymachus intends to depart (ἀπιέναι) after his speech but is compelled (ἠνάγκασαν) by those present to remain (ὑπομεῖναι) and give an account."
+        },
+        {
+          "signal_id": "s007",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "τυραννίς",
+              "lemma": "τυραννίς",
+              "location": "344a",
+              "context": "ἔστιν δὲ τοῦτο τυραννίς"
+            },
+            {
+              "form": "τελεωτάτην ἀδικίαν",
+              "lemma": null,
+              "location": "344a",
+              "context": "ἐπὶ τὴν τελεωτάτην ἀδικίαν"
+            },
+            {
+              "form": "εὐδαιμονέστατον",
+              "lemma": "εὐδαίμων",
+              "location": "344a",
+              "context": "τὸν μὲν ἀδικήσαντα εὐδαιμονέστατον ποιεῖ"
+            },
+            {
+              "form": "ἀθλιωτάτους",
+              "lemma": "ἄθλιος",
+              "location": "344a",
+              "context": "τοὺς δὲ ἀδικηθέντας… ἀθλιωτάτους"
+            }
+          ],
+          "observation": "Tyranny is named as the τελεωτάτη ἀδικία, producing a superlative contrast: εὐδαιμονέστατον for the doer, ἀθλιωτάτους for those wronged."
+        },
+        {
+          "signal_id": "s008",
+          "features": [
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἱερόσυλοι",
+              "lemma": "ἱερόσυλος",
+              "location": "344b",
+              "context": null
+            },
+            {
+              "form": "ἀνδραποδισταί",
+              "lemma": "ἀνδραποδιστής",
+              "location": "344b",
+              "context": null
+            },
+            {
+              "form": "τοιχωρύχοι",
+              "lemma": "τοιχωρύχος",
+              "location": "344b",
+              "context": null
+            },
+            {
+              "form": "ἀποστερηταί",
+              "lemma": "ἀποστερητής",
+              "location": "344b",
+              "context": null
+            },
+            {
+              "form": "κλέπται",
+              "lemma": "κλέπτης",
+              "location": "344b",
+              "context": null
+            }
+          ],
+          "observation": "A list of five criminal types names partial injustice (κατὰ μέρη ἀδικοῦντες), contrasted with the tyrant who takes everything συλλήβδην."
+        },
+        {
+          "signal_id": "s009",
+          "features": [
+            "local_contrast",
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "εὐδαίμονες καὶ μακάριοι",
+              "lemma": null,
+              "location": "344b",
+              "context": "ἀντὶ τούτων τῶν αἰσχρῶν ὀνομάτων εὐδαίμονες καὶ μακάριοι κέκληνται"
+            },
+            {
+              "form": "αἰσχρῶν ὀνομάτων",
+              "lemma": null,
+              "location": "344b",
+              "context": null
+            }
+          ],
+          "observation": "The naming contrast: partial wrongdoers receive αἰσχρὰ ὀνόματα (criminal labels), while the complete wrongdoer (tyrant) is called εὐδαίμων and μακάριος."
+        },
+        {
+          "signal_id": "s010",
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "μισθόν",
+              "lemma": "μισθός",
+              "location": "345e",
+              "context": "μισθὸν αἰτοῦσιν"
+            },
+            {
+              "form": "μισθωτική",
+              "lemma": "μισθωτική",
+              "location": "346a",
+              "context": "ἑκάστην… τῶν τεχνῶν τούτῳ ἑτέραν εἶναι"
+            },
+            {
+              "form": "μισθαρνητική",
+              "lemma": "μισθαρνητική",
+              "location": "346d",
+              "context": "ἡ δὲ μισθαρνητικὴ μισθόν"
+            },
+            {
+              "form": "μισθόν",
+              "lemma": "μισθός",
+              "location": "347a",
+              "context": "μισθὸν δεῖν ὑπάρχειν τοῖς μέλλουσιν ἐθελήσειν ἄρχειν"
+            }
+          ],
+          "observation": "μισθός and its derivatives (μισθωτική, μισθαρνητική) recur densely as Socrates distinguishes the wage-earning art from each proper τέχνη."
+        },
+        {
+          "signal_id": "s011",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἀργύριον ἢ τιμήν, ἢ ζημίαν ἐὰν μὴ ἄρχῃ",
+              "lemma": null,
+              "location": "347a",
+              "context": null
+            }
+          ],
+          "observation": "Three forms of μισθός for rulers are named: money (ἀργύριον), honor (τιμή), or penalty (ζημία) if one refuses to rule."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "περιμάχητον ἂν εἶναι τὸ μὴ ἄρχειν",
+              "lemma": null,
+              "location": "347d",
+              "context": "πόλις ἀνδρῶν ἀγαθῶν εἰ γένοιτο, περιμάχητον ἂν εἶναι τὸ μὴ ἄρχειν ὥσπερ νυνὶ τὸ ἄρχειν"
+            },
+            {
+              "form": "τὸ ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "347d",
+              "context": null
+            }
+          ],
+          "observation": "In a city of good men, not-ruling (τὸ μὴ ἄρχειν) would be fought over just as ruling (τὸ ἄρχειν) is fought over now—an inversion."
+        },
+        {
+          "signal_id": "s013",
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἑκόντα",
+              "lemma": "ἑκών",
+              "location": "345e",
+              "context": "ἑκόντας οἴει ἄρχειν"
+            },
+            {
+              "form": "ἑκών",
+              "lemma": "ἑκών",
+              "location": "347c",
+              "context": "τὸ ἑκόντα ἐπὶ τὸ ἄρχειν ἰέναι"
+            },
+            {
+              "form": "ἐθέλειν",
+              "lemma": "ἐθέλω",
+              "location": "345e",
+              "context": "οὐδεὶς ἐθέλει ἄρχειν ἑκών"
+            },
+            {
+              "form": "ἐθελήσειν",
+              "lemma": "ἐθέλω",
+              "location": "347a",
+              "context": "τοῖς μέλλουσιν ἐθελήσειν ἄρχειν"
+            }
+          ],
+          "observation": "Willingness to rule is repeatedly questioned: ἑκών and ἐθέλω cluster around ἄρχειν, establishing that no one rules willingly."
+        },
+        {
+          "signal_id": "s014",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ὅλου βίου διαγωγήν",
+              "lemma": null,
+              "location": "344e",
+              "context": "πρᾶγμα διορίζεσθαι ὅλου βίου διαγωγήν"
+            },
+            {
+              "form": "λυσιτελεστάτην ζωὴν ζῴη",
+              "lemma": null,
+              "location": "344e",
+              "context": null
+            }
+          ],
+          "observation": "Socrates reframes the stakes: the matter at issue is the conduct of an entire life (ὅλου βίου διαγωγή) and the most profitable way to live (λυσιτελεστάτην ζωήν)."
+        },
+        {
+          "signal_id": "s015",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "οὐ πείθομαι",
+              "lemma": "πείθω",
+              "location": "345a",
+              "context": "ὅτι οὐ πείθομαι οὐδ᾽ οἶμαι ἀδικίαν δικαιοσύνης κερδαλεώτερον εἶναι"
+            },
+            {
+              "form": "πεῖσον",
+              "lemma": "πείθω",
+              "location": "345b",
+              "context": "πεῖσον οὖν, ὦ μακάριε, ἱκανῶς ἡμᾶς"
+            },
+            {
+              "form": "πείσω",
+              "lemma": "πείθω",
+              "location": "345b",
+              "context": "καὶ πῶς… σὲ πείσω"
+            }
+          ],
+          "observation": "πείθω appears in rapid exchange: Socrates declares he is not persuaded (οὐ πείθομαι), asks Thrasymachus to persuade (πεῖσον), and Thrasymachus asks how he shall persuade (πείσω)."
+        },
+        {
+          "signal_id": "s016",
+          "features": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "δαιτυμόνα",
+              "lemma": "δαιτυμών",
+              "location": "345c",
+              "context": "ὥσπερ δαιτυμόνα τινὰ καὶ μέλλοντα ἑστιάσεσθαι"
+            },
+            {
+              "form": "εὐωχίαν",
+              "lemma": "εὐωχία",
+              "location": "345c",
+              "context": "πρὸς τὴν εὐωχίαν"
+            },
+            {
+              "form": "ἀποδόσθαι",
+              "lemma": "ἀποδίδομαι",
+              "location": "345d",
+              "context": "πρὸς τὸ ἀποδόσθαι"
+            },
+            {
+              "form": "χρηματιστήν",
+              "lemma": "χρηματιστής",
+              "location": "345d",
+              "context": "ὥσπερ χρηματιστὴν ἀλλὰ οὐ ποιμένα"
+            }
+          ],
+          "observation": "Socrates contrasts three orientations for the shepherd: feasting (δαιτυμών, εὐωχία), selling (ἀποδόσθαι, χρηματιστής), versus genuine shepherding—a cluster of rival ends."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-01-section-07",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "πλεονεκτεῖν",
+              "lemma": "πλεονεκτέω",
+              "location": "349b",
+              "context": "τοῦ δὲ ἀδίκου πότερον ἀξιοῖ ἂν πλεονεκτεῖν"
+            },
+            {
+              "form": "πλέον ἔχειν",
+              "lemma": null,
+              "location": "349b",
+              "context": "πλέον ἔχειν"
+            },
+            {
+              "form": "πλεονεκτεῖν",
+              "lemma": "πλεονεκτέω",
+              "location": "349e",
+              "context": "ἐν τῇ ἐπιτάσει καὶ ἀνέσει τῶν χορδῶν πλεονεκτεῖν"
+            },
+            {
+              "form": "πλεονεκτήσειεν",
+              "lemma": "πλεονεκτέω",
+              "location": "350b",
+              "context": null
+            },
+            {
+              "form": "πλεονεκτεῖ",
+              "lemma": "πλεονεκτέω",
+              "location": "350b",
+              "context": "τοῦ μὲν ὁμοίου οὐκ ἐθελήσει πλεονεκτεῖν"
+            }
+          ],
+          "observation": "Forms of πλεονεκτέω recur densely throughout the section, structuring the argument about who seeks to outdo whom—the just person, the unjust, the knowledgeable, and the ignorant."
+        },
+        {
+          "signal_id": "s002",
+          "features": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ὁμοίου",
+              "lemma": "ὅμοιος",
+              "location": "349c",
+              "context": "τοῦ μὲν ὁμοίου οὐ πλεονεκτεῖ"
+            },
+            {
+              "form": "ἀνομοίου",
+              "lemma": "ἀνόμοιος",
+              "location": "349c",
+              "context": "τοῦ δὲ ἀνομοίου"
+            }
+          ],
+          "observation": "The pair ὅμοιος/ἀνόμοιος structures the central analogy: the just person seeks advantage only over the unlike, while the unjust seeks it over both like and unlike."
+        },
+        {
+          "signal_id": "s003",
+          "features": [
+            "local_contrast",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "εὐήθειαν",
+              "lemma": "εὐήθεια",
+              "location": "348c",
+              "context": "πάνυ γενναίαν εὐήθειαν"
+            },
+            {
+              "form": "εὐβουλίαν",
+              "lemma": "εὐβουλία",
+              "location": "348d",
+              "context": "ἀλλ᾽ εὐβουλίαν"
+            }
+          ],
+          "observation": "Thrasymachus labels justice γενναία εὐήθεια and injustice εὐβουλία—a reversal of conventional value terms applied to the two."
+        },
+        {
+          "signal_id": "s004",
+          "features": [
+            "lexical_family",
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "σοφίας",
+              "lemma": "σοφία",
+              "location": "348e",
+              "context": "ἐν ἀρετῆς καὶ σοφίας τιθεῖς μέρει τὴν ἀδικίαν"
+            },
+            {
+              "form": "σοφός",
+              "lemma": "σοφός",
+              "location": "350b",
+              "context": "ὁ δὲ ἐπιστήμων σοφός"
+            },
+            {
+              "form": "σοφωτέροι",
+              "lemma": "σοφός",
+              "location": "352b",
+              "context": "σοφώτεροι καὶ ἀμείνους καὶ δυνατώτεροι πράττειν οἱ δίκαιοι"
+            }
+          ],
+          "observation": "σοφία/σοφός is first placed on the side of injustice by Thrasymachus, then reassigned through the analogy to the knowledgeable, and finally attributed to the just."
+        },
+        {
+          "signal_id": "s005",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "μουσικὸν",
+              "lemma": "μουσικός",
+              "location": "349d",
+              "context": "μουσικόν δέ τινα λέγεις"
+            },
+            {
+              "form": "ἰατρικόν",
+              "lemma": "ἰατρικός",
+              "location": "349e",
+              "context": "τί δὲ ἰατρικόν"
+            },
+            {
+              "form": "ἐπιστήμης",
+              "lemma": "ἐπιστήμη",
+              "location": "350a",
+              "context": "περὶ πάσης δὴ ὅρα ἐπιστήμης τε καὶ ἀνεπιστημοσύνης"
+            }
+          ],
+          "observation": "The argument moves from specific τέχναι (μουσική, ἰατρική) to the general category ἐπιστήμη, establishing that the knowledgeable does not seek to outdo the knowledgeable."
+        },
+        {
+          "signal_id": "s006",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐρυθριῶντα",
+              "lemma": "ἐρυθριάω",
+              "location": "350d",
+              "context": "Θρασύμαχον ἐρυθριῶντα"
+            },
+            {
+              "form": "ἱδρῶτος",
+              "lemma": "ἱδρώς",
+              "location": "350d",
+              "context": "μετὰ ἱδρῶτος θαυμαστοῦ ὅσου"
+            },
+            {
+              "form": "θέρους",
+              "lemma": "θέρος",
+              "location": "350d",
+              "context": "ἅτε καὶ θέρους ὄντος"
+            }
+          ],
+          "observation": "Narration breaks in to report Thrasymachus blushing, sweating profusely in the summer heat—a unique bodily detail marking the moment Socrates says he saw for the first time."
+        },
+        {
+          "signal_id": "s007",
+          "features": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "πείθωμεν",
+              "lemma": "πείθω",
+              "location": "348a",
+              "context": "βούλει οὖν αὐτὸν πείθωμεν"
+            },
+            {
+              "form": "οὐ πείθομαι",
+              "lemma": "πείθω",
+              "location": "348a",
+              "context": "ἤκουσα, ἔφη, ἀλλ᾽ οὐ πείθομαι"
+            }
+          ],
+          "observation": "Socrates proposes to Glaucon that they persuade Thrasymachus; Glaucon's prior statement is that she heard but is not persuaded—πείθω frames the section's opening exchange."
+        },
+        {
+          "signal_id": "s008",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τελέαν ἀδικίαν",
+              "lemma": null,
+              "location": "348b",
+              "context": "τὴν τελέαν ἀδικίαν τελέας οὔσης δικαιοσύνης λυσιτελεστέραν"
+            },
+            {
+              "form": "τελέως ἄδικοι τελέως",
+              "lemma": null,
+              "location": "352c",
+              "context": "οἵ γε παμπόνηροι καὶ τελέως ἄδικοι τελέως εἰσὶ καὶ πράττειν ἀδύνατοι"
+            }
+          ],
+          "observation": "τελέα ἀδικία is first stated as more profitable than complete justice; later the τελέως ἄδικοι are shown to be τελέως unable to act—the same term marks opposed conclusions."
+        },
+        {
+          "signal_id": "s009",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "στάσεις",
+              "lemma": "στάσις",
+              "location": "351d",
+              "context": "στάσεις γάρ που ἡ ἀδικία καὶ μίση καὶ μάχας ἐν ἀλλήλοις παρέχει"
+            },
+            {
+              "form": "ὁμόνοιαν",
+              "lemma": "ὁμόνοια",
+              "location": "351d",
+              "context": "ἡ δὲ δικαιοσύνη ὁμόνοιαν καὶ φιλίαν"
+            },
+            {
+              "form": "στασιάζειν",
+              "lemma": "στασιάζω",
+              "location": "351e",
+              "context": "μισεῖν ποιήσει ἀλλήλους καὶ στασιάζειν"
+            }
+          ],
+          "observation": "A cluster of στάσις/μῖσος/μάχη is opposed to ὁμόνοια/φιλία, assigned respectively to ἀδικία and δικαιοσύνη as their characteristic productions."
+        },
+        {
+          "signal_id": "s010",
+          "features": [
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "πόλιν",
+              "lemma": "πόλις",
+              "location": "351c",
+              "context": "ἢ πόλιν ἢ στρατόπεδον ἢ λῃστὰς ἢ κλέπτας ἢ ἄλλο τι ἔθνος"
+            },
+            {
+              "form": "δυοῖν",
+              "lemma": "δύο",
+              "location": "351e",
+              "context": "τί δὲ ἂν ἐν δυοῖν ἐγγένηται"
+            },
+            {
+              "form": "ἑνί",
+              "lemma": "εἷς",
+              "location": "351e",
+              "context": "ἐὰν δὲ δή, ὦ θαυμάσιε, ἐν ἑνὶ ἐγγένηται ἀδικία"
+            }
+          ],
+          "observation": "The argument descends in scale from πόλις/στρατόπεδον/ἔθνος through a pair (δυοῖν) to a single individual (ἑνί), applying the same destructive effect of ἀδικία at each level."
+        },
+        {
+          "signal_id": "s011",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "δικασταί",
+              "lemma": "δικαστής",
+              "location": "348b",
+              "context": "ἤδη δικαστῶν τινων τῶν διακρινόντων δεησόμεθα"
+            },
+            {
+              "form": "ῥήτορες",
+              "lemma": "ῥήτωρ",
+              "location": "348b",
+              "context": "ἅμα αὐτοί τε δικασταὶ καὶ ῥήτορες ἐσόμεθα"
+            }
+          ],
+          "observation": "Socrates distinguishes two methods: one requiring external δικασταί, another where the interlocutors are simultaneously δικασταί and ῥήτορες—choosing the latter establishes the procedural frame."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ταῖς γραυσὶν ταῖς τοὺς μύθους λεγούσαις",
+              "lemma": null,
+              "location": "350e",
+              "context": "ὥσπερ ταῖς γραυσὶν ταῖς τοὺς μύθους λεγούσαις, εἶεν ἐρῶ καὶ κατανεύσομαι καὶ ἀνανεύσομαι"
+            },
+            {
+              "form": "κατανεύσομαι καὶ ἀνανεύσομαι",
+              "lemma": null,
+              "location": "350e",
+              "context": null
+            }
+          ],
+          "observation": "Thrasymachus compares his acquiescence to nodding along with old women telling myths—κατανεύσομαι καὶ ἀνανεύσομαι names the physical gesture of assent/dissent he will perform."
+        },
+        {
+          "signal_id": "s013",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐχθρὸν",
+              "lemma": "ἐχθρός",
+              "location": "352a",
+              "context": "ἐχθρὸν εἶναι ἑαυτῷ τε καὶ τῷ ἐναντίῳ παντὶ καὶ τῷ δικαίῳ"
+            },
+            {
+              "form": "φίλος",
+              "lemma": "φίλος",
+              "location": "352b",
+              "context": "ὁ δὲ δίκαιος φίλος"
+            }
+          ],
+          "observation": "The unjust person is ἐχθρός to self, to the opposite, and to the just; the just person is φίλος to the gods—enmity is tripled against friendship."
+        },
+        {
+          "signal_id": "s014",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "θεοί",
+              "lemma": "θεός",
+              "location": "352a",
+              "context": "δίκαιοι δέ γ᾽ εἰσίν, ὦ φίλε, καὶ οἱ θεοί"
+            },
+            {
+              "form": "θεοῖς",
+              "lemma": "θεός",
+              "location": "352b",
+              "context": "καὶ θεοῖς ἄρα ἐχθρὸς ἔσται ὁ ἄδικος"
+            }
+          ],
+          "observation": "The gods are introduced as δίκαιοι, making the unjust person θεοῖς ἐχθρός—a brief theological extension of the argument about enmity."
+        },
+        {
+          "signal_id": "s015",
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἰσχυρόν",
+              "lemma": "ἰσχυρός",
+              "location": "351a",
+              "context": "ἰσχυρότερον εἴη ἀδικία δικαιοσύνης"
+            },
+            {
+              "form": "ἰσχυρότερον",
+              "lemma": "ἰσχυρός",
+              "location": "351a",
+              "context": "ῥᾳδίως φανήσεται καὶ ἰσχυρότερον ἀδικίας"
+            },
+            {
+              "form": "στερεώτερον",
+              "lemma": "στερεός",
+              "location": "348e",
+              "context": "τοῦτο ἤδη στερεώτερον"
+            }
+          ],
+          "observation": "ἰσχυρός first names injustice's claim to be stronger than justice, then is redirected: if justice is σοφία and ἀρετή, it will easily appear ἰσχυρότερον. στερεώτερον earlier marks the hardened position itself."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-01-section-08",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἔργον",
+              "lemma": "ἔργον",
+              "location": "352d",
+              "context": "δοκεῖ τί σοι εἶναι ἵππου ἔργον"
+            },
+            {
+              "form": "ἔργον",
+              "lemma": "ἔργον",
+              "location": "353a",
+              "context": "τοῦτο τούτου ἔργον θήσομεν"
+            },
+            {
+              "form": "ἔργον",
+              "lemma": "ἔργον",
+              "location": "353b",
+              "context": "ὀφθαλμῶν, φαμέν, ἔστι τι ἔργον"
+            },
+            {
+              "form": "ἔργον",
+              "lemma": "ἔργον",
+              "location": "353d",
+              "context": "ψυχῆς ἔστιν τι ἔργον"
+            }
+          ],
+          "observation": "ἔργον recurs densely throughout the section, applied successively to horse, pruning-hook, eyes, ears, and soul."
+        },
+        {
+          "signal_id": "s002",
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἀρετὴ",
+              "lemma": "ἀρετή",
+              "location": "353b",
+              "context": "ἀρετὴ ὀφθαλμῶν ἔστιν"
+            },
+            {
+              "form": "ἀρετήν",
+              "lemma": "ἀρετή",
+              "location": "353d",
+              "context": "ἀρετήν φαμέν τινα ψυχῆς εἶναι"
+            },
+            {
+              "form": "ἀρετῆς",
+              "lemma": "ἀρετή",
+              "location": "353e",
+              "context": "στερομένη τῆς οἰκείας ἀρετῆς"
+            }
+          ],
+          "observation": "ἀρετή recurs in parallel with ἔργον, assigned first to eyes/ears and then to the soul."
+        },
+        {
+          "signal_id": "s003",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἀρετῆς",
+              "lemma": "ἀρετή",
+              "location": "353c",
+              "context": "τῇ οἰκείᾳ μὲν ἀρετῇ τὸ αὑτῶν ἔργον εὖ ἐργάσεται"
+            },
+            {
+              "form": "κακίᾳ",
+              "lemma": "κακία",
+              "location": "353c",
+              "context": "κακίᾳ δὲ κακῶς"
+            }
+          ],
+          "observation": "ἀρετή and κακία are set in explicit contrast: the former produces good work, the latter bad."
+        },
+        {
+          "signal_id": "s004",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "τὸ ἐπιμελεῖσθαι",
+              "lemma": "ἐπιμελέομαι",
+              "location": "353d",
+              "context": null
+            },
+            {
+              "form": "ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "353d",
+              "context": null
+            },
+            {
+              "form": "βουλεύεσθαι",
+              "lemma": "βουλεύω",
+              "location": "353d",
+              "context": null
+            }
+          ],
+          "observation": "The soul's ἔργον is specified as a cluster of three activities: caring for, ruling, and deliberating."
+        },
+        {
+          "signal_id": "s005",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὸ ζῆν",
+              "lemma": "ζάω",
+              "location": "353d",
+              "context": "τί δ᾽ αὖ τὸ ζῆν; οὐ ψυχῆς φήσομεν ἔργον εἶναι;"
+            }
+          ],
+          "observation": "Living (τὸ ζῆν) is added as a separate ἔργον of the soul, distinct from ruling and deliberating."
+        },
+        {
+          "signal_id": "s006",
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "δικαιοσύνην",
+              "lemma": "δικαιοσύνη",
+              "location": "353e",
+              "context": "ἀρετήν γε συνεχωρήσαμεν ψυχῆς εἶναι δικαιοσύνην"
+            },
+            {
+              "form": "ἀδικίαν",
+              "lemma": "ἀδικία",
+              "location": "353e",
+              "context": "κακίαν δὲ ἀδικίαν"
+            }
+          ],
+          "observation": "Justice is identified as the soul's virtue and injustice as its vice, recalling the earlier agreed concession (συνεχωρήσαμεν)."
+        },
+        {
+          "signal_id": "s007",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "εὐδαίμων",
+              "lemma": "εὐδαίμων",
+              "location": "354a",
+              "context": "ὁ μὲν δίκαιος ἄρα εὐδαίμων"
+            },
+            {
+              "form": "ἄθλιος",
+              "lemma": "ἄθλιος",
+              "location": "354a",
+              "context": "ὁ δ᾽ ἄδικος ἄθλιος"
+            }
+          ],
+          "observation": "The just person is called εὐδαίμων and the unjust ἄθλιος in direct opposition."
+        },
+        {
+          "signal_id": "s008",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "εἱστιάσθω",
+              "lemma": "ἑστιάω",
+              "location": "354a",
+              "context": "ταῦτα δή σοι εἱστιάσθω ἐν τοῖς Βενδιδίοις"
+            },
+            {
+              "form": "εἱστίαμαι",
+              "lemma": "ἑστιάω",
+              "location": "354b",
+              "context": "οὐ μέντοι καλῶς γε εἱστίαμαι"
+            }
+          ],
+          "observation": "Thrasymachus offers the argument as a feast (εἱστιάσθω ἐν τοῖς Βενδιδίοις); Socrates responds that he has not feasted well (οὐ καλῶς εἱστίαμαι)."
+        },
+        {
+          "signal_id": "s009",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "Βενδιδίοις",
+              "lemma": null,
+              "location": "354a",
+              "context": "εἱστιάσθω ἐν τοῖς Βενδιδίοις"
+            }
+          ],
+          "observation": "The Bendideia festival is named, connecting the argument's conclusion back to the occasion of the gathering."
+        },
+        {
+          "signal_id": "s010",
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "λίχνοι",
+              "lemma": "λίχνος",
+              "location": "354b",
+              "context": "ὥσπερ οἱ λίχνοι τοῦ ἀεὶ παραφερομένου ἀπογεύονται ἁρπάζοντες"
+            },
+            {
+              "form": "ἁρπάζοντες",
+              "lemma": "ἁρπάζω",
+              "location": "354b",
+              "context": null
+            }
+          ],
+          "observation": "Socrates compares himself to greedy diners (λίχνοι) who snatch (ἁρπάζοντες) at each dish before properly tasting the previous one."
+        },
+        {
+          "signal_id": "s011",
+          "features": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "τὸ δίκαιον ὅτι ποτ᾽ ἐστίν",
+              "lemma": null,
+              "location": "354b",
+              "context": "πρὶν ὃ τὸ πρῶτον ἐσκοποῦμεν εὑρεῖν, τὸ δίκαιον ὅτι ποτ᾽ ἐστίν"
+            },
+            {
+              "form": "μηδὲν εἰδέναι",
+              "lemma": null,
+              "location": "354c",
+              "context": "γέγονεν ἐκ τοῦ διαλόγου μηδὲν εἰδέναι"
+            }
+          ],
+          "observation": "Socrates states that the prior question—what justice is—was abandoned, and the result of the dialogue is knowing nothing (μηδὲν εἰδέναι)."
+        },
+        {
+          "signal_id": "s012",
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "πρᾷος",
+              "lemma": "πρᾶος",
+              "location": "354a",
+              "context": "ἐπειδή μοι πρᾷος ἐγένου καὶ χαλεπαίνων ἐπαύσω"
+            },
+            {
+              "form": "χαλεπαίνων",
+              "lemma": "χαλεπαίνω",
+              "location": "354a",
+              "context": null
+            }
+          ],
+          "observation": "Socrates notes Thrasymachus became gentle (πρᾷος) and ceased being angry (χαλεπαίνων ἐπαύσω)."
+        },
+        {
+          "signal_id": "s013",
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "τυφλότητα",
+              "lemma": "τυφλότης",
+              "location": "353c",
+              "context": "τυφλότητα γὰρ ἴσως λέγεις ἀντὶ τῆς ὄψεως"
+            },
+            {
+              "form": "ὄψεως",
+              "lemma": "ὄψις",
+              "location": "353c",
+              "context": null
+            }
+          ],
+          "observation": "Thrasymachus supplies τυφλότης as the κακία of eyes, contrasted with ὄψις (sight) as their ἀρετή."
+        },
+        {
+          "signal_id": "s014",
+          "features": [
+            "syntactic_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἔσθ᾽ ὅτῳ ἂν ἄλλῳ ἴδοις ἢ ὀφθαλμοῖς",
+              "lemma": null,
+              "location": "352e",
+              "context": null
+            },
+            {
+              "form": "ἀκούσαις ἄλλῳ ἢ ὠσίν",
+              "lemma": null,
+              "location": "352e",
+              "context": null
+            },
+            {
+              "form": "ἔσθ᾽ ὅτῳ ἄλλῳ ἢ ψυχῇ",
+              "lemma": null,
+              "location": "353d",
+              "context": "δικαίως ἂν αὐτὰ ἀποδοῖμεν"
+            }
+          ],
+          "observation": "The question form 'could you do X with anything other than Y?' recurs for eyes, ears, and then the soul."
         }
       ]
     }
