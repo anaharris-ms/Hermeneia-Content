@@ -1,0 +1,491 @@
+{
+  "section_id": "republic-chapter-01-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "changed_context_recurrence",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀφειλόμενα",
+          "lemma": "ὀφείλω",
+          "location": "331e",
+          "context": "τὸ τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι δίκαιόν ἐστι"
+        },
+        {
+          "form": "ὀφειλόμενόν",
+          "lemma": "ὀφείλω",
+          "location": "332a",
+          "context": "ὀφειλόμενόν πού ἐστιν τοῦτο ὃ παρακατέθετο"
+        },
+        {
+          "form": "ὀφειλόμενα",
+          "lemma": "ὀφείλω",
+          "location": "332a",
+          "context": "Σιμωνίδης τὸ τὰ ὀφειλόμενα δίκαιον εἶναι ἀποδιδόναι"
+        },
+        {
+          "form": "ὀφείλειν",
+          "lemma": "ὀφείλω",
+          "location": "332a",
+          "context": "τοῖς φίλοις οἴεται ὀφείλειν τοὺς φίλους ἀγαθόν"
+        },
+        {
+          "form": "ὀφειλόμενον",
+          "lemma": "ὀφείλω",
+          "location": "332b",
+          "context": "τοῖς ἐχθροῖς ἀποδοτέον ὅτι ἂν τύχῃ ὀφειλόμενον"
+        },
+        {
+          "form": "ὀφείλεται",
+          "lemma": "ὀφείλω",
+          "location": "332b",
+          "context": "ὅ γε ὀφείλεται αὐτοῖς, ὀφείλεται δέ γε οἶμαι παρά γε τοῦ ἐχθροῦ"
+        },
+        {
+          "form": "ὀφειλόμενα",
+          "lemma": "ὀφείλω",
+          "location": "335e",
+          "context": "τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι φησίν τις δίκαιον εἶναι"
+        },
+        {
+          "form": "ὀφείλεσθαι",
+          "lemma": "ὀφείλω",
+          "location": "335e",
+          "context": "τοῖς μὲν ἐχθροῖς βλάβην ὀφείλεσθαι παρὰ τοῦ δικαίου ἀνδρός"
+        }
+      ],
+      "observation": "Forms of ὀφείλω recur densely throughout the section, shifting from a neutral sense of owing/returning deposits to owing good to friends and harm to enemies, and finally to the conclusion that harm cannot be owed by a just person."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδιδόναι",
+          "lemma": "ἀποδίδωμι",
+          "location": "331e",
+          "context": "τὸ τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι"
+        },
+        {
+          "form": "ἀποδιδόναι",
+          "lemma": "ἀποδίδωμι",
+          "location": "332a",
+          "context": null
+        },
+        {
+          "form": "ἀποδιδοῦσα",
+          "lemma": "ἀποδίδωμι",
+          "location": "332c",
+          "context": "ἡ τίσιν οὖν τί ἀποδιδοῦσα"
+        },
+        {
+          "form": "ἀποδιδοῦσα",
+          "lemma": "ἀποδίδωμι",
+          "location": "332d",
+          "context": "ἡ τοῖς φίλοις τε καὶ ἐχθροῖς ὠφελίας τε καὶ βλάβας ἀποδιδοῦσα"
+        },
+        {
+          "form": "ἀπόδοσις",
+          "lemma": "ἀπόδοσις",
+          "location": "332b",
+          "context": "ἐάνπερ ἡ ἀπόδοσις καὶ ἡ λῆψις βλαβερὰ γίγνηται"
+        }
+      ],
+      "observation": "Forms of ἀποδίδωμι recur across the section as the core action defining justice, applied successively to deposits, to medicine and cooking as τέχναι, and to friends/enemies."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φίλους",
+          "lemma": "φίλος",
+          "location": "332a",
+          "context": "τοῖς γὰρ φίλοις οἴεται ὀφείλειν τοὺς φίλους ἀγαθόν"
+        },
+        {
+          "form": "ἐχθροῖς",
+          "lemma": "ἐχθρός",
+          "location": "332b",
+          "context": "τοῖς ἐχθροῖς ἀποδοτέον"
+        },
+        {
+          "form": "φίλους",
+          "lemma": "φίλος",
+          "location": "334e",
+          "context": "τοὺς μὲν φίλους βλάπτειν"
+        },
+        {
+          "form": "ἐχθρούς",
+          "lemma": "ἐχθρός",
+          "location": "334e",
+          "context": "τοὺς δʼ ἐχθροὺς ὠφελεῖν"
+        }
+      ],
+      "observation": "The φίλος/ἐχθρός pair structures the entire argument; by 334e the expected assignment reverses—friends are harmed, enemies benefited—producing an explicit τοὐναντίον of Simonides' claim."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lexical_family",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὠφελεῖν",
+          "lemma": "ὠφελέω",
+          "location": "332e",
+          "context": "φίλους ὠφελεῖν καὶ ἐχθροὺς βλάπτειν"
+        },
+        {
+          "form": "βλάπτειν",
+          "lemma": "βλάπτω",
+          "location": "332e",
+          "context": null
+        },
+        {
+          "form": "ὠφελίας",
+          "lemma": "ὠφελία",
+          "location": "332d",
+          "context": "ὠφελίας τε καὶ βλάβας ἀποδιδοῦσα"
+        },
+        {
+          "form": "βλάβας",
+          "lemma": "βλάβη",
+          "location": "332d",
+          "context": null
+        },
+        {
+          "form": "βλάπτειν",
+          "lemma": "βλάπτω",
+          "location": "335b",
+          "context": "δικαίου ἀνδρὸς βλάπτειν καὶ ὁντινοῦν ἀνθρώπων"
+        },
+        {
+          "form": "βλάπτειν",
+          "lemma": "βλάπτω",
+          "location": "335d",
+          "context": "οὐδὲ δὴ τοῦ ἀγαθοῦ βλάπτειν ἀλλὰ τοῦ ἐναντίου"
+        }
+      ],
+      "observation": "ὠφελέω/ὠφελία and βλάπτω/βλάβη form a recurring paired cluster; by the section's end βλάπτειν is excluded from the just person entirely."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κληρονόμος",
+          "lemma": "κληρονόμος",
+          "location": "331e",
+          "context": "σὺ ὁ τοῦ λόγου κληρονόμος"
+        }
+      ],
+      "observation": "Socrates addresses Polemarchus as κληρονόμος of the λόγος, applying inheritance language to the argument itself."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "semantic_cluster",
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέχνη ἰατρική",
+          "lemma": null,
+          "location": "332c",
+          "context": "ἡ τίσιν οὖν τί ἀποδιδοῦσα ὀφειλόμενον καὶ προσῆκον τέχνη ἰατρικὴ καλεῖται"
+        },
+        {
+          "form": "τέχνη μαγειρική",
+          "lemma": null,
+          "location": "332c",
+          "context": "τέχνη μαγειρικὴ καλεῖται"
+        },
+        {
+          "form": "τέχνη δικαιοσύνη",
+          "lemma": null,
+          "location": "332d",
+          "context": "ἡ οὖν δὴ τίσιν τί ἀποδιδοῦσα τέχνη δικαιοσύνη ἂν καλοῖτο"
+        }
+      ],
+      "observation": "A syntactically parallel series asks what each τέχνη renders to whom: ἰατρική gives φάρμακα/σιτία/ποτά to σώματα, μαγειρική gives ἡδύσματα to ὄψοις, and δικαιοσύνη is pressed into the same frame."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χρήσιμον",
+          "lemma": "χρήσιμος",
+          "location": "332e",
+          "context": "χρήσιμον ἄρα καὶ ἐν εἰρήνῃ δικαιοσύνη"
+        },
+        {
+          "form": "ἄχρηστον",
+          "lemma": "ἄχρηστος",
+          "location": "333c",
+          "context": "ὅταν ἄρα ἄχρηστον ᾖ ἀργύριον, τότε χρήσιμος ἐπʼ αὐτῷ ἡ δικαιοσύνη"
+        },
+        {
+          "form": "ἐν μὲν χρήσει ἄχρηστος",
+          "lemma": null,
+          "location": "333d",
+          "context": "ἡ δικαιοσύνη ἑκάστου ἐν μὲν χρήσει ἄχρηστος, ἐν δὲ ἀχρηστίᾳ χρήσιμος"
+        }
+      ],
+      "observation": "χρήσιμος and ἄχρηστος are placed in direct antithesis: justice is χρήσιμος when things are ἄχρηστον, and ἄχρηστος when in χρήσει—a paradox stated explicitly at 333d."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ᾐνίξατο",
+          "lemma": "αἰνίττομαι",
+          "location": "332b",
+          "context": "ᾐνίξατο ἄρα ὁ Σιμωνίδης ποιητικῶς τὸ δίκαιον ὃ εἴη"
+        },
+        {
+          "form": "ποιητικῶς",
+          "lemma": "ποιητικός",
+          "location": "332b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates says Simonides spoke ποιητικῶς, using αἰνίττομαι—he riddled poetically about justice rather than stating it plainly."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "334a",
+          "context": "στρατοπέδου γε ὁ αὐτὸς φύλαξ ἀγαθός"
+        },
+        {
+          "form": "κλέπτης",
+          "lemma": "κλέπτης",
+          "location": "334a",
+          "context": "κλέπτης ἄρα τις ὁ δίκαιος ἀναπέφανται"
+        },
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "334a",
+          "context": "ὅτου τις ἄρα δεινὸς φύλαξ, τούτου καὶ φὼρ δεινός"
+        }
+      ],
+      "observation": "The just person who is δεινὸς φύλαξ is shown to be equally δεινὸς φώρ/κλέπτης—guarding and stealing are presented as paired capacities of the same skill."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ὁδυσσέως",
+          "lemma": "Ὀδυσσεύς",
+          "location": "334b",
+          "context": "τὸν τοῦ Ὀδυσσέως πρὸς μητρὸς πάππον Αὐτόλυκον"
+        },
+        {
+          "form": "κλεπτοσύνῃ",
+          "lemma": "κλεπτοσύνη",
+          "location": "334b",
+          "context": "πάντας ἀνθρώπους κεκάσθαι κλεπτοσύνῃ θʼ ὅρκῳ τε"
+        },
+        {
+          "form": "Ὅμηρον",
+          "lemma": "Ὅμηρος",
+          "location": "334b",
+          "context": "κατὰ σὲ καὶ καθʼ Ὅμηρον καὶ κατὰ Σιμωνίδην κλεπτική τις εἶναι"
+        }
+      ],
+      "observation": "Homer's Autolycus (Odysseus' maternal grandfather) is cited as excelling all in κλεπτοσύνη and ὅρκος; justice as κλεπτική is attributed jointly κατὰ σέ, καθʼ Ὅμηρον, καὶ κατὰ Σιμωνίδην."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "semantic_cluster",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "βλαπτόμενοι δʼ ἵπποι",
+          "lemma": null,
+          "location": "335b",
+          "context": "βλαπτόμενοι δʼ ἵπποι βελτίους ἢ χείρους γίγνονται"
+        },
+        {
+          "form": "κύνες βλαπτόμενοι",
+          "lemma": null,
+          "location": "335b",
+          "context": "κύνες βλαπτόμενοι χείρους γίγνονται εἰς τὴν τῶν κυνῶν ἀρετήν"
+        },
+        {
+          "form": "ἀνθρώπους",
+          "lemma": "ἄνθρωπος",
+          "location": "335c",
+          "context": "ἀνθρώπους δέ βλαπτομένους εἰς τὴν ἀνθρωπείαν ἀρετὴν χείρους γίγνεσθαι"
+        }
+      ],
+      "observation": "A parallel series—horses, dogs, humans—each made χείρους by being harmed, each into their own ἀρετή, culminating in the identification of ἀνθρωπεία ἀρετή with δικαιοσύνη."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "τῇ μουσικῇ οἱ μουσικοὶ ἀμούσους",
+          "lemma": null,
+          "location": "335c",
+          "context": null
+        },
+        {
+          "form": "τῇ ἱππικῇ οἱ ἱππικοὶ ἀφίππους",
+          "lemma": null,
+          "location": "335c",
+          "context": null
+        },
+        {
+          "form": "τῇ δικαιοσύνῃ δὴ οἱ δίκαιοι ἀδίκους",
+          "lemma": null,
+          "location": "335c",
+          "context": null
+        }
+      ],
+      "observation": "Three parallel questions: can μουσικοί make people ἄμουσοι by μουσική, ἱππικοί make ἄφιπποι by ἱππική, δίκαιοι make ἄδικοι by δικαιοσύνη? Each answered negatively."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θερμότητος",
+          "lemma": "θερμότης",
+          "location": "335d",
+          "context": "οὐ γὰρ θερμότητος οἶμαι ἔργον ψύχειν ἀλλὰ τοῦ ἐναντίου"
+        },
+        {
+          "form": "ξηρότητος",
+          "lemma": "ξηρότης",
+          "location": "335d",
+          "context": "οὐδὲ ξηρότητος ὑγραίνειν ἀλλὰ τοῦ ἐναντίου"
+        },
+        {
+          "form": "τοῦ ἀγαθοῦ βλάπτειν",
+          "lemma": null,
+          "location": "335d",
+          "context": "οὐδὲ δὴ τοῦ ἀγαθοῦ βλάπτειν ἀλλὰ τοῦ ἐναντίου"
+        }
+      ],
+      "observation": "A series of τοῦ ἐναντίου contrasts: heat cannot cool, dryness cannot moisten, the good cannot harm—each ἔργον belongs to its opposite."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Περιάνδρου",
+          "lemma": "Περίανδρος",
+          "location": "336a",
+          "context": null
+        },
+        {
+          "form": "Περδίκκου",
+          "lemma": "Περδίκκας",
+          "location": "336a",
+          "context": null
+        },
+        {
+          "form": "Ξέρξου",
+          "lemma": "Ξέρξης",
+          "location": "336a",
+          "context": null
+        },
+        {
+          "form": "Ἰσμηνίου τοῦ Θηβαίου",
+          "lemma": null,
+          "location": "336a",
+          "context": null
+        }
+      ],
+      "observation": "The saying about helping friends and harming enemies is attributed not to a σοφός but to a wealthy powerful man—Periander, Perdiccas, Xerxes, or Ismenias the Theban are named as possible sources."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μαχούμεθα",
+          "lemma": "μάχομαι",
+          "location": "335e",
+          "context": "μαχούμεθα ἄρα κοινῇ ἐγώ τε καὶ σύ"
+        },
+        {
+          "form": "κοινωνεῖν τῆς μάχης",
+          "lemma": null,
+          "location": "335e",
+          "context": "ἐγὼ γοῦν ἕτοιμός εἰμι κοινωνεῖν τῆς μάχης"
+        }
+      ],
+      "observation": "Socrates proposes joint fighting (μαχούμεθα κοινῇ) against anyone attributing the saying to wise men; Polemarchus declares readiness to κοινωνεῖν τῆς μάχης—applying martial language to the defense of the argument."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παρακαταθεμένου",
+          "lemma": "παρακατατίθημι",
+          "location": "331e",
+          "context": "τό τινος παρακαταθεμένου τι ὁτῳοῦν μὴ σωφρόνως ἀπαιτοῦντι ἀποδιδόναι"
+        },
+        {
+          "form": "παρακατέθετο",
+          "lemma": "παρακατατίθημι",
+          "location": "332a",
+          "context": "ὀφειλόμενόν πού ἐστιν τοῦτο ὃ παρακατέθετο"
+        },
+        {
+          "form": "παρακαταθέσθαι",
+          "lemma": "παρακατατίθημι",
+          "location": "333c",
+          "context": "ὅταν παρακαταθέσθαι καὶ σῶν εἶναι"
+        }
+      ],
+      "observation": "παρακατατίθημι (deposit) appears first as the case Simonides does NOT mean, then as what was owed, then returns as the only scenario where justice is useful—when money must be stored idle."
+    }
+  ]
+}
