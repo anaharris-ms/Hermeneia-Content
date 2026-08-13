@@ -1,0 +1,376 @@
+{
+  "section_id": "republic-chapter-05-section-11",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "lemma_recurrence",
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θεῶνται",
+          "lemma": "θεάομαι",
+          "location": "466e",
+          "context": "ὥσπερ οἱ τῶν ἄλλων δημιουργῶν θεῶνται ταῦτα"
+        },
+        {
+          "form": "θέᾳ",
+          "lemma": "θέα",
+          "location": "467a",
+          "context": "πρὸς δὲ τῇ θέᾳ διακονεῖν"
+        },
+        {
+          "form": "θεωροῦσι",
+          "lemma": "θεωρέω",
+          "location": "467a",
+          "context": "διακονοῦντες θεωροῦσι πρὶν ἅπτεσθαι"
+        },
+        {
+          "form": "θέᾳ",
+          "lemma": "θέα",
+          "location": "467a",
+          "context": "ἐμπειρίᾳ τε καὶ θέᾳ τῶν προσηκόντων"
+        },
+        {
+          "form": "θεωρεῖν",
+          "lemma": "θεωρέω",
+          "location": "467c",
+          "context": "ἄξιον κινδύνου θεωρεῖν ἢ μὴ τὰ περὶ τὸν πόλεμον"
+        },
+        {
+          "form": "θεωροὺς",
+          "lemma": "θεωρός",
+          "location": "467c",
+          "context": "θεωροὺς πολέμου τοὺς παῖδας ποιεῖν"
+        },
+        {
+          "form": "θέαν",
+          "lemma": "θέα",
+          "location": "467e",
+          "context": "ἐφʼ ἵππων ἀκτέον ἐπὶ τὴν θέαν"
+        },
+        {
+          "form": "θεάσονται",
+          "lemma": "θεάομαι",
+          "location": "467e",
+          "context": "κάλλιστά τε θεάσονται τὸ αὑτῶν ἔργον"
+        }
+      ],
+      "observation": "The lexical family of seeing-as-spectating (θεάομαι, θεωρέω, θέα, θεωρός) recurs densely throughout the section, applied consistently to children watching war."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργῶν",
+          "lemma": "δημιουργός",
+          "location": "466e",
+          "context": "οἱ τῶν ἄλλων δημιουργῶν"
+        },
+        {
+          "form": "δημιουργεῖν",
+          "lemma": "δημιουργέω",
+          "location": "466e",
+          "context": "τελεωθέντας δεήσει δημιουργεῖν"
+        },
+        {
+          "form": "δημιουργόν",
+          "lemma": "δημιουργός",
+          "location": "468a",
+          "context": "δημιουργόν τινα δεῖ καθιστάναι ἢ γεωργόν"
+        }
+      ],
+      "observation": "δημιουργός appears first as the craftsman analogy for children learning by watching, then returns as the demotion punishment for a soldier who deserts—being made a craftsman or farmer."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διακονεῖν",
+          "lemma": "διακονέω",
+          "location": "467a",
+          "context": "πρὸς δὲ τῇ θέᾳ διακονεῖν καὶ ὑπηρετεῖν"
+        },
+        {
+          "form": "διακονοῦντες",
+          "lemma": "διακονέω",
+          "location": "467a",
+          "context": "πολὺν χρόνον διακονοῦντες θεωροῦσι"
+        }
+      ],
+      "observation": "διακονέω appears twice linking service and observation: children should serve alongside watching war, just as potters' children serve while watching pottery."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "κεραμέων",
+          "lemma": "κεραμεύς",
+          "location": "467a",
+          "context": "τοὺς τῶν κεραμέων παῖδας"
+        },
+        {
+          "form": "κεραμεύειν",
+          "lemma": "κεραμεύω",
+          "location": "467a",
+          "context": "πρὶν ἅπτεσθαι τοῦ κεραμεύειν"
+        }
+      ],
+      "observation": "The potter analogy is the concrete craft example chosen for apprenticeship by watching and serving before touching the work."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "πτεροῦν",
+          "lemma": "πτερόω",
+          "location": "467d",
+          "context": "πτεροῦν χρὴ παιδία ὄντα εὐθύς"
+        },
+        {
+          "form": "πετόμενοι",
+          "lemma": "πέτομαι",
+          "location": "467d",
+          "context": "πετόμενοι ἀποφεύγωσιν"
+        }
+      ],
+      "observation": "The metaphor of 'winging' children so they can 'fly' away is introduced, then immediately literalized as mounting them on horses."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θυμοειδῶν",
+          "lemma": "θυμοειδής",
+          "location": "467e",
+          "context": "μὴ θυμοειδῶν μηδὲ μαχητικῶν"
+        },
+        {
+          "form": "ποδωκεστάτων",
+          "lemma": "ποδώκης",
+          "location": "467e",
+          "context": "ὅτι ποδωκεστάτων καὶ εὐηνιωτάτων"
+        }
+      ],
+      "observation": "The horses specified for children are explicitly not spirited or warlike but swift and easy to rein—contrasting combat qualities with escape qualities."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κινδυνεῦσαι",
+          "lemma": "κινδυνεύω",
+          "location": "467b",
+          "context": "παρασκευαστέον τὸ μή ποτε κινδυνεῦσαι"
+        },
+        {
+          "form": "κινδυνευτέον",
+          "lemma": "κινδυνεύω",
+          "location": "467b",
+          "context": "εἴ που κινδυνευτέον"
+        },
+        {
+          "form": "κινδύνου",
+          "lemma": "κίνδυνος",
+          "location": "467c",
+          "context": "ἄξιον κινδύνου θεωρεῖν"
+        },
+        {
+          "form": "ἐπικίνδυνοι",
+          "lemma": "ἐπικίνδυνος",
+          "location": "467d",
+          "context": "ὅσαι τε καὶ μὴ ἐπικίνδυνοι"
+        },
+        {
+          "form": "κίνδυνος",
+          "lemma": "κίνδυνος",
+          "location": "467b",
+          "context": "κίνδυνος δέ, ὦ Σώκρατες, οὐ σμικρὸς"
+        }
+      ],
+      "observation": "κίνδυνος and its cognates cluster densely around the objection and response concerning children at war."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τάξιν",
+          "lemma": "τάξις",
+          "location": "468a",
+          "context": "τὸν λιπόντα τάξιν"
+        },
+        {
+          "form": "ὅπλα ἀποβαλόντα",
+          "lemma": null,
+          "location": "468a",
+          "context": "ὅπλα ἀποβαλόντα"
+        },
+        {
+          "form": "δημιουργόν",
+          "lemma": "δημιουργός",
+          "location": "468a",
+          "context": "δημιουργόν τινα δεῖ καθιστάναι ἢ γεωργόν"
+        }
+      ],
+      "observation": "Desertion or losing arms results in demotion to craftsman or farmer—the craftsman role shifts from the positive apprenticeship analogy to a punishment."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ζῶντα",
+          "lemma": "ζάω",
+          "location": "468a",
+          "context": "τὸν δὲ ζῶντα εἰς τοὺς πολεμίους ἁλόντα"
+        },
+        {
+          "form": "δωρεὰν",
+          "lemma": "δωρεά",
+          "location": "468a",
+          "context": "δωρεὰν διδόναι τοῖς ἑλοῦσι"
+        },
+        {
+          "form": "ἄγρᾳ",
+          "lemma": "ἄγρα",
+          "location": "468a",
+          "context": "χρῆσθαι τῇ ἄγρᾳ ὅτι ἂν βούλωνται"
+        }
+      ],
+      "observation": "A soldier captured alive is to be given as a gift (δωρεά) to the captors, described as their 'catch' (ἄγρα)—hunting language applied to captured soldiers."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πατέρας τε καὶ μητέρας",
+          "lemma": null,
+          "location": "467a",
+          "context": "θεραπεύειν πατέρας τε καὶ μητέρας"
+        },
+        {
+          "form": "πατέρες",
+          "lemma": "πατήρ",
+          "location": "467c",
+          "context": "αὐτῶν οἱ πατέρες"
+        },
+        {
+          "form": "παιδαγωγοὺς",
+          "lemma": "παιδαγωγός",
+          "location": "467d",
+          "context": "ἡγεμόνας τε καὶ παιδαγωγοὺς"
+        }
+      ],
+      "observation": "Parent-child relations recur: children serve fathers and mothers in war, fathers judge which campaigns are safe, and leaders serve as guides and child-minders."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "πᾶν ζῷον",
+          "lemma": null,
+          "location": "467a",
+          "context": "μαχεῖταί γε πᾶν ζῷον διαφερόντως παρόντων ὧν ἂν τέκῃ"
+        },
+        {
+          "form": "ζῴοις",
+          "lemma": "ζῷον",
+          "location": "466d",
+          "context": "ὥσπερ ἐν ἄλλοις ζῴοις"
+        }
+      ],
+      "observation": "ζῷον appears first in the question whether the communal arrangement possible in other animals can arise among humans, then returns in the claim that every animal fights better in the presence of its offspring."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀσφάλειαν",
+          "lemma": "ἀσφάλεια",
+          "location": "467c",
+          "context": "προσμηχανᾶσθαι δʼ αὐτοῖς ἀσφάλειαν"
+        },
+        {
+          "form": "ἀσφαλέστατα",
+          "lemma": "ἀσφαλής",
+          "location": "467e",
+          "context": "ἀσφαλέστατα, ἄν τι δέῃ, σωθήσονται"
+        }
+      ],
+      "observation": "The stated requirement to contrive safety for the children is fulfilled by the specification of swift, manageable horses ensuring the safest escape."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "γνωμονικοὶ",
+          "lemma": "γνωμονικός",
+          "location": "467c",
+          "context": "ἀλλὰ γνωμονικοὶ τῶν στρατειῶν"
+        },
+        {
+          "form": "ἐμπειρίᾳ",
+          "lemma": "ἐμπειρία",
+          "location": "467d",
+          "context": "τοὺς ἐμπειρίᾳ τε καὶ ἡλικίᾳ ἱκανοὺς"
+        }
+      ],
+      "observation": "Fathers are called γνωμονικοί—discerning judges—of campaigns, and the appointed leaders are qualified by experience (ἐμπειρία) and age (ἡλικία)."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "παρὰ δόξαν",
+          "lemma": null,
+          "location": "467d",
+          "context": "καὶ παρὰ δόξαν πολλὰ πολλοῖς δὴ ἐγένετο"
+        }
+      ],
+      "observation": "The phrase παρὰ δόξαν ('contrary to expectation') is introduced as the reason safety measures are still needed even after parental discernment—acknowledging irreducible contingency in war."
+    }
+  ]
+}
