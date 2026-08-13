@@ -1,0 +1,491 @@
+{
+  "section_id": "republic-chapter-01-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρον",
+          "location": "338c",
+          "context": "τὸ τοῦ κρείττονος φῂς συμφέρον δίκαιον εἶναι"
+        },
+        {
+          "form": "συμφέρει",
+          "lemma": "συμφέρω",
+          "location": "338c",
+          "context": "αὐτῷ συμφέρει τὰ βόεια κρέα"
+        },
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρον",
+          "location": "338e",
+          "context": "πρὸς τὸ αὑτῇ συμφέρον"
+        },
+        {
+          "form": "ἀσύμφορα",
+          "lemma": "ἀσύμφορος",
+          "location": "339e",
+          "context": "τὸ ἀσύμφορα ποιεῖν τοῖς ἄρχουσί"
+        },
+        {
+          "form": "ἀσύμφορον",
+          "lemma": "ἀσύμφορος",
+          "location": "339e",
+          "context": "τὸ τοῦ κρείττονος ἀσύμφορον"
+        },
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρον",
+          "location": "342e",
+          "context": "τὸ αὑτῷ συμφέρον σκοπεῖ"
+        }
+      ],
+      "observation": "Forms of συμφέρον/συμφέρω recur densely throughout the section; notably ἀσύμφορα and ἀσύμφορον appear when Socrates turns Thrasymachus's thesis against itself, introducing the negated form into a space saturated with the positive."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κρείττονος",
+          "lemma": "κρείττων",
+          "location": "338c",
+          "context": "τὸ τοῦ κρείττονος συμφέρον"
+        },
+        {
+          "form": "κρείττων",
+          "lemma": "κρείττων",
+          "location": "338c",
+          "context": "Πουλυδάμας ἡμῶν κρείττων ὁ παγκρατιαστής"
+        },
+        {
+          "form": "κρείττονος",
+          "lemma": "κρείττων",
+          "location": "341b",
+          "context": "τὸ συμφέρον κρείττονος ὄντος"
+        }
+      ],
+      "observation": "κρείττων first appears in the political definition, then Socrates deflects it to Polydamas the athlete as physical superior, then it returns in the strict-sense ruler formulation—each time the referent of 'stronger' shifts."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "semantic_cluster",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχον",
+          "lemma": "ἄρχων",
+          "location": "338d",
+          "context": "τὸ ἄρχον"
+        },
+        {
+          "form": "ἀρχομένοις",
+          "lemma": "ἀρχόμενος",
+          "location": "338e",
+          "context": "δίκαιον τοῖς ἀρχομένοις εἶναι"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "339d",
+          "context": "τοὺς ἄρχοντας τοῖς ἀρχομένοις προστάττοντας"
+        },
+        {
+          "form": "ἄρχων",
+          "lemma": "ἄρχων",
+          "location": "340e",
+          "context": "ἄρχων ᾖ"
+        },
+        {
+          "form": "ἀρχομένῳ",
+          "lemma": "ἀρχόμενος",
+          "location": "342e",
+          "context": "τὸ τῷ ἀρχομένῳ"
+        }
+      ],
+      "observation": "ἄρχων and ἀρχόμενος recur as a paired cluster; the craft analogy progressively redefines ἄρχων as serving the ἀρχόμενος rather than extracting benefit from them."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βόεια κρέα",
+          "lemma": null,
+          "location": "338c",
+          "context": "αὐτῷ συμφέρει τὰ βόεια κρέα πρὸς τὸ σῶμα"
+        },
+        {
+          "form": "Πουλυδάμας",
+          "lemma": null,
+          "location": "338c",
+          "context": "Πουλυδάμας ἡμῶν κρείττων ὁ παγκρατιαστής"
+        }
+      ],
+      "observation": "Socrates introduces the pancratist Polydamas and beef as a concrete, bodily counter-example to the political sense of κρείττων—the only physical body and food in the section."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαμαρτάνοντα",
+          "lemma": "ἐξαμαρτάνω",
+          "location": "340c",
+          "context": "κρείττω με οἴει καλεῖν τὸν ἐξαμαρτάνοντα"
+        },
+        {
+          "form": "ἐξαμαρτάνῃ",
+          "lemma": "ἐξαμαρτάνω",
+          "location": "340c",
+          "context": null
+        },
+        {
+          "form": "ἁμαρτάνειν",
+          "lemma": "ἁμαρτάνω",
+          "location": "339c",
+          "context": "οἷοί τι καὶ ἁμαρτεῖν"
+        },
+        {
+          "form": "ἁμαρτάνῃ",
+          "lemma": "ἁμαρτάνω",
+          "location": "340d",
+          "context": "ἐν λογισμῷ ἁμαρτάνῃ"
+        },
+        {
+          "form": "ἁμαρτία",
+          "lemma": "ἁμαρτία",
+          "location": "342b",
+          "context": "οὔτε γὰρ πονηρία οὔτε ἁμαρτία οὐδεμία οὐδεμιᾷ τέχνῃ πάρεστιν"
+        }
+      ],
+      "observation": "ἁμαρτάνω and ἐξαμαρτάνω cluster densely around the question of whether rulers err; Thrasymachus's strict-sense move eliminates error from the craft, so ἁμαρτία reappears only to be denied at 342b."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἰατρόν",
+          "lemma": "ἰατρός",
+          "location": "340d",
+          "context": "ἰατρὸν καλεῖς σὺ τὸν ἐξαμαρτάνοντα περὶ τοὺς κάμνοντας"
+        },
+        {
+          "form": "λογιστικόν",
+          "lemma": "λογιστικός",
+          "location": "340d",
+          "context": null
+        },
+        {
+          "form": "γραμματιστής",
+          "lemma": "γραμματιστής",
+          "location": "340d",
+          "context": null
+        },
+        {
+          "form": "κυβερνήτης",
+          "lemma": "κυβερνήτης",
+          "location": "341c",
+          "context": "ὁ ὀρθῶς κυβερνήτης ναυτῶν ἄρχων ἐστὶν ἢ ναύτης"
+        }
+      ],
+      "observation": "A series of craftsmen—ἰατρός, λογιστής, γραμματιστής, κυβερνήτης—are gathered as parallel instances; each is said not to err insofar as he is what his name designates."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κακουργήσαις",
+          "lemma": "κακουργέω",
+          "location": "338d",
+          "context": "ᾗ ἂν κακουργήσαις μάλιστα τὸν λόγον"
+        },
+        {
+          "form": "κακουργοῦντά",
+          "lemma": "κακουργέω",
+          "location": "341a",
+          "context": "ἐξ ἐπιβουλῆς ἐν τοῖς λόγοις κακουργοῦντά σε"
+        },
+        {
+          "form": "κακούργει",
+          "lemma": "κακουργέω",
+          "location": "341b",
+          "context": "πρὸς ταῦτα κακούργει καὶ συκοφάντει"
+        }
+      ],
+      "observation": "κακουργέω appears three times: Thrasymachus accuses Socrates of κακουργία in argument at 338d, Socrates denies it at 341a, and Thrasymachus challenges him to do it at 341b."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συκοφάντης",
+          "lemma": "συκοφάντης",
+          "location": "340d",
+          "context": "συκοφάντης γὰρ εἶ, ὦ Σώκρατες, ἐν τοῖς λόγοις"
+        },
+        {
+          "form": "συκοφαντεῖν",
+          "lemma": "συκοφαντέω",
+          "location": "341a",
+          "context": "δοκῶ σοι συκοφαντεῖν;"
+        },
+        {
+          "form": "συκοφάντει",
+          "lemma": "συκοφαντέω",
+          "location": "341b",
+          "context": "κακούργει καὶ συκοφάντει"
+        },
+        {
+          "form": "συκοφαντεῖν",
+          "lemma": "συκοφαντέω",
+          "location": "341c",
+          "context": "ξυρεῖν ἐπιχειρεῖν λέοντα καὶ συκοφαντεῖν Θρασύμαχον"
+        }
+      ],
+      "observation": "συκοφάντης/συκοφαντέω recurs four times, each from Thrasymachus or about Thrasymachus, clustered in the exchange about strict vs. loose usage."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ξυρεῖν",
+          "lemma": "ξυρέω",
+          "location": "341c",
+          "context": "ξυρεῖν ἐπιχειρεῖν λέοντα"
+        },
+        {
+          "form": "λέοντα",
+          "lemma": "λέων",
+          "location": "341c",
+          "context": null
+        }
+      ],
+      "observation": "Socrates says he would not be so mad as to try to shave a lion—a striking animal image applied to Thrasymachus."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀκριβεῖ λόγῳ",
+          "lemma": null,
+          "location": "340e",
+          "context": "κατὰ τὸν ἀκριβῆ λόγον"
+        },
+        {
+          "form": "ὡς ἔπος εἰπεῖν",
+          "lemma": null,
+          "location": "341b",
+          "context": "τὸν ὡς ἔπος εἰπεῖν"
+        }
+      ],
+      "observation": "Thrasymachus introduces a contrast between ἀκριβὴς λόγος (strict account) and ὡς ἔπος εἰπεῖν (loose speech); Socrates then asks him to choose which sense of ἄρχων he means."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τέχνη",
+          "lemma": "τέχνη",
+          "location": "341d",
+          "context": "κατὰ τὴν τέχνην καὶ τὴν τῶν ναυτῶν ἀρχήν"
+        },
+        {
+          "form": "ἐπιστήμης",
+          "lemma": "ἐπιστήμη",
+          "location": "340e",
+          "context": "ἐπιλειπούσης γὰρ ἐπιστήμης ὁ ἁμαρτάνων ἁμαρτάνει"
+        },
+        {
+          "form": "δημιουργός",
+          "lemma": "δημιουργός",
+          "location": "340e",
+          "context": "οὐδεὶς τῶν δημιουργῶν ἁμαρτάνει"
+        }
+      ],
+      "observation": "τέχνη, ἐπιστήμη, and δημιουργός cluster together in the strict-sense argument: the craftsman errs only when his ἐπιστήμη fails, i.e. when he is not a δημιουργός."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀφθαλμοὶ ὄψεως",
+          "lemma": null,
+          "location": "342a",
+          "context": "ὥσπερ ὀφθαλμοὶ ὄψεως καὶ ὦτα ἀκοῆς"
+        },
+        {
+          "form": "σῶμά ἐστιν πονηρὸν",
+          "lemma": null,
+          "location": "341e",
+          "context": "σῶμά ἐστιν πονηρὸν καὶ οὐκ ἐξαρκεῖ αὐτῷ τοιούτῳ εἶναι"
+        }
+      ],
+      "observation": "The body's deficiency (σῶμα πονηρόν) and the inadequacy of eyes for seeing and ears for hearing are offered as parallel cases of something needing a τέχνη to supply what it lacks."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀπέραντον",
+          "lemma": "ἀπέραντος",
+          "location": "342a",
+          "context": "καὶ τοῦτ' ἔστιν ἀπέραντον"
+        }
+      ],
+      "observation": "The word ἀπέραντον marks the infinite regress threat: if each τέχνη needed another τέχνη to look after its benefit, the process would be endless."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συνεχώρησεν ἐνταῦθα καὶ μάλα μόγις",
+          "lemma": null,
+          "location": "342c",
+          "context": null
+        },
+        {
+          "form": "συνέφη μόγις",
+          "lemma": null,
+          "location": "342e",
+          "context": "συνέφησε μόγις"
+        }
+      ],
+      "observation": "The narrator twice records Thrasymachus agreeing μόγις (with difficulty)—at 342c and 342e—marking resistant concessions at key steps of the craft argument."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "βλέπων",
+          "lemma": "βλέπω",
+          "location": "342e",
+          "context": "πρὸς ἐκεῖνο βλέπων καὶ τὸ ἐκείνῳ συμφέρον καὶ πρέπον"
+        },
+        {
+          "form": "λέγει ἃ λέγει καὶ ποιεῖ ἃ ποιεῖ ἅπαντα",
+          "lemma": null,
+          "location": "342e",
+          "context": null
+        }
+      ],
+      "observation": "The section closes with a statement that the true ruler looks toward (βλέπων) the ruled and does everything for that one's benefit—the completed form of the craft argument's conclusion."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χρηματιστής",
+          "lemma": "χρηματιστής",
+          "location": "341c",
+          "context": "πότερον χρηματιστής ἐστιν ἢ τῶν καμνόντων θεραπευτής"
+        },
+        {
+          "form": "θεραπευτής",
+          "lemma": "θεραπευτής",
+          "location": "341c",
+          "context": null
+        }
+      ],
+      "observation": "Socrates poses χρηματιστής against θεραπευτής as mutually exclusive identities for the strict-sense doctor—moneymaker versus healer of the sick."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τυραννοῦνται",
+          "lemma": "τυραννέω",
+          "location": "338d",
+          "context": null
+        },
+        {
+          "form": "δημοκρατοῦνται",
+          "lemma": "δημοκρατέω",
+          "location": "338d",
+          "context": null
+        },
+        {
+          "form": "ἀριστοκρατοῦνται",
+          "lemma": "ἀριστοκρατέω",
+          "location": "338d",
+          "context": null
+        }
+      ],
+      "observation": "Three regime types are listed as parallel verbal forms—τυραννοῦνται, δημοκρατοῦνται, ἀριστοκρατοῦνται—in Thrasymachus's elaboration of his thesis."
+    },
+    {
+      "signal_id": "s018",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "παρανομοῦντα",
+          "lemma": "παρανομέω",
+          "location": "338e",
+          "context": "κολάζουσιν ὡς παρανομοῦντά τε καὶ ἀδικοῦντα"
+        },
+        {
+          "form": "ἀδικοῦντα",
+          "lemma": "ἀδικέω",
+          "location": "338e",
+          "context": null
+        }
+      ],
+      "observation": "Transgressing the ruler's law is equated with both παρανομεῖν and ἀδικεῖν—the one who steps outside (ἐκβαίνοντα) is punished as both lawbreaker and doer of injustice."
+    }
+  ]
+}
