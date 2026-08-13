@@ -1,0 +1,341 @@
+{
+  "section_id": "republic-chapter-04-section-10",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνιὼν",
+          "lemma": "ἀνιέναι",
+          "location": "439e",
+          "context": "Λεόντιος ὁ Ἀγλαΐωνος ἀνιὼν ἐκ Πειραιῶς"
+        }
+      ],
+      "observation": "Leontius is moving upward out of the Piraeus, an explicit directional movement."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἰδεῖν ἐπιθυμοῖ",
+          "lemma": null,
+          "location": "439e",
+          "context": "ἅμα μὲν ἰδεῖν ἐπιθυμοῖ"
+        },
+        {
+          "form": "ἀποτρέποι ἑαυτόν",
+          "lemma": "ἀποτρέπω",
+          "location": "439e",
+          "context": "ἅμα δὲ αὖ δυσχεραίνοι καὶ ἀποτρέποι ἑαυτόν"
+        }
+      ],
+      "observation": "Simultaneous desire to see and self-turning-away, marked by ἅμα μὲν … ἅμα δέ."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "μάχοιτο",
+          "lemma": "μάχομαι",
+          "location": "439e",
+          "context": "τέως μὲν μάχοιτό τε καὶ παρακαλύπτοιτο"
+        },
+        {
+          "form": "παρακαλύπτοιτο",
+          "lemma": "παρακαλύπτω",
+          "location": "439e",
+          "context": null
+        }
+      ],
+      "observation": "Fighting and covering/veiling oneself appear together as simultaneous actions of internal resistance."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "διελκύσας τοὺς ὀφθαλμούς",
+          "lemma": null,
+          "location": "440a",
+          "context": null
+        }
+      ],
+      "observation": "Leontius physically pulls open his own eyes—a striking bodily action of forcing sight upon himself."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἰδοὺ ὑμῖν",
+          "lemma": null,
+          "location": "440a",
+          "context": "ἰδοὺ ὑμῖν, ἔφη, ὦ κακοδαίμονες, ἐμπλήσθητε τοῦ καλοῦ θεάματος"
+        }
+      ],
+      "observation": "Leontius addresses his own eyes as 'ὦ κακοδαίμονες' and commands them to be sated with the 'καλοῦ θεάματος'—the beautiful spectacle applied to corpses."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμοῖ",
+          "lemma": "ἐπιθυμία",
+          "location": "439e",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "440a",
+          "context": "κρατούμενος δʼ οὖν ὑπὸ τῆς ἐπιθυμίας"
+        },
+        {
+          "form": "ἐπιθυμίαι",
+          "lemma": "ἐπιθυμία",
+          "location": "440b",
+          "context": "βιάζωνταί τινα παρὰ τὸν λογισμὸν ἐπιθυμίαι"
+        },
+        {
+          "form": "ἐπιθυμητικόν",
+          "lemma": "ἐπιθυμητικός",
+          "location": "439e",
+          "context": "τῷ ἐπιθυμητικῷ"
+        },
+        {
+          "form": "ἐπιθυμητικόν",
+          "lemma": "ἐπιθυμητικός",
+          "location": "440e",
+          "context": "ἐπιθυμητικόν τι αὐτὸ ᾠόμεθα εἶναι"
+        }
+      ],
+      "observation": "The ἐπιθυμία/ἐπιθυμητικός family recurs densely across the section."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πολεμεῖν",
+          "lemma": "πολεμέω",
+          "location": "440a",
+          "context": "τὴν ὀργὴν πολεμεῖν ἐνίοτε ταῖς ἐπιθυμίαις"
+        },
+        {
+          "form": "στασιαζόντοιν",
+          "lemma": "στασιάζω",
+          "location": "440b",
+          "context": "ὥσπερ δυοῖν στασιαζόντοιν"
+        },
+        {
+          "form": "σύμμαχον",
+          "lemma": "σύμμαχος",
+          "location": "440b",
+          "context": "σύμμαχον τῷ λόγῳ γιγνόμενον τὸν θυμόν"
+        },
+        {
+          "form": "συμμαχεῖ",
+          "lemma": "συμμαχέω",
+          "location": "440c",
+          "context": "συμμαχεῖ τῷ δοκοῦντι δικαίῳ"
+        },
+        {
+          "form": "τὰ ὅπλα",
+          "lemma": "ὅπλον",
+          "location": "440e",
+          "context": "τίθεσθαι τὰ ὅπλα πρὸς τὸ λογιστικόν"
+        }
+      ],
+      "observation": "A cluster of military/political-conflict vocabulary (war, faction, alliance, arms) applied to parts of the soul."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "κύων",
+          "lemma": "κύων",
+          "location": "440d",
+          "context": "ὥσπερ κύων ὑπὸ νομέως"
+        },
+        {
+          "form": "κύνας",
+          "lemma": "κύων",
+          "location": "440d",
+          "context": "τοὺς ἐπικούρους ὥσπερ κύνας ἐθέμεθα"
+        },
+        {
+          "form": "ποιμένων",
+          "lemma": "ποιμήν",
+          "location": "440d",
+          "context": "ὥσπερ ποιμένων πόλεως"
+        }
+      ],
+      "observation": "The dog-shepherd simile appears for thumos called back by reason, then Glaucon immediately connects it to the guardians-as-dogs under ruler-shepherds in the city."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπικουρητικόν",
+          "lemma": null,
+          "location": "441a",
+          "context": "χρηματιστικόν, ἐπικουρητικόν, βουλευτικόν"
+        },
+        {
+          "form": "ἐπίκουρον",
+          "lemma": "ἐπίκουρος",
+          "location": "441a",
+          "context": "ἐπίκουρον ὂν τῷ λογιστικῷ φύσει"
+        },
+        {
+          "form": "ἐπικούρους",
+          "lemma": "ἐπίκουρος",
+          "location": "440d",
+          "context": "τοὺς ἐπικούρους ὥσπερ κύνας"
+        }
+      ],
+      "observation": "The ἐπίκουρος family links the auxiliaries in the city to thumos as natural auxiliary of the rational part."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γενναιότερος",
+          "lemma": "γενναῖος",
+          "location": "440c",
+          "context": "ὅσῳ ἂν γενναιότερος ᾖ, τοσούτῳ ἧττον δύναται ὀργίζεσθαι"
+        },
+        {
+          "form": "γενναίων",
+          "lemma": "γενναῖος",
+          "location": "440d",
+          "context": "οὐ λήγει τῶν γενναίων"
+        }
+      ],
+      "observation": "γενναῖος appears first where nobility restrains anger at just suffering, then where the spirited part persists in 'noble efforts' against injustice."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "παιδίοις",
+          "lemma": "παιδίον",
+          "location": "441a",
+          "context": "ἐν τοῖς παιδίοις"
+        },
+        {
+          "form": "θηρίοις",
+          "lemma": "θηρίον",
+          "location": "441b",
+          "context": "ἐν τοῖς θηρίοις"
+        }
+      ],
+      "observation": "Children and beasts are cited as evidence that thumos exists without reason—children full of θυμός from birth, some never partaking of λογισμός."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "στῆθος δὲ πλήξας κραδίην ἠνίπαπε μύθῳ",
+          "lemma": null,
+          "location": "441b",
+          "context": null
+        }
+      ],
+      "observation": "A Homeric quotation (Od. 20.17) where striking the chest and rebuking the heart with speech is cited as evidence of one part rebuking another."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "lexical_family",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀναλογισάμενον",
+          "lemma": "ἀναλογίζομαι",
+          "location": "441c",
+          "context": "τὸ ἀναλογισάμενον περὶ τοῦ βελτίονός τε καὶ χείρονος"
+        },
+        {
+          "form": "ἀλογίστως",
+          "lemma": "ἀλογίστως",
+          "location": "441c",
+          "context": "τῷ ἀλογίστως θυμουμένῳ"
+        }
+      ],
+      "observation": "ἀναλογισάμενον (having reasoned) and ἀλογίστως (without reason) appear in direct contrast, sharing the λόγος root in opposed forms."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "στάσει",
+          "lemma": "στάσις",
+          "location": "440e",
+          "context": "ἐν τῇ τῆς ψυχῆς στάσει τίθεσθαι τὰ ὅπλα πρὸς τὸ λογιστικόν"
+        },
+        {
+          "form": "στασιαζόντοιν",
+          "lemma": "στασιάζω",
+          "location": "440b",
+          "context": "ὥσπερ δυοῖν στασιαζόντοιν"
+        }
+      ],
+      "observation": "στάσις recurs: first as faction between two warring parties, then as the soul's civil strife in which thumos takes up arms on reason's side."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "κακῆς τροφῆς",
+          "lemma": null,
+          "location": "441a",
+          "context": "ἐὰν μὴ ὑπὸ κακῆς τροφῆς διαφθαρῇ"
+        }
+      ],
+      "observation": "Thumos is naturally an ally of reason unless corrupted by bad rearing—a conditional qualification on the tripartite alignment."
+    }
+  ]
+}
