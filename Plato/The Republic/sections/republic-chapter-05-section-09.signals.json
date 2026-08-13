@@ -1,0 +1,365 @@
+{
+  "section_id": "republic-chapter-05-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δεσπότας",
+          "lemma": "δεσπότης",
+          "location": "463a",
+          "context": "ἐν μὲν ταῖς πολλαῖς δεσπότας"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "463a",
+          "context": "ἐν δὲ ταῖς δημοκρατουμέναις … ἄρχοντας"
+        },
+        {
+          "form": "σωτῆράς τε καὶ ἐπικούρους",
+          "lemma": null,
+          "location": "463b",
+          "context": null
+        }
+      ],
+      "observation": "Three different cities' peoples call their rulers by contrasting names: δεσπότας in most cities, ἄρχοντας in democracies, σωτῆράς τε καὶ ἐπικούρους in the proposed city."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δούλους",
+          "lemma": "δοῦλος",
+          "location": "463b",
+          "context": "οἱ δʼ ἐν ταῖς ἄλλαις ἄρχοντες τοὺς δήμους"
+        },
+        {
+          "form": "μισθοδότας τε καὶ τροφέας",
+          "lemma": null,
+          "location": "463b",
+          "context": "τί δʼ οὗτοι τὸν δῆμον"
+        }
+      ],
+      "observation": "In other cities rulers call the people δούλους; in the proposed city rulers call them μισθοδότας τε καὶ τροφέας."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lexical_family",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "συνάρχοντας",
+          "lemma": "συνάρχων",
+          "location": "463b",
+          "context": null
+        },
+        {
+          "form": "συμφύλακας",
+          "lemma": "συμφύλαξ",
+          "location": "463b",
+          "context": null
+        }
+      ],
+      "observation": "Rulers in other cities call each other συνάρχοντας; in the proposed city they call each other συμφύλακας. Both are σύν- compounds."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "οἰκεῖον",
+          "lemma": "οἰκεῖος",
+          "location": "463b",
+          "context": "τὸν μὲν ὡς οἰκεῖον"
+        },
+        {
+          "form": "ἀλλότριον",
+          "lemma": "ἀλλότριος",
+          "location": "463b",
+          "context": "τὸν δʼ ὡς ἀλλότριον"
+        }
+      ],
+      "observation": "The pair οἰκεῖον/ἀλλότριον structures the distinction between how co-rulers in other cities regard each other versus how guardians do."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀδελφῷ",
+          "lemma": "ἀδελφός",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "ἀδελφῇ",
+          "lemma": "ἀδελφή",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "πατρὶ",
+          "lemma": "πατήρ",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "μητρὶ",
+          "lemma": "μήτηρ",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "ὑεῖ",
+          "lemma": "υἱός",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "θυγατρὶ",
+          "lemma": "θυγάτηρ",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "ἐκγόνοις",
+          "lemma": "ἔκγονος",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "προγόνοις",
+          "lemma": "πρόγονος",
+          "location": "463c",
+          "context": null
+        }
+      ],
+      "observation": "A dense enumeration of kinship terms covers the full family structure—siblings, parents, children, descendants, ancestors—applied to every guardian encountered."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀνόματα μόνον οἰκεῖα",
+          "lemma": null,
+          "location": "463c",
+          "context": "τὰ ὀνόματα μόνον οἰκεῖα νομοθετήσεις"
+        },
+        {
+          "form": "τὰς πράξεις πάσας κατὰ τὰ ὀνόματα πράττειν",
+          "lemma": null,
+          "location": "463d",
+          "context": null
+        }
+      ],
+      "observation": "Socrates poses whether kinship will be ὀνόματα μόνον or whether πράξεις πᾶσαι will follow the names—names versus deeds."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "φῆμαι",
+          "lemma": "φήμη",
+          "location": "463d",
+          "context": "ἄλλαι φῆμαι ἐξ ἁπάντων τῶν πολιτῶν ὑμνήσουσιν εὐθὺς περὶ τὰ τῶν παίδων ὦτα"
+        }
+      ],
+      "observation": "φῆμαι are said to be sung (ὑμνήσουσιν) around children's ears—civic sayings directed at children's hearing as an enforcement mechanism."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἄνευ ἔργων",
+          "lemma": null,
+          "location": "463e",
+          "context": "γελοῖον γὰρ ἂν εἴη εἰ ἄνευ ἔργων οἰκεῖα ὀνόματα διὰ τῶν στομάτων μόνον φθέγγοιντο"
+        }
+      ],
+      "observation": "Glaucon calls it γελοῖον to utter kinship names through mouths (στομάτων) without deeds (ἔργων), echoing the names-versus-deeds contrast with bodily specificity."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἐμὸν εὖ πράττει",
+          "lemma": null,
+          "location": "463e",
+          "context": "τὸ ὅτι τὸ ἐμὸν εὖ πράττει ἢ ὅτι τὸ ἐμὸν κακῶς"
+        },
+        {
+          "form": "ἐμὸν",
+          "lemma": "ἐμός",
+          "location": "464a",
+          "context": "ὃ δὴ ἐμὸν ὀνομάσουσιν"
+        }
+      ],
+      "observation": "The phrase τὸ ἐμόν is cited as a ῥῆμα previously established and then returns as what citizens will ὀνομάσουσιν in common—the possessive pronoun becoming a shared communal designation."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κοινῇ",
+          "lemma": "κοινός",
+          "location": "464a",
+          "context": "τάς τε ἡδονὰς καὶ τὰς λύπας κοινῇ"
+        },
+        {
+          "form": "κοινωνήσουσιν",
+          "lemma": "κοινωνέω",
+          "location": "464a",
+          "context": null
+        },
+        {
+          "form": "κοινωνοῦντες",
+          "lemma": "κοινωνέω",
+          "location": "464a",
+          "context": null
+        },
+        {
+          "form": "κοινωνίαν",
+          "lemma": "κοινωνία",
+          "location": "464a",
+          "context": null
+        },
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "464a",
+          "context": "ἡ τῶν γυναικῶν τε καὶ παίδων κοινωνία"
+        },
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "464b",
+          "context": "ἡ κοινωνία τοῖς ἐπικούροις τῶν τε παίδων καὶ τῶν γυναικῶν"
+        }
+      ],
+      "observation": "κοινων- forms appear in dense local cluster across 464a–b, applied to pleasures and pains, to the possessive ἐμόν, and to women and children."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "λύπης τε … καὶ ἡδονῆς",
+          "lemma": null,
+          "location": "464a",
+          "context": "λύπης τε καὶ ἡδονῆς μάλιστα κοινωνίαν ἕξουσιν"
+        },
+        {
+          "form": "σώματι πρὸς μέρος αὑτοῦ λύπης τε πέρι καὶ ἡδονῆς",
+          "lemma": null,
+          "location": "464b",
+          "context": "ἀπεικάζοντες εὖ οἰκουμένην πόλιν σώματι"
+        }
+      ],
+      "observation": "Shared λύπη and ἡδονή recur: first as the κοινωνία of citizens, then in the analogy of a well-governed πόλις to a σῶμα and its part."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "οὔτε οἰκίας τούτοις ἰδίας",
+          "lemma": null,
+          "location": "464b",
+          "context": "οὔτε οἰκίας τούτοις ἰδίας δεῖν εἶναι οὔτε γῆν οὔτε"
+        }
+      ],
+      "observation": "The section breaks off mid-sentence listing what guardians must not have as private (ἰδίας): houses, land, and an unfinished third item."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οἰκεῖα",
+          "lemma": "οἰκεῖος",
+          "location": "463e",
+          "context": "οἰκεῖα ὀνόματα"
+        },
+        {
+          "form": "ἰδίας",
+          "lemma": "ἴδιος",
+          "location": "464b",
+          "context": "οὔτε οἰκίας τούτοις ἰδίας"
+        }
+      ],
+      "observation": "οἰκεῖος appears positively (kinship names that should be shared) while ἴδιος appears negatively (private houses forbidden)—two words for 'one's own' in opposed valuations."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προσεροῦσι",
+          "lemma": "προσαγορεύω",
+          "location": "463a",
+          "context": "πολίτας μὲν δὴ πάντες οὗτοι ἀλλήλους προσεροῦσι"
+        },
+        {
+          "form": "προσαγορεύει",
+          "lemma": "προσαγορεύω",
+          "location": "463a",
+          "context": "τί ὁ ἐν ταῖς ἄλλαις δῆμος τοὺς ἄρχοντας προσαγορεύει"
+        },
+        {
+          "form": "προσειπεῖν",
+          "lemma": "προσαγορεύω",
+          "location": "463b",
+          "context": "εἴ τίς τινα ἔχει προσειπεῖν τῶν συναρχόντων"
+        },
+        {
+          "form": "προσειπεῖν",
+          "lemma": "προσαγορεύω",
+          "location": "463c",
+          "context": "τῶν συμφυλάκων … προσειπεῖν ὡς ἀλλότριον"
+        }
+      ],
+      "observation": "Forms of προσαγορεύω recur throughout the naming sequence, foregrounding the act of addressing as the vehicle for political and kinship relations."
+    }
+  ]
+}
