@@ -1,0 +1,452 @@
+{
+  "section_id": "republic-chapter-01-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀλλότριον ἀγαθὸν",
+          "lemma": null,
+          "location": "343c",
+          "context": "ἡ μὲν δικαιοσύνη καὶ τὸ δίκαιον ἀλλότριον ἀγαθὸν τῷ ὄντι"
+        },
+        {
+          "form": "οἰκεία … βλάβη",
+          "lemma": null,
+          "location": "343c",
+          "context": "οἰκεία δὲ τοῦ πειθομένου τε καὶ ὑπηρετοῦντος βλάβη"
+        }
+      ],
+      "observation": "Justice is called ἀλλότριον ἀγαθόν while the ruled receive οἰκεία βλάβη, contrasting ἀλλότριον/οἰκεῖον with ἀγαθόν/βλάβη."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποιμένας",
+          "lemma": "ποιμήν",
+          "location": "343b",
+          "context": null
+        },
+        {
+          "form": "πρόβατα",
+          "lemma": "πρόβατον",
+          "location": "343a",
+          "context": "οὐδὲ πρόβατα οὐδὲ ποιμένα γιγνώσκεις"
+        },
+        {
+          "form": "βουκόλους",
+          "lemma": "βουκόλος",
+          "location": "343b",
+          "context": null
+        },
+        {
+          "form": "βοῶν",
+          "lemma": "βοῦς",
+          "location": "343b",
+          "context": null
+        },
+        {
+          "form": "παχύνειν",
+          "lemma": "παχύνω",
+          "location": "343b",
+          "context": null
+        },
+        {
+          "form": "πιαίνειν",
+          "lemma": "πιαίνω",
+          "location": "345c",
+          "context": "πιαίνειν οἴει αὐτὸν τὰ πρόβατα"
+        }
+      ],
+      "observation": "A shepherd/cattle cluster recurs across the section: ποιμήν, πρόβατον, βουκόλος, βοῦς appear in Thrasymachus's charge, and παχύνειν at 343b is answered by πιαίνειν at 345c when Socrates takes up the same image."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τίτθη",
+          "lemma": "τίτθη",
+          "location": "343a",
+          "context": "τίτθη σοι ἔστιν"
+        }
+      ],
+      "observation": "Thrasymachus asks Socrates whether he has a nurse (τίτθη), a striking singular term of address."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κορυζῶντα",
+          "lemma": "κορυζάω",
+          "location": "343a",
+          "context": "κορυζῶντα περιορᾷ καὶ οὐκ ἀπομύττει δεόμενον"
+        }
+      ],
+      "observation": "Thrasymachus says Socrates' nurse neglects him running-nosed (κορυζῶντα) and unwiped (οὐκ ἀπομύττει), a concrete bodily image applied to intellectual failure."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "σκοπεῖν",
+          "lemma": "σκοπέω",
+          "location": "343b",
+          "context": null
+        },
+        {
+          "form": "σκοπεῖν",
+          "lemma": "σκοπέω",
+          "location": "343b",
+          "context": "ἄλλο τι σκοπεῖν αὐτοὺς διὰ νυκτὸς καὶ ἡμέρας"
+        },
+        {
+          "form": "σκοπεῖσθαι",
+          "lemma": "σκοπέω",
+          "location": "343d",
+          "context": "σκοπεῖσθαι δέ, ὦ εὐηθέστατε Σώκρατες"
+        },
+        {
+          "form": "σκόπει",
+          "lemma": "σκοπέω",
+          "location": "344a",
+          "context": "τοῦτον οὖν σκόπει"
+        },
+        {
+          "form": "σκοπεῖσθαι",
+          "lemma": "σκοπέω",
+          "location": "345d",
+          "context": "μηδενὶ ἄλλῳ τὸ βέλτιστον σκοπεῖσθαι"
+        },
+        {
+          "form": "σκοποῦσα",
+          "lemma": "σκοπέω",
+          "location": "346e",
+          "context": "τὸ ἐκείνου συμφέρον ἥττονος ὄντος σκοποῦσα"
+        }
+      ],
+      "observation": "Forms of σκοπέω appear densely throughout: Thrasymachus uses it for what shepherds look to, commands Socrates to σκοπεῖσθαι and σκόπει, and Socrates returns it for what each τέχνη looks to for the ruled."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐηθέστατε",
+          "lemma": "εὐήθης",
+          "location": "343d",
+          "context": "ὦ εὐηθέστατε Σώκρατες"
+        },
+        {
+          "form": "εὐηθικῶν",
+          "lemma": "εὐήθης",
+          "location": "343c",
+          "context": "τῶν ὡς ἀληθῶς εὐηθικῶν τε καὶ δικαίων"
+        }
+      ],
+      "observation": "εὐήθης appears as εὐηθικῶν describing the ruled (simple/just) and as εὐηθέστατε in direct address to Socrates."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ βαλανεὺς",
+          "lemma": "βαλανεύς",
+          "location": "344d",
+          "context": "ὥσπερ βαλανεὺς ἡμῶν καταντλήσας κατὰ τῶν ὤτων ἀθρόον καὶ πολὺν τὸν λόγον"
+        }
+      ],
+      "observation": "Socrates narrates Thrasymachus pouring speech like a bath-attendant (βαλανεύς) drenching their ears — a concrete bodily image for the speech act."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀπιέναι",
+          "lemma": "ἄπειμι",
+          "location": "344d",
+          "context": "ἐν νῷ εἶχεν ἀπιέναι"
+        },
+        {
+          "form": "ὑπομεῖναί",
+          "lemma": "ὑπομένω",
+          "location": "344d",
+          "context": "ἠνάγκασαν ὑπομεῖναί τε καὶ παρασχεῖν τῶν εἰρημένων λόγον"
+        }
+      ],
+      "observation": "Thrasymachus intends to depart (ἀπιέναι) but those present compel him to remain (ὑπομεῖναι) and give account."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "343c",
+          "context": "τοῦ κρείττονός τε καὶ ἄρχοντος συμφέρον"
+        },
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "344c",
+          "context": "τὸ μὲν τοῦ κρείττονος συμφέρον τὸ δίκαιον τυγχάνει ὄν"
+        },
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "347d",
+          "context": "οὐ πέφυκε τὸ αὑτῷ συμφέρον σκοπεῖσθαι ἀλλὰ τὸ τῷ ἀρχομένῳ"
+        },
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "347e",
+          "context": "τὸ δίκαιόν ἐστιν τὸ τοῦ κρείττονος συμφέρον"
+        }
+      ],
+      "observation": "συμφέρον recurs as the contested term: Thrasymachus assigns it to the κρείττων, Socrates redirects it to the ἀρχόμενος."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μισθὸν",
+          "lemma": "μισθός",
+          "location": "345e",
+          "context": "μισθὸν αἰτοῦσιν"
+        },
+        {
+          "form": "μισθωτική",
+          "lemma": "μισθωτική",
+          "location": "346b",
+          "context": "μισθωτικὴ μισθόν"
+        },
+        {
+          "form": "μισθαρνητική",
+          "lemma": "μισθαρνητική",
+          "location": "346d",
+          "context": "ἡ δὲ μισθαρνητικὴ μισθόν"
+        },
+        {
+          "form": "μισθὸν",
+          "lemma": "μισθός",
+          "location": "347a",
+          "context": "μισθὸν δεῖν ὑπάρχειν τοῖς μέλλουσιν ἐθελήσειν ἄρχειν"
+        }
+      ],
+      "observation": "μισθός and its cognates (μισθωτική, μισθαρνητική) cluster densely as Socrates distinguishes the wage-earning art from each craft's proper product."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἔλαττον",
+          "lemma": "ἐλάττων",
+          "location": "343d",
+          "context": "δίκαιος ἀνὴρ ἀδίκου πανταχοῦ ἔλαττον ἔχει"
+        },
+        {
+          "form": "πλέον",
+          "lemma": "πλέων",
+          "location": "343d",
+          "context": "πλέον ἔχοντα τὸν δίκαιον τοῦ ἀδίκου"
+        }
+      ],
+      "observation": "ἔλαττον and πλέον are paired as the just man always has less (ἔλαττον) and never more (πλέον) than the unjust."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τυραννίς",
+          "lemma": "τυραννίς",
+          "location": "344a",
+          "context": "ἔστιν δὲ τοῦτο τυραννίς"
+        },
+        {
+          "form": "τελεωτάτην ἀδικίαν",
+          "lemma": null,
+          "location": "344a",
+          "context": "ἐπὶ τὴν τελεωτάτην ἀδικίαν ἔλθῃς"
+        }
+      ],
+      "observation": "Tyranny (τυραννίς) is identified as the τελεωτάτη ἀδικία, the most complete injustice."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαιμονέστατον",
+          "lemma": "εὐδαίμων",
+          "location": "344a",
+          "context": "τὸν μὲν ἀδικήσαντα εὐδαιμονέστατον ποιεῖ"
+        },
+        {
+          "form": "ἀθλιωτάτους",
+          "lemma": "ἄθλιος",
+          "location": "344a",
+          "context": "τοὺς δὲ ἀδικηθέντας … ἀθλιωτάτους"
+        }
+      ],
+      "observation": "The superlatives εὐδαιμονέστατον and ἀθλιωτάτους are placed in direct opposition for the doer and sufferer of injustice."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἑκόντα",
+          "lemma": "ἑκών",
+          "location": "345e",
+          "context": "ἑκόντας οἴει ἄρχειν"
+        },
+        {
+          "form": "ἑκόντα",
+          "lemma": "ἑκών",
+          "location": "347c",
+          "context": "τὸ ἑκόντα ἐπὶ τὸ ἄρχειν ἰέναι"
+        },
+        {
+          "form": "ἀνάγκην",
+          "lemma": "ἀνάγκη",
+          "location": "347c",
+          "context": "ἀνάγκην προσεῖναι καὶ ζημίαν"
+        }
+      ],
+      "observation": "ἑκών recurs as Socrates argues no one willingly rules; ἀνάγκη is required to make the decent consent."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ζημίαν",
+          "lemma": "ζημία",
+          "location": "347a",
+          "context": "ζημίαν ἐὰν μὴ ἄρχῃ"
+        },
+        {
+          "form": "ὑπὸ πονηροτέρου ἄρχεσθαι",
+          "lemma": null,
+          "location": "347c",
+          "context": "τῆς δὲ ζημίας μεγίστη τὸ ὑπὸ πονηροτέρου ἄρχεσθαι"
+        }
+      ],
+      "observation": "The greatest ζημία for refusing to rule is being ruled by someone worse (πονηροτέρου) — punishment recast not as fine but as subjection."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "περιμάχητον ἂν εἶναι τὸ μὴ ἄρχειν",
+          "lemma": null,
+          "location": "347d",
+          "context": null
+        },
+        {
+          "form": "ὥσπερ νυνὶ τὸ ἄρχειν",
+          "lemma": null,
+          "location": "347d",
+          "context": null
+        }
+      ],
+      "observation": "In a city of good men, not-ruling (τὸ μὴ ἄρχειν) would be competed for as ruling (τὸ ἄρχειν) is competed for now — an inversion of present practice."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "344e",
+          "context": "ὅλου βίου διαγωγήν"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "347e",
+          "context": "τὸν τοῦ ἀδίκου βίον … τὸν τοῦ δικαίου"
+        }
+      ],
+      "observation": "βίος appears framing the stakes: Socrates says the question concerns the whole conduct of life (ὅλου βίου διαγωγήν), and returns at the section's end as the life of the just vs. unjust."
+    },
+    {
+      "signal_id": "s018",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ μέρη",
+          "lemma": null,
+          "location": "344b",
+          "context": "οἱ κατὰ μέρη ἀδικοῦντες"
+        },
+        {
+          "form": "συλλήβδην",
+          "lemma": "συλλήβδην",
+          "location": "344b",
+          "context": "ἀλλὰ συλλήβδην"
+        }
+      ],
+      "observation": "Thrasymachus contrasts partial wrongdoers (κατὰ μέρη) who get named with shameful titles against the tyrant who seizes everything all at once (συλλήβδην)."
+    }
+  ]
+}
