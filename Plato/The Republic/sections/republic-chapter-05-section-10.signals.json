@@ -1,0 +1,501 @@
+{
+  "section_id": "republic-chapter-05-section-10",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κτῆμα",
+          "lemma": "κτῆμα",
+          "location": "464c",
+          "context": null
+        },
+        {
+          "form": "κτήσασθαι",
+          "lemma": "κτάομαι",
+          "location": "464c",
+          "context": "χωρὶς τῶν ἄλλων κτήσασθαι"
+        },
+        {
+          "form": "ἐκτῆσθαι",
+          "lemma": "κτάομαι",
+          "location": "464d",
+          "context": "μηδὲν ἴδιον ἐκτῆσθαι πλὴν τὸ σῶμα"
+        },
+        {
+          "form": "κτῆσιν",
+          "lemma": "κτῆσις",
+          "location": "464e",
+          "context": "χρημάτων ἢ παίδων καὶ συγγενῶν κτῆσιν"
+        }
+      ],
+      "observation": "The κτάομαι/κτῆμα family recurs densely across 464c–464e, each time in a different grammatical form and shifting context: private possession, acquiring separately, possessing nothing private, and the possession that causes faction."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φύλακες",
+          "lemma": "φύλαξ",
+          "location": "464c",
+          "context": "ὄντως φύλακες εἶναι"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "464c",
+          "context": "ἀληθινοὺς φύλακας"
+        },
+        {
+          "form": "φύλακε",
+          "lemma": "φύλαξ",
+          "location": "465a",
+          "context": "ἱκανὼ γὰρ τὼ φύλακε κωλύοντε"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "465e",
+          "context": "τοὺς φύλακας οὐκ εὐδαίμονας"
+        },
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "466b",
+          "context": "ὁ φύλαξ ἐπιχειρήσει εὐδαίμων γίγνεσθαι"
+        },
+        {
+          "form": "φυλακῆς",
+          "lemma": "φυλακή",
+          "location": "466c",
+          "context": "φυλακῆς τῶν ἄλλων πολιτῶν"
+        }
+      ],
+      "observation": "φύλαξ/φυλακή forms appear throughout the section; notably at 465a the dual τὼ φύλακε is used not of human guardians but of δέος and αἰδώς."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἐμὸν",
+          "lemma": null,
+          "location": "464c",
+          "context": "τὸ ἐμὸν ὀνομάζοντας μὴ τὸ αὐτὸ ἀλλʼ ἄλλον ἄλλο"
+        },
+        {
+          "form": "ἰδίων",
+          "lemma": "ἴδιος",
+          "location": "464d",
+          "context": "ἰδίων ὄντων ἰδίας"
+        },
+        {
+          "form": "ἴδιον",
+          "lemma": "ἴδιος",
+          "location": "464d",
+          "context": "μηδὲν ἴδιον ἐκτῆσθαι πλὴν τὸ σῶμα"
+        },
+        {
+          "form": "κοινά",
+          "lemma": "κοινός",
+          "location": "464d",
+          "context": "τὰ δʼ ἄλλα κοινά"
+        },
+        {
+          "form": "κοινῇ",
+          "lemma": "κοινός",
+          "location": "464c",
+          "context": "κοινῇ πάντας ἀναλίσκειν"
+        }
+      ],
+      "observation": "ἴδιος/ἐμόν and κοινός are set in explicit opposition: private naming and private pleasures/pains versus communal spending and communal property."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἡδονάς",
+          "lemma": "ἡδονή",
+          "location": "464d",
+          "context": "ἡδονάς τε καὶ ἀλγηδόνας ἐμποιοῦντας"
+        },
+        {
+          "form": "ἀλγηδόνας",
+          "lemma": "ἀλγηδών",
+          "location": "464d",
+          "context": null
+        },
+        {
+          "form": "λύπης",
+          "lemma": "λύπη",
+          "location": "464d",
+          "context": "ὁμοπαθεῖς λύπης τε καὶ ἡδονῆς"
+        },
+        {
+          "form": "ἡδονῆς",
+          "lemma": "ἡδονή",
+          "location": "464d",
+          "context": null
+        }
+      ],
+      "observation": "Pleasure and pain appear twice in close succession: first as private (ἰδίας), then as shared (ὁμοπαθεῖς), marking a contrast between private and communal affective experience."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "στασιάζουσιν",
+          "lemma": "στασιάζω",
+          "location": "464e",
+          "context": "ἄνθρωποι στασιάζουσιν"
+        },
+        {
+          "form": "στάσεις",
+          "lemma": "στάσις",
+          "location": "465a",
+          "context": "ἧττον ἐπὶ μείζους ἂν ἴοι στάσεις"
+        },
+        {
+          "form": "στασιαζόντων",
+          "lemma": "στασιάζω",
+          "location": "465b",
+          "context": "ἐν ἑαυτοῖς μὴ στασιαζόντων"
+        },
+        {
+          "form": "διχοστατήσῃ",
+          "lemma": "διχοστατέω",
+          "location": "465b",
+          "context": "ἡ ἄλλη πόλις πρὸς τούτους ἢ πρὸς ἀλλήλους διχοστατήσῃ"
+        }
+      ],
+      "observation": "στασιάζω recurs three times and is joined by the related διχοστατέω; faction moves from a general human tendency to something absent among guardians and then extended to the rest of the city."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "πλὴν τὸ σῶμα",
+          "lemma": null,
+          "location": "464d",
+          "context": "μηδὲν ἴδιον ἐκτῆσθαι πλὴν τὸ σῶμα"
+        }
+      ],
+      "observation": "The body is singled out as the sole private possession remaining to the guardians."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δέος τε καὶ αἰδώς",
+          "lemma": null,
+          "location": "465a",
+          "context": "ἱκανὼ γὰρ τὼ φύλακε κωλύοντε, δέος τε καὶ αἰδώς"
+        },
+        {
+          "form": "αἰδὼς",
+          "lemma": "αἰδώς",
+          "location": "465a",
+          "context": "αἰδὼς μὲν ὡς γονέων μὴ ἅπτεσθαι εἴργουσα"
+        },
+        {
+          "form": "δέος",
+          "lemma": "δέος",
+          "location": "465b",
+          "context": "δέος δὲ τὸ τῷ πάσχοντι τοὺς ἄλλους βοηθεῖν"
+        }
+      ],
+      "observation": "δέος and αἰδώς are called τὼ φύλακε in the dual, then each is given a distinct function: αἰδώς prevents touching parents, δέος invokes collective defense."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὡς ὑεῖς",
+          "lemma": null,
+          "location": "465b",
+          "context": null
+        },
+        {
+          "form": "ὡς ἀδελφούς",
+          "lemma": null,
+          "location": "465b",
+          "context": null
+        },
+        {
+          "form": "ὡς πατέρας",
+          "lemma": null,
+          "location": "465b",
+          "context": null
+        },
+        {
+          "form": "γονέων",
+          "lemma": "γονεύς",
+          "location": "465b",
+          "context": "ὡς γονέων μὴ ἅπτεσθαι"
+        }
+      ],
+      "observation": "A cluster of kinship terms—sons, brothers, fathers, parents—appears as the basis for communal defense and restraint among guardians who are not biologically related."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "Ὀλυμπιονῖκαι",
+          "lemma": "Ὀλυμπιονίκης",
+          "location": "465d",
+          "context": "ὃν οἱ Ὀλυμπιονῖκαι ζῶσι μακαριώτερον"
+        },
+        {
+          "form": "νίκη",
+          "lemma": "νίκη",
+          "location": "465d",
+          "context": "ἥ τε γὰρ τῶνδε νίκη καλλίων"
+        },
+        {
+          "form": "νίκην",
+          "lemma": "νίκη",
+          "location": "465d",
+          "context": "νίκην τε γὰρ νικῶσι συμπάσης τῆς πόλεως σωτηρίαν"
+        }
+      ],
+      "observation": "The guardians' life is compared to Olympic victors'; their νίκη is then redefined as the salvation of the whole city, and their public maintenance (τροφή) as more complete."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τροφὴν",
+          "lemma": "τροφή",
+          "location": "464c",
+          "context": "παρὰ τῶν ἄλλων τροφὴν λαμβάνοντας"
+        },
+        {
+          "form": "τροφὴ",
+          "lemma": "τροφή",
+          "location": "465d",
+          "context": "ἡ ἐκ τοῦ δημοσίου τροφὴ τελεωτέρα"
+        },
+        {
+          "form": "τροφῇ",
+          "lemma": "τροφή",
+          "location": "465d",
+          "context": "τροφῇ τε καὶ τοῖς ἄλλοις πᾶσιν"
+        },
+        {
+          "form": "τροφὴν",
+          "lemma": "τροφή",
+          "location": "465c",
+          "context": "διὰ τροφὴν οἰκετῶν ἀναγκαίαν"
+        }
+      ],
+      "observation": "τροφή recurs across the section: guardians receive maintenance as payment for guarding, ordinary people suffer providing maintenance for servants, and the guardians' public maintenance is compared favorably to Olympic victors'."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "δανειζόμενοι",
+          "lemma": "δανείζω",
+          "location": "465c",
+          "context": "τὰ μὲν δανειζόμενοι"
+        },
+        {
+          "form": "ἐξαρνούμενοι",
+          "lemma": "ἐξαρνέομαι",
+          "location": "465c",
+          "context": "τὰ δʼ ἐξαρνούμενοι"
+        },
+        {
+          "form": "πορισάμενοι",
+          "lemma": "πορίζω",
+          "location": "465c",
+          "context": "τὰ δὲ πάντως πορισάμενοι"
+        },
+        {
+          "form": "θέμενοι",
+          "lemma": "τίθημι",
+          "location": "465c",
+          "context": "θέμενοι παρὰ γυναῖκάς τε καὶ οἰκέτας"
+        },
+        {
+          "form": "παραδόντες",
+          "lemma": "παραδίδωμι",
+          "location": "465c",
+          "context": "ταμιεύειν παραδόντες"
+        }
+      ],
+      "observation": "A rapid sequence of five participles describes the degrading financial scramble of ordinary households: borrowing, denying debts, scraping together, depositing with wives and servants, handing over stewardship."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "lexical_family",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαίμονας",
+          "lemma": "εὐδαίμων",
+          "location": "465e",
+          "context": "τοὺς φύλακας οὐκ εὐδαίμονας ποιοῖμεν"
+        },
+        {
+          "form": "εὐδαιμονεστάτην",
+          "lemma": "εὐδαίμων",
+          "location": "466a",
+          "context": "τὴν δὲ πόλιν … εὐδαιμονεστάτην"
+        },
+        {
+          "form": "εὔδαιμον",
+          "lemma": "εὐδαίμων",
+          "location": "466a",
+          "context": "εἰς ἓν ἔθνος … τοῦτο εὔδαιμον πλάττοιμεν"
+        },
+        {
+          "form": "εὐδαίμων",
+          "lemma": "εὐδαίμων",
+          "location": "466b",
+          "context": "ὁ φύλαξ ἐπιχειρήσει εὐδαίμων γίγνεσθαι"
+        },
+        {
+          "form": "εὐδαιμονίας",
+          "lemma": "εὐδαιμονία",
+          "location": "466b",
+          "context": "ἀνόητός τε καὶ μειρακιώδης δόξα … εὐδαιμονίας πέρι"
+        }
+      ],
+      "observation": "εὐδαίμων forms cluster densely from 465e to 466c: the earlier objection that guardians are not made happy is recalled, and individual happiness is then called an ἀνόητος δόξα if it drives the guardian to appropriate everything."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "Ἡσίοδον",
+          "lemma": "Ἡσίοδος",
+          "location": "466c",
+          "context": "γνώσεται τὸν Ἡσίοδον ὅτι τῷ ὄντι ἦν σοφὸς λέγων πλέον εἶναί πως ἥμισυ παντός"
+        }
+      ],
+      "observation": "Hesiod (Works and Days 40) is cited: the half is somehow more than the whole. This is applied to the guardian who would seize everything in the city."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "semantic_cluster",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κατά τε πόλιν μενούσας",
+          "lemma": null,
+          "location": "466c",
+          "context": null
+        },
+        {
+          "form": "εἰς πόλεμόν τε ἰούσας",
+          "lemma": null,
+          "location": "466c",
+          "context": null
+        }
+      ],
+      "observation": "Women's communal role is described with a spatial pair: remaining in the city and going out to war."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ κύνας",
+          "lemma": "κύων",
+          "location": "466d",
+          "context": "συνθηρεύειν ὥσπερ κύνας"
+        }
+      ],
+      "observation": "Women guardians are compared to dogs in joint hunting (συνθηρεύειν), an animal simile applied to communal military and civic activity."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιμελείᾳ",
+          "lemma": "ἐπιμέλεια",
+          "location": "464e",
+          "context": "ἀνάγκην σωμάτων ἐπιμελείᾳ τιθέντες"
+        },
+        {
+          "form": "πλὴν τὸ σῶμα",
+          "lemma": null,
+          "location": "464d",
+          "context": "μηδὲν ἴδιον ἐκτῆσθαι πλὴν τὸ σῶμα"
+        }
+      ],
+      "observation": "The body appears first as the only private possession, then physical self-defense among age-mates is justified as imposing a necessity of care for bodies (σωμάτων ἐπιμελείᾳ)."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "πρεσβυτέρῳ … νεωτέρων πάντων ἄρχειν τε καὶ κολάζειν",
+          "lemma": null,
+          "location": "465a",
+          "context": null
+        },
+        {
+          "form": "νεώτερος πρεσβύτερον … οὔτε ἄλλο βιάζεσθαι … οὔτε τύπτειν",
+          "lemma": null,
+          "location": "465a",
+          "context": null
+        }
+      ],
+      "observation": "Elder-younger authority is stated and then its converse: the elder is assigned to rule and punish, the younger will neither use force nor strike the elder."
+    }
+  ]
+}
