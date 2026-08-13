@@ -1,0 +1,393 @@
+{
+  "section_id": "republic-chapter-05-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "θηλείας",
+          "lemma": "θῆλυς",
+          "location": "451d",
+          "context": "τὰς θηλείας τῶν φυλάκων κυνῶν"
+        },
+        {
+          "form": "ἄρρενες",
+          "lemma": "ἄρρην",
+          "location": "451d",
+          "context": "ἅπερ ἂν οἱ ἄρρενες φυλάττωσι"
+        },
+        {
+          "form": "γυναιξὶν",
+          "lemma": "γυνή",
+          "location": "451e",
+          "context": "ταῖς γυναιξὶν ἐπὶ ταὐτὰ χρησόμεθα"
+        },
+        {
+          "form": "ἀνδράσι",
+          "lemma": "ἀνήρ",
+          "location": "451e",
+          "context": "καὶ τοῖς ἀνδράσι"
+        },
+        {
+          "form": "θήλεια",
+          "lemma": "θῆλυς",
+          "location": "453a",
+          "context": "δυνατὴ φύσις ἡ ἀνθρωπίνη ἡ θήλεια"
+        },
+        {
+          "form": "ἄρρενος",
+          "lemma": "ἄρρην",
+          "location": "453a",
+          "context": "τῇ τοῦ ἄρρενος γένους"
+        }
+      ],
+      "observation": "The female/male pair shifts from dogs (θηλείας/ἄρρενες κυνῶν) to women and men (γυναιξίν/ἀνδράσι) and back to the abstract θήλεια/ἄρρενος at 453a, with the dog analogy providing the bridge."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τροφήν",
+          "lemma": "τροφή",
+          "location": "451d",
+          "context": "τὸν τῶν σκυλάκων τόκον τε καὶ τροφήν"
+        },
+        {
+          "form": "τροφήν",
+          "lemma": "τροφή",
+          "location": "451e",
+          "context": "τὴν αὐτὴν τροφήν τε καὶ παιδείαν"
+        },
+        {
+          "form": "τροφήν",
+          "lemma": "τροφή",
+          "location": "453d",
+          "context": "τὴν τῶν γυναικῶν καὶ παίδων κτῆσιν καὶ τροφήν"
+        }
+      ],
+      "observation": "τροφή appears first for puppy-rearing, then as training/education of animals, then for the rearing of women and children — shifting from literal nurture to civic arrangement."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "γελοῖα",
+          "lemma": "γελοῖος",
+          "location": "452a",
+          "context": "γελοῖα ἂν φαίνοιτο"
+        },
+        {
+          "form": "γελοιότατον",
+          "lemma": "γελοῖος",
+          "location": "452a",
+          "context": "τί γελοιότατον αὐτῶν ὁρᾷς"
+        },
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "452b",
+          "context": "γελοῖον γὰρ ἄν"
+        },
+        {
+          "form": "γελοῖα",
+          "lemma": "γελοῖος",
+          "location": "452c",
+          "context": "αἰσχρὰ εἶναι καὶ γελοῖα"
+        },
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "452d",
+          "context": "τὸ ἐν τοῖς ὀφθαλμοῖς δὴ γελοῖον"
+        },
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "452d",
+          "context": "γελοῖον ἄλλο τι ἡγεῖται ἢ τὸ κακόν"
+        }
+      ],
+      "observation": "γελοῖος appears with striking density across 452a–d, culminating in a redefinition: the ridiculous (γελοῖον) is distinguished from the bad (κακόν)."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γυμνὰς",
+          "lemma": "γυμνός",
+          "location": "452a",
+          "context": "γυμνὰς τὰς γυναῖκας ἐν ταῖς παλαίστραις"
+        },
+        {
+          "form": "γυμνοὺς",
+          "lemma": "γυμνός",
+          "location": "452c",
+          "context": "γυμνοὺς ἄνδρας ὁρᾶσθαι"
+        }
+      ],
+      "observation": "γυμνάς for women exercising naked is presented as currently laughable; γυμνούς for men exercising naked is cited as formerly laughable among Greeks, creating a parallel between the two."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδύεσθαι",
+          "lemma": "ἀποδύω",
+          "location": "452d",
+          "context": "ἄμεινον τὸ ἀποδύεσθαι"
+        },
+        {
+          "form": "συγκαλύπτειν",
+          "lemma": "συγκαλύπτω",
+          "location": "452d",
+          "context": "τοῦ συγκαλύπτειν πάντα τὰ τοιαῦτα"
+        }
+      ],
+      "observation": "Stripping (ἀποδύεσθαι) is set against covering up (συγκαλύπτειν) as the better option, in the context of practice revealing what is superior to mere appearance."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐν τοῖς ὀφθαλμοῖς",
+          "lemma": null,
+          "location": "452d",
+          "context": "τὸ ἐν τοῖς ὀφθαλμοῖς δὴ γελοῖον"
+        },
+        {
+          "form": "ἐν τοῖς λόγοις",
+          "lemma": null,
+          "location": "452d",
+          "context": "ὑπὸ τοῦ ἐν τοῖς λόγοις μηνυθέντος ἀρίστου"
+        }
+      ],
+      "observation": "The ridiculous 'in the eyes' (ἐν τοῖς ὀφθαλμοῖς) is said to flow away under what is revealed as best 'in argument' (ἐν τοῖς λόγοις)."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κοινῇ",
+          "lemma": "κοινός",
+          "location": "451d",
+          "context": "τἆλλα κοινῇ πράττειν"
+        },
+        {
+          "form": "κοινῇ",
+          "lemma": "κοινός",
+          "location": "451e",
+          "context": "κοινῇ πάντα"
+        },
+        {
+          "form": "κοινωνῆσαι",
+          "lemma": "κοινωνέω",
+          "location": "453a",
+          "context": "τῇ τοῦ ἄρρενος γένους κοινωνῆσαι εἰς ἅπαντα τὰ ἔργα"
+        }
+      ],
+      "observation": "κοινῇ appears twice for shared activity (of dogs, then as Glaucon's answer), and κοινωνῆσαι returns at 453a for the question of whether female nature can share in all works."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "οἰκουρεῖν ἔνδον",
+          "lemma": null,
+          "location": "451d",
+          "context": "τὰς μὲν οἰκουρεῖν ἔνδον ὡς ἀδυνάτους"
+        }
+      ],
+      "observation": "The alternative for female dogs — staying indoors as housekeepers (οἰκουρεῖν ἔνδον) on grounds of incapacity (ἀδυνάτους) — is presented as the rejected option in the dog analogy."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "morphological_parallel",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀσθενεστέραις",
+          "lemma": "ἀσθενής",
+          "location": "451e",
+          "context": "ὡς ἀσθενεστέραις χρώμεθα"
+        },
+        {
+          "form": "ἰσχυροτέροις",
+          "lemma": "ἰσχυρός",
+          "location": "451e",
+          "context": "τοῖς δὲ ὡς ἰσχυροτέροις"
+        }
+      ],
+      "observation": "The sole qualification to shared work is stated as a comparative pair: weaker (ἀσθενεστέραις) for females, stronger (ἰσχυροτέροις) for males."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "σκώμματα",
+          "lemma": "σκῶμμα",
+          "location": "452b",
+          "context": "τὰ τῶν χαριέντων σκώμματα"
+        },
+        {
+          "form": "κωμῳδεῖν",
+          "lemma": "κωμῳδέω",
+          "location": "452d",
+          "context": "ἐξῆν τοῖς τότε ἀστείοις πάντα ταῦτα κωμῳδεῖν"
+        },
+        {
+          "form": "γελωτοποιεῖν",
+          "lemma": "γελωτοποιέω",
+          "location": "452d",
+          "context": "ὁ γελωτοποιεῖν ἐπιχειρῶν"
+        }
+      ],
+      "observation": "A cluster of mockery-words: σκώμματα of the witty, κωμῳδεῖν by the urbane of the past, and γελωτοποιεῖν as an activity judged foolish."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "πολιορκῆται",
+          "lemma": "πολιορκέω",
+          "location": "453a",
+          "context": "μὴ ἔρημα τὰ τοῦ ἑτέρου λόγου πολιορκῆται"
+        }
+      ],
+      "observation": "Socrates proposes arguing against themselves so the opposing argument is not 'besieged undefended' (ἔρημα … πολιορκῆται) — a military metaphor for dialectical procedure."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ φύσιν ἕκαστον ἕνα ἓν τὸ αὑτοῦ πράττειν",
+          "lemma": null,
+          "location": "453b",
+          "context": null
+        },
+        {
+          "form": "πλεῖστον κεχωρισμένην φύσιν ἔχοντας",
+          "lemma": null,
+          "location": "453c",
+          "context": null
+        }
+      ],
+      "observation": "The opposing argument cites the earlier principle (each one doing one thing according to nature) and then asserts that men and women have maximally separated natures, generating a contradiction with shared work."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "453a",
+          "context": "δυνατὴ φύσις ἡ ἀνθρωπίνη ἡ θήλεια"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "453b",
+          "context": "κατὰ φύσιν ἕκαστον"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "453c",
+          "context": "τὴν αὑτοῦ φύσιν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "453c",
+          "context": "πλεῖστον κεχωρισμένην φύσιν"
+        }
+      ],
+      "observation": "φύσις recurs four times in 453a–c, concentrated in the self-opposing argument about whether nature dictates different work."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἐφοβούμην τε καὶ ὤκνουν",
+          "lemma": null,
+          "location": "453d",
+          "context": "ἐγὼ πάλαι προορῶν ἐφοβούμην τε καὶ ὤκνουν ἅπτεσθαι τοῦ νόμου"
+        }
+      ],
+      "observation": "Socrates says he long foresaw and feared and hesitated to touch the law concerning women and children — fear and reluctance paired with foresight (προορῶν)."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἑρμηνεῦσαι",
+          "lemma": "ἑρμηνεύω",
+          "location": "453c",
+          "context": "τὸν ὑπὲρ ἡμῶν λόγον ὅστις ποτʼ ἐστίν ἑρμηνεῦσαι"
+        }
+      ],
+      "observation": "Glaucon asks Socrates to 'interpret' (ἑρμηνεῦσαι) their own argument on their behalf, transferring the role of spokesman."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πορευτέον πρὸς τὸ τραχὺ τοῦ νόμου",
+          "lemma": null,
+          "location": "452c",
+          "context": null
+        }
+      ],
+      "observation": "The argument is described as a journey toward 'the rough part of the law' (τὸ τραχύ τοῦ νόμου) — terrain language applied to legislation."
+    }
+  ]
+}
