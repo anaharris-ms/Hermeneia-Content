@@ -1,0 +1,414 @@
+{
+  "section_id": "republic-chapter-01-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κατέβην",
+          "lemma": "καταβαίνω",
+          "location": "327a",
+          "context": "κατέβην χθὲς εἰς Πειραιᾶ"
+        }
+      ],
+      "observation": "κατέβην marks an explicit downward movement into the Piraeus."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θεάσασθαι",
+          "lemma": "θεάομαι",
+          "location": "327a",
+          "context": "βουλόμενος θεάσασθαι τίνα τρόπον ποιήσουσιν"
+        },
+        {
+          "form": "θεωρήσαντες",
+          "lemma": "θεωρέω",
+          "location": "327b",
+          "context": "προσευξάμενοι δὲ καὶ θεωρήσαντες"
+        },
+        {
+          "form": "θεάσασθαι",
+          "lemma": "θεάομαι",
+          "location": "328a",
+          "context": "παννυχίδα ποιήσουσιν, ἣν ἄξιον θεάσασθαι"
+        },
+        {
+          "form": "θεασόμεθα",
+          "lemma": "θεάομαι",
+          "location": "328a",
+          "context": "τὴν παννυχίδα θεασόμεθα"
+        }
+      ],
+      "observation": "θεάομαι appears as the stated purpose of going down, then returns as inducement to stay; θεωρέω appears between them for the completed viewing of the procession."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "περιμεῖναί",
+          "lemma": "περιμένω",
+          "location": "327b",
+          "context": "ἐκέλευσε δραμόντα τὸν παῖδα περιμεῖναί ἑ κελεῦσαι"
+        },
+        {
+          "form": "περιμεῖναι",
+          "lemma": "περιμένω",
+          "location": "327b",
+          "context": "κελεύει ὑμᾶς, ἔφη, Πολέμαρχος περιμεῖναι"
+        },
+        {
+          "form": "περιμένετε",
+          "lemma": "περιμένω",
+          "location": "327b",
+          "context": "ἀλλὰ περιμένετε"
+        },
+        {
+          "form": "περιμενοῦμεν",
+          "lemma": "περιμένω",
+          "location": "327b",
+          "context": "ἀλλὰ περιμενοῦμεν"
+        }
+      ],
+      "observation": "Forms of περιμένω pass from Polemarchus' command through the slave's relay to Socrates' question and Glaucon's acceptance, accumulating across the exchange."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πείσωμεν",
+          "lemma": "πείθω",
+          "location": "327c",
+          "context": "τὸ ἢν πείσωμεν ὑμᾶς ὡς χρὴ ἡμᾶς ἀφεῖναι"
+        },
+        {
+          "form": "πεῖσαι",
+          "lemma": "πείθω",
+          "location": "327c",
+          "context": "δύναισθ᾽ ἄν πεῖσαι μὴ ἀκούοντας"
+        },
+        {
+          "form": "μὴ ἀκούοντας",
+          "lemma": null,
+          "location": "327c",
+          "context": "πεῖσαι μὴ ἀκούοντας"
+        },
+        {
+          "form": "μὴ ἀκουσομένων",
+          "lemma": null,
+          "location": "327c",
+          "context": "ὡς τοίνυν μὴ ἀκουσομένων, οὕτω διανοεῖσθε"
+        }
+      ],
+      "observation": "Socrates proposes persuading (πείσωμεν) as the remaining option; Polemarchus counters with the impossibility of persuading those not listening (πεῖσαι μὴ ἀκούοντας); Glaucon confirms they will not listen (μὴ ἀκουσομένων)."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "directional_spatial_cluster",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πρὸς τὸ ἄστυ",
+          "lemma": null,
+          "location": "327b",
+          "context": "ἀπῇμεν πρὸς τὸ ἄστυ"
+        },
+        {
+          "form": "οἴκαδε",
+          "lemma": null,
+          "location": "327b",
+          "context": "οἴκαδε ὡρμημένους"
+        },
+        {
+          "form": "οἴκαδε",
+          "lemma": null,
+          "location": "328b",
+          "context": "ᾖμεν οὖν οἴκαδε εἰς τοῦ Πολεμάρχου"
+        }
+      ],
+      "observation": "The initial movement is πρὸς τὸ ἄστυ, described as οἴκαδε (homeward); later οἴκαδε names arrival at Polemarchus' house instead."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κρείττους γένεσθε",
+          "lemma": null,
+          "location": "327c",
+          "context": "ἢ τοίνυν τούτων κρείττους γένεσθε ἢ μένετ᾽ αὐτοῦ"
+        }
+      ],
+      "observation": "Polemarchus presents a disjunction: either become stronger than us or stay—framing the situation as a contest of force."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁράτε οὖν ἡμᾶς, ἔφη, ὅσοι ἐσμέν",
+          "lemma": null,
+          "location": "327c",
+          "context": null
+        }
+      ],
+      "observation": "Polemarchus asks whether Socrates sees how many they are, making number visible as an argument for superior force."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀφ᾽ ἵππων",
+          "lemma": "ἵππος",
+          "location": "328a",
+          "context": "λαμπὰς ἔσται πρὸς ἑσπέραν ἀφ᾽ ἵππων τῇ θεῷ"
+        },
+        {
+          "form": "λαμπάδια",
+          "lemma": "λαμπάς",
+          "location": "328a",
+          "context": "λαμπάδια ἔχοντες διαδώσουσιν ἀλλήλοις ἁμιλλώμενοι τοῖς ἵπποις"
+        }
+      ],
+      "observation": "A torch relay on horseback is announced; Socrates responds with surprise (καινόν γε τοῦτο) and a question clarifying the combination of torches and horses."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "παννυχίδα",
+          "lemma": "παννυχίς",
+          "location": "328a",
+          "context": "παννυχίδα ποιήσουσιν"
+        },
+        {
+          "form": "παννυχίδα",
+          "lemma": "παννυχίς",
+          "location": "328a",
+          "context": "τὴν παννυχίδα θεασόμεθα"
+        },
+        {
+          "form": "μετὰ τὸ δεῖπνον",
+          "lemma": null,
+          "location": "328a",
+          "context": "ἐξαναστησόμεθα γὰρ μετὰ τὸ δεῖπνον"
+        }
+      ],
+      "observation": "Polemarchus names a παννυχίς twice and projects a temporal sequence: dinner, then rising to watch the all-night festival."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐστεφανωμένος",
+          "lemma": "στεφανόω",
+          "location": "328c",
+          "context": "καθῆστο δὲ ἐστεφανωμένος ἐπί τινος προσκεφαλαίου τε καὶ δίφρου"
+        },
+        {
+          "form": "τεθυκὼς",
+          "lemma": "θύω",
+          "location": "328c",
+          "context": "τεθυκὼς γὰρ ἐτύγχανεν ἐν τῇ αὐλῇ"
+        }
+      ],
+      "observation": "Cephalus is found seated, garlanded (ἐστεφανωμένος), having just sacrificed (τεθυκώς) in the courtyard."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μάλα πρεσβύτης",
+          "lemma": null,
+          "location": "328b",
+          "context": "μάλα πρεσβύτης μοι ἔδοξεν εἶναι"
+        },
+        {
+          "form": "διὰ χρόνου",
+          "lemma": null,
+          "location": "328b",
+          "context": "διὰ χρόνου γὰρ καὶ ἑωράκη αὐτόν"
+        }
+      ],
+      "observation": "Cephalus appears very old (μάλα πρεσβύτης) and Socrates notes he has not seen him for a long time (διὰ χρόνου)."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δραμόντα τὸν παῖδα",
+          "lemma": null,
+          "location": "327b",
+          "context": "ἐκέλευσε δραμόντα τὸν παῖδα"
+        },
+        {
+          "form": "ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου",
+          "lemma": null,
+          "location": "327b",
+          "context": null
+        }
+      ],
+      "observation": "The slave runs (δραμόντα) on Polemarchus' order, then grasps Socrates' cloak from behind (ὄπισθεν ... λαβόμενος τοῦ ἱματίου)—a physical detention."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἐκέλευσε",
+          "lemma": "κελεύω",
+          "location": "327b",
+          "context": "ἐκέλευσε δραμόντα τὸν παῖδα περιμεῖναί ἑ κελεῦσαι"
+        },
+        {
+          "form": "κελεῦσαι",
+          "lemma": "κελεύω",
+          "location": "327b",
+          "context": null
+        },
+        {
+          "form": "κελεύει",
+          "lemma": "κελεύω",
+          "location": "327b",
+          "context": "κελεύει ὑμᾶς Πολέμαρχος περιμεῖναι"
+        }
+      ],
+      "observation": "Three forms of κελεύω cluster in the relay of command from Polemarchus through the slave to Socrates."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "προσευξόμενός",
+          "lemma": "προσεύχομαι",
+          "location": "327a",
+          "context": "προσευξόμενός τε τῇ θεῷ"
+        },
+        {
+          "form": "προσευξάμενοι",
+          "lemma": "προσεύχομαι",
+          "location": "327b",
+          "context": "προσευξάμενοι δὲ καὶ θεωρήσαντες"
+        }
+      ],
+      "observation": "Prayer to the goddess is stated as purpose (προσευξόμενός) and then completed (προσευξάμενοι)."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἡ τῶν ἐπιχωρίων πομπὴ",
+          "lemma": null,
+          "location": "327a",
+          "context": "καλὴ μὲν οὖν μοι καὶ ἡ τῶν ἐπιχωρίων πομπὴ ἔδοξεν εἶναι"
+        },
+        {
+          "form": "ἣν οἱ Θρᾷκες ἔπεμπον",
+          "lemma": null,
+          "location": "327a",
+          "context": "οὐ μέντοι ἧττον ἐφαίνετο πρέπειν ἣν οἱ Θρᾷκες ἔπεμπον"
+        }
+      ],
+      "observation": "Two processions are compared: the local one (ἐπιχωρίων) appeared fine, but the Thracian one appeared no less fitting."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μένετε",
+          "lemma": "μένω",
+          "location": "327c",
+          "context": "ἢ μένετ᾽ αὐτοῦ"
+        },
+        {
+          "form": "μένετε",
+          "lemma": "μένω",
+          "location": "328a",
+          "context": "ἀλλὰ μένετε"
+        },
+        {
+          "form": "μενετέον",
+          "lemma": null,
+          "location": "328b",
+          "context": "ἔοικεν μενετέον εἶναι"
+        }
+      ],
+      "observation": "μένω appears in Polemarchus' disjunction, then his direct command, then Glaucon's verbal adjective accepting the necessity of staying."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κατιδὼν οὖν πόρρωθεν ἡμᾶς",
+          "lemma": null,
+          "location": "327b",
+          "context": null
+        },
+        {
+          "form": "μετεστράφην τε καὶ ἠρόμην ὅπου αὐτὸς εἴη",
+          "lemma": null,
+          "location": "327b",
+          "context": null
+        },
+        {
+          "form": "οὗτος ὄπισθεν προσέρχεται",
+          "lemma": null,
+          "location": "327b",
+          "context": null
+        }
+      ],
+      "observation": "Seeing from a distance (κατιδὼν πόρρωθεν), turning around (μετεστράφην), and approach from behind (ὄπισθεν προσέρχεται) compose a sequence of spatial orientations around Socrates."
+    }
+  ]
+}
