@@ -1,0 +1,395 @@
+{
+  "section_id": "republic-chapter-01-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "352d",
+          "context": "ἵππου ἔργον"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "353a",
+          "context": "τοῦτο τούτου ἔργον θήσομεν"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "353b",
+          "context": "ὀφθαλμῶν ἔστι τι ἔργον"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "353d",
+          "context": "ψυχῆς ἔστιν τι ἔργον"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "353d",
+          "context": "τὸ ζῆν οὐ ψυχῆς φήσομεν ἔργον εἶναι"
+        }
+      ],
+      "observation": "ἔργον recurs with high density across the section, applied successively to horse, pruning-hook, eyes, ears, and finally soul, accumulating toward the identification of living as the soul's ἔργον."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετὴ",
+          "lemma": "ἀρετή",
+          "location": "353b",
+          "context": "ἀρετὴ ὀφθαλμῶν ἔστιν"
+        },
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "353c",
+          "context": "στερόμενα τῆς αὑτῶν ἀρετῆς"
+        },
+        {
+          "form": "ἀρετήν",
+          "lemma": "ἀρετή",
+          "location": "353d",
+          "context": "ἀρετήν φαμέν τινα ψυχῆς εἶναι"
+        },
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "353e",
+          "context": "στερομένη τῆς οἰκείας ἀρετῆς"
+        }
+      ],
+      "observation": "ἀρετή recurs paired with ἔργον at each stage—eyes, ears, soul—and is contrasted each time with κακία."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετῇ",
+          "lemma": "ἀρετή",
+          "location": "353c",
+          "context": "τῇ οἰκείᾳ μὲν ἀρετῇ τὸ αὑτῶν ἔργον εὖ ἐργάσεται"
+        },
+        {
+          "form": "κακίᾳ",
+          "lemma": "κακία",
+          "location": "353c",
+          "context": "κακίᾳ δὲ κακῶς"
+        }
+      ],
+      "observation": "ἀρετή and κακία are set in explicit contrast as producing εὖ versus κακῶς in performing a thing's ἔργον."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὀφθαλμοῖς",
+          "lemma": "ὀφθαλμός",
+          "location": "352e",
+          "context": "ἴδοις ἢ ὀφθαλμοῖς"
+        },
+        {
+          "form": "ὠσίν",
+          "lemma": "οὖς",
+          "location": "352e",
+          "context": "ἀκούσαις ἄλλῳ ἢ ὠσίν"
+        },
+        {
+          "form": "τυφλότητα",
+          "lemma": "τυφλότης",
+          "location": "353c",
+          "context": "τυφλότητα γὰρ ἴσως λέγεις ἀντὶ τῆς ὄψεως"
+        },
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "353c",
+          "context": null
+        }
+      ],
+      "observation": "Eyes and ears serve as the concrete sense-organ examples; Thrasymachus himself supplies τυφλότης as the κακία opposite to ὄψις."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δρεπάνῳ",
+          "lemma": "δρέπανον",
+          "location": "353a",
+          "context": "οὕτω καλῶς ὡς δρεπάνῳ τῷ ἐπὶ τούτῳ ἐργασθέντι"
+        },
+        {
+          "form": "μαχαίρᾳ",
+          "lemma": "μάχαιρα",
+          "location": "353a",
+          "context": "μαχαίρᾳ ἂν ἀμπέλου κλῆμα ἀποτέμοις"
+        },
+        {
+          "form": "σμίλῃ",
+          "lemma": "σμίλη",
+          "location": "353a",
+          "context": "καὶ σμίλῃ καὶ ἄλλοις πολλοῖς"
+        }
+      ],
+      "observation": "The pruning-hook (δρέπανον) is distinguished from knife and chisel as the tool that does this work best, providing the concrete illustration for ἔργον as what something does uniquely or best."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἐπιμελεῖσθαι",
+          "lemma": "ἐπιμελέομαι",
+          "location": "353d",
+          "context": null
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "353d",
+          "context": null
+        },
+        {
+          "form": "βουλεύεσθαι",
+          "lemma": "βουλεύω",
+          "location": "353d",
+          "context": null
+        },
+        {
+          "form": "τὸ ζῆν",
+          "lemma": "ζάω",
+          "location": "353d",
+          "context": "τὸ ζῆν οὐ ψυχῆς φήσομεν ἔργον εἶναι"
+        }
+      ],
+      "observation": "The soul's ἔργον is specified as a sequence: caring for, ruling, deliberating—then living is added as a separate question and affirmed as the soul's ἔργον."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνην",
+          "lemma": "δικαιοσύνη",
+          "location": "353e",
+          "context": "ἀρετήν γε συνεχωρήσαμεν ψυχῆς εἶναι δικαιοσύνην"
+        },
+        {
+          "form": "ἀδικίαν",
+          "lemma": "ἀδικία",
+          "location": "353e",
+          "context": "κακίαν δὲ ἀδικίαν"
+        }
+      ],
+      "observation": "δικαιοσύνη is identified as the ἀρετή of the soul and ἀδικία as its κακία, presented as a prior concession (συνεχωρήσαμεν) now applied."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαίμων",
+          "lemma": "εὐδαίμων",
+          "location": "353e",
+          "context": "ἡ μὲν δικαία ψυχὴ εὖ βιώσεται"
+        },
+        {
+          "form": "ἄθλιος",
+          "lemma": "ἄθλιος",
+          "location": "354a",
+          "context": "ὁ δ' ἄδικος ἄθλιος"
+        },
+        {
+          "form": "μακάριος",
+          "lemma": "μακάριος",
+          "location": "354a",
+          "context": "ὁ εὖ ζῶν μακάριός τε καὶ εὐδαίμων"
+        }
+      ],
+      "observation": "The just person is called εὐδαίμων and μακάριος; the unjust is called ἄθλιος. These terms are set in direct opposition."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λυσιτελέστερον",
+          "lemma": "λυσιτελής",
+          "location": "354a",
+          "context": "οὐδέποτ' ἄρα λυσιτελέστερον ἀδικία δικαιοσύνης"
+        },
+        {
+          "form": "λυσιτελεῖ",
+          "lemma": "λυσιτελέω",
+          "location": "354a",
+          "context": "ἄθλιόν γε εἶναι οὐ λυσιτελεῖ"
+        }
+      ],
+      "observation": "λυσιτελής appears twice in quick succession: first stating that being wretched does not profit, then concluding that injustice is never more profitable than justice."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἱστιάσθω",
+          "lemma": "ἑστιάω",
+          "location": "354a",
+          "context": "ταῦτα δή σοι εἱστιάσθω ἐν τοῖς Βενδιδίοις"
+        },
+        {
+          "form": "εἱστίαμαι",
+          "lemma": "ἑστιάω",
+          "location": "354b",
+          "context": "οὐ μέντοι καλῶς γε εἱστίαμαι"
+        }
+      ],
+      "observation": "Thrasymachus offers the argument as a feast (εἱστιάσθω) at the Bendideia; Socrates immediately says he has not feasted well (οὐ καλῶς εἱστίαμαι), turning the metaphor back."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λίχνοι",
+          "lemma": "λίχνος",
+          "location": "354b",
+          "context": "ὥσπερ οἱ λίχνοι τοῦ ἀεὶ παραφερομένου ἀπογεύονται ἁρπάζοντες"
+        },
+        {
+          "form": "ἁρπάζοντες",
+          "lemma": "ἁρπάζω",
+          "location": "354b",
+          "context": null
+        },
+        {
+          "form": "ἀπογεύονται",
+          "lemma": "ἀπογεύομαι",
+          "location": "354b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates compares himself to greedy diners (λίχνοι) who snatch and taste each dish as it passes before properly enjoying the previous one."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μηδὲν εἰδέναι",
+          "lemma": null,
+          "location": "354c",
+          "context": "γέγονεν ἐκ τοῦ διαλόγου μηδὲν εἰδέναι"
+        },
+        {
+          "form": "μὴ οἶδα",
+          "lemma": "οἶδα",
+          "location": "354c",
+          "context": "ὁπότε γὰρ τὸ δίκαιον μὴ οἶδα ὅ ἐστιν"
+        }
+      ],
+      "observation": "Socrates states that the result of the dialogue is knowing nothing (μηδὲν εἰδέναι), and specifies that since he does not know what the just is, he cannot know whether it is a virtue or whether its possessor is happy."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "πρᾷος",
+          "lemma": "πρᾷος",
+          "location": "354a",
+          "context": "ἐπειδή μοι πρᾷος ἐγένου καὶ χαλεπαίνων ἐπαύσω"
+        },
+        {
+          "form": "χαλεπαίνων",
+          "lemma": "χαλεπαίνω",
+          "location": "354a",
+          "context": null
+        }
+      ],
+      "observation": "Socrates notes that Thrasymachus became gentle (πρᾷος) and stopped being harsh (χαλεπαίνων ἐπαύσω), marking a shift in Thrasymachus' disposition within this section."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μακάριε",
+          "lemma": "μακάριος",
+          "location": "354a",
+          "context": "ὦ μακάριε Θρασύμαχε"
+        }
+      ],
+      "observation": "Socrates addresses Thrasymachus as ὦ μακάριε immediately after μακάριος has been used to describe the person who lives well—a striking adjacency of the same word in vocative address."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ δίκαιον ὅτι ποτ' ἐστίν",
+          "lemma": null,
+          "location": "354b",
+          "context": "πρὶν ὃ τὸ πρῶτον ἐσκοποῦμεν εὑρεῖν, τὸ δίκαιον ὅτι ποτ' ἐστίν"
+        },
+        {
+          "form": "κακία ἐστὶν καὶ ἀμαθία",
+          "lemma": null,
+          "location": "354b",
+          "context": "εἴτε κακία ἐστὶν καὶ ἀμαθία, εἴτε σοφία καὶ ἀρετή"
+        },
+        {
+          "form": "λυσιτελέστερον",
+          "lemma": "λυσιτελής",
+          "location": "354b",
+          "context": "ὅτι λυσιτελέστερον ἡ ἀδικία τῆς δικαιοσύνης"
+        }
+      ],
+      "observation": "Socrates lists three questions in order: what justice is, whether it is virtue or vice, and whether injustice is more profitable—and says he abandoned the first to pursue the others prematurely."
+    }
+  ]
+}
