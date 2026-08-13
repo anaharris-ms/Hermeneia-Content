@@ -1,0 +1,368 @@
+{
+  "section_id": "republic-chapter-04-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὅμοιον",
+          "lemma": "ὅμοιος",
+          "location": "435a",
+          "context": "ἀνόμοιον τυγχάνει ὂν ταύτῃ ᾗ ταὐτὸν προσαγορεύεται, ἢ ὅμοιον"
+        },
+        {
+          "form": "ὅμοιον",
+          "lemma": "ὅμοιος",
+          "location": "435a",
+          "context": null
+        },
+        {
+          "form": "ὅμοιος",
+          "lemma": "ὅμοιος",
+          "location": "435b",
+          "context": "ἀλλʼ ὅμοιος ἔσται"
+        },
+        {
+          "form": "ὅμοιος",
+          "lemma": "ὅμοιος",
+          "location": "435b",
+          "context": null
+        },
+        {
+          "form": "ἀνόμοιον",
+          "lemma": "ἀνόμοιος",
+          "location": "435a",
+          "context": null
+        }
+      ],
+      "observation": "ὅμοιος appears four times in rapid succession at 435a–b, with ἀνόμοιον posed as the rejected alternative; the cluster establishes likeness between larger and smaller as the operative relation."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἴδη",
+          "lemma": "εἶδος",
+          "location": "435c",
+          "context": "εἴδη ἐν τῇ αὑτοῦ ψυχῇ ἔχοντα"
+        },
+        {
+          "form": "εἶδος",
+          "lemma": "εἶδος",
+          "location": "435b",
+          "context": "κατʼ αὐτὸ τὸ τῆς δικαιοσύνης εἶδος"
+        },
+        {
+          "form": "εἴδη",
+          "lemma": "εἶδος",
+          "location": "435e",
+          "context": "τὰ αὐτὰ ἐν ἑκάστῳ ἔνεστιν ἡμῶν εἴδη τε καὶ ἤθη"
+        }
+      ],
+      "observation": "εἶδος first names the single form of justice (435b), then shifts to plural εἴδη for the three kinds in the soul (435c, 435e)."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μεῖζόν",
+          "lemma": "μέγας",
+          "location": "435a",
+          "context": null
+        },
+        {
+          "form": "ἔλαττον",
+          "lemma": "ἐλάττων",
+          "location": "435a",
+          "context": null
+        },
+        {
+          "form": "τὸν ἕνα",
+          "lemma": null,
+          "location": "435b",
+          "context": null
+        }
+      ],
+      "observation": "The larger/smaller pair (μεῖζόν/ἔλαττον) frames the transfer from city to individual, with τὸν ἕνα explicitly naming the single person as the smaller counterpart."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τριττὰ γένη",
+          "lemma": null,
+          "location": "435b",
+          "context": null
+        },
+        {
+          "form": "τρία εἴδη",
+          "lemma": null,
+          "location": "435c",
+          "context": "εἴτε ἔχει τὰ τρία εἴδη ταῦτα ἐν αὑτῇ"
+        },
+        {
+          "form": "τρισὶν οὖσιν",
+          "lemma": "τρεῖς",
+          "location": "436a",
+          "context": "εἰ τῷ αὐτῷ τούτῳ ἕκαστα πράττομεν ἢ τρισὶν οὖσιν"
+        }
+      ],
+      "observation": "Threeness recurs: τριττὰ γένη in the city, τρία εἴδη as a question about the soul, τρισὶν as the operative possibility for distinct faculties."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "φαῦλον",
+          "lemma": "φαῦλος",
+          "location": "435c",
+          "context": "εἰς φαῦλόν γε αὖ ... σκέμμα ἐμπεπτώκαμεν"
+        },
+        {
+          "form": "φαῦλον",
+          "lemma": "φαῦλος",
+          "location": "435c",
+          "context": "οὐ πάνυ μοι δοκοῦμεν εἰς φαῦλον"
+        }
+      ],
+      "observation": "Socrates calls the inquiry φαῦλον (easy/trivial) and is immediately contradicted: οὐ πάνυ … εἰς φαῦλον, followed by χαλεπὰ τὰ καλά."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χαλεπὰ",
+          "lemma": "χαλεπός",
+          "location": "435c",
+          "context": "χαλεπὰ τὰ καλά"
+        },
+        {
+          "form": "χαλεπὸν",
+          "lemma": "χαλεπός",
+          "location": "436a",
+          "context": "οὐδὲν χαλεπὸν γνῶναι"
+        },
+        {
+          "form": "χαλεπόν",
+          "lemma": "χαλεπός",
+          "location": "436a",
+          "context": "τόδε δὲ ἤδη χαλεπόν"
+        },
+        {
+          "form": "χαλεπὰ",
+          "lemma": "χαλεπός",
+          "location": "436b",
+          "context": "τὰ χαλεπὰ διορίσασθαι"
+        }
+      ],
+      "observation": "χαλεπός appears four times, shifting from proverbial (χαλεπὰ τὰ καλά) to denied (οὐδὲν χαλεπόν) to reasserted (τόδε δὲ ἤδη χαλεπόν, τὰ χαλεπά)."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄλλοθεν ἐκεῖσε ἀφῖκται",
+          "lemma": null,
+          "location": "435e",
+          "context": "οὐ γάρ που ἄλλοθεν ἐκεῖσε ἀφῖκται"
+        },
+        {
+          "form": "ἐκ τῶν ἰδιωτῶν ἐν ταῖς πόλεσιν ἐγγεγονέναι",
+          "lemma": null,
+          "location": "435e",
+          "context": null
+        }
+      ],
+      "observation": "The direction of origin runs from individuals into the city (ἐκ τῶν ἰδιωτῶν … ἐγγεγονέναι); qualities arrive there (ἐκεῖσε ἀφῖκται) from no other source (ἄλλοθεν)."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "435e",
+          "context": null
+        },
+        {
+          "form": "φιλομαθές",
+          "lemma": "φιλομαθής",
+          "location": "435e",
+          "context": null
+        },
+        {
+          "form": "φιλοχρήματον",
+          "lemma": "φιλοχρήματος",
+          "location": "436a",
+          "context": null
+        }
+      ],
+      "observation": "Three soul-qualities are matched to geographical peoples: θυμοειδές to Thrace/Scythia, φιλομαθές to 'our region,' φιλοχρήματον to Phoenicians/Egyptians."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "τὸν ἄνω τόπον",
+          "lemma": null,
+          "location": "435e",
+          "context": "κατὰ τὸν ἄνω τόπον"
+        },
+        {
+          "form": "τὸν παρʼ ἡμῖν … τόπον",
+          "lemma": "τόπος",
+          "location": "436a",
+          "context": null
+        }
+      ],
+      "observation": "τόπος appears twice: the 'upper region' (τὸν ἄνω τόπον) for spiritedness, and 'the region among us' (τὸν παρʼ ἡμῖν τόπον) for love of learning."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "μακροτέρα καὶ πλείων ὁδός",
+          "lemma": "ὁδός",
+          "location": "435d",
+          "context": "ἄλλη γὰρ μακροτέρα καὶ πλείων ὁδὸς ἡ ἐπὶ τοῦτο ἄγουσα"
+        },
+        {
+          "form": "μεθόδων",
+          "lemma": "μέθοδος",
+          "location": "435d",
+          "context": "ἐκ τοιούτων μεθόδων, οἵαις νῦν ἐν τοῖς λόγοις χρώμεθα"
+        }
+      ],
+      "observation": "Socrates distinguishes current methods (μεθόδων) from another longer road (μακροτέρα … ὁδός) that leads to precision, declaring the present approach will never yield exactness (ἀκριβῶς … οὐ μή ποτε λάβωμεν)."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μανθάνομεν",
+          "lemma": "μανθάνω",
+          "location": "436a",
+          "context": "μανθάνομεν μὲν ἑτέρῳ"
+        },
+        {
+          "form": "θυμούμεθα",
+          "lemma": "θυμόω",
+          "location": "436a",
+          "context": "θυμούμεθα δὲ ἄλλῳ"
+        },
+        {
+          "form": "ἐπιθυμοῦμεν",
+          "lemma": "ἐπιθυμέω",
+          "location": "436a",
+          "context": "ἐπιθυμοῦμεν δʼ αὖ τρίτῳ τινί"
+        }
+      ],
+      "observation": "Three first-person plural verbs name the three psychic activities — learning, being spirited, desiring — each assigned to a different faculty (ἑτέρῳ … ἄλλῳ … τρίτῳ τινί)."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "τροφήν",
+          "lemma": "τροφή",
+          "location": "436a",
+          "context": "περὶ τὴν τροφήν τε καὶ γέννησιν ἡδονῶν"
+        },
+        {
+          "form": "γέννησιν",
+          "lemma": "γέννησις",
+          "location": "436a",
+          "context": null
+        },
+        {
+          "form": "ἀδελφά",
+          "lemma": "ἀδελφός",
+          "location": "436b",
+          "context": "ὅσα τούτων ἀδελφά"
+        }
+      ],
+      "observation": "Appetite is specified through nourishment (τροφή) and generation (γέννησις) and their pleasures, with kindred desires called ἀδελφά."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὅλῃ τῇ ψυχῇ",
+          "lemma": null,
+          "location": "436b",
+          "context": "ὅλῃ τῇ ψυχῇ καθʼ ἕκαστον αὐτῶν πράττομεν"
+        },
+        {
+          "form": "τρισὶν οὖσιν ἄλλο ἄλλῳ",
+          "lemma": null,
+          "location": "436a",
+          "context": null
+        }
+      ],
+      "observation": "The core question is posed as a disjunction: do we act with the whole soul (ὅλῃ τῇ ψυχῇ) or with three distinct parts (τρισὶν … ἄλλο ἄλλῳ)?"
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πάθη τε καὶ ἕξεις",
+          "lemma": null,
+          "location": "435b",
+          "context": "ἄλλʼ ἄττα πάθη τε καὶ ἕξεις"
+        },
+        {
+          "form": "πάθη",
+          "lemma": "πάθος",
+          "location": "435c",
+          "context": "διὰ τὰ αὐτὰ πάθη ἐκείνοις"
+        }
+      ],
+      "observation": "πάθη first appears paired with ἕξεις describing the city's virtues, then recurs alone when transferred to the individual soul."
+    }
+  ]
+}
