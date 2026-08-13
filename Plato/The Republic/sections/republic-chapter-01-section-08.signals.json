@@ -1,0 +1,319 @@
+{
+  "section_id": "republic-chapter-01-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "352d",
+          "context": "δοκεῖ τί σοι εἶναι ἵππου ἔργον"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "353a",
+          "context": "τοῦτο τούτου ἔργον θήσομεν"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "353b",
+          "context": "ὀφθαλμῶν, φαμέν, ἔστι τι ἔργον"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "353d",
+          "context": "ψυχῆς ἔστιν τι ἔργον"
+        }
+      ],
+      "observation": "ἔργον recurs densely throughout the section, applied successively to horse, pruning-hook, eyes, ears, and soul."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετὴ",
+          "lemma": "ἀρετή",
+          "location": "353b",
+          "context": "ἀρετὴ ὀφθαλμῶν ἔστιν"
+        },
+        {
+          "form": "ἀρετήν",
+          "lemma": "ἀρετή",
+          "location": "353d",
+          "context": "ἀρετήν φαμέν τινα ψυχῆς εἶναι"
+        },
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "353e",
+          "context": "στερομένη τῆς οἰκείας ἀρετῆς"
+        }
+      ],
+      "observation": "ἀρετή recurs in parallel with ἔργον, assigned first to eyes/ears and then to the soul."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "353c",
+          "context": "τῇ οἰκείᾳ μὲν ἀρετῇ τὸ αὑτῶν ἔργον εὖ ἐργάσεται"
+        },
+        {
+          "form": "κακίᾳ",
+          "lemma": "κακία",
+          "location": "353c",
+          "context": "κακίᾳ δὲ κακῶς"
+        }
+      ],
+      "observation": "ἀρετή and κακία are set in explicit contrast: the former produces good work, the latter bad."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἐπιμελεῖσθαι",
+          "lemma": "ἐπιμελέομαι",
+          "location": "353d",
+          "context": null
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "353d",
+          "context": null
+        },
+        {
+          "form": "βουλεύεσθαι",
+          "lemma": "βουλεύω",
+          "location": "353d",
+          "context": null
+        }
+      ],
+      "observation": "The soul's ἔργον is specified as a cluster of three activities: caring for, ruling, and deliberating."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ζῆν",
+          "lemma": "ζάω",
+          "location": "353d",
+          "context": "τί δ᾽ αὖ τὸ ζῆν; οὐ ψυχῆς φήσομεν ἔργον εἶναι;"
+        }
+      ],
+      "observation": "Living (τὸ ζῆν) is added as a separate ἔργον of the soul, distinct from ruling and deliberating."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνην",
+          "lemma": "δικαιοσύνη",
+          "location": "353e",
+          "context": "ἀρετήν γε συνεχωρήσαμεν ψυχῆς εἶναι δικαιοσύνην"
+        },
+        {
+          "form": "ἀδικίαν",
+          "lemma": "ἀδικία",
+          "location": "353e",
+          "context": "κακίαν δὲ ἀδικίαν"
+        }
+      ],
+      "observation": "Justice is identified as the soul's virtue and injustice as its vice, recalling the earlier agreed concession (συνεχωρήσαμεν)."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαίμων",
+          "lemma": "εὐδαίμων",
+          "location": "354a",
+          "context": "ὁ μὲν δίκαιος ἄρα εὐδαίμων"
+        },
+        {
+          "form": "ἄθλιος",
+          "lemma": "ἄθλιος",
+          "location": "354a",
+          "context": "ὁ δ᾽ ἄδικος ἄθλιος"
+        }
+      ],
+      "observation": "The just person is called εὐδαίμων and the unjust ἄθλιος in direct opposition."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "εἱστιάσθω",
+          "lemma": "ἑστιάω",
+          "location": "354a",
+          "context": "ταῦτα δή σοι εἱστιάσθω ἐν τοῖς Βενδιδίοις"
+        },
+        {
+          "form": "εἱστίαμαι",
+          "lemma": "ἑστιάω",
+          "location": "354b",
+          "context": "οὐ μέντοι καλῶς γε εἱστίαμαι"
+        }
+      ],
+      "observation": "Thrasymachus offers the argument as a feast (εἱστιάσθω ἐν τοῖς Βενδιδίοις); Socrates responds that he has not feasted well (οὐ καλῶς εἱστίαμαι)."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "Βενδιδίοις",
+          "lemma": null,
+          "location": "354a",
+          "context": "εἱστιάσθω ἐν τοῖς Βενδιδίοις"
+        }
+      ],
+      "observation": "The Bendideia festival is named, connecting the argument's conclusion back to the occasion of the gathering."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "λίχνοι",
+          "lemma": "λίχνος",
+          "location": "354b",
+          "context": "ὥσπερ οἱ λίχνοι τοῦ ἀεὶ παραφερομένου ἀπογεύονται ἁρπάζοντες"
+        },
+        {
+          "form": "ἁρπάζοντες",
+          "lemma": "ἁρπάζω",
+          "location": "354b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates compares himself to greedy diners (λίχνοι) who snatch (ἁρπάζοντες) at each dish before properly tasting the previous one."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "τὸ δίκαιον ὅτι ποτ᾽ ἐστίν",
+          "lemma": null,
+          "location": "354b",
+          "context": "πρὶν ὃ τὸ πρῶτον ἐσκοποῦμεν εὑρεῖν, τὸ δίκαιον ὅτι ποτ᾽ ἐστίν"
+        },
+        {
+          "form": "μηδὲν εἰδέναι",
+          "lemma": null,
+          "location": "354c",
+          "context": "γέγονεν ἐκ τοῦ διαλόγου μηδὲν εἰδέναι"
+        }
+      ],
+      "observation": "Socrates states that the prior question—what justice is—was abandoned, and the result of the dialogue is knowing nothing (μηδὲν εἰδέναι)."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πρᾷος",
+          "lemma": "πρᾶος",
+          "location": "354a",
+          "context": "ἐπειδή μοι πρᾷος ἐγένου καὶ χαλεπαίνων ἐπαύσω"
+        },
+        {
+          "form": "χαλεπαίνων",
+          "lemma": "χαλεπαίνω",
+          "location": "354a",
+          "context": null
+        }
+      ],
+      "observation": "Socrates notes Thrasymachus became gentle (πρᾷος) and ceased being angry (χαλεπαίνων ἐπαύσω)."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τυφλότητα",
+          "lemma": "τυφλότης",
+          "location": "353c",
+          "context": "τυφλότητα γὰρ ἴσως λέγεις ἀντὶ τῆς ὄψεως"
+        },
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "353c",
+          "context": null
+        }
+      ],
+      "observation": "Thrasymachus supplies τυφλότης as the κακία of eyes, contrasted with ὄψις (sight) as their ἀρετή."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔσθ᾽ ὅτῳ ἂν ἄλλῳ ἴδοις ἢ ὀφθαλμοῖς",
+          "lemma": null,
+          "location": "352e",
+          "context": null
+        },
+        {
+          "form": "ἀκούσαις ἄλλῳ ἢ ὠσίν",
+          "lemma": null,
+          "location": "352e",
+          "context": null
+        },
+        {
+          "form": "ἔσθ᾽ ὅτῳ ἄλλῳ ἢ ψυχῇ",
+          "lemma": null,
+          "location": "353d",
+          "context": "δικαίως ἂν αὐτὰ ἀποδοῖμεν"
+        }
+      ],
+      "observation": "The question form 'could you do X with anything other than Y?' recurs for eyes, ears, and then the soul."
+    }
+  ]
+}

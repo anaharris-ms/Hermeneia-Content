@@ -1,0 +1,443 @@
+{
+  "section_id": "republic-chapter-01-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "τίτθη",
+          "lemma": "τίτθη",
+          "location": "343a",
+          "context": "τίτθη σοι ἔστιν"
+        },
+        {
+          "form": "κορυζῶντα",
+          "lemma": "κορυζάω",
+          "location": "343a",
+          "context": "κορυζῶντα περιορᾷ"
+        },
+        {
+          "form": "ἀπομύττει",
+          "lemma": "ἀπομύττω",
+          "location": "343a",
+          "context": "οὐκ ἀπομύττει δεόμενον"
+        }
+      ],
+      "observation": "Thrasymachus addresses Socrates with imagery of a nurse (τίτθη) who neglects a child running with a snotty nose (κορυζῶντα, ἀπομύττει), clustering infantile care language."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποιμένα",
+          "lemma": "ποιμήν",
+          "location": "343a",
+          "context": "πρόβατα οὐδὲ ποιμένα γιγνώσκεις"
+        },
+        {
+          "form": "ποιμένας",
+          "lemma": "ποιμήν",
+          "location": "343b",
+          "context": "τοὺς ποιμένας ἢ τοὺς βουκόλους"
+        },
+        {
+          "form": "πρόβατα",
+          "lemma": "πρόβατον",
+          "location": "343b",
+          "context": "τὸ τῶν προβάτων… ἀγαθὸν σκοπεῖν"
+        },
+        {
+          "form": "ποιμήν",
+          "lemma": "ποιμήν",
+          "location": "345c",
+          "context": "καθ᾽ ὅσον ποιμήν ἐστιν"
+        },
+        {
+          "form": "πιαίνειν",
+          "lemma": "πιαίνω",
+          "location": "345c",
+          "context": "πιαίνειν οἴει αὐτὸν τὰ πρόβατα"
+        },
+        {
+          "form": "ποιμενικῇ",
+          "lemma": "ποιμενική",
+          "location": "345d",
+          "context": "τῇ δὲ ποιμενικῇ οὐ δήπου ἄλλου του μέλει"
+        }
+      ],
+      "observation": "The shepherd/flock vocabulary (ποιμήν, πρόβατον, βουκόλος, πιαίνω) recurs densely from Thrasymachus's challenge through Socrates' counter-argument, with the shepherd's orientation shifting from self-interest to the flock's benefit."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὡς ἀληθῶς ἄρχουσιν",
+          "lemma": null,
+          "location": "343b",
+          "context": "οἳ ὡς ἀληθῶς ἄρχουσιν"
+        },
+        {
+          "form": "τὸν ὡς ἀληθῶς ποιμένα",
+          "lemma": null,
+          "location": "345c",
+          "context": "τὸν ὡς ἀληθῶς ἰατρὸν τὸ πρῶτον ὁριζόμενος τὸν ὡς ἀληθῶς ποιμένα"
+        }
+      ],
+      "observation": "The phrase ὡς ἀληθῶς first qualifies rulers in Thrasymachus's speech (those who truly rule exploit subjects) and returns when Socrates uses it for the true shepherd who serves the flock's good."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "343c",
+          "context": "τοῦ κρείττονός τε καὶ ἄρχοντος συμφέρον"
+        },
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "344c",
+          "context": "τὸ μὲν τοῦ κρείττονος συμφέρον τὸ δίκαιον"
+        },
+        {
+          "form": "συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "347d",
+          "context": "οὐ πέφυκε τὸ αὑτῷ συμφέρον σκοπεῖσθαι ἀλλὰ τὸ τῷ ἀρχομένῳ"
+        }
+      ],
+      "observation": "συμφέρον recurs throughout: Thrasymachus assigns it to the κρείττων, while Socrates concludes the true ruler's nature is to seek τὸ τῷ ἀρχομένῳ συμφέρον."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ βαλανεύς",
+          "lemma": "βαλανεύς",
+          "location": "344d",
+          "context": "ὥσπερ βαλανεὺς ἡμῶν καταντλήσας κατὰ τῶν ὤτων ἀθρόον καὶ πολὺν τὸν λόγον"
+        }
+      ],
+      "observation": "Thrasymachus's speech is compared to a bath-attendant pouring a flood of water over the ears—a concrete bodily image for verbal inundation."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐν νῷ εἶχεν ἀπιέναι",
+          "lemma": null,
+          "location": "344d",
+          "context": "ὁ Θρασύμαχος ἐν νῷ εἶχεν ἀπιέναι"
+        },
+        {
+          "form": "ἠνάγκασαν ὑπομεῖναί τε καὶ παρασχεῖν τῶν εἰρημένων λόγον",
+          "lemma": null,
+          "location": "344d",
+          "context": null
+        }
+      ],
+      "observation": "Thrasymachus intends to depart (ἀπιέναι) after his speech but is compelled (ἠνάγκασαν) by those present to remain (ὑπομεῖναι) and give an account."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τυραννίς",
+          "lemma": "τυραννίς",
+          "location": "344a",
+          "context": "ἔστιν δὲ τοῦτο τυραννίς"
+        },
+        {
+          "form": "τελεωτάτην ἀδικίαν",
+          "lemma": null,
+          "location": "344a",
+          "context": "ἐπὶ τὴν τελεωτάτην ἀδικίαν"
+        },
+        {
+          "form": "εὐδαιμονέστατον",
+          "lemma": "εὐδαίμων",
+          "location": "344a",
+          "context": "τὸν μὲν ἀδικήσαντα εὐδαιμονέστατον ποιεῖ"
+        },
+        {
+          "form": "ἀθλιωτάτους",
+          "lemma": "ἄθλιος",
+          "location": "344a",
+          "context": "τοὺς δὲ ἀδικηθέντας… ἀθλιωτάτους"
+        }
+      ],
+      "observation": "Tyranny is named as the τελεωτάτη ἀδικία, producing a superlative contrast: εὐδαιμονέστατον for the doer, ἀθλιωτάτους for those wronged."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἱερόσυλοι",
+          "lemma": "ἱερόσυλος",
+          "location": "344b",
+          "context": null
+        },
+        {
+          "form": "ἀνδραποδισταί",
+          "lemma": "ἀνδραποδιστής",
+          "location": "344b",
+          "context": null
+        },
+        {
+          "form": "τοιχωρύχοι",
+          "lemma": "τοιχωρύχος",
+          "location": "344b",
+          "context": null
+        },
+        {
+          "form": "ἀποστερηταί",
+          "lemma": "ἀποστερητής",
+          "location": "344b",
+          "context": null
+        },
+        {
+          "form": "κλέπται",
+          "lemma": "κλέπτης",
+          "location": "344b",
+          "context": null
+        }
+      ],
+      "observation": "A list of five criminal types names partial injustice (κατὰ μέρη ἀδικοῦντες), contrasted with the tyrant who takes everything συλλήβδην."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "local_contrast",
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαίμονες καὶ μακάριοι",
+          "lemma": null,
+          "location": "344b",
+          "context": "ἀντὶ τούτων τῶν αἰσχρῶν ὀνομάτων εὐδαίμονες καὶ μακάριοι κέκληνται"
+        },
+        {
+          "form": "αἰσχρῶν ὀνομάτων",
+          "lemma": null,
+          "location": "344b",
+          "context": null
+        }
+      ],
+      "observation": "The naming contrast: partial wrongdoers receive αἰσχρὰ ὀνόματα (criminal labels), while the complete wrongdoer (tyrant) is called εὐδαίμων and μακάριος."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μισθόν",
+          "lemma": "μισθός",
+          "location": "345e",
+          "context": "μισθὸν αἰτοῦσιν"
+        },
+        {
+          "form": "μισθωτική",
+          "lemma": "μισθωτική",
+          "location": "346a",
+          "context": "ἑκάστην… τῶν τεχνῶν τούτῳ ἑτέραν εἶναι"
+        },
+        {
+          "form": "μισθαρνητική",
+          "lemma": "μισθαρνητική",
+          "location": "346d",
+          "context": "ἡ δὲ μισθαρνητικὴ μισθόν"
+        },
+        {
+          "form": "μισθόν",
+          "lemma": "μισθός",
+          "location": "347a",
+          "context": "μισθὸν δεῖν ὑπάρχειν τοῖς μέλλουσιν ἐθελήσειν ἄρχειν"
+        }
+      ],
+      "observation": "μισθός and its derivatives (μισθωτική, μισθαρνητική) recur densely as Socrates distinguishes the wage-earning art from each proper τέχνη."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἀργύριον ἢ τιμήν, ἢ ζημίαν ἐὰν μὴ ἄρχῃ",
+          "lemma": null,
+          "location": "347a",
+          "context": null
+        }
+      ],
+      "observation": "Three forms of μισθός for rulers are named: money (ἀργύριον), honor (τιμή), or penalty (ζημία) if one refuses to rule."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "περιμάχητον ἂν εἶναι τὸ μὴ ἄρχειν",
+          "lemma": null,
+          "location": "347d",
+          "context": "πόλις ἀνδρῶν ἀγαθῶν εἰ γένοιτο, περιμάχητον ἂν εἶναι τὸ μὴ ἄρχειν ὥσπερ νυνὶ τὸ ἄρχειν"
+        },
+        {
+          "form": "τὸ ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "347d",
+          "context": null
+        }
+      ],
+      "observation": "In a city of good men, not-ruling (τὸ μὴ ἄρχειν) would be fought over just as ruling (τὸ ἄρχειν) is fought over now—an inversion."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἑκόντα",
+          "lemma": "ἑκών",
+          "location": "345e",
+          "context": "ἑκόντας οἴει ἄρχειν"
+        },
+        {
+          "form": "ἑκών",
+          "lemma": "ἑκών",
+          "location": "347c",
+          "context": "τὸ ἑκόντα ἐπὶ τὸ ἄρχειν ἰέναι"
+        },
+        {
+          "form": "ἐθέλειν",
+          "lemma": "ἐθέλω",
+          "location": "345e",
+          "context": "οὐδεὶς ἐθέλει ἄρχειν ἑκών"
+        },
+        {
+          "form": "ἐθελήσειν",
+          "lemma": "ἐθέλω",
+          "location": "347a",
+          "context": "τοῖς μέλλουσιν ἐθελήσειν ἄρχειν"
+        }
+      ],
+      "observation": "Willingness to rule is repeatedly questioned: ἑκών and ἐθέλω cluster around ἄρχειν, establishing that no one rules willingly."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ὅλου βίου διαγωγήν",
+          "lemma": null,
+          "location": "344e",
+          "context": "πρᾶγμα διορίζεσθαι ὅλου βίου διαγωγήν"
+        },
+        {
+          "form": "λυσιτελεστάτην ζωὴν ζῴη",
+          "lemma": null,
+          "location": "344e",
+          "context": null
+        }
+      ],
+      "observation": "Socrates reframes the stakes: the matter at issue is the conduct of an entire life (ὅλου βίου διαγωγή) and the most profitable way to live (λυσιτελεστάτην ζωήν)."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "οὐ πείθομαι",
+          "lemma": "πείθω",
+          "location": "345a",
+          "context": "ὅτι οὐ πείθομαι οὐδ᾽ οἶμαι ἀδικίαν δικαιοσύνης κερδαλεώτερον εἶναι"
+        },
+        {
+          "form": "πεῖσον",
+          "lemma": "πείθω",
+          "location": "345b",
+          "context": "πεῖσον οὖν, ὦ μακάριε, ἱκανῶς ἡμᾶς"
+        },
+        {
+          "form": "πείσω",
+          "lemma": "πείθω",
+          "location": "345b",
+          "context": "καὶ πῶς… σὲ πείσω"
+        }
+      ],
+      "observation": "πείθω appears in rapid exchange: Socrates declares he is not persuaded (οὐ πείθομαι), asks Thrasymachus to persuade (πεῖσον), and Thrasymachus asks how he shall persuade (πείσω)."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "δαιτυμόνα",
+          "lemma": "δαιτυμών",
+          "location": "345c",
+          "context": "ὥσπερ δαιτυμόνα τινὰ καὶ μέλλοντα ἑστιάσεσθαι"
+        },
+        {
+          "form": "εὐωχίαν",
+          "lemma": "εὐωχία",
+          "location": "345c",
+          "context": "πρὸς τὴν εὐωχίαν"
+        },
+        {
+          "form": "ἀποδόσθαι",
+          "lemma": "ἀποδίδομαι",
+          "location": "345d",
+          "context": "πρὸς τὸ ἀποδόσθαι"
+        },
+        {
+          "form": "χρηματιστήν",
+          "lemma": "χρηματιστής",
+          "location": "345d",
+          "context": "ὥσπερ χρηματιστὴν ἀλλὰ οὐ ποιμένα"
+        }
+      ],
+      "observation": "Socrates contrasts three orientations for the shepherd: feasting (δαιτυμών, εὐωχία), selling (ἀποδόσθαι, χρηματιστής), versus genuine shepherding—a cluster of rival ends."
+    }
+  ]
+}
