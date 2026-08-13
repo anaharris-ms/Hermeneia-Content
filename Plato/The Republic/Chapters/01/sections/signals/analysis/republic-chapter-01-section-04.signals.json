@@ -1,0 +1,452 @@
+{
+  "section_id": "republic-chapter-01-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ θηρίον",
+          "lemma": "θηρίον",
+          "location": "336b",
+          "context": "συστρέψας ἑαυτὸν ὥσπερ θηρίον ἧκεν ἐφʼ ἡμᾶς ὡς διαρπασόμενος"
+        }
+      ],
+      "observation": "Thrasymachus' entry is described as a beast crouching and springing to tear apart its prey."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰς τὸ μέσον",
+          "lemma": "μέσος",
+          "location": "336b",
+          "context": "ὁ δʼ εἰς τὸ μέσον φθεγξάμενος"
+        }
+      ],
+      "observation": "Thrasymachus speaks 'into the middle,' a spatial placement for his intervention."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀντιλαμβάνεσθαι",
+          "lemma": "ἀντιλαμβάνω",
+          "location": "336b",
+          "context": null
+        },
+        {
+          "form": "διεκωλύετο",
+          "lemma": "διακωλύω",
+          "location": "336b",
+          "context": "ὑπὸ τῶν παρακαθημένων διεκωλύετο"
+        },
+        {
+          "form": "οὐκέτι ἡσυχίαν ἦγεν",
+          "lemma": null,
+          "location": "336b",
+          "context": null
+        }
+      ],
+      "observation": "A sequence of attempted, restrained, and finally unrestrained intervention: Thrasymachus repeatedly tries to seize the argument, is prevented by those sitting nearby, and finally keeps quiet no longer."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀποκρίνασθαι",
+          "lemma": "ἀποκρίνομαι",
+          "location": "336c",
+          "context": "αὐτὸς ἀπόκρινai καὶ εἰπὲ τί φῂς εἶναι τὸ δίκαιον"
+        },
+        {
+          "form": "ἀποκρίνοιτο",
+          "lemma": "ἀποκρίνομαι",
+          "location": "337b",
+          "context": "οὐδεὶς ἀποκρίνοιτο τῷ οὕτως πυνθανομένῳ"
+        },
+        {
+          "form": "ἀποκρίνεσθαι",
+          "lemma": "ἀποκρίνομαι",
+          "location": "337c",
+          "context": "ἧττόν τι αὐτὸν οἴει ἀποκρινεῖσθαι τὸ φαινόμενον"
+        },
+        {
+          "form": "ἀποκρινόμενον",
+          "lemma": "ἀποκρίνομαι",
+          "location": "338a",
+          "context": "ἐμὲ εἶναι τὸν ἀποκρινόμενον"
+        },
+        {
+          "form": "ἀποκρίνηται",
+          "lemma": "ἀποκρίνομαι",
+          "location": "337e",
+          "context": "αὐτὸς μὲν μὴ ἀποκρίνηται"
+        }
+      ],
+      "observation": "Forms of ἀποκρίνομαι recur densely throughout the section, as the question of who answers, who refuses to answer, and the act of answering itself becomes the contested action."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φλυαρία",
+          "lemma": "φλυαρία",
+          "location": "336c",
+          "context": "τίς ὑμᾶς πάλαι φλυαρία ἔχει"
+        },
+        {
+          "form": "φλυαρῇς",
+          "lemma": "φλυαρέω",
+          "location": "337b",
+          "context": "ἐὰν τοιαῦτα φλυαρῇς"
+        }
+      ],
+      "observation": "Thrasymachus first accuses Socrates of φλυαρία, then uses the verb again to pre-exclude certain types of answers."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τὸ δέον",
+          "lemma": "δεῖ",
+          "location": "336d",
+          "context": null
+        },
+        {
+          "form": "τὸ ὠφέλιμον",
+          "lemma": "ὠφέλιμος",
+          "location": "336d",
+          "context": null
+        },
+        {
+          "form": "τὸ λυσιτελοῦν",
+          "lemma": "λυσιτελέω",
+          "location": "336d",
+          "context": null
+        },
+        {
+          "form": "τὸ κερδαλέον",
+          "lemma": "κερδαλέος",
+          "location": "336d",
+          "context": null
+        },
+        {
+          "form": "τὸ συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "336d",
+          "context": null
+        }
+      ],
+      "observation": "Thrasymachus pre-emptively lists five prohibited answers for what justice is, forming a cluster of benefit-terms. The last, τὸ συμφέρον, reappears in his own definition at 338c."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὸ συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "336d",
+          "context": "μηδʼ ὅτι τὸ συμφέρον"
+        },
+        {
+          "form": "τὸ τοῦ κρείττονος συμφέρον",
+          "lemma": "συμφέρω",
+          "location": "338c",
+          "context": "φημὶ γὰρ ἐγὼ εἶναι τὸ δίκαιον οὐκ ἄλλο τι ἢ τὸ τοῦ κρείττονος συμφέρον"
+        }
+      ],
+      "observation": "τὸ συμφέρον appears first among the forbidden answers Thrasymachus prohibits, then returns as the core of his own definition, qualified by τοῦ κρείττονος."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄφωνος",
+          "lemma": "ἄφωνος",
+          "location": "336d",
+          "context": "εἰ μὴ πρότερος ἑωράκη αὐτὸν ἢ ἐκεῖνος ἐμέ, ἄφωνος ἂν γενέσθαι"
+        }
+      ],
+      "observation": "Socrates says he would have become speechless had Thrasymachus seen him first; the priority of seeing determines the capacity to speak."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προσβλέπων",
+          "lemma": "προσβλέπω",
+          "location": "336d",
+          "context": "προσβλέπων αὐτὸν ἐφοβούμην"
+        },
+        {
+          "form": "προσέβλεψα",
+          "lemma": "προσβλέπω",
+          "location": "336d",
+          "context": "προσέβλεψα αὐτὸν πρότερος"
+        }
+      ],
+      "observation": "Socrates first looks at Thrasymachus in fear, then narrates having looked at him first—the repeated verb marks the reversal from fear to capacity to respond."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χρυσίον",
+          "lemma": "χρυσίον",
+          "location": "336e",
+          "context": "εἰ μὲν χρυσίον ἐζητοῦμεν"
+        },
+        {
+          "form": "δικαιοσύνην",
+          "lemma": "δικαιοσύνη",
+          "location": "336e",
+          "context": "δικαιοσύνην δὲ ζητοῦντας, πρᾶγμα πολλῶν χρυσίων τιμιώτερον"
+        }
+      ],
+      "observation": "Socrates contrasts searching for gold with searching for justice, calling justice a thing more valuable than many golds."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σαρδάνιον",
+          "lemma": "σαρδάνιος",
+          "location": "337a",
+          "context": "ἀνεκάγχασέ τε μάλα σαρδάνιον"
+        }
+      ],
+      "observation": "Thrasymachus laughs a σαρδάνιον laugh—a striking, marked descriptor for the quality of his laughter."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἰρωνεία",
+          "lemma": "εἰρωνεία",
+          "location": "337a",
+          "context": "ἡ εἰωθυῖα εἰρωνεία Σωκράτους"
+        },
+        {
+          "form": "εἰρωνεύσοιο",
+          "lemma": "εἰρωνεύομαι",
+          "location": "337a",
+          "context": "εἰρωνεύσοιο δὲ καὶ πάντα μᾶλλον ποιήσοις ἢ ἀποκρινοῖο"
+        }
+      ],
+      "observation": "Thrasymachus names Socrates' εἰρωνεία as habitual and predicts he will practice it rather than answer."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὰ δώδεκα",
+          "lemma": "δώδεκα",
+          "location": "337b",
+          "context": "ὁπόσα ἐστὶν τὰ δώδεκα"
+        },
+        {
+          "form": "δὶς ἕξ",
+          "lemma": null,
+          "location": "337b",
+          "context": null
+        },
+        {
+          "form": "τρὶς τέτταρα",
+          "lemma": null,
+          "location": "337b",
+          "context": null
+        },
+        {
+          "form": "ἑξάκις δύο",
+          "lemma": null,
+          "location": "337b",
+          "context": null
+        },
+        {
+          "form": "τετράκις τρία",
+          "lemma": null,
+          "location": "337b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates produces an analogy about twelve with four prohibited factorizations, paralleling Thrasymachus' list of prohibited definitions."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μαθεῖν",
+          "lemma": "μανθάνω",
+          "location": "337d",
+          "context": "προσήκει δέ που μαθεῖν παρὰ τοῦ εἰδότος"
+        },
+        {
+          "form": "διδάσκειν",
+          "lemma": "διδάσκω",
+          "location": "338b",
+          "context": "αὐτὸν μὲν μὴ ἐθέλειν διδάσκειν"
+        },
+        {
+          "form": "μανθάνειν",
+          "lemma": "μανθάνω",
+          "location": "338b",
+          "context": "παρὰ δὲ τῶν ἄλλων περιιόντα μανθάνειν"
+        },
+        {
+          "form": "διδάξαι",
+          "lemma": "διδάσκω",
+          "location": "338a",
+          "context": "μὴ φθονήσῃς καὶ Γλαύκωνα τόνδε διδάξαι"
+        }
+      ],
+      "observation": "Learning and teaching cluster together: Socrates claims the non-knower should learn from the knower, Thrasymachus accuses Socrates of learning from others without teaching, and Socrates asks Thrasymachus to teach."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χάριν ἀποδιδόναι",
+          "lemma": null,
+          "location": "338b",
+          "context": "τούτων μηδὲ χάριν ἀποδιδόναι"
+        },
+        {
+          "form": "ἐκτίνω",
+          "lemma": "ἐκτίνω",
+          "location": "338b",
+          "context": "ἐκτίνω γὰρ ὅσην δύναμαι"
+        },
+        {
+          "form": "ἐπαινεῖν",
+          "lemma": "ἐπαινέω",
+          "location": "338b",
+          "context": "δύναμαι δὲ ἐπαινεῖν μόνον· χρήματα γὰρ οὐκ ἔχω"
+        }
+      ],
+      "observation": "Thrasymachus accuses Socrates of not repaying gratitude; Socrates says he pays what he can—praise only, not money."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀπότεισον ἀργύριον",
+          "lemma": null,
+          "location": "337d",
+          "context": null
+        },
+        {
+          "form": "ἔστιν",
+          "lemma": "εἰμί",
+          "location": "337d",
+          "context": "ἀλλὰ ἔστιν, ἔφη ὁ Γλαύκων"
+        },
+        {
+          "form": "εἰσοίσομεν",
+          "lemma": "εἰσφέρω",
+          "location": "337d",
+          "context": "πάντες γὰρ ἡμεῖς Σωκράτει εἰσοίσομεν"
+        }
+      ],
+      "observation": "Thrasymachus demands Socrates pay money in addition to learning; Glaucon intervenes to guarantee payment on Socrates' behalf, with πάντες contributing."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμῶν εἰπεῖν",
+          "lemma": null,
+          "location": "338a",
+          "context": "φανερὸς μὲν ἦν ἐπιθυμῶν εἰπεῖν ἵνʼ εὐδοκιμήσειεν"
+        },
+        {
+          "form": "συνεχώρησεν",
+          "lemma": "συγχωρέω",
+          "location": "338a",
+          "context": "τελευτῶν δὲ συνεχώρησεν"
+        },
+        {
+          "form": "φημὶ γὰρ ἐγὼ εἶναι τὸ δίκαιον",
+          "lemma": null,
+          "location": "338c",
+          "context": "τὸ τοῦ κρείττονος συμφέρον"
+        }
+      ],
+      "observation": "Thrasymachus' desire to speak for glory, his yielding, and his actual statement of the definition form a completed sequence of intention and action."
+    },
+    {
+      "signal_id": "s018",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὑποκατακλινόμενοι",
+          "lemma": "ὑποκατακλίνω",
+          "location": "336c",
+          "context": "τί εὐηθίζεσθε πρὸς ἀλλήλους ὑποκαταλινόμενοι ὑμῖν αὐτοῖς"
+        },
+        {
+          "form": "ὑποκατακλίνεσθαι",
+          "lemma": "ὑποκατακλίνω",
+          "location": "336e",
+          "context": "οὐκ ἄν ποτε ἡμᾶς ἑκόντας εἶναι ὑποκαταλίνεσθαι ἀλλήλοις"
+        }
+      ],
+      "observation": "ὑποκατακλίνω appears first in Thrasymachus' accusation that Socrates and his interlocutors yield to each other, then in Socrates' reuse of the same word in his gold-seeking analogy, transferring the action from foolishness to the hypothetical search."
+    }
+  ]
+}
