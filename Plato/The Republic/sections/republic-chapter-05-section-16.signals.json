@@ -1,0 +1,334 @@
+{
+  "section_id": "republic-chapter-05-section-16",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φιλήκοοι",
+          "lemma": "φιλήκοος",
+          "location": "476b",
+          "context": null
+        },
+        {
+          "form": "φιλοθεάμονες",
+          "lemma": "φιλοθεάμων",
+          "location": "476b",
+          "context": null
+        }
+      ],
+      "observation": "φιλήκοοι and φιλοθεάμονες are paired as compound φιλο- terms designating lovers of hearing and lovers of spectacle."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φωνὰς",
+          "lemma": "φωνή",
+          "location": "476b",
+          "context": "τάς τε καλὰς φωνὰς"
+        },
+        {
+          "form": "χρόας",
+          "lemma": "χρόα",
+          "location": "476b",
+          "context": null
+        },
+        {
+          "form": "σχήματα",
+          "lemma": "σχῆμα",
+          "location": "476b",
+          "context": null
+        }
+      ],
+      "observation": "A three-item list of sensible particulars—voices, colors, shapes—specifies what the φιλήκοοι καὶ φιλοθεάμονες embrace."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀσπάζονται",
+          "lemma": "ἀσπάζομαι",
+          "location": "476b",
+          "context": "τάς τε καλὰς φωνὰς ἀσπάζονται"
+        },
+        {
+          "form": "ἀσπάσασθαι",
+          "lemma": "ἀσπάζομαι",
+          "location": "476b",
+          "context": "τὴν φύσιν ἰδεῖν τε καὶ ἀσπάσασθαι"
+        }
+      ],
+      "observation": "ἀσπάζομαι appears first for the lovers' embrace of sensible beauties, then for what their διάνοια is unable to do toward τὸ καλόν itself."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατος",
+          "lemma": "ἀδύνατος",
+          "location": "476b",
+          "context": "ἀδύνατος αὐτῶν ἡ διάνοια"
+        },
+        {
+          "form": "δυνατοὶ",
+          "lemma": "δυνατός",
+          "location": "476b",
+          "context": "δυνατοὶ ἰέναι τε καὶ ὁρᾶν καθʼ αὑτὸ"
+        }
+      ],
+      "observation": "ἀδύνατος describes the many's διάνοια regarding the beautiful itself; δυνατοί describes the few who can go to it and see it."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "476c",
+          "context": "ὄναρ ἢ ὕπαρ δοκεῖ σοι ζῆν"
+        },
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "476c",
+          "context": null
+        }
+      ],
+      "observation": "The pair ὄναρ/ὕπαρ is posed as a question about how each type lives, then answered: the one who confuses likeness with original dreams; the one who sees both is awake."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὀνειρώττειν",
+          "lemma": "ὀνειρώττω",
+          "location": "476c",
+          "context": "τὸ ὀνειρώττειν ἆρα οὐ τόδε ἐστίν"
+        },
+        {
+          "form": "ὀνειρώττειν",
+          "lemma": "ὀνειρώττω",
+          "location": "476c",
+          "context": "φαίην ὀνειρώττειν τὸν τοιοῦτον"
+        }
+      ],
+      "observation": "ὀνειρώττειν appears in the definition of dreaming and immediately in Glaucon's agreement applying it."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὅμοιόν",
+          "lemma": "ὅμοιος",
+          "location": "476c",
+          "context": "τὸ ὅμοιόν τῳ μὴ ὅμοιον ἀλλʼ αὐτὸ ἡγῆται εἶναι ᾧ ἔοικεν"
+        },
+        {
+          "form": "ἔοικεν",
+          "lemma": "ἔοικα",
+          "location": "476c",
+          "context": null
+        }
+      ],
+      "observation": "The definition of dreaming uses ὅμοιον twice and ἔοικεν, clustering likeness-language around the confusion of copy with original."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μετέχοντα",
+          "lemma": "μετέχω",
+          "location": "476d",
+          "context": "τὰ ἐκείνου μετέχοντα"
+        },
+        {
+          "form": "μετέχοντα",
+          "lemma": "μετέχω",
+          "location": "476d",
+          "context": "οὔτε τὰ μετέχοντα αὐτὸ οὔτε αὐτὸ τὰ μετέχοντα"
+        }
+      ],
+      "observation": "μετέχοντα occurs three times in one sentence, specifying participation and the waking person's capacity not to confuse participants with what is participated in."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γνώμην",
+          "lemma": "γνώμη",
+          "location": "476d",
+          "context": "τὴν διάνοιαν ὡς γιγνώσκοντος γνώμην"
+        },
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "476d",
+          "context": "τοῦ δὲ δόξαν ὡς δοξάζοντος"
+        }
+      ],
+      "observation": "γνώμη is assigned to the one who knows, δόξα to the one who opines; each noun is reinforced by a cognate participle."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "χαλεπαίνῃ",
+          "lemma": "χαλεπαίνω",
+          "location": "476d",
+          "context": "ἐὰν ἡμῖν χαλεπαίνῃ οὗτος"
+        },
+        {
+          "form": "παραμυθεῖσθαι",
+          "lemma": "παραμυθέομαι",
+          "location": "476e",
+          "context": "παραμυθεῖσθαι αὐτὸν καὶ πείθειν ἠρέμα"
+        },
+        {
+          "form": "ἐπικρυπτόμενοι",
+          "lemma": "ἐπικρύπτω",
+          "location": "476e",
+          "context": "ἐπικρυπτόμενοι ὅτι οὐχ ὑγιαίνει"
+        }
+      ],
+      "observation": "The anticipated anger of the opiner is met with soothing (παραμυθεῖσθαι), gentle persuading (πείθειν ἠρέμα), and concealment (ἐπικρυπτόμενοι) of the diagnosis that he is not healthy (οὐχ ὑγιαίνει)."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "γιγνώσκων",
+          "lemma": "γιγνώσκω",
+          "location": "476e",
+          "context": "ὁ γιγνώσκων γιγνώσκει τὶ ἢ οὐδέν"
+        },
+        {
+          "form": "γιγνώσκει",
+          "lemma": "γιγνώσκω",
+          "location": "476e",
+          "context": null
+        },
+        {
+          "form": "γνωσθείη",
+          "lemma": "γιγνώσκω",
+          "location": "477a",
+          "context": "πῶς γὰρ ἂν μὴ ὄν γέ τι γνωσθείη"
+        },
+        {
+          "form": "γνωστόν",
+          "lemma": "γνωστός",
+          "location": "477a",
+          "context": "παντελῶς ὂν παντελῶς γνωστόν"
+        }
+      ],
+      "observation": "γιγνώσκω and its derivatives cluster densely from 476e to 477a as the argument links knowing to what is."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "παντελῶς ὂν παντελῶς γνωστόν",
+          "lemma": null,
+          "location": "477a",
+          "context": null
+        },
+        {
+          "form": "μὴ ὂν δὲ μηδαμῇ πάντῃ ἄγνωστον",
+          "lemma": null,
+          "location": "477a",
+          "context": null
+        }
+      ],
+      "observation": "Two parallel clauses set what completely is as completely knowable against what is not as in every way unknowable; παντελῶς is matched by πάντῃ, γνωστόν by ἄγνωστον."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "σπάνιοι",
+          "lemma": "σπάνιος",
+          "location": "476b",
+          "context": "ἆρα οὐ σπάνιοι ἂν εἶεν"
+        }
+      ],
+      "observation": "Those able to go to the beautiful itself and see it καθʼ αὑτό are called σπάνιοι—rare."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἡγῆται",
+          "lemma": "ἡγέομαι",
+          "location": "476c",
+          "context": "ἄν τις ἡγῆται ἐπὶ τὴν γνῶσιν αὐτοῦ"
+        },
+        {
+          "form": "ἡγῆται",
+          "lemma": "ἡγέομαι",
+          "location": "476c",
+          "context": "αὐτὸ ἡγῆται εἶναι ᾧ ἔοικεν"
+        },
+        {
+          "form": "ἡγούμενός",
+          "lemma": "ἡγέομαι",
+          "location": "476c",
+          "context": "ὁ τἀναντία τούτων ἡγούμενός"
+        },
+        {
+          "form": "ἡγούμενος",
+          "lemma": "ἡγέομαι",
+          "location": "476d",
+          "context": "οὔτε αὐτὸ τὰ μετέχοντα ἡγούμενος"
+        }
+      ],
+      "observation": "ἡγέομαι recurs four times: first as being led toward knowledge, then as the mistaken judgment of the dreamer, then twice for the correct judgment of the waking philosopher."
+    }
+  ]
+}
