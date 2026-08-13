@@ -1,0 +1,419 @@
+{
+  "section_id": "republic-chapter-03-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὸ θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "410b",
+          "context": "πρὸς τὸ θυμοειδὲς τῆς φύσεως βλέπων κἀκεῖνο ἐγείρων"
+        },
+        {
+          "form": "θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "411a",
+          "context": "εἴ τι θυμοειδὲς εἶχεν, ὥσπερ σίδηρον ἐμάλαξεν"
+        },
+        {
+          "form": "θυμοειδῆ",
+          "lemma": "θυμοειδής",
+          "location": "411b",
+          "context": "ἐὰν δὲ θυμοειδῆ, ἀσθενῆ ποιήσας τὸν θυμὸν"
+        },
+        {
+          "form": "θυμοειδοῦς",
+          "lemma": "θυμοειδής",
+          "location": "411c",
+          "context": "ἀντὶ θυμοειδοῦς γεγένηνται"
+        },
+        {
+          "form": "τὸ θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "411e",
+          "context": "ἐπὶ τὸ θυμοειδὲς καὶ τὸ φιλόσοφον"
+        }
+      ],
+      "observation": "θυμοειδής recurs densely across the section, first as what gymnastics should awaken, then as what music softens like iron, then as what is replaced by ἀκράχολοι καὶ ὀργίλοι, and finally as one of the two targets of the two arts."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀγριότητός τε καὶ σκληρότητος",
+          "lemma": null,
+          "location": "410d",
+          "context": null
+        },
+        {
+          "form": "μαλακίας τε καὶ ἡμερότητος",
+          "lemma": null,
+          "location": "410d",
+          "context": null
+        }
+      ],
+      "observation": "Two paired qualities are set out as a fourfold contrast: ἀγριότης/σκληρότης versus μαλακία/ἡμερότης, corresponding to excess gymnastics versus excess music."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἀμφότερα τῆς ψυχῆς ἕνεκα",
+          "lemma": null,
+          "location": "410c",
+          "context": "ἀμφότερα τῆς ψυχῆς ἕνεκα τὸ μέγιστον καθιστάναι"
+        }
+      ],
+      "observation": "The claim that both music and gymnastics are established for the sake of the soul corrects the common opinion (οὐχ οὗ ἕνεκά τινες οἴονται) that one serves body and the other soul."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lexical_family",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἡρμόσθαι",
+          "lemma": "ἁρμόζω",
+          "location": "410e",
+          "context": "ἡρμόσθαι δεῖ αὐτὰς πρὸς ἀλλήλας"
+        },
+        {
+          "form": "ἡρμοσμένου",
+          "lemma": "ἁρμόζω",
+          "location": "410e",
+          "context": "τοῦ μὲν ἡρμοσμένου σώφρων τε καὶ ἀνδρεία"
+        },
+        {
+          "form": "ἀναρμόστου",
+          "lemma": "ἀνάρμοστος",
+          "location": "411a",
+          "context": "τοῦ δὲ ἀναρμόστου δειλὴ καὶ ἄγροικος"
+        },
+        {
+          "form": "συναρμοσθῆτον",
+          "lemma": "συναρμόζω",
+          "location": "412a",
+          "context": "ἀλλήλοιν συναρμοσθῆτον ἐπιτεινομένω καὶ ἀνιεμένω"
+        },
+        {
+          "form": "εὐαρμοστότατον",
+          "lemma": "εὐάρμοστος",
+          "location": "412a",
+          "context": "τελέως μουσικώτατον καὶ εὐαρμοστότατον"
+        }
+      ],
+      "observation": "The ἁρμόζω family appears in five forms spanning attunement of the two natures, the harmonized versus unharmonized soul, their joint tuning, and the superlative εὐαρμοστότατον."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ σίδηρον ἐμάλαξεν",
+          "lemma": "μαλάσσω",
+          "location": "411a",
+          "context": null
+        },
+        {
+          "form": "τήκει καὶ λείβει",
+          "lemma": null,
+          "location": "411b",
+          "context": "τὸ δὴ μετὰ τοῦτο ἤδη τήκει καὶ λείβει"
+        },
+        {
+          "form": "ἐκτήξῃ τὸν θυμὸν",
+          "lemma": "ἐκτήκω",
+          "location": "411b",
+          "context": null
+        },
+        {
+          "form": "ἐκτέμῃ ὥσπερ νεῦρα ἐκ τῆς ψυχῆς",
+          "lemma": "ἐκτέμνω",
+          "location": "411b",
+          "context": null
+        }
+      ],
+      "observation": "A metallurgical-corporeal cluster describes music's excessive effect: softening like iron, then melting, dissolving, and cutting sinews from the soul."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χρήσιμον ἐξ ἀχρήστου καὶ σκληροῦ ἐποίησεν",
+          "lemma": null,
+          "location": "411a-b",
+          "context": null
+        },
+        {
+          "form": "μαλθακὸν αἰχμητήν",
+          "lemma": null,
+          "location": "411b",
+          "context": "ποιήσῃ μαλθακὸν αἰχμητήν"
+        }
+      ],
+      "observation": "Music first makes the spirited element useful from useless and hard, but continued excess produces a μαλθακὸν αἰχμητήν — a soft spearman."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "καταυλεῖν",
+          "lemma": "καταυλέω",
+          "location": "411a",
+          "context": "μουσικῇ παρέχῃ καταυλεῖν"
+        },
+        {
+          "form": "καταχεῖν",
+          "lemma": "καταχέω",
+          "location": "411a",
+          "context": "καταχεῖν τῆς ψυχῆς διὰ τῶν ὤτων"
+        },
+        {
+          "form": "ὥσπερ διὰ χώνης",
+          "lemma": "χώνη",
+          "location": "411a",
+          "context": null
+        }
+      ],
+      "observation": "καταυλεῖν and καταχεῖν, both with κατα- prefix, describe music being piped down and poured down into the soul through the ears as through a funnel (χώνη)."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῶς μὲν τραφὲν ἀνδρεῖον ἂν εἴη",
+          "lemma": null,
+          "location": "410d",
+          "context": null
+        },
+        {
+          "form": "μᾶλλον δʼ ἐπιταθὲν τοῦ δέοντος σκληρόν τε καὶ χαλεπὸν γίγνοιτʼ ἄν",
+          "lemma": null,
+          "location": "410d",
+          "context": null
+        }
+      ],
+      "observation": "The spirited element rightly nurtured becomes ἀνδρεῖον, but overstretched beyond τοῦ δέοντος becomes σκληρόν τε καὶ χαλεπόν — a parallel conditional structure."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀσθενές τε καὶ κωφὸν καὶ τυφλὸν",
+          "lemma": null,
+          "location": "411d",
+          "context": null
+        },
+        {
+          "form": "οὐκ ἐγειρόμενον οὐδὲ τρεφόμενον οὐδὲ διακαθαιρομένων τῶν αἰσθήσεων",
+          "lemma": null,
+          "location": "411d",
+          "context": null
+        }
+      ],
+      "observation": "The φιλομαθές in the soul of the exclusive gymnast becomes weak, deaf, and blind, because it is neither awakened, nourished, nor its perceptions cleansed."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πειθοῖ μὲν διὰ λόγων οὐδὲν ἔτι χρῆται",
+          "lemma": null,
+          "location": "411d",
+          "context": null
+        },
+        {
+          "form": "βίᾳ δὲ καὶ ἀγριότητι ὥσπερ θηρίον",
+          "lemma": null,
+          "location": "411e",
+          "context": null
+        }
+      ],
+      "observation": "The exclusive gymnast no longer uses persuasion through speech but acts by force and savagery like a beast — πειθώ/λόγος contrasted with βία/ἀγριότης/θηρίον."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτεινομένω καὶ ἀνιεμένω",
+          "lemma": null,
+          "location": "412a",
+          "context": "συναρμοσθῆτον ἐπιτεινομένω καὶ ἀνιεμένω μέχρι τοῦ προσήκοντος"
+        }
+      ],
+      "observation": "The dual ἐπιτεινομένω καὶ ἀνιεμένω (tightening and loosening) applies string-tuning language to the two parts of the soul."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τελέως μουσικώτατον",
+          "lemma": "μουσικός",
+          "location": "412a",
+          "context": "τοῦτον ὀρθότατʼ ἂν φαῖμεν εἶναι τελέως μουσικώτατον"
+        },
+        {
+          "form": "τὸν τὰς χορδὰς ἀλλήλαις συνιστάντα",
+          "lemma": null,
+          "location": "412a",
+          "context": "πολὺ μᾶλλον ἢ τὸν τὰς χορδὰς ἀλλήλαις συνιστάντα"
+        }
+      ],
+      "observation": "The truly μουσικώτατον person is redefined as the one who blends gymnastics with music for the soul, explicitly distinguished from one who tunes strings (χορδάς)."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "δύʼ ὄντε τούτω",
+          "lemma": null,
+          "location": "411e",
+          "context": "ἐπὶ δὴ δύʼ ὄντε τούτω"
+        },
+        {
+          "form": "δύο τέχνα",
+          "lemma": null,
+          "location": "411e",
+          "context": "δύο τέχνα θεὸν ἔγωγʼ ἄν τινα φαίην δεδωκέναι"
+        },
+        {
+          "form": "τὸ θυμοειδὲς καὶ τὸ φιλόσοφον",
+          "lemma": null,
+          "location": "411e",
+          "context": null
+        },
+        {
+          "form": "οὐκ ἐπὶ ψυχὴν καὶ σῶμα",
+          "lemma": null,
+          "location": "411e",
+          "context": null
+        }
+      ],
+      "observation": "A god is said to have given two arts for two parts — θυμοειδές and φιλόσοφον — explicitly not for soul and body, correcting the earlier common opinion."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ δέοντος",
+          "lemma": "δεῖ",
+          "location": "410d",
+          "context": "ἀγριώτεροι τοῦ δέοντος"
+        },
+        {
+          "form": "τοῦ δέοντος",
+          "lemma": "δεῖ",
+          "location": "410d",
+          "context": "μᾶλλον δʼ ἐπιταθὲν τοῦ δέοντος"
+        },
+        {
+          "form": "τοῦ δέοντος",
+          "lemma": "δεῖ",
+          "location": "410e",
+          "context": "μαλακώτερον εἴη τοῦ δέοντος"
+        }
+      ],
+      "observation": "τοῦ δέοντος appears three times marking the threshold of excess in different directions — too savage, too hard, too soft."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "τύποι τῆς παιδείας τε καὶ τροφῆς",
+          "lemma": null,
+          "location": "412b",
+          "context": "οἱ μὲν δὴ τύποι τῆς παιδείας τε καὶ τροφῆς οὗτοι ἂν εἶεν"
+        },
+        {
+          "form": "χορείας",
+          "lemma": "χορεία",
+          "location": "412b",
+          "context": null
+        },
+        {
+          "form": "θήρας τε καὶ κυνηγέσια",
+          "lemma": null,
+          "location": "412b",
+          "context": null
+        },
+        {
+          "form": "γυμνικοὺς ἀγῶνας καὶ ἱππικούς",
+          "lemma": null,
+          "location": "412b",
+          "context": null
+        }
+      ],
+      "observation": "The section closes by declaring these the τύποι of education, and dismissing dances, hunts, gymnastic contests, and horse-racing as obvious consequences not requiring further discussion."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐγείρων",
+          "lemma": "ἐγείρω",
+          "location": "410b",
+          "context": "κἀκεῖνο ἐγείρων πονήσει"
+        },
+        {
+          "form": "ἐγειρόμενον",
+          "lemma": "ἐγείρω",
+          "location": "411d",
+          "context": "οὐκ ἐγειρόμενον οὐδὲ τρεφόμενον"
+        }
+      ],
+      "observation": "ἐγείρω appears first as the active awakening of the spirited element through gymnastics, then as the negated passive — the learning-loving part not being awakened in the exclusive gymnast."
+    }
+  ]
+}
