@@ -1,0 +1,5596 @@
+{
+  "schemaVersion": 2,
+  "text": {
+    "id": "urn:cts:greekLit:tlg0059.tlg030.perseus-grc2",
+    "author": "Plato",
+    "title": "The Republic",
+    "source": "republic.xml"
+  },
+  "chapter": 4,
+  "sections": [
+    {
+      "id": "republic-chapter-04-section-01",
+      "title": "Adeimantus Challenges the Guardians' Happiness",
+      "locatorStart": "419a",
+      "locatorEnd": "422a",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-01:s001",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "εὐδαίμονας",
+              "lemma": "εὐδαίμων",
+              "location": "419a",
+              "context": "μὴ πάνυ τι εὐδαίμονας ποιεῖν τούτους τοὺς ἄνδρας"
+            },
+            {
+              "form": "μακαρίοις",
+              "lemma": "μακάριος",
+              "location": "419a",
+              "context": "τοῖς μέλλουσιν μακαρίοις εἶναι"
+            },
+            {
+              "form": "εὐδαιμονέστατοί",
+              "lemma": "εὐδαίμων",
+              "location": "420b",
+              "context": null
+            },
+            {
+              "form": "εὔδαιμον",
+              "lemma": "εὐδαίμων",
+              "location": "420b",
+              "context": "ἕν τι ἡμῖν ἔθνος ἔσται διαφερόντως εὔδαιμον"
+            },
+            {
+              "form": "εὐδαίμονα",
+              "lemma": "εὐδαίμων",
+              "location": "420c",
+              "context": "τὴν εὐδαίμονα πλάττομεν"
+            },
+            {
+              "form": "εὐδαιμονίαν",
+              "lemma": "εὐδαιμονία",
+              "location": "420d",
+              "context": "τοιαύτην εὐδαιμονίαν τοῖς φύλαξι προσάπτειν"
+            },
+            {
+              "form": "μακαρίους",
+              "lemma": "μακάριος",
+              "location": "420e",
+              "context": "τοὺς ἄλλους πάντας τοιούτῳ τρόπῳ μακαρίους ποιεῖν"
+            },
+            {
+              "form": "εὐδαιμονῇ",
+              "lemma": "εὐδαιμονέω",
+              "location": "420e",
+              "context": "ἵνα δὴ ὅλη ἡ πόλις εὐδαιμονῇ"
+            },
+            {
+              "form": "εὐδαιμονεῖν",
+              "lemma": "εὐδαιμονέω",
+              "location": "421a",
+              "context": "τοῦ εὖ οἰκεῖν καὶ εὐδαιμονεῖν"
+            },
+            {
+              "form": "εὐδαιμονία",
+              "lemma": "εὐδαιμονία",
+              "location": "421b",
+              "context": "ὅτι πλείστη αὐτοῖς εὐδαιμονία ἐγγενήσεται"
+            },
+            {
+              "form": "εὐδαιμονίας",
+              "lemma": "εὐδαιμονία",
+              "location": "421c",
+              "context": "τοῦ μεταλαμβάνειν εὐδαιμονίας"
+            }
+          ],
+          "observation": "Forms of εὐδαίμων/εὐδαιμονία saturate the section, shifting between individual happiness (τούτους τοὺς ἄνδρας, ἕν τι ἔθνος) and whole-city happiness (ὅλη ἡ πόλις); μακάριος appears twice as a near-synonym in the lists of conventional goods."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s002",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἕν τι ἡμῖν ἔθνος",
+              "lemma": null,
+              "location": "420b",
+              "context": "ὅπως ἕν τι ἡμῖν ἔθνος ἔσται διαφερόντως εὔδαιμον"
+            },
+            {
+              "form": "ὅλη ἡ πόλις",
+              "lemma": null,
+              "location": "420b",
+              "context": "ἀλλʼ ὅπως ὅτι μάλιστα ὅλη ἡ πόλις"
+            }
+          ],
+          "observation": "A stated contrast between making one group (ἕν τι ἔθνος) exceptionally happy versus the whole city (ὅλη ἡ πόλις); ὅλην recurs at 420c and ὅλη again at 420e."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s003",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἀγρούς",
+              "lemma": "ἀγρός",
+              "location": "419a",
+              "context": null
+            },
+            {
+              "form": "οἰκίας οἰκοδομούμενοι καλὰς καὶ μεγάλας",
+              "lemma": null,
+              "location": "419a",
+              "context": null
+            },
+            {
+              "form": "κατασκευὴν",
+              "lemma": "κατασκευή",
+              "location": "419a",
+              "context": "ταύταις πρέπουσαν κατασκευὴν κτώμενοι"
+            },
+            {
+              "form": "θυσίας θεοῖς ἰδίας θύοντες",
+              "lemma": null,
+              "location": "419a",
+              "context": null
+            },
+            {
+              "form": "ξενοδοκοῦντες",
+              "lemma": "ξενοδοκέω",
+              "location": "419a",
+              "context": null
+            },
+            {
+              "form": "χρυσόν τε καὶ ἄργυρον",
+              "lemma": null,
+              "location": "419a",
+              "context": null
+            }
+          ],
+          "observation": "Adeimantus catalogues conventional goods denied to the guardians: land, fine houses, furnishings, private sacrifices, hosting guests, gold and silver—a cluster of possessions and private activities."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s004",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐπίκουροι μισθωτοί",
+              "lemma": null,
+              "location": "419a",
+              "context": "ὥσπερ ἐπίκουροι μισθωτοὶ ἐν τῇ πόλει φαίνονται καθῆσθαι"
+            },
+            {
+              "form": "ἐπισίτιοι",
+              "lemma": "ἐπισίτιος",
+              "location": "420a",
+              "context": "ταῦτά γε ἐπισίτιοι καὶ οὐδὲ μισθὸν πρὸς τοῖς σιτίοις λαμβάνοντες"
+            }
+          ],
+          "observation": "Adeimantus likens guardians to hired mercenaries (ἐπίκουροι μισθωτοί); Socrates intensifies this by adding ἐπισίτιοι—they receive only food, not even wages on top of it."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s005",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἀπολογήσῃ",
+              "lemma": "ἀπολογέομαι",
+              "location": "419a",
+              "context": "τί οὖν … ἀπολογήσῃ"
+            },
+            {
+              "form": "ἀπολογησόμεθα",
+              "lemma": "ἀπολογέομαι",
+              "location": "420b",
+              "context": "τί οὖν δὴ ἀπολογησόμεθα"
+            },
+            {
+              "form": "ἀπολογεῖσθαι",
+              "lemma": "ἀπολογέομαι",
+              "location": "420d",
+              "context": "μετρίως ἂν ἐδοκοῦμεν πρὸς αὐτὸν ἀπολογεῖσθαι"
+            },
+            {
+              "form": "κατηγορίας",
+              "lemma": "κατηγορία",
+              "location": "420a",
+              "context": "τῆς κατηγορίας ἀπολείπεις"
+            },
+            {
+              "form": "κατηγορημένα",
+              "lemma": "κατηγορέω",
+              "location": "420a",
+              "context": "ἔστω καὶ ταῦτα κατηγορημένα"
+            }
+          ],
+          "observation": "The exchange is framed as a forensic pair: κατηγορία/κατηγορέω (accusation) answered by ἀπολογέομαι (defense), recurring across the section."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s006",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἀνδριάντα γράφοντας",
+              "lemma": null,
+              "location": "420c",
+              "context": "ὥσπερ οὖν ἂν εἰ ἡμᾶς ἀνδριάντα γράφοντας"
+            },
+            {
+              "form": "ὀφθαλμοί",
+              "lemma": "ὀφθαλμός",
+              "location": "420c",
+              "context": "οἱ γὰρ ὀφθαλμοὶ κάλλιστον ὂν οὐκ ὀστρείῳ ἐναληλιμμένοι εἶεν ἀλλὰ μέλανι"
+            },
+            {
+              "form": "φάρμακα",
+              "lemma": "φάρμακον",
+              "location": "420c",
+              "context": "τὰ κάλλιστα φάρμακα προστίθεμεν"
+            }
+          ],
+          "observation": "A statue-painting analogy: painting eyes with ὄστρειον (purple) rather than μέλαν (black) would make them cease to appear as eyes; the fairest colors (κάλλιστα φάρμακα) must suit each part, not beautify it in isolation."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s007",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "γεωργούς",
+              "lemma": "γεωργός",
+              "location": "420e",
+              "context": "τοὺς γεωργοὺς ξυστίδας ἀμφιέσαντες καὶ χρυσὸν περιθέντες"
+            },
+            {
+              "form": "κεραμέας",
+              "lemma": "κεραμεύς",
+              "location": "420e",
+              "context": "τοὺς κεραμέας κατακλίναντες ἐπὶ δεξιὰ πρὸς τὸ πῦρ"
+            },
+            {
+              "form": "γεωργὸς γεωργὸς",
+              "lemma": "γεωργός",
+              "location": "420e",
+              "context": "οὔτε ὁ γεωργὸς γεωργὸς ἔσται"
+            },
+            {
+              "form": "κεραμεὺς κεραμεύς",
+              "lemma": "κεραμεύς",
+              "location": "421a",
+              "context": "οὔτε ὁ κεραμεὺς κεραμεύς"
+            }
+          ],
+          "observation": "Farmers and potters given luxuries would cease to be what they are; this is stated via emphatic doubling: ὁ γεωργὸς γεωργός, ὁ κεραμεὺς κεραμεύς—each noun repeated to mark the loss of identity with role."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s008",
+          "scan_targets": [],
+          "features": [
+            "local_contrast",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "πλοῦτος",
+              "lemma": "πλοῦτος",
+              "location": "421d",
+              "context": "πλοῦτος … καὶ πενία"
+            },
+            {
+              "form": "πενία",
+              "lemma": "πενία",
+              "location": "421d",
+              "context": null
+            },
+            {
+              "form": "πλοῦτός τε … καὶ πενία",
+              "lemma": null,
+              "location": "422a",
+              "context": "πλοῦτός τε … καὶ πενία"
+            }
+          ],
+          "observation": "πλοῦτος and πενία are named together at 421d as what corrupts craftsmen, then repeated together at 422a as what guardians must keep from entering the city."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s009",
+          "scan_targets": [],
+          "features": [
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "χυτρεύς",
+              "lemma": "χυτρεύς",
+              "location": "421d",
+              "context": "πλουτήσας χυτρεὺς δοκεῖ σοι ἔτʼ ἐθελήσειν ἐπιμελεῖσθαι τῆς τέχνης"
+            },
+            {
+              "form": "κακίων χυτρεύς",
+              "lemma": "χυτρεύς",
+              "location": "421d",
+              "context": "οὐκοῦν κακίων χυτρεὺς γίγνεται"
+            }
+          ],
+          "observation": "χυτρεύς (potter) appears first as one enriched, then as one made worse—the same craftsman named in two stages of deterioration."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s010",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "τρυφήν",
+              "lemma": "τρυφή",
+              "location": "422a",
+              "context": null
+            },
+            {
+              "form": "ἀργίαν",
+              "lemma": "ἀργία",
+              "location": "422a",
+              "context": null
+            },
+            {
+              "form": "νεωτερισμόν",
+              "lemma": "νεωτερισμός",
+              "location": "422a",
+              "context": "τοῦ μὲν τρυφὴν καὶ ἀργίαν καὶ νεωτερισμὸν ἐμποιοῦντος"
+            },
+            {
+              "form": "ἀνελευθερίαν",
+              "lemma": "ἀνελευθερία",
+              "location": "422a",
+              "context": null
+            },
+            {
+              "form": "κακοεργίαν",
+              "lemma": "κακοεργία",
+              "location": "422a",
+              "context": "τῆς δὲ ἀνελευθερίαν καὶ κακοεργίαν πρὸς τῷ νεωτερισμῷ"
+            }
+          ],
+          "observation": "Wealth produces τρυφή, ἀργία, νεωτερισμός; poverty produces ἀνελευθερία, κακοεργία, plus νεωτερισμός again—νεωτερισμός is shared by both, linking the two lists."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s011",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "φύλαξι",
+              "lemma": "φύλαξ",
+              "location": "420d",
+              "context": "εὐδαιμονίαν τοῖς φύλαξι προσάπτειν"
+            },
+            {
+              "form": "φύλακας",
+              "lemma": "φύλαξ",
+              "location": "420e",
+              "context": "πᾶν μᾶλλον ἀπεργάσεται ἢ φύλακας"
+            },
+            {
+              "form": "φύλακες",
+              "lemma": "φύλαξ",
+              "location": "421a",
+              "context": "φύλακες δὲ νόμων τε καὶ πόλεως"
+            },
+            {
+              "form": "φύλακας",
+              "lemma": "φύλαξ",
+              "location": "421b",
+              "context": "φύλακας ὡς ἀληθῶς ποιοῦμεν"
+            },
+            {
+              "form": "φύλακας",
+              "lemma": "φύλαξ",
+              "location": "421b",
+              "context": "τοὺς φύλακας καθιστῶμεν"
+            },
+            {
+              "form": "φύλακας",
+              "lemma": "φύλαξ",
+              "location": "421c",
+              "context": "τοὺς φύλακας ἐκεῖνο ἀναγκαστέον"
+            },
+            {
+              "form": "φύλαξιν",
+              "lemma": "φύλαξ",
+              "location": "421e",
+              "context": "τοῖς φύλαξιν ηὑρήκαμεν"
+            },
+            {
+              "form": "φυλακτέον",
+              "lemma": "φυλάσσω",
+              "location": "421e",
+              "context": "παντὶ τρόπῳ φυλακτέον"
+            }
+          ],
+          "observation": "φύλαξ recurs densely; at 421e φυλακτέον (verbal adjective of φυλάσσω) appears alongside φύλαξιν, so the guardians' task (guarding) names what must itself be guarded against."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s012",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "φρουροῦντες",
+              "lemma": "φρουρέω",
+              "location": "420a",
+              "context": "οὐδὲν ἄλλο ἢ φρουροῦντες"
+            },
+            {
+              "form": "καθῆσθαι",
+              "lemma": "κάθημαι",
+              "location": "420a",
+              "context": "ἐν τῇ πόλει φαίνονται καθῆσθαι"
+            }
+          ],
+          "observation": "The guardians are described as merely sitting (καθῆσθαι) and garrisoning (φρουροῦντες)—static confinement rather than active enjoyment."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s013",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ὄντες",
+              "lemma": "εἰμί",
+              "location": "421a",
+              "context": "προσποιησάμενοι εἶναι μὴ ὄντες"
+            },
+            {
+              "form": "δοκοῦντες",
+              "lemma": "δοκέω",
+              "location": "421a",
+              "context": "μὴ ὄντες ἀλλὰ δοκοῦντες"
+            }
+          ],
+          "observation": "A contrast between being and seeming applied to guardians: those who are not guardians but seem to be (μὴ ὄντες ἀλλὰ δοκοῦντες) destroy the city utterly (πᾶσαν ἄρδην ἀπολλύασιν)."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s014",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐν πανηγύρει",
+              "lemma": "πανήγυρις",
+              "location": "421b",
+              "context": "ὥσπερ ἐν πανηγύρει ἀλλʼ οὐκ ἐν πόλει ἑστιάτορας εὐδαίμονας"
+            }
+          ],
+          "observation": "Festival-goers at a πανήγυρις are contrasted with citizens in a πόλις: treating guardians as happy feasters would make the city a festival, not a polity."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s015",
+          "scan_targets": [],
+          "features": [
+            "syntactic_parallel"
+          ],
+          "elements": [
+            {
+              "form": "ἀναγκαστέον",
+              "lemma": null,
+              "location": "421c",
+              "context": "ἐκεῖνο ἀναγκαστέον ποιεῖν"
+            },
+            {
+              "form": "πειστέον",
+              "lemma": null,
+              "location": "421c",
+              "context": "καὶ πειστέον"
+            },
+            {
+              "form": "ἐατέον",
+              "lemma": null,
+              "location": "421c",
+              "context": "ἐατέον ὅπως ἑκάστοις τοῖς ἔθνεσιν"
+            }
+          ],
+          "observation": "Three verbal adjectives in -τέον (ἀναγκαστέον, πειστέον, ἐατέον) appear in close sequence, prescribing what must be done with guardians and city."
+        },
+        {
+          "id": "republic-chapter-04-section-01:s016",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὸ τούτου ἀδελφόν",
+              "lemma": "ἀδελφός",
+              "location": "421c",
+              "context": "καὶ τὸ τούτου ἀδελφὸν δόξω σοι μετρίως λέγειν"
+            }
+          ],
+          "observation": "Socrates introduces the next argument as τὸ τούτου ἀδελφόν—a 'sibling' point—a striking kinship metaphor for a related argument."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-02",
+      "title": "The City at War and the Limits of City Size",
+      "locatorStart": "422a",
+      "locatorEnd": "424c",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-02:s001",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "πλουσίοις",
+              "lemma": "πλούσιος",
+              "location": "422b",
+              "context": "πλουσίοις ἀνδράσι μαχοῦνται"
+            },
+            {
+              "form": "πλουσίοιν",
+              "lemma": "πλούσιος",
+              "location": "422b",
+              "context": "πλουσίοιν δὲ καὶ πιόνοιν"
+            },
+            {
+              "form": "πλουσίων",
+              "lemma": "πλούσιος",
+              "location": "423a",
+              "context": "ἡ δὲ πλουσίων"
+            },
+            {
+              "form": "πλουτούσῃ",
+              "lemma": "πλουτέω",
+              "location": "422e",
+              "context": "τῇ μὴ πλουτούσῃ"
+            }
+          ],
+          "observation": "The lexical family of wealth (πλούσιος/πλουτέω) recurs densely across the section, applied to enemy soldiers, rival cities, and the internal division of cities into rich and poor."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s002",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "μία",
+              "lemma": "εἷς",
+              "location": "422a",
+              "context": "πρὸς μὲν μίαν χαλεπώτερον"
+            },
+            {
+              "form": "εἷς",
+              "lemma": "εἷς",
+              "location": "422b",
+              "context": "εἷς πύκτης"
+            },
+            {
+              "form": "μίαν",
+              "lemma": "εἷς",
+              "location": "422d",
+              "context": "εἰς μίαν πόλιν συναθροισθῇ"
+            },
+            {
+              "form": "μία",
+              "lemma": "εἷς",
+              "location": "423a",
+              "context": "ὡς μιᾷ προσφέρῃ"
+            },
+            {
+              "form": "μία",
+              "lemma": "εἷς",
+              "location": "423b",
+              "context": "ἐθέλῃ αὐξομένη εἶναι μία"
+            },
+            {
+              "form": "μία",
+              "lemma": "εἷς",
+              "location": "423c",
+              "context": "ἀλλά τις ἱκανὴ καὶ μία"
+            },
+            {
+              "form": "ἕνα πρὸς ἓν ἕκαστον",
+              "lemma": "εἷς",
+              "location": "423d",
+              "context": null
+            },
+            {
+              "form": "εἷς",
+              "lemma": "εἷς",
+              "location": "423d",
+              "context": "μὴ πολλοὶ ἀλλʼ εἷς γίγνηται"
+            },
+            {
+              "form": "μία",
+              "lemma": "εἷς",
+              "location": "423d",
+              "context": "σύμπασα ἡ πόλις μία φύηται"
+            }
+          ],
+          "observation": "Forms of εἷς/μία recur with exceptional density, moving from one boxer to one city-opponent to the principle that each city must be one, each citizen one person doing one work, and the whole city must grow as one."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s003",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "πολλαί",
+              "lemma": "πολύς",
+              "location": "423d",
+              "context": "μία φύηται ἀλλὰ μὴ πολλαί"
+            },
+            {
+              "form": "πάμπολλαι",
+              "lemma": "πάμπολυς",
+              "location": "422e",
+              "context": "πόλεις εἰσὶ πάμπολλαι ἀλλʼ οὐ πόλις"
+            },
+            {
+              "form": "πολλοὶ",
+              "lemma": "πολύς",
+              "location": "423d",
+              "context": "μὴ πολλοὶ ἀλλʼ εἷς γίγνηται"
+            }
+          ],
+          "observation": "The contrast between μία/εἷς and πολλαί/πολλοί structures the section: other cities are many-not-one, citizens must become one-not-many."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s004",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἀθληταί",
+              "lemma": "ἀθλητής",
+              "location": "422b",
+              "context": "οἱ ἀθληταὶ … διπλασίοις τε καὶ τριπλασίοις αὑτῶν μαχοῦνται"
+            },
+            {
+              "form": "πύκτης",
+              "lemma": "πύκτης",
+              "location": "422b",
+              "context": "εἷς πύκτης ὡς οἷόν τε κάλλιστα ἐπὶ τοῦτο παρεσκευασμένος"
+            },
+            {
+              "form": "πύκταιν",
+              "lemma": "πύκτης",
+              "location": "422b",
+              "context": "δυοῖν μὴ πύκταιν"
+            },
+            {
+              "form": "πυκτικῆς",
+              "lemma": "πυκτική",
+              "location": "422c",
+              "context": "πυκτικῆς πλέον μετέχειν τοὺς πλουσίους"
+            }
+          ],
+          "observation": "The analogy between war and boxing is developed through a cluster of athletic vocabulary: πύκτης, πυκτική, ἀθληταί, with the trained boxer set against untrained rich opponents."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s005",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "κυσὶ … στερεοῖς τε καὶ ἰσχνοῖς",
+              "lemma": null,
+              "location": "422d",
+              "context": "κυσὶ πολεμεῖν στερεοῖς τε καὶ ἰσχνοῖς"
+            },
+            {
+              "form": "προβάτοις πίοσί τε καὶ ἁπαλοῖς",
+              "lemma": null,
+              "location": "422d",
+              "context": "μετὰ κυνῶν προβάτοις πίοσί τε καὶ ἁπαλοῖς"
+            },
+            {
+              "form": "πιόνοιν",
+              "lemma": "πίων",
+              "location": "422b",
+              "context": "πλουσίοιν δὲ καὶ πιόνοιν"
+            }
+          ],
+          "observation": "The adjective πίων first describes the fat non-boxers (πιόνοιν) and returns in the dog-sheep image (πίοσι), linking the boxer analogy to the animal analogy through shared fatness vocabulary."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s006",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ὑποφεύγοντι",
+              "lemma": "ὑποφεύγω",
+              "location": "422b",
+              "context": null
+            },
+            {
+              "form": "ἀναστρέφοντα",
+              "lemma": "ἀναστρέφω",
+              "location": "422c",
+              "context": null
+            },
+            {
+              "form": "κρούειν",
+              "lemma": "κρούω",
+              "location": "422c",
+              "context": null
+            }
+          ],
+          "observation": "The boxing tactic is described with specific physical movements: retreating (ὑποφεύγοντι), turning back (ἀναστρέφοντα), and striking (κρούειν), performed repeatedly in sun and heat (ἐν ἡλίῳ τε καὶ πνίγει)."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s007",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὸ τῶν παιζόντων",
+              "lemma": "παίζω",
+              "location": "422e",
+              "context": "πόλεις εἰσὶ πάμπολλαι ἀλλʼ οὐ πόλις, τὸ τῶν παιζόντων"
+            }
+          ],
+          "observation": "The phrase τὸ τῶν παιζόντων marks the claim that other cities are many-not-one as something said in game-playing or jest."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s008",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "μεγίστη",
+              "lemma": "μέγας",
+              "location": "423a",
+              "context": "μεγίστη ἔσται, οὐ τῷ εὐδοκιμεῖν λέγω, ἀλλʼ ὡς ἀληθῶς μεγίστη"
+            },
+            {
+              "form": "δοκούσας",
+              "lemma": "δοκέω",
+              "location": "423b",
+              "context": "δοκούσας δὲ πολλὰς καὶ πολλαπλασίας"
+            }
+          ],
+          "observation": "A contrast between truly greatest (ὡς ἀληθῶς μεγίστη) and merely seeming great (δοκούσας), even with only a thousand fighters (χιλίων τῶν προπολεμούντων)."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s009",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "φυλάττειν",
+              "lemma": "φυλάττω",
+              "location": "423c",
+              "context": "φυλάττειν παντὶ τρόπῳ"
+            },
+            {
+              "form": "φύλαξι",
+              "lemma": "φύλαξ",
+              "location": "423c",
+              "context": "πρόσταγμα τοῖς φύλαξι προστάξομεν"
+            },
+            {
+              "form": "φυλάττωσι",
+              "lemma": "φυλάττω",
+              "location": "424b",
+              "context": "παρὰ πάντα αὐτὸ φυλάττωσι"
+            },
+            {
+              "form": "φυλάττειν",
+              "lemma": "φυλάττω",
+              "location": "424b",
+              "context": "ὡς οἷόν τε μάλιστα φυλάττειν"
+            },
+            {
+              "form": "φυλάττωσι",
+              "lemma": "φυλάττω",
+              "location": "423e",
+              "context": "ἓν μέγα φυλάττωσι"
+            }
+          ],
+          "observation": "The verb φυλάττω clusters densely alongside the noun φύλαξ: the guardians are commanded to guard city size, then to guard education and music—the activity of guarding becomes their defining repeated action."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s010",
+          "scan_targets": [],
+          "features": [
+            "lexical_family",
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "φαῦλόν",
+              "lemma": "φαῦλος",
+              "location": "423c",
+              "context": "καὶ φαῦλόν γʼ … ἴσως αὐτοῖς προστάξομεν"
+            },
+            {
+              "form": "φαυλότερον",
+              "lemma": "φαῦλος",
+              "location": "423c",
+              "context": "ἔτι φαυλότερον τόδε"
+            },
+            {
+              "form": "φαῦλα",
+              "lemma": "φαῦλος",
+              "location": "423e",
+              "context": "πάντα φαῦλα"
+            },
+            {
+              "form": "φαῦλος",
+              "lemma": "φαῦλος",
+              "location": "423c",
+              "context": "φαῦλος ἔκγονος γένηται"
+            }
+          ],
+          "observation": "φαῦλος appears four times in quick succession: Adeimantus calls the injunction trivial (φαῦλόν), Socrates escalates with φαυλότερον, then says all tasks are φαῦλα if they guard one great thing; φαῦλος also describes a guardian's inferior offspring."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s011",
+          "scan_targets": [],
+          "features": [
+            "structural_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ὅρος",
+              "lemma": "ὅρος",
+              "location": "423b",
+              "context": "κάλλιστος ὅρος τοῖς ἡμετέροις ἄρχουσιν"
+            },
+            {
+              "form": "μέχρι … μέχρι … πέρα δὲ μή",
+              "lemma": null,
+              "location": "423b",
+              "context": "μέχρι οὗ ἂν ἐθέλῃ αὐξομένη εἶναι μία, μέχρι τούτου αὔξειν, πέρα δὲ μή"
+            }
+          ],
+          "observation": "The limit (ὅρος) of city size is stated as a repeated μέχρι construction with a sharp cutoff (πέρα δὲ μή), the boundary defined by willingness to remain one."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s012",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κύκλος",
+              "lemma": "κύκλος",
+              "location": "424a",
+              "context": "ἔρχεται ὥσπερ κύκλος αὐξανομένη"
+            },
+            {
+              "form": "αὐξανομένη",
+              "lemma": "αὐξάνω",
+              "location": "424a",
+              "context": null
+            },
+            {
+              "form": "αὐξομένη",
+              "lemma": "αὐξάνω",
+              "location": "423b",
+              "context": "ἐθέλῃ αὐξομένη εἶναι μία"
+            },
+            {
+              "form": "αὔξειν",
+              "lemma": "αὐξάνω",
+              "location": "423b",
+              "context": null
+            }
+          ],
+          "observation": "αὐξάνω appears for city growth (limited by unity) and then for the virtuous cycle of education (ἔρχεται ὥσπερ κύκλος αὐξανομένη)—growth recurs in two different structures, one bounded, one circular."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s013",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "πείθομαι",
+              "lemma": "πείθω",
+              "location": "424c",
+              "context": "ὥς φησί τε Δάμων καὶ ἐγὼ πείθομαι"
+            },
+            {
+              "form": "πεπεισμένων",
+              "lemma": "πείθω",
+              "location": "424c",
+              "context": "θὲς τῶν πεπεισμένων"
+            }
+          ],
+          "observation": "Socrates says he is persuaded (πείθομαι) by Damon's claim about music and political laws; Adeimantus immediately asks to be placed among the persuaded (πεπεισμένων), the section ending on a transfer of persuasion."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s014",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "νόμων",
+              "lemma": "νόμος",
+              "location": "424c",
+              "context": "πολιτικῶν νόμων τῶν μεγίστων"
+            },
+            {
+              "form": "τρόποι",
+              "lemma": "τρόπος",
+              "location": "424c",
+              "context": "μουσικῆς τρόποι"
+            },
+            {
+              "form": "τρόπον",
+              "lemma": "τρόπος",
+              "location": "424c",
+              "context": "τρόπον ᾠδῆς νέον"
+            }
+          ],
+          "observation": "μουσικῆς τρόποι (modes/ways of music) are said never to change without the greatest πολιτικῶν νόμων changing—νόμος itself carrying the double sense of law and musical mode."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s015",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὴν παιδείαν … καὶ τροφήν",
+              "lemma": null,
+              "location": "423e",
+              "context": null
+            },
+            {
+              "form": "τροφὴ γὰρ καὶ παίδευσις χρηστή",
+              "lemma": null,
+              "location": "424a",
+              "context": null
+            }
+          ],
+          "observation": "παιδεία and τροφή appear paired: first as the one great thing to guard, then reversed in order (τροφὴ καὶ παίδευσις) as the mechanism of the virtuous cycle."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s016",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἓν μέγα",
+              "lemma": null,
+              "location": "423e",
+              "context": "ἓν μέγα φυλάττωσι"
+            },
+            {
+              "form": "ἀντὶ μεγάλου ἱκανόν",
+              "lemma": null,
+              "location": "423e",
+              "context": "μᾶλλον δʼ ἀντὶ μεγάλου ἱκανόν"
+            }
+          ],
+          "observation": "Socrates calls the one thing μέγα, then immediately corrects himself: not μέγα but ἱκανόν—replacing greatness with sufficiency as the proper term."
+        },
+        {
+          "id": "republic-chapter-04-section-02:s017",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "πρεσβείαν πέμψαντες",
+              "lemma": null,
+              "location": "422d",
+              "context": null
+            },
+            {
+              "form": "χρυσίῳ οὐδʼ ἀργυρίῳ",
+              "lemma": null,
+              "location": "422d",
+              "context": "ἡμεῖς μὲν οὐδὲν χρυσίῳ οὐδʼ ἀργυρίῳ χρώμεθα"
+            },
+            {
+              "form": "θέμις",
+              "lemma": "θέμις",
+              "location": "422d",
+              "context": "οὐδʼ ἡμῖν θέμις"
+            }
+          ],
+          "observation": "The proposed embassy declares the city's non-use of gold and silver as θέμις (divine law/custom), offering allied war spoils in exchange—a diplomatic speech embedded within the argument."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-03",
+      "title": "Music as Fortress, Lawful Play, and Deferring Religion to Apollo",
+      "locatorStart": "424d",
+      "locatorEnd": "427c",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-03:s001",
+          "scan_targets": [],
+          "features": [
+            "directional_spatial_cluster",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "παραδυομένη",
+              "lemma": "παραδύομαι",
+              "location": "424d",
+              "context": "ῥᾳδίως αὕτη λανθάνει παραδυομένη"
+            },
+            {
+              "form": "εἰσοικισαμένη",
+              "lemma": "εἰσοικίζομαι",
+              "location": "424d",
+              "context": "κατὰ σμικρὸν εἰσοικισαμένη"
+            },
+            {
+              "form": "ὑπορρεῖ",
+              "lemma": "ὑπορρέω",
+              "location": "424d",
+              "context": "ἠρέμα ὑπορρεῖ πρὸς τὰ ἤθη"
+            },
+            {
+              "form": "ἐκβαίνει",
+              "lemma": "ἐκβαίνω",
+              "location": "424d",
+              "context": "μείζων ἐκβαίνει"
+            },
+            {
+              "form": "ἔρχεται",
+              "lemma": "ἔρχομαι",
+              "location": "424d",
+              "context": "ἔρχεται ἐπὶ τοὺς νόμους"
+            },
+            {
+              "form": "ἀνατρέψῃ",
+              "lemma": "ἀνατρέπω",
+              "location": "424e",
+              "context": "πάντα ἰδίᾳ καὶ δημοσίᾳ ἀνατρέψῃ"
+            }
+          ],
+          "observation": "παρανομία's progress is described through a dense chain of directional verbs: slipping in (παραδυομένη), settling in (εἰσοικισαμένη), flowing beneath (ὑπορρεῖ), stepping out larger (ἐκβαίνει), going toward laws (ἔρχεται), and overturning everything (ἀνατρέψῃ)."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s002",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "παρανομία",
+              "lemma": "παρανομία",
+              "location": "424d",
+              "context": null
+            },
+            {
+              "form": "παρανόμου",
+              "lemma": "παράνομος",
+              "location": "424e",
+              "context": "παρανόμου γιγνομένης αὐτῆς"
+            },
+            {
+              "form": "ἐννομωτέρου",
+              "lemma": "ἔννομος",
+              "location": "424e",
+              "context": "ἐννομωτέρου εὐθὺς παιδιᾶς"
+            },
+            {
+              "form": "ἐννόμους",
+              "lemma": "ἔννομος",
+              "location": "424e",
+              "context": "ἐννόμους τε καὶ σπουδαίους"
+            },
+            {
+              "form": "εὐνομίαν",
+              "lemma": "εὐνομία",
+              "location": "425a",
+              "context": "εὐνομίαν διὰ τῆς μουσικῆς εἰσδέξωνται"
+            }
+          ],
+          "observation": "The νόμος root recurs across παρανομία, παράνομος, ἔννομος (twice), and εὐνομία, shifting from lawlessness to lawfulness within the discussion of play and music."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s003",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "παιδιᾶς",
+              "lemma": "παιδιά",
+              "location": "424d",
+              "context": "ἐν παιδιᾶς γε μέρει"
+            },
+            {
+              "form": "παιδιᾶς",
+              "lemma": "παιδιά",
+              "location": "424e",
+              "context": "ἐννομωτέρου εὐθὺς παιδιᾶς μεθεκτέον"
+            },
+            {
+              "form": "παῖδες",
+              "lemma": "παῖς",
+              "location": "425a",
+              "context": "παῖδες παίζειν"
+            },
+            {
+              "form": "παίζειν",
+              "lemma": "παίζω",
+              "location": "425a",
+              "context": "παῖδες παίζειν"
+            },
+            {
+              "form": "παίδων",
+              "lemma": "παῖς",
+              "location": "424e",
+              "context": "παίδων τοιούτων"
+            }
+          ],
+          "observation": "παιδιά (play) and παῖς/παίζειν (child/to play) cluster together; play is first dismissed as harmless, then required to be lawful, then children are shown playing their way into εὐνομία."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s004",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "φυλακτήριον",
+              "lemma": "φυλακτήριον",
+              "location": "424d",
+              "context": null
+            },
+            {
+              "form": "φύλαξιν",
+              "lemma": "φύλαξ",
+              "location": "424d",
+              "context": "οἰκοδομητέον τοῖς φύλαξιν"
+            },
+            {
+              "form": "οἰκοδομητέον",
+              "lemma": "οἰκοδομέω",
+              "location": "424d",
+              "context": null
+            }
+          ],
+          "observation": "The guardpost (φυλακτήριον) must be built (οἰκοδομητέον) for the guardians (φύλαξιν) — a building metaphor placed in music."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s005",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "συμβολαίων",
+              "lemma": "συμβόλαιον",
+              "location": "424d",
+              "context": "πρὸς ἀλλήλους συμβόλαια"
+            },
+            {
+              "form": "συμβολαίων",
+              "lemma": "συμβόλαιον",
+              "location": "425c",
+              "context": "συμβολαίων τε πέρι κατʼ ἀγορὰν"
+            },
+            {
+              "form": "συμβολαίων",
+              "lemma": "συμβόλαιον",
+              "location": "425d",
+              "context": "χειροτεχνικῶν περὶ συμβολαίων"
+            },
+            {
+              "form": "συμβάλλουσιν",
+              "lemma": "συμβάλλω",
+              "location": "425c",
+              "context": "ἃ πρὸς ἀλλήλους συμβάλλουσιν"
+            },
+            {
+              "form": "συμβολαίοις",
+              "lemma": "συμβόλαιον",
+              "location": "426e",
+              "context": "ἐν τοῖς συμβολαίοις κακουργήματα"
+            }
+          ],
+          "observation": "συμβόλαιον recurs four times across the section: first as the stage lawlessness reaches, then as the marketplace contracts Socrates refuses to legislate, then as the site of fraud the Hydra-cutters try to fix."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s006",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κάμνοντας",
+              "lemma": "κάμνω",
+              "location": "425e",
+              "context": "τοὺς κάμνοντάς τε καὶ οὐκ ἐθέλοντας"
+            },
+            {
+              "form": "ἰατρευόμενοι",
+              "lemma": "ἰατρεύω",
+              "location": "426a",
+              "context": "ἰατρευόμενοι γὰρ οὐδὲν περαίνουσιν"
+            },
+            {
+              "form": "νοσήματα",
+              "lemma": "νόσημα",
+              "location": "426a",
+              "context": "ποικιλώτερα καὶ μείζω ποιοῦσι τὰ νοσήματα"
+            },
+            {
+              "form": "φάρμακον",
+              "lemma": "φάρμακον",
+              "location": "426a",
+              "context": "ἐάν τις φάρμακον συμβουλεύσῃ"
+            },
+            {
+              "form": "φάρμακα",
+              "lemma": "φάρμακον",
+              "location": "426b",
+              "context": "οὔτε φάρμακα οὔτε καύσεις οὔτε τομαί"
+            },
+            {
+              "form": "καύσεις",
+              "lemma": "καῦσις",
+              "location": "426b",
+              "context": null
+            },
+            {
+              "form": "τομαί",
+              "lemma": "τομή",
+              "location": "426b",
+              "context": null
+            },
+            {
+              "form": "ἐπῳδαί",
+              "lemma": "ἐπῳδή",
+              "location": "426b",
+              "context": null
+            },
+            {
+              "form": "περίαπτα",
+              "lemma": "περίαπτον",
+              "location": "426b",
+              "context": null
+            }
+          ],
+          "observation": "A medical cluster: the sick who won't change their regimen are treated with an escalating list — φάρμακα, καύσεις, τομαί, ἐπῳδαί, περίαπτα — none of which help. The city is then compared to them."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s007",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "θεραπείας",
+              "lemma": "θεραπεία",
+              "location": "425b",
+              "context": "γονέων θεραπείας"
+            },
+            {
+              "form": "θεραπεύῃ",
+              "lemma": "θεραπεύω",
+              "location": "426c",
+              "context": "ἥδιστα θεραπεύῃ καὶ χαρίζηται"
+            },
+            {
+              "form": "θεραπεύειν",
+              "lemma": "θεραπεύω",
+              "location": "426d",
+              "context": "ἐθέλοντας θεραπεύειν τὰς τοιαύτας πόλεις"
+            },
+            {
+              "form": "θεραπεῖαι",
+              "lemma": "θεραπεία",
+              "location": "427b",
+              "context": "θεῶν τε καὶ δαιμόνων καὶ ἡρώων θεραπεῖαι"
+            }
+          ],
+          "observation": "θεραπεία/θεραπεύω appears in four distinct contexts: care of parents, flattering a badly governed city, willingness to serve such cities, and service to gods, daimons, and heroes."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s008",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐπανορθοῦσα",
+              "lemma": "ἐπανορθόω",
+              "location": "425a",
+              "context": "ἐπανορθοῦσα εἴ τι καὶ πρότερον τῆς πόλεως ἔκειτο"
+            },
+            {
+              "form": "ἐπανορθούμενοι",
+              "lemma": "ἐπανορθόω",
+              "location": "425e",
+              "context": "πολλὰ τοιαῦτα τιθέμενοι ἀεὶ καὶ ἐπανορθούμενοι"
+            },
+            {
+              "form": "ἐπανορθοῦντες",
+              "lemma": "ἐπανορθόω",
+              "location": "426e",
+              "context": "νομοθετοῦντές τε οἷα ἄρτι διήλθομεν καὶ ἐπανορθοῦντες"
+            }
+          ],
+          "observation": "ἐπανορθόω appears three times: first as genuine correction from εὐνομία, then twice for the futile correcting done by those who endlessly legislate."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s009",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "χαριέντως",
+              "lemma": "χαρίεις",
+              "location": "426a",
+              "context": "οὗτοί γε χαριέντως διατελοῦσιν"
+            },
+            {
+              "form": "χαρίεν",
+              "lemma": "χαρίεις",
+              "location": "426a",
+              "context": "τόδε αὐτῶν οὐ χαρίεν"
+            },
+            {
+              "form": "χάριν",
+              "lemma": "χάρις",
+              "location": "426b",
+              "context": "οὐκ ἔχει χάριν"
+            },
+            {
+              "form": "χαρίζηται",
+              "lemma": "χαρίζομαι",
+              "location": "426c",
+              "context": "ἥδιστα θεραπεύῃ καὶ χαρίζηται"
+            },
+            {
+              "form": "χαριέστατοι",
+              "lemma": "χαρίεις",
+              "location": "426e",
+              "context": "πάντων χαριέστατοι οἱ τοιοῦτοι"
+            }
+          ],
+          "observation": "χαρίεις/χάρις/χαρίζομαι cluster densely: χαριέντως is used ironically of the sick, χαρίεν denied of their anger at truth-tellers, χάριν absent from anger at good advice, χαρίζηται describes flattering bad cities, and χαριέστατοι is ironic of endless legislators."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s010",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "Ὕδραν",
+              "lemma": "Ὕδρα",
+              "location": "426e",
+              "context": "ὥσπερ Ὕδραν τέμνουσιν"
+            }
+          ],
+          "observation": "The Hydra appears as a simile for the futility of cutting at problems through piecemeal legislation — a striking singleton."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s011",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "μεθύων",
+              "lemma": "μεθύω",
+              "location": "426a",
+              "context": null
+            },
+            {
+              "form": "ἐμπιμπλάμενος",
+              "lemma": "ἐμπίμπλημι",
+              "location": "426a",
+              "context": null
+            },
+            {
+              "form": "ἀφροδισιάζων",
+              "lemma": "ἀφροδισιάζω",
+              "location": "426a",
+              "context": null
+            },
+            {
+              "form": "ἀργῶν",
+              "lemma": "ἀργέω",
+              "location": "426a",
+              "context": null
+            }
+          ],
+          "observation": "A four-part list of what the sick person must cease: drinking, gorging, sexual indulgence, idleness — presented as the true prerequisite before any remedy can help."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s012",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἐν μουσικῇ",
+              "lemma": "μουσική",
+              "location": "424d",
+              "context": "ἐν μουσικῇ"
+            },
+            {
+              "form": "διὰ τῆς μουσικῆς",
+              "lemma": "μουσική",
+              "location": "425a",
+              "context": "εὐνομίαν διὰ τῆς μουσικῆς εἰσδέξωνται"
+            }
+          ],
+          "observation": "μουσική is first the location where the guardpost is built and then the channel through which εὐνομία is received."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s013",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern",
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "Ἀπόλλωνι τῷ ἐν Δελφοῖς",
+              "lemma": null,
+              "location": "427b",
+              "context": "τῷ μέντοι Ἀπόλλωνι τῷ ἐν Δελφοῖς"
+            },
+            {
+              "form": "πάτριος ἐξηγητής",
+              "lemma": null,
+              "location": "427c",
+              "context": "πάτριος ἐξηγητὴς ἐν μέσῳ τῆς γῆς ἐπὶ τοῦ ὀμφαλοῦ καθήμενος"
+            },
+            {
+              "form": "ὀμφαλοῦ",
+              "lemma": "ὀμφαλός",
+              "location": "427c",
+              "context": null
+            }
+          ],
+          "observation": "Apollo at Delphi is called the ancestral interpreter (πάτριος ἐξηγητής), described as seated at the navel of the earth (ἐν μέσῳ τῆς γῆς ἐπὶ τοῦ ὀμφαλοῦ), and assigned the greatest, finest, and first legislation."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s014",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "σιγάς",
+              "lemma": "σιγή",
+              "location": "425b",
+              "context": "σιγάς τε τῶν νεωτέρων παρὰ πρεσβυτέροις"
+            },
+            {
+              "form": "κατακλίσεις",
+              "lemma": "κατάκλισις",
+              "location": "425b",
+              "context": null
+            },
+            {
+              "form": "ὑπαναστάσεις",
+              "lemma": "ὑπανάστασις",
+              "location": "425b",
+              "context": null
+            },
+            {
+              "form": "κουράς",
+              "lemma": "κουρά",
+              "location": "425b",
+              "context": null
+            },
+            {
+              "form": "ἀμπεχόνας",
+              "lemma": "ἀμπεχόνη",
+              "location": "425b",
+              "context": null
+            },
+            {
+              "form": "ὑποδέσεις",
+              "lemma": "ὑπόδεσις",
+              "location": "425b",
+              "context": null
+            },
+            {
+              "form": "σχηματισμόν",
+              "lemma": "σχηματισμός",
+              "location": "425b",
+              "context": "ὅλον τὸν τοῦ σώματος σχηματισμόν"
+            }
+          ],
+          "observation": "A list of small social customs — silences, reclining, rising, care of parents, haircuts, cloaks, shoes, bodily bearing — presented as things discovered naturally by the well-educated rather than legislated."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s015",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "νομοθετεῖν",
+              "lemma": "νομοθετέω",
+              "location": "425b",
+              "context": "νομοθετεῖν δʼ αὐτὰ οἶμαι εὔηθες"
+            },
+            {
+              "form": "νομοθετεῖν",
+              "lemma": "νομοθετέω",
+              "location": "425c",
+              "context": "οὐκ ἂν ἔτι τὰ τοιαῦτα ἐπιχειρήσαιμι νομοθετεῖν"
+            },
+            {
+              "form": "νομοθετοῦντες",
+              "lemma": "νομοθετέω",
+              "location": "426e",
+              "context": null
+            },
+            {
+              "form": "νομοθέτην",
+              "lemma": "νομοθέτης",
+              "location": "427a",
+              "context": "τὸν ἀληθινὸν νομοθέτην"
+            },
+            {
+              "form": "νομοθεσίας",
+              "lemma": "νομοθεσία",
+              "location": "427b",
+              "context": "τί ἂν ἡμῖν λοιπὸν τῆς νομοθεσίας"
+            },
+            {
+              "form": "νομοθετημάτων",
+              "lemma": "νομοθέτημα",
+              "location": "427b",
+              "context": "πρῶτα τῶν νομοθετημάτων"
+            }
+          ],
+          "observation": "νομοθετέω and its cognates recur throughout: legislating small things is called foolish, Socrates refuses to attempt it, endless legislators are mocked, the true lawgiver abstains, and the remaining νομοθεσία is deferred to Apollo."
+        },
+        {
+          "id": "republic-chapter-04-section-03:s016",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τὸ ὅμοιον ὂν ὅμοιον παρακαλεῖ",
+              "lemma": null,
+              "location": "425c",
+              "context": null
+            },
+            {
+              "form": "ἢ ἀγαθὸν ἢ καὶ τοὐναντίον",
+              "lemma": null,
+              "location": "425c",
+              "context": "εἰς ἕν τι τέλεον καὶ νεανικὸν ἀποβαίνειν αὐτὸ ἢ ἀγαθὸν ἢ καὶ τοὐναντίον"
+            }
+          ],
+          "observation": "Like calls to like (τὸ ὅμοιον ὅμοιον παρακαλεῖ), and the process ends in something complete and vigorous (τέλεον καὶ νεανικόν) — either good or its opposite."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-04",
+      "title": "The City Declared Founded; The Search for Wisdom",
+      "locatorStart": "427c",
+      "locatorEnd": "429a",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-04:s001",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ὠικισμένη",
+              "lemma": "οἰκίζω",
+              "location": "427c",
+              "context": "ὠικισμένη μὲν τοίνυν … ἡ πόλις"
+            },
+            {
+              "form": "οἰκισθείσῃ",
+              "lemma": "οἰκίζω",
+              "location": "428c",
+              "context": "τῇ ἄρτι ὑφʼ ἡμῶν οἰκισθείσῃ"
+            },
+            {
+              "form": "ᾤκισται",
+              "lemma": "οἰκίζω",
+              "location": "427e",
+              "context": "εἴπερ ὀρθῶς γε ᾤκισται"
+            },
+            {
+              "form": "οἰκισθεῖσα",
+              "lemma": "οἰκίζω",
+              "location": "428e",
+              "context": "κατὰ φύσιν οἰκισθεῖσα πόλις"
+            }
+          ],
+          "observation": "Four forms of οἰκίζω appear across the section, marking the city as already founded at the opening and returning at each stage of the search."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s002",
+          "scan_targets": [],
+          "features": [
+            "directional_spatial_cluster",
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "φῶς ποθὲν πορισάμενος ἱκανόν",
+              "lemma": null,
+              "location": "427d",
+              "context": null
+            }
+          ],
+          "observation": "The search for justice in the city is introduced with an instruction to procure sufficient light (φῶς) from somewhere."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s003",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἴδωμεν",
+              "lemma": "ὁράω",
+              "location": "427d",
+              "context": "ἐάν πως ἴδωμεν ποῦ ποτʼ ἂν εἴη ἡ δικαιοσύνη"
+            },
+            {
+              "form": "κατάδηλον",
+              "lemma": "κατάδηλος",
+              "location": "428a",
+              "context": "πρῶτόν γέ μοι δοκεῖ ἐν αὐτῷ κατάδηλον εἶναι ἡ σοφία"
+            },
+            {
+              "form": "φαίνεται",
+              "lemma": "φαίνω",
+              "location": "428b",
+              "context": "τι ἄτοπον περὶ αὐτὴν φαίνεται"
+            }
+          ],
+          "observation": "Visibility language clusters around the search: seeing (ἴδωμεν), being plainly visible (κατάδηλον), and appearing (φαίνεται)."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s004",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "εὕρωμεν",
+              "lemma": "εὑρίσκω",
+              "location": "427e",
+              "context": "ὅτι ἂν αὐτῶν εὕρωμεν ἐν αὐτῇ"
+            },
+            {
+              "form": "εὑρήσειν",
+              "lemma": "εὑρίσκω",
+              "location": "427e",
+              "context": "ἐλπίζω τοίνυν … εὑρήσειν αὐτὸ ὧδε"
+            },
+            {
+              "form": "ηὑρήκαμεν",
+              "lemma": "εὑρίσκω",
+              "location": "429a",
+              "context": "ἓν τῶν τεττάρων … ηὑρήκαμεν"
+            },
+            {
+              "form": "ηὑρῆσθαι",
+              "lemma": "εὑρίσκω",
+              "location": "429a",
+              "context": "ἀποχρώντως ηὑρῆσθαι"
+            }
+          ],
+          "observation": "Forms of εὑρίσκω frame the section: anticipated finding at the start, claimed finding at the close."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s005",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιστήμη",
+              "lemma": "ἐπιστήμη",
+              "location": "428b",
+              "context": "ἡ εὐβουλία, δῆλον ὅτι ἐπιστήμη τίς ἐστιν"
+            },
+            {
+              "form": "ἐπιστήμην",
+              "lemma": "ἐπιστήμη",
+              "location": "428b",
+              "context": "διὰ τὴν τῶν τεκτόνων ἐπιστήμην"
+            },
+            {
+              "form": "ἐπιστήμη",
+              "lemma": "ἐπιστήμη",
+              "location": "428c",
+              "context": "ἔστι τις ἐπιστήμη ἐν τῇ ἄρτι ὑφʼ ἡμῶν οἰκισθείσῃ"
+            },
+            {
+              "form": "ἐπιστήμης",
+              "lemma": "ἐπιστήμη",
+              "location": "429a",
+              "context": "ταύτης τῆς ἐπιστήμης μεταλαγχάνειν"
+            },
+            {
+              "form": "ἐπιστημῶν",
+              "lemma": "ἐπιστήμη",
+              "location": "429a",
+              "context": "τῶν ἄλλων ἐπιστημῶν σοφίαν καλεῖσθαι"
+            }
+          ],
+          "observation": "ἐπιστήμη recurs densely as various craft-knowledges are tested and rejected before the guardians' knowledge is identified."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s006",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τεκτόνων",
+              "lemma": "τέκτων",
+              "location": "428b",
+              "context": null
+            },
+            {
+              "form": "ξυλίνων σκευῶν",
+              "lemma": null,
+              "location": "428c",
+              "context": null
+            },
+            {
+              "form": "χαλκοῦ",
+              "lemma": "χαλκός",
+              "location": "428c",
+              "context": null
+            },
+            {
+              "form": "καρποῦ τῆς γενέσεως ἐκ τῆς γῆς",
+              "lemma": null,
+              "location": "428c",
+              "context": null
+            },
+            {
+              "form": "φυλακική",
+              "lemma": "φυλακικός",
+              "location": "428d",
+              "context": null
+            }
+          ],
+          "observation": "A sequence of craft-knowledges (carpentry, bronze-work, farming) is rejected before φυλακική is accepted; each is named by its material or product."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s007",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ὑπέσχου ζητήσειν",
+              "lemma": null,
+              "location": "427d",
+              "context": null
+            },
+            {
+              "form": "βοηθεῖν δικαιοσύνῃ",
+              "lemma": "βοηθέω",
+              "location": "427e",
+              "context": "μὴ οὐ βοηθεῖν δικαιοσύνῃ εἰς δύναμιν παντὶ τρόπῳ"
+            }
+          ],
+          "observation": "Glaucon reminds Socrates of his promise (ὑπέσχου) to search, characterizing failure to help justice as impious (οὐχ ὅσιον)."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s008",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "συλλαμβάνειν",
+              "lemma": "συλλαμβάνω",
+              "location": "427e",
+              "context": "χρὴ δὲ καὶ ὑμᾶς συλλαμβάνειν"
+            },
+            {
+              "form": "ποιήσομεν",
+              "lemma": "ποιέω",
+              "location": "427e",
+              "context": "ἀλλʼ … ποιήσομεν οὕτω"
+            }
+          ],
+          "observation": "Socrates requests joint participation (συλλαμβάνειν) and Glaucon immediately accepts with a future commitment (ποιήσομεν)."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s009",
+          "scan_targets": [],
+          "features": [
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὸ ὑπόλοιπον ἔσται τὸ οὐχ ηὑρημένον",
+              "lemma": null,
+              "location": "427e",
+              "context": null
+            },
+            {
+              "form": "τὰ τρία πρότερον ἐγνωρίσαμεν",
+              "lemma": null,
+              "location": "428a",
+              "context": null
+            },
+            {
+              "form": "τὸ ὑπολειφθέν",
+              "lemma": null,
+              "location": "428a",
+              "context": null
+            }
+          ],
+          "observation": "A method of residues is stated: finding three of four items identifies the fourth as the remainder (τὸ ὑπολειφθέν)."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s010",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "σμικροτάτῳ … ἔθνει καὶ μέρει",
+              "lemma": null,
+              "location": "428e",
+              "context": null
+            },
+            {
+              "form": "ὅλη σοφὴ ἂν εἴη … πόλις",
+              "lemma": null,
+              "location": "428e",
+              "context": null
+            }
+          ],
+          "observation": "The city is called wise as a whole (ὅλη) through its smallest group and part (σμικροτάτῳ ἔθνει καὶ μέρει)."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s011",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ὀλίγιστοι",
+              "lemma": "ὀλίγος",
+              "location": "428e",
+              "context": "πάντων τούτων οὗτοι ἂν εἶεν ὀλίγιστοι"
+            },
+            {
+              "form": "ὀλίγιστον",
+              "lemma": "ὀλίγος",
+              "location": "429a",
+              "context": "φύσει ὀλίγιστον γίγνεται γένος"
+            }
+          ],
+          "observation": "The superlative ὀλίγιστος appears twice in close succession, emphasizing the fewness of the guardians."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s012",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἵδρυται",
+              "lemma": "ἱδρύω",
+              "location": "429a",
+              "context": "ὅπου τῆς πόλεως ἵδρυται"
+            }
+          ],
+          "observation": "The first found virtue is described as seated or established (ἵδρυται) somewhere in the city, giving it a spatial location within the πόλις."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s013",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "εὔβουλος",
+              "lemma": "εὔβουλος",
+              "location": "428b",
+              "context": "εὔβουλος γάρ, οὐχί"
+            },
+            {
+              "form": "εὐβουλία",
+              "lemma": "εὐβουλία",
+              "location": "428b",
+              "context": "ἡ εὐβουλία, δῆλον ὅτι ἐπιστήμη τίς ἐστιν"
+            },
+            {
+              "form": "εὔβουλον",
+              "lemma": "εὔβουλος",
+              "location": "428d",
+              "context": "εὔβουλον … καὶ τῷ ὄντι σοφήν"
+            }
+          ],
+          "observation": "εὔβουλος/εὐβουλία mediates between σοφία and ἐπιστήμη: the city is wise because well-counselled, and good counsel is a knowledge."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s014",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐάντε λανθάνῃ ἐάντε μή",
+              "lemma": "λανθάνω",
+              "location": "427d",
+              "context": "ἐάντε λανθάνῃ ἐάντε μὴ πάντας θεούς τε καὶ ἀνθρώπους"
+            }
+          ],
+          "observation": "Whether justice is hidden or not from all gods and humans (λανθάνῃ) is posed as irrelevant to the question of possessing it for happiness."
+        },
+        {
+          "id": "republic-chapter-04-section-04:s015",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἄτοπον",
+              "lemma": "ἄτοπος",
+              "location": "428b",
+              "context": "τι ἄτοπον περὶ αὐτὴν φαίνεται"
+            }
+          ],
+          "observation": "Wisdom is said to involve something strange (ἄτοπον), flagged before the explanation that the city's wisdom belongs to its fewest members."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-05",
+      "title": "Courage Found in the Auxiliaries",
+      "locatorStart": "429a",
+      "locatorEnd": "430c",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-05:s001",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "σώσει",
+              "lemma": "σῴζω",
+              "location": "429b",
+              "context": "διὰ παντὸς σώσει τὴν περὶ τῶν δεινῶν δόξαν"
+            },
+            {
+              "form": "σωτηρίαν",
+              "lemma": "σωτηρία",
+              "location": "429c",
+              "context": "σωτηρίαν ἔγωγʼ λέγω τινὰ εἶναι τὴν ἀνδρείαν"
+            },
+            {
+              "form": "σωτηρίαν",
+              "lemma": "σωτηρία",
+              "location": "429c",
+              "context": "ποίαν δὴ σωτηρίαν"
+            },
+            {
+              "form": "σωτηρίαν",
+              "lemma": "σωτηρία",
+              "location": "429c",
+              "context": "διὰ παντὸς δὲ ἔλεγον αὐτῆς σωτηρίαν"
+            },
+            {
+              "form": "διασῴζεσθαι",
+              "lemma": "διασῴζω",
+              "location": "429c",
+              "context": "τὸ ἔν τε λύπαις ὄντα διασῴζεσθαι αὐτήν"
+            },
+            {
+              "form": "σωτηρίαν",
+              "lemma": "σωτηρία",
+              "location": "430b",
+              "context": "σωτηρίαν διὰ παντὸς δόξης ὀρθῆς"
+            }
+          ],
+          "observation": "The σῴζω/σωτηρία family recurs densely: courage is defined as σωτηρία, the capacity σώσει the δόξα, one must διασῴζεσθαι it through adversity, and the final definition restates σωτηρίαν."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s002",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "βαφῆς",
+              "lemma": "βαφή",
+              "location": "429d",
+              "context": null
+            },
+            {
+              "form": "βάψαι",
+              "lemma": "βάπτω",
+              "location": "429d",
+              "context": "βουληθῶσι βάψαι ἔρια"
+            },
+            {
+              "form": "βάπτουσι",
+              "lemma": "βάπτω",
+              "location": "429d",
+              "context": null
+            },
+            {
+              "form": "βαφῇ",
+              "lemma": "βάπτω",
+              "location": "429e",
+              "context": "τούτῳ τῷ τρόπῳ βαφῇ"
+            },
+            {
+              "form": "βαφέν",
+              "lemma": "βάπτω",
+              "location": "429e",
+              "context": "δευσοποιὸν γίγνεται τὸ βαφέν"
+            },
+            {
+              "form": "βάπτῃ",
+              "lemma": "βάπτω",
+              "location": "429e",
+              "context": "ἄλλα χρώματα βάπτῃ"
+            },
+            {
+              "form": "βαφήν",
+              "lemma": "βαφή",
+              "location": "430a",
+              "context": "πεισθέντες δέξοιντο ὥσπερ βαφήν"
+            },
+            {
+              "form": "βαφὴν",
+              "lemma": "βαφή",
+              "location": "430a",
+              "context": "μὴ αὐτῶν ἐκπλύναι τὴν βαφήν"
+            }
+          ],
+          "observation": "βάπτω/βαφή forms saturate the dyeing analogy and then transfer to the education of soldiers, where laws are received ὥσπερ βαφήν."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s003",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "δευσοποιὸν",
+              "lemma": "δευσοποιός",
+              "location": "429e",
+              "context": "δευσοποιὸν γίγνεται τὸ βαφέν"
+            },
+            {
+              "form": "δευσοποιὸς",
+              "lemma": "δευσοποιός",
+              "location": "430a",
+              "context": "ἵνα δευσοποιὸς αὐτῶν ἡ δόξα γίγνοιτο"
+            }
+          ],
+          "observation": "δευσοποιός appears first of the dyed wool, then of the soldiers' δόξα — the quality of being fast-dyed transfers from craft object to opinion."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s004",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ῥυμμάτων",
+              "lemma": "ῥύμμα",
+              "location": "429e",
+              "context": "οὔτʼ ἄνευ ῥυμμάτων οὔτε μετὰ ῥυμμάτων"
+            },
+            {
+              "form": "ῥύμματα",
+              "lemma": "ῥύμμα",
+              "location": "430a",
+              "context": "μὴ αὐτῶν ἐκπλύναι τὴν βαφὴν τὰ ῥύμματα ταῦτα"
+            },
+            {
+              "form": "ῥύμματος",
+              "lemma": "ῥύμμα",
+              "location": "430b",
+              "context": "παντὸς ἄλλου ῥύμματος"
+            }
+          ],
+          "observation": "ῥύμμα recurs three times, shifting from literal detergents to the metaphorical solvents (pleasure, pain, fear, desire) that wash out the dye of correct opinion."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s005",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence",
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "λύπαις",
+              "lemma": "λύπη",
+              "location": "429c",
+              "context": "τὸ ἔν τε λύπαις ὄντα διασῴζεσθαι"
+            },
+            {
+              "form": "ἡδοναῖς",
+              "lemma": "ἡδονή",
+              "location": "429d",
+              "context": "ἐν ἡδοναῖς"
+            },
+            {
+              "form": "ἐπιθυμίαις",
+              "lemma": "ἐπιθυμία",
+              "location": "429d",
+              "context": "ἐν ἐπιθυμίαις"
+            },
+            {
+              "form": "φόβοις",
+              "lemma": "φόβος",
+              "location": "429d",
+              "context": "ἐν φόβοις"
+            },
+            {
+              "form": "ἡδονή",
+              "lemma": "ἡδονή",
+              "location": "430a",
+              "context": "ἥ τε ἡδονή"
+            },
+            {
+              "form": "λύπη",
+              "lemma": "λύπη",
+              "location": "430b",
+              "context": "λύπη τε καὶ φόβος καὶ ἐπιθυμία"
+            },
+            {
+              "form": "φόβος",
+              "lemma": "φόβος",
+              "location": "430b",
+              "context": null
+            },
+            {
+              "form": "ἐπιθυμία",
+              "lemma": "ἐπιθυμία",
+              "location": "430b",
+              "context": null
+            }
+          ],
+          "observation": "The fourfold list λύπη, ἡδονή, ἐπιθυμία, φόβος appears first as dative plurals (conditions to endure) and returns as nominative singulars (ῥύμματα that wash out the dye), with ἡδονή promoted to leading position and singled out as most dangerous."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s006",
+          "scan_targets": [],
+          "features": [
+            "lexical_family",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐκλέγονται",
+              "lemma": "ἐκλέγω",
+              "location": "429d",
+              "context": "ἐκλέγονται ἐκ τοσούτων χρωμάτων μίαν φύσιν τὴν τῶν λευκῶν"
+            },
+            {
+              "form": "ἐξελεγόμεθα",
+              "lemma": "ἐκλέγω",
+              "location": "429e",
+              "context": "ὅτε ἐξελεγόμεθα τοὺς στρατιώτας"
+            }
+          ],
+          "observation": "ἐκλέγω is used first of dyers selecting white wool, then of the city selecting soldiers — the same verb bridges the analogy."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s007",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "δόξαν",
+              "lemma": "δόξα",
+              "location": "429c",
+              "context": "σώσει τὴν περὶ τῶν δεινῶν δόξαν"
+            },
+            {
+              "form": "δόξης",
+              "lemma": "δόξα",
+              "location": "429c",
+              "context": "τὴν τῆς δόξης τῆς ὑπὸ νόμου"
+            },
+            {
+              "form": "δόξα",
+              "lemma": "δόξα",
+              "location": "430a",
+              "context": "δευσοποιὸς αὐτῶν ἡ δόξα γίγνοιτο"
+            },
+            {
+              "form": "δόξης",
+              "lemma": "δόξα",
+              "location": "430b",
+              "context": "σωτηρίαν διὰ παντὸς δόξης ὀρθῆς τε καὶ νομίμου"
+            },
+            {
+              "form": "δόξαν",
+              "lemma": "δόξα",
+              "location": "430b",
+              "context": "τὴν ὀρθὴν δόξαν περὶ τῶν αὐτῶν τούτων ἄνευ παιδείας"
+            }
+          ],
+          "observation": "δόξα recurs throughout as the object that courage preserves; in the final exchange it is qualified as ὀρθή but ἄνευ παιδείας, which is excluded from ἀνδρεία."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s008",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "δεινῶν",
+              "lemma": "δεινός",
+              "location": "429c",
+              "context": "τὴν περὶ τῶν δεινῶν δόξαν"
+            },
+            {
+              "form": "δεινῶν",
+              "lemma": "δεινός",
+              "location": "430a",
+              "context": "καὶ περὶ δεινῶν"
+            },
+            {
+              "form": "δεινὰ",
+              "lemma": "δεινός",
+              "location": "430a",
+              "context": "τὰ ῥύμματα ταῦτα, δεινὰ ὄντα ἐκκλύζειν"
+            },
+            {
+              "form": "δεινοτέρα",
+              "lemma": "δεινός",
+              "location": "430a",
+              "context": "παντὸς χαλεστραίου δεινοτέρα"
+            },
+            {
+              "form": "δεινῶν",
+              "lemma": "δεινός",
+              "location": "430b",
+              "context": "δεινῶν τε πέρι καὶ μή"
+            }
+          ],
+          "observation": "δεινός shifts between 'terrible things' (the object of correct opinion) and 'terrible/formidable' as a description of the ῥύμματα themselves, especially ἡδονή called δεινοτέρα."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s009",
+          "scan_targets": [],
+          "features": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "ἔκπλυτα",
+              "lemma": "ἔκπλυτος",
+              "location": "429e",
+              "context": "ἔκπλυτα καὶ γελοῖα"
+            },
+            {
+              "form": "ἐκπλύναι",
+              "lemma": "ἐκπλύνω",
+              "location": "430a",
+              "context": "μὴ αὐτῶν ἐκπλύναι τὴν βαφήν"
+            },
+            {
+              "form": "ἐκκλύζειν",
+              "lemma": "ἐκκλύζω",
+              "location": "430a",
+              "context": "δεινὰ ὄντα ἐκκλύζειν"
+            }
+          ],
+          "observation": "Three washing-out compounds cluster: ἔκπλυτα describes poorly dyed wool, ἐκπλύναι the risk to soldiers' dye, and ἐκκλύζειν the action of the ῥύμματα."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s010",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "θηριώδη",
+              "lemma": "θηριώδης",
+              "location": "430b",
+              "context": "τήν τε θηριώδη καὶ ἀνδραποδώδη"
+            },
+            {
+              "form": "νόμιμον",
+              "lemma": "νόμιμος",
+              "location": "430b",
+              "context": "οὔτε πάνυ νόμιμον ἡγεῖσθαι"
+            }
+          ],
+          "observation": "Correct opinion without παιδεία is called θηριώδη καὶ ἀνδραποδώδη and excluded as οὔτε νόμιμον — contrasted with the νόμιμος δόξα that constitutes genuine ἀνδρεία."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s011",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "προπαρασκευάζουσιν",
+              "lemma": "προπαρασκευάζω",
+              "location": "429d",
+              "context": null
+            },
+            {
+              "form": "παρασκευῇ",
+              "lemma": "παρασκευή",
+              "location": "429d",
+              "context": "οὐκ ὀλίγῃ παρασκευῇ θεραπεύσαντες"
+            },
+            {
+              "form": "προθεραπεύσας",
+              "lemma": "προθεραπεύω",
+              "location": "429e",
+              "context": "μὴ προθεραπεύσας"
+            }
+          ],
+          "observation": "The dyeing analogy emphasizes prior preparation with compound forms: προπαρασκευάζουσιν, παρασκευῇ, and the negative condition μὴ προθεραπεύσας."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s012",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "πολιτικήν",
+              "lemma": "πολιτικός",
+              "location": "430c",
+              "context": "ἀποδέχου πολιτικήν γε"
+            },
+            {
+              "form": "ἀνδρείαν",
+              "lemma": "ἀνδρεία",
+              "location": "430c",
+              "context": null
+            }
+          ],
+          "observation": "Socrates qualifies the accepted ἀνδρεία as πολιτικήν and defers a fuller (κάλλιον) treatment, marking the present finding as provisional."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s013",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "δικαιοσύνην",
+              "lemma": "δικαιοσύνη",
+              "location": "430c",
+              "context": "νῦν γὰρ οὐ τοῦτο ἐζητοῦμεν, ἀλλὰ δικαιοσύνην"
+            }
+          ],
+          "observation": "The section closes by naming δικαιοσύνη as the actual object of the search, subordinating the just-completed account of ἀνδρεία to it."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s014",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "μέρος",
+              "lemma": "μέρος",
+              "location": "429b",
+              "context": "εἰς τοῦτο τὸ μέρος ὃ προπολεμεῖ τε καὶ στρατεύεται"
+            },
+            {
+              "form": "μέρει",
+              "lemma": "μέρος",
+              "location": "429b",
+              "context": "ἀνδρεία ἄρα πόλις μέρει τινὶ ἑαυτῆς ἐστι"
+            }
+          ],
+          "observation": "μέρος appears twice to locate courage in a specific part of the city — the part that fights on its behalf."
+        },
+        {
+          "id": "republic-chapter-04-section-05:s015",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "γελοῖα",
+              "lemma": "γελοῖος",
+              "location": "429e",
+              "context": "ἔκπλυτα καὶ γελοῖα"
+            }
+          ],
+          "observation": "Poorly dyed wool is called γελοῖα — laughable/ridiculous — applied to the result of dyeing without proper preparation."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-06",
+      "title": "Temperance as Harmony Throughout the City",
+      "locatorStart": "430c",
+      "locatorEnd": "432b",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-06:s001",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "κατιδεῖν",
+              "lemma": "κατοράω",
+              "location": "430c",
+              "context": "δύο μήν … ἃ δεῖ κατιδεῖν ἐν τῇ πόλει"
+            },
+            {
+              "form": "ἀπόβλεπε",
+              "lemma": "ἀποβλέπω",
+              "location": "431b",
+              "context": "ἀπόβλεπε τοίνυν πρὸς τὴν νέαν ἡμῖν πόλιν"
+            },
+            {
+              "form": "ὁρᾷς",
+              "lemma": "ὁράω",
+              "location": "431c",
+              "context": "οὐκοῦν καὶ ταῦτα ὁρᾷς ἐνόντα σοι ἐν τῇ πόλει"
+            },
+            {
+              "form": "ὁρᾷς",
+              "lemma": "ὁράω",
+              "location": "431e",
+              "context": "ὁρᾷς οὖν … ὅτι ἐπιεικῶς ἐμαντευόμεθα"
+            },
+            {
+              "form": "κατῶπται",
+              "lemma": "κατοράω",
+              "location": "432b",
+              "context": "τὰ μὲν τρία ἡμῖν ἐν τῇ πόλει κατῶπται"
+            }
+          ],
+          "observation": "Repeated verbs of seeing/looking (κατιδεῖν, ἀπόβλεπε, ὁρᾷς twice, κατῶπται) structure the investigation; κατιδεῖν at the start and κατῶπται at the close share the same lemma with changed prefix-aspect."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s002",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "συμφωνίᾳ",
+              "lemma": "συμφωνία",
+              "location": "430e",
+              "context": "συμφωνίᾳ τινὶ καὶ ἁρμονίᾳ προσέοικεν"
+            },
+            {
+              "form": "ἁρμονίᾳ",
+              "lemma": "ἁρμονία",
+              "location": "430e",
+              "context": null
+            },
+            {
+              "form": "ἁρμονίᾳ",
+              "lemma": "ἁρμονία",
+              "location": "431e",
+              "context": "ἁρμονίᾳ τινὶ ἡ σωφροσύνη ὡμοίωται"
+            },
+            {
+              "form": "συνᾴδοντας",
+              "lemma": "συνᾴδω",
+              "location": "432a",
+              "context": "διὰ πασῶν παρεχομένη συνᾴδοντας"
+            },
+            {
+              "form": "συμφωνίαν",
+              "lemma": "συμφωνία",
+              "location": "432a",
+              "context": "χείρονός τε καὶ ἀμείνονος κατὰ φύσιν συμφωνίαν"
+            },
+            {
+              "form": "ὁμόνοιαν",
+              "lemma": "ὁμόνοια",
+              "location": "432a",
+              "context": "ταύτην τὴν ὁμόνοιαν σωφροσύνην εἶναι"
+            }
+          ],
+          "observation": "A musical-harmonic cluster: συμφωνία and ἁρμονία introduced together early, then ἁρμονία returns, and the conclusion adds συνᾴδοντας, συμφωνίαν, and ὁμόνοιαν, accumulating concord-language around σωφροσύνη."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s003",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "κρείττω … αὑτοῦ",
+              "lemma": "κρείττων",
+              "location": "430e",
+              "context": "κρείττω δὴ αὑτοῦ ἀποφαίνοντες"
+            },
+            {
+              "form": "γελοῖον",
+              "lemma": "γελοῖος",
+              "location": "430e",
+              "context": "τὸ μὲν κρείττω αὑτοῦ γελοῖον"
+            },
+            {
+              "form": "κρείττω … αὑτῆς",
+              "lemma": "κρείττων",
+              "location": "431b",
+              "context": "κρείττω γὰρ αὐτὴν αὑτῆς δικαίως φήσεις"
+            },
+            {
+              "form": "κρείττω ἡδονῶν",
+              "lemma": "κρείττων",
+              "location": "431d",
+              "context": "κρείττω ἡδονῶν τε καὶ ἐπιθυμιῶν καὶ αὐτὴν αὑτῆς"
+            }
+          ],
+          "observation": "κρείττω αὑτοῦ is first introduced as common parlance, then called γελοῖον, then redeployed for the city as κρείττω αὑτῆς and finally κρείττω ἡδονῶν—the phrase is rescued after being declared absurd."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s004",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "βέλτιον",
+              "lemma": "βέλτιων",
+              "location": "431a",
+              "context": "τὸ μὲν βέλτιον ἔνι, τὸ δὲ χεῖρον"
+            },
+            {
+              "form": "χεῖρον",
+              "lemma": "χείρων",
+              "location": "431a",
+              "context": null
+            },
+            {
+              "form": "ἄμεινον",
+              "lemma": "ἀμείνων",
+              "location": "431b",
+              "context": "τὸ ἄμεινον τοῦ χείρονος ἄρχει"
+            },
+            {
+              "form": "χείρονος",
+              "lemma": "χείρων",
+              "location": "431b",
+              "context": null
+            },
+            {
+              "form": "χείρονός",
+              "lemma": "χείρων",
+              "location": "432a",
+              "context": "χείρονός τε καὶ ἀμείνονος κατὰ φύσιν συμφωνίαν"
+            }
+          ],
+          "observation": "Paired better/worse contrasts (βέλτιον/χεῖρον, then ἄμεινον/χείρονος) recur, shifting from soul to city; at 432a the pair χείρονος/ἀμείνονος appears inside the concluding συμφωνία formulation."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s005",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "430e",
+              "context": "ἡδονῶν τινων καὶ ἐπιθυμιῶν ἐγκράτεια"
+            },
+            {
+              "form": "ἐπιθυμίας",
+              "lemma": "ἐπιθυμία",
+              "location": "431b",
+              "context": "τάς γε πολλὰς καὶ παντοδαπὰς ἐπιθυμίας"
+            },
+            {
+              "form": "ἐπιθυμίας",
+              "lemma": "ἐπιθυμία",
+              "location": "431c",
+              "context": "κρατουμένας αὐτόθι τὰς ἐπιθυμίας τὰς ἐν τοῖς πολλοῖς"
+            },
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "431d",
+              "context": "κρείττω ἡδονῶν τε καὶ ἐπιθυμιῶν"
+            }
+          ],
+          "observation": "ἐπιθυμία recurs four times, consistently paired with ἡδονή or with mastery language (ἐγκράτεια, κρατουμένας, κρείττω)."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s006",
+          "scan_targets": [],
+          "features": [
+            "local_contrast",
+            "structural_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐν μέρει τινὶ ἑκατέρα ἐνοῦσα",
+              "lemma": null,
+              "location": "431e-432a",
+              "context": "ἡ ἀνδρεία καὶ ἡ σοφία ἐν μέρει τινὶ ἑκατέρα ἐνοῦσα"
+            },
+            {
+              "form": "διʼ ὅλης ἀτεχνῶς τέταται διὰ πασῶν",
+              "lemma": null,
+              "location": "432a",
+              "context": null
+            }
+          ],
+          "observation": "Σωφροσύνη is contrasted with ἀνδρεία and σοφία: each of the latter resides ἐν μέρει τινί, while σωφροσύνη is stretched διʼ ὅλης … διὰ πασῶν."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s007",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "morphological_variation"
+          ],
+          "elements": [
+            {
+              "form": "ἄρχει",
+              "lemma": "ἄρχω",
+              "location": "431b",
+              "context": "τὸ ἄμεινον τοῦ χείρονος ἄρχει"
+            },
+            {
+              "form": "ἄρχουσι",
+              "lemma": "ἄρχω",
+              "location": "431e",
+              "context": "τοῖς τε ἄρχουσι καὶ ἀρχομένοις"
+            },
+            {
+              "form": "ἀρχομένοις",
+              "lemma": "ἄρχω",
+              "location": "431e",
+              "context": null
+            },
+            {
+              "form": "ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "431e",
+              "context": "περὶ τοῦ οὕστινας δεῖ ἄρχειν"
+            },
+            {
+              "form": "ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "432a",
+              "context": "ὁπότερον δεῖ ἄρχειν"
+            }
+          ],
+          "observation": "Forms of ἄρχω accumulate: first the better part rules, then rulers and ruled share a δόξα about who should rule, and the section closes with ὁπότερον δεῖ ἄρχειν as the content of the concord."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s008",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐν ἀμφοτέροις",
+              "lemma": null,
+              "location": "431e",
+              "context": "ἐν ἀμφοτέροις που"
+            }
+          ],
+          "observation": "Glaucon locates σωφρονεῖν in both rulers and ruled (ἐν ἀμφοτέροις), answering Socrates' either/or question and providing the basis for the harmony claim that follows."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s009",
+          "scan_targets": [],
+          "features": [
+            "sequence_pattern"
+          ],
+          "elements": [
+            {
+              "form": "σωφροσύνη",
+              "lemma": "σωφροσύνη",
+              "location": "430d",
+              "context": "ἥ τε σωφροσύνη καὶ … δικαιοσύνη"
+            },
+            {
+              "form": "δικαιοσύνην",
+              "lemma": "δικαιοσύνη",
+              "location": "430d",
+              "context": "πῶς οὖν ἂν τὴν δικαιοσύνην εὕροιμεν"
+            },
+            {
+              "form": "δικαιοσύνη",
+              "lemma": "δικαιοσύνη",
+              "location": "432b",
+              "context": "δῆλον γὰρ ὅτι τοῦτʼ ἐστὶν ἡ δικαιοσύνη"
+            }
+          ],
+          "observation": "The section opens naming two remaining virtues—σωφροσύνη and δικαιοσύνη—and closes with δικαιοσύνη identified as the single λοιπὸν εἶδος still to be found."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s010",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἴχνη",
+              "lemma": "ἴχνος",
+              "location": "430e",
+              "context": "ἄλλα ἄττα τοιαῦτα ὥσπερ ἴχνη αὐτῆς λέγεται"
+            }
+          ],
+          "observation": "The common saying κρείττω αὑτοῦ is called an ἴχνος (trace/track) of σωφροσύνη—a concrete tracking image applied to a popular expression."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s011",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "τοῖς πολλοῖς τε καὶ φαύλοις",
+              "lemma": null,
+              "location": "431c",
+              "context": "ἐν τοῖς πολλοῖς τε καὶ φαύλοις"
+            },
+            {
+              "form": "ἐν ὀλίγοις",
+              "lemma": null,
+              "location": "431c",
+              "context": "ἐν ὀλίγοις τε ἐπιτεύξῃ καὶ τοῖς βέλτιστα μὲν φῦσιν"
+            },
+            {
+              "form": "τοὺς ἀσθενεστάτους … τοὺς ἰσχυροτάτους καὶ τοὺς μέσους",
+              "lemma": null,
+              "location": "432a",
+              "context": null
+            }
+          ],
+          "observation": "A many/few contrast (πολλοῖς καὶ φαύλοις vs. ὀλίγοις βέλτιστα φῦσιν) is later reconfigured into a tripartite scale: ἀσθενεστάτους, ἰσχυροτάτους, μέσους, all singing together."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s012",
+          "scan_targets": [],
+          "features": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "ἐμαντευόμεθα",
+              "lemma": "μαντεύομαι",
+              "location": "431e",
+              "context": "ἐπιεικῶς ἐμαντευόμεθα ἄρτι ὡς ἁρμονίᾳ τινὶ ἡ σωφροσύνη ὡμοίωται"
+            }
+          ],
+          "observation": "Socrates uses ἐμαντευόμεθα to mark that the earlier likening of σωφροσύνη to ἁρμονία (430e) has now been confirmed—a divination verb applied to his own earlier conjecture."
+        },
+        {
+          "id": "republic-chapter-04-section-06:s013",
+          "scan_targets": [],
+          "features": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "ἐγκράτεια",
+              "lemma": "ἐγκράτεια",
+              "location": "430e",
+              "context": "ἡδονῶν τινων καὶ ἐπιθυμιῶν ἐγκράτεια"
+            },
+            {
+              "form": "ἐγκρατὲς",
+              "lemma": "ἐγκρατής",
+              "location": "431a",
+              "context": "τὸ βέλτιον φύσει τοῦ χείρονος ἐγκρατὲς ᾖ"
+            },
+            {
+              "form": "κρατηθῇ",
+              "lemma": "κρατέω",
+              "location": "431a",
+              "context": "ὑπὸ τροφῆς κακῆς … κρατηθῇ"
+            },
+            {
+              "form": "κρατουμένας",
+              "lemma": "κρατέω",
+              "location": "431c",
+              "context": "κρατουμένας αὐτόθι τὰς ἐπιθυμίας"
+            }
+          ],
+          "observation": "The κρατ- root appears in ἐγκράτεια, ἐγκρατές, κρατηθῇ, and κρατουμένας, shifting between active mastery and passive being-mastered across soul and city contexts."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-07",
+      "title": "The Hunt for Justice and Its Discovery in the City",
+      "locatorStart": "432b",
+      "locatorEnd": "435a",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-07:s001",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "κυνηγέτας",
+              "lemma": "κυνηγέτης",
+              "location": "432b",
+              "context": "ὥσπερ κυνηγέτας τινὰς θάμνον κύκλῳ περιίστασθαι"
+            },
+            {
+              "form": "ἴχνος",
+              "lemma": "ἴχνος",
+              "location": "432d",
+              "context": "κινδυνεύομέν τι ἔχειν ἴχνος"
+            },
+            {
+              "form": "διαφύγῃ",
+              "lemma": "διαφεύγω",
+              "location": "432b",
+              "context": "μή πῃ διαφύγῃ ἡ δικαιοσύνη"
+            },
+            {
+              "form": "ἐκφευξεῖσθαι",
+              "lemma": "ἐκφεύγω",
+              "location": "432d",
+              "context": "οὐ πάνυ τι ἐκφευξεῖσθαι ἡμᾶς"
+            }
+          ],
+          "observation": "A hunt cluster: hunters surrounding a thicket, justice as quarry that might escape (διαφύγῃ), a track found, and the quarry unlikely to escape (ἐκφευξεῖσθαι). Two different compounds of φεύγω frame the hunt sequence."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s002",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "κατιδεῖν",
+              "lemma": "καθοράω",
+              "location": "432c",
+              "context": "προθυμοῦ κατιδεῖν"
+            },
+            {
+              "form": "ἴδῃς",
+              "lemma": "ὁράω",
+              "location": "432c",
+              "context": "ἐάν πως πρότερος ἐμοῦ ἴδῃς"
+            },
+            {
+              "form": "καθορᾶν",
+              "lemma": "καθοράω",
+              "location": "432c",
+              "context": "τὰ δεικνύμενα δυναμένῳ καθορᾶν"
+            },
+            {
+              "form": "κατιδών",
+              "lemma": "καθοράω",
+              "location": "432d",
+              "context": "καὶ ἐγὼ κατιδών"
+            },
+            {
+              "form": "ἑωρῶμεν",
+              "lemma": "ὁράω",
+              "location": "432d",
+              "context": "οὐχ ἑωρῶμεν ἄρʼ αὐτό"
+            },
+            {
+              "form": "ἀπεβλέπομεν",
+              "lemma": "ἀποβλέπω",
+              "location": "432e",
+              "context": "εἰς αὐτὸ μὲν οὐκ ἀπεβλέπομεν"
+            },
+            {
+              "form": "ἀπεσκοποῦμεν",
+              "lemma": "ἀποσκοπέω",
+              "location": "432e",
+              "context": "πόρρω δέ ποι ἀπεσκοποῦμεν"
+            }
+          ],
+          "observation": "Dense cluster of seeing-verbs: κατιδεῖν, ἴδῃς, καθορᾶν, κατιδών mark successful or invited sight, while ἑωρῶμεν (negated), ἀπεβλέπομεν (negated), and ἀπεσκοποῦμεν mark misdirected looking."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s003",
+          "scan_targets": [],
+          "features": [
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "δύσβατος",
+              "lemma": "δύσβατος",
+              "location": "432c",
+              "context": null
+            },
+            {
+              "form": "ἐπίσκιος",
+              "lemma": "ἐπίσκιος",
+              "location": "432c",
+              "context": null
+            },
+            {
+              "form": "σκοτεινός",
+              "lemma": "σκοτεινός",
+              "location": "432c",
+              "context": null
+            },
+            {
+              "form": "δυσδιερεύνητος",
+              "lemma": "δυσδιερεύνητος",
+              "location": "432c",
+              "context": null
+            }
+          ],
+          "observation": "The place where justice is hunted is described as hard to traverse, shadowy, dark, and hard to search through—four descriptors in rapid succession characterizing the terrain."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s004",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "πρὸ ποδῶν",
+              "lemma": null,
+              "location": "432d",
+              "context": "πρὸ ποδῶν ἡμῖν ἐξ ἀρχῆς κυλινδεῖσθαι"
+            },
+            {
+              "form": "πόρρω",
+              "lemma": "πόρρω",
+              "location": "432e",
+              "context": "πόρρω δέ ποι ἀπεσκοποῦμεν"
+            }
+          ],
+          "observation": "Justice was rolling at their feet (πρὸ ποδῶν) while they were looking far off (πόρρω)—an explicit spatial contrast between near and far."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s005",
+          "scan_targets": [],
+          "features": [
+            "changed_context_recurrence",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "λέγοντες",
+              "lemma": "λέγω",
+              "location": "432e",
+              "context": "λέγοντες αὐτὸ καὶ ἀκούοντες πάλαι οὐ μανθάνειν"
+            },
+            {
+              "form": "ἐλέγομεν",
+              "lemma": "λέγω",
+              "location": "432e",
+              "context": "ἐλέγομεν τρόπον τινὰ αὐτό"
+            },
+            {
+              "form": "ἐλέγομεν",
+              "lemma": "λέγω",
+              "location": "433a",
+              "context": "πολλάκις ἐλέγομεν"
+            },
+            {
+              "form": "εἰρήκαμεν",
+              "lemma": "λέγω",
+              "location": "433b",
+              "context": "αὐτοὶ πολλάκις εἰρήκαμεν"
+            }
+          ],
+          "observation": "Repeated forms of λέγω mark that they had been saying (ἐλέγομεν, εἰρήκαμεν) the definition of justice without recognizing it—saying without understanding."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s006",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐν ταῖς χερσὶν ἔχοντες ζητοῦσιν",
+              "lemma": null,
+              "location": "432d",
+              "context": "ὥσπερ οἱ ἐν ταῖς χερσὶν ἔχοντες ζητοῦσιν ἐνίοτε ὃ ἔχουσιν"
+            }
+          ],
+          "observation": "Analogy of people searching for what they already hold in their hands, applied to the searchers' relation to justice."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s007",
+          "scan_targets": [],
+          "features": [
+            "exact_repetition",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "τὸ τὰ αὑτοῦ πράττειν",
+              "lemma": null,
+              "location": "433a",
+              "context": "τὸ τὰ αὑτοῦ πράττειν καὶ μὴ πολυπραγμονεῖν δικαιοσύνη ἐστί"
+            },
+            {
+              "form": "τὸ τὰ αὑτοῦ πράττειν",
+              "lemma": null,
+              "location": "433b",
+              "context": "τὸ τὰ αὑτοῦ πράττειν"
+            },
+            {
+              "form": "τὸ αὑτοῦ ἕκαστος εἷς ὢν ἔπραττε",
+              "lemma": null,
+              "location": "433d",
+              "context": null
+            },
+            {
+              "form": "τὰ αὑτοῦ πράττοντος",
+              "lemma": null,
+              "location": "434c",
+              "context": "ἑκάστου τούτων τὸ αὑτοῦ πράττοντος ἐν πόλει"
+            }
+          ],
+          "observation": "The formula τὰ αὑτοῦ πράττειν recurs as the candidate definition of justice, appearing at least four times across the section."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s008",
+          "scan_targets": [],
+          "features": [
+            "local_contrast",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "πολυπραγμονεῖν",
+              "lemma": "πολυπραγμονέω",
+              "location": "433a",
+              "context": "μὴ πολυπραγμονεῖν"
+            },
+            {
+              "form": "ἐπολυπραγμόνει",
+              "lemma": "πολυπραγμονέω",
+              "location": "433d",
+              "context": "οὐκ ἐπολυπραγμόνει"
+            },
+            {
+              "form": "πολυπραγμοσύνην",
+              "lemma": "πολυπραγμοσύνη",
+              "location": "434b",
+              "context": "πολυπραγμοσύνην ὄλεθρον εἶναι τῇ πόλει"
+            },
+            {
+              "form": "πολυπραγμοσύνη",
+              "lemma": "πολυπραγμοσύνη",
+              "location": "434b",
+              "context": "τριῶν ἄρα ὄντων γενῶν πολυπραγμοσύνη"
+            }
+          ],
+          "observation": "πολυπραγμονεῖν/πολυπραγμοσύνη recurs as the antithesis of justice (τὰ αὑτοῦ πράττειν), moving from negated verb to noun naming the city's destruction."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s009",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τέκτων σκυτοτόμου",
+              "lemma": null,
+              "location": "434a",
+              "context": "τέκτων σκυτοτόμου ἐπιχειρῶν ἔργα ἐργάζεσθαι"
+            },
+            {
+              "form": "οὐ πάνυ",
+              "lemma": null,
+              "location": "434a",
+              "context": "ἆρά σοι ἄν τι δοκεῖ μέγα βλάψαι πόλιν; οὐ πάνυ"
+            },
+            {
+              "form": "εἰς τὸ τοῦ πολεμικοῦ εἶδος",
+              "lemma": null,
+              "location": "434b",
+              "context": "εἰς τὸ τοῦ πολεμικοῦ εἶδος ἐπιχειρῇ ἰέναι"
+            },
+            {
+              "form": "ὄλεθρον",
+              "lemma": "ὄλεθρος",
+              "location": "434b",
+              "context": "ὄλεθρον εἶναι τῇ πόλει"
+            }
+          ],
+          "observation": "Interchange among craftsmen causes little harm (οὐ πάνυ), but interchange among the three classes (χρηματιστής into πολεμικός/φύλαξ) is ὄλεθρος—an explicit contrast in degree of damage."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s010",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐκ πυρείων ἐκλάμψαι",
+              "lemma": null,
+              "location": "435a",
+              "context": "ὥσπερ ἐκ πυρείων ἐκλάμψαι ποιήσαιμεν τὴν δικαιοσύνην"
+            }
+          ],
+          "observation": "Fire-stick image: rubbing city and individual together as fire-sticks to make justice flash forth (ἐκλάμψαι). Contrasts the earlier σκοτεινός terrain."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s011",
+          "scan_targets": [],
+          "features": [
+            "structural_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐπαναφέρωμεν εἰς τὸν ἕνα",
+              "lemma": null,
+              "location": "434e",
+              "context": null
+            },
+            {
+              "form": "πάλιν ἐπανιόντες ἐπὶ τὴν πόλιν βασανιοῦμεν",
+              "lemma": null,
+              "location": "434e",
+              "context": null
+            }
+          ],
+          "observation": "A back-and-forth method is described: carrying findings to the individual (ἐπαναφέρωμεν εἰς τὸν ἕνα), then returning to the city (ἐπανιόντες ἐπὶ τὴν πόλιν) to test them—both compounds of ἐπι-/ἀνα-."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s012",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ὁμοδοξία",
+              "lemma": "ὁμοδοξία",
+              "location": "433c",
+              "context": "ἡ ὁμοδοξία τῶν ἀρχόντων τε καὶ ἀρχομένων"
+            },
+            {
+              "form": "σωτηρία",
+              "lemma": "σωτηρία",
+              "location": "433c",
+              "context": "δόξης ἐννόμου σωτηρία ἐν τοῖς στρατιώταις"
+            },
+            {
+              "form": "φρόνησίς τε καὶ φυλακή",
+              "lemma": null,
+              "location": "433d",
+              "context": "ἐν τοῖς ἄρχουσι φρόνησίς τε καὶ φυλακή"
+            }
+          ],
+          "observation": "The three previously found virtues reappear compressed as σωφροσύνη (ὁμοδοξία of rulers and ruled), ἀνδρεία (σωτηρία of lawful opinion in soldiers), and σοφία (φρόνησις and φυλακή in rulers), set against justice as the rival fourth."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s013",
+          "scan_targets": [],
+          "features": [
+            "lexical_family",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "οἰκειοπραγία",
+              "lemma": "οἰκειοπραγία",
+              "location": "434c",
+              "context": "χρηματιστικοῦ ἐπικουρικοῦ φυλακικοῦ γένους οἰκειοπραγία"
+            },
+            {
+              "form": "κακουργία",
+              "lemma": "κακουργία",
+              "location": "434c",
+              "context": "ὀρθότατʼ ἂν προσαγορεύοιτο μάλιστα κακουργία"
+            },
+            {
+              "form": "ἀδικία",
+              "lemma": "ἀδικία",
+              "location": "434c",
+              "context": "κακουργίαν δὲ τὴν μεγίστην τῆς ἑαυτοῦ πόλεως οὐκ ἀδικίαν φήσεις εἶναι"
+            }
+          ],
+          "observation": "οἰκειοπραγία is set as the direct contrary of κακουργία, which is then identified as ἀδικία—a chain: minding one's own = justice, its opposite (κακουργία) = injustice."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s014",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἕπου",
+              "lemma": "ἕπομαι",
+              "location": "432c",
+              "context": "ἕπου εὐξάμενος μετʼ ἐμοῦ"
+            },
+            {
+              "form": "ἡγοῦ",
+              "lemma": "ἡγέομαι",
+              "location": "432c",
+              "context": "ἀλλὰ μόνον ἡγοῦ"
+            },
+            {
+              "form": "ἑπομένῳ",
+              "lemma": "ἕπομαι",
+              "location": "432c",
+              "context": "ἐάν μοι ἑπομένῳ χρῇ"
+            }
+          ],
+          "observation": "Glaucon casts himself as follower (ἑπομένῳ), Socrates says follow (ἕπου), Glaucon responds with lead (ἡγοῦ)—a quick exchange assigning leader/follower roles in the hunt."
+        },
+        {
+          "id": "republic-chapter-04-section-07:s015",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀφανισθεῖσα",
+              "lemma": "ἀφανίζω",
+              "location": "432b",
+              "context": "ἀφανισθεῖσα ἄδηλος γένηται"
+            },
+            {
+              "form": "φανερόν",
+              "lemma": "φανερός",
+              "location": "432c",
+              "context": "φανερὸν γὰρ δὴ ὅτι ταύτῃ πῃ ἔστιν"
+            },
+            {
+              "form": "φανερὰν",
+              "lemma": "φανερός",
+              "location": "435a",
+              "context": "φανερὰν γενομένην βεβαιωσόμεθα"
+            }
+          ],
+          "observation": "Justice risks becoming invisible (ἀφανισθεῖσα) near the section's start, is said to be evidently somewhere (φανερόν), and at the close will be made manifest (φανερὰν γενομένην)—the root φαν- tracks visibility across the section."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-08",
+      "title": "Applying the City's Model to the Individual Soul",
+      "locatorStart": "435a",
+      "locatorEnd": "436b",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-08:s001",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ὅμοιον",
+              "lemma": "ὅμοιος",
+              "location": "435a",
+              "context": "ἀνόμοιον τυγχάνει ὂν ταύτῃ ᾗ ταὐτὸν προσαγορεύεται, ἢ ὅμοιον"
+            },
+            {
+              "form": "ὅμοιον",
+              "lemma": "ὅμοιος",
+              "location": "435a",
+              "context": null
+            },
+            {
+              "form": "ὅμοιος",
+              "lemma": "ὅμοιος",
+              "location": "435b",
+              "context": "ἀλλʼ ὅμοιος ἔσται"
+            },
+            {
+              "form": "ὅμοιος",
+              "lemma": "ὅμοιος",
+              "location": "435b",
+              "context": null
+            },
+            {
+              "form": "ἀνόμοιον",
+              "lemma": "ἀνόμοιος",
+              "location": "435a",
+              "context": null
+            }
+          ],
+          "observation": "ὅμοιος appears four times in rapid succession at 435a–b, with ἀνόμοιον posed as the rejected alternative; the cluster establishes likeness between larger and smaller as the operative relation."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s002",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "εἴδη",
+              "lemma": "εἶδος",
+              "location": "435c",
+              "context": "εἴδη ἐν τῇ αὑτοῦ ψυχῇ ἔχοντα"
+            },
+            {
+              "form": "εἶδος",
+              "lemma": "εἶδος",
+              "location": "435b",
+              "context": "κατʼ αὐτὸ τὸ τῆς δικαιοσύνης εἶδος"
+            },
+            {
+              "form": "εἴδη",
+              "lemma": "εἶδος",
+              "location": "435e",
+              "context": "τὰ αὐτὰ ἐν ἑκάστῳ ἔνεστιν ἡμῶν εἴδη τε καὶ ἤθη"
+            }
+          ],
+          "observation": "εἶδος first names the single form of justice (435b), then shifts to plural εἴδη for the three kinds in the soul (435c, 435e)."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s003",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "μεῖζόν",
+              "lemma": "μέγας",
+              "location": "435a",
+              "context": null
+            },
+            {
+              "form": "ἔλαττον",
+              "lemma": "ἐλάττων",
+              "location": "435a",
+              "context": null
+            },
+            {
+              "form": "τὸν ἕνα",
+              "lemma": null,
+              "location": "435b",
+              "context": null
+            }
+          ],
+          "observation": "The larger/smaller pair (μεῖζόν/ἔλαττον) frames the transfer from city to individual, with τὸν ἕνα explicitly naming the single person as the smaller counterpart."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s004",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "τριττὰ γένη",
+              "lemma": null,
+              "location": "435b",
+              "context": null
+            },
+            {
+              "form": "τρία εἴδη",
+              "lemma": null,
+              "location": "435c",
+              "context": "εἴτε ἔχει τὰ τρία εἴδη ταῦτα ἐν αὑτῇ"
+            },
+            {
+              "form": "τρισὶν οὖσιν",
+              "lemma": "τρεῖς",
+              "location": "436a",
+              "context": "εἰ τῷ αὐτῷ τούτῳ ἕκαστα πράττομεν ἢ τρισὶν οὖσιν"
+            }
+          ],
+          "observation": "Threeness recurs: τριττὰ γένη in the city, τρία εἴδη as a question about the soul, τρισὶν as the operative possibility for distinct faculties."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s005",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "φαῦλον",
+              "lemma": "φαῦλος",
+              "location": "435c",
+              "context": "εἰς φαῦλόν γε αὖ ... σκέμμα ἐμπεπτώκαμεν"
+            },
+            {
+              "form": "φαῦλον",
+              "lemma": "φαῦλος",
+              "location": "435c",
+              "context": "οὐ πάνυ μοι δοκοῦμεν εἰς φαῦλον"
+            }
+          ],
+          "observation": "Socrates calls the inquiry φαῦλον (easy/trivial) and is immediately contradicted: οὐ πάνυ … εἰς φαῦλον, followed by χαλεπὰ τὰ καλά."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s006",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "χαλεπὰ",
+              "lemma": "χαλεπός",
+              "location": "435c",
+              "context": "χαλεπὰ τὰ καλά"
+            },
+            {
+              "form": "χαλεπὸν",
+              "lemma": "χαλεπός",
+              "location": "436a",
+              "context": "οὐδὲν χαλεπὸν γνῶναι"
+            },
+            {
+              "form": "χαλεπόν",
+              "lemma": "χαλεπός",
+              "location": "436a",
+              "context": "τόδε δὲ ἤδη χαλεπόν"
+            },
+            {
+              "form": "χαλεπὰ",
+              "lemma": "χαλεπός",
+              "location": "436b",
+              "context": "τὰ χαλεπὰ διορίσασθαι"
+            }
+          ],
+          "observation": "χαλεπός appears four times, shifting from proverbial (χαλεπὰ τὰ καλά) to denied (οὐδὲν χαλεπόν) to reasserted (τόδε δὲ ἤδη χαλεπόν, τὰ χαλεπά)."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s007",
+          "scan_targets": [],
+          "features": [
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἄλλοθεν ἐκεῖσε ἀφῖκται",
+              "lemma": null,
+              "location": "435e",
+              "context": "οὐ γάρ που ἄλλοθεν ἐκεῖσε ἀφῖκται"
+            },
+            {
+              "form": "ἐκ τῶν ἰδιωτῶν ἐν ταῖς πόλεσιν ἐγγεγονέναι",
+              "lemma": null,
+              "location": "435e",
+              "context": null
+            }
+          ],
+          "observation": "The direction of origin runs from individuals into the city (ἐκ τῶν ἰδιωτῶν … ἐγγεγονέναι); qualities arrive there (ἐκεῖσε ἀφῖκται) from no other source (ἄλλοθεν)."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s008",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "θυμοειδὲς",
+              "lemma": "θυμοειδής",
+              "location": "435e",
+              "context": null
+            },
+            {
+              "form": "φιλομαθές",
+              "lemma": "φιλομαθής",
+              "location": "435e",
+              "context": null
+            },
+            {
+              "form": "φιλοχρήματον",
+              "lemma": "φιλοχρήματος",
+              "location": "436a",
+              "context": null
+            }
+          ],
+          "observation": "Three soul-qualities are matched to geographical peoples: θυμοειδές to Thrace/Scythia, φιλομαθές to 'our region,' φιλοχρήματον to Phoenicians/Egyptians."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s009",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὸν ἄνω τόπον",
+              "lemma": null,
+              "location": "435e",
+              "context": "κατὰ τὸν ἄνω τόπον"
+            },
+            {
+              "form": "τὸν παρʼ ἡμῖν … τόπον",
+              "lemma": "τόπος",
+              "location": "436a",
+              "context": null
+            }
+          ],
+          "observation": "τόπος appears twice: the 'upper region' (τὸν ἄνω τόπον) for spiritedness, and 'the region among us' (τὸν παρʼ ἡμῖν τόπον) for love of learning."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s010",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "μακροτέρα καὶ πλείων ὁδός",
+              "lemma": "ὁδός",
+              "location": "435d",
+              "context": "ἄλλη γὰρ μακροτέρα καὶ πλείων ὁδὸς ἡ ἐπὶ τοῦτο ἄγουσα"
+            },
+            {
+              "form": "μεθόδων",
+              "lemma": "μέθοδος",
+              "location": "435d",
+              "context": "ἐκ τοιούτων μεθόδων, οἵαις νῦν ἐν τοῖς λόγοις χρώμεθα"
+            }
+          ],
+          "observation": "Socrates distinguishes current methods (μεθόδων) from another longer road (μακροτέρα … ὁδός) that leads to precision, declaring the present approach will never yield exactness (ἀκριβῶς … οὐ μή ποτε λάβωμεν)."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s011",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "μανθάνομεν",
+              "lemma": "μανθάνω",
+              "location": "436a",
+              "context": "μανθάνομεν μὲν ἑτέρῳ"
+            },
+            {
+              "form": "θυμούμεθα",
+              "lemma": "θυμόω",
+              "location": "436a",
+              "context": "θυμούμεθα δὲ ἄλλῳ"
+            },
+            {
+              "form": "ἐπιθυμοῦμεν",
+              "lemma": "ἐπιθυμέω",
+              "location": "436a",
+              "context": "ἐπιθυμοῦμεν δʼ αὖ τρίτῳ τινί"
+            }
+          ],
+          "observation": "Three first-person plural verbs name the three psychic activities — learning, being spirited, desiring — each assigned to a different faculty (ἑτέρῳ … ἄλλῳ … τρίτῳ τινί)."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s012",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τροφήν",
+              "lemma": "τροφή",
+              "location": "436a",
+              "context": "περὶ τὴν τροφήν τε καὶ γέννησιν ἡδονῶν"
+            },
+            {
+              "form": "γέννησιν",
+              "lemma": "γέννησις",
+              "location": "436a",
+              "context": null
+            },
+            {
+              "form": "ἀδελφά",
+              "lemma": "ἀδελφός",
+              "location": "436b",
+              "context": "ὅσα τούτων ἀδελφά"
+            }
+          ],
+          "observation": "Appetite is specified through nourishment (τροφή) and generation (γέννησις) and their pleasures, with kindred desires called ἀδελφά."
+        },
+        {
+          "id": "republic-chapter-04-section-08:s013",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ὅλῃ τῇ ψυχῇ",
+              "lemma": null,
+              "location": "436b",
+              "context": "ὅλῃ τῇ ψυχῇ καθʼ ἕκαστον αὐτῶν πράττομεν"
+            },
+            {
+              "form": "τρισὶν οὖσιν ἄλλο ἄλλῳ",
+              "lemma": null,
+              "location": "436a",
+              "context": null
+            }
+          ],
+          "observation": "The core question is posed as a disjunction: do we act with the whole soul (ὅλῃ τῇ ψυχῇ) or with three distinct parts (τρισὶν … ἄλλο ἄλλῳ)?"
+        },
+        {
+          "id": "republic-chapter-04-section-08:s014",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "πάθη τε καὶ ἕξεις",
+              "lemma": null,
+              "location": "435b",
+              "context": "ἄλλʼ ἄττα πάθη τε καὶ ἕξεις"
+            },
+            {
+              "form": "πάθη",
+              "lemma": "πάθος",
+              "location": "435c",
+              "context": "διὰ τὰ αὐτὰ πάθη ἐκείνοις"
+            }
+          ],
+          "observation": "πάθη first appears paired with ἕξεις describing the city's virtues, then recurs alone when transferred to the individual soul."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-09",
+      "title": "Reason and Desire Distinguished by the Principle of Opposites",
+      "locatorStart": "436b",
+      "locatorEnd": "439e",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-09:s001",
+          "scan_targets": [],
+          "features": [
+            "exact_repetition",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "τἀναντία",
+              "lemma": "ἐναντίος",
+              "location": "436b",
+              "context": "ταὐτὸν τἀναντία ποιεῖν ἢ πάσχειν"
+            },
+            {
+              "form": "τἀναντία",
+              "lemma": "ἐναντίος",
+              "location": "437a",
+              "context": "τἀναντία πάθοι ἢ καὶ εἴη ἢ καὶ ποιήσειεν"
+            },
+            {
+              "form": "τῶν ἐναντίων",
+              "lemma": "ἐναντίος",
+              "location": "437b",
+              "context": "πάντα τὰ τοιαῦτα τῶν ἐναντίων ἀλλήλοις"
+            },
+            {
+              "form": "τἀναντία",
+              "lemma": "ἐναντίος",
+              "location": "437c",
+              "context": "εἰς ἅπαντα τἀναντία ἐκείνοις"
+            },
+            {
+              "form": "τἀναντία",
+              "lemma": "ἐναντίος",
+              "location": "439b",
+              "context": "ἅμʼ ἂν τἀναντία πράττοι"
+            }
+          ],
+          "observation": "Forms of ἐναντίος recur densely across the section, framing the principle at 436b, restated at 437a, applied to pairs at 437b, to desires at 437c, and to soul-conflict at 439b."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s002",
+          "scan_targets": [],
+          "features": [
+            "local_contrast",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἑστάναι",
+              "lemma": "ἵστημι",
+              "location": "436c",
+              "context": "ἑστάναι καὶ κινεῖσθαι τὸ αὐτὸ ἅμα"
+            },
+            {
+              "form": "κινεῖσθαι",
+              "lemma": "κινέω",
+              "location": "436c",
+              "context": "ἑστάναι καὶ κινεῖσθαι τὸ αὐτὸ ἅμα"
+            }
+          ],
+          "observation": "Standing and moving are the first concrete pair of opposites used to illustrate the principle, introduced as a question about simultaneous possibility."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s003",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "στρόβιλοι",
+              "lemma": "στρόβιλος",
+              "location": "436d",
+              "context": "οἵ γε στρόβιλοι ὅλοι ἑστᾶσί τε ἅμα καὶ κινοῦνται"
+            },
+            {
+              "form": "κέντρον",
+              "lemma": "κέντρον",
+              "location": "436d",
+              "context": "ἐν τῷ αὐτῷ πήξαντες τὸ κέντρον περιφέρωνται"
+            },
+            {
+              "form": "εὐθύ",
+              "lemma": "εὐθύς",
+              "location": "436e",
+              "context": "ἔχειν αὐτὰ εὐθύ τε καὶ περιφερὲς ἐν αὑτοῖς"
+            },
+            {
+              "form": "περιφερές",
+              "lemma": "περιφερής",
+              "location": "436e",
+              "context": "εὐθύ τε καὶ περιφερὲς ἐν αὑτοῖς"
+            }
+          ],
+          "observation": "The spinning-top example distinguishes the straight (axis) from the circular (circumference) within a single body, resolving apparent contradiction by identifying different aspects."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s004",
+          "scan_targets": [],
+          "features": [
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "εἰς δεξιάν",
+              "lemma": null,
+              "location": "436e",
+              "context": null
+            },
+            {
+              "form": "εἰς ἀριστεράν",
+              "lemma": null,
+              "location": "436e",
+              "context": null
+            },
+            {
+              "form": "εἰς τὸ πρόσθεν",
+              "lemma": null,
+              "location": "436e",
+              "context": null
+            },
+            {
+              "form": "εἰς τὸ ὄπισθεν",
+              "lemma": null,
+              "location": "436e",
+              "context": null
+            }
+          ],
+          "observation": "Four directional inclinations—right, left, forward, backward—are listed as conditions under which the spinning top can no longer be said to stand still."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s005",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐπινεύειν",
+              "lemma": "ἐπινεύω",
+              "location": "437b",
+              "context": "τὸ ἐπινεύειν τῷ ἀνανεύειν"
+            },
+            {
+              "form": "ἀνανεύειν",
+              "lemma": "ἀνανεύω",
+              "location": "437b",
+              "context": null
+            },
+            {
+              "form": "ἐφίεσθαι",
+              "lemma": "ἐφίημι",
+              "location": "437b",
+              "context": "τὸ ἐφίεσθαί τινος λαβεῖν τῷ ἀπαρνεῖσθαι"
+            },
+            {
+              "form": "ἀπαρνεῖσθαι",
+              "lemma": "ἀπαρνέομαι",
+              "location": "437b",
+              "context": null
+            },
+            {
+              "form": "προσάγεσθαι",
+              "lemma": "προσάγω",
+              "location": "437b",
+              "context": "τὸ προσάγεσθαι τῷ ἀπωθεῖσθαι"
+            },
+            {
+              "form": "ἀπωθεῖσθαι",
+              "lemma": "ἀπωθέω",
+              "location": "437b",
+              "context": null
+            }
+          ],
+          "observation": "Three paired opposites—nodding/refusing, reaching/rejecting, drawing-toward/pushing-away—are listed as examples of contrary actions or affections."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s006",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ποιεῖν ἢ πάσχειν",
+              "lemma": null,
+              "location": "436b",
+              "context": "τἀναντία ποιεῖν ἢ πάσχειν"
+            },
+            {
+              "form": "ποιημάτων εἴτε παθημάτων",
+              "lemma": null,
+              "location": "437b",
+              "context": "τῶν ἐναντίων ἀλλήλοις θείης εἴτε ποιημάτων εἴτε παθημάτων"
+            }
+          ],
+          "observation": "The infinitives ποιεῖν/πάσχειν in the principle's first statement return as the nominals ποιημάτων/παθημάτων when the three opposed pairs are classified."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s007",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "διψῆν",
+              "lemma": "διψάω",
+              "location": "437b",
+              "context": "διψῆν καὶ πεινῆν καὶ ὅλως τὰς ἐπιθυμίας"
+            },
+            {
+              "form": "πεινῆν",
+              "lemma": "πεινάω",
+              "location": "437b",
+              "context": null
+            },
+            {
+              "form": "ἐπιθυμίας",
+              "lemma": "ἐπιθυμία",
+              "location": "437b",
+              "context": null
+            },
+            {
+              "form": "δίψαν",
+              "lemma": "δίψα",
+              "location": "437d",
+              "context": "ἥν τε δίψαν καλοῦμεν καὶ ἣν πεῖναν"
+            },
+            {
+              "form": "πεῖναν",
+              "lemma": "πεῖνα",
+              "location": "437d",
+              "context": null
+            },
+            {
+              "form": "δίψος",
+              "lemma": "δίψος",
+              "location": "439a",
+              "context": "τὸ δὲ δὴ δίψος"
+            },
+            {
+              "form": "πώματος",
+              "lemma": "πῶμα",
+              "location": "439a",
+              "context": "πώματός γε"
+            }
+          ],
+          "observation": "Thirst and hunger recur as the most vivid (ἐναργεστάτας) instances of desire, with thirst becoming the sustained example through 439a where it is paired with its natural object, drink."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s008",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐθέλειν",
+              "lemma": "ἐθέλω",
+              "location": "437b",
+              "context": "τὸ ἐθέλειν καὶ τὸ βούλεσθαι"
+            },
+            {
+              "form": "ἀβουλεῖν",
+              "lemma": "ἀβουλέω",
+              "location": "437c",
+              "context": "τὸ ἀβουλεῖν καὶ μὴ ἐθέλειν μηδʼ ἐπιθυμεῖν"
+            }
+          ],
+          "observation": "Willing/wishing are grouped with desire at 437b, then their negations (ἀβουλεῖν, μὴ ἐθέλειν, μηδʼ ἐπιθυμεῖν) are classed with pushing-away and driving-off at 437c."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s009",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἀνθέλκει",
+              "lemma": "ἀνθέλκω",
+              "location": "439b",
+              "context": "εἴ ποτέ τι αὐτὴν ἀνθέλκει διψῶσαν"
+            },
+            {
+              "form": "ἄγοντος",
+              "lemma": "ἄγω",
+              "location": "439b",
+              "context": "τοῦ διψῶντος καὶ ἄγοντος ὥσπερ θηρίον ἐπὶ τὸ πιεῖν"
+            }
+          ],
+          "observation": "The thirsting part leads (ἄγοντος) the soul like a beast (θηρίον) toward drink, while something else pulls it back (ἀνθέλκει)—opposed pulling forces within the soul."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s010",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "θηρίον",
+              "lemma": "θηρίον",
+              "location": "439b",
+              "context": "ἄγοντος ὥσπερ θηρίον ἐπὶ τὸ πιεῖν"
+            }
+          ],
+          "observation": "The desiring element is compared to a beast (θηρίον) being led to drink—a singular image in the section."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s011",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἀπωθοῦνταί",
+              "lemma": "ἀπωθέω",
+              "location": "439b",
+              "context": "αἱ χεῖρες τὸ τόξον ἀπωθοῦνταί τε καὶ προσέλκονται"
+            },
+            {
+              "form": "προσέλκονται",
+              "lemma": "προσέλκω",
+              "location": "439b",
+              "context": null
+            },
+            {
+              "form": "ἀπωθοῦσα",
+              "lemma": "ἀπωθέω",
+              "location": "439b",
+              "context": "ἄλλη μὲν ἡ ἀπωθοῦσα χείρ"
+            },
+            {
+              "form": "προσαγομένη",
+              "lemma": "προσάγω",
+              "location": "439b",
+              "context": "ἑτέρα δὲ ἡ προσαγομένη"
+            }
+          ],
+          "observation": "The archer analogy assigns pushing-away and drawing-toward to different hands (ἄλλη … ἑτέρα), paralleling the soul's distinct parts."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s012",
+          "scan_targets": [],
+          "features": [
+            "local_contrast",
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κελεῦον",
+              "lemma": "κελεύω",
+              "location": "439c",
+              "context": "τὸ κελεῦον"
+            },
+            {
+              "form": "κωλῦον",
+              "lemma": "κωλύω",
+              "location": "439c",
+              "context": "τὸ κωλῦον πιεῖν"
+            }
+          ],
+          "observation": "Within the soul of those who thirst but refuse to drink, a commanding element (τὸ κελεῦον) and a preventing element (τὸ κωλῦον) are distinguished as different and the latter masters the former (κρατοῦν τοῦ κελεύοντος)."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s013",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐκ λογισμοῦ",
+              "lemma": "λογισμός",
+              "location": "439d",
+              "context": "τὸ μὲν κωλῦον … ἐκ λογισμοῦ"
+            },
+            {
+              "form": "διὰ παθημάτων τε καὶ νοσημάτων",
+              "lemma": null,
+              "location": "439d",
+              "context": "τὰ δὲ ἄγοντα καὶ ἕλκοντα διὰ παθημάτων τε καὶ νοσημάτων"
+            }
+          ],
+          "observation": "The preventing element arises from reasoning (λογισμοῦ); the leading-and-dragging elements arrive through affections and diseases (παθημάτων, νοσημάτων)."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s014",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "λογιστικόν",
+              "lemma": "λογιστικός",
+              "location": "439d",
+              "context": "τὸ μὲν ᾧ λογίζεται λογιστικὸν προσαγορεύοντες τῆς ψυχῆς"
+            },
+            {
+              "form": "ἀλόγιστόν τε καὶ ἐπιθυμητικόν",
+              "lemma": null,
+              "location": "439d",
+              "context": "τὸ δὲ ᾧ ἐρᾷ τε καὶ πεινῇ καὶ διψῇ … ἀλόγιστόν τε καὶ ἐπιθυμητικόν"
+            }
+          ],
+          "observation": "The two parts are named: the reasoning part (λογιστικόν) and the irrational-desiring part (ἀλόγιστον καὶ ἐπιθυμητικόν), the latter characterized as companion of fillings and pleasures (πληρώσεών τινων καὶ ἡδονῶν ἑταῖρον)."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s015",
+          "scan_targets": [],
+          "features": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "λογισμοῦ",
+              "lemma": "λογισμός",
+              "location": "439d",
+              "context": "ἐκ λογισμοῦ"
+            },
+            {
+              "form": "λογίζεται",
+              "lemma": "λογίζομαι",
+              "location": "439d",
+              "context": "ᾧ λογίζεται"
+            },
+            {
+              "form": "λογιστικόν",
+              "lemma": "λογιστικός",
+              "location": "439d",
+              "context": null
+            },
+            {
+              "form": "ἀλόγιστόν",
+              "lemma": "ἀλόγιστος",
+              "location": "439d",
+              "context": null
+            }
+          ],
+          "observation": "Four members of the λόγος family cluster in 439d: λογισμοῦ, λογίζεται, λογιστικόν, and its privative ἀλόγιστον naming the desiring part."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s016",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἑταῖρον",
+              "lemma": "ἑταῖρος",
+              "location": "439d",
+              "context": "πληρώσεών τινων καὶ ἡδονῶν ἑταῖρον"
+            }
+          ],
+          "observation": "The desiring part is called companion (ἑταῖρον) of certain fillings and pleasures—a social/relational term applied to a part of the soul."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s017",
+          "scan_targets": [],
+          "features": [
+            "syntactic_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "κατὰ ταὐτόν γε καὶ πρὸς ταὐτόν",
+              "lemma": null,
+              "location": "436b",
+              "context": null
+            },
+            {
+              "form": "κατὰ τὸ αὐτό",
+              "lemma": null,
+              "location": "436c",
+              "context": "τὸ αὐτὸ ἅμα κατὰ τὸ αὐτό"
+            },
+            {
+              "form": "κατὰ τὸ αὐτὸ πρὸς τὸ αὐτό",
+              "lemma": null,
+              "location": "437a",
+              "context": "ἅμα κατὰ τὸ αὐτὸ πρὸς τὸ αὐτὸ τἀναντία"
+            }
+          ],
+          "observation": "The qualifying phrase κατὰ ταὐτόν / πρὸς ταὐτόν is progressively restated and tightened across the section's formulations of the principle."
+        },
+        {
+          "id": "republic-chapter-04-section-09:s018",
+          "scan_targets": [],
+          "features": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "ἔμαθον",
+              "lemma": "μανθάνω",
+              "location": "438e",
+              "context": "ἔμαθον, ἔφη, καί μοι δοκεῖ οὕτως ἔχειν"
+            },
+            {
+              "form": "οὐκ ἔμαθον",
+              "lemma": "μανθάνω",
+              "location": "438b",
+              "context": "οὐκ ἔμαθον, ἔφη"
+            },
+            {
+              "form": "ἔμαθες",
+              "lemma": "μανθάνω",
+              "location": "438b",
+              "context": "οὐκ ἔμαθες … ὅτι τὸ μεῖζον"
+            },
+            {
+              "form": "ἔμαθες",
+              "lemma": "μανθάνω",
+              "location": "438d",
+              "context": "εἰ ἄρα νῦν ἔμαθες"
+            }
+          ],
+          "observation": "Glaucon's οὐκ ἔμαθον prompts Socrates' οὐκ ἔμαθες and a second εἰ ἄρα νῦν ἔμαθες, finally completed by Glaucon's ἔμαθον at 438e—a failure-to-understand resolved within the section."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-10",
+      "title": "The Spirited Part Distinguished; The Story of Leontius",
+      "locatorStart": "439e",
+      "locatorEnd": "441c",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-10:s001",
+          "scan_targets": [],
+          "features": [
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἀνιὼν",
+              "lemma": "ἀνιέναι",
+              "location": "439e",
+              "context": "Λεόντιος ὁ Ἀγλαΐωνος ἀνιὼν ἐκ Πειραιῶς"
+            }
+          ],
+          "observation": "Leontius is moving upward out of the Piraeus, an explicit directional movement."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s002",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἰδεῖν ἐπιθυμοῖ",
+              "lemma": null,
+              "location": "439e",
+              "context": "ἅμα μὲν ἰδεῖν ἐπιθυμοῖ"
+            },
+            {
+              "form": "ἀποτρέποι ἑαυτόν",
+              "lemma": "ἀποτρέπω",
+              "location": "439e",
+              "context": "ἅμα δὲ αὖ δυσχεραίνοι καὶ ἀποτρέποι ἑαυτόν"
+            }
+          ],
+          "observation": "Simultaneous desire to see and self-turning-away, marked by ἅμα μὲν … ἅμα δέ."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s003",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "μάχοιτο",
+              "lemma": "μάχομαι",
+              "location": "439e",
+              "context": "τέως μὲν μάχοιτό τε καὶ παρακαλύπτοιτο"
+            },
+            {
+              "form": "παρακαλύπτοιτο",
+              "lemma": "παρακαλύπτω",
+              "location": "439e",
+              "context": null
+            }
+          ],
+          "observation": "Fighting and covering/veiling oneself appear together as simultaneous actions of internal resistance."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s004",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "διελκύσας τοὺς ὀφθαλμούς",
+              "lemma": null,
+              "location": "440a",
+              "context": null
+            }
+          ],
+          "observation": "Leontius physically pulls open his own eyes—a striking bodily action of forcing sight upon himself."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s005",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἰδοὺ ὑμῖν",
+              "lemma": null,
+              "location": "440a",
+              "context": "ἰδοὺ ὑμῖν, ἔφη, ὦ κακοδαίμονες, ἐμπλήσθητε τοῦ καλοῦ θεάματος"
+            }
+          ],
+          "observation": "Leontius addresses his own eyes as 'ὦ κακοδαίμονες' and commands them to be sated with the 'καλοῦ θεάματος'—the beautiful spectacle applied to corpses."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s006",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιθυμοῖ",
+              "lemma": "ἐπιθυμία",
+              "location": "439e",
+              "context": null
+            },
+            {
+              "form": "ἐπιθυμίας",
+              "lemma": "ἐπιθυμία",
+              "location": "440a",
+              "context": "κρατούμενος δʼ οὖν ὑπὸ τῆς ἐπιθυμίας"
+            },
+            {
+              "form": "ἐπιθυμίαι",
+              "lemma": "ἐπιθυμία",
+              "location": "440b",
+              "context": "βιάζωνταί τινα παρὰ τὸν λογισμὸν ἐπιθυμίαι"
+            },
+            {
+              "form": "ἐπιθυμητικόν",
+              "lemma": "ἐπιθυμητικός",
+              "location": "439e",
+              "context": "τῷ ἐπιθυμητικῷ"
+            },
+            {
+              "form": "ἐπιθυμητικόν",
+              "lemma": "ἐπιθυμητικός",
+              "location": "440e",
+              "context": "ἐπιθυμητικόν τι αὐτὸ ᾠόμεθα εἶναι"
+            }
+          ],
+          "observation": "The ἐπιθυμία/ἐπιθυμητικός family recurs densely across the section."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s007",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "πολεμεῖν",
+              "lemma": "πολεμέω",
+              "location": "440a",
+              "context": "τὴν ὀργὴν πολεμεῖν ἐνίοτε ταῖς ἐπιθυμίαις"
+            },
+            {
+              "form": "στασιαζόντοιν",
+              "lemma": "στασιάζω",
+              "location": "440b",
+              "context": "ὥσπερ δυοῖν στασιαζόντοιν"
+            },
+            {
+              "form": "σύμμαχον",
+              "lemma": "σύμμαχος",
+              "location": "440b",
+              "context": "σύμμαχον τῷ λόγῳ γιγνόμενον τὸν θυμόν"
+            },
+            {
+              "form": "συμμαχεῖ",
+              "lemma": "συμμαχέω",
+              "location": "440c",
+              "context": "συμμαχεῖ τῷ δοκοῦντι δικαίῳ"
+            },
+            {
+              "form": "τὰ ὅπλα",
+              "lemma": "ὅπλον",
+              "location": "440e",
+              "context": "τίθεσθαι τὰ ὅπλα πρὸς τὸ λογιστικόν"
+            }
+          ],
+          "observation": "A cluster of military/political-conflict vocabulary (war, faction, alliance, arms) applied to parts of the soul."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s008",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κύων",
+              "lemma": "κύων",
+              "location": "440d",
+              "context": "ὥσπερ κύων ὑπὸ νομέως"
+            },
+            {
+              "form": "κύνας",
+              "lemma": "κύων",
+              "location": "440d",
+              "context": "τοὺς ἐπικούρους ὥσπερ κύνας ἐθέμεθα"
+            },
+            {
+              "form": "ποιμένων",
+              "lemma": "ποιμήν",
+              "location": "440d",
+              "context": "ὥσπερ ποιμένων πόλεως"
+            }
+          ],
+          "observation": "The dog-shepherd simile appears for thumos called back by reason, then Glaucon immediately connects it to the guardians-as-dogs under ruler-shepherds in the city."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s009",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἐπικουρητικόν",
+              "lemma": null,
+              "location": "441a",
+              "context": "χρηματιστικόν, ἐπικουρητικόν, βουλευτικόν"
+            },
+            {
+              "form": "ἐπίκουρον",
+              "lemma": "ἐπίκουρος",
+              "location": "441a",
+              "context": "ἐπίκουρον ὂν τῷ λογιστικῷ φύσει"
+            },
+            {
+              "form": "ἐπικούρους",
+              "lemma": "ἐπίκουρος",
+              "location": "440d",
+              "context": "τοὺς ἐπικούρους ὥσπερ κύνας"
+            }
+          ],
+          "observation": "The ἐπίκουρος family links the auxiliaries in the city to thumos as natural auxiliary of the rational part."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s010",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "γενναιότερος",
+              "lemma": "γενναῖος",
+              "location": "440c",
+              "context": "ὅσῳ ἂν γενναιότερος ᾖ, τοσούτῳ ἧττον δύναται ὀργίζεσθαι"
+            },
+            {
+              "form": "γενναίων",
+              "lemma": "γενναῖος",
+              "location": "440d",
+              "context": "οὐ λήγει τῶν γενναίων"
+            }
+          ],
+          "observation": "γενναῖος appears first where nobility restrains anger at just suffering, then where the spirited part persists in 'noble efforts' against injustice."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s011",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "παιδίοις",
+              "lemma": "παιδίον",
+              "location": "441a",
+              "context": "ἐν τοῖς παιδίοις"
+            },
+            {
+              "form": "θηρίοις",
+              "lemma": "θηρίον",
+              "location": "441b",
+              "context": "ἐν τοῖς θηρίοις"
+            }
+          ],
+          "observation": "Children and beasts are cited as evidence that thumos exists without reason—children full of θυμός from birth, some never partaking of λογισμός."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s012",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "στῆθος δὲ πλήξας κραδίην ἠνίπαπε μύθῳ",
+              "lemma": null,
+              "location": "441b",
+              "context": null
+            }
+          ],
+          "observation": "A Homeric quotation (Od. 20.17) where striking the chest and rebuking the heart with speech is cited as evidence of one part rebuking another."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s013",
+          "scan_targets": [],
+          "features": [
+            "lexical_family",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀναλογισάμενον",
+              "lemma": "ἀναλογίζομαι",
+              "location": "441c",
+              "context": "τὸ ἀναλογισάμενον περὶ τοῦ βελτίονός τε καὶ χείρονος"
+            },
+            {
+              "form": "ἀλογίστως",
+              "lemma": "ἀλογίστως",
+              "location": "441c",
+              "context": "τῷ ἀλογίστως θυμουμένῳ"
+            }
+          ],
+          "observation": "ἀναλογισάμενον (having reasoned) and ἀλογίστως (without reason) appear in direct contrast, sharing the λόγος root in opposed forms."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s014",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "στάσει",
+              "lemma": "στάσις",
+              "location": "440e",
+              "context": "ἐν τῇ τῆς ψυχῆς στάσει τίθεσθαι τὰ ὅπλα πρὸς τὸ λογιστικόν"
+            },
+            {
+              "form": "στασιαζόντοιν",
+              "lemma": "στασιάζω",
+              "location": "440b",
+              "context": "ὥσπερ δυοῖν στασιαζόντοιν"
+            }
+          ],
+          "observation": "στάσις recurs: first as faction between two warring parties, then as the soul's civil strife in which thumos takes up arms on reason's side."
+        },
+        {
+          "id": "republic-chapter-04-section-10:s015",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κακῆς τροφῆς",
+              "lemma": null,
+              "location": "441a",
+              "context": "ἐὰν μὴ ὑπὸ κακῆς τροφῆς διαφθαρῇ"
+            }
+          ],
+          "observation": "Thumos is naturally an ally of reason unless corrupted by bad rearing—a conditional qualification on the tripartite alignment."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-11",
+      "title": "The Individual Virtues Established; Justice in the Individual Confirmed",
+      "locatorStart": "441c",
+      "locatorEnd": "444a",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-11:s001",
+          "scan_targets": [],
+          "features": [
+            "exact_repetition",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "τὰ αὑτοῦ πράττειν",
+              "lemma": null,
+              "location": "441d",
+              "context": "τῷ τὸ ἑαυτοῦ ἕκαστον ἐν αὐτῇ πράττειν"
+            },
+            {
+              "form": "τὰ αὑτοῦ πράττων",
+              "lemma": null,
+              "location": "441e",
+              "context": "δίκαιός τε ἔσται καὶ τὰ αὑτοῦ πράττων"
+            },
+            {
+              "form": "τὰ αὑτοῦ πράττῃ",
+              "lemma": null,
+              "location": "442b",
+              "context": "οὐκ αὖ τὰ αὑτοῦ πράττῃ"
+            },
+            {
+              "form": "τὰ αὑτοῦ πράττει",
+              "lemma": null,
+              "location": "443b",
+              "context": "ἕκαστον τὰ αὑτοῦ πράττει"
+            },
+            {
+              "form": "τἀλλότρια πράττειν",
+              "lemma": null,
+              "location": "443d",
+              "context": "μὴ ἐάσαντα τἀλλότρια πράττειν ἕκαστον ἐν αὑτῷ"
+            }
+          ],
+          "observation": "The phrase τὰ αὑτοῦ πράττειν recurs densely across the section as the defining formula for justice; at 443d τἀλλότρια πράττειν appears as its explicit opposite."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s002",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἔξω πρᾶξιν",
+              "lemma": null,
+              "location": "443c",
+              "context": "οὐ περὶ τὴν ἔξω πρᾶξιν τῶν αὑτοῦ"
+            },
+            {
+              "form": "ἐντός",
+              "lemma": null,
+              "location": "443d",
+              "context": "ἀλλὰ περὶ τὴν ἐντός"
+            }
+          ],
+          "observation": "Justice is explicitly redirected from ἔξω to ἐντός, a spatial contrast between outer action and inner relation."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s003",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "συναρμόσαντα",
+              "lemma": "συναρμόζω",
+              "location": "443d",
+              "context": null
+            },
+            {
+              "form": "ἁρμονίας",
+              "lemma": "ἁρμονία",
+              "location": "443d",
+              "context": "ὥσπερ ὅρους τρεῖς ἁρμονίας"
+            },
+            {
+              "form": "ἡρμοσμένον",
+              "lemma": "ἁρμόζω",
+              "location": "443e",
+              "context": "σώφρονα καὶ ἡρμοσμένον"
+            },
+            {
+              "form": "ἁρμονίᾳ τε καὶ ῥυθμῷ",
+              "lemma": null,
+              "location": "442a",
+              "context": "ἡμεροῦσα ἁρμονίᾳ τε καὶ ῥυθμῷ"
+            }
+          ],
+          "observation": "A cluster from the ἁρμονία word-family: ἁρμονίᾳ in the context of taming the spirited part, then συναρμόσαντα, ἁρμονίας, and ἡρμοσμένον in the musical-harmonic image of the three soul-parts bound together."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s004",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "νεάτης τε καὶ ὑπάτης καὶ μέσης",
+              "lemma": null,
+              "location": "443d",
+              "context": "ὥσπερ ὅρους τρεῖς ἁρμονίας ἀτεχνῶς, νεάτης τε καὶ ὑπάτης καὶ μέσης"
+            }
+          ],
+          "observation": "The three soul-parts are compared to three notes of a musical scale—lowest, highest, and middle—an explicit simile introducing concrete musical terminology."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s005",
+          "scan_targets": [],
+          "features": [
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "441e",
+              "context": "τῷ μὲν λογιστικῷ ἄρχειν προσήκει"
+            },
+            {
+              "form": "ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "442b",
+              "context": "καταδουλώσασθαι καὶ ἄρχειν ἐπιχειρήσῃ ὧν οὐ προσῆκον αὐτῷ γένει"
+            },
+            {
+              "form": "ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "442d",
+              "context": "ὁμοδοξῶσι δεῖν ἄρχειν"
+            },
+            {
+              "form": "ἄρξαντα αὐτὸν αὑτοῦ",
+              "lemma": "ἄρχω",
+              "location": "443d",
+              "context": null
+            }
+          ],
+          "observation": "ἄρχειν first belongs properly to the rational part, then is seized improperly by the appetitive, then is agreed upon unanimously in temperance, then becomes reflexive self-rule (ἄρξαντα αὐτὸν αὑτοῦ)."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s006",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "σοφόν",
+              "lemma": "σοφός",
+              "location": "441c",
+              "context": "τὸν ἰδιώτην καὶ τούτῳ σοφὸν εἶναι"
+            },
+            {
+              "form": "ἀνδρείαν",
+              "lemma": "ἀνδρεῖος",
+              "location": "441d",
+              "context": "πόλιν ἀνδρείαν καὶ οὕτως"
+            },
+            {
+              "form": "δίκαιον",
+              "lemma": "δίκαιος",
+              "location": "441d",
+              "context": "δίκαιον δή, ὦ Γλαύκων"
+            },
+            {
+              "form": "σώφρονα",
+              "lemma": "σώφρων",
+              "location": "442c",
+              "context": "σώφρονα οὐ τῇ φιλίᾳ καὶ συμφωνίᾳ"
+            }
+          ],
+          "observation": "The four virtues—σοφόν, ἀνδρεῖος, δίκαιος, σώφρων—are transferred in sequence from city to individual."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s007",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἐνύπνιον",
+              "lemma": "ἐνύπνιον",
+              "location": "443b",
+              "context": "τέλεον ἄρα ἡμῖν τὸ ἐνύπνιον ἀποτετέλεσται"
+            },
+            {
+              "form": "εἴδωλόν",
+              "lemma": "εἴδωλον",
+              "location": "443c",
+              "context": "εἴδωλόν τι τῆς δικαιοσύνης"
+            }
+          ],
+          "observation": "Justice's discovery is framed through ἐνύπνιον (dream) and εἴδωλον (image/phantom), both naming something short of full reality."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s008",
+          "scan_targets": [],
+          "features": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "ἀποτετέλεσται",
+              "lemma": "ἀποτελέω",
+              "location": "443b",
+              "context": "τέλεον ἄρα ἡμῖν τὸ ἐνύπνιον ἀποτετέλεσται"
+            },
+            {
+              "form": "ὑποπτεῦσαι",
+              "lemma": "ὑποπτεύω",
+              "location": "443b",
+              "context": "ὃ ἔφαμεν ὑποπτεῦσαι"
+            }
+          ],
+          "observation": "A past suspicion (ὑποπτεῦσαι) is declared completed (ἀποτετέλεσται), with τέλεον and ἀποτετέλεσται sharing the τελ- root."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s009",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "παρακαταθήκην χρυσίου ἢ ἀργυρίου",
+              "lemma": null,
+              "location": "442e",
+              "context": "παρακαταθήκην χρυσίου ἢ ἀργυρίου δεξάμενος… ἀποστερῆσαι"
+            },
+            {
+              "form": "ἱεροσυλιῶν",
+              "lemma": "ἱεροσυλία",
+              "location": "443a",
+              "context": null
+            },
+            {
+              "form": "κλοπῶν",
+              "lemma": "κλοπή",
+              "location": "443a",
+              "context": null
+            },
+            {
+              "form": "προδοσιῶν",
+              "lemma": "προδοσία",
+              "location": "443a",
+              "context": null
+            },
+            {
+              "form": "μοιχεῖαί",
+              "lemma": "μοιχεία",
+              "location": "443a",
+              "context": null
+            },
+            {
+              "form": "γονέων ἀμέλειαι",
+              "lemma": null,
+              "location": "443a",
+              "context": null
+            },
+            {
+              "form": "θεῶν ἀθεραπευσίαι",
+              "lemma": "ἀθεραπευσία",
+              "location": "443a",
+              "context": null
+            }
+          ],
+          "observation": "A catalogue of concrete injustices—embezzlement of a deposit, temple-robbery, theft, betrayal, adultery, neglect of parents, neglect of gods—is marshalled as τὰ φορτικά (vulgar tests) of the just person."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s010",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τὰ φορτικά",
+              "lemma": "φορτικός",
+              "location": "442e",
+              "context": "τὰ φορτικὰ αὐτῷ προσφέροντες"
+            }
+          ],
+          "observation": "The concrete test cases are introduced with the dismissive label τὰ φορτικά (vulgar/coarse things), applied to what would ordinarily be regarded as serious moral cases."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s011",
+          "scan_targets": [],
+          "features": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "σύμφωνα",
+              "lemma": "σύμφωνος",
+              "location": "441e",
+              "context": "σύμφωνα αὐτὰ ποιήσει"
+            },
+            {
+              "form": "συμφωνίᾳ",
+              "lemma": "συμφωνία",
+              "location": "442c",
+              "context": "τῇ φιλίᾳ καὶ συμφωνίᾳ τῇ αὐτῶν τούτων"
+            }
+          ],
+          "observation": "σύμφωνα describes what the blend of music and gymnastic produces; συμφωνίᾳ names the agreement among soul-parts that constitutes temperance."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s012",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιτείνουσα",
+              "lemma": "ἐπιτείνω",
+              "location": "441e",
+              "context": "τὸ μὲν ἐπιτείνουσα"
+            },
+            {
+              "form": "ἀνιεῖσα",
+              "lemma": "ἀνίημι",
+              "location": "442a",
+              "context": "τὸ δὲ ἀνιεῖσα παραμυθουμένη"
+            }
+          ],
+          "observation": "Tightening (ἐπιτείνουσα) and relaxing (ἀνιεῖσα) are paired as opposite operations of μουσική and γυμναστική on the two soul-parts."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s013",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἕνα γενόμενον ἐκ πολλῶν",
+              "lemma": null,
+              "location": "443e",
+              "context": "παντάπασιν ἕνα γενόμενον ἐκ πολλῶν"
+            }
+          ],
+          "observation": "The just person is described as becoming entirely one out of many—a striking formulation of unity from plurality."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s014",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "σκυτοτομικὸν",
+              "lemma": "σκυτοτομικός",
+              "location": "443c",
+              "context": "τὸν μὲν σκυτοτομικὸν φύσει ὀρθῶς ἔχειν σκυτοτομεῖν"
+            },
+            {
+              "form": "τεκτονικὸν",
+              "lemma": "τεκτονικός",
+              "location": "443c",
+              "context": "τὸν δὲ τεκτονικὸν τεκταίνεσθαι"
+            }
+          ],
+          "observation": "The shoemaker and carpenter are named as the εἴδωλον of justice—craft-specific doing-one's-own at the external level, explicitly distinguished from true justice."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s015",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "δικαίαν μὲν καὶ καλὴν πρᾶξιν",
+              "lemma": null,
+              "location": "443e",
+              "context": "ἣ ἂν ταύτην τὴν ἕξιν σῴζῃ τε καὶ συναπεργάζηται"
+            },
+            {
+              "form": "ἄδικον… πρᾶξιν",
+              "lemma": null,
+              "location": "444a",
+              "context": "ἣ ἂν ἀεὶ ταύτην λύῃ"
+            },
+            {
+              "form": "σοφίαν",
+              "lemma": "σοφία",
+              "location": "443e",
+              "context": "σοφίαν δὲ τὴν ἐπιστατοῦσαν ταύτῃ τῇ πράξει ἐπιστήμην"
+            },
+            {
+              "form": "ἀμαθίαν",
+              "lemma": "ἀμαθία",
+              "location": "444a",
+              "context": "ἀμαθίαν δὲ τὴν ταύτῃ αὖ ἐπιστατοῦσαν δόξαν"
+            }
+          ],
+          "observation": "A fourfold naming scheme: just action preserves (σῴζῃ) the inner ἕξις, unjust action dissolves (λύῃ) it; wisdom is ἐπιστήμη governing this, ignorance is δόξα governing its opposite."
+        },
+        {
+          "id": "republic-chapter-04-section-11:s016",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "κατὰ θεόν τινα",
+              "lemma": null,
+              "location": "443c",
+              "context": "κατὰ θεόν τινα εἰς ἀρχήν τε καὶ τύπον τινὰ τῆς δικαιοσύνης κινδυνεύομεν ἐμβεβηκέναι"
+            }
+          ],
+          "observation": "The initial stumbling upon justice is attributed to some god (κατὰ θεόν τινα), and what was found is called an ἀρχή and τύπος of justice."
+        }
+      ]
+    },
+    {
+      "id": "republic-chapter-04-section-12",
+      "title": "Injustice Defined; Virtue as Health; Five Constitutions Announced",
+      "locatorStart": "444a",
+      "locatorEnd": "445e",
+      "signals": [
+        {
+          "id": "republic-chapter-04-section-12:s001",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "στάσιν",
+              "lemma": "στάσις",
+              "location": "444b",
+              "context": "στάσιν τινὰ αὖ τριῶν ὄντων τούτων"
+            },
+            {
+              "form": "πολυπραγμοσύνην",
+              "lemma": "πολυπραγμοσύνη",
+              "location": "444b",
+              "context": null
+            },
+            {
+              "form": "ἀλλοτριοπραγμοσύνην",
+              "lemma": "ἀλλοτριοπραγμοσύνη",
+              "location": "444b",
+              "context": null
+            },
+            {
+              "form": "ἐπανάστασιν",
+              "lemma": "ἐπανάστασις",
+              "location": "444b",
+              "context": "ἐπανάστασιν μέρους τινὸς τῷ ὅλῳ τῆς ψυχῆς"
+            },
+            {
+              "form": "ταραχὴν",
+              "lemma": "ταραχή",
+              "location": "444b",
+              "context": null
+            },
+            {
+              "form": "πλάνην",
+              "lemma": "πλάνη",
+              "location": "444b",
+              "context": null
+            }
+          ],
+          "observation": "Injustice is defined through a dense cluster of disorder-terms: στάσις, πολυπραγμοσύνη, ἀλλοτριοπραγμοσύνη, ἐπανάστασις, ταραχή, πλάνη, all gathered in a single sentence."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s002",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "δουλεύειν",
+              "lemma": "δουλεύω",
+              "location": "444b",
+              "context": "πρέπειν αὐτῷ δουλεύειν"
+            },
+            {
+              "form": "ἀρχικοῦ γένους",
+              "lemma": null,
+              "location": "444b",
+              "context": "τῷ δʼ οὐ δουλεύειν ἀρχικοῦ γένους ὄντι"
+            }
+          ],
+          "observation": "The part whose nature is to be enslaved (δουλεύειν) is contrasted with the part that is of the ruling kind (ἀρχικοῦ γένους), and injustice is the reversal of this relation."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s003",
+          "scan_targets": [],
+          "features": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἀδικίαν",
+              "lemma": "ἀδικία",
+              "location": "444b",
+              "context": null
+            },
+            {
+              "form": "ἀκολασίαν",
+              "lemma": "ἀκολασία",
+              "location": "444b",
+              "context": null
+            },
+            {
+              "form": "δειλίαν",
+              "lemma": "δειλία",
+              "location": "444b",
+              "context": null
+            },
+            {
+              "form": "ἀμαθίαν",
+              "lemma": "ἀμαθία",
+              "location": "444b",
+              "context": null
+            },
+            {
+              "form": "πᾶσαν κακίαν",
+              "lemma": "κακία",
+              "location": "444b",
+              "context": "συλλήβδην πᾶσαν κακίαν"
+            }
+          ],
+          "observation": "Four specific vices are listed then gathered under συλλήβδην πᾶσαν κακίαν."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s004",
+          "scan_targets": [],
+          "features": [
+            "syntactic_parallel",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "κατὰ φύσιν",
+              "lemma": null,
+              "location": "444d",
+              "context": "τὰ ἐν τῷ σώματι κατὰ φύσιν καθιστάναι"
+            },
+            {
+              "form": "παρὰ φύσιν",
+              "lemma": null,
+              "location": "444d",
+              "context": "τὸ δὲ νόσον παρὰ φύσιν ἄρχειν τε καὶ ἄρχεσθαι"
+            }
+          ],
+          "observation": "κατὰ φύσιν and παρὰ φύσιν are set in explicit contrast, first applied to body (health/disease), then repeated for soul (justice/injustice)."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s005",
+          "scan_targets": [],
+          "features": [
+            "syntactic_parallel",
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "κρατεῖν τε καὶ κρατεῖσθαι",
+              "lemma": "κρατέω",
+              "location": "444d",
+              "context": "κατὰ φύσιν καθιστάναι κρατεῖν τε καὶ κρατεῖσθαι ὑπʼ ἀλλήλων"
+            },
+            {
+              "form": "ἄρχειν τε καὶ ἄρχεσθαι",
+              "lemma": "ἄρχω",
+              "location": "444d",
+              "context": "παρὰ φύσιν ἄρχειν τε καὶ ἄρχεσθαι ἄλλο ὑπʼ ἄλλου"
+            }
+          ],
+          "observation": "Health uses κρατεῖν/κρατεῖσθαι with ὑπʼ ἀλλήλων (reciprocal), while disease uses ἄρχειν/ἄρχεσθαι with ἄλλο ὑπʼ ἄλλου (non-reciprocal). The active-passive pair is parallel but the prepositional phrase shifts."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s006",
+          "scan_targets": [],
+          "features": [
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐν σώματι",
+              "lemma": null,
+              "location": "444c",
+              "context": "ὡς ἐκεῖνα ἐν σώματι, ταῦτα ἐν ψυχῇ"
+            },
+            {
+              "form": "ἐν ψυχῇ",
+              "lemma": null,
+              "location": "444c",
+              "context": null
+            }
+          ],
+          "observation": "The body-soul analogy is made explicit: what ὑγιεινά/νοσώδη are ἐν σώματι, δίκαια/ἄδικα are ἐν ψυχῇ."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s007",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ὑγιεινῶν",
+              "lemma": "ὑγιεινός",
+              "location": "444c",
+              "context": null
+            },
+            {
+              "form": "ὑγιεινὰ",
+              "lemma": "ὑγιεινός",
+              "location": "444c",
+              "context": null
+            },
+            {
+              "form": "ὑγίειαν",
+              "lemma": "ὑγίεια",
+              "location": "444c",
+              "context": "ὑγίειαν ἐμποιεῖ"
+            },
+            {
+              "form": "ὑγίειαν",
+              "lemma": "ὑγίεια",
+              "location": "444d",
+              "context": "τὸ μὲν ὑγίειαν ποιεῖν"
+            },
+            {
+              "form": "ὑγίειά",
+              "lemma": "ὑγίεια",
+              "location": "444d",
+              "context": "ὑγίειά τέ τις ἂν εἴη"
+            }
+          ],
+          "observation": "The ὑγίεια/ὑγιεινός family recurs densely across 444c–444e, moving from analogy to identification: virtue is a kind of health of the soul."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s008",
+          "scan_targets": [],
+          "features": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ὑγίειά τέ τις … καὶ κάλλος καὶ εὐεξία ψυχῆς",
+              "lemma": null,
+              "location": "444d-e",
+              "context": null
+            },
+            {
+              "form": "νόσος τε καὶ αἶσχος καὶ ἀσθένεια",
+              "lemma": null,
+              "location": "444e",
+              "context": null
+            }
+          ],
+          "observation": "Virtue and vice each receive a triad of bodily-aesthetic terms: ὑγίεια/κάλλος/εὐεξία vs. νόσος/αἶσχος/ἀσθένεια."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s009",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐμποιεῖ",
+              "lemma": "ἐμποιέω",
+              "location": "444c",
+              "context": "ὑγίειαν ἐμποιεῖ"
+            },
+            {
+              "form": "ἐμποιεῖ",
+              "lemma": "ἐμποιέω",
+              "location": "444c-d",
+              "context": "δικαιοσύνην ἐμποιεῖ"
+            },
+            {
+              "form": "ἐμποιεῖν",
+              "lemma": "ἐμποιέω",
+              "location": "444d",
+              "context": "τὸ δικαιοσύνην ἐμποιεῖν"
+            }
+          ],
+          "observation": "ἐμποιέω recurs as the verb linking practice to produced condition in both health and justice."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s010",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "ἐάντε λανθάνῃ ἐάντε μή",
+              "lemma": "λανθάνω",
+              "location": "445a",
+              "context": "ἐάντε λανθάνῃ ἐάντε μὴ τοιοῦτος ὤν"
+            },
+            {
+              "form": "ἐάνπερ μὴ διδῷ δίκην",
+              "lemma": "δίδωμι",
+              "location": "445a",
+              "context": null
+            }
+          ],
+          "observation": "The remaining question explicitly includes the conditions of escaping notice (λανθάνῃ) and escaping punishment (μὴ διδῷ δίκην)."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s011",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "γελοῖον",
+              "lemma": "γελοῖος",
+              "location": "445a",
+              "context": "γελοῖον ἔμοιγε φαίνεται τὸ σκέμμα"
+            },
+            {
+              "form": "γελοῖον",
+              "lemma": "γελοῖος",
+              "location": "445b",
+              "context": "γελοῖον γάρ, ἦν δʼ ἐγώ"
+            }
+          ],
+          "observation": "Glaucon calls the inquiry γελοῖον and Socrates immediately echoes the word back, conceding and yet continuing."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s012",
+          "scan_targets": [],
+          "features": [
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἀπὸ σκοπιᾶς",
+              "lemma": "σκοπιά",
+              "location": "445c",
+              "context": "ὥσπερ ἀπὸ σκοπιᾶς μοι φαίνεται"
+            },
+            {
+              "form": "ἀναβεβήκαμεν",
+              "lemma": "ἀναβαίνω",
+              "location": "445c",
+              "context": "ἐνταῦθα ἀναβεβήκαμεν τοῦ λόγου"
+            }
+          ],
+          "observation": "Socrates describes the argument as an ascent (ἀναβεβήκαμεν) to a lookout point (σκοπιά) from which one sees."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s013",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "δεῦρό νυν",
+              "lemma": null,
+              "location": "445c",
+              "context": "δεῦρό νυν … ἵνα καὶ ἴδῃς"
+            },
+            {
+              "form": "ἴδῃς",
+              "lemma": "ὁράω",
+              "location": "445c",
+              "context": null
+            },
+            {
+              "form": "θέας",
+              "lemma": "θέα",
+              "location": "445c",
+              "context": "ἅ γε δὴ καὶ ἄξια θέας"
+            },
+            {
+              "form": "ἕπομαι",
+              "lemma": "ἕπομαι",
+              "location": "445c",
+              "context": "ἕπομαι, ἔφη· μόνον λέγε"
+            },
+            {
+              "form": "φαίνεται",
+              "lemma": "φαίνω",
+              "location": "445c",
+              "context": "ἀπὸ σκοπιᾶς μοι φαίνεται"
+            },
+            {
+              "form": "κατιδεῖν",
+              "lemma": "καθοράω",
+              "location": "445b",
+              "context": "σαφέστατα κατιδεῖν"
+            }
+          ],
+          "observation": "A cluster of seeing/showing language accompanies the transition to the five constitutions: ἴδῃς, θέας, φαίνεται, κατιδεῖν, and Glaucon's response ἕπομαι frames him as following to see."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s014",
+          "scan_targets": [],
+          "features": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἓν μὲν εἶναι εἶδος τῆς ἀρετῆς",
+              "lemma": null,
+              "location": "445c",
+              "context": null
+            },
+            {
+              "form": "ἄπειρα δὲ τῆς κακίας",
+              "lemma": "ἄπειρος",
+              "location": "445c",
+              "context": null
+            },
+            {
+              "form": "τέτταρα",
+              "lemma": null,
+              "location": "445c",
+              "context": "τέτταρα δʼ ἐν αὐτοῖς ἄττα"
+            }
+          ],
+          "observation": "Virtue has one εἶδος, vice infinitely many (ἄπειρα), but four among them are singled out as worth remembering (ἄξιον ἐπιμνησθῆναι)."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s015",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "πέντε",
+              "lemma": null,
+              "location": "445d",
+              "context": "πέντε μέν … πολιτειῶν, πέντε δὲ ψυχῆς"
+            },
+            {
+              "form": "βασιλεία",
+              "lemma": "βασιλεία",
+              "location": "445d",
+              "context": null
+            },
+            {
+              "form": "ἀριστοκρατία",
+              "lemma": "ἀριστοκρατία",
+              "location": "445d",
+              "context": null
+            }
+          ],
+          "observation": "Five constitution-types are announced as corresponding to five soul-types; the single good form receives two names depending on whether one or more rulers: βασιλεία or ἀριστοκρατία."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s016",
+          "scan_targets": [],
+          "features": [
+            "other_textual_pattern"
+          ],
+          "elements": [
+            {
+              "form": "τροφῇ τε καὶ παιδείᾳ",
+              "lemma": null,
+              "location": "445e",
+              "context": "τροφῇ τε καὶ παιδείᾳ χρησάμενος ᾗ διήλθομεν"
+            }
+          ],
+          "observation": "The section closes by grounding the good constitution's stability in τροφή and παιδεία as previously discussed (ᾗ διήλθομεν)."
+        },
+        {
+          "id": "republic-chapter-04-section-12:s017",
+          "scan_targets": [],
+          "features": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "διεληλύθαμεν",
+              "lemma": "διέρχομαι",
+              "location": "445b",
+              "context": "οἷα ἡμεῖς διεληλύθαμεν"
+            },
+            {
+              "form": "διήλθομεν",
+              "lemma": "διέρχομαι",
+              "location": "445e",
+              "context": "τροφῇ τε καὶ παιδείᾳ χρησάμενος ᾗ διήλθομεν"
+            }
+          ],
+          "observation": "διέρχομαι appears twice to refer back to what has been discussed, first about justice/injustice, then about education."
+        }
+      ]
+    }
+  ]
+}
