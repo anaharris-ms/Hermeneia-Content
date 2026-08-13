@@ -1,0 +1,515 @@
+{
+  "section_id": "republic-chapter-04-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "436b",
+          "context": "ταὐτὸν τἀναντία ποιεῖν ἢ πάσχειν"
+        },
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "437a",
+          "context": "τἀναντία πάθοι ἢ καὶ εἴη ἢ καὶ ποιήσειεν"
+        },
+        {
+          "form": "τῶν ἐναντίων",
+          "lemma": "ἐναντίος",
+          "location": "437b",
+          "context": "πάντα τὰ τοιαῦτα τῶν ἐναντίων ἀλλήλοις"
+        },
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "437c",
+          "context": "εἰς ἅπαντα τἀναντία ἐκείνοις"
+        },
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "439b",
+          "context": "ἅμʼ ἂν τἀναντία πράττοι"
+        }
+      ],
+      "observation": "Forms of ἐναντίος recur densely across the section, framing the principle at 436b, restated at 437a, applied to pairs at 437b, to desires at 437c, and to soul-conflict at 439b."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἑστάναι",
+          "lemma": "ἵστημι",
+          "location": "436c",
+          "context": "ἑστάναι καὶ κινεῖσθαι τὸ αὐτὸ ἅμα"
+        },
+        {
+          "form": "κινεῖσθαι",
+          "lemma": "κινέω",
+          "location": "436c",
+          "context": "ἑστάναι καὶ κινεῖσθαι τὸ αὐτὸ ἅμα"
+        }
+      ],
+      "observation": "Standing and moving are the first concrete pair of opposites used to illustrate the principle, introduced as a question about simultaneous possibility."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "στρόβιλοι",
+          "lemma": "στρόβιλος",
+          "location": "436d",
+          "context": "οἵ γε στρόβιλοι ὅλοι ἑστᾶσί τε ἅμα καὶ κινοῦνται"
+        },
+        {
+          "form": "κέντρον",
+          "lemma": "κέντρον",
+          "location": "436d",
+          "context": "ἐν τῷ αὐτῷ πήξαντες τὸ κέντρον περιφέρωνται"
+        },
+        {
+          "form": "εὐθύ",
+          "lemma": "εὐθύς",
+          "location": "436e",
+          "context": "ἔχειν αὐτὰ εὐθύ τε καὶ περιφερὲς ἐν αὑτοῖς"
+        },
+        {
+          "form": "περιφερές",
+          "lemma": "περιφερής",
+          "location": "436e",
+          "context": "εὐθύ τε καὶ περιφερὲς ἐν αὑτοῖς"
+        }
+      ],
+      "observation": "The spinning-top example distinguishes the straight (axis) from the circular (circumference) within a single body, resolving apparent contradiction by identifying different aspects."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰς δεξιάν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        },
+        {
+          "form": "εἰς ἀριστεράν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        },
+        {
+          "form": "εἰς τὸ πρόσθεν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        },
+        {
+          "form": "εἰς τὸ ὄπισθεν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        }
+      ],
+      "observation": "Four directional inclinations—right, left, forward, backward—are listed as conditions under which the spinning top can no longer be said to stand still."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐπινεύειν",
+          "lemma": "ἐπινεύω",
+          "location": "437b",
+          "context": "τὸ ἐπινεύειν τῷ ἀνανεύειν"
+        },
+        {
+          "form": "ἀνανεύειν",
+          "lemma": "ἀνανεύω",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "ἐφίεσθαι",
+          "lemma": "ἐφίημι",
+          "location": "437b",
+          "context": "τὸ ἐφίεσθαί τινος λαβεῖν τῷ ἀπαρνεῖσθαι"
+        },
+        {
+          "form": "ἀπαρνεῖσθαι",
+          "lemma": "ἀπαρνέομαι",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "προσάγεσθαι",
+          "lemma": "προσάγω",
+          "location": "437b",
+          "context": "τὸ προσάγεσθαι τῷ ἀπωθεῖσθαι"
+        },
+        {
+          "form": "ἀπωθεῖσθαι",
+          "lemma": "ἀπωθέω",
+          "location": "437b",
+          "context": null
+        }
+      ],
+      "observation": "Three paired opposites—nodding/refusing, reaching/rejecting, drawing-toward/pushing-away—are listed as examples of contrary actions or affections."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποιεῖν ἢ πάσχειν",
+          "lemma": null,
+          "location": "436b",
+          "context": "τἀναντία ποιεῖν ἢ πάσχειν"
+        },
+        {
+          "form": "ποιημάτων εἴτε παθημάτων",
+          "lemma": null,
+          "location": "437b",
+          "context": "τῶν ἐναντίων ἀλλήλοις θείης εἴτε ποιημάτων εἴτε παθημάτων"
+        }
+      ],
+      "observation": "The infinitives ποιεῖν/πάσχειν in the principle's first statement return as the nominals ποιημάτων/παθημάτων when the three opposed pairs are classified."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "διψῆν",
+          "lemma": "διψάω",
+          "location": "437b",
+          "context": "διψῆν καὶ πεινῆν καὶ ὅλως τὰς ἐπιθυμίας"
+        },
+        {
+          "form": "πεινῆν",
+          "lemma": "πεινάω",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "δίψαν",
+          "lemma": "δίψα",
+          "location": "437d",
+          "context": "ἥν τε δίψαν καλοῦμεν καὶ ἣν πεῖναν"
+        },
+        {
+          "form": "πεῖναν",
+          "lemma": "πεῖνα",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "δίψος",
+          "lemma": "δίψος",
+          "location": "439a",
+          "context": "τὸ δὲ δὴ δίψος"
+        },
+        {
+          "form": "πώματος",
+          "lemma": "πῶμα",
+          "location": "439a",
+          "context": "πώματός γε"
+        }
+      ],
+      "observation": "Thirst and hunger recur as the most vivid (ἐναργεστάτας) instances of desire, with thirst becoming the sustained example through 439a where it is paired with its natural object, drink."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐθέλειν",
+          "lemma": "ἐθέλω",
+          "location": "437b",
+          "context": "τὸ ἐθέλειν καὶ τὸ βούλεσθαι"
+        },
+        {
+          "form": "ἀβουλεῖν",
+          "lemma": "ἀβουλέω",
+          "location": "437c",
+          "context": "τὸ ἀβουλεῖν καὶ μὴ ἐθέλειν μηδʼ ἐπιθυμεῖν"
+        }
+      ],
+      "observation": "Willing/wishing are grouped with desire at 437b, then their negations (ἀβουλεῖν, μὴ ἐθέλειν, μηδʼ ἐπιθυμεῖν) are classed with pushing-away and driving-off at 437c."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἀνθέλκει",
+          "lemma": "ἀνθέλκω",
+          "location": "439b",
+          "context": "εἴ ποτέ τι αὐτὴν ἀνθέλκει διψῶσαν"
+        },
+        {
+          "form": "ἄγοντος",
+          "lemma": "ἄγω",
+          "location": "439b",
+          "context": "τοῦ διψῶντος καὶ ἄγοντος ὥσπερ θηρίον ἐπὶ τὸ πιεῖν"
+        }
+      ],
+      "observation": "The thirsting part leads (ἄγοντος) the soul like a beast (θηρίον) toward drink, while something else pulls it back (ἀνθέλκει)—opposed pulling forces within the soul."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "θηρίον",
+          "lemma": "θηρίον",
+          "location": "439b",
+          "context": "ἄγοντος ὥσπερ θηρίον ἐπὶ τὸ πιεῖν"
+        }
+      ],
+      "observation": "The desiring element is compared to a beast (θηρίον) being led to drink—a singular image in the section."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπωθοῦνταί",
+          "lemma": "ἀπωθέω",
+          "location": "439b",
+          "context": "αἱ χεῖρες τὸ τόξον ἀπωθοῦνταί τε καὶ προσέλκονται"
+        },
+        {
+          "form": "προσέλκονται",
+          "lemma": "προσέλκω",
+          "location": "439b",
+          "context": null
+        },
+        {
+          "form": "ἀπωθοῦσα",
+          "lemma": "ἀπωθέω",
+          "location": "439b",
+          "context": "ἄλλη μὲν ἡ ἀπωθοῦσα χείρ"
+        },
+        {
+          "form": "προσαγομένη",
+          "lemma": "προσάγω",
+          "location": "439b",
+          "context": "ἑτέρα δὲ ἡ προσαγομένη"
+        }
+      ],
+      "observation": "The archer analogy assigns pushing-away and drawing-toward to different hands (ἄλλη … ἑτέρα), paralleling the soul's distinct parts."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_contrast",
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "κελεῦον",
+          "lemma": "κελεύω",
+          "location": "439c",
+          "context": "τὸ κελεῦον"
+        },
+        {
+          "form": "κωλῦον",
+          "lemma": "κωλύω",
+          "location": "439c",
+          "context": "τὸ κωλῦον πιεῖν"
+        }
+      ],
+      "observation": "Within the soul of those who thirst but refuse to drink, a commanding element (τὸ κελεῦον) and a preventing element (τὸ κωλῦον) are distinguished as different and the latter masters the former (κρατοῦν τοῦ κελεύοντος)."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐκ λογισμοῦ",
+          "lemma": "λογισμός",
+          "location": "439d",
+          "context": "τὸ μὲν κωλῦον … ἐκ λογισμοῦ"
+        },
+        {
+          "form": "διὰ παθημάτων τε καὶ νοσημάτων",
+          "lemma": null,
+          "location": "439d",
+          "context": "τὰ δὲ ἄγοντα καὶ ἕλκοντα διὰ παθημάτων τε καὶ νοσημάτων"
+        }
+      ],
+      "observation": "The preventing element arises from reasoning (λογισμοῦ); the leading-and-dragging elements arrive through affections and diseases (παθημάτων, νοσημάτων)."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "λογιστικόν",
+          "lemma": "λογιστικός",
+          "location": "439d",
+          "context": "τὸ μὲν ᾧ λογίζεται λογιστικὸν προσαγορεύοντες τῆς ψυχῆς"
+        },
+        {
+          "form": "ἀλόγιστόν τε καὶ ἐπιθυμητικόν",
+          "lemma": null,
+          "location": "439d",
+          "context": "τὸ δὲ ᾧ ἐρᾷ τε καὶ πεινῇ καὶ διψῇ … ἀλόγιστόν τε καὶ ἐπιθυμητικόν"
+        }
+      ],
+      "observation": "The two parts are named: the reasoning part (λογιστικόν) and the irrational-desiring part (ἀλόγιστον καὶ ἐπιθυμητικόν), the latter characterized as companion of fillings and pleasures (πληρώσεών τινων καὶ ἡδονῶν ἑταῖρον)."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "λογισμοῦ",
+          "lemma": "λογισμός",
+          "location": "439d",
+          "context": "ἐκ λογισμοῦ"
+        },
+        {
+          "form": "λογίζεται",
+          "lemma": "λογίζομαι",
+          "location": "439d",
+          "context": "ᾧ λογίζεται"
+        },
+        {
+          "form": "λογιστικόν",
+          "lemma": "λογιστικός",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "ἀλόγιστόν",
+          "lemma": "ἀλόγιστος",
+          "location": "439d",
+          "context": null
+        }
+      ],
+      "observation": "Four members of the λόγος family cluster in 439d: λογισμοῦ, λογίζεται, λογιστικόν, and its privative ἀλόγιστον naming the desiring part."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἑταῖρον",
+          "lemma": "ἑταῖρος",
+          "location": "439d",
+          "context": "πληρώσεών τινων καὶ ἡδονῶν ἑταῖρον"
+        }
+      ],
+      "observation": "The desiring part is called companion (ἑταῖρον) of certain fillings and pleasures—a social/relational term applied to a part of the soul."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ ταὐτόν γε καὶ πρὸς ταὐτόν",
+          "lemma": null,
+          "location": "436b",
+          "context": null
+        },
+        {
+          "form": "κατὰ τὸ αὐτό",
+          "lemma": null,
+          "location": "436c",
+          "context": "τὸ αὐτὸ ἅμα κατὰ τὸ αὐτό"
+        },
+        {
+          "form": "κατὰ τὸ αὐτὸ πρὸς τὸ αὐτό",
+          "lemma": null,
+          "location": "437a",
+          "context": "ἅμα κατὰ τὸ αὐτὸ πρὸς τὸ αὐτὸ τἀναντία"
+        }
+      ],
+      "observation": "The qualifying phrase κατὰ ταὐτόν / πρὸς ταὐτόν is progressively restated and tightened across the section's formulations of the principle."
+    },
+    {
+      "signal_id": "s018",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἔμαθον",
+          "lemma": "μανθάνω",
+          "location": "438e",
+          "context": "ἔμαθον, ἔφη, καί μοι δοκεῖ οὕτως ἔχειν"
+        },
+        {
+          "form": "οὐκ ἔμαθον",
+          "lemma": "μανθάνω",
+          "location": "438b",
+          "context": "οὐκ ἔμαθον, ἔφη"
+        },
+        {
+          "form": "ἔμαθες",
+          "lemma": "μανθάνω",
+          "location": "438b",
+          "context": "οὐκ ἔμαθες … ὅτι τὸ μεῖζον"
+        },
+        {
+          "form": "ἔμαθες",
+          "lemma": "μανθάνω",
+          "location": "438d",
+          "context": "εἰ ἄρα νῦν ἔμαθες"
+        }
+      ],
+      "observation": "Glaucon's οὐκ ἔμαθον prompts Socrates' οὐκ ἔμαθες and a second εἰ ἄρα νῦν ἔμαθες, finally completed by Glaucon's ἔμαθον at 438e—a failure-to-understand resolved within the section."
+    }
+  ]
+}
