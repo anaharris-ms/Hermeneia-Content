@@ -1,0 +1,344 @@
+{
+  "section_id": "republic-chapter-02-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "βοηθῶ",
+          "lemma": "βοηθέω",
+          "location": "368b",
+          "context": "οὔτε γὰρ ὅπως βοηθῶ ἔχω"
+        },
+        {
+          "form": "βοηθήσω",
+          "lemma": "βοηθέω",
+          "location": "368b",
+          "context": "οὔτʼ αὖ ὅπως μὴ βοηθήσω ἔχω"
+        },
+        {
+          "form": "βοηθεῖν",
+          "lemma": "βοηθέω",
+          "location": "368c",
+          "context": "μὴ βοηθεῖν ἔτι ἐμπνέοντα"
+        },
+        {
+          "form": "ἐπικουρεῖν",
+          "lemma": "ἐπικουρέω",
+          "location": "368c",
+          "context": "ὅπως δύναμαι ἐπικουρεῖν αὐτῇ"
+        },
+        {
+          "form": "βοηθῆσαι",
+          "lemma": "βοηθέω",
+          "location": "368c",
+          "context": "ἐδέοντο παντὶ τρόπῳ βοηθῆσαι"
+        }
+      ],
+      "observation": "βοηθέω appears four times in rapid succession framing Socrates' double bind, then ἐπικουρεῖν substitutes as resolution, and βοηθῆσαι returns in the group's request."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "368a",
+          "context": "κλεινοῦ θεῖον γένος ἀνδρός"
+        },
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "368a",
+          "context": "πάνυ γὰρ θεῖον πεπόνθατε"
+        }
+      ],
+      "observation": "θεῖον appears first in the quoted elegiac verse describing Ariston's lineage, then immediately reapplied by Socrates to describe what the brothers have experienced."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πέπεισθε",
+          "lemma": "πείθω",
+          "location": "368a",
+          "context": "εἰ μὴ πέπεισθε ἀδικίαν δικαιοσύνης ἄμεινον"
+        },
+        {
+          "form": "πεπεῖσθαι",
+          "lemma": "πείθω",
+          "location": "368b",
+          "context": "ὡς ἀληθῶς οὐ πεπεῖσθαι"
+        },
+        {
+          "form": "πιστεύω",
+          "lemma": "πιστεύω",
+          "location": "368b",
+          "context": "ὅσῳ δὲ μᾶλλον πιστεύω"
+        }
+      ],
+      "observation": "πέπεισθε is conditionally denied, then πεπεῖσθαι is affirmed as genuinely not the case, and πιστεύω shifts from persuasion about injustice to Socrates' trust in their character."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὀξὺ βλέποντος",
+          "lemma": null,
+          "location": "368c",
+          "context": "ὀξὺ βλέποντος, ὡς ἐμοὶ φαίνεται"
+        },
+        {
+          "form": "ὀξὺ βλέπουσιν",
+          "lemma": null,
+          "location": "368d",
+          "context": "μὴ πάνυ ὀξὺ βλέπουσιν"
+        }
+      ],
+      "observation": "ὀξὺ βλέποντος describes what the inquiry requires; ὀξὺ βλέπουσιν reappears negated to describe those who cannot read small letters."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "local_contrast",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σμικρὰ",
+          "lemma": "σμικρός",
+          "location": "368d",
+          "context": "γράμματα σμικρὰ πόρρωθεν ἀναγνῶναι"
+        },
+        {
+          "form": "μείζω",
+          "lemma": "μέγας",
+          "location": "368d",
+          "context": "τὰ αὐτὰ γράμματα ἔστι που καὶ ἄλλοθι μείζω"
+        },
+        {
+          "form": "μείζονι",
+          "lemma": "μέγας",
+          "location": "368d",
+          "context": "ἐν μείζονι"
+        },
+        {
+          "form": "ἐλάττω",
+          "lemma": "ἐλάττων",
+          "location": "368d",
+          "context": "ἐπισκοπεῖν τὰ ἐλάττω"
+        },
+        {
+          "form": "μεῖζον",
+          "lemma": "μέγας",
+          "location": "368e",
+          "context": "μεῖζον πόλις ἑνὸς ἀνδρός"
+        },
+        {
+          "form": "μείζονι",
+          "lemma": "μέγας",
+          "location": "368e",
+          "context": "πλείων ἂν δικαιοσύνη ἐν τῷ μείζονι"
+        },
+        {
+          "form": "ἐλάττονος",
+          "lemma": "ἐλάττων",
+          "location": "369a",
+          "context": "ἐν τῇ τοῦ ἐλάττονος ἰδέᾳ"
+        }
+      ],
+      "observation": "A sustained contrast between smaller and larger runs from the letters analogy through the city-soul proposal, with μείζω/μεῖζον and ἐλάττω/ἐλάττονος recurring across both applications."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "γράμματα",
+          "lemma": "γράμμα",
+          "location": "368d",
+          "context": "γράμματα σμικρὰ πόρρωθεν ἀναγνῶναι"
+        },
+        {
+          "form": "γράμματα",
+          "lemma": "γράμμα",
+          "location": "368d",
+          "context": "τὰ αὐτὰ γράμματα ἔστι που καὶ ἄλλοθι"
+        }
+      ],
+      "observation": "γράμματα names the object to be read in the analogy; reading letters at different scales is the concrete image for the method proposed."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "θεασαίμεθα",
+          "lemma": "θεάομαι",
+          "location": "369a",
+          "context": "εἰ γιγνομένην πόλιν θεασαίμεθα λόγῳ"
+        },
+        {
+          "form": "ἴδοιμεν",
+          "lemma": "ὁράω",
+          "location": "369a",
+          "context": "τὴν δικαιοσύνην αὐτῆς ἴδοιμεν ἂν γιγνομένην"
+        },
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "369a",
+          "context": "ἐλπὶς εὐπετέστερον ἰδεῖν ὃ ζητοῦμεν"
+        }
+      ],
+      "observation": "θεασαίμεθα proposes watching a city come into being in λόγῳ; ἴδοιμεν and ἰδεῖν then name seeing justice emerge within it, linking vision to the proposed method."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνῃ κακηγορουμένῃ",
+          "lemma": null,
+          "location": "368b",
+          "context": "παραγενόμενον δικαιοσύνῃ κακηγορουμένῃ ἀπαγορεύειν"
+        }
+      ],
+      "observation": "Justice is cast as a person being slandered (κακηγορουμένῃ) in whose presence (παραγενόμενον) one must not give up—personification of δικαιοσύνη as a victim needing defense."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἔτι ἐμπνέοντα καὶ δυνάμενον φθέγγεσθαι",
+          "lemma": null,
+          "location": "368c",
+          "context": null
+        }
+      ],
+      "observation": "Socrates describes his obligation in bodily terms: still breathing (ἐμπνέοντα) and able to utter sound (φθέγγεσθαι), marking physical life as the condition for assisting justice."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατος",
+          "lemma": "ἀδύνατος",
+          "location": "368b",
+          "context": "δοκῶ γάρ μοι ἀδύνατος εἶναι"
+        },
+        {
+          "form": "οὐκ ὀλίγον ἔργον",
+          "lemma": null,
+          "location": "369b",
+          "context": "οἶμαι μὲν γὰρ οὐκ ὀλίγον ἔργον αὐτὸ εἶναι"
+        }
+      ],
+      "observation": "Socrates first declares himself unable (ἀδύνατος), then at the end acknowledges the task is no small work (οὐκ ὀλίγον ἔργον), yet proceeds anyway."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "παῖδες",
+          "lemma": "παῖς",
+          "location": "368a",
+          "context": "ὦ παῖδες ἐκείνου τοῦ ἀνδρός"
+        },
+        {
+          "form": "παῖδες Ἀρίστωνος",
+          "lemma": "παῖς",
+          "location": "368a",
+          "context": "παῖδες Ἀρίστωνος, κλεινοῦ θεῖον γένος ἀνδρός"
+        }
+      ],
+      "observation": "Socrates addresses the brothers as παῖδες and then quotes the elegiac verse which also opens with παῖδες Ἀρίστωνος, doubling the filial designation."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὁμοιότητα",
+          "lemma": "ὁμοιότης",
+          "location": "369a",
+          "context": "τὴν τοῦ μείζονος ὁμοιότητα ἐν τῇ τοῦ ἐλάττονος ἰδέᾳ ἐπισκοποῦντες"
+        }
+      ],
+      "observation": "ὁμοιότητα names the structural likeness between the larger (city) and smaller (soul) that grounds the proposed method; ἰδέᾳ names the form in which one inspects it."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "γιγνομένην πόλιν",
+          "lemma": null,
+          "location": "369a",
+          "context": "γιγνομένην πόλιν θεασαίμεθα λόγῳ"
+        },
+        {
+          "form": "γιγνομένην",
+          "lemma": "γίγνομαι",
+          "location": "369a",
+          "context": "τὴν δικαιοσύνην αὐτῆς ἴδοιμεν ἂν γιγνομένην"
+        },
+        {
+          "form": "γενομένου",
+          "lemma": "γίγνομαι",
+          "location": "369a",
+          "context": "γενομένου αὐτοῦ ἐλπὶς εὐπετέστερον ἰδεῖν"
+        }
+      ],
+      "observation": "γίγνομαι appears three times in quick succession: the city coming-into-being, justice coming-into-being within it, and the completed coming-into-being making sight easier."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἔσκεπται",
+          "lemma": "σκοπέω",
+          "location": "369b",
+          "context": "ἔσκεπται, ἔφη ὁ Ἀδείμαντος· ἀλλὰ μὴ ἄλλως ποίει"
+        }
+      ],
+      "observation": "Adeimantus answers with a perfect passive (ἔσκεπται—'it has been considered') and a command not to do otherwise, closing deliberation and compelling Socrates forward."
+    }
+  ]
+}
