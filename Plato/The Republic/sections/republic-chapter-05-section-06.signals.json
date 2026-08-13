@@ -1,0 +1,443 @@
+{
+  "section_id": "republic-chapter-05-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κύνας θηρευτικοὺς",
+          "lemma": null,
+          "location": "459a",
+          "context": null
+        },
+        {
+          "form": "ὀρνίθων",
+          "lemma": "ὄρνις",
+          "location": "459a",
+          "context": "τῶν γενναίων ὀρνίθων"
+        },
+        {
+          "form": "ἵππων",
+          "lemma": "ἵππος",
+          "location": "459b",
+          "context": null
+        },
+        {
+          "form": "ζῴων",
+          "lemma": "ζῷον",
+          "location": "459b",
+          "context": "τῶν ἄλλων ζῴων"
+        },
+        {
+          "form": "ποίμνιον",
+          "lemma": "ποίμνιον",
+          "location": "459e",
+          "context": null
+        },
+        {
+          "form": "ἀγέλη",
+          "lemma": "ἀγέλη",
+          "location": "459e",
+          "context": "ἡ ἀγέλη τῶν φυλάκων"
+        }
+      ],
+      "observation": "A sequence of animal terms—dogs, birds, horses, general animals—gives way to flock (ποίμνιον) and herd (ἀγέλη) applied to the guardians themselves."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γάμοις",
+          "lemma": "γάμος",
+          "location": "459a",
+          "context": "τοῖς τούτων γάμοις τε καὶ παιδοποιίᾳ"
+        },
+        {
+          "form": "γάμοις",
+          "lemma": "γάμος",
+          "location": "459d",
+          "context": "ἐν τοῖς γάμοις τοίνυν καὶ παιδοποιίαις"
+        },
+        {
+          "form": "γάμοις",
+          "lemma": "γάμος",
+          "location": "460a",
+          "context": "τοῖς γιγνομένοις γάμοις"
+        },
+        {
+          "form": "γάμων",
+          "lemma": "γάμος",
+          "location": "460a",
+          "context": "τὸ δὲ πλῆθος τῶν γάμων"
+        }
+      ],
+      "observation": "γάμος recurs, first paired with παιδοποιία in the context of animals, then transferred to the human city's managed marriages."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γενναίων",
+          "lemma": "γενναῖος",
+          "location": "459a",
+          "context": "τῶν γενναίων ὀρνίθων"
+        },
+        {
+          "form": "γενναίων",
+          "lemma": "γενναῖος",
+          "location": "459a",
+          "context": "καίπερ ὄντων γενναίων"
+        },
+        {
+          "form": "γεννᾷς",
+          "lemma": "γεννάω",
+          "location": "459a",
+          "context": null
+        },
+        {
+          "form": "γεννᾶται",
+          "lemma": "γεννάω",
+          "location": "459b",
+          "context": null
+        }
+      ],
+      "observation": "γενναῖος (noble-bred) and γεννάω (to beget) share a root and appear in close proximity, linking nobility of stock to the act of breeding."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀρίστοι",
+          "lemma": "ἄριστος",
+          "location": "459a",
+          "context": null
+        },
+        {
+          "form": "ἐκ τῶν ἀρίστων",
+          "lemma": "ἄριστος",
+          "location": "459a",
+          "context": null
+        },
+        {
+          "form": "τοὺς ἀρίστους ταῖς ἀρίσταις",
+          "lemma": "ἄριστος",
+          "location": "459d",
+          "context": null
+        }
+      ],
+      "observation": "ἄριστος recurs from the animal analogy into the human breeding prescription, each time in a superlative selecting the best for pairing."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φαρμάκοις",
+          "lemma": "φάρμακον",
+          "location": "459c",
+          "context": "φαρμάκοις πολλοῖς χρῆσθαι"
+        },
+        {
+          "form": "φαρμάκων",
+          "lemma": "φάρμακον",
+          "location": "459c",
+          "context": "μὴ δεομένοις μὲν σώμασι φαρμάκων"
+        },
+        {
+          "form": "φαρμακεύειν",
+          "lemma": "φαρμακεύω",
+          "location": "459c",
+          "context": null
+        },
+        {
+          "form": "φαρμάκου εἴδει",
+          "lemma": "φάρμακον",
+          "location": "459d",
+          "context": "ἐν φαρμάκου εἴδει"
+        },
+        {
+          "form": "ψεύδει καὶ τῇ ἀπάτῃ",
+          "lemma": null,
+          "location": "459c",
+          "context": null
+        }
+      ],
+      "observation": "φάρμακον appears densely, bridging a medical analogy to the identification of lying and deception (ψεῦδος, ἀπάτη) as the rulers' medicine."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τοὺς ἀρίστους ταῖς ἀρίσταις",
+          "lemma": "ἄριστος",
+          "location": "459d",
+          "context": null
+        },
+        {
+          "form": "τοὺς δὲ φαυλοτάτους ταῖς φαυλοτάταις",
+          "lemma": "φαῦλος",
+          "location": "459d",
+          "context": null
+        }
+      ],
+      "observation": "Best-with-best and worst-with-worst are set in explicit antithesis (τοὐναντίον), with contrasting superlatives."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνειν",
+          "lemma": "λανθάνω",
+          "location": "459e",
+          "context": "ταῦτα πάντα γιγνόμενα λανθάνειν πλὴν αὐτοὺς τοὺς ἄρχοντας"
+        },
+        {
+          "form": "κλῆροι δή τινες οἶμαι ποιητέοι κομψοί",
+          "lemma": null,
+          "location": "460a",
+          "context": null
+        },
+        {
+          "form": "τύχην ἀλλὰ μὴ τοὺς ἄρχοντας",
+          "lemma": null,
+          "location": "460a",
+          "context": null
+        }
+      ],
+      "observation": "The concealment requirement (λανθάνειν) is immediately realized in a concrete mechanism: rigged lots (κλῆροι κομψοί) that redirect blame from rulers to chance (τύχη)."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σηκὸν",
+          "lemma": "σηκός",
+          "location": "460c",
+          "context": "εἰς τὸν σηκὸν οἴσουσιν"
+        },
+        {
+          "form": "χωρὶς οἰκούσας ἔν τινι μέρει τῆς πόλεως",
+          "lemma": null,
+          "location": "460c",
+          "context": null
+        },
+        {
+          "form": "ἐν ἀπορρήτῳ τε καὶ ἀδήλῳ",
+          "lemma": null,
+          "location": "460c",
+          "context": "ἐν ἀπορρήτῳ τε καὶ ἀδήλῳ κατακρύψουσιν"
+        }
+      ],
+      "observation": "Two distinct spatial destinations: offspring of the good are carried to the σηκός among nurses dwelling apart; offspring of the inferior are hidden in a secret, unseen place (ἀπόρρητον, ἄδηλον)."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "μηδεμία τὸ αὑτῆς αἰσθήσεται",
+          "lemma": null,
+          "location": "460d",
+          "context": "πᾶσαν μηχανὴν μηχανώμενοι ὅπως μηδεμία τὸ αὑτῆς αἰσθήσεται"
+        }
+      ],
+      "observation": "The mothers are to be prevented from recognizing (αἰσθάνομαι) their own children, achieved through every contrivance (πᾶσαν μηχανὴν μηχανώμενοι)—a figura etymologica intensifying the effort of concealment."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξ ἀκμαζόντων",
+          "lemma": "ἀκμάζω",
+          "location": "459b",
+          "context": null
+        },
+        {
+          "form": "ἐξ ἀκμαζόντων",
+          "lemma": "ἀκμάζω",
+          "location": "460d",
+          "context": "ἐξ ἀκμαζόντων δεῖν τὰ ἔκγονα γίγνεσθαι"
+        }
+      ],
+      "observation": "ἐξ ἀκμαζόντων appears first as Glaucon's answer about animal breeding and returns as a restated principle for human offspring at the section's close."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φαυλότερον",
+          "lemma": "φαῦλος",
+          "location": "459c",
+          "context": "καὶ φαυλότερον ἐξαρκεῖν ἡγούμεθα εἶναι"
+        },
+        {
+          "form": "ἀνδρειοτέρου",
+          "lemma": "ἀνδρεῖος",
+          "location": "459c",
+          "context": "ἀνδρειοτέρου δεῖ τοῦ ἰατροῦ"
+        }
+      ],
+      "observation": "Within the medical analogy, a lesser (φαυλότερον) doctor suffices for diet, but drugging requires a braver (ἀνδρειοτέρου) one—comparative forms in contrast."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἑορταί",
+          "lemma": "ἑορτή",
+          "location": "459e",
+          "context": null
+        },
+        {
+          "form": "θυσίαι",
+          "lemma": "θυσία",
+          "location": "459e",
+          "context": null
+        },
+        {
+          "form": "ὕμνοι",
+          "lemma": "ὕμνος",
+          "location": "459e",
+          "context": null
+        },
+        {
+          "form": "νύμφας",
+          "lemma": "νύμφη",
+          "location": "459e",
+          "context": null
+        },
+        {
+          "form": "νυμφίους",
+          "lemma": "νυμφίος",
+          "location": "459e",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of ritual vocabulary—festivals, sacrifices, hymns, brides, bridegrooms—describes the institutional apparatus surrounding the managed marriages."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔκγονα",
+          "lemma": "ἔκγονον",
+          "location": "459d",
+          "context": "τῶν μὲν τὰ ἔκγονα τρέφειν"
+        },
+        {
+          "form": "ἔκγονα",
+          "lemma": "ἔκγονον",
+          "location": "460b",
+          "context": "τὰ ἀεὶ γιγνόμενα ἔκγονα"
+        },
+        {
+          "form": "ἔκγονα",
+          "lemma": "ἔκγονον",
+          "location": "460d",
+          "context": "τὰ ἔκγονα γίγνεσθαι"
+        }
+      ],
+      "observation": "ἔκγονα recurs three times, each time as the object of a different verb or governing structure: rearing, receiving by officials, and being born from those in their prime."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἄκρων",
+          "lemma": "ἄκρος",
+          "location": "459b",
+          "context": "ἄκρων εἶναι τῶν ἀρχόντων"
+        },
+        {
+          "form": "ἀκρότατον",
+          "lemma": "ἄκρος",
+          "location": "459e",
+          "context": "τὸ ποίμνιον ὅτι ἀκρότατον εἶναι"
+        }
+      ],
+      "observation": "ἄκρος appears first for the rulers who must be top-quality, then in superlative for the flock they are to produce."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τροφοὺς",
+          "lemma": "τροφός",
+          "location": "460c",
+          "context": "παρά τινας τροφοὺς χωρὶς οἰκούσας"
+        },
+        {
+          "form": "τροφῆς",
+          "lemma": "τροφή",
+          "location": "460c",
+          "context": null
+        },
+        {
+          "form": "τίτθαις τε καὶ τροφοῖς",
+          "lemma": "τροφός",
+          "location": "460d",
+          "context": null
+        },
+        {
+          "form": "θηλάσονται",
+          "lemma": "θηλάζω",
+          "location": "460d",
+          "context": null
+        },
+        {
+          "form": "γάλα ἐχούσας",
+          "lemma": null,
+          "location": "460d",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of nursing and nourishment vocabulary: nurses, nursing, wet-nurses, suckling, milk-bearing women."
+    }
+  ]
+}

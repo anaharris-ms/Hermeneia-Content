@@ -1,0 +1,294 @@
+{
+  "section_id": "republic-chapter-05-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "διασπᾷ",
+          "lemma": "διασπάω",
+          "location": "462b",
+          "context": "ὃ ἂν αὐτὴν διασπᾷ καὶ ποιῇ πολλὰς ἀντὶ μιᾶς"
+        },
+        {
+          "form": "συνδῇ",
+          "lemma": "συνδέω",
+          "location": "462b",
+          "context": "ὃ ἂν συνδῇ τε καὶ ποιῇ μίαν"
+        }
+      ],
+      "observation": "διασπᾷ (tearing apart, making many from one) is set against συνδῇ (binding together, making one) as greatest κακόν versus greatest ἀγαθόν."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "462b",
+          "context": "ἡ μὲν ἡδονῆς τε καὶ λύπης κοινωνία συνδεῖ"
+        },
+        {
+          "form": "ἰδίωσις",
+          "lemma": "ἰδίωσις",
+          "location": "462b",
+          "context": "ἡ δέ γε τῶν τοιούτων ἰδίωσις διαλύει"
+        }
+      ],
+      "observation": "κοινωνία binds while ἰδίωσις dissolves; the two are directly contrasted as operations on the city."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συνδῇ",
+          "lemma": "συνδέω",
+          "location": "462b",
+          "context": "ὃ ἂν συνδῇ τε καὶ ποιῇ μίαν"
+        },
+        {
+          "form": "συνδεῖ",
+          "lemma": "συνδέω",
+          "location": "462b",
+          "context": "ἡδονῆς τε καὶ λύπης κοινωνία συνδεῖ"
+        }
+      ],
+      "observation": "συνδέω first appears as the abstract greatest good, then returns specifying that κοινωνία of pleasure and pain is what binds."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "exact_repetition",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἐμὸν",
+          "lemma": null,
+          "location": "462c",
+          "context": "τό τε ἐμὸν καὶ τὸ οὐκ ἐμόν"
+        },
+        {
+          "form": "τὸ οὐκ ἐμόν",
+          "lemma": null,
+          "location": "462c",
+          "context": null
+        },
+        {
+          "form": "τοῦ ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "462c",
+          "context": "περὶ τοῦ ἀλλοτρίου κατὰ ταὐτά"
+        }
+      ],
+      "observation": "The phrases τὸ ἐμόν and τὸ οὐκ ἐμόν are presented as utterances (ῥήματα) whose simultaneous voicing or failure to coincide determines unity or dissolution; τὸ ἀλλότριον is grouped with them."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "δάκτυλός",
+          "lemma": "δάκτυλος",
+          "location": "462c",
+          "context": "ὅταν που ἡμῶν δάκτυλός του πληγῇ"
+        },
+        {
+          "form": "κοινωνία ἡ κατὰ τὸ σῶμα πρὸς τὴν ψυχὴν",
+          "lemma": null,
+          "location": "462c",
+          "context": "πᾶσα ἡ κοινωνία ἡ κατὰ τὸ σῶμα πρὸς τὴν ψυχὴν τεταμένη εἰς μίαν σύνταξιν"
+        }
+      ],
+      "observation": "The struck finger analogy introduces body-soul κοινωνία stretched (τεταμένη) into a single σύνταξις under τοῦ ἄρχοντος, applying the political vocabulary of ruling and unity to a single human body."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "συνήλγησεν",
+          "lemma": "συναλγέω",
+          "location": "462d",
+          "context": "πᾶσα ἅμα συνήλγησεν μέρους πονήσαντος ὅλη"
+        },
+        {
+          "form": "συνησθήσεται",
+          "lemma": "συνήδομαι",
+          "location": "462e",
+          "context": "ἢ συνησθήσεται ἅπασα ἢ συλλυπήσεται"
+        },
+        {
+          "form": "συλλυπήσεται",
+          "lemma": "συλλυπέομαι",
+          "location": "462e",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of συν- compounds for shared feeling: συναλγέω in the body analogy, then συνήδομαι and συλλυπέομαι applied to the city."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "περιαλγεῖς",
+          "lemma": "περιαλγής",
+          "location": "462b",
+          "context": "οἱ μὲν περιαλγεῖς, οἱ δὲ περιχαρεῖς γίγνωνται"
+        },
+        {
+          "form": "περιχαρεῖς",
+          "lemma": "περιχαρής",
+          "location": "462b",
+          "context": null
+        }
+      ],
+      "observation": "περιαλγεῖς and περιχαρεῖς appear as a split pair—citizens experiencing opposite extremes over the same events, characterizing ἰδίωσις."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μιᾶς",
+          "lemma": "εἷς",
+          "location": "462b",
+          "context": "ποιῇ πολλὰς ἀντὶ μιᾶς"
+        },
+        {
+          "form": "μίαν",
+          "lemma": "εἷς",
+          "location": "462b",
+          "context": "ποιῇ μίαν"
+        },
+        {
+          "form": "ἑνὸς ἀνθρώπου",
+          "lemma": "εἷς",
+          "location": "462c",
+          "context": "ἐγγύτατα ἑνὸς ἀνθρώπου"
+        },
+        {
+          "form": "ἑνὸς",
+          "lemma": "εἷς",
+          "location": "462d",
+          "context": "ἑνὸς δὴ οἶμαι πάσχοντος τῶν πολιτῶν"
+        }
+      ],
+      "observation": "Forms of εἷς recur densely: the city made one, the city nearest to one human being, one citizen's suffering shared by all."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἴχνος",
+          "lemma": "ἴχνος",
+          "location": "462a",
+          "context": "εἰς μὲν τὸ τοῦ ἀγαθοῦ ἴχνος ἡμῖν ἁρμόττει"
+        }
+      ],
+      "observation": "ἴχνος (track/trace) describes what the proposed arrangements fit into—the trace of the good—paired with ἁρμόττει/ἀναρμοστεῖ for fitting and not fitting."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐπανιέναι",
+          "lemma": "ἐπάνειμι",
+          "location": "462e",
+          "context": "ὥρα ἂν εἴη ἐπανιέναι ἡμῖν ἐπὶ τὴν ἡμετέραν πόλιν"
+        }
+      ],
+      "observation": "ἐπανιέναι marks a return upward/back to 'our city' to test the argument's agreements there."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἁρμόττει",
+          "lemma": "ἁρμόττω",
+          "location": "462a",
+          "context": "εἰς μὲν τὸ τοῦ ἀγαθοῦ ἴχνος ἡμῖν ἁρμόττει"
+        },
+        {
+          "form": "ἀναρμοστεῖ",
+          "lemma": "ἀναρμοστέω",
+          "location": "462a",
+          "context": "τῷ δὲ τοῦ κακοῦ ἀναρμοστεῖ"
+        }
+      ],
+      "observation": "ἁρμόττει and ἀναρμοστεῖ form a fitting/unfitting pair applied to the trace of good and evil respectively."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "φθέγγωνται",
+          "lemma": "φθέγγομαι",
+          "location": "462c",
+          "context": "ὅταν μὴ ἅμα φθέγγωνται ἐν τῇ πόλει τὰ τοιάδε ῥήματα"
+        },
+        {
+          "form": "ῥήματα",
+          "lemma": "ῥῆμα",
+          "location": "462c",
+          "context": null
+        }
+      ],
+      "observation": "Dissolution is diagnosed through failure of simultaneous utterance (ἅμα φθέγγωνται) of the same ῥήματα—unity is cast as a vocal/linguistic phenomenon."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "μέρους πονήσαντος",
+          "lemma": null,
+          "location": "462d",
+          "context": "πᾶσα ἅμα συνήλγησεν μέρους πονήσαντος ὅλη"
+        },
+        {
+          "form": "ἑνὸς … πάσχοντος τῶν πολιτῶν",
+          "lemma": null,
+          "location": "462d",
+          "context": "ἑνὸς δὴ οἶμαι πάσχοντος τῶν πολιτῶν ὁτιοῦν"
+        }
+      ],
+      "observation": "The suffering part (μέρος) of the body corresponds to the single suffering citizen (ἑνός τῶν πολιτῶν), with the whole (ὅλη/ἅπασα) responding in each case."
+    }
+  ]
+}

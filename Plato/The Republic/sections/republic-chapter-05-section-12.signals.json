@@ -1,0 +1,375 @@
+{
+  "section_id": "republic-chapter-05-section-12",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "lemma_recurrence",
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "στεφανωθῆναι",
+          "lemma": "στεφανόω",
+          "location": "468b",
+          "context": "χρῆναι στεφανωθῆναι"
+        },
+        {
+          "form": "δεξιωθῆναι",
+          "lemma": "δεξιόομαι",
+          "location": "468b",
+          "context": null
+        },
+        {
+          "form": "φιλῆσαί τε καὶ φιληθῆναι",
+          "lemma": "φιλέω",
+          "location": "468b",
+          "context": "τὸ φιλῆσαί τε καὶ φιληθῆναι ὑπὸ ἑκάστου"
+        }
+      ],
+      "observation": "Three honors for the brave warrior are proposed in ascending sequence: crowning, clasping the hand, kissing. All three are aorist passive infinitives. The third is presented as if it will be refused but is accepted most of all."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οὐκέτι σοι δοκεῖ",
+          "lemma": null,
+          "location": "468b",
+          "context": "ἀλλὰ τόδʼ οἶμαι … οὐκέτι σοι δοκεῖ"
+        },
+        {
+          "form": "πάντων … μάλιστα",
+          "lemma": null,
+          "location": "468b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates introduces kissing as something the interlocutor will not accept; the response is the strongest affirmation in the sequence."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "εὐδοκιμήσαντα",
+          "lemma": "εὐδοκιμέω",
+          "location": "468b",
+          "context": "τὸν δὲ ἀριστεύσαντά τε καὶ εὐδοκιμήσαντα"
+        },
+        {
+          "form": "εὐδοκιμήσαντα",
+          "lemma": "εὐδοκιμέω",
+          "location": "468d",
+          "context": "τὸν εὐδοκιμήσαντα ἐν τῷ πολέμῳ"
+        },
+        {
+          "form": "εὐδοκιμήσας",
+          "lemma": "εὐδοκιμέω",
+          "location": "468e",
+          "context": "ὃς ἂν εὐδοκιμήσας τελευτήσῃ"
+        }
+      ],
+      "observation": "εὐδοκιμέω appears three times: first of the living brave warrior, then in Homer's precedent, then of the warrior who dies — shifting from living honor to posthumous status."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πεισόμεθα",
+          "lemma": "πείθω",
+          "location": "468d",
+          "context": "πεισόμεθα ἄρα … Ὁμήρῳ"
+        },
+        {
+          "form": "πεισόμεθα",
+          "lemma": "πείθω",
+          "location": "468e",
+          "context": "οὐ πεισόμεθα Ἡσιόδῳ"
+        },
+        {
+          "form": "πεισόμεθα μὲν οὖν",
+          "lemma": "πείθω",
+          "location": "469a",
+          "context": null
+        }
+      ],
+      "observation": "πεισόμεθα appears three times: first affirming obedience to Homer, then negating obedience to Hesiod (οὐ πεισόμεθα), then the interlocutor corrects by affirming they will indeed obey Hesiod."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐρῶν",
+          "lemma": "ἐράω",
+          "location": "468c",
+          "context": "ἐάν τίς του τύχῃ ἐρῶν"
+        },
+        {
+          "form": "ἄρρενος ἢ θηλείας",
+          "lemma": null,
+          "location": "468c",
+          "context": null
+        },
+        {
+          "form": "φιλεῖν",
+          "lemma": "φιλέω",
+          "location": "468c",
+          "context": "μηδενὶ ἐξεῖναι ἀπαρνηθῆναι ὃν ἂν βούληται φιλεῖν"
+        }
+      ],
+      "observation": "The law forbidding refusal of a kiss is explicitly extended to erotic desire for either sex, linking military valor directly to erotic reward."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γάμοι",
+          "lemma": "γάμος",
+          "location": "468c",
+          "context": "γάμοι τε ἕτοιμοι πλείους"
+        },
+        {
+          "form": "αἱρέσεις τῶν τοιούτων",
+          "lemma": "αἵρεσις",
+          "location": "468c",
+          "context": null
+        },
+        {
+          "form": "πλεῖστοι … γίγνωνται",
+          "lemma": "γίγνομαι",
+          "location": "468c",
+          "context": "ἵνʼ ὅτι πλεῖστοι ἐκ τοῦ τοιούτου γίγνωνται"
+        }
+      ],
+      "observation": "Marriages and more frequent selection for the brave man are tied to maximizing offspring from such a person; this is marked as already stated (εἴρηται ἤδη)."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "Ὅμηρον",
+          "lemma": null,
+          "location": "468c",
+          "context": "καθʼ Ὅμηρον"
+        },
+        {
+          "form": "Ὅμηρος",
+          "lemma": null,
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "Ὁμήρῳ",
+          "lemma": null,
+          "location": "468d",
+          "context": "πεισόμεθα … Ὁμήρῳ"
+        },
+        {
+          "form": "Ἡσιόδῳ",
+          "lemma": null,
+          "location": "468e",
+          "context": "οὐ πεισόμεθα Ἡσιόδῳ"
+        }
+      ],
+      "observation": "Homer is invoked three times as authority for honoring the brave living; Hesiod then enters as authority for the brave dead, initially framed with negation."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "τιμᾶν",
+          "lemma": "τιμάω",
+          "location": "468c",
+          "context": "δίκαιον τιμᾶν τῶν νέων"
+        },
+        {
+          "form": "τιμὴν",
+          "lemma": "τιμή",
+          "location": "468d",
+          "context": "ταύτην οἰκείαν οὖσαν τιμὴν"
+        },
+        {
+          "form": "τιμᾶσθαι",
+          "lemma": "τιμάω",
+          "location": "468d",
+          "context": "ἅμα τῷ τιμᾶσθαι καὶ τὴν ἰσχὺν αὐξήσει"
+        },
+        {
+          "form": "τιμήσομεν",
+          "lemma": "τιμάω",
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "τιμᾶν",
+          "lemma": "τιμάω",
+          "location": "468e",
+          "context": "ἅμα τῷ τιμᾶν ἀσκῶμεν"
+        }
+      ],
+      "observation": "The τιμ- family is densely concentrated, appearing five times across 468c–e, linking honor to physical strengthening (ἰσχὺν αὐξήσει) and training (ἀσκῶμεν)."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐπὶ στρατιᾶς",
+          "lemma": "στρατιά",
+          "location": "468b",
+          "context": "ἐπὶ στρατιᾶς ὑπὸ τῶν συστρατευομένων"
+        },
+        {
+          "form": "ἐπὶ στρατιᾶς",
+          "lemma": "στρατιά",
+          "location": "468e",
+          "context": "τῶν δὲ δὴ ἀποθανόντων ἐπὶ στρατιᾶς"
+        }
+      ],
+      "observation": "ἐπὶ στρατιᾶς frames both the living brave (crowned and kissed) and the dead brave (assigned to the golden race), marking a transition from living honors to posthumous status."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χρυσοῦ γένους",
+          "lemma": null,
+          "location": "468e",
+          "context": "τοῦ χρυσοῦ γένους εἶναι"
+        },
+        {
+          "form": "δαίμονες ἁγνοὶ ἐπιχθόνιοι",
+          "lemma": null,
+          "location": "469a",
+          "context": null
+        },
+        {
+          "form": "φύλακες μερόπων ἀνθρώπων",
+          "lemma": "φύλαξ",
+          "location": "469a",
+          "context": null
+        }
+      ],
+      "observation": "The Hesiodic quotation identifies the golden race dead as holy daimones and guardians of mortals; φύλακες is applied to these posthumous figures."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "διαπυθόμενοι … τοῦ θεοῦ",
+          "lemma": "διαπυνθάνομαι",
+          "location": "469a",
+          "context": "διαπυθόμενοι ἄρα τοῦ θεοῦ πῶς χρὴ … τιθέναι"
+        },
+        {
+          "form": "ἐξηγῆται",
+          "lemma": "ἐξηγέομαι",
+          "location": "469a",
+          "context": "ᾗ ἂν ἐξηγῆται"
+        }
+      ],
+      "observation": "Burial practice for the heroic dead is deferred to the god's direction — the god will prescribe (ἐξηγῆται) how to bury the daimonic and divine."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "semantic_cluster",
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "θεραπεύσομέν",
+          "lemma": "θεραπεύω",
+          "location": "469a",
+          "context": "ὡς δαιμόνων, οὕτω θεραπεύσομέν"
+        },
+        {
+          "form": "προσκυνήσομεν",
+          "lemma": "προσκυνέω",
+          "location": "469b",
+          "context": "προσκυνήσομεν αὐτῶν τὰς θήκας"
+        }
+      ],
+      "observation": "The dead warriors' tombs (θήκας) will receive ongoing cult: θεραπεύω and προσκυνέω together describe worship directed at graves."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τελευτήσῃ",
+          "lemma": "τελευτάω",
+          "location": "468e",
+          "context": "ὃς ἂν εὐδοκιμήσας τελευτήσῃ"
+        },
+        {
+          "form": "τελευτήσωσιν",
+          "lemma": "τελευτάω",
+          "location": "468e",
+          "context": "ἐπειδάν τινες τοῦ τοιούτου γένους τελευτήσωσιν"
+        },
+        {
+          "form": "τελευτήσῃ",
+          "lemma": "τελευτάω",
+          "location": "469b",
+          "context": "ὅταν τις γήρᾳ ἤ τινι ἄλλῳ τρόπῳ τελευτήσῃ"
+        }
+      ],
+      "observation": "τελευτάω appears three times: first for death in battle with glory, then in the Hesiodic formula, then extended to those who die by old age or other means if judged outstanding in life."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρας τε καὶ γυναῖκας",
+          "lemma": null,
+          "location": "468e",
+          "context": "τοὺς ἀγαθοὺς ἄνδρας τε καὶ γυναῖκας"
+        },
+        {
+          "form": "ἄρρενος ἢ θηλείας",
+          "lemma": null,
+          "location": "468c",
+          "context": null
+        }
+      ],
+      "observation": "Both male and female are explicitly included: first as objects of eros (ἄρρενος ἢ θηλείας), then as recipients of honor (ἄνδρας τε καὶ γυναῖκας)."
+    }
+  ]
+}

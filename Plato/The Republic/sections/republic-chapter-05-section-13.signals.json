@@ -1,0 +1,423 @@
+{
+  "section_id": "republic-chapter-05-section-13",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "πόλεμος",
+          "lemma": "πόλεμος",
+          "location": "470b",
+          "context": null
+        },
+        {
+          "form": "στάσις",
+          "lemma": "στάσις",
+          "location": "470b",
+          "context": "ἐπὶ μὲν οὖν τῇ τοῦ οἰκείου ἔχθρᾳ στάσις κέκληται, ἐπὶ δὲ τῇ τοῦ ἀλλοτρίου πόλεμος"
+        }
+      ],
+      "observation": "πόλεμος and στάσις are explicitly distinguished as two names for two kinds of enmity: στάσις for conflict among οἰκεῖον/συγγενές, πόλεμος for conflict with ἀλλότριον/ὀθνεῖον."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκεῖον",
+          "lemma": "οἰκεῖος",
+          "location": "470b",
+          "context": "τὸ μὲν οἰκεῖον καὶ συγγενές"
+        },
+        {
+          "form": "ἀλλότριον",
+          "lemma": "ἀλλότριος",
+          "location": "470b",
+          "context": "τὸ δὲ ἀλλότριον καὶ ὀθνεῖον"
+        },
+        {
+          "form": "οἰκείους",
+          "lemma": "οἰκεῖος",
+          "location": "471a",
+          "context": "τὴν πρὸς τοὺς Ἕλληνας διαφοράν, ὡς οἰκείους, στάσιν ἡγήσονται"
+        }
+      ],
+      "observation": "οἰκεῖος/ἀλλότριος pairing is introduced as a definitional contrast and then applied: Greeks are οἰκεῖοι to each other, barbarians ἀλλότριοι."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδραποδισμοῦ",
+          "lemma": "ἀνδραποδισμός",
+          "location": "469b",
+          "context": null
+        },
+        {
+          "form": "ἀνδραποδίζεσθαι",
+          "lemma": "ἀνδραποδίζω",
+          "location": "469b",
+          "context": "Ἕλληνας Ἑλληνίδας πόλεις ἀνδραποδίζεσθαι"
+        },
+        {
+          "form": "δοῦλον",
+          "lemma": "δοῦλος",
+          "location": "469c",
+          "context": "μηδὲ Ἕλληνα ἄρα δοῦλον ἐκτῆσθαι"
+        },
+        {
+          "form": "δουλείαν",
+          "lemma": "δουλεία",
+          "location": "469c",
+          "context": "τὴν ὑπὸ τῶν βαρβάρων δουλείαν"
+        },
+        {
+          "form": "δουλείᾳ",
+          "lemma": "δουλεία",
+          "location": "471a",
+          "context": "οὐκ ἐπὶ δουλείᾳ κολάζοντες"
+        }
+      ],
+      "observation": "Enslavement vocabulary clusters densely: ἀνδραποδισμός/ἀνδραποδίζω for the initial question, δοῦλος/δουλεία recurring through the section, with δουλεία returning at 471a as what the guardians' correction explicitly excludes."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "φείδεσθαι",
+          "lemma": "φείδομαι",
+          "location": "469c",
+          "context": "τοῦ Ἑλληνικοῦ γένους φείδεσθαι"
+        },
+        {
+          "form": "τὸ φείδεσθαι",
+          "lemma": "φείδομαι",
+          "location": "469c",
+          "context": "ὅλῳ καὶ παντί, ἔφη, διαφέρει τὸ φείδεσθαι"
+        }
+      ],
+      "observation": "φείδεσθαι is proposed and immediately echoed in Glaucon's emphatic endorsement with ὅλῳ καὶ παντί."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "Ἕλληνας",
+          "lemma": "Ἕλλην",
+          "location": "470c",
+          "context": "Ἕλληνας μὲν ἄρα βαρβάροις καὶ βαρβάρους Ἕλλησι πολεμεῖν"
+        },
+        {
+          "form": "βαρβάρους",
+          "lemma": "βάρβαρος",
+          "location": "470c",
+          "context": null
+        },
+        {
+          "form": "πολεμίους φύσει",
+          "lemma": null,
+          "location": "470c",
+          "context": "πολεμίους φύσει εἶναι"
+        },
+        {
+          "form": "φύσει μὲν φίλους",
+          "lemma": null,
+          "location": "470c",
+          "context": "Ἕλληνας δὲ Ἕλλησιν...φύσει μὲν φίλους εἶναι"
+        }
+      ],
+      "observation": "φύσει is used twice in close succession with opposite predicates: Greeks and barbarians are πολέμιοι φύσει, Greeks to Greeks are φίλοι φύσει."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "νοσεῖν",
+          "lemma": "νοσέω",
+          "location": "470c",
+          "context": "νοσεῖν δʼ ἐν τῷ τοιούτῳ τὴν Ἑλλάδα καὶ στασιάζειν"
+        }
+      ],
+      "observation": "Greek-on-Greek conflict is characterized as disease (νοσεῖν) of Hellas, placed alongside στασιάζειν."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τεθνεῶτα",
+          "lemma": "θνῄσκω",
+          "location": "469d",
+          "context": "περὶ τὸν τεθνεῶτα κυπτάζωσι"
+        },
+        {
+          "form": "νεκρὸν συλᾶν",
+          "lemma": null,
+          "location": "469d",
+          "context": "ἀνελεύθερον δὲ οὐ δοκεῖ καὶ φιλοχρήματον νεκρὸν συλᾶν"
+        },
+        {
+          "form": "νεκροσυλίας",
+          "lemma": "νεκροσυλία",
+          "location": "469e",
+          "context": null
+        }
+      ],
+      "observation": "A cluster around the dead body: κυπτάζω (stooping over), νεκρὸν συλᾶν, νεκροσυλίας — stripping the dead is treated as action directed at the wrong object."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "κυνῶν",
+          "lemma": "κύων",
+          "location": "469e",
+          "context": "τῶν κυνῶν, αἳ τοῖς λίθοις οἷς ἂν βληθῶσι χαλεπαίνουσι, τοῦ βάλλοντος οὐχ ἁπτόμεναι"
+        }
+      ],
+      "observation": "Those who strip corpses are compared to dogs that rage at the thrown stones rather than the thrower — a concrete image distinguishing the instrument from the agent."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἀποπταμένου τοῦ ἐχθροῦ",
+          "lemma": null,
+          "location": "469d",
+          "context": "τὸ σῶμα τοῦ τεθνεῶτος ἀποπταμένου τοῦ ἐχθροῦ, λελοιπότος δὲ ᾧ ἐπολέμει"
+        }
+      ],
+      "observation": "The enemy is said to have 'flown away' (ἀποπταμένου) from the body, leaving behind what he fought with — the body becomes a discarded instrument."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέμνωσιν ἀγροὺς",
+          "lemma": "τέμνω",
+          "location": "470d",
+          "context": null
+        },
+        {
+          "form": "κείρειν",
+          "lemma": "κείρω",
+          "location": "470d",
+          "context": "τὴν τροφόν τε καὶ μητέρα κείρειν"
+        },
+        {
+          "form": "κεροῦσιν",
+          "lemma": "κείρω",
+          "location": "471a",
+          "context": "οὐδʼ ἄρα τὴν Ἑλλάδα Ἕλληνες ὄντες κεροῦσιν"
+        },
+        {
+          "form": "γῆν τέμνειν",
+          "lemma": "τέμνω",
+          "location": "471c",
+          "context": "μήτε γῆν τέμνειν"
+        }
+      ],
+      "observation": "Two verbs for ravaging land — τέμνω and κείρω — recur across the section. κείρειν appears with the land personified as τροφόν τε καὶ μητέρα."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "τροφόν τε καὶ μητέρα",
+          "lemma": null,
+          "location": "470d",
+          "context": "οὐ γὰρ ἄν ποτε ἐτόλμων τὴν τροφόν τε καὶ μητέρα κείρειν"
+        }
+      ],
+      "observation": "The land is called nurse and mother (τροφόν τε καὶ μητέρα), making the ravaging of it a violation of kinship."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐμπρήσεως",
+          "lemma": "ἔμπρησις",
+          "location": "470a",
+          "context": "οἰκιῶν ἐμπρήσεως"
+        },
+        {
+          "form": "ἐμπιμπρῶσιν",
+          "lemma": "ἐμπίμπρημι",
+          "location": "470d",
+          "context": "οἰκίας ἐμπιμπρῶσιν"
+        },
+        {
+          "form": "ἐμπρήσουσιν",
+          "lemma": "ἐμπίμπρημι",
+          "location": "471a",
+          "context": "οὐδὲ οἰκήσεις ἐμπρήσουσιν"
+        },
+        {
+          "form": "ἐμπιμπράναι",
+          "lemma": "ἐμπίμπρημι",
+          "location": "471c",
+          "context": "μήτε οἰκίας ἐμπιμπράναι"
+        }
+      ],
+      "observation": "House-burning vocabulary recurs four times across the section: posed as a question, described in stasis, denied of guardians, and finally codified as law."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐπέτειον καρπὸν ἀφαιρεῖσθαι",
+          "lemma": null,
+          "location": "470b",
+          "context": "ἀλλὰ τὸν ἐπέτειον καρπὸν ἀφαιρεῖσθαι"
+        },
+        {
+          "form": "τοὺς καρποὺς ἀφαιρεῖσθαι",
+          "lemma": null,
+          "location": "470d",
+          "context": "μέτριον εἶναι τοὺς καρποὺς ἀφαιρεῖσθαι τοῖς κρατοῦσι τῶν κρατουμένων"
+        }
+      ],
+      "observation": "Taking only the year's harvest (ἐπέτειον καρπόν) is proposed as Socrates' view, then restated as the moderate (μέτριον) alternative in stasis, replacing permanent destruction."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "διαλλαγησομένων",
+          "lemma": "διαλλάσσω",
+          "location": "470e",
+          "context": "ὡς διαλλαγησομένων καὶ οὐκ ἀεὶ πολεμησόντων"
+        },
+        {
+          "form": "διαλλαγησόμενοι",
+          "lemma": "διαλλάσσω",
+          "location": "471a",
+          "context": "καὶ ὡς διαλλαγησόμενοι ἄρα διοίσονται"
+        }
+      ],
+      "observation": "διαλλαγησομένων/διαλλαγησόμενοι recurs: the expectation of future reconciliation governs the restraint in stasis."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "σωφρονιοῦσιν",
+          "lemma": "σωφρονίζω",
+          "location": "471a",
+          "context": "εὐμενῶς δὴ σωφρονιοῦσιν"
+        },
+        {
+          "form": "σωφρονισταὶ",
+          "lemma": "σωφρονιστής",
+          "location": "471a",
+          "context": "σωφρονισταὶ ὄντες, οὐ πολέμιοι"
+        }
+      ],
+      "observation": "σωφρονίζω and σωφρονιστής appear together: the guardians are correctors (σωφρονισταί) not enemies, acting εὐμενῶς."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ὀλίγους ἀεὶ ἐχθροὺς τοὺς αἰτίους τῆς διαφορᾶς",
+          "lemma": null,
+          "location": "471a",
+          "context": null
+        },
+        {
+          "form": "οἱ αἴτιοι ἀναγκασθῶσιν ὑπὸ τῶν ἀναιτίων ἀλγούντων δοῦναι δίκην",
+          "lemma": null,
+          "location": "471b",
+          "context": null
+        }
+      ],
+      "observation": "Responsibility is narrowed: only the few αἴτιοι are enemies, and the ἀναίτιοι suffering compel them to give justice (δοῦναι δίκην)."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "μίασμα",
+          "lemma": "μίασμα",
+          "location": "470a",
+          "context": "μή τι μίασμα ᾖ πρὸς ἱερὸν τὰ τοιαῦτα ἀπὸ τῶν οἰκείων φέρειν"
+        }
+      ],
+      "observation": "Dedicating arms taken from Greeks at temples is called a potential μίασμα — pollution from carrying things taken from οἰκεῖοι to sacred space."
+    },
+    {
+      "signal_id": "s018",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "νόμον",
+          "lemma": "νόμος",
+          "location": "471b",
+          "context": "τιθῶμεν δὴ καὶ τοῦτον τὸν νόμον τοῖς φύλαξι"
+        },
+        {
+          "form": "τὰ πρόσθεν",
+          "lemma": null,
+          "location": "471c",
+          "context": "ἔχειν γε καλῶς ταῦτά τε καὶ τὰ πρόσθεν"
+        }
+      ],
+      "observation": "The section closes with a formal act of law-setting (τιθῶμεν τὸν νόμον) for the guardians, and Glaucon's assent gathers this law together with τὰ πρόσθεν."
+    }
+  ]
+}

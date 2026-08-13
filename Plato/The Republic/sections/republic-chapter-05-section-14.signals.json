@@ -1,0 +1,482 @@
+{
+  "section_id": "republic-chapter-05-section-14",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δυνατή",
+          "lemma": "δυνατός",
+          "location": "471c",
+          "context": "τὸ ὡς δυνατὴ αὕτη ἡ πολιτεία γενέσθαι καὶ τίνα τρόπον ποτὲ δυνατή"
+        },
+        {
+          "form": "δυνατόν",
+          "lemma": "δυνατός",
+          "location": "471e",
+          "context": "ὡς δυνατὸν καὶ ᾗ δυνατόν"
+        },
+        {
+          "form": "δυνατόν",
+          "lemma": "δυνατός",
+          "location": "472e",
+          "context": "ἀποδεῖξαι ὡς δυνατὸν οὕτω πόλιν οἰκῆσαι"
+        },
+        {
+          "form": "δυνατώτατʼ",
+          "lemma": "δυνατός",
+          "location": "472e",
+          "context": "πῇ μάλιστα καὶ κατὰ τί δυνατώτατʼ ἂν εἴη"
+        },
+        {
+          "form": "δυνατοῦ",
+          "lemma": "δυνατός",
+          "location": "473c",
+          "context": "οὐ μέντοι σμικροῦ γε οὐδὲ ῥᾳδίου, δυνατοῦ δέ"
+        },
+        {
+          "form": "δυνατόν",
+          "lemma": "δυνατός",
+          "location": "473e",
+          "context": "φυῇ τε εἰς τὸ δυνατὸν"
+        }
+      ],
+      "observation": "Forms of δυνατός recur densely throughout the section, appearing in Glaucon's demand, Socrates' restatement, and the conditions for the politeia's realization."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παράδειγμα",
+          "lemma": "παράδειγμα",
+          "location": "472c",
+          "context": "παραδείγματος ἄρα ἕνεκα"
+        },
+        {
+          "form": "παράδειγμα",
+          "lemma": "παράδειγμα",
+          "location": "472d",
+          "context": "γράψας παράδειγμα οἷον ἂν εἴη ὁ κάλλιστος ἄνθρωπος"
+        },
+        {
+          "form": "παράδειγμα",
+          "lemma": "παράδειγμα",
+          "location": "472d",
+          "context": "παράδειγμα ἐποιοῦμεν λόγῳ ἀγαθῆς πόλεως"
+        }
+      ],
+      "observation": "παράδειγμα appears three times: first for the inquiry into justice, then for a painter's depiction of the most beautiful human, then for the city made in speech."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κύματε",
+          "lemma": "κῦμα",
+          "location": "472a",
+          "context": "τὼ δύο κύματε ἐκφυγόντι"
+        },
+        {
+          "form": "τρικυμίας",
+          "lemma": "τρικυμία",
+          "location": "472a",
+          "context": "τὸ μέγιστον καὶ χαλεπώτατον τῆς τρικυμίας"
+        },
+        {
+          "form": "κύματι",
+          "lemma": "κῦμα",
+          "location": "473c",
+          "context": "τῷ μεγίστῳ προσῃκάζομεν κύματι"
+        },
+        {
+          "form": "κῦμα",
+          "lemma": "κῦμα",
+          "location": "473c",
+          "context": "ὥσπερ κῦμα ἐκγελῶν καὶ ἀδοξίᾳ κατακλύσειν"
+        }
+      ],
+      "observation": "The wave image appears first as two waves escaped and a third (τρικυμία) approaching, then returns at the moment of announcement, where the wave laughs (ἐκγελῶν) and threatens to flood with disrepute."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "472d",
+          "context": "παράδειγμα ἐποιοῦμεν λόγῳ ἀγαθῆς πόλεως"
+        },
+        {
+          "form": "λέξεως",
+          "lemma": "λέξις",
+          "location": "473a",
+          "context": "φύσιν ἔχει πρᾶξιν λέξεως ἧττον ἀληθείας ἐφάπτεσθαι"
+        },
+        {
+          "form": "ἔργῳ",
+          "lemma": "ἔργον",
+          "location": "473a",
+          "context": "τοιαῦτα παντάπασι καὶ τῷ ἔργῳ δεῖν γιγνόμενα"
+        },
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "473e",
+          "context": "ἣν νῦν λόγῳ διεληλύθαμεν"
+        }
+      ],
+      "observation": "A contrast between λόγος/λέξις and πρᾶξις/ἔργον is explicitly stated: action by nature touches truth less than speech does."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐγγύτατα",
+          "lemma": "ἐγγύς",
+          "location": "472c",
+          "context": "ἐὰν ὅτι ἐγγύτατα αὐτῆς ᾖ"
+        },
+        {
+          "form": "ἐγγύτατα",
+          "lemma": "ἐγγύς",
+          "location": "473a",
+          "context": "ὡς ἂν ἐγγύτατα τῶν εἰρημένων πόλις οἰκήσειεν"
+        }
+      ],
+      "observation": "ἐγγύτατα appears first for the just man's proximity to justice itself, then for a city's proximity to the described model."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀγαπήσομεν",
+          "lemma": "ἀγαπάω",
+          "location": "472c",
+          "context": "ἀγαπήσομεν ἐὰν ὅτι ἐγγύτατα αὐτῆς ᾖ"
+        },
+        {
+          "form": "ἀγαπήσεις",
+          "lemma": "ἀγαπάω",
+          "location": "473b",
+          "context": "ἢ οὐκ ἀγαπήσεις τούτων τυγχάνων"
+        },
+        {
+          "form": "ἀγαπῴην",
+          "lemma": "ἀγαπάω",
+          "location": "473b",
+          "context": "ἐγὼ μὲν γὰρ ἂν ἀγαπῴην"
+        }
+      ],
+      "observation": "ἀγαπάω recurs: first Glaucon agrees they would be satisfied with proximity to justice, then Socrates asks whether Glaucon would be satisfied with proximity in practice, adding that he himself would be."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ζωγράφον",
+          "lemma": "ζωγράφος",
+          "location": "472d",
+          "context": "ἧττόν τι ἀγαθὸν ζωγράφον εἶναι"
+        },
+        {
+          "form": "γράψας",
+          "lemma": "γράφω",
+          "location": "472d",
+          "context": "ὃς ἂν γράψας παράδειγμα"
+        },
+        {
+          "form": "γράμμα",
+          "lemma": "γράμμα",
+          "location": "472d",
+          "context": "πάντα εἰς τὸ γράμμα ἱκανῶς ἀποδούς"
+        }
+      ],
+      "observation": "The painter analogy clusters ζωγράφος, γράφω, and γράμμα: a painter who renders the most beautiful human into the painting yet cannot prove such a person could exist is not thereby a worse painter."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἑνός",
+          "lemma": "εἷς",
+          "location": "473b",
+          "context": "μάλιστα μὲν ἑνός"
+        },
+        {
+          "form": "δυοῖν",
+          "lemma": "δύο",
+          "location": "473b",
+          "context": "εἰ δὲ μή, δυοῖν"
+        },
+        {
+          "form": "ὀλιγίστων",
+          "lemma": "ὀλίγος",
+          "location": "473b",
+          "context": "ὅτι ὀλιγίστων τὸν ἀριθμόν"
+        },
+        {
+          "form": "σμικροτάτων",
+          "lemma": "σμικρός",
+          "location": "473b",
+          "context": "καὶ σμικροτάτων τὴν δύναμιν"
+        },
+        {
+          "form": "ἑνός",
+          "lemma": "εἷς",
+          "location": "473b",
+          "context": "ἑνὸς μὲν τοίνυν μεταβαλόντος"
+        }
+      ],
+      "observation": "Socrates proposes a descending sequence—one change, or two, or the fewest and smallest—then immediately claims one change suffices, selecting the minimum."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "φιλόσοφοι βασιλεύσωσιν",
+          "lemma": null,
+          "location": "473c",
+          "context": "ἢ οἱ φιλόσοφοι βασιλεύσωσιν ἐν ταῖς πόλεσιν"
+        },
+        {
+          "form": "βασιλῆς … φιλοσοφήσωσι",
+          "lemma": null,
+          "location": "473d",
+          "context": "οἱ βασιλῆς τε νῦν λεγόμενοι καὶ δυνάσται φιλοσοφήσωσι"
+        },
+        {
+          "form": "εἰς ταὐτὸν συμπέσῃ",
+          "lemma": "συμπίπτω",
+          "location": "473d",
+          "context": "τοῦτο εἰς ταὐτὸν συμπέσῃ, δύναμίς τε πολιτικὴ καὶ φιλοσοφία"
+        }
+      ],
+      "observation": "The philosopher-king thesis is stated as a chiastic pair—philosophers ruling or rulers philosophizing—then restated as two things falling together (εἰς ταὐτὸν συμπέσῃ): political power and philosophy."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὤκνουν",
+          "lemma": "ὀκνέω",
+          "location": "472a",
+          "context": "εἰκότως ἄρα ὤκνουν τε καὶ ἐδεδοίκη"
+        },
+        {
+          "form": "ἐδεδοίκη",
+          "lemma": "δείδω",
+          "location": "472a",
+          "context": "ὤκνουν τε καὶ ἐδεδοίκη"
+        },
+        {
+          "form": "ὄκνον",
+          "lemma": "ὄκνος",
+          "location": "473e",
+          "context": "ἐμοὶ πάλαι ὄκνον ἐντίθησι λέγειν"
+        }
+      ],
+      "observation": "Socrates' hesitation and fear (ὀκνέω, δείδω) appear before announcing the third wave, and ὄκνος returns after the announcement, framing the philosopher-king declaration."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "γέλωτί",
+          "lemma": "γέλως",
+          "location": "473c",
+          "context": "μέλλει γέλωτί τε ἀτεχνῶς ὥσπερ κῦμα ἐκγελῶν"
+        },
+        {
+          "form": "ἐκγελῶν",
+          "lemma": "ἐκγελάω",
+          "location": "473c",
+          "context": "κῦμα ἐκγελῶν καὶ ἀδοξίᾳ κατακλύσειν"
+        },
+        {
+          "form": "ἀδοξίᾳ",
+          "lemma": "ἀδοξία",
+          "location": "473c",
+          "context": null
+        },
+        {
+          "form": "παρὰ δόξαν",
+          "lemma": null,
+          "location": "473e",
+          "context": "πολὺ παρὰ δόξαν ῥηθήσεται"
+        },
+        {
+          "form": "τωθαζόμενος",
+          "lemma": "τωθάζω",
+          "location": "474a",
+          "context": "τῷ ὄντι τωθαζόμενος δώσεις δίκην"
+        }
+      ],
+      "observation": "Laughter, disrepute, and mockery cluster around the announcement: γέλως, ἐκγελάω, ἀδοξία, παρὰ δόξαν, and τωθάζω."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ῥίψαντας τὰ ἱμάτια",
+          "lemma": null,
+          "location": "474a",
+          "context": "οἷον ῥίψαντας τὰ ἱμάτια, γυμνοὺς λαβόντας ὅτι ἑκάστῳ παρέτυχεν ὅπλον"
+        },
+        {
+          "form": "θεῖν διατεταμένους",
+          "lemma": null,
+          "location": "474a",
+          "context": "θεῖν διατεταμένους ὡς θαυμάσια ἐργασομένους"
+        }
+      ],
+      "observation": "Glaucon pictures opponents throwing off cloaks, seizing whatever weapon is at hand, and running at full stretch—a vivid image of physical attack provoked by the statement."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀμυνῇ",
+          "lemma": "ἀμύνω",
+          "location": "474a",
+          "context": "εἰ μὴ ἀμυνῇ τῷ λόγῳ καὶ ἐκφεύξῃ"
+        },
+        {
+          "form": "προδώσω",
+          "lemma": "προδίδωμι",
+          "location": "474a",
+          "context": "σε οὐ προδώσω"
+        },
+        {
+          "form": "ἀμυνῶ",
+          "lemma": "ἀμύνω",
+          "location": "474a",
+          "context": "ἀλλʼ ἀμυνῶ οἷς δύναμαι"
+        },
+        {
+          "form": "βοηθόν",
+          "lemma": "βοηθός",
+          "location": "474b",
+          "context": "ὡς ἔχων τοιοῦτον βοηθόν"
+        }
+      ],
+      "observation": "Military language (ἀμύνω twice, προδίδωμι, βοηθός) frames Glaucon's pledge of alliance in defending the argument."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "καταδρομήν",
+          "lemma": "καταδρομή",
+          "location": "472a",
+          "context": "ὥσπερ καταδρομὴν ἐποιήσω ἐπὶ τὸν λόγον μου"
+        },
+        {
+          "form": "κατακλύσειν",
+          "lemma": "κατακλύζω",
+          "location": "473c",
+          "context": "ἀδοξίᾳ κατακλύσειν"
+        }
+      ],
+      "observation": "Two κατα- compounds describe being overwhelmed: Glaucon's sudden raid (καταδρομή) on the argument, and the wave threatening to flood (κατακλύζω) with disrepute."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "φῶς ἡλίου ἴδῃ",
+          "lemma": null,
+          "location": "473e",
+          "context": "φυῇ τε εἰς τὸ δυνατὸν καὶ φῶς ἡλίου ἴδῃ"
+        },
+        {
+          "form": "φυῇ",
+          "lemma": "φύω",
+          "location": "473e",
+          "context": null
+        }
+      ],
+      "observation": "The politeia is said to need to grow (φυῇ) and see the light of the sun (φῶς ἡλίου ἴδῃ) before it can be realized."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδεῖξαι",
+          "lemma": "ἀποδείκνυμι",
+          "location": "472d",
+          "context": "μὴ ἔχῃ ἀποδεῖξαι ὡς καὶ δυνατὸν γενέσθαι"
+        },
+        {
+          "form": "ἀποδεῖξαι",
+          "lemma": "ἀποδείκνυμι",
+          "location": "472e",
+          "context": "ἐὰν μὴ ἔχωμεν ἀποδεῖξαι"
+        },
+        {
+          "form": "ἀπόδειξιν",
+          "lemma": "ἀπόδειξις",
+          "location": "472e",
+          "context": "πρὸς τὴν τοιαύτην ἀπόδειξιν"
+        },
+        {
+          "form": "ἀποδεικνύναι",
+          "lemma": "ἀποδείκνυμι",
+          "location": "473b",
+          "context": "πειρώμεθα ζητεῖν τε καὶ ἀποδεικνύναι"
+        }
+      ],
+      "observation": "Forms of ἀποδείκνυμι/ἀπόδειξις recur as the demand and concession around proof shift between the painter analogy, the city, and the search for the smallest change."
+    }
+  ]
+}

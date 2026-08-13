@@ -1,0 +1,524 @@
+{
+  "section_id": "republic-chapter-05-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἐκτείνας τὴν χεῖρα καὶ λαβόμενος τοῦ ἱματίου ἄνωθεν αὐτοῦ παρὰ τὸν ὦμον",
+          "lemma": null,
+          "location": "449b",
+          "context": null
+        }
+      ],
+      "observation": "Polemarchus physically reaches out, grasps Adeimantus' cloak at the shoulder, and draws him close—a detailed bodily action of seizing and pulling."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "προσκεκυφώς",
+          "lemma": "προσκύπτω",
+          "location": "449b",
+          "context": "ἔλεγεν ἄττα προσκεκυφώς"
+        },
+        {
+          "form": "κατηκούσαμεν",
+          "lemma": "κατακούω",
+          "location": "449b",
+          "context": "ἄλλο μὲν οὐδὲν κατηκούσαμεν"
+        }
+      ],
+      "observation": "Polemarchus speaks leaning forward in a whisper; Socrates reports overhearing nothing except one phrase—a partial hearing that filters what reaches the narrator."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Ἀφήσομεν",
+          "lemma": "ἀφίημι",
+          "location": "449b",
+          "context": "Ἀφήσομεν οὖν, ἔφη, ἢ τί δράσομεν"
+        },
+        {
+          "form": "ἀφίετε",
+          "lemma": "ἀφίημι",
+          "location": "449b",
+          "context": "ὑμεῖς οὐκ ἀφίετε"
+        },
+        {
+          "form": "ἀφίεμέν",
+          "lemma": "ἀφίημι",
+          "location": "451b",
+          "context": "ἀφίεμέν σε ὥσπερ φόνου"
+        }
+      ],
+      "observation": "ἀφίημι appears first as Polemarchus asking whether to let Socrates go, then as Socrates asking why they won't release him, then as Glaucon releasing Socrates from guilt as from homicide."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιλαβόμενοί",
+          "lemma": "ἐπιλαμβάνω",
+          "location": "450a",
+          "context": "εἰργάσασθε ἐπιλαβόμενοί μου"
+        },
+        {
+          "form": "ἐπιλαμβάνῃ",
+          "lemma": "ἐπιλαμβάνω",
+          "location": "449d",
+          "context": "ἄλλης ἐπιλαμβάνῃ πολιτείας"
+        }
+      ],
+      "observation": "ἐπιλαμβάνω is used of Socrates grasping another constitution (moving on) and then of the interlocutors grasping Socrates (stopping him)."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐκκλέπτειν",
+          "lemma": "ἐκκλέπτω",
+          "location": "449c",
+          "context": "εἶδος ὅλον οὐ τὸ ἐλάχιστον ἐκκλέπτειν τοῦ λόγου"
+        },
+        {
+          "form": "λήσειν",
+          "lemma": "λανθάνω",
+          "location": "449c",
+          "context": "λήσειν οἰηθῆναι"
+        },
+        {
+          "form": "ἀπορρᾳθυμεῖν",
+          "lemma": "ἀπορρᾳθυμέω",
+          "location": "449c",
+          "context": null
+        }
+      ],
+      "observation": "Adeimantus clusters stealing, escaping notice, and being lazy together as accusations against Socrates' handling of the argument."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπιστίας",
+          "lemma": "ἀπιστία",
+          "location": "450c",
+          "context": "πολλὰς γὰρ ἀπιστίας ἔχει"
+        },
+        {
+          "form": "ἀπιστοῖτʼ",
+          "lemma": "ἀπιστέω",
+          "location": "450c",
+          "context": null
+        },
+        {
+          "form": "ἀπιστήσεται",
+          "lemma": "ἀπιστέω",
+          "location": "450c",
+          "context": null
+        },
+        {
+          "form": "ἄπιστοι",
+          "lemma": "ἄπιστος",
+          "location": "450d",
+          "context": "οὔτε ἄπιστοι"
+        },
+        {
+          "form": "ἀπιστοῦντα",
+          "lemma": "ἀπιστέω",
+          "location": "450e",
+          "context": "ἀπιστοῦντα δὲ καὶ ζητοῦντα"
+        }
+      ],
+      "observation": "The ἀπιστ- stem recurs densely: Socrates names disbelief as a double obstacle, Glaucon denies the audience is ἄπιστοι, then Socrates applies ἀπιστοῦντα to himself."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θαρραλέον",
+          "lemma": "θαρραλέος",
+          "location": "450e",
+          "context": "ἀσφαλὲς καὶ θαρραλέον"
+        },
+        {
+          "form": "φοβερόν",
+          "lemma": "φοβερός",
+          "location": "451a",
+          "context": "φοβερόν τε καὶ σφαλερόν"
+        },
+        {
+          "form": "παραθαρρύνειν",
+          "lemma": "παραθαρρύνω",
+          "location": "450d",
+          "context": null
+        },
+        {
+          "form": "θαρρήσας",
+          "lemma": "θαρρέω",
+          "location": "451b",
+          "context": "θαρρήσας λέγε"
+        }
+      ],
+      "observation": "θαρραλέον (safe confidence of the knower) is contrasted with φοβερόν (danger of the searcher); Glaucon's παραθαρρύνειν and θαρρήσας bracket Socrates' claim that encouragement produces the opposite effect."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σφαλεὶς",
+          "lemma": "σφάλλω",
+          "location": "451a",
+          "context": "μὴ σφαλεὶς τῆς ἀληθείας"
+        },
+        {
+          "form": "σφαλερόν",
+          "lemma": "σφαλερός",
+          "location": "451a",
+          "context": "φοβερόν τε καὶ σφαλερόν"
+        },
+        {
+          "form": "σφάλλεσθαι",
+          "lemma": "σφάλλω",
+          "location": "451a",
+          "context": "ἥκιστα δεῖ σφάλλεσθαι"
+        }
+      ],
+      "observation": "Three forms of σφάλλω cluster tightly: the adjective σφαλερόν, the participle σφαλείς, and the infinitive σφάλλεσθαι, all around the danger of stumbling from truth."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "φονέα",
+          "lemma": "φονεύς",
+          "location": "451a",
+          "context": "ἀκουσίως τινὸς φονέα γενέσθαι"
+        },
+        {
+          "form": "ἀπατεῶνα",
+          "lemma": "ἀπατεών",
+          "location": "451a",
+          "context": "ἢ ἀπατεῶνα καλῶν τε καὶ ἀγαθῶν"
+        },
+        {
+          "form": "φόνου",
+          "lemma": "φόνος",
+          "location": "451b",
+          "context": "ἀφίεμέν σε ὥσπερ φόνου"
+        },
+        {
+          "form": "ἀπατεῶνα",
+          "lemma": "ἀπατεών",
+          "location": "451b",
+          "context": "μὴ ἀπατεῶνα ἡμῶν"
+        },
+        {
+          "form": "καθαρὸν",
+          "lemma": "καθαρός",
+          "location": "451b",
+          "context": "καθαρὸν εἶναι"
+        },
+        {
+          "form": "καθαρός",
+          "lemma": "καθαρός",
+          "location": "451b",
+          "context": "καθαρός γε καὶ ἐκεῖ ὁ ἀφεθείς"
+        }
+      ],
+      "observation": "Socrates compares involuntary homicide to deceiving friends about laws; Glaucon picks up both terms (φόνος, ἀπατεών) and grants acquittal using legal purification language (καθαρός, ἀφεθείς, νόμος)."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κοινὰ τὰ φίλων",
+          "lemma": null,
+          "location": "449c",
+          "context": "κοινὰ τὰ φίλων ἔσται"
+        },
+        {
+          "form": "κοινωνίας",
+          "lemma": "κοινωνία",
+          "location": "449c",
+          "context": "τίς ὁ τρόπος τῆς κοινωνίας"
+        },
+        {
+          "form": "κοινωνίαν",
+          "lemma": "κοινωνία",
+          "location": "449d",
+          "context": "ὅλην ταύτην ἣν λέγεις κοινωνίαν γυναικῶν τε καὶ παίδων"
+        },
+        {
+          "form": "κοινωνὸν",
+          "lemma": "κοινωνός",
+          "location": "450a",
+          "context": "κοινωνὸν τῆς ψήφου ταύτης"
+        },
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "450c",
+          "context": "τίς ἡ κοινωνία τοῖς φύλαξιν"
+        }
+      ],
+      "observation": "κοινός/κοινωνία recurs from the proverb κοινὰ τὰ φίλων through the demand to explain the mode of community, to Glaucon declaring himself κοινωνός of the vote, to the final restatement of the question."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διέλθῃς",
+          "lemma": "διέρχομαι",
+          "location": "449c",
+          "context": "ἵνα μὴ διέλθῃς"
+        },
+        {
+          "form": "διεληλυθὼς",
+          "lemma": "διέρχομαι",
+          "location": "450a",
+          "context": "ὡς ἤδη διεληλυθὼς ἔγωγε ἔχαιρον"
+        },
+        {
+          "form": "διελέσθαι",
+          "lemma": "διέρχομαι",
+          "location": "449d",
+          "context": "πρὶν ταῦτα ἱκανῶς διελέσθαι"
+        },
+        {
+          "form": "διέλθῃς",
+          "lemma": "διέρχομαι",
+          "location": "450a",
+          "context": "πρὶν ἂν ταῦτα πάντα ὥσπερ τἆλλα διέλθῃς"
+        },
+        {
+          "form": "διελθεῖν",
+          "lemma": "διέρχομαι",
+          "location": "450c",
+          "context": "οὐ ῥᾴδιον διελθεῖν"
+        },
+        {
+          "form": "διήλθομεν",
+          "lemma": "διέρχομαι",
+          "location": "450c",
+          "context": "τῶν ἔμπροσθεν ὧν διήλθομεν"
+        },
+        {
+          "form": "διήλθομεν",
+          "lemma": "διέρχομαι",
+          "location": "451c",
+          "context": "ὡς ἡμεῖς διήλθομεν"
+        }
+      ],
+      "observation": "διέρχομαι appears repeatedly as the demanded action—going through the argument—used by multiple speakers in various tenses and moods."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἑσμὸν λόγων",
+          "lemma": null,
+          "location": "450b",
+          "context": "ὅσον ἑσμὸν λόγων ἐπεγείρετε"
+        }
+      ],
+      "observation": "Socrates describes the arguments being roused as a swarm (ἑσμός)—a concrete image applied to λόγοι."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "χρυσοχοήσοντας",
+          "lemma": "χρυσοχοέω",
+          "location": "450b",
+          "context": "χρυσοχοήσοντας οἴει τούσδε νῦν ἐνθάδε ἀφῖχθαι"
+        }
+      ],
+      "observation": "Thrasymachus asks whether Socrates thinks those present have come to smelt gold—a striking concrete image for a non-intellectual purpose."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "μέτρον",
+          "lemma": "μέτρον",
+          "location": "450b",
+          "context": "μέτρον δέ γʼ … τοιούτων λόγων ἀκούειν ὅλος ὁ βίος"
+        },
+        {
+          "form": "μετρίων",
+          "lemma": "μέτριος",
+          "location": "450b",
+          "context": "μετρίων γε"
+        }
+      ],
+      "observation": "Socrates says μετρίων (moderate-length arguments); Glaucon immediately redefines μέτρον as a whole lifetime of listening."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρεῖον δρᾶμα",
+          "lemma": null,
+          "location": "451c",
+          "context": "μετὰ ἀνδρεῖον δρᾶμα παντελῶς διαπερανθέν"
+        },
+        {
+          "form": "τὸ γυναικεῖον",
+          "lemma": null,
+          "location": "451c",
+          "context": "τὸ γυναικεῖον αὖ περαίνειν"
+        }
+      ],
+      "observation": "Socrates frames the transition as completing the men's drama and then performing the women's, using theatrical language (δρᾶμα, περαίνειν)."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἀγέλης φύλακας",
+          "lemma": null,
+          "location": "451c",
+          "context": "ὡς ἀγέλης φύλακας τοὺς ἄνδρας καθιστάναι τῷ λόγῳ"
+        }
+      ],
+      "observation": "Socrates recalls that the men were established as guardians of a flock (ἀγέλη), a concrete analogy invoked to ground the next stage of argument."
+    },
+    {
+      "signal_id": "s017",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "προσκυνῶ δὲ Ἀδράστειαν",
+          "lemma": null,
+          "location": "451a",
+          "context": null
+        }
+      ],
+      "observation": "Socrates invokes Adrasteia (Nemesis) before speaking, a ritual gesture of averting retribution for what he is about to say."
+    },
+    {
+      "signal_id": "s018",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐν ἐχθροῖς",
+          "lemma": "ἐχθρός",
+          "location": "451a",
+          "context": "τοῦτο οὖν τὸ κινδύνευμα κινδυνεύειν ἐν ἐχθροῖς κρεῖττον"
+        },
+        {
+          "form": "φίλοις",
+          "lemma": "φίλος",
+          "location": "451b",
+          "context": "ἢ φίλοις"
+        }
+      ],
+      "observation": "Socrates says it is better to risk deception among enemies than among friends—the danger is greater precisely because the audience are φίλοι."
+    },
+    {
+      "signal_id": "s019",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "περιμένομεν",
+          "lemma": "περιμένω",
+          "location": "449d",
+          "context": "ἡμεῖς πάλαι περιμένομεν"
+        }
+      ],
+      "observation": "Adeimantus says the group has been waiting (περιμένομεν) a long time for Socrates to address the topic of women and children."
+    },
+    {
+      "signal_id": "s020",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "μεταβαίνειν",
+          "lemma": "μεταβαίνω",
+          "location": "449b",
+          "context": "ἕκασται ἐξ ἀλλήλων μεταβαίνειν"
+        },
+        {
+          "form": "ἐφεξῆς",
+          "lemma": "ἐφεξῆς",
+          "location": "449a",
+          "context": "τὰς ἐφεξῆς ἐρῶν"
+        },
+        {
+          "form": "ἐφεξῆς",
+          "lemma": "ἐφεξῆς",
+          "location": "451c",
+          "context": "ἃ τότε ἴσως ἔδει ἐφεξῆς λέγειν"
+        },
+        {
+          "form": "ἀνάπαλιν",
+          "lemma": "ἀνάπαλιν",
+          "location": "451b",
+          "context": "χρὴ ἀνάπαλιν αὖ νῦν"
+        }
+      ],
+      "observation": "Socrates was about to proceed ἐφεξῆς through constitutions that μεταβαίνειν from each other; after the interruption he must speak ἀνάπαλιν, reversing direction, and the intended ἐφεξῆς sequence is explicitly recalled as missed."
+    }
+  ]
+}

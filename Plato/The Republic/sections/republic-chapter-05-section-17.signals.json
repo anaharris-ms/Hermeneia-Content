@@ -1,0 +1,432 @@
+{
+  "section_id": "republic-chapter-05-section-17",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "477a",
+          "context": "οὐ μεταξὺ ἂν κέοιτο τοῦ εἰλικρινῶς ὄντος"
+        },
+        {
+          "form": "μεταξύ",
+          "lemma": "μεταξύ",
+          "location": "477a",
+          "context": null
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "477a",
+          "context": "ἐπὶ δὲ τῷ μεταξὺ τούτῳ μεταξύ τι καὶ ζητητέον"
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "478d",
+          "context": "μεταξὺ κεῖσθαι τοῦ εἰλικρινῶς ὄντος"
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "478d",
+          "context": "τὸ μεταξὺ αὖ φανὲν ἀγνοίας καὶ ἐπιστήμης"
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "478d",
+          "context": "πέφανται μεταξὺ τούτοιν ὃ δὴ καλοῦμεν δόξαν"
+        }
+      ],
+      "observation": "μεταξύ recurs densely throughout the section, appearing at the opening hypothesis and returning at the conclusion, each time naming the positional placement of what lies between."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γνῶσις",
+          "lemma": "γνῶσις",
+          "location": "477a",
+          "context": "ἐπὶ μὲν τῷ ὄντι γνῶσις ἦν"
+        },
+        {
+          "form": "ἀγνωσία",
+          "lemma": "ἀγνωσία",
+          "location": "477a",
+          "context": "ἀγνωσία δʼ ἐξ ἀνάγκης ἐπὶ μὴ ὄντι"
+        },
+        {
+          "form": "ἀγνοίας",
+          "lemma": "ἄγνοια",
+          "location": "477b",
+          "context": "ἀγνοίας τε καὶ ἐπιστήμης"
+        },
+        {
+          "form": "ἄγνοιαν",
+          "lemma": "ἄγνοια",
+          "location": "478c",
+          "context": "ἄγνοιαν ἀπέδομεν"
+        },
+        {
+          "form": "γνῶσιν",
+          "lemma": "γνῶσις",
+          "location": "478c",
+          "context": "ὄντι δὲ γνῶσιν"
+        }
+      ],
+      "observation": "γνῶσις and ἀγνωσία/ἄγνοια form a pair that recurs across the section; notably ἀγνωσία at 477a shifts to ἄγνοια from 477b onward."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "477b",
+          "context": "ἄλλην δύναμιν ἐπιστήμης"
+        },
+        {
+          "form": "δυνάμεις",
+          "lemma": "δύναμις",
+          "location": "477c",
+          "context": "φήσομεν δυνάμεις εἶναι γένος τι τῶν ὄντων"
+        },
+        {
+          "form": "δυνάμεθα",
+          "lemma": "δύναμαι",
+          "location": "477c",
+          "context": "αἷς δὴ καὶ ἡμεῖς δυνάμεθα ἃ δυνάμεθα"
+        },
+        {
+          "form": "δύνηται",
+          "lemma": "δύναμαι",
+          "location": "477c",
+          "context": "ἄλλο πᾶν ὅτι περ ἂν δύνηται"
+        },
+        {
+          "form": "δυνάμεων",
+          "lemma": "δύναμις",
+          "location": "477c",
+          "context": "ὄψιν καὶ ἀκοὴν τῶν δυνάμεων"
+        },
+        {
+          "form": "δυναμένη",
+          "lemma": "δύναμαι",
+          "location": "478a",
+          "context": "ἕτερόν τι δυναμένη ἑκατέρα"
+        }
+      ],
+      "observation": "The δύναμις/δύναμαι family clusters heavily, with noun and verb forms interleaving; at 477c δυνάμεθα ἃ δυνάμεθα is a notable figura etymologica."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀναμάρτητον",
+          "lemma": "ἀναμάρτητος",
+          "location": "477e",
+          "context": "τό γε ἀναμάρτητον"
+        },
+        {
+          "form": "μὴ ἀναμαρτήτῳ",
+          "lemma": "ἀναμάρτητος",
+          "location": "477e",
+          "context": "τῷ μὴ ἀναμαρτήτῳ"
+        }
+      ],
+      "observation": "ἀναμάρτητον and μὴ ἀναμαρτήτῳ are placed in direct contrast as the interlocutor's own criterion for distinguishing ἐπιστήμη from δόξα—an 'unerring' versus 'not unerring' pair."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "local_contrast",
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "σκοτωδέστερον",
+          "lemma": "σκοτώδης",
+          "location": "478c",
+          "context": "γνώσεως μέν σοι φαίνεται δόξα σκοτωδέστερον"
+        },
+        {
+          "form": "φανότερον",
+          "lemma": "φανός",
+          "location": "478c",
+          "context": "ἀγνοίας δὲ φανότερον"
+        }
+      ],
+      "observation": "σκοτωδέστερον and φανότερον introduce darkness and light as comparative terms for δόξα's position relative to γνῶσις and ἄγνοια."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "σαφηνείᾳ",
+          "lemma": "σαφήνεια",
+          "location": "478c",
+          "context": "ὑπερβαίνουσα ἢ γνῶσιν σαφηνείᾳ"
+        },
+        {
+          "form": "ἀσαφείᾳ",
+          "lemma": "ἀσάφεια",
+          "location": "478c",
+          "context": "ἢ ἄγνοιαν ἀσαφείᾳ"
+        }
+      ],
+      "observation": "σαφηνείᾳ and ἀσαφείᾳ form an alpha-privative pair, each attached to one pole (γνῶσις, ἄγνοια) as the dimension δόξα might exceed but does not."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "χρόαν",
+          "lemma": "χρόα",
+          "location": "477c",
+          "context": "δυνάμεως γὰρ ἐγὼ οὔτε τινὰ χρόαν ὁρῶ"
+        },
+        {
+          "form": "σχῆμα",
+          "lemma": "σχῆμα",
+          "location": "477c",
+          "context": "οὔτε σχῆμα"
+        }
+      ],
+      "observation": "δύναμις is characterized negatively: it has no χρόα and no σχῆμα, distinguishing it from other ὄντα that are identified by visible features."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὄψιν",
+          "lemma": "ὄψις",
+          "location": "477c",
+          "context": "λέγω ὄψιν καὶ ἀκοὴν τῶν δυνάμεων"
+        },
+        {
+          "form": "ἀκοὴν",
+          "lemma": "ἀκοή",
+          "location": "477c",
+          "context": null
+        }
+      ],
+      "observation": "ὄψις and ἀκοή are named as exemplary instances of δυνάμεις—sense-capacities offered as paradigm cases."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "syntactic_recurrence",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπὶ τῷ ὄντι",
+          "lemma": null,
+          "location": "477a",
+          "context": "ἐπὶ μὲν τῷ ὄντι γνῶσις ἦν"
+        },
+        {
+          "form": "ἐπὶ μὴ ὄντι",
+          "lemma": null,
+          "location": "477a",
+          "context": "ἀγνωσία δʼ ἐξ ἀνάγκης ἐπὶ μὴ ὄντι"
+        },
+        {
+          "form": "ἐπὶ τῷ ὄντι",
+          "lemma": null,
+          "location": "477b",
+          "context": "ἐπιστήμη μὲν ἐπὶ τῷ ὄντι πέφυκε"
+        },
+        {
+          "form": "ἐπὶ τῷ ὄντι",
+          "lemma": null,
+          "location": "478a",
+          "context": "ἐπιστήμη μέν γέ που ἐπὶ τῷ ὄντι"
+        }
+      ],
+      "observation": "The prepositional phrase ἐπί + dative recurs as the standard formula for a δύναμις being 'set over' its object, repeated for ὄν and μὴ ὄν across the section."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέτακται",
+          "lemma": "τάττω",
+          "location": "477b",
+          "context": "ἐπʼ ἄλλῳ ἄρα τέτακται δόξα καὶ ἐπʼ ἄλλῳ ἐπιστήμη"
+        },
+        {
+          "form": "τεταγμένην",
+          "lemma": "τάττω",
+          "location": "477d",
+          "context": "τὴν μὲν ἐπὶ τῷ αὐτῷ τεταγμένην"
+        }
+      ],
+      "observation": "τάττω appears first for the specific pairing of δόξα and ἐπιστήμη being 'assigned' to different objects, then returns as the general criterion for identifying any δύναμις."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπεργάζεται",
+          "lemma": "ἀπεργάζομαι",
+          "location": "477d",
+          "context": "ἐφʼ ᾧ τε ἔστι καὶ ὃ ἀπεργάζεται"
+        },
+        {
+          "form": "ἀπεργαζομένην",
+          "lemma": "ἀπεργάζομαι",
+          "location": "477d",
+          "context": "τὸ αὐτὸ ἀπεργαζομένην τὴν αὐτὴν καλῶ"
+        },
+        {
+          "form": "ἀπεργαζομένην",
+          "lemma": "ἀπεργάζομαι",
+          "location": "477d",
+          "context": "ἐπὶ ἑτέρῳ καὶ ἕτερον ἀπεργαζομένην ἄλλην"
+        }
+      ],
+      "observation": "ἀπεργάζομαι recurs three times within the definition of δύναμις, naming what a capacity 'produces' as one of its two individuating criteria."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γνωστόν",
+          "lemma": "γνωστός",
+          "location": "478a",
+          "context": "ἔσται γνωστόν τε καὶ δοξαστὸν τὸ αὐτό"
+        },
+        {
+          "form": "δοξαστὸν",
+          "lemma": "δοξαστός",
+          "location": "478a",
+          "context": null
+        }
+      ],
+      "observation": "γνωστόν and δοξαστόν are placed as verbal adjectives whose possible identity is raised and then denied."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "sequence_pattern"
+      ],
+      "elements": [
+        {
+          "form": "κέοιτο",
+          "lemma": "κεῖμαι",
+          "location": "477a",
+          "context": "οὐ μεταξὺ ἂν κέοιτο"
+        },
+        {
+          "form": "κεῖσθαι",
+          "lemma": "κεῖμαι",
+          "location": "478d",
+          "context": "τὸ τοιοῦτον μεταξὺ κεῖσθαι"
+        },
+        {
+          "form": "κεῖται",
+          "lemma": "κεῖμαι",
+          "location": "478d",
+          "context": "ἐντὸς δʼ ἀμφοῖν κεῖται"
+        }
+      ],
+      "observation": "κεῖμαι appears first as an optative hypothesis, then as an infinitive recapitulation, then as a present indicative confirmation—tracking the argument's progression from supposition to established result."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "lemma_recurrence",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ζητητέον",
+          "lemma": "ζητέω",
+          "location": "477a",
+          "context": "μεταξύ τι καὶ ζητητέον ἀγνοίας τε καὶ ἐπιστήμης"
+        },
+        {
+          "form": "πέφανται",
+          "lemma": "φαίνω",
+          "location": "478d",
+          "context": "νῦν δέ γε πέφανται μεταξὺ τούτοιν ὃ δὴ καλοῦμεν δόξαν"
+        }
+      ],
+      "observation": "ζητητέον at the section's opening sets up a search for something μεταξύ; πέφανται near the close announces that δόξα has now 'appeared' as the thing sought."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "εἰλικρινῶς ὄντος",
+          "lemma": null,
+          "location": "477a",
+          "context": "τοῦ εἰλικρινῶς ὄντος καὶ τοῦ αὖ μηδαμῇ ὄντος"
+        },
+        {
+          "form": "εἰλικρινῶς ὄντος",
+          "lemma": null,
+          "location": "478d",
+          "context": "μεταξὺ κεῖσθαι τοῦ εἰλικρινῶς ὄντος τε καὶ τοῦ πάντως μὴ ὄντος"
+        }
+      ],
+      "observation": "εἰλικρινῶς ὄντος appears at both the opening hypothesis and the concluding recapitulation; the negative pole shifts from μηδαμῇ ὄντος to πάντως μὴ ὄντος."
+    },
+    {
+      "signal_id": "s016",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἐρρωμενεστάτην",
+          "lemma": "ἐρρωμένος",
+          "location": "477d",
+          "context": "πασῶν γε δυνάμεων ἐρρωμενεστάτην"
+        }
+      ],
+      "observation": "The interlocutor volunteers ἐρρωμενεστάτην as a superlative characterization of ἐπιστήμη among δυνάμεις—a singleton evaluative claim not prompted by the question."
+    }
+  ]
+}

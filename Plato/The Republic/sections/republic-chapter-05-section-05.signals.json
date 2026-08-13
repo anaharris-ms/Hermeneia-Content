@@ -1,0 +1,359 @@
+{
+  "section_id": "republic-chapter-05-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "features": [
+        "exact_repetition",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κοινάς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "τὰς γυναῖκας ταύτας τῶν ἀνδρῶν τούτων πάντων πάσας εἶναι κοινάς"
+        },
+        {
+          "form": "κοινούς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "καὶ τοὺς παῖδας αὖ κοινούς"
+        },
+        {
+          "form": "κοινὰς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "κοινὰς μὲν τὰς γυναῖκας εἶναι"
+        },
+        {
+          "form": "κοινοὺς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "κοινοὺς δὲ τοὺς παῖδας"
+        },
+        {
+          "form": "κοινὰ",
+          "lemma": "κοινός",
+          "location": "458c",
+          "context": "οἰκίας τε καὶ συσσίτια κοινὰ ἔχοντες"
+        }
+      ],
+      "observation": "κοινός recurs five times across the section, applied first to women, then children, then dwellings and meals, expanding from persons to property."
+    },
+    {
+      "signal_id": "s002",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κοινάς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "ἰδίᾳ",
+          "lemma": "ἰδίᾳ",
+          "location": "457d",
+          "context": "ἰδίᾳ δὲ μηδενὶ μηδεμίαν συνοικεῖν"
+        },
+        {
+          "form": "ἰδίᾳ",
+          "lemma": "ἰδίᾳ",
+          "location": "458c",
+          "context": "ἰδίᾳ δὲ οὐδενὸς οὐδὲν τοιοῦτον κεκτημένου"
+        }
+      ],
+      "observation": "ἰδίᾳ appears twice, each time negated, in direct contrast with κοινός."
+    },
+    {
+      "signal_id": "s003",
+      "features": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπιστίαν",
+          "lemma": "ἀπιστία",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "ἀμφισβητεῖσθαι",
+          "lemma": "ἀμφισβητέω",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "ἀμφισβήτησιν",
+          "lemma": "ἀμφισβήτησις",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "ἀμφισβητηθείη",
+          "lemma": "ἀμφισβητέω",
+          "location": "457e",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of disbelief/dispute language: ἀπιστία once, ἀμφισβητέω/ἀμφισβήτησις three times in quick succession."
+    },
+    {
+      "signal_id": "s004",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δυνατοῦ",
+          "lemma": "δυνατός",
+          "location": "457d",
+          "context": "τοῦ δυνατοῦ πέρι"
+        },
+        {
+          "form": "ὠφελίμου",
+          "lemma": "ὠφέλιμος",
+          "location": "457d",
+          "context": "τοῦ ὠφελίμου"
+        }
+      ],
+      "observation": "The pair δυνατόν/ὠφέλιμον is introduced as two distinct axes of dispute and recurs through the exchange."
+    },
+    {
+      "signal_id": "s005",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδράσεσθαι",
+          "lemma": "ἀποδιδράσκω",
+          "location": "457e",
+          "context": "ἔκ γε τοῦ ἑτέρου ἀποδράσεσθαι"
+        },
+        {
+          "form": "ἀποδιδράσκων",
+          "lemma": "ἀποδιδράσκω",
+          "location": "457e",
+          "context": "οὐκ ἔλαθες ἀποδιδράσκων"
+        }
+      ],
+      "observation": "Socrates uses ἀποδράσεσθαι for his hoped escape from one argument; Glaucon immediately echoes it with ἀποδιδράσκων, catching the attempted flight."
+    },
+    {
+      "signal_id": "s006",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ἑορτάσαι",
+          "lemma": "ἑορτάζω",
+          "location": "458a",
+          "context": "ἔασόν με ἑορτάσαι"
+        },
+        {
+          "form": "ἑστιᾶσθαι",
+          "lemma": "ἑστιάω",
+          "location": "458a",
+          "context": "εἰώθασιν ἑστιᾶσθαι ὑφʼ ἑαυτῶν"
+        }
+      ],
+      "observation": "Socrates asks to 'feast' (ἑορτάσαι) like idle minds who 'banquet themselves' (ἑστιᾶσθαι)—feasting as analogy for bypassing the question of possibility."
+    },
+    {
+      "signal_id": "s007",
+      "features": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἀργοὶ",
+          "lemma": "ἀργός",
+          "location": "458a",
+          "context": "οἱ ἀργοὶ τὴν διάνοιαν"
+        },
+        {
+          "form": "ἀργὸν",
+          "lemma": "ἀργός",
+          "location": "458a",
+          "context": "ἀργὸν καὶ ἄλλως ψυχὴν"
+        },
+        {
+          "form": "ἀργοτέραν",
+          "lemma": "ἀργός",
+          "location": "458b",
+          "context": "ἔτι ἀργοτέραν ποιοῦντες"
+        }
+      ],
+      "observation": "ἀργός appears three times in escalating form: substantive adjective, then predicate, then comparative, describing progressive idleness of the soul."
+    },
+    {
+      "signal_id": "s008",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "μαλθακίζομαι",
+          "lemma": "μαλθακίζομαι",
+          "location": "458b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates applies μαλθακίζομαι ('I grow soft') to himself, a striking self-characterization of yielding to the idle method he just described."
+    },
+    {
+      "signal_id": "s009",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "457d",
+          "context": "μήτε γονέα ἔκγονον εἰδέναι τὸν αὑτοῦ μήτε παῖδα γονέα"
+        },
+        {
+          "form": "γονέα",
+          "lemma": "γονεύς",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "ἔκγονον",
+          "lemma": "ἔκγονος",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "παῖδα",
+          "lemma": "παῖς",
+          "location": "457d",
+          "context": null
+        }
+      ],
+      "observation": "The law's formulation specifies mutual unknowing: neither parent knowing offspring nor child knowing parent, using εἰδέναι for this reciprocal epistemic erasure."
+    },
+    {
+      "signal_id": "s010",
+      "features": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτάξειν",
+          "lemma": "ἐπιτάττω",
+          "location": "458c",
+          "context": null
+        },
+        {
+          "form": "ἐπιταττόμενα",
+          "lemma": "ἐπιτάττω",
+          "location": "458c",
+          "context": "ποιεῖν τὰ ἐπιταττόμενα"
+        }
+      ],
+      "observation": "ἐπιτάττω appears active and passive in the same sentence: rulers will command, auxiliaries will do what is commanded."
+    },
+    {
+      "signal_id": "s011",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γεωμετρικαῖς",
+          "lemma": "γεωμετρικός",
+          "location": "458d",
+          "context": null
+        },
+        {
+          "form": "ἐρωτικαῖς",
+          "lemma": "ἐρωτικός",
+          "location": "458d",
+          "context": "ἐρωτικαῖς ἀνάγκαις"
+        }
+      ],
+      "observation": "Glaucon contrasts geometric necessities with erotic necessities, calling the latter δριμύτεραι for persuading and drawing the multitude."
+    },
+    {
+      "signal_id": "s012",
+      "features": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀτάκτως",
+          "lemma": "ἀτάκτως",
+          "location": "458d",
+          "context": "ἀτάκτως μὲν μείγνυσθαι"
+        },
+        {
+          "form": "ἱεροὺς",
+          "lemma": "ἱερός",
+          "location": "458e",
+          "context": "γάμους τὸ μετὰ τοῦτο ποιήσομεν ἱεροὺς"
+        }
+      ],
+      "observation": "Disordered mixing (ἀτάκτως μείγνυσθαι) is declared unholy, immediately followed by the proposal of sacred marriages (γάμους ἱερούς)."
+    },
+    {
+      "signal_id": "s013",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ὁμοφυεῖς",
+          "lemma": "ὁμοφυής",
+          "location": "458c",
+          "context": "παραδώσεις καθʼ ὅσον οἷόν τε ὁμοφυεῖς"
+        }
+      ],
+      "observation": "ὁμοφυεῖς ('of like nature') specifies that selected women are to be handed over matched in nature to the men."
+    },
+    {
+      "signal_id": "s014",
+      "features": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μεῖξιν",
+          "lemma": "μεῖξις",
+          "location": "458d",
+          "context": "πρὸς τὴν ἀλλήλων μεῖξιν"
+        },
+        {
+          "form": "μείγνυσθαι",
+          "lemma": "μείγνυμι",
+          "location": "458d",
+          "context": "ἀτάκτως μὲν μείγνυσθαι ἀλλήλοις"
+        }
+      ],
+      "observation": "μεῖξις and μείγνυσθαι appear in close sequence: first as the natural result of mixing together, then as the disordered version to be prohibited."
+    },
+    {
+      "signal_id": "s015",
+      "features": [
+        "other_textual_pattern"
+      ],
+      "elements": [
+        {
+          "form": "ὠφελιμώτατοι",
+          "lemma": "ὠφέλιμος",
+          "location": "458e",
+          "context": "εἶεν δʼ ἂν ἱεροὶ οἱ ὠφελιμώτατοι"
+        }
+      ],
+      "observation": "The section ends by equating sacred marriages with the most beneficial ones (ὠφελιμώτατοι), returning ὠφέλιμος from the earlier dispute about benefit and possibility."
+    }
+  ]
+}
