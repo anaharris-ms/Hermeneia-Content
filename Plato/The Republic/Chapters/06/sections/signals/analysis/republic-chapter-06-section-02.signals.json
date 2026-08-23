@@ -1,0 +1,672 @@
+{
+  "section_id": "republic-chapter-06-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐρωτᾶν",
+          "lemma": "ἐρωτάω",
+          "location": "487b",
+          "context": "διʼ ἀπειρίαν τοῦ ἐρωτᾶν καὶ ἀποκρίνεσθαι"
+        },
+        {
+          "form": "ἐρώτημα",
+          "lemma": "ἐρώτημα",
+          "location": "487b",
+          "context": "παρʼ ἕκαστον τὸ ἐρώτημα σμικρὸν παραγόμενοι"
+        },
+        {
+          "form": "ἐρωτώμενον",
+          "lemma": "ἐρωτάω",
+          "location": "487c",
+          "context": "καθʼ ἕκαστον τὸ ἐρωτώμενον ἐναντιοῦσθαι"
+        },
+        {
+          "form": "ἐρωτᾷς",
+          "lemma": "ἐρωτάω",
+          "location": "487e",
+          "context": null
+        },
+        {
+          "form": "ἐρώτημα",
+          "lemma": "ἐρώτημα",
+          "location": "487e",
+          "context": "ἐρώτημα δεόμενον ἀποκρίσεως"
+        }
+      ],
+      "observation": "Forms of ἐρωτάω and ἐρώτημα recur across the section: first as the activity whose inexperience causes error, then as the specific challenge Adeimantus poses, then as Socrates' naming of what Adeimantus has just done."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "487c",
+          "context": "λόγῳ μὲν οὐκ ἔχειν … ἐναντιοῦσθαι"
+        },
+        {
+          "form": "ἔργῳ",
+          "lemma": "ἔργον",
+          "location": "487c",
+          "context": "ἔργῳ δὲ ὁρᾶν"
+        }
+      ],
+      "observation": "λόγῳ and ἔργῳ are explicitly contrasted: inability to oppose in argument versus seeing in fact."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀχρήστους",
+          "lemma": "ἄχρηστος",
+          "location": "487d",
+          "context": "ἀχρήστους ταῖς πόλεσι γιγνομένους"
+        },
+        {
+          "form": "ἀχρήστους",
+          "lemma": "ἄχρηστος",
+          "location": "487e",
+          "context": "οὓς ἀχρήστους ὁμολογοῦμεν αὐταῖς εἶναι"
+        },
+        {
+          "form": "ἄχρηστόν",
+          "lemma": "ἄχρηστος",
+          "location": "489a",
+          "context": "ἄχρηστόν σφισι καλεῖσθαι"
+        }
+      ],
+      "observation": "ἄχρηστος appears three times: first as the observed condition of philosophers in cities, then as what 'we agree' about them, then as what the sailors call the true pilot."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πεττεύειν",
+          "lemma": "πεττεύω",
+          "location": "487b",
+          "context": "ὑπὸ τῶν πεττεύειν δεινῶν"
+        },
+        {
+          "form": "ψήφοις",
+          "lemma": "ψῆφος",
+          "location": "487c",
+          "context": "οὐκ ἐν ψήφοις ἀλλʼ ἐν λόγοις"
+        },
+        {
+          "form": "πεττείας",
+          "lemma": "πεττεία",
+          "location": "487c",
+          "context": "ὑπὸ πεττείας αὖ ταύτης τινὸς ἑτέρας"
+        }
+      ],
+      "observation": "A board-game cluster: πεττεύειν, πεττεία, and ψῆφοι name dialectic as a game in which the unskilled are trapped."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "morphological_variation",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σμικρὸν",
+          "lemma": "σμικρός",
+          "location": "487b",
+          "context": "σμικρὸν παραγόμενοι"
+        },
+        {
+          "form": "σμικρῶν",
+          "lemma": "σμικρός",
+          "location": "487b",
+          "context": "ἁθροισθέντων τῶν σμικρῶν"
+        },
+        {
+          "form": "μέγα",
+          "lemma": "μέγας",
+          "location": "487b",
+          "context": "μέγα τὸ σφάλμα"
+        }
+      ],
+      "observation": "σμικρόν (singular deviation) becomes σμικρῶν (accumulated small steps) and issues in μέγα τὸ σφάλμα—a small-to-great sequence."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἰκόνος",
+          "lemma": "εἰκών",
+          "location": "487e",
+          "context": "ἀποκρίσεως διʼ εἰκόνος λεγομένης"
+        },
+        {
+          "form": "εἰκόνων",
+          "lemma": "εἰκών",
+          "location": "487e",
+          "context": "οὐκ εἴωθας διʼ εἰκόνων λέγειν"
+        },
+        {
+          "form": "εἰκόνος",
+          "lemma": "εἰκών",
+          "location": "488a",
+          "context": null
+        },
+        {
+          "form": "εἰκάζω",
+          "lemma": "εἰκάζω",
+          "location": "488a",
+          "context": "ὡς γλίσχρως εἰκάζω"
+        },
+        {
+          "form": "εἰκάζοντα",
+          "lemma": "εἰκάζω",
+          "location": "488a",
+          "context": "ἐκ πολλῶν αὐτὸ συναγαγεῖν εἰκάζοντα"
+        },
+        {
+          "form": "εἰκόνα",
+          "lemma": "εἰκών",
+          "location": "489a",
+          "context": "ἐξεταζομένην τὴν εἰκόνα ἰδεῖν"
+        }
+      ],
+      "observation": "εἰκών and εἰκάζω recur densely around the introduction and conclusion of the ship image; Adeimantus notes Socrates is unaccustomed to images, and Socrates calls his own likening γλίσχρως."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "νεῶν",
+          "lemma": "ναῦς",
+          "location": "488a",
+          "context": "πολλῶν νεῶν πέρι εἴτε μιᾶς"
+        },
+        {
+          "form": "ναύκληρον",
+          "lemma": "ναύκληρος",
+          "location": "488a",
+          "context": null
+        },
+        {
+          "form": "νηὶ",
+          "lemma": "ναῦς",
+          "location": "488b",
+          "context": "τοὺς ἐν τῇ νηὶ πάντας"
+        },
+        {
+          "form": "ναύτας",
+          "lemma": "ναύτης",
+          "location": "488b",
+          "context": null
+        },
+        {
+          "form": "κυβερνήσεως",
+          "lemma": "κυβέρνησις",
+          "location": "488b",
+          "context": "στασιάζοντας … περὶ τῆς κυβερνήσεως"
+        },
+        {
+          "form": "κυβερνᾶν",
+          "lemma": "κυβερνάω",
+          "location": "488b",
+          "context": null
+        },
+        {
+          "form": "ναυκλήρῳ",
+          "lemma": "ναύκληρος",
+          "location": "488c",
+          "context": null
+        },
+        {
+          "form": "πηδάλιον",
+          "lemma": "πηδάλιον",
+          "location": "488c",
+          "context": "τὸ πηδάλιον ἐπιτρέψῃ"
+        },
+        {
+          "form": "νεώς",
+          "lemma": "ναῦς",
+          "location": "488c",
+          "context": "ἐκβάλλοντας ἐκ τῆς νεώς"
+        },
+        {
+          "form": "ναύκληρον",
+          "lemma": "ναύκληρος",
+          "location": "488c",
+          "context": "τὸν δὲ γενναῖον ναύκληρον"
+        },
+        {
+          "form": "ναυτικὸν",
+          "lemma": "ναυτικός",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "κυβερνητικὸν",
+          "lemma": "κυβερνητικός",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "ναῦν",
+          "lemma": "ναῦς",
+          "location": "488d",
+          "context": "τὰ κατὰ ναῦν"
+        },
+        {
+          "form": "κυβερνήτου",
+          "lemma": "κυβερνήτης",
+          "location": "488d",
+          "context": "τοῦ δὲ ἀληθινοῦ κυβερνήτου"
+        },
+        {
+          "form": "κυβερνητικήν",
+          "lemma": "κυβερνητική",
+          "location": "488e",
+          "context": null
+        },
+        {
+          "form": "κυβερνητικὸν",
+          "lemma": "κυβερνητικός",
+          "location": "488e",
+          "context": "τὸν ὡς ἀληθῶς κυβερνητικὸν"
+        },
+        {
+          "form": "ναυσὶ",
+          "lemma": "ναῦς",
+          "location": "489a",
+          "context": "ταῖς οὕτω κατεσκευασμέναις ναυσὶ"
+        },
+        {
+          "form": "πλωτήρων",
+          "lemma": "πλωτήρ",
+          "location": "489a",
+          "context": null
+        }
+      ],
+      "observation": "A dense nautical semantic field: ναῦς, ναύκληρος, ναύτης, κυβερνάω/κυβερνήτης/κυβερνητικός, πηδάλιον, πλωτήρ concentrate within the image."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ναυτικὸν … καὶ κυβερνητικὸν",
+          "lemma": null,
+          "location": "488d",
+          "context": "ἐπαινοῦντας ναυτικὸν μὲν καλοῦντας καὶ κυβερνητικὸν"
+        },
+        {
+          "form": "ἄχρηστον",
+          "lemma": "ἄχρηστος",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "ἀληθινοῦ κυβερνήτου",
+          "lemma": null,
+          "location": "488d",
+          "context": "τοῦ δὲ ἀληθινοῦ κυβερνήτου πέρι μηδʼ ἐπαΐοντες"
+        }
+      ],
+      "observation": "The sailors praise as 'nautical and skilled in steering' whoever helps them seize power, while calling the true pilot ἄχρηστον—a contrast between false and true attribution of κυβερνητική."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μαθόντα",
+          "lemma": "μανθάνω",
+          "location": "488b",
+          "context": "μήτε μαθόντα πώποτε τὴν τέχνην"
+        },
+        {
+          "form": "διδάσκαλον",
+          "lemma": "διδάσκαλος",
+          "location": "488b",
+          "context": "ἀποδεῖξαι διδάσκαλον ἑαυτοῦ"
+        },
+        {
+          "form": "ἐμάνθανεν",
+          "lemma": "μανθάνω",
+          "location": "488b",
+          "context": "χρόνον ἐν ᾧ ἐμάνθανεν"
+        },
+        {
+          "form": "διδακτὸν",
+          "lemma": "διδακτός",
+          "location": "488b",
+          "context": "φάσκοντας μηδὲ διδακτὸν εἶναι"
+        },
+        {
+          "form": "διδακτὸν",
+          "lemma": "διδακτός",
+          "location": "488b",
+          "context": "τὸν λέγοντα ὡς διδακτὸν"
+        },
+        {
+          "form": "τέχνην",
+          "lemma": "τέχνη",
+          "location": "488b",
+          "context": null
+        },
+        {
+          "form": "τέχνην",
+          "lemma": "τέχνη",
+          "location": "488e",
+          "context": "μήτε τέχνην τούτου"
+        },
+        {
+          "form": "μανθάνειν",
+          "lemma": "μανθάνω",
+          "location": "489a",
+          "context": "ἀλλὰ μανθάνειν ὃ λέγω"
+        }
+      ],
+      "observation": "A teaching-and-learning cluster: μανθάνω, διδάσκαλος, διδακτός, τέχνη. The sailors deny the art is teachable, have neither learned it nor can show a teacher; μανθάνειν returns at 489a as Socrates asks Adeimantus to understand his point."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πείθοντες",
+          "lemma": "πείθω",
+          "location": "488d",
+          "context": "ἢ πείθοντες ἢ βιαζόμενοι τὸν ναύκληρον"
+        },
+        {
+          "form": "βιαζόμενοι",
+          "lemma": "βιάζομαι",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "πείθωσιν",
+          "lemma": "πείθω",
+          "location": "488c",
+          "context": "ἂν μὴ πείθωσιν ἀλλὰ ἄλλοι μᾶλλον"
+        }
+      ],
+      "observation": "πείθω and βιάζομαι are paired as the two modes of gaining control of the shipowner; when persuasion fails, killing or expelling follows."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀποκτεινύντας",
+          "lemma": "ἀποκτείνω",
+          "location": "488c",
+          "context": null
+        },
+        {
+          "form": "ἐκβάλλοντας",
+          "lemma": "ἐκβάλλω",
+          "location": "488c",
+          "context": "ἐκβάλλοντας ἐκ τῆς νεώς"
+        },
+        {
+          "form": "μανδραγόρᾳ",
+          "lemma": "μανδραγόρας",
+          "location": "488c",
+          "context": "μανδραγόρᾳ ἢ μέθῃ ἤ τινι ἄλλῳ συμποδίσαντας"
+        },
+        {
+          "form": "πίνοντάς",
+          "lemma": "πίνω",
+          "location": "488c",
+          "context": "πίνοντάς τε καὶ εὐωχουμένους πλεῖν"
+        }
+      ],
+      "observation": "A sequence of violent and intoxicating actions: killing rivals, throwing them overboard, drugging/binding the shipowner, then drinking and feasting while sailing."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὑπόκωφον",
+          "lemma": "ὑπόκωφος",
+          "location": "488b",
+          "context": null
+        },
+        {
+          "form": "ὁρῶντα … βραχύ τι",
+          "lemma": null,
+          "location": "488b",
+          "context": "ὁρῶντα ὡσαύτως βραχύ τι"
+        },
+        {
+          "form": "γιγνώσκοντα … ἕτερα τοιαῦτα",
+          "lemma": null,
+          "location": "488b",
+          "context": "γιγνώσκοντα περὶ ναυτικῶν ἕτερα τοιαῦτα"
+        }
+      ],
+      "observation": "The shipowner is characterized by impaired perception: somewhat deaf, seeing only a little, and knowing nautical matters comparably poorly."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐνιαυτοῦ",
+          "lemma": "ἐνιαυτός",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "ὡρῶν",
+          "lemma": "ὥρα",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "οὐρανοῦ",
+          "lemma": "οὐρανός",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "ἄστρων",
+          "lemma": "ἄστρον",
+          "location": "488d",
+          "context": null
+        },
+        {
+          "form": "πνευμάτων",
+          "lemma": "πνεῦμα",
+          "location": "488d",
+          "context": null
+        }
+      ],
+      "observation": "The true pilot's knowledge is specified as attention to year, seasons, sky, stars, and winds—a cluster of celestial and natural phenomena."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μετεωροσκόπον",
+          "lemma": "μετεωροσκόπος",
+          "location": "488e",
+          "context": null
+        },
+        {
+          "form": "ἀδολέσχην",
+          "lemma": "ἀδολέσχης",
+          "location": "489a",
+          "context": null
+        },
+        {
+          "form": "ἄχρηστόν",
+          "lemma": "ἄχρηστος",
+          "location": "489a",
+          "context": null
+        }
+      ],
+      "observation": "Three terms of abuse applied to the true pilot: stargazer, babbler, useless—the celestial knowledge just catalogued is recast as μετεωροσκοπία."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τραγελάφους",
+          "lemma": "τραγέλαφος",
+          "location": "488a",
+          "context": "οἱ γραφῆς τραγελάφους καὶ τὰ τοιαῦτα μειγνύντες γράφουσιν"
+        },
+        {
+          "form": "γλίσχρως",
+          "lemma": "γλίσχρος",
+          "location": "488a",
+          "context": "ὡς γλίσχρως εἰκάζω"
+        },
+        {
+          "form": "ἐκ πολλῶν αὐτὸ συναγαγεῖν",
+          "lemma": null,
+          "location": "488a",
+          "context": null
+        }
+      ],
+      "observation": "Socrates describes his own image-making as labored (γλίσχρως), requiring assembly from many sources (ἐκ πολλῶν συναγαγεῖν), and compares it to painters composing hybrid creatures like the goat-stag (τραγέλαφος)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιεικεστάτους",
+          "lemma": "ἐπιεικής",
+          "location": "487d",
+          "context": "τοὺς δʼ ἐπιεικεστάτους δοκοῦντας"
+        },
+        {
+          "form": "ἐπιεικεστάτων",
+          "lemma": "ἐπιεικής",
+          "location": "488a",
+          "context": "τὸ πάθος τῶν ἐπιεικεστάτων"
+        }
+      ],
+      "observation": "ἐπιεικέστατοι appears first in Adeimantus's objection describing the 'most decent' philosophers as useless, then in Socrates' framing of the image as addressing their πάθος."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκούοντες",
+          "lemma": "ἀκούω",
+          "location": "487b",
+          "context": "οἱ ἀκούοντες ἑκάστοτε ἃ νῦν λέγεις"
+        },
+        {
+          "form": "ἀκούοιμι",
+          "lemma": "ἀκούω",
+          "location": "487d",
+          "context": "τὸ σοὶ δοκοῦν ἡδέως ἂν ἀκούοιμι"
+        },
+        {
+          "form": "ἀκούοις",
+          "lemma": "ἀκούω",
+          "location": "487d",
+          "context": null
+        },
+        {
+          "form": "ἄκουε",
+          "lemma": "ἀκούω",
+          "location": "488a",
+          "context": "ἄκουε δʼ οὖν τῆς εἰκόνος"
+        }
+      ],
+      "observation": "ἀκούω recurs: the general listeners who feel misled, Adeimantus wishing to hear Socrates' view, Socrates responding 'you would hear,' then the imperative ἄκουε introducing the image."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποκλείονται",
+          "lemma": "ἀποκλείω",
+          "location": "487b",
+          "context": "οἱ μὴ τελευτῶντες ἀποκλείονται"
+        },
+        {
+          "form": "ἀποκλείεσθαι",
+          "lemma": "ἀποκλείω",
+          "location": "487c",
+          "context": "σφεῖς τελευτῶντες ἀποκλείεσθαι"
+        }
+      ],
+      "observation": "ἀποκλείω is used first of board-game players being shut out and then transferred to interlocutors shut out in argument."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νέοι ὄντες",
+          "lemma": null,
+          "location": "487c",
+          "context": "ἁψάμενοι νέοι ὄντες ἀπαλλάττωνται"
+        },
+        {
+          "form": "μακρότερον ἐνδιατρίψωσιν",
+          "lemma": null,
+          "location": "487d",
+          "context": null
+        }
+      ],
+      "observation": "Two paths in philosophy are contrasted: those who touch it young and depart versus those who spend longer time in it."
+    }
+  ]
+}
