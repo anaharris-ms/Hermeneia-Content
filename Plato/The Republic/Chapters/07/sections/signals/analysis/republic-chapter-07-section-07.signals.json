@@ -1,0 +1,424 @@
+{
+  "section_id": "republic-chapter-07-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄναγε",
+          "lemma": "ἀνάγω",
+          "location": "528a",
+          "context": "ἄναγε τοίνυν … εἰς τοὐπίσω"
+        },
+        {
+          "form": "εἰς τοὐπίσω",
+          "lemma": null,
+          "location": "528a",
+          "context": null
+        },
+        {
+          "form": "ἀνεχώρησας",
+          "lemma": "ἀναχωρέω",
+          "location": "528d",
+          "context": "ὕστερον δʼ ἀνεχώρησας"
+        },
+        {
+          "form": "ὑπερβάς",
+          "lemma": "ὑπερβαίνω",
+          "location": "528d",
+          "context": "ὑπερβὰς αὐτὴν μετὰ γεωμετρίαν"
+        }
+      ],
+      "observation": "Several verbs of directional movement describe the methodological act of reordering: ἄναγε (lead back up), ἀνεχώρησας (withdrew/retreated), and ὑπερβάς (leaping over), all applied to the sequence of studies rather than physical motion."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "αὔξην",
+          "lemma": "αὔξη",
+          "location": "528b",
+          "context": "μετὰ δευτέραν αὔξην τρίτην"
+        },
+        {
+          "form": "αὔξης",
+          "lemma": "αὔξη",
+          "location": "528d",
+          "context": "τὴν βάθους αὔξης μέθοδον"
+        },
+        {
+          "form": "αὐξάνεται",
+          "lemma": "αὐξάνω",
+          "location": "528c",
+          "context": "βίᾳ ὑπὸ χάριτος αὐξάνεται"
+        }
+      ],
+      "observation": "αὔξη appears twice for dimensional increase (second/third dimension), then αὐξάνεται describes the growth of the neglected study itself—the word for mathematical dimension is applied to the discipline's own development."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἑξῆς",
+          "lemma": "ἑξῆς",
+          "location": "528a",
+          "context": "οὐκ ὀρθῶς τὸ ἑξῆς ἐλάβομεν"
+        },
+        {
+          "form": "ἑξῆς",
+          "lemma": "ἑξῆς",
+          "location": "528b",
+          "context": "ὀρθῶς δὲ ἔχει ἑξῆς μετὰ δευτέραν αὔξην"
+        },
+        {
+          "form": "ἑξῆς",
+          "lemma": "ἑξῆς",
+          "location": "528d",
+          "context": "ἑξῆς γὰρ οὖσαν"
+        }
+      ],
+      "observation": "ἑξῆς recurs three times, each time marking the correct sequential order of studies—first as wrongly taken, then as rightly described, then as the skipped step."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐντίμως",
+          "lemma": "ἐντίμως",
+          "location": "528b",
+          "context": "οὐδεμία πόλις ἐντίμως αὐτὰ ἔχει"
+        },
+        {
+          "form": "ἐντίμως",
+          "lemma": "ἐντίμως",
+          "location": "528c",
+          "context": "πόλις ὅλη συνεπιστατοῖ ἐντίμως ἄγουσα"
+        },
+        {
+          "form": "ἀτιμαζόμενα",
+          "lemma": "ἀτιμάζω",
+          "location": "528c",
+          "context": "ὑπὸ τῶν πολλῶν ἀτιμαζόμενα"
+        }
+      ],
+      "observation": "ἐντίμως appears first in the negative (no city honors these studies) then in the counterfactual positive, while ἀτιμαζόμενα states the actual present dishonor—a contrast of honor and dishonor around the same subject."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ζητεῖται",
+          "lemma": "ζητέω",
+          "location": "528b",
+          "context": "ἀσθενῶς ζητεῖται"
+        },
+        {
+          "form": "ζητοῦντες",
+          "lemma": "ζητέω",
+          "location": "528b",
+          "context": "ἐπιστάτου τε δέονται οἱ ζητοῦντες"
+        },
+        {
+          "form": "ζητητικοί",
+          "lemma": "ζητητικός",
+          "location": "528c",
+          "context": "οἱ περὶ ταῦτα ζητητικοί"
+        },
+        {
+          "form": "ζητούμενα",
+          "lemma": "ζητέω",
+          "location": "528c",
+          "context": "συνεχῶς τε ἂν καὶ ἐντόνως ζητούμενα"
+        },
+        {
+          "form": "ζητούντων",
+          "lemma": "ζητέω",
+          "location": "528c",
+          "context": "ὑπὸ δὲ τῶν ζητούντων"
+        },
+        {
+          "form": "ζητήσει",
+          "lemma": "ζήτησις",
+          "location": "528d",
+          "context": "τῇ ζητήσει γελοίως ἔχει"
+        }
+      ],
+      "observation": "Forms of ζητέω and related words recur densely across 528b–d, applied to the seekers, their seeking, and the state of the search."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πείθοιντο",
+          "lemma": "πείθω",
+          "location": "528c",
+          "context": "οὐκ ἂν πείθοιντο οἱ περὶ ταῦτα ζητητικοί"
+        },
+        {
+          "form": "πείθοιντο",
+          "lemma": "πείθω",
+          "location": "528c",
+          "context": "οὗτοί τε ἂν πείθοιντο"
+        }
+      ],
+      "observation": "πείθοιντο appears first negated (the proud researchers would not be persuaded) then affirmed in the counterfactual (they would be persuaded if the city led)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐπίπεδον",
+          "lemma": "ἐπίπεδον",
+          "location": "528a",
+          "context": "μετὰ ἐπίπεδον"
+        },
+        {
+          "form": "στερεόν",
+          "lemma": "στερεός",
+          "location": "528a",
+          "context": "ἤδη στερεὸν λαβόντες"
+        },
+        {
+          "form": "κύβων",
+          "lemma": "κύβος",
+          "location": "528b",
+          "context": "περὶ τὴν τῶν κύβων αὔξην"
+        },
+        {
+          "form": "βάθους",
+          "lemma": "βάθος",
+          "location": "528b",
+          "context": "τὸ βάθους μετέχον"
+        },
+        {
+          "form": "βάθους",
+          "lemma": "βάθος",
+          "location": "528d",
+          "context": "τὴν βάθους αὔξης μέθοδον"
+        },
+        {
+          "form": "βάθους",
+          "lemma": "βάθος",
+          "location": "528e",
+          "context": "φορὰν οὖσαν βάθους"
+        }
+      ],
+      "observation": "A cluster of dimensional terms—ἐπίπεδον (plane), στερεόν (solid), κύβος (cube), βάθος (depth)—articulates the progression from two to three dimensions."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σπεύδων",
+          "lemma": "σπεύδω",
+          "location": "528d",
+          "context": "σπεύδων γάρ … ταχὺ πάντα διεξελθεῖν"
+        },
+        {
+          "form": "βραδύνω",
+          "lemma": "βραδύνω",
+          "location": "528d",
+          "context": "μᾶλλον βραδύνω"
+        }
+      ],
+      "observation": "σπεύδων (hastening) and βραδύνω (I go more slowly) are juxtaposed: hurrying to traverse everything quickly produces delay."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λαβόντες",
+          "lemma": "λαμβάνω",
+          "location": "528a",
+          "context": "πῶς λαβόντες;"
+        },
+        {
+          "form": "λαβόντες",
+          "lemma": "λαμβάνω",
+          "location": "528b",
+          "context": "στερεὸν λαβόντες"
+        },
+        {
+          "form": "λαβεῖν",
+          "lemma": "λαμβάνω",
+          "location": "528b",
+          "context": "πρὶν αὐτὸ καθʼ αὑτὸ λαβεῖν"
+        },
+        {
+          "form": "λαμβάνειν",
+          "lemma": "λαμβάνω",
+          "location": "528b",
+          "context": "τρίτην λαμβάνειν"
+        },
+        {
+          "form": "ἐλάβομεν",
+          "lemma": "λαμβάνω",
+          "location": "528a",
+          "context": "τὸ ἑξῆς ἐλάβομεν"
+        }
+      ],
+      "observation": "λαμβάνω recurs five times in 528a–b, shifting between taking the wrong sequence (ἐλάβομεν), taking the solid prematurely (λαβόντες), taking it in itself (λαβεῖν), and taking the third increase (λαμβάνειν)."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μεγαλοφρονούμενοι",
+          "lemma": "μεγαλοφρονέομαι",
+          "location": "528c",
+          "context": "οἱ περὶ ταῦτα ζητητικοὶ μεγαλοφρονούμενοι"
+        }
+      ],
+      "observation": "μεγαλοφρονούμενοι characterizes the researchers in solid geometry as proud/high-minded, presented as an obstacle to their accepting an overseer."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "βίᾳ",
+          "lemma": "βία",
+          "location": "528c",
+          "context": "βίᾳ ὑπὸ χάριτος αὐξάνεται"
+        },
+        {
+          "form": "χάριτος",
+          "lemma": "χάρις",
+          "location": "528c",
+          "context": "βίᾳ ὑπὸ χάριτος αὐξάνεται"
+        }
+      ],
+      "observation": "βίᾳ (by force) and χάριτος (charm/grace) are conjoined: the study grows by force of its own charm despite neglect."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιστάτου",
+          "lemma": "ἐπιστάτης",
+          "location": "528b",
+          "context": "ἐπιστάτου τε δέονται οἱ ζητοῦντες"
+        },
+        {
+          "form": "συνεπιστατοῖ",
+          "lemma": "συνεπιστατέω",
+          "location": "528c",
+          "context": "εἰ δὲ πόλις ὅλη συνεπιστατοῖ"
+        }
+      ],
+      "observation": "ἐπιστάτης (overseer) needed by the researchers is answered by the compound συνεπιστατοῖ, where the whole city jointly oversees—individual oversight is scaled to collective oversight."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γεωμετρίαν",
+          "lemma": "γεωμετρία",
+          "location": "528a",
+          "context": "τὸ ἑξῆς ἐλάβομεν τῇ γεωμετρίᾳ"
+        },
+        {
+          "form": "ἀστρονομίαν",
+          "lemma": "ἀστρονομία",
+          "location": "528d",
+          "context": "τὸ μὲν πρῶτον ἀστρονομίαν μετὰ ταύτην"
+        },
+        {
+          "form": "τέταρτον",
+          "lemma": "τέταρτος",
+          "location": "528e",
+          "context": "τέταρτον τοίνυν … τιθῶμεν μάθημα ἀστρονομίαν"
+        },
+        {
+          "form": "παραλειπομένης",
+          "lemma": "παραλείπω",
+          "location": "528e",
+          "context": "ὡς ὑπαρχούσης τῆς νῦν παραλειπομένης"
+        }
+      ],
+      "observation": "The reordering is made explicit: astronomy was placed after geometry but should be fourth, assuming the currently omitted solid geometry is supplied (παραλειπομένης)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γελοίως",
+          "lemma": "γελοῖος",
+          "location": "528d",
+          "context": "ὅτι τῇ ζητήσει γελοίως ἔχει"
+        },
+        {
+          "form": "φορτικῶς",
+          "lemma": "φορτικός",
+          "location": "528e",
+          "context": "περὶ ἀστρονομίας ὡς φορτικῶς ἐπαινοῦντι"
+        }
+      ],
+      "observation": "Two evaluative adverbs appear near the section's end: γελοίως describes the ridiculous state of inquiry into solids, and φορτικῶς describes the interlocutor's vulgar praise of astronomy."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "περιφορᾷ",
+          "lemma": "περιφορά",
+          "location": "528a",
+          "context": "ἐν περιφορᾷ ὂν ἤδη στερεόν"
+        },
+        {
+          "form": "φοράν",
+          "lemma": "φορά",
+          "location": "528e",
+          "context": "φορὰν οὖσαν βάθους"
+        }
+      ],
+      "observation": "περιφορά (revolution) describes the solid already in motion that was taken prematurely; φορά (motion) defines astronomy as motion of depth—both link solids to motion but at different points in the corrected sequence."
+    }
+  ]
+}
