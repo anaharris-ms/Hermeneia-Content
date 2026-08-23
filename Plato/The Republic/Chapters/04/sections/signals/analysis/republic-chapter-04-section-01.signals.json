@@ -1,0 +1,581 @@
+{
+  "section_id": "republic-chapter-04-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαίμονας",
+          "lemma": "εὐδαίμων",
+          "location": "419a",
+          "context": "μὴ πάνυ τι εὐδαίμονας ποιεῖν τούτους τοὺς ἄνδρας"
+        },
+        {
+          "form": "εὐδαίμονες",
+          "lemma": "εὐδαίμων",
+          "location": "420a",
+          "context": "οἱ εὐδαίμονες δοκοῦντες εἶναι"
+        },
+        {
+          "form": "εὐδαιμονέστατοί",
+          "lemma": "εὐδαίμων",
+          "location": "420b",
+          "context": "εἰ καὶ οὗτοι οὕτως εὐδαιμονέστατοί εἰσιν"
+        },
+        {
+          "form": "εὔδαιμον",
+          "lemma": "εὐδαίμων",
+          "location": "420b",
+          "context": "ἕν τι ἡμῖν ἔθνος ἔσται διαφερόντως εὔδαιμον"
+        },
+        {
+          "form": "εὐδαίμονα",
+          "lemma": "εὐδαίμων",
+          "location": "420c",
+          "context": "τὴν εὐδαίμονα πλάττομεν"
+        },
+        {
+          "form": "εὐδαιμονίαν",
+          "lemma": "εὐδαιμονία",
+          "location": "420d",
+          "context": "τοιαύτην εὐδαιμονίαν τοῖς φύλαξι προσάπτειν"
+        },
+        {
+          "form": "εὐδαιμονῇ",
+          "lemma": "εὐδαιμονέω",
+          "location": "420e",
+          "context": "ἵνα δὴ ὅλη ἡ πόλις εὐδαιμονῇ"
+        },
+        {
+          "form": "εὐδαιμονεῖν",
+          "lemma": "εὐδαιμονέω",
+          "location": "421a",
+          "context": "τοῦ εὖ οἰκεῖν καὶ εὐδαιμονεῖν"
+        },
+        {
+          "form": "εὐδαιμονία",
+          "lemma": "εὐδαιμονία",
+          "location": "421b",
+          "context": "ὅπως ὅτι πλείστη αὐτοῖς εὐδαιμονία ἐγγενήσεται"
+        },
+        {
+          "form": "εὐδαίμονας",
+          "lemma": "εὐδαίμων",
+          "location": "421b",
+          "context": "ἑστιάτορας εὐδαίμονας"
+        },
+        {
+          "form": "εὐδαιμονίας",
+          "lemma": "εὐδαιμονία",
+          "location": "421c",
+          "context": "τοῦ μεταλαμβάνειν εὐδαιμονίας"
+        }
+      ],
+      "observation": "The εὐδαίμων/εὐδαιμονία word family recurs with high density throughout the section, appearing in noun, adjective, superlative, and verb forms, shifting between individual happiness (of guardians) and whole-city happiness."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὅλη ἡ πόλις",
+          "lemma": null,
+          "location": "420b",
+          "context": "ἀλλʼ ὅπως ὅτι μάλιστα ὅλη ἡ πόλις"
+        },
+        {
+          "form": "ἕν τι ἡμῖν ἔθνος",
+          "lemma": null,
+          "location": "420b",
+          "context": "ὅπως ἕν τι ἡμῖν ἔθνος ἔσται διαφερόντως εὔδαιμον"
+        },
+        {
+          "form": "ὅλην",
+          "lemma": "ὅλος",
+          "location": "420c",
+          "context": "ἀλλʼ ὅλην"
+        },
+        {
+          "form": "ὅλη ἡ πόλις",
+          "lemma": null,
+          "location": "420e",
+          "context": "ἵνα δὴ ὅλη ἡ πόλις εὐδαιμονῇ"
+        },
+        {
+          "form": "τὴν πόλιν ὅλην",
+          "lemma": null,
+          "location": "421b",
+          "context": "εἰς τὴν πόλιν ὅλην βλέποντας"
+        },
+        {
+          "form": "συμπάσης τῆς πόλεως",
+          "lemma": null,
+          "location": "421c",
+          "context": "συμπάσης τῆς πόλεως αὐξανομένης"
+        }
+      ],
+      "observation": "ὅλος/σύμπας with πόλις recurs in contrast with individual groups (ἔθνος, φύλακες, γεωργοί), articulating a part-whole opposition throughout the section."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀγρούς",
+          "lemma": "ἀγρός",
+          "location": "419a",
+          "context": null
+        },
+        {
+          "form": "οἰκίας οἰκοδομούμενοι καλὰς καὶ μεγάλας",
+          "lemma": null,
+          "location": "419a",
+          "context": null
+        },
+        {
+          "form": "κατασκευὴν",
+          "lemma": "κατασκευή",
+          "location": "419a",
+          "context": "ταύταις πρέπουσαν κατασκευὴν κτώμενοι"
+        },
+        {
+          "form": "θυσίας θεοῖς ἰδίας θύοντες",
+          "lemma": null,
+          "location": "419a",
+          "context": null
+        },
+        {
+          "form": "ξενοδοκοῦντες",
+          "lemma": "ξενοδοκέω",
+          "location": "419a",
+          "context": null
+        },
+        {
+          "form": "χρυσόν τε καὶ ἄργυρον",
+          "lemma": null,
+          "location": "419a",
+          "context": "χρυσόν τε καὶ ἄργυρον κεκτημένοι"
+        }
+      ],
+      "observation": "A dense cluster of possessions and activities characterizes the life denied to the guardians: land, houses, furnishings, private sacrifices, hosting guests, gold and silver."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μακαρίοις",
+          "lemma": "μακάριος",
+          "location": "419a",
+          "context": "τοῖς μέλλουσιν μακαρίοις εἶναι"
+        },
+        {
+          "form": "μακαρίους",
+          "lemma": "μακάριος",
+          "location": "420e",
+          "context": "τοιούτῳ τρόπῳ μακαρίους ποιεῖν"
+        }
+      ],
+      "observation": "μακάριος appears first describing those conventionally expected to be blessed, then reappears ironically in the hypothetical of making all craftsmen 'blessed' in a way that destroys their function."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "γεωργοὺς ξυστίδας ἀμφιέσαντες καὶ χρυσὸν περιθέντες",
+          "lemma": null,
+          "location": "420e",
+          "context": null
+        },
+        {
+          "form": "κεραμέας κατακλίναντες ἐπὶ δεξιὰ πρὸς τὸ πῦρ διαπίνοντάς τε καὶ εὐωχουμένους",
+          "lemma": null,
+          "location": "420e",
+          "context": null
+        }
+      ],
+      "observation": "Farmers and potters receive parallel constructions: each is given luxuries incompatible with their craft (fine robes and gold for farmers; reclining, drinking, and feasting for potters)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδριάντα γράφοντας",
+          "lemma": null,
+          "location": "420c",
+          "context": null
+        },
+        {
+          "form": "ὀφθαλμοί",
+          "lemma": "ὀφθαλμός",
+          "location": "420c",
+          "context": "οἱ γὰρ ὀφθαλμοὶ κάλλιστον ὂν"
+        },
+        {
+          "form": "ὀστρείῳ",
+          "lemma": "ὄστρειον",
+          "location": "420c",
+          "context": "οὐκ ὀστρείῳ ἐναληλιμμένοι εἶεν ἀλλὰ μέλανι"
+        },
+        {
+          "form": "τὸ ὅλον καλὸν ποιοῦμεν",
+          "lemma": null,
+          "location": "420d",
+          "context": "τὰ προσήκοντα ἑκάστοις ἀποδιδόντες τὸ ὅλον καλὸν ποιοῦμεν"
+        }
+      ],
+      "observation": "The statue analogy introduces painting (γράφειν) a figure: eyes painted with purple dye (ὄστρειον) would be individually beautiful but would ruin the whole (ὅλον καλόν), paralleling the part-whole argument about the city."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύλαξι",
+          "lemma": "φύλαξ",
+          "location": "420d",
+          "context": null
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "420e",
+          "context": "πᾶν μᾶλλον ἀπεργάσεται ἢ φύλακας"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "421a",
+          "context": "φύλακας ὡς ἀληθῶς"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "421b",
+          "context": "τοὺς φύλακας καθιστῶμεν"
+        },
+        {
+          "form": "φύλαξιν",
+          "lemma": "φύλαξ",
+          "location": "421e",
+          "context": "τοῖς φύλαξιν ηὑρήκαμεν"
+        },
+        {
+          "form": "φυλακτέον",
+          "lemma": "φυλάσσω",
+          "location": "421e",
+          "context": "παντὶ τρόπῳ φυλακτέον"
+        }
+      ],
+      "observation": "φύλαξ recurs throughout; at 421e φυλακτέον (verbal adjective of φυλάσσω) appears alongside φύλαξιν, so the guardians must guard against something entering the city."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πλοῦτος",
+          "lemma": "πλοῦτος",
+          "location": "421d",
+          "context": "πλοῦτος καὶ πενία"
+        },
+        {
+          "form": "πενία",
+          "lemma": "πενία",
+          "location": "421d",
+          "context": null
+        },
+        {
+          "form": "πλοῦτός τε",
+          "lemma": "πλοῦτος",
+          "location": "422a",
+          "context": null
+        },
+        {
+          "form": "πενίας",
+          "lemma": "πενία",
+          "location": "422a",
+          "context": null
+        }
+      ],
+      "observation": "πλοῦτος and πενία are named together as a pair at 421d and again at 422a, framed as twin corruptors of craftsmanship and the city."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπίκουροι μισθωτοί",
+          "lemma": null,
+          "location": "419a-420a",
+          "context": "ὥσπερ ἐπίκουροι μισθωτοὶ ἐν τῇ πόλει φαίνονται καθῆσθαι"
+        },
+        {
+          "form": "ἐπικούρους",
+          "lemma": "ἐπίκουρος",
+          "location": "421b",
+          "context": "τοὺς δʼ ἐπικούρους τούτους καὶ τοὺς φύλακας"
+        }
+      ],
+      "observation": "ἐπίκουροι first appears in the objection as a negative comparison (hired mercenaries), then returns at 421b as a designation for the auxiliaries alongside the guardians."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργοί",
+          "lemma": "δημιουργός",
+          "location": "421c",
+          "context": "ὅπως ὅτι ἄριστοι δημιουργοὶ τοῦ ἑαυτῶν ἔργου ἔσονται"
+        },
+        {
+          "form": "δημιουργούς",
+          "lemma": "δημιουργός",
+          "location": "421d",
+          "context": "τοὺς ἄλλους αὖ δημιουργοὺς σκόπει"
+        },
+        {
+          "form": "δημιουργούς",
+          "lemma": "δημιουργός",
+          "location": "421e",
+          "context": "χείρους δημιουργοὺς διδάξεται"
+        }
+      ],
+      "observation": "δημιουργός recurs: guardians are to be the best craftsmen of their own work (421c), then the argument turns to how other craftsmen are corrupted (421d-e)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χρυσόν",
+          "lemma": "χρυσός",
+          "location": "419a",
+          "context": "χρυσόν τε καὶ ἄργυρον κεκτημένοι"
+        },
+        {
+          "form": "χρυσὸν",
+          "lemma": "χρυσός",
+          "location": "420e",
+          "context": "χρυσὸν περιθέντες"
+        }
+      ],
+      "observation": "χρυσός appears first in the list of possessions denied to guardians (419a) and returns as the absurd adornment placed on farmers (420e)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βλέποντες",
+          "lemma": "βλέπω",
+          "location": "420b",
+          "context": "οὐ μὴν πρὸς τοῦτο βλέποντες τὴν πόλιν οἰκίζομεν"
+        },
+        {
+          "form": "βλέποντες",
+          "lemma": "βλέπω",
+          "location": "421b",
+          "context": "πρὸς τοῦτο βλέποντες τοὺς φύλακας καθιστῶμεν"
+        },
+        {
+          "form": "βλέποντας",
+          "lemma": "βλέπω",
+          "location": "421b",
+          "context": "εἰς τὴν πόλιν ὅλην βλέποντας θεατέον"
+        }
+      ],
+      "observation": "βλέπω recurs as the act of directing attention: at 420b toward individual group happiness, at 421b twice contrasting looking at guardians' happiness versus looking at the whole city."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὁ γεωργὸς γεωργός",
+          "lemma": "γεωργός",
+          "location": "420e-421a",
+          "context": "οὔτε ὁ γεωργὸς γεωργὸς ἔσται"
+        },
+        {
+          "form": "ὁ κεραμεὺς κεραμεύς",
+          "lemma": "κεραμεύς",
+          "location": "421a",
+          "context": "οὔτε ὁ κεραμεὺς κεραμεύς"
+        }
+      ],
+      "observation": "The doubling of each craft noun (γεωργὸς γεωργός, κεραμεὺς κεραμεύς) states that the craftsman will no longer be what he is named as being."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μὴ ὄντες ἀλλὰ δοκοῦντες",
+          "lemma": null,
+          "location": "421a",
+          "context": "φύλακες δὲ νόμων τε καὶ πόλεως μὴ ὄντες ἀλλὰ δοκοῦντες"
+        },
+        {
+          "form": "προσποιησάμενοι εἶναι μὴ ὄντες",
+          "lemma": null,
+          "location": "421a",
+          "context": "νευρορράφοι ... προσποιησάμενοι εἶναι μὴ ὄντες"
+        }
+      ],
+      "observation": "Being versus seeming (ὄντες/δοκοῦντες, εἶναι/μὴ ὄντες) appears for both cobblers and guardians, with contrasting consequences: trivial for cobblers, catastrophic for guardians."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀπολογήσῃ",
+          "lemma": "ἀπολογέομαι",
+          "location": "419a",
+          "context": "τί οὖν ἀπολογήσῃ"
+        },
+        {
+          "form": "ἀπολογησόμεθα",
+          "lemma": "ἀπολογέομαι",
+          "location": "420b",
+          "context": "τί οὖν δὴ ἀπολογησόμεθα"
+        },
+        {
+          "form": "ἀπολογεῖσθαι",
+          "lemma": "ἀπολογέομαι",
+          "location": "420d",
+          "context": "μετρίως ἂν ἐδοκοῦμεν πρὸς αὐτὸν ἀπολογεῖσθαι"
+        }
+      ],
+      "observation": "ἀπολογέομαι moves from Adeimantus's challenge (singular, 419a), to Socrates' uptake (plural, 420b), to the statue analogy's hypothetical defense (420d)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τρυφήν",
+          "lemma": "τρυφή",
+          "location": "422a",
+          "context": null
+        },
+        {
+          "form": "ἀργίαν",
+          "lemma": "ἀργία",
+          "location": "422a",
+          "context": null
+        },
+        {
+          "form": "νεωτερισμόν",
+          "lemma": "νεωτερισμός",
+          "location": "422a",
+          "context": "τοῦ μὲν τρυφὴν καὶ ἀργίαν καὶ νεωτερισμὸν ἐμποιοῦντος"
+        },
+        {
+          "form": "ἀνελευθερίαν",
+          "lemma": "ἀνελευθερία",
+          "location": "422a",
+          "context": null
+        },
+        {
+          "form": "κακοεργίαν",
+          "lemma": "κακοεργία",
+          "location": "422a",
+          "context": "τῆς δὲ ἀνελευθερίαν καὶ κακοεργίαν πρὸς τῷ νεωτερισμῷ"
+        }
+      ],
+      "observation": "The section closes with a cluster of vices: wealth produces luxury, idleness, and revolution; poverty produces illiberality and bad workmanship, plus revolution. νεωτερισμός is shared by both."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χυτρεύς",
+          "lemma": "χυτρεύς",
+          "location": "421d",
+          "context": "πλουτήσας χυτρεὺς δοκεῖ σοι ἔτʼ ἐθελήσειν ἐπιμελεῖσθαι τῆς τέχνης"
+        },
+        {
+          "form": "κεραμέας",
+          "lemma": "κεραμεύς",
+          "location": "420e",
+          "context": null
+        },
+        {
+          "form": "κεραμεύς",
+          "lemma": "κεραμεύς",
+          "location": "421a",
+          "context": null
+        }
+      ],
+      "observation": "The potter figure shifts terms: κεραμεύς in the luxury-hypothetical and the doubling formula, but χυτρεύς in the wealth-corruption argument at 421d."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἰδίας",
+          "lemma": "ἴδιος",
+          "location": "419a",
+          "context": "θυσίας θεοῖς ἰδίας θύοντες"
+        },
+        {
+          "form": "ἰδίᾳ",
+          "lemma": "ἴδιος",
+          "location": "420a",
+          "context": "ἀποδημῆσαι βούλωνται ἰδίᾳ"
+        }
+      ],
+      "observation": "ἴδιος appears twice marking private activity: private sacrifices (419a) and private travel (420a), both denied to guardians."
+    }
+  ]
+}
