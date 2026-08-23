@@ -1,0 +1,537 @@
+{
+  "section_id": "republic-chapter-04-section-10",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνιὼν",
+          "lemma": "ἀνιέναι",
+          "location": "439e",
+          "context": "Λεόντιος ὁ Ἀγλαΐωνος ἀνιὼν ἐκ Πειραιῶς"
+        }
+      ],
+      "observation": "Leontius is moving upward out of the Piraeus, an explicit ascending movement."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "439e",
+          "context": "ἅμα μὲν ἰδεῖν ἐπιθυμοῖ"
+        },
+        {
+          "form": "παρακαλύπτοιτο",
+          "lemma": "παρακαλύπτω",
+          "location": "439e",
+          "context": "μάχοιτό τε καὶ παρακαλύπτοιτο"
+        },
+        {
+          "form": "διελκύσας τοὺς ὀφθαλμούς",
+          "lemma": null,
+          "location": "440a",
+          "context": null
+        },
+        {
+          "form": "ἰδοὺ",
+          "lemma": "ὁράω",
+          "location": "440a",
+          "context": "ἰδοὺ ὑμῖν"
+        },
+        {
+          "form": "θεάματος",
+          "lemma": "θέαμα",
+          "location": "440a",
+          "context": "ἐμπλήσθητε τοῦ καλοῦ θεάματος"
+        }
+      ],
+      "observation": "A dense cluster of seeing-related terms in the Leontius story: desiring to see, covering the eyes, forcibly opening them, the imperative 'look,' and the noun 'spectacle.'"
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμοῖ",
+          "lemma": "ἐπιθυμέω",
+          "location": "439e",
+          "context": "ἰδεῖν ἐπιθυμοῖ"
+        },
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "440a",
+          "context": "κρατούμενος ὑπὸ τῆς ἐπιθυμίας"
+        },
+        {
+          "form": "ἐπιθυμίαις",
+          "lemma": "ἐπιθυμία",
+          "location": "440a",
+          "context": "ὀργὴν πολεμεῖν ταῖς ἐπιθυμίαις"
+        },
+        {
+          "form": "ἐπιθυμίαι",
+          "lemma": "ἐπιθυμία",
+          "location": "440b",
+          "context": "βιάζωνταί τινα παρὰ τὸν λογισμὸν ἐπιθυμίαι"
+        },
+        {
+          "form": "ἐπιθυμητικόν",
+          "lemma": "ἐπιθυμητικός",
+          "location": "439e",
+          "context": "τῷ ἐπιθυμητικῷ"
+        },
+        {
+          "form": "ἐπιθυμητικόν",
+          "lemma": "ἐπιθυμητικός",
+          "location": "440e",
+          "context": "ἐπιθυμητικόν τι αὐτὸ ᾠόμεθα εἶναι"
+        },
+        {
+          "form": "ἐπιθυμητικόν",
+          "lemma": "ἐπιθυμητικός",
+          "location": "440e",
+          "context": "λογιστικὸν καὶ ἐπιθυμητικόν"
+        }
+      ],
+      "observation": "The ἐπιθυμία/ἐπιθυμητικός family recurs throughout the section, moving from Leontius's concrete desire to see, through the force that overcomes him, to the abstract faculty under discussion."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θυμοῦ",
+          "lemma": "θυμός",
+          "location": "439e",
+          "context": "τὸ δὲ δὴ τοῦ θυμοῦ"
+        },
+        {
+          "form": "θυμούμεθα",
+          "lemma": "θυμόω",
+          "location": "439e",
+          "context": "ᾧ θυμούμεθα"
+        },
+        {
+          "form": "θυμούμενον",
+          "lemma": "θυμόω",
+          "location": "440b",
+          "context": "θυμούμενον τῷ βιαζομένῳ"
+        },
+        {
+          "form": "θυμὸν",
+          "lemma": "θυμός",
+          "location": "440b",
+          "context": "σύμμαχον τῷ λόγῳ γιγνόμενον τὸν θυμὸν"
+        },
+        {
+          "form": "θυμοειδοῦς",
+          "lemma": "θυμοειδής",
+          "location": "440e",
+          "context": "περὶ τοῦ θυμοειδοῦς"
+        },
+        {
+          "form": "θυμοειδές",
+          "lemma": "θυμοειδής",
+          "location": "441a",
+          "context": "τρίτον τοῦτό ἐστι τὸ θυμοειδές"
+        },
+        {
+          "form": "θυμοῦ",
+          "lemma": "θυμός",
+          "location": "441a",
+          "context": "θυμοῦ μὲν εὐθὺς γενόμενα μεστά ἐστι"
+        },
+        {
+          "form": "θυμουμένῳ",
+          "lemma": "θυμόω",
+          "location": "441c",
+          "context": "τῷ ἀλογίστως θυμουμένῳ"
+        }
+      ],
+      "observation": "θυμός and its derivatives recur densely, shifting between the faculty under inquiry, the verb of being angry, and the compound θυμοειδής."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πολεμεῖν",
+          "lemma": "πολεμέω",
+          "location": "440a",
+          "context": "ὀργὴν πολεμεῖν ταῖς ἐπιθυμίαις"
+        },
+        {
+          "form": "μάχοιτο",
+          "lemma": "μάχομαι",
+          "location": "439e",
+          "context": "τέως μὲν μάχοιτό τε"
+        },
+        {
+          "form": "στασιαζόντοιν",
+          "lemma": "στασιάζω",
+          "location": "440b",
+          "context": "ὥσπερ δυοῖν στασιαζόντοιν"
+        },
+        {
+          "form": "σύμμαχον",
+          "lemma": "σύμμαχος",
+          "location": "440b",
+          "context": "σύμμαχον τῷ λόγῳ"
+        },
+        {
+          "form": "συμμαχεῖ",
+          "lemma": "συμμαχέω",
+          "location": "440c",
+          "context": "συμμαχεῖ τῷ δοκοῦντι δικαίῳ"
+        },
+        {
+          "form": "ἀντιπράττειν",
+          "lemma": "ἀντιπράττω",
+          "location": "440b",
+          "context": null
+        },
+        {
+          "form": "τὰ ὅπλα",
+          "lemma": "ὅπλον",
+          "location": "440e",
+          "context": "τίθεσθαι τὰ ὅπλα πρὸς τὸ λογιστικόν"
+        }
+      ],
+      "observation": "A cluster of military and conflict terms—fighting, warring, faction, alliance, opposing, arms—applied to intra-psychic relations."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμοῖ",
+          "lemma": "ἐπιθυμέω",
+          "location": "439e",
+          "context": "ἅμα μὲν ἰδεῖν ἐπιθυμοῖ"
+        },
+        {
+          "form": "δυσχεραίνοι",
+          "lemma": "δυσχεραίνω",
+          "location": "439e",
+          "context": "ἅμα δὲ αὖ δυσχεραίνοι"
+        },
+        {
+          "form": "ἀποτρέποι",
+          "lemma": "ἀποτρέπω",
+          "location": "439e",
+          "context": "ἀποτρέποι ἑαυτόν"
+        },
+        {
+          "form": "κρατούμενος",
+          "lemma": "κρατέω",
+          "location": "440a",
+          "context": "κρατούμενος δʼ οὖν ὑπὸ τῆς ἐπιθυμίας"
+        }
+      ],
+      "observation": "Simultaneous desire and aversion (ἅμα μέν … ἅμα δέ) in Leontius, resolved by desire's victory (κρατούμενος ὑπὸ τῆς ἐπιθυμίας)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὦ κακοδαίμονες",
+          "lemma": "κακοδαίμων",
+          "location": "440a",
+          "context": "ἰδοὺ ὑμῖν, ὦ κακοδαίμονες"
+        },
+        {
+          "form": "ἐμπλήσθητε τοῦ καλοῦ θεάματος",
+          "lemma": null,
+          "location": "440a",
+          "context": null
+        }
+      ],
+      "observation": "Leontius addresses his own eyes as κακοδαίμονες and commands them to 'be filled with the fine spectacle,' speaking to a body part as a separate agent."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "κύων",
+          "lemma": "κύων",
+          "location": "440d",
+          "context": "ὥσπερ κύων ὑπὸ νομέως"
+        },
+        {
+          "form": "κύνας",
+          "lemma": "κύων",
+          "location": "440d",
+          "context": "τοὺς ἐπικούρους ὥσπερ κύνας"
+        },
+        {
+          "form": "νομέως",
+          "lemma": "νομεύς",
+          "location": "440d",
+          "context": "ὥσπερ κύων ὑπὸ νομέως"
+        },
+        {
+          "form": "ποιμένων",
+          "lemma": "ποιμήν",
+          "location": "440d",
+          "context": "ὥσπερ ποιμένων πόλεως"
+        }
+      ],
+      "observation": "The dog-shepherd simile is stated by Socrates for thumos recalled by logos, then Glaucon immediately maps it onto the city's guardians and rulers."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀδικεῖν",
+          "lemma": "ἀδικέω",
+          "location": "440c",
+          "context": "ὅταν τις οἴηται ἀδικεῖν"
+        },
+        {
+          "form": "ἀδικεῖσθαί",
+          "lemma": "ἀδικέω",
+          "location": "440c",
+          "context": "ὅταν ἀδικεῖσθαί τις ἡγῆται"
+        }
+      ],
+      "observation": "Active ἀδικεῖν (believing oneself to be acting unjustly) and middle/passive ἀδικεῖσθαι (believing oneself wronged) are set in parallel constructions with contrasting responses of thumos."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "τρία ὄντα γένη, χρηματιστικόν, ἐπικουρητικόν, βουλευτικόν",
+          "lemma": null,
+          "location": "441a",
+          "context": null
+        },
+        {
+          "form": "τρίτον τοῦτό ἐστι τὸ θυμοειδές, ἐπίκουρον ὂν τῷ λογιστικῷ",
+          "lemma": null,
+          "location": "441a",
+          "context": null
+        }
+      ],
+      "observation": "The three classes of the city (money-making, auxiliary, deliberative) are explicitly set beside three parts of the soul, with the spirited part named ἐπίκουρον to the reasoning part."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκούσας",
+          "lemma": "ἀκούω",
+          "location": "439e",
+          "context": "ποτὲ ἀκούσας τι πιστεύω τούτῳ"
+        },
+        {
+          "form": "ἤκουσα",
+          "lemma": "ἀκούω",
+          "location": "440a",
+          "context": "ἤκουσα καὶ αὐτός"
+        },
+        {
+          "form": "αἰσθόμενος",
+          "lemma": "αἰσθάνομαι",
+          "location": "439e",
+          "context": "αἰσθόμενος νεκροὺς"
+        },
+        {
+          "form": "αἰσθανόμεθα",
+          "lemma": "αἰσθάνομαι",
+          "location": "440a",
+          "context": "ἄλλοθι πολλαχοῦ αἰσθανόμεθα"
+        },
+        {
+          "form": "αἰσθέσθαι",
+          "lemma": "αἰσθάνομαι",
+          "location": "440b",
+          "context": "τοῦ τοιούτου αἰσθέσθαι"
+        }
+      ],
+      "observation": "ἀκούω introduces the Leontius story as hearsay and is echoed by Glaucon's confirmation; αἰσθάνομαι moves from Leontius's physical perception of corpses to perceiving an internal psychic event."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "νεκροὺς",
+          "lemma": "νεκρός",
+          "location": "439e",
+          "context": "αἰσθόμενος νεκροὺς παρὰ τῷ δημίῳ κειμένους"
+        },
+        {
+          "form": "δημίῳ",
+          "lemma": "δήμιος",
+          "location": "439e",
+          "context": "παρὰ τῷ δημίῳ κειμένους"
+        }
+      ],
+      "observation": "The corpses lie beside the public executioner—a concrete detail specifying the scene of Leontius's conflict."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "λογισμὸν",
+          "lemma": "λογισμός",
+          "location": "440b",
+          "context": "παρὰ τὸν λογισμὸν ἐπιθυμίαι"
+        },
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "440b",
+          "context": "σύμμαχον τῷ λόγῳ"
+        },
+        {
+          "form": "λόγου",
+          "lemma": "λόγος",
+          "location": "440b",
+          "context": "αἱροῦντος λόγου μὴ δεῖν"
+        },
+        {
+          "form": "λόγου",
+          "lemma": "λόγος",
+          "location": "440d",
+          "context": "ὑπὸ τοῦ λόγου τοῦ παρʼ αὑτῷ"
+        },
+        {
+          "form": "λογιστικόν",
+          "lemma": "λογιστικός",
+          "location": "440e",
+          "context": "τὰ ὅπλα πρὸς τὸ λογιστικόν"
+        },
+        {
+          "form": "ἀναλογισάμενον",
+          "lemma": "ἀναλογίζομαι",
+          "location": "441c",
+          "context": "τὸ ἀναλογισάμενον περὶ τοῦ βελτίονος"
+        },
+        {
+          "form": "ἀλογίστως",
+          "lemma": "ἀλογίστως",
+          "location": "441c",
+          "context": "τῷ ἀλογίστως θυμουμένῳ"
+        },
+        {
+          "form": "λογισμοῦ",
+          "lemma": "λογισμός",
+          "location": "441a",
+          "context": "λογισμοῦ δʼ ἔνιοι μὲν…οὐδέποτε μεταλαμβάνειν"
+        }
+      ],
+      "observation": "The λόγος/λογισμός/λογιστικός family recurs alongside its privative ἀλογίστως; ἀναλογισάμενον appears in the Homer citation as the faculty that rebukes."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐν τοῖς παιδίοις",
+          "lemma": "παιδίον",
+          "location": "441a",
+          "context": "καὶ γὰρ ἐν τοῖς παιδίοις"
+        },
+        {
+          "form": "ἐν τοῖς θηρίοις",
+          "lemma": "θηρίον",
+          "location": "441b",
+          "context": "ἔτι δὲ ἐν τοῖς θηρίοις"
+        }
+      ],
+      "observation": "Children and beasts are cited in parallel as evidence that thumos exists without logos—Glaucon names children, Socrates adds beasts."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "στῆθος δὲ πλήξας κραδίην ἠνίπαπε μύθῳ",
+          "lemma": null,
+          "location": "441b",
+          "context": null
+        },
+        {
+          "form": "ἕτερον ἑτέρῳ ἐπιπλῆττον",
+          "lemma": null,
+          "location": "441b",
+          "context": "ὡς ἕτερον ἑτέρῳ ἐπιπλῆττον πεποίηκεν Ὅμηρος"
+        }
+      ],
+      "observation": "A Homeric verse is quoted and then immediately glossed: Homer has made one thing rebuke another, taken as evidence for distinct parts of the soul."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "διαπράξηται",
+          "lemma": "διαπράττω",
+          "location": "440d",
+          "context": "πρὶν ἂν ἢ διαπράξηται"
+        },
+        {
+          "form": "τελευτήσῃ",
+          "lemma": "τελευτάω",
+          "location": "440d",
+          "context": "ἢ τελευτήσῃ"
+        },
+        {
+          "form": "πραϋνθῇ",
+          "lemma": "πραΰνω",
+          "location": "440d",
+          "context": "ἀνακληθεὶς πραϋνθῇ"
+        }
+      ],
+      "observation": "Three possible outcomes for spirited endurance are listed in sequence: accomplish the goal, die, or be called back and calmed by reason."
+    }
+  ]
+}
