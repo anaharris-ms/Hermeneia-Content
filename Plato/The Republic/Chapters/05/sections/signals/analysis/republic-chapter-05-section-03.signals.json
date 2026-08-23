@@ -1,0 +1,715 @@
+{
+  "section_id": "republic-chapter-05-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κολυμβήθραν",
+          "lemma": "κολυμβήθρα",
+          "location": "453d",
+          "context": "εἰς κολυμβήθραν μικρὰν ἐμπέσῃ"
+        },
+        {
+          "form": "πέλαγος",
+          "lemma": "πέλαγος",
+          "location": "453d",
+          "context": "εἰς τὸ μέγιστον πέλαγος μέσον"
+        },
+        {
+          "form": "νεῖ",
+          "lemma": "νέω",
+          "location": "453d",
+          "context": "ὅμως γε νεῖ οὐδὲν ἧττον"
+        },
+        {
+          "form": "νευστέον",
+          "lemma": "νέω",
+          "location": "453d",
+          "context": "ἡμῖν νευστέον καὶ πειρατέον σῴζεσθαι"
+        },
+        {
+          "form": "δελφῖνά",
+          "lemma": "δελφίς",
+          "location": "453d",
+          "context": "δελφῖνά τινα ἐλπίζοντας ἡμᾶς ὑπολαβεῖν"
+        }
+      ],
+      "observation": "A cluster of swimming and sea language: small pool, open sea, swimming, the verbal adjective νευστέον, rescue by dolphin, and σῴζεσθαι, all concentrated in 453d."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτηδεύειν",
+          "lemma": "ἐπιτηδεύω",
+          "location": "453e",
+          "context": null
+        },
+        {
+          "form": "ἐπιτηδεῦσαι",
+          "lemma": "ἐπιτηδεύω",
+          "location": "453e",
+          "context": null
+        },
+        {
+          "form": "ἐπιτηδευμάτων",
+          "lemma": "ἐπιτήδευμα",
+          "location": "454b",
+          "context": null
+        },
+        {
+          "form": "ἐπιτηδεύματα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "454b",
+          "context": null
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "454d",
+          "context": null
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "455a",
+          "context": null
+        },
+        {
+          "form": "ἐπιτηδεύειν",
+          "lemma": "ἐπιτηδεύω",
+          "location": "454e",
+          "context": null
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "455b",
+          "context": null
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "455d",
+          "context": null
+        },
+        {
+          "form": "ἐπιτηδευμάτων",
+          "lemma": "ἐπιτήδευμα",
+          "location": "455d-e",
+          "context": null
+        },
+        {
+          "form": "ἐπιτηδεύματα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "456b",
+          "context": null
+        }
+      ],
+      "observation": "Forms of ἐπιτηδεύω/ἐπιτήδευμα recur throughout the section with high density, appearing in nearly every stage of the argument."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "453e",
+          "context": "ἄλλην φύσιν ἄλλο δεῖν ἐπιτηδεύειν"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "454b",
+          "context": "τῆς ἑτέρας τε καὶ τῆς αὐτῆς φύσεως"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "454d",
+          "context": "τὴν αὐτὴν φύσιν ἔχειν"
+        },
+        {
+          "form": "φύσις",
+          "lemma": "φύσις",
+          "location": "455a",
+          "context": "ἑτέρα φύσις γυναικός τε καὶ ἀνδρός"
+        },
+        {
+          "form": "φύσεις",
+          "lemma": "φύσις",
+          "location": "455d",
+          "context": "ὁμοίως διεσπαρμέναι αἱ φύσεις"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "456a",
+          "context": "ἡ αὐτὴ φύσις εἰς φυλακὴν πόλεως"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "456b",
+          "context": "συγγενεῖς αὐτοῖς τὴν φύσιν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "455e",
+          "context": "ἄμουσος φύσει"
+        },
+        {
+          "form": "φύσεσιν",
+          "lemma": "φύσις",
+          "location": "456b",
+          "context": "ταῖς αὐταῖς φύσεσιν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "454e",
+          "context": "κατὰ φύσιν"
+        }
+      ],
+      "observation": "φύσις recurs pervasively, repeatedly qualified as αὐτή or ἑτέρα/ἄλλη, tracking the argument's pivot on what counts as same or different nature."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐρίζειν",
+          "lemma": "ἐρίζω",
+          "location": "454a",
+          "context": "οὐκ ἐρίζειν ἀλλὰ διαλέγεσθαι"
+        },
+        {
+          "form": "ἔριδι",
+          "lemma": "ἔρις",
+          "location": "454a",
+          "context": "ἔριδι, οὐ διαλέκτῳ πρὸς ἀλλήλους χρώμενοι"
+        },
+        {
+          "form": "διαλέγεσθαι",
+          "lemma": "διαλέγομαι",
+          "location": "454a",
+          "context": null
+        },
+        {
+          "form": "διαλέκτῳ",
+          "lemma": "διάλεκτος",
+          "location": "454a",
+          "context": null
+        },
+        {
+          "form": "ἐριστικῶς",
+          "lemma": "ἐριστικός",
+          "location": "454b",
+          "context": "ἀνδρείως τε καὶ ἐριστικῶς"
+        }
+      ],
+      "observation": "ἔρις/ἐρίζειν and διαλέγεσθαι/διάλεκτος are set in explicit contrast twice at 454a; ἐριστικῶς returns at 454b applied to the speakers' own procedure."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εἶδος",
+          "lemma": "εἶδος",
+          "location": "454b",
+          "context": "τί εἶδος τῆς ἑτέρας τε καὶ τῆς αὐτῆς φύσεως"
+        },
+        {
+          "form": "ὄνομα",
+          "lemma": "ὄνομα",
+          "location": "454a",
+          "context": "κατʼ αὐτὸ τὸ ὄνομα διώκειν"
+        },
+        {
+          "form": "ὄνομα",
+          "lemma": "ὄνομα",
+          "location": "454b",
+          "context": "κατὰ τὸ ὄνομα διώκομεν"
+        },
+        {
+          "form": "εἶδος",
+          "lemma": "εἶδος",
+          "location": "454c",
+          "context": "ἐκεῖνο τὸ εἶδος τῆς ἀλλοιώσεώς τε καὶ ὁμοιώσεως"
+        }
+      ],
+      "observation": "εἶδος and ὄνομα are contrasted as modes of inquiry: pursuing by name (κατʼ ὄνομα διώκειν) versus examining by εἶδος (κατʼ εἴδη διαιρούμενοι). ὄνομα recurs at 454b applied reflexively."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀντιλογικῆς",
+          "lemma": "ἀντιλογικός",
+          "location": "454a",
+          "context": "ἡ δύναμις τῆς ἀντιλογικῆς τέχνης"
+        },
+        {
+          "form": "ἀντιλογίας",
+          "lemma": "ἀντιλογία",
+          "location": "454b",
+          "context": "ἀντιλογίας ἅπτεσθαι"
+        },
+        {
+          "form": "ἀντιλέγοντος",
+          "lemma": "ἀντιλέγω",
+          "location": "455a",
+          "context": "τοῦ τὰ τοιαῦτα ἀντιλέγοντος"
+        }
+      ],
+      "observation": "Three forms from the ἀντιλέγω family appear across 454a–455a, marking the practice the argument identifies and then turns against."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μικρὰν",
+          "lemma": "μικρός",
+          "location": "453d",
+          "context": "κολυμβήθραν μικρὰν"
+        },
+        {
+          "form": "μέγιστον",
+          "lemma": "μέγας",
+          "location": "453d",
+          "context": "τὸ μέγιστον πέλαγος"
+        }
+      ],
+      "observation": "μικράν and μέγιστον are placed in direct contrast as the two bodies of water."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "φαλακρῶν",
+          "lemma": "φαλακρός",
+          "location": "454c",
+          "context": null
+        },
+        {
+          "form": "κομητῶν",
+          "lemma": "κομήτης",
+          "location": "454c",
+          "context": null
+        },
+        {
+          "form": "φαλακροὶ",
+          "lemma": "φαλακρός",
+          "location": "454c",
+          "context": "ἐὰν φαλακροὶ σκυτοτομῶσιν"
+        },
+        {
+          "form": "κομῆται",
+          "lemma": "κομήτης",
+          "location": "454c",
+          "context": null
+        },
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "454c",
+          "context": "γελοῖον μεντἂν εἴη"
+        }
+      ],
+      "observation": "The bald/long-haired pair is introduced as a reductio: their difference is acknowledged as ἐναντία yet its application to cobbling is called γελοῖον."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σκυτοτομῶσιν",
+          "lemma": "σκυτοτομέω",
+          "location": "454c",
+          "context": null
+        },
+        {
+          "form": "ἰατρικὸν",
+          "lemma": "ἰατρικός",
+          "location": "454d",
+          "context": "ἰατρικὸν μὲν καὶ ἰατρικὴν τὴν ψυχὴν ὄντα"
+        },
+        {
+          "form": "τεκτονικὸν",
+          "lemma": "τεκτονικός",
+          "location": "454d",
+          "context": null
+        },
+        {
+          "form": "ὑφαντικὴν",
+          "lemma": "ὑφαντική",
+          "location": "455c",
+          "context": null
+        },
+        {
+          "form": "ποπάνων",
+          "lemma": "πόπανον",
+          "location": "455c",
+          "context": "τῶν ποπάνων τε καὶ ἑψημάτων θεραπείαν"
+        },
+        {
+          "form": "ἑψημάτων",
+          "lemma": "ἕψημα",
+          "location": "455c",
+          "context": null
+        }
+      ],
+      "observation": "Concrete crafts and domestic arts are cited as illustrative cases: cobbling, medicine, carpentry, weaving, cakes, and stews."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀλλοιώσεώς",
+          "lemma": "ἀλλοίωσις",
+          "location": "454c",
+          "context": null
+        },
+        {
+          "form": "ὁμοιώσεως",
+          "lemma": "ὁμοίωσις",
+          "location": "454c",
+          "context": "τὸ εἶδος τῆς ἀλλοιώσεώς τε καὶ ὁμοιώσεως"
+        }
+      ],
+      "observation": "ἀλλοίωσις and ὁμοίωσις are paired as the relevant εἶδος of difference and likeness that should govern the inquiry."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θῆλυ",
+          "lemma": "θῆλυς",
+          "location": "454d",
+          "context": "τὸ μὲν θῆλυ τίκτειν"
+        },
+        {
+          "form": "ἄρρεν",
+          "lemma": "ἄρρην",
+          "location": "454e",
+          "context": "τὸ δὲ ἄρρεν ὀχεύειν"
+        },
+        {
+          "form": "τίκτειν",
+          "lemma": "τίκτω",
+          "location": "454d",
+          "context": null
+        },
+        {
+          "form": "ὀχεύειν",
+          "lemma": "ὀχεύω",
+          "location": "454e",
+          "context": null
+        }
+      ],
+      "observation": "The male-female biological difference is reduced to two infinitives—τίκτειν and ὀχεύειν—explicitly marked as insufficient to establish relevant difference for ἐπιτηδεύματα."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀσθενέστερον",
+          "lemma": "ἀσθενής",
+          "location": "455e",
+          "context": "ἀσθενέστερον γυνὴ ἀνδρός"
+        },
+        {
+          "form": "ἀσθενεστέρα",
+          "lemma": "ἀσθενής",
+          "location": "456a",
+          "context": "πλὴν ὅσα ἀσθενεστέρα"
+        },
+        {
+          "form": "ἰσχυροτέρα",
+          "lemma": "ἰσχυρός",
+          "location": "456a",
+          "context": "ἡ δὲ ἰσχυροτέρα ἐστίν"
+        }
+      ],
+      "observation": "ἀσθενής appears twice in comparative form at the conclusion, paired with ἰσχυροτέρα, as the sole conceded difference within shared nature."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lexical_family",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εὐφυῆ",
+          "lemma": "εὐφυής",
+          "location": "455b",
+          "context": "τὸν μὲν εὐφυῆ πρός τι εἶναι"
+        },
+        {
+          "form": "ἀφυῆ",
+          "lemma": "ἀφυής",
+          "location": "455b",
+          "context": "τὸν δὲ ἀφυῆ"
+        },
+        {
+          "form": "φιλόσοφός",
+          "lemma": "φιλόσοφος",
+          "location": "456a",
+          "context": null
+        },
+        {
+          "form": "μισόσοφος",
+          "lemma": "μισόσοφος",
+          "location": "456a",
+          "context": null
+        },
+        {
+          "form": "θυμοειδής",
+          "lemma": "θυμοειδής",
+          "location": "456a",
+          "context": null
+        },
+        {
+          "form": "ἄθυμός",
+          "lemma": "ἄθυμος",
+          "location": "456a",
+          "context": null
+        },
+        {
+          "form": "φιλογυμναστική",
+          "lemma": "φιλογυμναστικός",
+          "location": "456a",
+          "context": null
+        },
+        {
+          "form": "ἀπόλεμος",
+          "lemma": "ἀπόλεμος",
+          "location": "456a",
+          "context": null
+        }
+      ],
+      "observation": "A series of paired opposites (εὐφυής/ἀφυής, φιλόσοφος/μισόσοφος, θυμοειδής/ἄθυμος, πολεμική/ἀπόλεμος, γυμναστική/φιλογυμναστική) structures the enumeration of capacities that women may or may not share."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "φυλακικὴ",
+          "lemma": "φυλακικός",
+          "location": "456a",
+          "context": "ἔστιν ἄρα καὶ φυλακικὴ γυνή"
+        },
+        {
+          "form": "φυλακικῶν",
+          "lemma": "φυλακικός",
+          "location": "456a",
+          "context": "τῶν ἀνδρῶν τῶν φυλακικῶν"
+        },
+        {
+          "form": "φυλακὴν",
+          "lemma": "φυλακή",
+          "location": "456a",
+          "context": "εἰς φυλακὴν πόλεως"
+        },
+        {
+          "form": "φυλάκων",
+          "lemma": "φύλαξ",
+          "location": "456b",
+          "context": "ταῖς τῶν φυλάκων γυναιξὶν"
+        },
+        {
+          "form": "συμφυλάττειν",
+          "lemma": "συμφυλάττω",
+          "location": "456b",
+          "context": null
+        }
+      ],
+      "observation": "The φυλακ- family concentrates at the argument's conclusion (456a–b), applied to both women and men as the section reaches its result about guardian nature."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐμπέσῃ",
+          "lemma": "ἐμπίπτω",
+          "location": "453d",
+          "context": "εἰς κολυμβήθραν μικρὰν ἐμπέσῃ"
+        },
+        {
+          "form": "ἐμπίπτειν",
+          "lemma": "ἐμπίπτω",
+          "location": "454a",
+          "context": "εἰς αὐτὴν καὶ ἄκοντες πολλοὶ ἐμπίπτειν"
+        }
+      ],
+      "observation": "ἐμπίπτω first describes falling into a pool of water at 453d and returns at 454a for falling into the antilogical art—both involve involuntary entry (ἄκοντες at 454a)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἔξοδον",
+          "lemma": "ἔξοδος",
+          "location": "453e",
+          "context": "ἐάν πῃ εὕρωμεν τὴν ἔξοδον"
+        },
+        {
+          "form": "ἥκομεν",
+          "lemma": "ἥκω",
+          "location": "456b",
+          "context": "ἥκομεν ἄρα εἰς τὰ πρότερα περιφερόμενοι"
+        }
+      ],
+      "observation": "At 453e the search for an ἔξοδος (way out) is proposed; at 456b ἥκομεν announces arrival back at the prior position, completing the proposed movement through the argument."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄκοντες",
+          "lemma": "ἄκων",
+          "location": "454a",
+          "context": "ἄκοντες πολλοὶ ἐμπίπτειν"
+        },
+        {
+          "form": "ἄκοντες",
+          "lemma": "ἄκων",
+          "location": "454b",
+          "context": "ἄκοντες ἀντιλογίας ἅπτεσθαι"
+        }
+      ],
+      "observation": "ἄκοντες appears twice in close succession: first of many people falling unwillingly into antilogic, then applied reflexively to the speakers themselves."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "συνοικεῖν",
+          "lemma": "συνοικέω",
+          "location": "456b",
+          "context": null
+        },
+        {
+          "form": "συμφυλάττειν",
+          "lemma": "συμφυλάττω",
+          "location": "456b",
+          "context": null
+        },
+        {
+          "form": "συγγενεῖς",
+          "lemma": "συγγενής",
+          "location": "456b",
+          "context": "συγγενεῖς αὐτοῖς τὴν φύσιν"
+        }
+      ],
+      "observation": "Three συν-/συγ- compounds cluster at 456b (συνοικεῖν, συμφυλάττειν, συγγενεῖς), describing the joint life of men and women guardians."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατά",
+          "lemma": "ἀδύνατος",
+          "location": "456b",
+          "context": "οὐκ ἄρα ἀδύνατά γε"
+        },
+        {
+          "form": "εὐχαῖς",
+          "lemma": "εὐχή",
+          "location": "456b",
+          "context": "οὐδὲ εὐχαῖς ὅμοια ἐνομοθετοῦμεν"
+        }
+      ],
+      "observation": "The section's closing line negates two characterizations—impossible and wish-like—of what has been legislated."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σῴζεσθαι",
+          "lemma": "σῴζω",
+          "location": "453d",
+          "context": "πειρατέον σῴζεσθαι ἐκ τοῦ λόγου"
+        },
+        {
+          "form": "σωτηρίαν",
+          "lemma": "σωτηρία",
+          "location": "453d",
+          "context": "ἄπορον σωτηρίαν"
+        },
+        {
+          "form": "σῴζοιτο",
+          "lemma": "σῴζω",
+          "location": "455b",
+          "context": "μηδʼ ἃ ἔμαθε σῴζοιτο"
+        }
+      ],
+      "observation": "σῴζω appears first as rescue from the argument's sea, then at 455b as retaining what one has learned—a shifted application of the same verb."
+    }
+  ]
+}
