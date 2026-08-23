@@ -1,0 +1,499 @@
+{
+  "section_id": "republic-chapter-08-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κοινὰς",
+          "lemma": "κοινός",
+          "location": "543a",
+          "context": "κοινὰς μὲν γυναῖκας"
+        },
+        {
+          "form": "κοινοὺς",
+          "lemma": "κοινός",
+          "location": "543a",
+          "context": "κοινοὺς δὲ παῖδας"
+        },
+        {
+          "form": "κοινὰ",
+          "lemma": "κοινός",
+          "location": "543a",
+          "context": "τὰ ἐπιτηδεύματα κοινὰ ἐν πολέμῳ τε καὶ εἰρήνῃ"
+        },
+        {
+          "form": "κοινὰς",
+          "lemma": "κοινός",
+          "location": "543b",
+          "context": "κοινὰς δὲ πᾶσι"
+        }
+      ],
+      "observation": "κοινός recurs four times across the recapitulation, applied successively to women, children, pursuits, and dwellings."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὡμολόγηται",
+          "lemma": "ὁμολογέω",
+          "location": "543a",
+          "context": "ταῦτα μὲν δὴ ὡμολόγηται"
+        },
+        {
+          "form": "ὡμολόγηται",
+          "lemma": "ὁμολογέω",
+          "location": "543a",
+          "context": null
+        },
+        {
+          "form": "διωμολογησάμεθα",
+          "lemma": "διομολογέω",
+          "location": "543b",
+          "context": null
+        },
+        {
+          "form": "ὁμολογησάμενοι",
+          "lemma": "ὁμολογέω",
+          "location": "544a",
+          "context": "ὁμολογησάμενοι τὸν ἄριστον καὶ τὸν κάκιστον ἄνδρα"
+        }
+      ],
+      "observation": "Forms of ὁμολογέω recur throughout, marking past agreement and projected future agreement."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "544a",
+          "context": "ἰδεῖν αὐτῶν τὰ ἁμαρτήματα"
+        },
+        {
+          "form": "ἰδόντες",
+          "lemma": "ὁράω",
+          "location": "544a",
+          "context": "πάντας αὐτοὺς ἰδόντες"
+        },
+        {
+          "form": "ἰδόντες",
+          "lemma": "ὁράω",
+          "location": "545a",
+          "context": "τὸν ἀδικώτατον ἰδόντες"
+        },
+        {
+          "form": "ἀποβλέψαντες",
+          "lemma": "ἀποβλέπω",
+          "location": "545c",
+          "context": "εἰς δημοκρατίαν ἀποβλέψαντες"
+        },
+        {
+          "form": "θεασόμεθα",
+          "lemma": "θεάομαι",
+          "location": "545c",
+          "context": "θεασόμεθα ἄνδρα δημοκρατικόν"
+        },
+        {
+          "form": "ἰδόντες",
+          "lemma": "ὁράω",
+          "location": "545c",
+          "context": "εἰς τυραννουμένην πόλιν ἐλθόντες καὶ ἰδόντες"
+        },
+        {
+          "form": "βλέποντες",
+          "lemma": "βλέπω",
+          "location": "545c",
+          "context": "εἰς τυραννικὴν ψυχὴν βλέποντες"
+        },
+        {
+          "form": "θέα",
+          "lemma": "θέα",
+          "location": "545c",
+          "context": "ἥ τε θέα καὶ ἡ κρίσις"
+        }
+      ],
+      "observation": "A dense cluster of seeing-words (ἰδεῖν, ἰδόντες, ἀποβλέψαντες, θεασόμεθα, βλέποντες, θέα) concentrates around the projected examination of constitutions and men."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "πόλιν",
+          "lemma": "πόλις",
+          "location": "543d",
+          "context": null
+        },
+        {
+          "form": "ἄνδρα",
+          "lemma": "ἀνήρ",
+          "location": "543d",
+          "context": "καὶ ἄνδρα τὸν ἐκείνῃ ὅμοιον"
+        },
+        {
+          "form": "πολιτείαν",
+          "lemma": "πολιτεία",
+          "location": "545b",
+          "context": "τὴν φιλότιμον σκεπτέον πολιτείαν"
+        },
+        {
+          "form": "ἄνδρα",
+          "lemma": "ἀνήρ",
+          "location": "545c",
+          "context": "τὸν τοιοῦτον ἄνδρα σκεψόμεθα"
+        }
+      ],
+      "observation": "City and man are repeatedly paired as parallel objects of examination throughout the section."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄριστον",
+          "lemma": "ἄριστος",
+          "location": "544a",
+          "context": "τὸν ἄριστον καὶ τὸν κάκιστον ἄνδρα"
+        },
+        {
+          "form": "κάκιστον",
+          "lemma": "κακός",
+          "location": "544a",
+          "context": null
+        },
+        {
+          "form": "εὐδαιμονέστατος",
+          "lemma": "εὐδαίμων",
+          "location": "544a",
+          "context": null
+        },
+        {
+          "form": "ἀθλιώτατος",
+          "lemma": "ἄθλιος",
+          "location": "544a",
+          "context": null
+        }
+      ],
+      "observation": "Best/worst and happiest/most wretched are set in direct correspondence as superlatives."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνη",
+          "lemma": "δικαιοσύνη",
+          "location": "545a",
+          "context": "ἡ ἄκρατος δικαιοσύνη"
+        },
+        {
+          "form": "ἀδικίαν",
+          "lemma": "ἀδικία",
+          "location": "545a",
+          "context": "πρὸς ἀδικίαν τὴν ἄκρατον"
+        },
+        {
+          "form": "ἄκρατος",
+          "lemma": "ἄκρατος",
+          "location": "545a",
+          "context": null
+        }
+      ],
+      "observation": "ἄκρατος is applied to both justice and injustice, framing them as unmixed opposites."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Κρητική τε καὶ Λακωνικὴ",
+          "lemma": null,
+          "location": "544c",
+          "context": null
+        },
+        {
+          "form": "ὀλιγαρχία",
+          "lemma": "ὀλιγαρχία",
+          "location": "544c",
+          "context": null
+        },
+        {
+          "form": "δημοκρατία",
+          "lemma": "δημοκρατία",
+          "location": "544c",
+          "context": null
+        },
+        {
+          "form": "τυραννίς",
+          "lemma": "τυραννίς",
+          "location": "544c",
+          "context": "ἡ γενναία δὴ τυραννίς"
+        }
+      ],
+      "observation": "The four defective constitutions are named in a fixed descending sequence; tyranny is called τέταρτον and ἔσχατον πόλεως νόσημα."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "νόσημα",
+          "lemma": "νόσημα",
+          "location": "544c",
+          "context": "τέταρτόν τε καὶ ἔσχατον πόλεως νόσημα"
+        }
+      ],
+      "observation": "Tyranny is designated a disease (νόσημα) of the city."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γενναία",
+          "lemma": "γενναῖος",
+          "location": "544c",
+          "context": "ἡ γενναία δὴ τυραννίς"
+        }
+      ],
+      "observation": "τυραννίς is qualified by γενναία, a striking application of a word meaning noble/genuine to tyranny."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐκ δρυός ποθεν ἢ ἐκ πέτρας",
+          "lemma": null,
+          "location": "544d",
+          "context": "ἢ οἴει ἐκ δρυός ποθεν ἢ ἐκ πέτρας τὰς πολιτείας γίγνεσθαι"
+        },
+        {
+          "form": "ἐκ τῶν ἠθῶν",
+          "lemma": null,
+          "location": "544e",
+          "context": "ἐκ τῶν ἠθῶν τῶν ἐν ταῖς πόλεσιν"
+        }
+      ],
+      "observation": "The proverbial phrase 'from oak or rock' is contrasted with constitutions arising from the characters (ἤθη) in cities."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παλαιστής",
+          "lemma": "παλαιστής",
+          "location": "544b",
+          "context": "ὥσπερ παλαιστής, τὴν αὐτὴν λαβὴν πάρεχε"
+        },
+        {
+          "form": "λαβήν",
+          "lemma": "λαβή",
+          "location": "544b",
+          "context": null
+        }
+      ],
+      "observation": "Glaucon uses a wrestling image (παλαιστής, λαβή) to ask Socrates to resume the same hold/position in argument."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀθλητάς",
+          "lemma": "ἀθλητής",
+          "location": "543b",
+          "context": "ὥσπερ δὲ ἀθλητάς τε πολέμου"
+        },
+        {
+          "form": "παλαιστής",
+          "lemma": "παλαιστής",
+          "location": "544b",
+          "context": "ὥσπερ παλαιστής"
+        }
+      ],
+      "observation": "An athletic comparison (ἀθλητής) describes the guardians, and a second (παλαιστής) describes the conversational resumption."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἴδιον",
+          "lemma": "ἴδιος",
+          "location": "543b",
+          "context": "ἴδιον μὲν οὐδὲν οὐδενὶ ἐχούσας"
+        },
+        {
+          "form": "ἰδιωτῶν",
+          "lemma": "ἰδιώτης",
+          "location": "544e",
+          "context": "αἱ τῶν ἰδιωτῶν κατασκευαὶ τῆς ψυχῆς"
+        },
+        {
+          "form": "ἰδιώταις",
+          "lemma": "ἰδιώτης",
+          "location": "545b",
+          "context": "ἐν τοῖς ἰδιώταις"
+        }
+      ],
+      "observation": "ἴδιος first describes private property denied to guardians; ἰδιώτης later names private individuals whose soul-constitutions correspond to political ones."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πόθεν δεῦρο ἐξετραπόμεθα",
+          "lemma": null,
+          "location": "543c",
+          "context": null
+        },
+        {
+          "form": "δεῦρʼ ἀφῖξαι",
+          "lemma": "ἀφικνέομαι",
+          "location": "544b",
+          "context": "οὕτω δὴ σὺ ἀναλαβὼν τὸν λόγον δεῦρʼ ἀφῖξαι"
+        },
+        {
+          "form": "πάλιν τὴν αὐτὴν",
+          "lemma": null,
+          "location": "543c",
+          "context": "πάλιν τοίνυν … τὴν αὐτὴν λαβὴν πάρεχε"
+        }
+      ],
+      "observation": "The conversation's own path is described with spatial language: turning aside (ἐξετραπόμεθα), arriving here (δεῦρʼ ἀφῖξαι), and going back again (πάλιν)."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἔμελλες λέγειν",
+          "lemma": "μέλλω",
+          "location": "544b",
+          "context": "ἅπερ τότε ἔμελλες λέγειν"
+        },
+        {
+          "form": "εἰσὶ γὰρ ἃς λέγω",
+          "lemma": "λέγω",
+          "location": "544c",
+          "context": null
+        }
+      ],
+      "observation": "What Socrates was about to say (ἔμελλες λέγειν) is then delivered (εἰσὶ γὰρ ἃς λέγω)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "θέα",
+          "lemma": "θέα",
+          "location": "545c",
+          "context": "ἥ τε θέα καὶ ἡ κρίσις"
+        },
+        {
+          "form": "κρίσις",
+          "lemma": "κρίσις",
+          "location": "545c",
+          "context": null
+        },
+        {
+          "form": "κριταί",
+          "lemma": "κριτής",
+          "location": "545c",
+          "context": "ἱκανοὶ κριταὶ γενέσθαι"
+        }
+      ],
+      "observation": "The section closes by pairing θέα and κρίσις, with κριταί just before; viewing and judging are set together as the culmination of the proposed inquiry."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πέντε",
+          "lemma": "πέντε",
+          "location": "544e",
+          "context": "εἰ τὰ τῶν πόλεων πέντε"
+        },
+        {
+          "form": "πέντε",
+          "lemma": "πέντε",
+          "location": "544e",
+          "context": "τῆς ψυχῆς πέντε ἂν εἶεν"
+        },
+        {
+          "form": "τέτταρα",
+          "lemma": "τέσσαρες",
+          "location": "544a",
+          "context": "τέτταρα εἴδη εἶναι"
+        },
+        {
+          "form": "τέτταρας",
+          "lemma": "τέσσαρες",
+          "location": "544b",
+          "context": "τίνας λέγοις τὰς τέτταρας πολιτείας"
+        }
+      ],
+      "observation": "The numbers four and five both recur: four names the defective constitutions, five the total including the ideal city, with corresponding soul-types."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑπέλαβε Πολέμαρχός τε καὶ Ἀδείμαντος",
+          "lemma": null,
+          "location": "544b",
+          "context": null
+        }
+      ],
+      "observation": "Polemarchus and Adeimantus are named as having interrupted the earlier conversation; this narrative reference within Glaucon's speech recalls a prior disruption that caused the digression now being closed."
+    }
+  ]
+}
