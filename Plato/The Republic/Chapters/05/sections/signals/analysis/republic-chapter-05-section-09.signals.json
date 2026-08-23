@@ -1,0 +1,416 @@
+{
+  "section_id": "republic-chapter-05-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δεσπότας",
+          "lemma": "δεσπότης",
+          "location": "463a",
+          "context": "ἐν μὲν ταῖς πολλαῖς δεσπότας"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "463a",
+          "context": "ἐν δὲ ταῖς δημοκρατουμέναις … ἄρχοντας"
+        },
+        {
+          "form": "σωτῆράς τε καὶ ἐπικούρους",
+          "lemma": null,
+          "location": "463b",
+          "context": null
+        }
+      ],
+      "observation": "Three different cities' peoples call their rulers by different names: δεσπότας in most cities, ἄρχοντας in democracies, σωτῆρας καὶ ἐπικούρους in the proposed city."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δούλους",
+          "lemma": "δοῦλος",
+          "location": "463b",
+          "context": "οἱ δʼ ἐν ταῖς ἄλλαις ἄρχοντες τοὺς δήμους"
+        },
+        {
+          "form": "μισθοδότας τε καὶ τροφέας",
+          "lemma": null,
+          "location": "463b",
+          "context": "τί δʼ οὗτοι τὸν δῆμον"
+        }
+      ],
+      "observation": "Rulers in other cities call the people δούλους; in the proposed city rulers call the people μισθοδότας τε καὶ τροφέας. The δεσπότας/δούλους pair in other cities contrasts with the reciprocal naming in the proposed city."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "συνάρχοντας",
+          "lemma": "συνάρχων",
+          "location": "463b",
+          "context": null
+        },
+        {
+          "form": "συμφύλακας",
+          "lemma": "συμφύλαξ",
+          "location": "463b",
+          "context": null
+        }
+      ],
+      "observation": "Rulers in other cities call each other συνάρχοντας; in the proposed city they call each other συμφύλακας."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οἰκεῖον",
+          "lemma": "οἰκεῖος",
+          "location": "463b",
+          "context": "τὸν μὲν ὡς οἰκεῖον"
+        },
+        {
+          "form": "ἀλλότριον",
+          "lemma": "ἀλλότριος",
+          "location": "463b",
+          "context": "τὸν δʼ ὡς ἀλλότριον"
+        }
+      ],
+      "observation": "The pair οἰκεῖον/ἀλλότριον distinguishes how co-rulers in other cities regard each other; the guardians are said to have no ἀλλότριον among them."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀδελφῷ",
+          "lemma": "ἀδελφός",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "ἀδελφῇ",
+          "lemma": "ἀδελφή",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "πατρὶ",
+          "lemma": "πατήρ",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "μητρὶ",
+          "lemma": "μήτηρ",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "ὑεῖ",
+          "lemma": "υἱός",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "θυγατρὶ",
+          "lemma": "θυγάτηρ",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "ἐκγόνοις",
+          "lemma": "ἔκγονος",
+          "location": "463c",
+          "context": null
+        },
+        {
+          "form": "προγόνοις",
+          "lemma": "πρόγονος",
+          "location": "463c",
+          "context": null
+        }
+      ],
+      "observation": "A dense enumeration of kinship terms covers siblings, parents, children, descendants, and ancestors—every guardian encountered is addressed through one of these."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀνόματα",
+          "lemma": "ὄνομα",
+          "location": "463c",
+          "context": "τὰ ὀνόματα μόνον οἰκεῖα νομοθετήσεις"
+        },
+        {
+          "form": "πράξεις",
+          "lemma": "πρᾶξις",
+          "location": "463d",
+          "context": "τὰς πράξεις πάσας κατὰ τὰ ὀνόματα πράττειν"
+        }
+      ],
+      "observation": "Socrates poses whether kinship will be ὀνόματα μόνον or accompanied by πράξεις; the question is whether names alone suffice or actions must follow."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀνόματα",
+          "lemma": "ὄνομα",
+          "location": "463c",
+          "context": "τὰ ὀνόματα μόνον οἰκεῖα"
+        },
+        {
+          "form": "ὀνόματα",
+          "lemma": "ὄνομα",
+          "location": "463e",
+          "context": "ἄνευ ἔργων οἰκεῖα ὀνόματα"
+        },
+        {
+          "form": "ὀνομάσουσιν",
+          "lemma": "ὀνομάζω",
+          "location": "464a",
+          "context": "ὃ δὴ ἐμὸν ὀνομάσουσιν"
+        }
+      ],
+      "observation": "ὄνομα/ὀνομάζω recurs across the section, each time in relation to whether naming constitutes or merely accompanies a real relation."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἐμὸν εὖ πράττει",
+          "lemma": null,
+          "location": "463e",
+          "context": "τὸ ὅτι τὸ ἐμὸν εὖ πράττει ἢ ὅτι τὸ ἐμὸν κακῶς"
+        },
+        {
+          "form": "ἐμὸν",
+          "lemma": "ἐμός",
+          "location": "464a",
+          "context": "ὃ δὴ ἐμὸν ὀνομάσουσιν"
+        }
+      ],
+      "observation": "τὸ ἐμόν appears as a ῥῆμα citizens will say about shared fortune, then returns as what citizens will ὀνομάζειν in common."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κοινῇ",
+          "lemma": "κοινός",
+          "location": "464a",
+          "context": "τὰς λύπας κοινῇ"
+        },
+        {
+          "form": "κοινωνήσουσιν",
+          "lemma": "κοινωνέω",
+          "location": "464a",
+          "context": null
+        },
+        {
+          "form": "κοινωνοῦντες",
+          "lemma": "κοινωνέω",
+          "location": "464a",
+          "context": null
+        },
+        {
+          "form": "κοινωνίαν",
+          "lemma": "κοινωνία",
+          "location": "464a",
+          "context": null
+        },
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "464a",
+          "context": "ἡ τῶν γυναικῶν τε καὶ παίδων κοινωνία"
+        },
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "464b",
+          "context": "ἡ κοινωνία τοῖς ἐπικούροις"
+        }
+      ],
+      "observation": "κοινός/κοινωνία/κοινωνέω appear in high local density at 464a–b, clustered around shared pleasure, pain, and the community of women and children."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "λύπης τε καὶ ἡδονῆς",
+          "lemma": null,
+          "location": "464a",
+          "context": "λύπης τε καὶ ἡδονῆς μάλιστα κοινωνίαν ἕξουσιν"
+        },
+        {
+          "form": "λύπης τε πέρι καὶ ἡδονῆς",
+          "lemma": null,
+          "location": "464b",
+          "context": "σώματι πρὸς μέρος αὑτοῦ λύπης τε πέρι καὶ ἡδονῆς"
+        }
+      ],
+      "observation": "The pair λύπη/ἡδονή appears first as what citizens share in common, then in the analogy of city to body."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σώματι",
+          "lemma": "σῶμα",
+          "location": "464b",
+          "context": "ἀπεικάζοντες εὖ οἰκουμένην πόλιν σώματι πρὸς μέρος αὑτοῦ"
+        }
+      ],
+      "observation": "The city is compared to a σῶμα in relation to its μέρος regarding pain and pleasure."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "αἰδοῦς",
+          "lemma": "αἰδώς",
+          "location": "463d",
+          "context": null
+        },
+        {
+          "form": "κηδεμονίας",
+          "lemma": "κηδεμονία",
+          "location": "463d",
+          "context": null
+        },
+        {
+          "form": "ὑπήκοον",
+          "lemma": "ὑπήκοος",
+          "location": "463d",
+          "context": "τοῦ ὑπήκοον δεῖν εἶναι τῶν γονέων"
+        }
+      ],
+      "observation": "Three dispositions toward parents are named together: αἰδώς, κηδεμονία, and being ὑπήκοος."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φῆμαι",
+          "lemma": "φήμη",
+          "location": "463d",
+          "context": "αὗταί σοι ἢ ἄλλαι φῆμαι ἐξ ἁπάντων τῶν πολιτῶν ὑμνήσουσιν εὐθὺς περὶ τὰ τῶν παίδων ὦτα"
+        }
+      ],
+      "observation": "φῆμαι are said to be sung (ὑμνήσουσιν) around children's ears—civic speech is figured as something heard by children from all citizens."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄνευ ἔργων",
+          "lemma": null,
+          "location": "463e",
+          "context": "ἄνευ ἔργων οἰκεῖα ὀνόματα διὰ τῶν στομάτων μόνον φθέγγοιντο"
+        },
+        {
+          "form": "στομάτων",
+          "lemma": "στόμα",
+          "location": "463e",
+          "context": null
+        }
+      ],
+      "observation": "Glaucon calls it γελοῖον to utter kinship names through στόματα alone without ἔργα."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκεῖα",
+          "lemma": "οἰκεῖος",
+          "location": "463c",
+          "context": "τὰ ὀνόματα μόνον οἰκεῖα"
+        },
+        {
+          "form": "οἰκεῖα",
+          "lemma": "οἰκεῖος",
+          "location": "463e",
+          "context": "ἄνευ ἔργων οἰκεῖα ὀνόματα"
+        },
+        {
+          "form": "οἰκίας",
+          "lemma": "οἰκία",
+          "location": "464b",
+          "context": "οὔτε οἰκίας τούτοις ἰδίας δεῖν εἶναι"
+        }
+      ],
+      "observation": "οἰκεῖος appears twice describing kinship names, then οἰκία appears at 464b as private houses the guardians must not have—the lexical family spans kinship-belonging and household-property."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπικούρους",
+          "lemma": "ἐπίκουρος",
+          "location": "463b",
+          "context": "σωτῆράς τε καὶ ἐπικούρους"
+        },
+        {
+          "form": "ἐπικούροις",
+          "lemma": "ἐπίκουρος",
+          "location": "464b",
+          "context": "ἡ κοινωνία τοῖς ἐπικούροις"
+        }
+      ],
+      "observation": "ἐπίκουρος first appears as what the people call the rulers, then returns as the group for whom the κοινωνία of women and children is the cause of the greatest good."
+    }
+  ]
+}
