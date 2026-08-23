@@ -1,0 +1,410 @@
+{
+  "section_id": "republic-chapter-07-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὄμματα",
+          "lemma": "ὄμμα",
+          "location": "530d",
+          "context": "πρὸς ἀστρονομίαν ὄμματα πέπηγεν"
+        },
+        {
+          "form": "ὦτα",
+          "lemma": "οὖς",
+          "location": "530d",
+          "context": "πρὸς ἐναρμόνιον φορὰν ὦτα παγῆναι"
+        }
+      ],
+      "observation": "Eyes are set toward astronomy, ears toward harmonics, in a parallel pairing of sense organs to disciplines."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "exact_repetition",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πέπηγεν",
+          "lemma": "πήγνυμι",
+          "location": "530d",
+          "context": "ὄμματα πέπηγεν"
+        },
+        {
+          "form": "παγῆναι",
+          "lemma": "πήγνυμι",
+          "location": "530d",
+          "context": "ὦτα παγῆναι"
+        }
+      ],
+      "observation": "πήγνυμι appears in perfect active for eyes and aorist passive for ears within the same sentence."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀδελφαί",
+          "lemma": "ἀδελφή",
+          "location": "530d",
+          "context": "αὗται ἀλλήλων ἀδελφαί τινες αἱ ἐπιστῆμαι"
+        }
+      ],
+      "observation": "Astronomy and harmonics are called sisters to each other."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φορά",
+          "lemma": "φορά",
+          "location": "530c",
+          "context": "πλείω εἴδη παρέχεται ἡ φορά"
+        },
+        {
+          "form": "φορὰν",
+          "lemma": "φορά",
+          "location": "530d",
+          "context": "πρὸς ἐναρμόνιον φορὰν"
+        }
+      ],
+      "observation": "φορά first names motion generally (with multiple kinds), then returns qualified as ἐναρμόνιον φορά."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "exact_repetition",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀντίστροφον",
+          "lemma": "ἀντίστροφος",
+          "location": "530d",
+          "context": "πρὸς τούτῳ ἀντίστροφον αὐτοῦ"
+        }
+      ],
+      "observation": "The counterpart discipline is introduced as ἀντίστροφον—a structural mirror—before being identified."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκουομένας",
+          "lemma": "ἀκούω",
+          "location": "531a",
+          "context": "τὰς ἀκουομένας αὖ συμφωνίας"
+        },
+        {
+          "form": "κατακούειν",
+          "lemma": "κατακούω",
+          "location": "531a",
+          "context": "φασιν ἔτι κατακούειν ἐν μέσῳ τινὰ ἠχήν"
+        },
+        {
+          "form": "ἀκουομέναις",
+          "lemma": "ἀκούω",
+          "location": "531c",
+          "context": "ταῖς συμφωνίαις ταῖς ἀκουομέναις"
+        }
+      ],
+      "observation": "Forms of ἀκούω recur, marking the heard consonances as the object under critique."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὦτα",
+          "lemma": "οὖς",
+          "location": "530d",
+          "context": "ὦτα παγῆναι"
+        },
+        {
+          "form": "τὰ ὦτα",
+          "lemma": "οὖς",
+          "location": "531a",
+          "context": "παραβάλλοντες τὰ ὦτα"
+        },
+        {
+          "form": "ὦτα",
+          "lemma": "οὖς",
+          "location": "531b",
+          "context": "ὦτα τοῦ νοῦ προστησάμενοι"
+        }
+      ],
+      "observation": "ὦτα appears three times: fixed toward harmonics, leaned close to catch sound, and placed before the mind."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὦτα",
+          "lemma": "οὖς",
+          "location": "531b",
+          "context": "ὦτα τοῦ νοῦ προστησάμενοι"
+        },
+        {
+          "form": "τοῦ νοῦ",
+          "lemma": "νοῦς",
+          "location": "531b",
+          "context": null
+        }
+      ],
+      "observation": "Ears are placed in front of mind—a spatial image contrasting sensory and intellectual attention."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "βασανίζοντας",
+          "lemma": "βασανίζω",
+          "location": "531b",
+          "context": null
+        },
+        {
+          "form": "στρεβλοῦντας",
+          "lemma": "στρεβλόω",
+          "location": "531b",
+          "context": "ἐπὶ τῶν κολλόπων στρεβλοῦντας"
+        },
+        {
+          "form": "πληγῶν",
+          "lemma": "πληγή",
+          "location": "531b",
+          "context": "πλήκτρῳ τε πληγῶν γιγνομένων"
+        },
+        {
+          "form": "κατηγορίας",
+          "lemma": "κατηγορία",
+          "location": "531b",
+          "context": null
+        },
+        {
+          "form": "ἐξαρνήσεως",
+          "lemma": "ἐξάρνησις",
+          "location": "531b",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of judicial-torture vocabulary (torturing, racking, blows, accusation, denial) is applied to the treatment of strings."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἰκὼν",
+          "lemma": "εἰκών",
+          "location": "531b",
+          "context": "μὴ μακροτέρα ἡ εἰκὼν γίγνηται"
+        },
+        {
+          "form": "τῆς εἰκόνος",
+          "lemma": "εἰκών",
+          "location": "531b",
+          "context": "παύομαι τῆς εἰκόνος"
+        }
+      ],
+      "observation": "The image is named as εἰκών and then explicitly halted—the speaker announces stopping the image."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συμφωνίας",
+          "lemma": "συμφωνία",
+          "location": "531a",
+          "context": "τὰς ἀκουομένας αὖ συμφωνίας"
+        },
+        {
+          "form": "συμφωνίαις",
+          "lemma": "συμφωνία",
+          "location": "531c",
+          "context": "ταῖς συμφωνίαις ταῖς ἀκουομέναις"
+        },
+        {
+          "form": "σύμφωνοι",
+          "lemma": "σύμφωνος",
+          "location": "531c",
+          "context": "τίνες σύμφωνοι ἀριθμοὶ καὶ τίνες οὔ"
+        }
+      ],
+      "observation": "συμφωνία/σύμφωνος recurs, shifting from heard consonances to the question of which numbers are consonant."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνίασιν",
+          "lemma": "ἀνιέναι",
+          "location": "531c",
+          "context": "οὐκ εἰς προβλήματα ἀνίασιν"
+        }
+      ],
+      "observation": "An upward movement (ἀνίασιν) toward problems is what the harmonists fail to make."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀτελὲς",
+          "lemma": "ἀτελής",
+          "location": "530e",
+          "context": "τι ἀτελὲς ἐπιχειρῶσιν ἡμῖν μανθάνειν"
+        },
+        {
+          "form": "ἐξῆκον",
+          "lemma": "ἐξήκω",
+          "location": "530e",
+          "context": "οὐκ ἐξῆκον ἐκεῖσε ἀεί"
+        },
+        {
+          "form": "ἀφήκειν",
+          "lemma": "ἀφήκω",
+          "location": "530e",
+          "context": "οἷ πάντα δεῖ ἀφήκειν"
+        }
+      ],
+      "observation": "Incomplete learning (ἀτελές) is paired with not arriving (οὐκ ἐξῆκον) at the place where all things must reach (ἀφήκειν)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δαιμόνιον",
+          "lemma": "δαιμόνιος",
+          "location": "531c",
+          "context": "δαιμόνιον πρᾶγμα λέγεις"
+        },
+        {
+          "form": "χρήσιμον",
+          "lemma": "χρήσιμος",
+          "location": "531c",
+          "context": "χρήσιμον μὲν οὖν"
+        },
+        {
+          "form": "ἄχρηστον",
+          "lemma": "ἄχρηστος",
+          "location": "531c",
+          "context": "ἄλλως δὲ μεταδιωκόμενον ἄχρηστον"
+        }
+      ],
+      "observation": "Glaucon calls the undertaking δαιμόνιον; Socrates corrects to χρήσιμον toward the beautiful and good, but ἄχρηστον if pursued otherwise."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ καλοῦ τε καὶ ἀγαθοῦ",
+          "lemma": null,
+          "location": "531c",
+          "context": "πρὸς τὴν τοῦ καλοῦ τε καὶ ἀγαθοῦ ζήτησιν"
+        }
+      ],
+      "observation": "The search for the beautiful and good is named as the destination that makes the study useful."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀστρονομίας",
+          "lemma": "ἀστρονομία",
+          "location": "530e",
+          "context": "περὶ τῆς ἀστρονομίας ἐλέγομεν"
+        },
+        {
+          "form": "ἀστρονόμοι",
+          "lemma": "ἀστρονόμος",
+          "location": "531a",
+          "context": "ὥσπερ οἱ ἀστρονόμοι"
+        },
+        {
+          "form": "ἀστρονομίᾳ",
+          "lemma": "ἀστρονομία",
+          "location": "531c",
+          "context": "τοῖς ἐν τῇ ἀστρονομίᾳ"
+        }
+      ],
+      "observation": "Astronomy recurs three times as the parallel case against which harmonics is measured."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φωνὴν",
+          "lemma": "φωνή",
+          "location": "531a",
+          "context": "ἐκ γειτόνων φωνὴν θηρευόμενοι"
+        },
+        {
+          "form": "ἠχὴν",
+          "lemma": "ἠχή",
+          "location": "531a",
+          "context": "ἐν μέσῳ τινὰ ἠχήν"
+        },
+        {
+          "form": "φθόγγους",
+          "lemma": "φθόγγος",
+          "location": "531a",
+          "context": "συμφωνίας καὶ φθόγγους"
+        },
+        {
+          "form": "φθεγγομένων",
+          "lemma": "φθέγγομαι",
+          "location": "531a",
+          "context": "ὅμοιον ἤδη φθεγγομένων"
+        }
+      ],
+      "observation": "A cluster of sound-words (voice, echo, tones, sounding) concentrates in the description of empirical harmonists."
+    }
+  ]
+}
