@@ -1,0 +1,485 @@
+{
+  "section_id": "republic-chapter-02-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βοηθῶ",
+          "lemma": "βοηθέω",
+          "location": "368b",
+          "context": "οὔτε γὰρ ὅπως βοηθῶ ἔχω"
+        },
+        {
+          "form": "βοηθήσω",
+          "lemma": "βοηθέω",
+          "location": "368b",
+          "context": "οὔτʼ αὖ ὅπως μὴ βοηθήσω ἔχω"
+        },
+        {
+          "form": "βοηθεῖν",
+          "lemma": "βοηθέω",
+          "location": "368c",
+          "context": "μὴ βοηθεῖν ἔτι ἐμπνέοντα"
+        },
+        {
+          "form": "ἐπικουρεῖν",
+          "lemma": "ἐπικουρέω",
+          "location": "368c",
+          "context": "ὅπως δύναμαι ἐπικουρεῖν αὐτῇ"
+        },
+        {
+          "form": "βοηθῆσαι",
+          "lemma": "βοηθέω",
+          "location": "368c",
+          "context": "ἐδέοντο παντὶ τρόπῳ βοηθῆσαι"
+        }
+      ],
+      "observation": "βοηθέω recurs five times across 368b–c, framing Socrates' dilemma as inability both to help and not to help; ἐπικουρεῖν resolves the impasse with a near-synonym."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πέπεισθε",
+          "lemma": "πείθω",
+          "location": "368a",
+          "context": "εἰ μὴ πέπεισθε ἀδικίαν δικαιοσύνης ἄμεινον"
+        },
+        {
+          "form": "πεπεῖσθαι",
+          "lemma": "πείθω",
+          "location": "368b",
+          "context": "ὡς ἀληθῶς οὐ πεπεῖσθαι"
+        },
+        {
+          "form": "ἠπίστουν",
+          "lemma": "ἀπιστέω",
+          "location": "368b",
+          "context": "κατά γε αὐτοὺς τοὺς λόγους ἠπίστουν ἂν ὑμῖν"
+        },
+        {
+          "form": "πιστεύω",
+          "lemma": "πιστεύω",
+          "location": "368b",
+          "context": "ὅσῳ δὲ μᾶλλον πιστεύω"
+        }
+      ],
+      "observation": "πέπεισθε/πεπεῖσθαι (persuasion denied) stand against ἠπίστουν (distrust from λόγοι alone) and πιστεύω (trust from τρόπος), creating a local contrast between persuasion, trust, and distrust."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "368a",
+          "context": "κλεινοῦ θεῖον γένος ἀνδρός"
+        },
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "368a",
+          "context": "πάνυ γὰρ θεῖον πεπόνθατε"
+        }
+      ],
+      "observation": "θεῖον appears first in the quoted elegiac verse as lineage ('divine offspring') and immediately recurs as Socrates' description of their experience (θεῖον πεπόνθατε), shifting from genealogy to condition."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γράμματα σμικρὰ",
+          "lemma": null,
+          "location": "368d",
+          "context": "γράμματα σμικρὰ πόρρωθεν ἀναγνῶναι"
+        },
+        {
+          "form": "μείζω",
+          "lemma": "μέγας",
+          "location": "368d",
+          "context": "τὰ αὐτὰ γράμματα ἔστι που καὶ ἄλλοθι μείζω"
+        },
+        {
+          "form": "ἐλάττω",
+          "lemma": "ἐλάττων",
+          "location": "368d",
+          "context": "οὕτως ἐπισκοπεῖν τὰ ἐλάττω"
+        },
+        {
+          "form": "μεῖζον",
+          "lemma": "μέγας",
+          "location": "368e",
+          "context": "μεῖζον πόλις ἑνὸς ἀνδρός"
+        },
+        {
+          "form": "μείζονι",
+          "lemma": "μέγας",
+          "location": "368e",
+          "context": "πλείων ἂν δικαιοσύνη ἐν τῷ μείζονι"
+        },
+        {
+          "form": "ἐλάττονος",
+          "lemma": "ἐλάττων",
+          "location": "369a",
+          "context": "ἐν τῇ τοῦ ἐλάττονος ἰδέᾳ"
+        }
+      ],
+      "observation": "μείζω/μεῖζον and ἐλάττω/ἐλάττονος recur across the letters analogy and city-soul proposal, sustaining a larger/smaller pair from analogy into method."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀξὺ βλέποντος",
+          "lemma": "βλέπω",
+          "location": "368c",
+          "context": "ὀξὺ βλέποντος, ὡς ἐμοὶ φαίνεται"
+        },
+        {
+          "form": "ὀξὺ βλέπουσιν",
+          "lemma": "βλέπω",
+          "location": "368d",
+          "context": "μὴ πάνυ ὀξὺ βλέπουσιν"
+        }
+      ],
+      "observation": "ὀξὺ βλέπω appears first to characterize the inquiry's difficulty, then in the analogy for those who cannot read small letters, linking sharpness of vision to the proposed method."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δοκεῖ",
+          "lemma": "δοκέω",
+          "location": "368a",
+          "context": "τοῦτό μοι … εὖ δοκεῖ ἔχειν"
+        },
+        {
+          "form": "δοκεῖτε",
+          "lemma": "δοκέω",
+          "location": "368a",
+          "context": "δοκεῖτε δή μοι"
+        },
+        {
+          "form": "δοκῶ",
+          "lemma": "δοκέω",
+          "location": "368b",
+          "context": "δοκῶ γάρ μοι ἀδύνατος εἶναι"
+        },
+        {
+          "form": "δοκῶ",
+          "lemma": "δοκέω",
+          "location": "368d",
+          "context": "δοκῶ μοι … τοιαύτην ποιήσασθαι ζήτησιν"
+        },
+        {
+          "form": "δοκεῖ",
+          "lemma": "δοκέω",
+          "location": "369b",
+          "context": "δοκεῖ οὖν χρῆναι ἐπιχειρῆσαι"
+        },
+        {
+          "form": "δοκεῖς",
+          "lemma": "δοκέω",
+          "location": "369a",
+          "context": "δοκεῖς … καλῶς λέγειν"
+        }
+      ],
+      "observation": "δοκέω recurs throughout, appearing in Socrates' narration and in dialogue exchanges, carrying seeming, opinion, and proposal across the section."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρὸς ἑνός",
+          "lemma": null,
+          "location": "368e",
+          "context": "δικαιοσύνη … ἔστι μὲν ἀνδρὸς ἑνός"
+        },
+        {
+          "form": "ὅλης πόλεως",
+          "lemma": null,
+          "location": "368e",
+          "context": "ἔστι δέ που καὶ ὅλης πόλεως"
+        }
+      ],
+      "observation": "δικαιοσύνη is explicitly located in both ἀνδρὸς ἑνός and ὅλης πόλεως, setting individual against city as parallel sites."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐδέοντο",
+          "lemma": "δέομαι",
+          "location": "368c",
+          "context": "ἐδέοντο παντὶ τρόπῳ βοηθῆσαι"
+        },
+        {
+          "form": "διερευνήσασθαι",
+          "lemma": "διερευνάω",
+          "location": "368c",
+          "context": "διερευνήσασθαι τί τέ ἐστιν ἑκάτερον"
+        },
+        {
+          "form": "ζητήσωμεν",
+          "lemma": "ζητέω",
+          "location": "369a",
+          "context": "πρῶτον ἐν ταῖς πόλεσι ζητήσωμεν"
+        },
+        {
+          "form": "ἔσκεπται",
+          "lemma": "σκοπέω",
+          "location": "369b",
+          "context": "ἔσκεπται … ἀλλὰ μὴ ἄλλως ποίει"
+        }
+      ],
+      "observation": "The group's request (ἐδέοντο … διερευνήσασθαι) is answered by Socrates' proposal (ζητήσωμεν) and completed by Adeimantus' perfective acceptance (ἔσκεπται)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγνῶναι",
+          "lemma": "ἀναγιγνώσκω",
+          "location": "368d",
+          "context": "γράμματα σμικρὰ πόρρωθεν ἀναγνῶναι"
+        },
+        {
+          "form": "ἀναγνόντας",
+          "lemma": "ἀναγιγνώσκω",
+          "location": "368d",
+          "context": "ἐκεῖνα πρῶτον ἀναγνόντας"
+        },
+        {
+          "form": "καθορᾷς",
+          "lemma": "καθοράω",
+          "location": "368e",
+          "context": "ἐν τῇ περὶ τὸ δίκαιον ζητήσει καθορᾷς"
+        }
+      ],
+      "observation": "Reading (ἀναγνῶναι, ἀναγνόντας) and seeing-down (καθορᾷς) cluster around the method of discerning justice, linking literacy to vision."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐμπνέοντα",
+          "lemma": "ἐμπνέω",
+          "location": "368c",
+          "context": "ἔτι ἐμπνέοντα καὶ δυνάμενον φθέγγεσθαι"
+        },
+        {
+          "form": "φθέγγεσθαι",
+          "lemma": "φθέγγομαι",
+          "location": "368c",
+          "context": "ἔτι ἐμπνέοντα καὶ δυνάμενον φθέγγεσθαι"
+        }
+      ],
+      "observation": "Socrates frames the obligation to help justice in terms of still breathing and still being able to speak, pairing bodily life with vocal capacity."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κακηγορουμένῃ",
+          "lemma": "κακηγορέω",
+          "location": "368b",
+          "context": "δικαιοσύνῃ κακηγορουμένῃ"
+        },
+        {
+          "form": "ἀπαγορεύειν",
+          "lemma": "ἀπαγορεύω",
+          "location": "368c",
+          "context": "ἀπαγορεύειν καὶ μὴ βοηθεῖν"
+        }
+      ],
+      "observation": "δικαιοσύνη is personified as one being maligned (κακηγορουμένῃ), and Socrates' potential failure is ἀπαγορεύειν—giving up on her as if abandoning a person."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ζήτημα",
+          "lemma": "ζήτημα",
+          "location": "368c",
+          "context": "τὸ ζήτημα ᾧ ἐπιχειροῦμεν οὐ φαῦλον"
+        },
+        {
+          "form": "ζητήσει",
+          "lemma": "ζήτησις",
+          "location": "368e",
+          "context": "ἐν τῇ περὶ τὸ δίκαιον ζητήσει"
+        },
+        {
+          "form": "ζητήσωμεν",
+          "lemma": "ζητέω",
+          "location": "369a",
+          "context": "πρῶτον ἐν ταῖς πόλεσι ζητήσωμεν"
+        },
+        {
+          "form": "ζητοῦμεν",
+          "lemma": "ζητέω",
+          "location": "369a",
+          "context": "εὐπετέστερον ἰδεῖν ὃ ζητοῦμεν"
+        }
+      ],
+      "observation": "The ζητ- family recurs across the transition from problem-statement to method-proposal, moving from noun (ζήτημα, ζήτησις) to verb (ζητήσωμεν, ζητοῦμεν)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεασαίμεθα",
+          "lemma": "θεάομαι",
+          "location": "369a",
+          "context": "γιγνομένην πόλιν θεασαίμεθα λόγῳ"
+        },
+        {
+          "form": "ἴδοιμεν",
+          "lemma": "ὁράω",
+          "location": "369a",
+          "context": "τὴν δικαιοσύνην αὐτῆς ἴδοιμεν ἂν γιγνομένην"
+        },
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "369a",
+          "context": "ἐλπὶς εὐπετέστερον ἰδεῖν"
+        }
+      ],
+      "observation": "θεασαίμεθα (watching a city come into being) leads to ἴδοιμεν and ἰδεῖν (seeing justice), sequencing collective observation into discovery."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γιγνομένην",
+          "lemma": "γίγνομαι",
+          "location": "369a",
+          "context": "γιγνομένην πόλιν θεασαίμεθα λόγῳ"
+        },
+        {
+          "form": "γιγνομένην",
+          "lemma": "γίγνομαι",
+          "location": "369a",
+          "context": "τὴν δικαιοσύνην αὐτῆς ἴδοιμεν ἂν γιγνομένην"
+        },
+        {
+          "form": "γενομένου",
+          "lemma": "γίγνομαι",
+          "location": "369a",
+          "context": "γενομένου αὐτοῦ ἐλπὶς εὐπετέστερον ἰδεῖν"
+        }
+      ],
+      "observation": "γίγνομαι appears three times in close succession: the city coming into being, justice coming into being within it, and the completed coming-into-being enabling sight."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὁμοιότητα",
+          "lemma": "ὁμοιότης",
+          "location": "369a",
+          "context": "τὴν τοῦ μείζονος ὁμοιότητα ἐν τῇ τοῦ ἐλάττονος ἰδέᾳ"
+        },
+        {
+          "form": "τὰ αὐτὰ ὄντα τυγχάνει",
+          "lemma": null,
+          "location": "368d",
+          "context": "εἰ τὰ αὐτὰ ὄντα τυγχάνει"
+        }
+      ],
+      "observation": "The letters analogy concludes with checking sameness (τὰ αὐτὰ ὄντα τυγχάνει); the city-soul method restates this as seeking ὁμοιότητα between larger and smaller."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παῖδες",
+          "lemma": "παῖς",
+          "location": "368a",
+          "context": "ὦ παῖδες ἐκείνου τοῦ ἀνδρός"
+        },
+        {
+          "form": "παῖδες Ἀρίστωνος",
+          "lemma": "παῖς",
+          "location": "368a",
+          "context": "παῖδες Ἀρίστωνος, κλεινοῦ θεῖον γένος ἀνδρός"
+        }
+      ],
+      "observation": "παῖδες appears in Socrates' address and then in the quoted elegiac verse, linking the present interlocutors to their father Ariston by name and lineage."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λόγους",
+          "lemma": "λόγος",
+          "location": "368b",
+          "context": "κατά γε αὐτοὺς τοὺς λόγους ἠπίστουν ἂν ὑμῖν"
+        },
+        {
+          "form": "τρόπου",
+          "lemma": "τρόπος",
+          "location": "368b",
+          "context": "τεκμαίρομαι δὲ ἐκ τοῦ ἄλλου τοῦ ὑμετέρου τρόπου"
+        }
+      ],
+      "observation": "Socrates contrasts λόγοι (which would produce distrust) with τρόπος (which provides the evidence for trust), distinguishing argument from character as grounds for belief."
+    }
+  ]
+}
