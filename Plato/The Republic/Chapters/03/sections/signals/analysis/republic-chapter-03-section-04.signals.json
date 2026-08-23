@@ -1,0 +1,730 @@
+{
+  "section_id": "republic-chapter-03-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μιμήσεως",
+          "lemma": "μίμησις",
+          "location": "392d",
+          "context": "διὰ μιμήσεως γιγνομένῃ"
+        },
+        {
+          "form": "μιμεῖσθαί",
+          "lemma": "μιμέομαι",
+          "location": "393c",
+          "context": "μιμεῖσθαί ἐστιν ἐκεῖνον"
+        },
+        {
+          "form": "μιμήσεως",
+          "lemma": "μίμησις",
+          "location": "393c",
+          "context": "διὰ μιμήσεως τὴν διήγησιν ποιοῦνται"
+        },
+        {
+          "form": "μιμητικοὺς",
+          "lemma": "μιμητικός",
+          "location": "394e",
+          "context": "μιμητικοὺς ἡμῖν δεῖ εἶναι τοὺς φύλακας"
+        },
+        {
+          "form": "μιμήματα",
+          "lemma": "μίμημα",
+          "location": "395b",
+          "context": "πάντα δὲ ταῦτα μιμήματα"
+        },
+        {
+          "form": "μιμητέον",
+          "lemma": "μιμέομαι",
+          "location": "396a",
+          "context": "ποιητέον δὲ οὐδὲν τούτων οὐδὲ μιμητέον"
+        }
+      ],
+      "observation": "The μιμ- word family pervades the section with extraordinary density, appearing as noun (μίμησις, μίμημα), verb (μιμέομαι), adjective (μιμητικός), and verbal adjective (μιμητέον)."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "διήγησις",
+          "lemma": "διήγησις",
+          "location": "392d",
+          "context": "διήγησις οὖσα τυγχάνει"
+        },
+        {
+          "form": "ἁπλῇ διηγήσει",
+          "lemma": "διήγησις",
+          "location": "392d",
+          "context": "ἁπλῇ διηγήσει ἢ διὰ μιμήσεως"
+        },
+        {
+          "form": "ἁπλῆ διήγησις",
+          "lemma": "διήγησις",
+          "location": "393d",
+          "context": "οὐκ ἂν μίμησις ἦν ἀλλὰ ἁπλῆ διήγησις"
+        },
+        {
+          "form": "ἁπλῆ διήγησις",
+          "lemma": "διήγησις",
+          "location": "394b",
+          "context": "ἄνευ μιμήσεως ἁπλῆ διήγησις γίγνεται"
+        }
+      ],
+      "observation": "διήγησις recurs repeatedly, set in contrast with μίμησις; the phrase ἁπλῆ διήγησις marks the mode without mimesis."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "μανθάνω",
+          "lemma": "μανθάνω",
+          "location": "392c",
+          "context": "οὐ μανθάνω ὅτι λέγεις"
+        },
+        {
+          "form": "μαθεῖν",
+          "lemma": "μανθάνω",
+          "location": "392d",
+          "context": "δέομαι σαφέστερον μαθεῖν"
+        },
+        {
+          "form": "μανθάνω",
+          "lemma": "μανθάνω",
+          "location": "394b",
+          "context": "μανθάνω, ἔφη"
+        },
+        {
+          "form": "μάνθανε",
+          "lemma": "μανθάνω",
+          "location": "394b",
+          "context": "μάνθανε τοίνυν"
+        },
+        {
+          "form": "μανθάνεις",
+          "lemma": "μανθάνω",
+          "location": "394c",
+          "context": "εἴ μοι μανθάνεις"
+        },
+        {
+          "form": "μανθάνω",
+          "lemma": "μανθάνω",
+          "location": "396b",
+          "context": "μανθάνω ἃ σὺ λέγεις"
+        }
+      ],
+      "observation": "μανθάνω recurs across the section in varied forms, marking Adeimantus' repeated failure and eventual success in understanding; Socrates' imperative μάνθανε immediately follows Adeimantus' declarative μανθάνω."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lexical_family",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λόγων",
+          "lemma": "λόγος",
+          "location": "392c",
+          "context": "τὰ μὲν δὴ λόγων πέρι ἐχέτω τέλος"
+        },
+        {
+          "form": "λέξεως",
+          "lemma": "λέξις",
+          "location": "392c",
+          "context": "τὸ δὲ λέξεως μετὰ τοῦτο σκεπτέον"
+        },
+        {
+          "form": "λεκτέον",
+          "lemma": "λέγω",
+          "location": "392c",
+          "context": "ἅ τε λεκτέον καὶ ὡς λεκτέον"
+        },
+        {
+          "form": "λεκτέον",
+          "lemma": "λέγω",
+          "location": "398b",
+          "context": "ἅ τε γὰρ λεκτέον καὶ ὡς λεκτέον εἴρηται"
+        }
+      ],
+      "observation": "The distinction between λόγος (content) and λέξις (manner) opens the section; λεκτέον appears as a pair (ἅ τε λεκτέον καὶ ὡς λεκτέον) at both the opening and close."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "structural_recurrence",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἅ τε λεκτέον καὶ ὡς λεκτέον",
+          "lemma": null,
+          "location": "392c",
+          "context": "ἡμῖν ἅ τε λεκτέον καὶ ὡς λεκτέον παντελῶς ἐσκέψεται"
+        },
+        {
+          "form": "ἅ τε γὰρ λεκτέον καὶ ὡς λεκτέον εἴρηται",
+          "lemma": null,
+          "location": "398b",
+          "context": null
+        }
+      ],
+      "observation": "The phrase ἅ τε λεκτέον καὶ ὡς λεκτέον is proposed as needing examination at 392c and declared completed at 398b, framing the section."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τραγῳδία",
+          "lemma": "τραγῳδία",
+          "location": "394c",
+          "context": "τραγῳδία τε καὶ κωμῳδία"
+        },
+        {
+          "form": "κωμῳδία",
+          "lemma": "κωμῳδία",
+          "location": "394c",
+          "context": null
+        },
+        {
+          "form": "διθυράμβοις",
+          "lemma": "διθύραμβος",
+          "location": "394c",
+          "context": "μάλιστά που ἐν διθυράμβοις"
+        },
+        {
+          "form": "ἐπῶν",
+          "lemma": "ἔπος",
+          "location": "394c",
+          "context": "ἐν τῇ τῶν ἐπῶν ποιήσει"
+        },
+        {
+          "form": "ῥαψῳδοί",
+          "lemma": "ῥαψῳδός",
+          "location": "395a",
+          "context": "ῥαψῳδοί γε καὶ ὑποκριταί"
+        },
+        {
+          "form": "ὑποκριταί",
+          "lemma": "ὑποκριτής",
+          "location": "395a",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of poetic genre terms and performer types: tragedy, comedy, dithyramb, epic, rhapsodes, and actors are named as the threefold classification is applied."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὁμοιοῦν",
+          "lemma": "ὁμοιόω",
+          "location": "393c",
+          "context": "ὁμοιοῦν αὐτὸν τὴν αὑτοῦ λέξιν ἑκάστῳ"
+        },
+        {
+          "form": "ἀποκρύπτοιτο",
+          "lemma": "ἀποκρύπτω",
+          "location": "393c",
+          "context": "μηδαμοῦ ἑαυτὸν ἀποκρύπτοιτο ὁ ποιητής"
+        }
+      ],
+      "observation": "Mimesis is described through two contrasting actions: the poet making himself like another (ὁμοιοῦν) versus concealing himself (ἀποκρύπτοιτο)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γελοῖος",
+          "lemma": "γελοῖος",
+          "location": "392d",
+          "context": "γελοῖος ἔοικα διδάσκαλος εἶναι καὶ ἀσαφής"
+        },
+        {
+          "form": "ἀσαφής",
+          "lemma": "ἀσαφής",
+          "location": "392d",
+          "context": null
+        },
+        {
+          "form": "σαφέστερον",
+          "lemma": "σαφής",
+          "location": "392d",
+          "context": "δέομαι σαφέστερον μαθεῖν"
+        }
+      ],
+      "observation": "Socrates calls himself a ridiculous and unclear teacher (γελοῖος, ἀσαφής), immediately after Adeimantus has asked for something clearer (σαφέστερον)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἦλθεν ὁ Χρύσης",
+          "lemma": null,
+          "location": "393d",
+          "context": "εἰ γὰρ Ὅμηρος εἰπὼν ὅτι ἦλθεν ὁ Χρύσης τῆς τε θυγατρὸς λύτρα φέρων"
+        },
+        {
+          "form": "ἐλθὼν ὁ ἱερεύς",
+          "lemma": null,
+          "location": "393e",
+          "context": "ἐλθὼν ὁ ἱερεὺς ηὔχετο"
+        }
+      ],
+      "observation": "Socrates retells Homer's Iliad opening in simple narration (ἁπλῆ διήγησις), converting quoted speech into reported speech; Chryses is named first by name, then as ὁ ἱερεύς and πρεσβύτην."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Χρύσην",
+          "lemma": "Χρύσης",
+          "location": "392e",
+          "context": "τὸν μὲν Χρύσην δεῖσθαι τοῦ Ἀγαμέμνονος"
+        },
+        {
+          "form": "Χρύσης",
+          "lemma": "Χρύσης",
+          "location": "393a",
+          "context": "ὥσπερ αὐτὸς ὢν ὁ Χρύσης λέγει"
+        },
+        {
+          "form": "Χρύσης",
+          "lemma": "Χρύσης",
+          "location": "393d",
+          "context": "μὴ ὡς Χρύσης γενόμενος ἔλεγεν"
+        },
+        {
+          "form": "ἱερέα",
+          "lemma": "ἱερεύς",
+          "location": "393b",
+          "context": "μὴ Ὅμηρον δοκεῖν εἶναι τὸν λέγοντα ἀλλὰ τὸν ἱερέα"
+        },
+        {
+          "form": "πρεσβύτην",
+          "lemma": "πρεσβύτης",
+          "location": "393b",
+          "context": "τὸν ἱερέα, πρεσβύτην ὄντα"
+        }
+      ],
+      "observation": "Chryses is referred to by name, then as ὁ ἱερεύς and πρεσβύτης; these designations shift as the discussion moves from Homer's mimetic version to Socrates' simple narration."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἓν μὲν ἂν ἐπιτήδευμα καλῶς ἐπιτηδεύοι",
+          "lemma": null,
+          "location": "394e",
+          "context": null
+        },
+        {
+          "form": "πολλὰ δʼ οὔ",
+          "lemma": null,
+          "location": "394e",
+          "context": null
+        },
+        {
+          "form": "πολλῶν ἐφαπτόμενος πάντων ἀποτυγχάνοι",
+          "lemma": null,
+          "location": "394e",
+          "context": null
+        }
+      ],
+      "observation": "The one/many contrast: each person does one thing well (ἓν... καλῶς) but grasping at many (πολλῶν ἐφαπτόμενος) fails at all (πάντων ἀποτυγχάνοι)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄνευ μέτρου",
+          "lemma": null,
+          "location": "393d",
+          "context": "φράσω δὲ ἄνευ μέτρου· οὐ γάρ εἰμι ποιητικός"
+        }
+      ],
+      "observation": "Socrates disclaims being poetic (οὐ γάρ εἰμι ποιητικός) and renders Homer in prose, performing the very conversion from mimetic to simple narration he is theorizing."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἔθη τε καὶ φύσιν",
+          "lemma": null,
+          "location": "395d",
+          "context": "εἰς ἔθη τε καὶ φύσιν καθίστανται"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "395d",
+          "context": "κατὰ σῶμα καὶ φωνὰς καὶ κατὰ τὴν διάνοιαν"
+        },
+        {
+          "form": "φωνὰς",
+          "lemma": "φωνή",
+          "location": "395d",
+          "context": null
+        },
+        {
+          "form": "διάνοιαν",
+          "lemma": "διάνοια",
+          "location": "395d",
+          "context": null
+        }
+      ],
+      "observation": "Mimesis from youth settles into habit and nature (ἔθη, φύσιν), affecting body, voice, and mind—a tripartite cluster."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "βροντάς",
+          "lemma": "βροντή",
+          "location": "397a",
+          "context": null
+        },
+        {
+          "form": "ψόφους ἀνέμων τε καὶ χαλαζῶν",
+          "lemma": null,
+          "location": "397a",
+          "context": null
+        },
+        {
+          "form": "ἀξόνων τε καὶ τροχιλιῶν",
+          "lemma": null,
+          "location": "397a",
+          "context": null
+        },
+        {
+          "form": "σαλπίγγων καὶ αὐλῶν καὶ συρίγγων",
+          "lemma": null,
+          "location": "397a",
+          "context": null
+        },
+        {
+          "form": "κυνῶν καὶ προβάτων καὶ ὀρνέων φθόγγους",
+          "lemma": null,
+          "location": "397a",
+          "context": null
+        }
+      ],
+      "observation": "An extended catalogue of sounds the inferior imitator mimics: thunder, wind, hail, axles, pulleys, trumpets, pipes, dogs, sheep, birds—a dense accumulation of φωναί and φθόγγοι."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "προσκυνοῖμεν ἂν αὐτὸν ὡς ἱερὸν καὶ θαυμαστὸν καὶ ἡδύν",
+          "lemma": null,
+          "location": "398a",
+          "context": null
+        },
+        {
+          "form": "ἀποπέμποιμέν τε εἰς ἄλλην πόλιν",
+          "lemma": "ἀποπέμπω",
+          "location": "398a",
+          "context": null
+        },
+        {
+          "form": "μύρον κατὰ τῆς κεφαλῆς καταχέαντες καὶ ἐρίῳ στέψαντες",
+          "lemma": null,
+          "location": "398a",
+          "context": null
+        }
+      ],
+      "observation": "The versatile poet would be reverenced as sacred (ἱερόν) and wonderful, then anointed with myrrh, crowned with wool, and sent away to another city—honor and expulsion combined."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἡδύς",
+          "lemma": "ἡδύς",
+          "location": "397d",
+          "context": "ἡδύς γε καὶ ὁ κεκραμένος"
+        },
+        {
+          "form": "ἥδιστος",
+          "lemma": "ἡδύς",
+          "location": "397d",
+          "context": "πολὺ δὲ ἥδιστος παισί τε καὶ παιδαγωγοῖς"
+        },
+        {
+          "form": "αὐστηροτέρῳ καὶ ἀηδεστέρῳ",
+          "lemma": null,
+          "location": "398a",
+          "context": "τῷ αὐστηροτέρῳ καὶ ἀηδεστέρῳ ποιητῇ χρῴμεθα"
+        }
+      ],
+      "observation": "The mimetic poet is ἡδύς/ἥδιστος; the poet the city chooses is αὐστηρότερος and ἀηδέστερος—pleasure and austerity contrasted."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lexical_family",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄκρατον",
+          "lemma": "ἄκρατος",
+          "location": "397d",
+          "context": "τὸν τοῦ ἐπιεικοῦς μιμητὴν ἄκρατον"
+        },
+        {
+          "form": "κεκραμένος",
+          "lemma": "κεράννυμι",
+          "location": "397d",
+          "context": "ἡδύς γε καὶ ὁ κεκραμένος"
+        },
+        {
+          "form": "συγκεραννύντες",
+          "lemma": "συγκεράννυμι",
+          "location": "397c",
+          "context": "ἐξ ἀμφοτέρων τινὶ συγκεραννύντες"
+        }
+      ],
+      "observation": "Mixing vocabulary (κεράννυμι, ἄκρατος, συγκεράννυμι) describes the blending of poetic modes—unmixed versus mixed."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "σκυτοτόμον σκυτοτόμον",
+          "lemma": "σκυτοτόμος",
+          "location": "397e",
+          "context": "τόν τε σκυτοτόμον σκυτοτόμον εὑρήσομεν καὶ οὐ κυβερνήτην"
+        },
+        {
+          "form": "γεωργὸν γεωργὸν",
+          "lemma": "γεωργός",
+          "location": "397e",
+          "context": "τὸν γεωργὸν γεωργὸν καὶ οὐ δικαστήν"
+        },
+        {
+          "form": "πολεμικὸν πολεμικὸν",
+          "lemma": "πολεμικός",
+          "location": "397e",
+          "context": "τὸν πολεμικὸν πολεμικὸν καὶ οὐ χρηματιστήν"
+        }
+      ],
+      "observation": "A tripled syntactic pattern: each craft name is doubled (σκυτοτόμον σκυτοτόμον, γεωργὸν γεωργὸν, πολεμικὸν πολεμικὸν) and then contrasted with what it is not."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "διπλοῦς",
+          "lemma": "διπλοῦς",
+          "location": "397e",
+          "context": "οὐκ ἔστιν διπλοῦς ἀνὴρ παρʼ ἡμῖν"
+        },
+        {
+          "form": "πολλαπλοῦς",
+          "lemma": "πολλαπλοῦς",
+          "location": "397e",
+          "context": "οὐδὲ πολλαπλοῦς"
+        },
+        {
+          "form": "ἕκαστος ἓν πράττει",
+          "lemma": null,
+          "location": "397e",
+          "context": null
+        }
+      ],
+      "observation": "The city has no double or manifold man (διπλοῦς, πολλαπλοῦς); each does one thing (ἓν πράττει)."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὅπῃ ἂν ὁ λόγος ὥσπερ πνεῦμα φέρῃ, ταύτῃ ἰτέον",
+          "lemma": null,
+          "location": "394d",
+          "context": null
+        }
+      ],
+      "observation": "Socrates compares the λόγος to wind (πνεῦμα) that carries them where it will."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "394e",
+          "context": "μιμητικοὺς ἡμῖν δεῖ εἶναι τοὺς φύλακας"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "395b",
+          "context": "τοὺς φύλακας ἡμῖν τῶν ἄλλων πασῶν δημιουργιῶν ἀφειμένους"
+        }
+      ],
+      "observation": "The guardians (φύλακες) are named as the specific subjects whose mimetic practice is at issue, linked to their being released from all other crafts yet called δημιουργοὺς ἐλευθερίας."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργιῶν",
+          "lemma": "δημιουργία",
+          "location": "395b",
+          "context": "τῶν ἄλλων πασῶν δημιουργιῶν ἀφειμένους"
+        },
+        {
+          "form": "δημιουργοὺς ἐλευθερίας τῆς πόλεως",
+          "lemma": "δημιουργός",
+          "location": "395c",
+          "context": null
+        }
+      ],
+      "observation": "The guardians are released from all crafts (δημιουργίαι) yet are themselves called craftsmen of the city's freedom (δημιουργοὺς ἐλευθερίας)."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρείους",
+          "lemma": "ἀνδρεῖος",
+          "location": "395c",
+          "context": null
+        },
+        {
+          "form": "σώφρονας",
+          "lemma": "σώφρων",
+          "location": "395c",
+          "context": null
+        },
+        {
+          "form": "ὁσίους",
+          "lemma": "ὅσιος",
+          "location": "395c",
+          "context": null
+        },
+        {
+          "form": "ἐλευθέρους",
+          "lemma": "ἐλεύθερος",
+          "location": "395c",
+          "context": null
+        },
+        {
+          "form": "ἀνελεύθερα",
+          "lemma": "ἀνελεύθερος",
+          "location": "395c",
+          "context": "τὰ δὲ ἀνελεύθερα μήτε ποιεῖν"
+        }
+      ],
+      "observation": "A cluster of virtues the guardians may imitate (brave, temperate, pious, free), immediately contrasted with ἀνελεύθερα."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μέτριος ἀνήρ",
+          "lemma": null,
+          "location": "396c",
+          "context": "ὁ μέν μοι δοκεῖ μέτριος ἀνήρ"
+        },
+        {
+          "form": "φαυλότερος",
+          "lemma": "φαῦλος",
+          "location": "397a",
+          "context": "ὁ μὴ τοιοῦτος αὖ, ὅσῳ ἂν φαυλότερος ᾖ"
+        }
+      ],
+      "observation": "Two kinds of speaker are contrasted: the measured man (μέτριος ἀνήρ) who imitates sparingly, and the inferior one (φαυλότερος) who imitates everything."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "αἰσχυνεῖσθαι",
+          "lemma": "αἰσχύνομαι",
+          "location": "396d",
+          "context": "ἀλλʼ αἰσχυνεῖσθαι"
+        },
+        {
+          "form": "οὐκ αἰσχυνεῖσθαι",
+          "lemma": "αἰσχύνομαι",
+          "location": "396c",
+          "context": "οὐκ αἰσχυνεῖσθαι ἐπὶ τῇ τοιαύτῃ μιμήσει"
+        }
+      ],
+      "observation": "The measured man will not be ashamed imitating the good (οὐκ αἰσχυνεῖσθαι) but will be ashamed (αἰσχυνεῖσθαι) to mold himself into the types of worse persons."
+    }
+  ]
+}
