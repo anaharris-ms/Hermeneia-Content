@@ -1,0 +1,826 @@
+{
+  "section_id": "republic-chapter-06-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέμνε",
+          "lemma": "τέμνω",
+          "location": "509d",
+          "context": "γραμμὴν δίχα τετμημένην λαβὼν ἄνισα τμήματα, πάλιν τέμνε ἑκάτερον τὸ τμῆμα"
+        },
+        {
+          "form": "τμήματα",
+          "lemma": "τμῆμα",
+          "location": "509d",
+          "context": null
+        },
+        {
+          "form": "τμῆμα",
+          "lemma": "τμῆμα",
+          "location": "509e",
+          "context": "τὸ μὲν ἕτερον τμῆμα εἰκόνες"
+        },
+        {
+          "form": "τομὴν",
+          "lemma": "τομή",
+          "location": "510b",
+          "context": "τὴν τοῦ νοητοῦ τομὴν ᾗ τμητέον"
+        },
+        {
+          "form": "τμητέον",
+          "lemma": "τέμνω",
+          "location": "510b",
+          "context": null
+        },
+        {
+          "form": "τμῆμα",
+          "lemma": "τμῆμα",
+          "location": "511b",
+          "context": "τὸ τοίνυν ἕτερον μάνθανε τμῆμα τοῦ νοητοῦ"
+        },
+        {
+          "form": "τμήμασι",
+          "lemma": "τμῆμα",
+          "location": "511d",
+          "context": "ἐπὶ τοῖς τέτταρσι τμήμασι"
+        }
+      ],
+      "observation": "The lexical family of τέμνω/τμῆμα/τομή recurs densely throughout the section, marking each stage of the line's division."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὁρατοῦ",
+          "lemma": "ὁρατός",
+          "location": "509d",
+          "context": "τὸ δʼ αὖ ὁρατοῦ"
+        },
+        {
+          "form": "νοητοῦ",
+          "lemma": "νοητός",
+          "location": "509d",
+          "context": "νοητοῦ γένους τε καὶ τόπου"
+        },
+        {
+          "form": "ὁρατόν",
+          "lemma": "ὁρατός",
+          "location": "509d",
+          "context": "διττὰ εἴδη, ὁρατόν, νοητόν"
+        },
+        {
+          "form": "νοητόν",
+          "lemma": "νοητός",
+          "location": "509d",
+          "context": null
+        },
+        {
+          "form": "ὁρωμένου",
+          "lemma": "ὁράω",
+          "location": "509d",
+          "context": "τοῦ ὁρωμένου γένους"
+        },
+        {
+          "form": "νοουμένου",
+          "lemma": "νοέω",
+          "location": "509d",
+          "context": "τοῦ νοουμένου"
+        }
+      ],
+      "observation": "ὁρατός/ὁράω and νοητός/νοέω are set in repeated paired contrast as the two domains."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἰκόνες",
+          "lemma": "εἰκών",
+          "location": "509e",
+          "context": "τὸ μὲν ἕτερον τμῆμα εἰκόνες"
+        },
+        {
+          "form": "εἰκόνας",
+          "lemma": "εἰκών",
+          "location": "509e",
+          "context": "λέγω δὲ τὰς εἰκόνας"
+        },
+        {
+          "form": "εἰκόσιν",
+          "lemma": "εἰκών",
+          "location": "510b",
+          "context": "τοῖς τότε μιμηθεῖσιν ὡς εἰκόσιν χρωμένη ψυχὴ"
+        },
+        {
+          "form": "εἰκόνων",
+          "lemma": "εἰκών",
+          "location": "510b",
+          "context": "ἄνευ τῶν περὶ ἐκεῖνο εἰκόνων"
+        },
+        {
+          "form": "εἰκόνες",
+          "lemma": "εἰκών",
+          "location": "510e",
+          "context": "σκιαὶ καὶ ἐν ὕδασιν εἰκόνες"
+        },
+        {
+          "form": "εἰκόσιν",
+          "lemma": "εἰκών",
+          "location": "510e",
+          "context": "τούτοις μὲν ὡς εἰκόσιν αὖ χρώμενοι"
+        },
+        {
+          "form": "εἰκόσι",
+          "lemma": "εἰκών",
+          "location": "511a",
+          "context": "εἰκόσι δὲ χρωμένην"
+        }
+      ],
+      "observation": "εἰκών recurs across both the visible and intelligible divisions: first naming shadows and reflections, then reapplied to the mathematicians' use of diagrams as images, and again to the soul's use of lower likenesses."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀρχὴν",
+          "lemma": "ἀρχή",
+          "location": "510b",
+          "context": "οὐκ ἐπʼ ἀρχὴν πορευομένη"
+        },
+        {
+          "form": "ἀνυπόθετον",
+          "lemma": "ἀνυπόθετος",
+          "location": "510b",
+          "context": "τὸ ἐπʼ ἀρχὴν ἀνυπόθετον"
+        },
+        {
+          "form": "ἀρχὴν",
+          "lemma": "ἀρχή",
+          "location": "511a",
+          "context": "οὐκ ἐπʼ ἀρχὴν ἰοῦσαν"
+        },
+        {
+          "form": "ἀνυποθέτου",
+          "lemma": "ἀνυπόθετος",
+          "location": "511b",
+          "context": "μέχρι τοῦ ἀνυποθέτου ἐπὶ τὴν τοῦ παντὸς ἀρχὴν"
+        },
+        {
+          "form": "ἀρχὴν",
+          "lemma": "ἀρχή",
+          "location": "511b",
+          "context": null
+        },
+        {
+          "form": "ἀρχῆς",
+          "lemma": "ἀρχή",
+          "location": "511d",
+          "context": "νοητῶν ὄντων μετὰ ἀρχῆς"
+        }
+      ],
+      "observation": "ἀρχή recurs repeatedly, contrasted between the soul that cannot reach it and the dialectical method that ascends to the ἀνυπόθετον ἀρχή."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑποθέσεων",
+          "lemma": "ὑπόθεσις",
+          "location": "510b",
+          "context": "ἐξ ὑποθέσεων"
+        },
+        {
+          "form": "ὑποθέσεως",
+          "lemma": "ὑπόθεσις",
+          "location": "510b",
+          "context": "ἐξ ὑποθέσεως ἰοῦσα"
+        },
+        {
+          "form": "ὑποθέσεις",
+          "lemma": "ὑπόθεσις",
+          "location": "510c",
+          "context": "ποιησάμενοι ὑποθέσεις αὐτά"
+        },
+        {
+          "form": "ὑποθέσεσι",
+          "lemma": "ὑπόθεσις",
+          "location": "511a",
+          "context": "ὑποθέσεσι δʼ ἀναγκαζομένην ψυχὴν χρῆσθαι"
+        },
+        {
+          "form": "ὑποθέσεις",
+          "lemma": "ὑπόθεσις",
+          "location": "511b",
+          "context": "τὰς ὑποθέσεις ποιούμενος οὐκ ἀρχὰς ἀλλὰ τῷ ὄντι ὑποθέσεις"
+        },
+        {
+          "form": "ὑποθέσεων",
+          "lemma": "ὑπόθεσις",
+          "location": "511a",
+          "context": "τῶν ὑποθέσεων ἀνωτέρω ἐκβαίνειν"
+        },
+        {
+          "form": "ὑποθέσεων",
+          "lemma": "ὑπόθεσις",
+          "location": "511d",
+          "context": "ἐξ ὑποθέσεων"
+        }
+      ],
+      "observation": "ὑπόθεσις is densely recurrent, used both for the mathematicians' unexamined assumptions and for dialectic's treatment of them as genuinely provisional stepping-stones."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πορευομένη",
+          "lemma": "πορεύομαι",
+          "location": "510b",
+          "context": "οὐκ ἐπʼ ἀρχὴν πορευομένη ἀλλʼ ἐπὶ τελευτήν"
+        },
+        {
+          "form": "ἰοῦσα",
+          "lemma": "εἶμι",
+          "location": "510b",
+          "context": "ἐξ ὑποθέσεως ἰοῦσα"
+        },
+        {
+          "form": "ἰών",
+          "lemma": "εἶμι",
+          "location": "511b",
+          "context": "ἐπὶ τὴν τοῦ παντὸς ἀρχὴν ἰών"
+        },
+        {
+          "form": "καταβαίνῃ",
+          "lemma": "καταβαίνω",
+          "location": "511b",
+          "context": "οὕτως ἐπὶ τελευτὴν καταβαίνῃ"
+        },
+        {
+          "form": "ἀνωτέρω",
+          "lemma": "ἀνωτέρω",
+          "location": "511a",
+          "context": "τῶν ὑποθέσεων ἀνωτέρω ἐκβαίνειν"
+        },
+        {
+          "form": "ἀνελθόντες",
+          "lemma": "ἀνέρχομαι",
+          "location": "511d",
+          "context": "μὴ ἐπʼ ἀρχὴν ἀνελθόντες"
+        }
+      ],
+      "observation": "Movement verbs articulate upward and downward directions: dialectic goes up (ἰών, ἀνωτέρω, ἀνελθόντες) toward ἀρχή then descends (καταβαίνῃ) to conclusions, while the mathematical soul goes not toward ἀρχή but toward τελευτή."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τελευτήν",
+          "lemma": "τελευτή",
+          "location": "510b",
+          "context": "ἀλλʼ ἐπὶ τελευτήν"
+        },
+        {
+          "form": "τελευτῶσιν",
+          "lemma": "τελευτάω",
+          "location": "510d",
+          "context": "τελευτῶσιν ὁμολογουμένως ἐπὶ τοῦτο"
+        },
+        {
+          "form": "τελευτὴν",
+          "lemma": "τελευτή",
+          "location": "511b",
+          "context": "ἐπὶ τελευτὴν καταβαίνῃ"
+        },
+        {
+          "form": "τελευτᾷ",
+          "lemma": "τελευτάω",
+          "location": "511c",
+          "context": "τελευτᾷ εἰς εἴδη"
+        },
+        {
+          "form": "τελευταίῳ",
+          "lemma": "τελευταῖος",
+          "location": "511e",
+          "context": "τῷ τελευταίῳ εἰκασίαν"
+        }
+      ],
+      "observation": "τελευτή/τελευτάω recurs marking endpoints: the mathematical method ends at its conclusion, dialectic descends to an endpoint in εἴδη, and the final segment of the line is called τελευταῖος."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκιάς",
+          "lemma": "σκιά",
+          "location": "510a",
+          "context": "πρῶτον μὲν τὰς σκιάς"
+        },
+        {
+          "form": "φαντάσματα",
+          "lemma": "φάντασμα",
+          "location": "510a",
+          "context": "τὰ ἐν τοῖς ὕδασι φαντάσματα"
+        },
+        {
+          "form": "ὕδασι",
+          "lemma": "ὕδωρ",
+          "location": "510a",
+          "context": null
+        },
+        {
+          "form": "σκιαὶ",
+          "lemma": "σκιά",
+          "location": "510e",
+          "context": "ὧν καὶ σκιαὶ καὶ ἐν ὕδασιν εἰκόνες"
+        },
+        {
+          "form": "ὕδασιν",
+          "lemma": "ὕδωρ",
+          "location": "510e",
+          "context": null
+        }
+      ],
+      "observation": "σκιαί and ὕδατα first appear as examples of εἰκόνες in the visible realm, then return at 510e as images of the geometers' own drawn figures, creating a layered reapplication of the same concrete items."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νόησιν",
+          "lemma": "νόησις",
+          "location": "511d",
+          "context": "νόησιν μὲν ἐπὶ τῷ ἀνωτάτω"
+        },
+        {
+          "form": "διάνοιαν",
+          "lemma": "διάνοια",
+          "location": "511d",
+          "context": "διάνοιαν δὲ ἐπὶ τῷ δευτέρῳ"
+        },
+        {
+          "form": "πίστιν",
+          "lemma": "πίστις",
+          "location": "511e",
+          "context": "τῷ τρίτῳ δὲ πίστιν ἀπόδος"
+        },
+        {
+          "form": "εἰκασίαν",
+          "lemma": "εἰκασία",
+          "location": "511e",
+          "context": "τῷ τελευταίῳ εἰκασίαν"
+        }
+      ],
+      "observation": "The four παθήματα are named in descending order—νόησις, διάνοια, πίστις, εἰκασία—assigned to the four segments."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διάνοιαν",
+          "lemma": "διάνοια",
+          "location": "511d",
+          "context": "διάνοιαν δὲ καλεῖν μοι δοκεῖς τὴν τῶν γεωμετρικῶν τε καὶ τὴν τῶν τοιούτων ἕξιν ἀλλʼ οὐ νοῦν"
+        },
+        {
+          "form": "νοῦν",
+          "lemma": "νοῦς",
+          "location": "511d",
+          "context": "νοῦν οὐκ ἴσχειν περὶ αὐτὰ δοκοῦσί σοι"
+        },
+        {
+          "form": "μεταξύ",
+          "lemma": "μεταξύ",
+          "location": "511d",
+          "context": "ὡς μεταξύ τι δόξης τε καὶ νοῦ τὴν διάνοιαν οὖσαν"
+        }
+      ],
+      "observation": "Glaucon distinguishes διάνοια from νοῦς and places διάνοια as μεταξύ between δόξα and νοῦς."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μανθάνω",
+          "lemma": "μανθάνω",
+          "location": "511b",
+          "context": "μανθάνω, ἔφη, ὅτι τὸ ὑπὸ ταῖς γεωμετρίαις"
+        },
+        {
+          "form": "μάνθανε",
+          "lemma": "μανθάνω",
+          "location": "511b",
+          "context": "τὸ τοίνυν ἕτερον μάνθανε τμῆμα"
+        },
+        {
+          "form": "μανθάνω",
+          "lemma": "μανθάνω",
+          "location": "511c",
+          "context": "μανθάνω, ἔφη, ἱκανῶς μὲν οὔ"
+        },
+        {
+          "form": "ἔμαθον",
+          "lemma": "μανθάνω",
+          "location": "510b",
+          "context": "οὐχ ἱκανῶς ἔμαθον"
+        },
+        {
+          "form": "μαθήσῃ",
+          "lemma": "μανθάνω",
+          "location": "510c",
+          "context": "ῥᾷον γὰρ τούτων προειρημένων μαθήσῃ"
+        },
+        {
+          "form": "μανθάνω",
+          "lemma": "μανθάνω",
+          "location": "511e",
+          "context": "μανθάνω, ἔφη, καὶ συγχωρῶ"
+        }
+      ],
+      "observation": "Forms of μανθάνω recur in the interlocutor's responses, moving from insufficient understanding (οὐχ ἱκανῶς ἔμαθον, ἱκανῶς μὲν οὔ) to final assent (μανθάνω… καὶ συγχωρῶ)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔοικεν",
+          "lemma": "ἔοικα",
+          "location": "510a",
+          "context": "τὸ τοίνυν ἕτερον τίθει ᾧ τοῦτο ἔοικεν"
+        },
+        {
+          "form": "ἔοικε",
+          "lemma": "ἔοικα",
+          "location": "510d",
+          "context": "ἐκείνων πέρι οἷς ταῦτα ἔοικε"
+        },
+        {
+          "form": "ὁμοιωθὲν",
+          "lemma": "ὁμοιόω",
+          "location": "510a",
+          "context": "τὸ ὁμοιωθὲν πρὸς τὸ ᾧ ὡμοιώθη"
+        },
+        {
+          "form": "ὡμοιώθη",
+          "lemma": "ὁμοιόω",
+          "location": "510a",
+          "context": null
+        },
+        {
+          "form": "ἀπεικασθεῖσιν",
+          "lemma": "ἀπεικάζω",
+          "location": "511a",
+          "context": "τοῖς ὑπὸ τῶν κάτω ἀπεικασθεῖσιν"
+        }
+      ],
+      "observation": "Likeness vocabulary (ἔοικα, ὁμοιόω, ἀπεικάζω) recurs, articulating the relation between originals and their images at multiple levels of the line."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σαφηνείᾳ",
+          "lemma": "σαφήνεια",
+          "location": "509d",
+          "context": "σαφηνείᾳ καὶ ἀσαφείᾳ πρὸς ἄλληλα"
+        },
+        {
+          "form": "ἀσαφείᾳ",
+          "lemma": "ἀσάφεια",
+          "location": "509d",
+          "context": null
+        },
+        {
+          "form": "σαφέστερον",
+          "lemma": "σαφής",
+          "location": "511c",
+          "context": "σαφέστερον εἶναι τὸ ὑπὸ τῆς τοῦ διαλέγεσθαι ἐπιστήμης"
+        },
+        {
+          "form": "σαφηνείας",
+          "lemma": "σαφήνεια",
+          "location": "511e",
+          "context": "οὕτω ταῦτα σαφηνείας ἡγησάμενος μετέχειν"
+        }
+      ],
+      "observation": "σαφήνεια/ἀσάφεια introduced as the ratio governing the segments returns at the end as the measure the four παθήματα participate in."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "εἴδη",
+          "lemma": "εἶδος",
+          "location": "509d",
+          "context": "διττὰ εἴδη, ὁρατόν, νοητόν"
+        },
+        {
+          "form": "εἴδεσι",
+          "lemma": "εἶδος",
+          "location": "510b",
+          "context": "αὐτοῖς εἴδεσι διʼ αὐτῶν"
+        },
+        {
+          "form": "εἴδεσι",
+          "lemma": "εἶδος",
+          "location": "511c",
+          "context": "εἴδεσιν αὐτοῖς διʼ αὐτῶν εἰς αὐτά"
+        },
+        {
+          "form": "εἴδη",
+          "lemma": "εἶδος",
+          "location": "511c",
+          "context": "τελευτᾷ εἰς εἴδη"
+        },
+        {
+          "form": "εἶδος",
+          "lemma": "εἶδος",
+          "location": "511a",
+          "context": "νοητὸν μὲν τὸ εἶδος ἔλεγον"
+        },
+        {
+          "form": "εἴδεσι",
+          "lemma": "εἶδος",
+          "location": "510d",
+          "context": "τοῖς ὁρωμένοις εἴδεσι προσχρῶνται"
+        }
+      ],
+      "observation": "εἶδος recurs across different levels: as the two kinds (visible/intelligible), as visible shapes used by geometers, and as the forms themselves that dialectic reaches and terminates in."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιβάσεις",
+          "lemma": "ἐπίβασις",
+          "location": "511b",
+          "context": "οἷον ἐπιβάσεις τε καὶ ὁρμάς"
+        },
+        {
+          "form": "ὁρμάς",
+          "lemma": "ὁρμή",
+          "location": "511b",
+          "context": null
+        }
+      ],
+      "observation": "Hypotheses in dialectic are recharacterized as ἐπιβάσεις (stepping-stones) and ὁρμαί (launching points), concrete spatial/kinetic metaphors for their provisional status."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἅπτεται",
+          "lemma": "ἅπτω",
+          "location": "511b",
+          "context": "ὁ λόγος ἅπτεται τῇ τοῦ διαλέγεσθαι δυνάμει"
+        },
+        {
+          "form": "ἁψάμενος",
+          "lemma": "ἅπτω",
+          "location": "511b",
+          "context": "ἁψάμενος αὐτῆς"
+        }
+      ],
+      "observation": "ἅπτω appears twice in close succession: λόγος 'grasps' through dialectic, then the dialectician 'having grasped' the ἀρχή descends—a tactile verb for intellectual contact."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀνὰ τὸν αὐτὸν λόγον",
+          "lemma": null,
+          "location": "509d",
+          "context": "πάλιν τέμνε ἑκάτερον τὸ τμῆμα ἀνὰ τὸν αὐτὸν λόγον"
+        },
+        {
+          "form": "ἀνὰ λόγον",
+          "lemma": null,
+          "location": "511e",
+          "context": "τάξον αὐτὰ ἀνὰ λόγον"
+        }
+      ],
+      "observation": "The phrase ἀνὰ (τὸν αὐτὸν) λόγον frames the section: it introduces the proportional cutting of the line and returns at the end as the principle for ordering the four παθήματα."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γεωμετρίας",
+          "lemma": "γεωμετρία",
+          "location": "510c",
+          "context": "οἱ περὶ τὰς γεωμετρίας τε καὶ λογισμοὺς"
+        },
+        {
+          "form": "λογισμοὺς",
+          "lemma": "λογισμός",
+          "location": "510c",
+          "context": null
+        },
+        {
+          "form": "περιττὸν",
+          "lemma": "περιττός",
+          "location": "510c",
+          "context": "τό τε περιττὸν καὶ τὸ ἄρτιον"
+        },
+        {
+          "form": "ἄρτιον",
+          "lemma": "ἄρτιος",
+          "location": "510c",
+          "context": null
+        },
+        {
+          "form": "σχήματα",
+          "lemma": "σχῆμα",
+          "location": "510c",
+          "context": "τὰ σχήματα καὶ γωνιῶν τριττὰ εἴδη"
+        },
+        {
+          "form": "γωνιῶν",
+          "lemma": "γωνία",
+          "location": "510c",
+          "context": null
+        },
+        {
+          "form": "τετραγώνου",
+          "lemma": "τετράγωνος",
+          "location": "510d",
+          "context": "τοῦ τετραγώνου αὐτοῦ ἕνεκα"
+        },
+        {
+          "form": "διαμέτρου",
+          "lemma": "διάμετρος",
+          "location": "510d",
+          "context": "διαμέτρου αὐτῆς"
+        }
+      ],
+      "observation": "A concrete cluster of mathematical terminology—γεωμετρία, λογισμός, περιττόν, ἄρτιον, σχῆμα, γωνία, τετράγωνον, διάμετρος—specifies the content of the mathematical sciences' segment."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τέτταρσι",
+          "lemma": "τέσσαρες",
+          "location": "511d",
+          "context": "ἐπὶ τοῖς τέτταρσι τμήμασι"
+        },
+        {
+          "form": "τέτταρα",
+          "lemma": "τέσσαρες",
+          "location": "511d",
+          "context": "τέτταρα ταῦτα παθήματα"
+        },
+        {
+          "form": "ἀνωτάτω",
+          "lemma": "ἀνωτάτω",
+          "location": "511d",
+          "context": "νόησιν μὲν ἐπὶ τῷ ἀνωτάτω"
+        },
+        {
+          "form": "δευτέρῳ",
+          "lemma": "δεύτερος",
+          "location": "511e",
+          "context": "διάνοιαν δὲ ἐπὶ τῷ δευτέρῳ"
+        },
+        {
+          "form": "τρίτῳ",
+          "lemma": "τρίτος",
+          "location": "511e",
+          "context": "τῷ τρίτῳ δὲ πίστιν"
+        },
+        {
+          "form": "τελευταίῳ",
+          "lemma": "τελευταῖος",
+          "location": "511e",
+          "context": "τῷ τελευταίῳ εἰκασίαν"
+        }
+      ],
+      "observation": "The four segments are explicitly numbered in descending order (ἀνωτάτω, δεύτερος, τρίτος, τελευταῖος), each paired with a named πάθημα."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βασιλεύειν",
+          "lemma": "βασιλεύω",
+          "location": "509d",
+          "context": "βασιλεύειν τὸ μὲν νοητοῦ γένους τε καὶ τόπου, τὸ δʼ αὖ ὁρατοῦ"
+        }
+      ],
+      "observation": "The two principles are said to βασιλεύειν—to rule as kings—over their respective domains, a striking political verb for an ontological relation."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χρωμένη",
+          "lemma": "χράομαι",
+          "location": "510b",
+          "context": "ὡς εἰκόσιν χρωμένη ψυχὴ"
+        },
+        {
+          "form": "χρώμενοι",
+          "lemma": "χράομαι",
+          "location": "510e",
+          "context": "τούτοις μὲν ὡς εἰκόσιν αὖ χρώμενοι"
+        },
+        {
+          "form": "χρωμένην",
+          "lemma": "χράομαι",
+          "location": "511a",
+          "context": "εἰκόσι δὲ χρωμένην"
+        },
+        {
+          "form": "χρῆσθαι",
+          "lemma": "χράομαι",
+          "location": "511a",
+          "context": "ὑποθέσεσι δʼ ἀναγκαζομένην ψυχὴν χρῆσθαι"
+        },
+        {
+          "form": "προσχρῶνται",
+          "lemma": "προσχράομαι",
+          "location": "510d",
+          "context": "τοῖς ὁρωμένοις εἴδεσι προσχρῶνται"
+        },
+        {
+          "form": "προσχρώμενος",
+          "lemma": "προσχράομαι",
+          "location": "511c",
+          "context": "αἰσθητῷ παντάπασιν οὐδενὶ προσχρώμενος"
+        }
+      ],
+      "observation": "χράομαι/προσχράομαι recurs to describe what each cognitive mode 'uses': the soul uses images, geometers use visible shapes, dialectic uses no sensible thing at all."
+    }
+  ]
+}
