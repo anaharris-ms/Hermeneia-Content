@@ -1,0 +1,643 @@
+{
+  "section_id": "republic-chapter-02-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "αἴτιον",
+          "lemma": "αἴτιος",
+          "location": "379b",
+          "context": "οὐδʼ ἄν τινος εἴη κακοῦ αἴτιον"
+        },
+        {
+          "form": "αἴτιον",
+          "lemma": "αἴτιος",
+          "location": "379b",
+          "context": "αἴτιον ἄρα εὐπραγίας"
+        },
+        {
+          "form": "αἴτιον",
+          "lemma": "αἴτιος",
+          "location": "379b",
+          "context": "οὐκ ἄρα πάντων γε αἴτιον τὸ ἀγαθόν"
+        },
+        {
+          "form": "ἀναίτιον",
+          "lemma": "ἀναίτιος",
+          "location": "379b",
+          "context": "τῶν δὲ κακῶν ἀναίτιον"
+        },
+        {
+          "form": "αἴτιος",
+          "lemma": "αἴτιος",
+          "location": "379c",
+          "context": "ὀλίγων μὲν τοῖς ἀνθρώποις αἴτιος"
+        },
+        {
+          "form": "ἀναίτιος",
+          "lemma": "ἀναίτιος",
+          "location": "379c",
+          "context": "πολλῶν δὲ ἀναίτιος"
+        },
+        {
+          "form": "αἰτιατέον",
+          "lemma": "αἰτιάομαι",
+          "location": "379c",
+          "context": "τῶν μὲν ἀγαθῶν οὐδένα ἄλλον αἰτιατέον"
+        },
+        {
+          "form": "αἰτίαν",
+          "lemma": "αἰτία",
+          "location": "380a",
+          "context": "θεὸς μὲν αἰτίαν φύει βροτοῖς"
+        },
+        {
+          "form": "αἴτιον",
+          "lemma": "αἴτιος",
+          "location": "380b",
+          "context": "κακῶν δὲ αἴτιον φάναι θεόν"
+        },
+        {
+          "form": "αἴτιον",
+          "lemma": "αἴτιος",
+          "location": "380c",
+          "context": "μὴ πάντων αἴτιον τὸν θεὸν ἀλλὰ τῶν ἀγαθῶν"
+        }
+      ],
+      "observation": "Forms of αἴτιος/ἀναίτιος/αἰτία accumulate densely from 379b through 380c, forming the central chain of the argument. The pair αἴτιον/ἀναίτιον recurs as a local contrast applied first to τὸ ἀγαθόν, then to ὁ θεός."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀγαθός",
+          "lemma": "ἀγαθός",
+          "location": "379b",
+          "context": "ἀγαθὸς ὅ γε θεὸς τῷ ὄντι"
+        },
+        {
+          "form": "ἀγαθῶν",
+          "lemma": "ἀγαθός",
+          "location": "379b",
+          "context": "οὐδέν γε τῶν ἀγαθῶν βλαβερόν"
+        },
+        {
+          "form": "κακῶν",
+          "lemma": "κακός",
+          "location": "379b",
+          "context": "τῶν δὲ κακῶν ἀναίτιον"
+        },
+        {
+          "form": "τἀγαθά",
+          "lemma": "ἀγαθός",
+          "location": "379c",
+          "context": "πολὺ γὰρ ἐλάττω τἀγαθὰ τῶν κακῶν"
+        },
+        {
+          "form": "κακῶν",
+          "lemma": "κακός",
+          "location": "380b",
+          "context": "κακῶν δὲ αἴτιον φάναι θεόν"
+        }
+      ],
+      "observation": "ἀγαθός and κακός recur in sustained local contrast throughout the argument, applied alternately to the god's causation."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ψευδεῖς",
+          "lemma": "ψευδής",
+          "location": "377d",
+          "context": "μύθους τοῖς ἀνθρώποις ψευδεῖς"
+        },
+        {
+          "form": "ψεύδηται",
+          "lemma": "ψεύδομαι",
+          "location": "377d",
+          "context": "ἐάν τις μὴ καλῶς ψεύδηται"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "377e",
+          "context": "τὸ μέγιστον καὶ περὶ τῶν μεγίστων ψεῦδος"
+        },
+        {
+          "form": "ἐψεύσατο",
+          "lemma": "ψεύδομαι",
+          "location": "377e",
+          "context": "οὐ καλῶς ἐψεύσατο"
+        }
+      ],
+      "observation": "Forms of ψεύδομαι/ψευδής/ψεῦδος cluster at 377d–e, qualified each time by καλῶς or μέγιστον."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μέμφεσθαι",
+          "lemma": "μέμφομαι",
+          "location": "377d",
+          "context": "χρὴ καὶ πρῶτον καὶ μάλιστα μέμφεσθαι"
+        },
+        {
+          "form": "μεμφόμενος",
+          "lemma": "μέμφομαι",
+          "location": "377d",
+          "context": "τί αὐτῶν μεμφόμενος λέγεις"
+        },
+        {
+          "form": "μέμφεσθαι",
+          "lemma": "μέμφομαι",
+          "location": "377e",
+          "context": "ὀρθῶς ἔχει τά γε τοιαῦτα μέμφεσθαι"
+        }
+      ],
+      "observation": "μέμφομαι recurs three times at 377d–e, framing the criterion for blame of poets."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "γραφεύς",
+          "lemma": "γραφεύς",
+          "location": "377e",
+          "context": "ὥσπερ γραφεὺς μηδὲν ἐοικότα γράφων"
+        },
+        {
+          "form": "εἰκάζῃ",
+          "lemma": "εἰκάζω",
+          "location": "377e",
+          "context": "ὅταν εἰκάζῃ τις κακῶς οὐσίαν τῷ λόγῳ"
+        },
+        {
+          "form": "ἐοικότα",
+          "lemma": "ἔοικα",
+          "location": "377e",
+          "context": "μηδὲν ἐοικότα γράφων"
+        },
+        {
+          "form": "ὅμοια",
+          "lemma": "ὅμοιος",
+          "location": "377e",
+          "context": "οἷς ἂν ὅμοια βουληθῇ γράψαι"
+        }
+      ],
+      "observation": "A cluster of likeness-terms (εἰκάζω, ἐοικότα, ὅμοια) accompanies the painter simile at 377e, linking verbal representation (λόγῳ) to visual representation (γραφεύς)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ποιηταί",
+          "lemma": "ποιητής",
+          "location": "377d",
+          "context": "οὐκ ἐσμὲν ποιηταὶ ἐγώ τε καὶ σύ"
+        },
+        {
+          "form": "οἰκισταί",
+          "lemma": "οἰκιστής",
+          "location": "379a",
+          "context": "ἀλλʼ οἰκισταὶ πόλεως"
+        }
+      ],
+      "observation": "Socrates explicitly contrasts ποιηταί and οἰκισταί as roles, denying the first and claiming the second for himself and Adeimantus."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύπους",
+          "lemma": "τύπος",
+          "location": "379a",
+          "context": "οἰκισταῖς δὲ τοὺς μὲν τύπους προσήκει εἰδέναι"
+        },
+        {
+          "form": "τύποι",
+          "lemma": "τύπος",
+          "location": "379a",
+          "context": "οἱ τύποι περὶ θεολογίας τίνες ἂν εἶεν"
+        },
+        {
+          "form": "τύπων",
+          "lemma": "τύπος",
+          "location": "380c",
+          "context": "εἷς ἂν εἴη τῶν περὶ θεοὺς νόμων τε καὶ τύπων"
+        }
+      ],
+      "observation": "τύπος recurs three times, introduced as what founders must know and concluded as a completed νόμος/τύπος about the gods."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "λεκτέον",
+          "lemma": "λεκτέος",
+          "location": "379b",
+          "context": "ἀγαθὸς ὅ γε θεὸς τῷ ὄντι τε καὶ λεκτέον οὕτω"
+        },
+        {
+          "form": "οὐ λεκτέοι",
+          "lemma": "λεκτέος",
+          "location": "378b",
+          "context": "καὶ οὐ λεκτέοι γʼ"
+        },
+        {
+          "form": "οὐδὲ λεκτέον",
+          "lemma": "λεκτέος",
+          "location": "378b",
+          "context": "οὐδὲ λεκτέον νέῳ ἀκούοντι"
+        },
+        {
+          "form": "λεκτέα",
+          "lemma": "λεκτέος",
+          "location": "378c",
+          "context": "τοιαῦτα λεκτέα μᾶλλον"
+        },
+        {
+          "form": "λεκτέον",
+          "lemma": "λεκτέος",
+          "location": "380b",
+          "context": "λεκτέον ὡς ὁ μὲν θεὸς δίκαιά τε καὶ ἀγαθὰ ἠργάζετο"
+        }
+      ],
+      "observation": "Verbal adjectives in -τέον/-τέοι/-τέα (λεκτέον, παραδεκτέον, ἀποδοτέον, ποιητέον, μυθολογητέον, ἐατέον, etc.) proliferate throughout, marking prescriptive force; λεκτέος itself recurs in both negative and positive formulations."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἔργα",
+          "lemma": "ἔργον",
+          "location": "378a",
+          "context": "τὰ δὲ δὴ τοῦ Κρόνου ἔργα καὶ πάθη"
+        },
+        {
+          "form": "πάθη",
+          "lemma": "πάθος",
+          "location": "378a",
+          "context": "τοῦ Κρόνου ἔργα καὶ πάθη ὑπὸ τοῦ ὑέος"
+        },
+        {
+          "form": "ἔργα",
+          "lemma": "ἔργον",
+          "location": "380a",
+          "context": "ἢ οὐ θεοῦ ἔργα ἐατέον αὐτὰ λέγειν"
+        },
+        {
+          "form": "πάθη",
+          "lemma": "πάθος",
+          "location": "380a",
+          "context": "τὰ τῆς Νιόβης πάθη"
+        }
+      ],
+      "observation": "ἔργα and πάθη recur as a pair: first for Kronos's actions and sufferings, later for Niobe's sufferings and divine deeds."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σιγᾶσθαι",
+          "lemma": "σιγάω",
+          "location": "378a",
+          "context": "ἀλλὰ μάλιστα μὲν σιγᾶσθαι"
+        },
+        {
+          "form": "λέγειν",
+          "lemma": "λέγω",
+          "location": "378a",
+          "context": "εἰ δὲ ἀνάγκη τις ἦν λέγειν"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "378a",
+          "context": "διʼ ἀπορρήτων ἀκούειν ὡς ὀλιγίστους"
+        }
+      ],
+      "observation": "Silence (σιγᾶσθαι) is preferred; if speech is necessary (λέγειν), hearing (ἀκούειν) should be restricted to the fewest possible, through secret rites."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χοῖρον",
+          "lemma": "χοῖρος",
+          "location": "378a",
+          "context": "θυσαμένους οὐ χοῖρον"
+        },
+        {
+          "form": "μέγα καὶ ἄπορον θῦμα",
+          "lemma": null,
+          "location": "378a",
+          "context": "ἀλλά τι μέγα καὶ ἄπορον θῦμα"
+        }
+      ],
+      "observation": "The sacrifice required for hearing these stories is specified as not a pig but something great and hard to procure (μέγα καὶ ἄπορον), restricting access through ritual cost."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πολεμοῦσί",
+          "lemma": "πολεμέω",
+          "location": "378b",
+          "context": "θεοὶ θεοῖς πολεμοῦσί"
+        },
+        {
+          "form": "ἐπιβουλεύουσι",
+          "lemma": "ἐπιβουλεύω",
+          "location": "378c",
+          "context": "καὶ ἐπιβουλεύουσι"
+        },
+        {
+          "form": "μάχονται",
+          "lemma": "μάχομαι",
+          "location": "378c",
+          "context": "καὶ μάχονται"
+        },
+        {
+          "form": "γιγαντομαχίας",
+          "lemma": "γιγαντομαχία",
+          "location": "378c",
+          "context": "γιγαντομαχίας τε μυθολογητέον"
+        },
+        {
+          "form": "θεομαχίας",
+          "lemma": "θεομαχία",
+          "location": "378d",
+          "context": "θεομαχίας ὅσας Ὅμηρος πεποίηκεν"
+        },
+        {
+          "form": "ἔχθρας",
+          "lemma": "ἔχθρα",
+          "location": "378c",
+          "context": "ἄλλας ἔχθρας πολλὰς καὶ παντοδαπάς"
+        },
+        {
+          "form": "ἀπεχθάνεσθαι",
+          "lemma": "ἀπεχθάνομαι",
+          "location": "378c",
+          "context": "αἴσχιστον νομίζειν τὸ ῥᾳδίως ἀλλήλοις ἀπεχθάνεσθαι"
+        }
+      ],
+      "observation": "A cluster of war/enmity terms accumulates: πολεμέω, ἐπιβουλεύω, μάχομαι, γιγαντομαχία, θεομαχία, ἔχθρα, ἀπεχθάνομαι—all named as what must be excluded."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "συγγενεῖς",
+          "lemma": "συγγενής",
+          "location": "378c",
+          "context": "πρὸς συγγενεῖς τε καὶ οἰκείους αὐτῶν"
+        },
+        {
+          "form": "πατέρα",
+          "lemma": "πατήρ",
+          "location": "378b",
+          "context": "ἀδικοῦντα πατέρα κολάζων"
+        },
+        {
+          "form": "ὑπὸ ὑέος",
+          "lemma": "ὑός",
+          "location": "378a",
+          "context": "ἔργα καὶ πάθη ὑπὸ τοῦ ὑέος"
+        },
+        {
+          "form": "ὑπὸ ὑέος",
+          "lemma": "ὑός",
+          "location": "378d",
+          "context": "Ἥρας δὲ δεσμοὺς ὑπὸ ὑέος"
+        },
+        {
+          "form": "ὑπὸ πατρός",
+          "lemma": "πατήρ",
+          "location": "378d",
+          "context": "Ἡφαίστου ῥίψεις ὑπὸ πατρός"
+        },
+        {
+          "form": "τῇ μητρί",
+          "lemma": "μήτηρ",
+          "location": "378d",
+          "context": "μέλλοντος τῇ μητρὶ τυπτομένῃ ἀμυνεῖν"
+        }
+      ],
+      "observation": "Family relations (father, son, mother, kin) recur as the specific locus of divine violence: son against father (Kronos), son binding mother (Hera), father throwing son (Hephaestus defending mother)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δυσέκνιπτά",
+          "lemma": "δυσέκνιπτος",
+          "location": "378d",
+          "context": "ἐν ταῖς δόξαις δυσέκνιπτά"
+        },
+        {
+          "form": "ἀμετάστατα",
+          "lemma": "ἀμετάστατος",
+          "location": "378e",
+          "context": "δυσέκνιπτά τε καὶ ἀμετάστατα φιλεῖ γίγνεσθαι"
+        }
+      ],
+      "observation": "Two rare compound adjectives (δυσέκνιπτα, ἀμετάστατα) describe opinions absorbed in youth as hard to wash out and immovable."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βλαβερόν",
+          "lemma": "βλαβερός",
+          "location": "379b",
+          "context": "οὐδέν γε τῶν ἀγαθῶν βλαβερόν"
+        },
+        {
+          "form": "βλάπτει",
+          "lemma": "βλάπτω",
+          "location": "379b",
+          "context": "ὃ μὴ βλαβερὸν βλάπτει"
+        },
+        {
+          "form": "κακόν τι ποιεῖ",
+          "lemma": null,
+          "location": "379b",
+          "context": "ὃ δὲ μὴ βλάπτει κακόν τι ποιεῖ"
+        },
+        {
+          "form": "κακοῦ αἴτιον",
+          "lemma": null,
+          "location": "379b",
+          "context": "μηδὲν κακὸν ποιεῖ οὐδʼ ἄν τινος εἴη κακοῦ αἴτιον"
+        },
+        {
+          "form": "ὠφέλιμον",
+          "lemma": "ὠφέλιμος",
+          "location": "379b",
+          "context": "ὠφέλιμον τὸ ἀγαθόν"
+        },
+        {
+          "form": "εὐπραγίας",
+          "lemma": "εὐπραγία",
+          "location": "379b",
+          "context": "αἴτιον ἄρα εὐπραγίας"
+        }
+      ],
+      "observation": "A chain argument at 379b proceeds step-by-step: ἀγαθόν → not βλαβερόν → not βλάπτει → not κακόν ποιεῖ → not αἴτιον κακοῦ; then positively: ὠφέλιμον → αἴτιον εὐπραγίας."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀλίγων",
+          "lemma": "ὀλίγος",
+          "location": "379c",
+          "context": "ὀλίγων μὲν τοῖς ἀνθρώποις αἴτιος"
+        },
+        {
+          "form": "πολλῶν",
+          "lemma": "πολύς",
+          "location": "379c",
+          "context": "πολλῶν δὲ ἀναίτιος"
+        },
+        {
+          "form": "ἐλάττω",
+          "lemma": "ἐλάττων",
+          "location": "379c",
+          "context": "πολὺ γὰρ ἐλάττω τἀγαθὰ τῶν κακῶν"
+        }
+      ],
+      "observation": "God is cause of few things (ὀλίγων), not-cause of many (πολλῶν); goods are far fewer (ἐλάττω) than evils for humans."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πίθοι",
+          "lemma": "πίθος",
+          "location": "379d",
+          "context": "δοιοί τε πίθοι κατακείαται ἐν Διὸς οὔδει"
+        },
+        {
+          "form": "ταμίας",
+          "lemma": "ταμίας",
+          "location": "379e",
+          "context": "ταμίας ἡμῖν Ζεύς"
+        }
+      ],
+      "observation": "Two Homeric images—Zeus's two jars (πίθοι) and Zeus as steward (ταμίας) of goods and evils—are quoted and rejected."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νόμων",
+          "lemma": "νόμος",
+          "location": "380c",
+          "context": "τῶν περὶ θεοὺς νόμων τε καὶ τύπων"
+        },
+        {
+          "form": "νόμου",
+          "lemma": "νόμος",
+          "location": "380c",
+          "context": "σύμψηφός σοί εἰμι τούτου τοῦ νόμου"
+        },
+        {
+          "form": "εὐνομήσεσθαι",
+          "lemma": "εὐνομέω",
+          "location": "380b",
+          "context": "εἰ μέλλει εὐνομήσεσθαι"
+        }
+      ],
+      "observation": "νόμος appears as the term for the rule being established, and εὐνομέω names the city's good order that depends on it."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "σύμφορα",
+          "lemma": "σύμφορος",
+          "location": "380c",
+          "context": "οὔτε σύμφορα ἡμῖν"
+        },
+        {
+          "form": "σύμφωνα",
+          "lemma": "σύμφωνος",
+          "location": "380c",
+          "context": "οὔτε σύμφωνα αὐτὰ αὑτοῖς"
+        },
+        {
+          "form": "σύμψηφος",
+          "lemma": "σύμψηφος",
+          "location": "380c",
+          "context": "σύμψηφός σοί εἰμι"
+        }
+      ],
+      "observation": "Three σύν- compounds appear in close succession: σύμφορα, σύμφωνα, σύμψηφος—the last is Adeimantus's agreement, echoing the prefix of the criteria just stated."
+    }
+  ]
+}
