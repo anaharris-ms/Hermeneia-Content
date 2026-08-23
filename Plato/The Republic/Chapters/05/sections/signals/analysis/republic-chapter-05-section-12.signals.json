@@ -1,0 +1,439 @@
+{
+  "section_id": "republic-chapter-05-section-12",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "στεφανωθῆναι",
+          "lemma": "στεφανόω",
+          "location": "468b",
+          "context": null
+        },
+        {
+          "form": "δεξιωθῆναι",
+          "lemma": "δεξιόομαι",
+          "location": "468b",
+          "context": null
+        },
+        {
+          "form": "φιλῆσαί τε καὶ φιληθῆναι",
+          "lemma": "φιλέω",
+          "location": "468b",
+          "context": null
+        }
+      ],
+      "observation": "Three honors are proposed in ascending sequence: crowning, clasping hands, kissing. Each is an aorist passive infinitive, and the third is presented as the most controversial."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὐδοκιμήσαντα",
+          "lemma": "εὐδοκιμέω",
+          "location": "468b",
+          "context": "τὸν δὲ ἀριστεύσαντά τε καὶ εὐδοκιμήσαντα"
+        },
+        {
+          "form": "εὐδοκιμήσαντα",
+          "lemma": "εὐδοκιμέω",
+          "location": "468d",
+          "context": "τὸν εὐδοκιμήσαντα ἐν τῷ πολέμῳ"
+        },
+        {
+          "form": "εὐδοκιμήσας",
+          "lemma": "εὐδοκιμέω",
+          "location": "468e",
+          "context": "ὃς ἂν εὐδοκιμήσας τελευτήσῃ"
+        }
+      ],
+      "observation": "εὐδοκιμέω recurs three times: first for the living warrior, then in the Homeric example, then for the warrior who dies—shifting from life honors to posthumous status."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀγαθῷ",
+          "lemma": "ἀγαθός",
+          "location": "468c",
+          "context": "ἀγαθῷ ὄντι γάμοι τε ἕτοιμοι"
+        },
+        {
+          "form": "ἀγαθοί",
+          "lemma": "ἀγαθός",
+          "location": "468d",
+          "context": "τῶν νέων ὅσοι ἀγαθοί"
+        },
+        {
+          "form": "τοὺς ἀγαθούς",
+          "lemma": "ἀγαθός",
+          "location": "468d",
+          "context": "τοὺς ἀγαθούς, καθʼ ὅσον ἂν ἀγαθοὶ φαίνωνται"
+        },
+        {
+          "form": "τοὺς ἀγαθοὺς ἄνδρας τε καὶ γυναῖκας",
+          "lemma": "ἀγαθός",
+          "location": "468e",
+          "context": null
+        },
+        {
+          "form": "ἀγαθοὶ κριθῶσιν",
+          "lemma": "ἀγαθός",
+          "location": "469b",
+          "context": null
+        }
+      ],
+      "observation": "ἀγαθός recurs densely across the section, applied to the living (marriages, feasting) and finally to those judged good in life who have died."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τιμᾶν",
+          "lemma": "τιμάω",
+          "location": "468c",
+          "context": "δίκαιον τιμᾶν τῶν νέων"
+        },
+        {
+          "form": "τιμήν",
+          "lemma": "τιμή",
+          "location": "468d",
+          "context": "ταύτην οἰκείαν οὖσαν τιμήν"
+        },
+        {
+          "form": "τιμᾶσθαι",
+          "lemma": "τιμάω",
+          "location": "468d",
+          "context": "ἅμα τῷ τιμᾶσθαι καὶ τὴν ἰσχὺν αὐξήσει"
+        },
+        {
+          "form": "τιμήσομεν",
+          "lemma": "τιμάω",
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "τιμᾶν",
+          "lemma": "τιμάω",
+          "location": "468e",
+          "context": "ἅμα τῷ τιμᾶν ἀσκῶμεν"
+        }
+      ],
+      "observation": "τιμάω/τιμή forms cluster densely, linking Homeric precedent to the city's own practice of honoring."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πεισόμεθα",
+          "lemma": "πείθω",
+          "location": "468d",
+          "context": "πεισόμεθα ἄρα… ταῦτά γε Ὁμήρῳ"
+        },
+        {
+          "form": "πεισόμεθα",
+          "lemma": "πείθω",
+          "location": "468e",
+          "context": "οὐ πεισόμεθα Ἡσιόδῳ"
+        },
+        {
+          "form": "πεισόμεθα μὲν οὖν",
+          "lemma": "πείθω",
+          "location": "469a",
+          "context": null
+        }
+      ],
+      "observation": "πεισόμεθα appears three times: first obeying Homer, then introduced with negation regarding Hesiod, then affirmed—the negation is rhetorical and immediately reversed."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τελευτήσῃ",
+          "lemma": "τελευτάω",
+          "location": "468e",
+          "context": "ὃς ἂν εὐδοκιμήσας τελευτήσῃ"
+        },
+        {
+          "form": "τελευτήσωσιν",
+          "lemma": "τελευτάω",
+          "location": "468e",
+          "context": "ἐπειδάν τινες τοῦ τοιούτου γένους τελευτήσωσιν"
+        },
+        {
+          "form": "τελευτήσῃ",
+          "lemma": "τελευτάω",
+          "location": "469b",
+          "context": "ὅταν τις γήρᾳ ἤ τινι ἄλλῳ τρόπῳ τελευτήσῃ"
+        }
+      ],
+      "observation": "τελευτάω recurs three times as the section shifts from living honors to posthumous honors, marking each mention of death."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θυσίαις",
+          "lemma": "θυσία",
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "ὕμνοις",
+          "lemma": "ὕμνος",
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "ἕδραις",
+          "lemma": "ἕδρα",
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "κρέασιν",
+          "lemma": "κρέας",
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "δεπάεσσιν",
+          "lemma": "δέπας",
+          "location": "468e",
+          "context": "πλείοις δεπάεσσιν"
+        }
+      ],
+      "observation": "A cluster of concrete honor-items: sacrifices, hymns, seats, meat, cups—combining civic ritual with Homeric feasting vocabulary."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χρυσοῦ γένους",
+          "lemma": null,
+          "location": "468e",
+          "context": "τοῦ χρυσοῦ γένους εἶναι"
+        }
+      ],
+      "observation": "The fallen brave are assigned to the golden race, invoking Hesiodic genealogy of races."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δαίμονες ἁγνοὶ ἐπιχθόνιοι",
+          "lemma": null,
+          "location": "469a",
+          "context": null
+        },
+        {
+          "form": "ἀλεξίκακοι",
+          "lemma": "ἀλεξίκακος",
+          "location": "469a",
+          "context": null
+        },
+        {
+          "form": "φύλακες μερόπων ἀνθρώπων",
+          "lemma": null,
+          "location": "469a",
+          "context": null
+        }
+      ],
+      "observation": "The Hesiodic quotation names the dead as holy daimones, averters of evil, and guardians of mortals—φύλακες applied to the heroic dead."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φύλακες",
+          "lemma": "φύλαξ",
+          "location": "469a",
+          "context": "φύλακες μερόπων ἀνθρώπων"
+        }
+      ],
+      "observation": "φύλακες appears in the Hesiodic citation describing the golden-race dead as guardians of humans."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δαιμονίους τε καὶ θείους",
+          "lemma": null,
+          "location": "469a",
+          "context": "τοὺς δαιμονίους τε καὶ θείους τιθέναι"
+        },
+        {
+          "form": "ὡς δαιμόνων",
+          "lemma": "δαίμων",
+          "location": "469a",
+          "context": null
+        },
+        {
+          "form": "θεραπεύσομέν τε καὶ προσκυνήσομεν",
+          "lemma": null,
+          "location": "469a-b",
+          "context": null
+        },
+        {
+          "form": "τὰς θήκας",
+          "lemma": "θήκη",
+          "location": "469b",
+          "context": "αὐτῶν τὰς θήκας"
+        }
+      ],
+      "observation": "The dead become δαιμόνιοι καὶ θεῖοι; their tombs (θήκας) will receive ongoing cult: θεραπεύσομεν and προσκυνήσομεν."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐπὶ στρατιᾶς",
+          "lemma": "στρατιά",
+          "location": "468b",
+          "context": "ὑπὸ τῶν συστρατευομένων"
+        },
+        {
+          "form": "ἐπὶ στρατιᾶς",
+          "lemma": "στρατιά",
+          "location": "468e",
+          "context": "τῶν δὲ δὴ ἀποθανόντων ἐπὶ στρατιᾶς"
+        }
+      ],
+      "observation": "ἐπὶ στρατιᾶς frames both the living warrior's honors and the dead warrior's honors, marking the transition between the two."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "φιλῆσαί τε καὶ φιληθῆναι",
+          "lemma": "φιλέω",
+          "location": "468b",
+          "context": null
+        },
+        {
+          "form": "φιλεῖν",
+          "lemma": "φιλέω",
+          "location": "468c",
+          "context": "μηδενὶ ἐξεῖναι ἀπαρνηθῆναι ὃν ἂν βούληται φιλεῖν"
+        }
+      ],
+      "observation": "φιλέω moves from active-and-passive infinitive pair (kissing and being kissed) to a law that no one may refuse to kiss whomever the brave warrior wishes."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "Ὅμηρον",
+          "lemma": null,
+          "location": "468c",
+          "context": "καθʼ Ὅμηρον"
+        },
+        {
+          "form": "Ὅμηρος",
+          "lemma": null,
+          "location": "468d",
+          "context": null
+        },
+        {
+          "form": "Ὁμήρῳ",
+          "lemma": null,
+          "location": "468d",
+          "context": "πεισόμεθα… Ὁμήρῳ"
+        },
+        {
+          "form": "Ἡσιόδῳ",
+          "lemma": null,
+          "location": "468e",
+          "context": "οὐ πεισόμεθα Ἡσιόδῳ"
+        }
+      ],
+      "observation": "Homer is cited as authority three times for living honors; Hesiod is then introduced with apparent negation for posthumous honors, but the negation is immediately reversed into affirmation."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐρῶν",
+          "lemma": "ἐράω",
+          "location": "468c",
+          "context": "ἐάν τίς του τύχῃ ἐρῶν ἢ ἄρρενος ἢ θηλείας"
+        },
+        {
+          "form": "γάμοι τε ἕτοιμοι πλείους",
+          "lemma": "γάμος",
+          "location": "468c",
+          "context": null
+        }
+      ],
+      "observation": "Erotic desire (ἐρῶν) for male or female is linked to battlefield incentive; marriages (γάμοι) for the brave are recalled as already established."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀποθανόντων",
+          "lemma": "ἀποθνῄσκω",
+          "location": "468e",
+          "context": "τῶν δὲ δὴ ἀποθανόντων ἐπὶ στρατιᾶς"
+        },
+        {
+          "form": "γήρᾳ ἤ τινι ἄλλῳ τρόπῳ τελευτήσῃ",
+          "lemma": null,
+          "location": "469b",
+          "context": null
+        }
+      ],
+      "observation": "Posthumous honors initially apply to those who die on campaign; they are then extended to those who die of old age or otherwise, provided they are judged outstandingly good."
+    }
+  ]
+}
