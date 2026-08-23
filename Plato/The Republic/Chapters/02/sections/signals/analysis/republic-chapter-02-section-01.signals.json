@@ -1,0 +1,441 @@
+{
+  "section_id": "republic-chapter-02-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δοκεῖν πεπεικέναι",
+          "lemma": "πείθω",
+          "location": "357a",
+          "context": "πότερον ἡμᾶς βούλει δοκεῖν πεπεικέναι"
+        },
+        {
+          "form": "πεῖσαι",
+          "lemma": "πείθω",
+          "location": "357b",
+          "context": "ἢ ὡς ἀληθῶς πεῖσαι"
+        }
+      ],
+      "observation": "Glaucon contrasts appearing to have persuaded (δοκεῖν πεπεικέναι, perfect) with truly persuading (ἀληθῶς πεῖσαι, aorist), distinguishing seeming from genuine persuasion."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "357a",
+          "context": "δοκεῖν πεπεικέναι"
+        },
+        {
+          "form": "ἀληθῶς",
+          "lemma": "ἀληθής",
+          "location": "357b",
+          "context": "ὡς ἀληθῶς πεῖσαι"
+        }
+      ],
+      "observation": "The opposition between seeming (δοκεῖν) and truth (ἀληθῶς) appears at the section's opening question."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀγαθόν",
+          "lemma": "ἀγαθός",
+          "location": "357b",
+          "context": "τοιόνδε τι εἶναι ἀγαθόν"
+        },
+        {
+          "form": "ἀγαπῶμεν",
+          "lemma": "ἀγαπάω",
+          "location": "357c",
+          "context": "αὐτό τε αὑτοῦ χάριν ἀγαπῶμεν"
+        },
+        {
+          "form": "εἶδος ἀγαθοῦ",
+          "lemma": "ἀγαθός",
+          "location": "357c",
+          "context": "τρίτον δὲ ὁρᾷς τι εἶδος ἀγαθοῦ"
+        }
+      ],
+      "observation": "A threefold classification of goods is presented in sequence, each introduced as a distinct kind of ἀγαθόν."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δεξαίμεθʼ",
+          "lemma": "δέχομαι",
+          "location": "357b",
+          "context": "ὃ δεξαίμεθʼ ἂν ἔχειν"
+        },
+        {
+          "form": "δεξαίμεθα",
+          "lemma": "δέχομαι",
+          "location": "357c",
+          "context": "αὐτὰ μὲν ἑαυτῶν ἕνεκα οὐκ ἂν δεξαίμεθα ἔχειν"
+        }
+      ],
+      "observation": "δεξαίμεθα ἔχειν appears for the first kind of good as willingness to have it, and returns for the third kind negated (οὐκ ἂν δεξαίμεθα), marking a reversal."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀσπαζόμενοι",
+          "lemma": "ἀσπάζομαι",
+          "location": "357b",
+          "context": "αὐτὸ αὑτοῦ ἕνεκα ἀσπαζόμενοι"
+        },
+        {
+          "form": "ἀσπαζόμεθα",
+          "lemma": "ἀσπάζομαι",
+          "location": "357c",
+          "context": "διʼ ἀμφότερα ἀσπαζόμεθα"
+        }
+      ],
+      "observation": "ἀσπάζομαι recurs across the first and second kinds of good, describing the welcoming of each."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "αὐτὸ αὑτοῦ ἕνεκα",
+          "lemma": null,
+          "location": "357b",
+          "context": null
+        },
+        {
+          "form": "τῶν ἀποβαινόντων",
+          "lemma": "ἀποβαίνω",
+          "location": "357b",
+          "context": "οὐ τῶν ἀποβαινόντων ἐφιέμενοι"
+        },
+        {
+          "form": "διʼ ἀμφότερα",
+          "lemma": null,
+          "location": "357c",
+          "context": null
+        },
+        {
+          "form": "τῶν δὲ μισθῶν τε χάριν",
+          "lemma": "μισθός",
+          "location": "357d",
+          "context": null
+        }
+      ],
+      "observation": "The three kinds of good are distinguished by whether they are valued for their own sake, for consequences, or both—a structural contrast between αὐτὸ αὑτοῦ ἕνεκα and τῶν ἀποβαινόντων."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χαίρειν",
+          "lemma": "χαίρω",
+          "location": "357b",
+          "context": "οἷον τὸ χαίρειν"
+        },
+        {
+          "form": "ἡδοναί",
+          "lemma": "ἡδονή",
+          "location": "357b",
+          "context": "αἱ ἡδοναὶ ὅσαι ἀβλαβεῖς"
+        },
+        {
+          "form": "ἀβλαβεῖς",
+          "lemma": "ἀβλαβής",
+          "location": "357b",
+          "context": null
+        }
+      ],
+      "observation": "The first kind of good is exemplified by a cluster of pleasure terms: χαίρειν, ἡδοναί, qualified as ἀβλαβεῖς."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φρονεῖν",
+          "lemma": "φρονέω",
+          "location": "357c",
+          "context": null
+        },
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "357c",
+          "context": null
+        },
+        {
+          "form": "ὑγιαίνειν",
+          "lemma": "ὑγιαίνω",
+          "location": "357c",
+          "context": null
+        }
+      ],
+      "observation": "The second kind of good is exemplified by thinking, seeing, and being healthy—three infinitives spanning mind, sense, and body."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γυμνάζεσθαι",
+          "lemma": "γυμνάζω",
+          "location": "357c",
+          "context": null
+        },
+        {
+          "form": "κάμνοντα ἰατρεύεσθαι",
+          "lemma": "ἰατρεύω",
+          "location": "357c",
+          "context": null
+        },
+        {
+          "form": "ἰάτρευσίς",
+          "lemma": "ἰάτρευσις",
+          "location": "357c",
+          "context": null
+        },
+        {
+          "form": "χρηματισμός",
+          "lemma": "χρηματισμός",
+          "location": "357c",
+          "context": null
+        },
+        {
+          "form": "ἐπίπονα",
+          "lemma": "ἐπίπονος",
+          "location": "357c",
+          "context": null
+        }
+      ],
+      "observation": "The third kind of good clusters around laborious activities: exercising, medical treatment, and money-making, unified by ἐπίπονα."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "προοίμιον",
+          "lemma": "προοίμιον",
+          "location": "357a",
+          "context": "τὸ δʼ ἦν ἄρα ὡς ἔοικε προοίμιον"
+        }
+      ],
+      "observation": "Socrates characterizes everything he has said so far as merely a προοίμιον (prelude)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρειότατος",
+          "lemma": "ἀνδρεῖος",
+          "location": "357a",
+          "context": "ὁ γὰρ Γλαύκων ἀεί τε δὴ ἀνδρειότατος ὢν τυγχάνει πρὸς ἅπαντα"
+        }
+      ],
+      "observation": "Glaucon is described with the superlative ἀνδρειότατος, applied to his disposition πρὸς ἅπαντα."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ᾤμην λόγου ἀπηλλάχθαι",
+          "lemma": "ἀπαλλάττω",
+          "location": "357a",
+          "context": null
+        },
+        {
+          "form": "ἀπόρρησιν οὐκ ἀπεδέξατο",
+          "lemma": "ἀποδέχομαι",
+          "location": "357a",
+          "context": "τοῦ Θρασυμάχου τὴν ἀπόρρησιν οὐκ ἀπεδέξατο"
+        }
+      ],
+      "observation": "Socrates believed the argument was finished (ᾤμην λόγου ἀπηλλάχθαι), but Glaucon refused to accept Thrasymachus' giving up (ἀπόρρησιν οὐκ ἀπεδέξατο), reopening the discussion."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καλλίστῳ",
+          "lemma": "καλός",
+          "location": "358a",
+          "context": "ἐν τῷ καλλίστῳ"
+        },
+        {
+          "form": "ἐπιπόνου",
+          "lemma": "ἐπίπονος",
+          "location": "358a",
+          "context": "τοῦ ἐπιπόνου εἴδους"
+        }
+      ],
+      "observation": "Socrates places justice in the καλλίστῳ kind; the many place it in the ἐπιπόνου kind—a direct disagreement."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "358a",
+          "context": "εὐδοκιμήσεων διὰ δόξαν"
+        },
+        {
+          "form": "δοκεῖ",
+          "lemma": "δοκέω",
+          "location": "358a",
+          "context": "οὐ τοίνυν δοκεῖ τοῖς πολλοῖς"
+        },
+        {
+          "form": "δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "357a",
+          "context": "δοκεῖν πεπεικέναι"
+        }
+      ],
+      "observation": "δοκέω and δόξα recur across the section: seeming to have persuaded, what seems to the many, and reputation (δόξα) as a motive for practicing justice."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ψέγεται",
+          "lemma": "ψέγω",
+          "location": "358a",
+          "context": "ὡς τοιοῦτον ὂν ψέγεται"
+        },
+        {
+          "form": "ἐπαινεῖται",
+          "lemma": "ἐπαινέω",
+          "location": "358a",
+          "context": "ἀδικία δʼ ἐπαινεῖται"
+        }
+      ],
+      "observation": "Justice is blamed (ψέγεται) while injustice is praised (ἐπαινεῖται)—a paired contrast attributed to Thrasymachus."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δίκαιον",
+          "lemma": "δίκαιος",
+          "location": "357b",
+          "context": "δίκαιον εἶναι ἢ ἄδικον"
+        },
+        {
+          "form": "ἄδικον",
+          "lemma": "ἄδικος",
+          "location": "357b",
+          "context": null
+        }
+      ],
+      "observation": "The just and unjust are set in opposition in Glaucon's opening question as the section's governing contrast."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δυσμαθής",
+          "lemma": "δυσμαθής",
+          "location": "358a",
+          "context": "ἀλλʼ ἐγώ τις ὡς ἔοικε δυσμαθής"
+        }
+      ],
+      "observation": "Socrates calls himself δυσμαθής (slow to learn), a self-characterization closing this section."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μακαρίῳ",
+          "lemma": "μακάριος",
+          "location": "358a",
+          "context": "τῷ μέλλοντι μακαρίῳ ἔσεσθαι"
+        },
+        {
+          "form": "χαλεπόν",
+          "lemma": "χαλεπός",
+          "location": "358a",
+          "context": "φευκτέον ὡς ὂν χαλεπόν"
+        }
+      ],
+      "observation": "Socrates associates justice with blessedness (μακαρίῳ); the many view it as something harsh (χαλεπόν) to be fled."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μισθῶν",
+          "lemma": "μισθός",
+          "location": "357d",
+          "context": "τῶν δὲ μισθῶν τε χάριν"
+        },
+        {
+          "form": "μισθῶν",
+          "lemma": "μισθός",
+          "location": "358a",
+          "context": "μισθῶν θʼ ἕνεκα"
+        }
+      ],
+      "observation": "μισθός appears in the description of the third kind of good and returns when the many assign justice to that same kind."
+    }
+  ]
+}
