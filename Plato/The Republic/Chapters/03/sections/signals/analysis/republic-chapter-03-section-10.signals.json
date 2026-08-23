@@ -1,0 +1,533 @@
+{
+  "section_id": "republic-chapter-03-section-10",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "στρατοπεδεύσασθαι",
+          "lemma": "στρατοπεδεύω",
+          "location": "415d",
+          "context": "ὅπου κάλλιστον στρατοπεδεύσασθαι"
+        },
+        {
+          "form": "στρατοπεδευσάμενοι",
+          "lemma": "στρατοπεδεύω",
+          "location": "415e",
+          "context": "στρατοπεδευσάμενοι δέ, θύσαντες οἷς χρή"
+        },
+        {
+          "form": "ἐστρατοπεδευμένους",
+          "lemma": "στρατοπεδεύω",
+          "location": "416e",
+          "context": "ὥσπερ ἐστρατοπεδευμένους κοινῇ ζῆν"
+        }
+      ],
+      "observation": "στρατοπεδεύω recurs three times: first as the guardians' task of finding a place to encamp, then as the completed encampment before sacrifice, then as a simile for their communal living arrangement."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λύκος",
+          "lemma": "λύκος",
+          "location": "415e",
+          "context": "ὥσπερ λύκος ἐπὶ ποίμνην"
+        },
+        {
+          "form": "λύκοις",
+          "lemma": "λύκος",
+          "location": "416a",
+          "context": "ἀντὶ κυνῶν λύκοις ὁμοιωθῆναι"
+        }
+      ],
+      "observation": "λύκος first names the external enemy attacking the flock, then names what the guard-dogs themselves may become."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κύνας",
+          "lemma": "κύων",
+          "location": "416a",
+          "context": "τρέφειν κύνας ἐπικούρους ποιμνίων"
+        },
+        {
+          "form": "κυνῶν",
+          "lemma": "κύων",
+          "location": "416a",
+          "context": "ἀντὶ κυνῶν λύκοις ὁμοιωθῆναι"
+        },
+        {
+          "form": "ποιμέσι",
+          "lemma": "ποιμήν",
+          "location": "416a",
+          "context": null
+        },
+        {
+          "form": "ποιμνίων",
+          "lemma": "ποίμνιον",
+          "location": "416a",
+          "context": null
+        },
+        {
+          "form": "προβάτοις",
+          "lemma": "πρόβατον",
+          "location": "416a",
+          "context": null
+        }
+      ],
+      "observation": "A dense pastoral cluster—shepherds, dogs, flocks, sheep—concentrated at 416a, where the dogs' potential transformation into wolves against their own flock is articulated."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "structural_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀντὶ κυνῶν λύκοις ὁμοιωθῆναι",
+          "lemma": null,
+          "location": "416a",
+          "context": null
+        },
+        {
+          "form": "ἀντὶ συμμάχων εὐμενῶν δεσπόταις ἀγρίοις ἀφομοιωθῶσιν",
+          "lemma": null,
+          "location": "416b",
+          "context": null
+        },
+        {
+          "form": "ἀντὶ φυλάκων",
+          "lemma": null,
+          "location": "417a",
+          "context": "οἰκονόμοι μὲν καὶ γεωργοὶ ἀντὶ φυλάκων ἔσονται"
+        },
+        {
+          "form": "ἀντὶ συμμάχων",
+          "lemma": null,
+          "location": "417b",
+          "context": "δεσπόται δʼ ἐχθροὶ ἀντὶ συμμάχων"
+        }
+      ],
+      "observation": "The ἀντί + genitive construction recurs four times, each time articulating a transformation from proper role to corrupted role: dogs to wolves, allies to masters, guardians to farmers, allies to enemies."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκήσεις",
+          "lemma": "οἴκησις",
+          "location": "415e",
+          "context": null
+        },
+        {
+          "form": "οἰκεῖν",
+          "lemma": "οἰκέω",
+          "location": "416d",
+          "context": "ζῆν τε καὶ οἰκεῖν"
+        },
+        {
+          "form": "οἴκησιν",
+          "lemma": "οἴκησις",
+          "location": "416d",
+          "context": "οἴκησιν καὶ ταμιεῖον μηδενὶ εἶναι"
+        },
+        {
+          "form": "οἰκήσεως",
+          "lemma": "οἴκησις",
+          "location": "417b",
+          "context": "οἰκήσεώς τε πέρι"
+        },
+        {
+          "form": "οἰκίας",
+          "lemma": "οἰκία",
+          "location": "417a",
+          "context": "γῆν τε ἰδίαν καὶ οἰκίας"
+        }
+      ],
+      "observation": "Forms of οἴκησις/οἰκέω recur throughout, from the initial naming of dwellings through the prescriptions about them to the final legislation."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "στρατιωτικάς",
+          "lemma": "στρατιωτικός",
+          "location": "415e",
+          "context": null
+        },
+        {
+          "form": "χρηματιστικάς",
+          "lemma": "χρηματιστικός",
+          "location": "415e",
+          "context": null
+        }
+      ],
+      "observation": "Socrates distinguishes dwellings as στρατιωτικάς not χρηματιστικάς, a contrast that prompts Glaucon's question about the difference."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τοὺς ἔνδον",
+          "lemma": null,
+          "location": "417b",
+          "context": "τούς τε ἔνδον μάλιστʼ ἂν κατέχοιεν"
+        },
+        {
+          "form": "τοὺς ἔξωθεν",
+          "lemma": null,
+          "location": "415e",
+          "context": "τούς τε ἔξωθεν ἀπαμύνοιεν"
+        },
+        {
+          "form": "τοὺς ἔνδον",
+          "lemma": null,
+          "location": "417b",
+          "context": "δεδιότες τοὺς ἔνδον ἢ τοὺς ἔξωθεν πολεμίους"
+        },
+        {
+          "form": "τοὺς ἔξωθεν",
+          "lemma": null,
+          "location": "417b",
+          "context": null
+        }
+      ],
+      "observation": "The ἔνδον/ἔξωθεν pair appears at 415e as the two directions of guardian control, then returns at 417b where the corrupted guardians fear those within more than those without."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χρυσίον",
+          "lemma": "χρυσίον",
+          "location": "416e",
+          "context": "χρυσίον δὲ καὶ ἀργύριον"
+        },
+        {
+          "form": "χρυσοῦ",
+          "lemma": "χρυσός",
+          "location": "416e",
+          "context": "τῇ τοῦ θνητοῦ χρυσοῦ κτήσει"
+        },
+        {
+          "form": "χρυσοῦ",
+          "lemma": "χρυσός",
+          "location": "417a",
+          "context": "μεταχειρίζεσθαι καὶ ἅπτεσθαι χρυσοῦ καὶ ἀργύρου"
+        },
+        {
+          "form": "χρυσοῦ",
+          "lemma": "χρυσός",
+          "location": "417a",
+          "context": "πίνειν ἐξ ἀργύρου ἢ χρυσοῦ"
+        }
+      ],
+      "observation": "Gold recurs densely in the prohibition passage, where divine gold in the soul is contrasted with mortal gold that must not be touched."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "416e",
+          "context": "θεῖον παρὰ θεῶν ἀεὶ ἐν τῇ ψυχῇ ἔχουσι"
+        },
+        {
+          "form": "ἀνθρωπείου",
+          "lemma": "ἀνθρώπειος",
+          "location": "416e",
+          "context": "οὐδὲν προσδέονται τοῦ ἀνθρωπείου"
+        },
+        {
+          "form": "θνητοῦ",
+          "lemma": "θνητός",
+          "location": "416e",
+          "context": "τῇ τοῦ θνητοῦ χρυσοῦ κτήσει"
+        }
+      ],
+      "observation": "Divine gold in the soul is set against human/mortal gold, with θεῖον, ἀνθρώπειος, and θνητός marking the contrast."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἅπτεσθαι",
+          "lemma": "ἅπτω",
+          "location": "417a",
+          "context": null
+        },
+        {
+          "form": "μεταχειρίζεσθαι",
+          "lemma": "μεταχειρίζω",
+          "location": "417a",
+          "context": null
+        },
+        {
+          "form": "περιάψασθαι",
+          "lemma": "περιάπτω",
+          "location": "417a",
+          "context": null
+        },
+        {
+          "form": "πίνειν",
+          "lemma": "πίνω",
+          "location": "417a",
+          "context": "πίνειν ἐξ ἀργύρου ἢ χρυσοῦ"
+        }
+      ],
+      "observation": "A cluster of physical contact verbs—handling, touching, fastening on, drinking from—specifies the bodily prohibitions regarding gold and silver."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κακουργεῖν",
+          "lemma": "κακουργέω",
+          "location": "416a",
+          "context": "τοῖς προβάτοις κακουργεῖν"
+        },
+        {
+          "form": "κακουργεῖν",
+          "lemma": "κακουργέω",
+          "location": "416d",
+          "context": "κακουργεῖν τε μὴ ἐπαρεῖ"
+        }
+      ],
+      "observation": "κακουργεῖν appears first as what dogs might do to sheep, then as what proper housing must not incite guardians to do toward citizens."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "exact_repetition",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σῴζοιντό",
+          "lemma": "σῴζω",
+          "location": "417a",
+          "context": "σῴζοιντό τʼ ἂν καὶ σῴζοιεν τὴν πόλιν"
+        },
+        {
+          "form": "σῴζοιεν",
+          "lemma": "σῴζω",
+          "location": "417a",
+          "context": null
+        }
+      ],
+      "observation": "σῴζω appears twice in immediate succession: the guardians would be saved and would save the city, a reflexive-transitive pair."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "μισοῦντες",
+          "lemma": "μισέω",
+          "location": "417b",
+          "context": "μισοῦντες δὲ δὴ καὶ μισούμενοι"
+        },
+        {
+          "form": "μισούμενοι",
+          "lemma": "μισέω",
+          "location": "417b",
+          "context": null
+        },
+        {
+          "form": "ἐπιβουλεύοντες",
+          "lemma": "ἐπιβουλεύω",
+          "location": "417b",
+          "context": "ἐπιβουλεύοντες καὶ ἐπιβουλευόμενοι"
+        },
+        {
+          "form": "ἐπιβουλευόμενοι",
+          "lemma": "ἐπιβουλεύω",
+          "location": "417b",
+          "context": null
+        }
+      ],
+      "observation": "Active and passive participle pairs (hating/hated, plotting/plotted-against) are set in parallel, describing the reciprocal hostility of corrupted guardians."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γηγενεῖς",
+          "lemma": "γηγενής",
+          "location": "415d",
+          "context": "τούτους τοὺς γηγενεῖς ὁπλίσαντες"
+        },
+        {
+          "form": "γῆν",
+          "lemma": "γῆ",
+          "location": "417a",
+          "context": "γῆν τε ἰδίαν"
+        }
+      ],
+      "observation": "The guardians are called γηγενεῖς (earth-born) near the section's start; γῆν (private land) appears near the end as what they must not acquire."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "416c",
+          "context": "τῆς ὀρθῆς τυχεῖν παιδείας"
+        },
+        {
+          "form": "πεπαιδευμένοι",
+          "lemma": "παιδεύω",
+          "location": "416b",
+          "context": "καλῶς πεπαιδευμένοι"
+        },
+        {
+          "form": "παιδείᾳ",
+          "lemma": "παιδεία",
+          "location": "416c",
+          "context": "πρὸς τοίνυν τῇ παιδείᾳ ταύτῃ"
+        }
+      ],
+      "observation": "παιδεία/παιδεύω appears three times: Glaucon asserts the guardians are well educated, Socrates qualifies that they need the right education, then adds that housing must supplement that education."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἥμεροι",
+          "lemma": "ἥμερος",
+          "location": "416c",
+          "context": "πρὸς τὸ ἥμεροι εἶναι"
+        },
+        {
+          "form": "ἀγρίοις",
+          "lemma": "ἄγριος",
+          "location": "416b",
+          "context": "δεσπόταις ἀγρίοις ἀφομοιωθῶσιν"
+        }
+      ],
+      "observation": "ἥμερος (tame/gentle) and ἄγριος (savage) stand in contrast: education should make guardians gentle, but they risk becoming savage masters."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁπλίσαντες",
+          "lemma": "ὁπλίζω",
+          "location": "415d",
+          "context": null
+        },
+        {
+          "form": "προάγωμεν",
+          "lemma": "προάγω",
+          "location": "415d",
+          "context": null
+        },
+        {
+          "form": "ἐλθόντες",
+          "lemma": "ἔρχομαι",
+          "location": "415d",
+          "context": null
+        },
+        {
+          "form": "θεασάσθων",
+          "lemma": "θεάομαι",
+          "location": "415d",
+          "context": null
+        },
+        {
+          "form": "στρατοπεδευσάμενοι",
+          "lemma": "στρατοπεδεύω",
+          "location": "415e",
+          "context": null
+        },
+        {
+          "form": "θύσαντες",
+          "lemma": "θύω",
+          "location": "415e",
+          "context": null
+        },
+        {
+          "form": "εὐνὰς ποιησάσθων",
+          "lemma": null,
+          "location": "415e",
+          "context": null
+        }
+      ],
+      "observation": "A prescribed sequence of actions: arm, lead forth, arrive, survey, encamp, sacrifice, make beds—ordering the guardians' establishment in the city."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀκήρατον",
+          "lemma": "ἀκήρατος",
+          "location": "417a",
+          "context": "τὸ παρʼ ἐκείνοις δὲ ἀκήρατον"
+        },
+        {
+          "form": "μιαίνειν",
+          "lemma": "μιαίνω",
+          "location": "416e",
+          "context": "συμμειγνύντας μιαίνειν"
+        }
+      ],
+      "observation": "The divine gold is called ἀκήρατον (undefiled), set against μιαίνειν (to pollute) through mixing it with mortal gold—a purity/pollution pair."
+    }
+  ]
+}
