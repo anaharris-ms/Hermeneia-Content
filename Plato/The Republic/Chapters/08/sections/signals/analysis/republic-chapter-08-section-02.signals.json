@@ -1,0 +1,560 @@
+{
+  "section_id": "republic-chapter-08-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "στάσις",
+          "lemma": "στάσις",
+          "location": "545d",
+          "context": "στάσις ἐγγένηται"
+        },
+        {
+          "form": "στάσις",
+          "lemma": "στάσις",
+          "location": "545e",
+          "context": "πρῶτον στάσις ἔμπεσε"
+        },
+        {
+          "form": "στάσιν",
+          "lemma": "στάσις",
+          "location": "547a",
+          "context": "χρὴ φάναι εἶναι στάσιν"
+        },
+        {
+          "form": "στάσεως",
+          "lemma": "στάσις",
+          "location": "547b",
+          "context": "στάσεως γενομένης εἱλκέτην"
+        }
+      ],
+      "observation": "στάσις recurs across the section: first as a general principle of constitutional change, then in the Homeric quotation, then as the Muses' conclusion about mixed metals, then as the genitive absolute initiating the actual pulling apart of the two races."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κινηθῆναι",
+          "lemma": "κινέω",
+          "location": "545d",
+          "context": "ἀδύνατον κινηθῆναι"
+        },
+        {
+          "form": "κινηθήσεται",
+          "lemma": "κινέω",
+          "location": "545d",
+          "context": "ἡ πόλις ἡμῖν κινηθήσεται"
+        },
+        {
+          "form": "κινηθῆναι",
+          "lemma": "κινέω",
+          "location": "546a",
+          "context": "χαλεπὸν μὲν κινηθῆναι πόλιν"
+        }
+      ],
+      "observation": "κινέω appears three times for the city being 'moved' or set in motion, shifting from impossibility (ἀδύνατον) to question (πῶς κινηθήσεται) to qualified difficulty (χαλεπόν)."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χρυσοῦν",
+          "lemma": "χρυσοῦς",
+          "location": "547a",
+          "context": null
+        },
+        {
+          "form": "ἀργυροῦν",
+          "lemma": "ἀργυροῦς",
+          "location": "547a",
+          "context": null
+        },
+        {
+          "form": "χαλκοῦν",
+          "lemma": "χαλκοῦς",
+          "location": "547a",
+          "context": null
+        },
+        {
+          "form": "σιδηροῦν",
+          "lemma": "σιδηροῦς",
+          "location": "547a",
+          "context": null
+        }
+      ],
+      "observation": "The four Hesiodic metal-races are listed in full, then immediately re-paired in cross-mixing (σιδηροῦ ἀργυρῷ, χαλκοῦ χρυσῷ), producing ἀνομοιότης and ἀνωμαλία ἀνάρμοστος."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φορά",
+          "lemma": "φορά",
+          "location": "546a",
+          "context": "φορὰ καὶ ἀφορία"
+        },
+        {
+          "form": "ἀφορία",
+          "lemma": "ἀφορία",
+          "location": "546a",
+          "context": null
+        },
+        {
+          "form": "εὐγονίας",
+          "lemma": "εὐγονία",
+          "location": "546a",
+          "context": "εὐγονίας τε καὶ ἀφορίας"
+        }
+      ],
+      "observation": "Fertility and barrenness are paired twice: φορά/ἀφορία for all living things, then εὐγονία/ἀφορία specifically for the human race the guardians breed."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μουσικῆς",
+          "lemma": "μουσική",
+          "location": "546d",
+          "context": "παρʼ ἔλαττον τοῦ δέοντος ἡγησάμενοι τὰ μουσικῆς"
+        },
+        {
+          "form": "γυμναστικῆς",
+          "lemma": "γυμναστική",
+          "location": "546d",
+          "context": "δεύτερον δὲ τὰ γυμναστικῆς"
+        },
+        {
+          "form": "γυμναστικὴν μουσικῆς",
+          "lemma": null,
+          "location": "548c",
+          "context": "πρεσβυτέρως γυμναστικὴν μουσικῆς τετιμηκέναι"
+        }
+      ],
+      "observation": "μουσική and γυμναστική appear together twice: first the new guardians neglect μουσική first and γυμναστική second; later the timocratic character is described as having honored γυμναστική over μουσική."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τραγικῶς",
+          "lemma": "τραγικός",
+          "location": "545e",
+          "context": null
+        },
+        {
+          "form": "παιζούσας",
+          "lemma": "παίζω",
+          "location": "545e",
+          "context": "πρὸς παῖδας ἡμᾶς παιζούσας"
+        },
+        {
+          "form": "σπουδῇ",
+          "lemma": "σπουδή",
+          "location": "545e",
+          "context": "ὡς δὴ σπουδῇ λεγούσας"
+        },
+        {
+          "form": "ὑψηλολογουμένας",
+          "lemma": "ὑψηλολογέομαι",
+          "location": "545e",
+          "context": null
+        }
+      ],
+      "observation": "The Muses' speech is framed as simultaneously playing (παιζούσας) toward children and speaking as if in earnest (σπουδῇ), in a tragic and lofty manner (τραγικῶς, ὑψηλολογουμένας)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐλευθέρους",
+          "lemma": "ἐλεύθερος",
+          "location": "547c",
+          "context": "ὡς ἐλευθέρους φίλους τε καὶ τροφέας"
+        },
+        {
+          "form": "δουλωσάμενοι",
+          "lemma": "δουλόω",
+          "location": "547c",
+          "context": "δουλωσάμενοι τότε περιοίκους τε καὶ οἰκέτας ἔχοντες"
+        }
+      ],
+      "observation": "Those previously guarded as free (ἐλευθέρους), friends, and sustainers are enslaved (δουλωσάμενοι) and made perioikoi and oiketai—a direct reversal of status within one sentence."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεταβάλλει",
+          "lemma": "μεταβάλλω",
+          "location": "545d",
+          "context": "πᾶσα πολιτεία μεταβάλλει"
+        },
+        {
+          "form": "μετάβασις",
+          "lemma": "μετάβασις",
+          "location": "547c",
+          "context": "αὕτη ἡ μετάβασις ἐντεῦθεν γίγνεσθαι"
+        },
+        {
+          "form": "μεταβήσεται",
+          "lemma": "μεταβαίνω",
+          "location": "547c",
+          "context": "μεταβήσεται μὲν δὴ οὕτω"
+        },
+        {
+          "form": "μεταβᾶσα",
+          "lemma": "μεταβαίνω",
+          "location": "547c",
+          "context": "μεταβᾶσα δὲ πῶς οἰκήσει"
+        }
+      ],
+      "observation": "The μετα- prefix for constitutional change recurs: μεταβάλλει as general principle, μετάβασις as noun for this specific transition, then μεταβήσεται/μεταβᾶσα in immediate succession."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χρηματισμόν",
+          "lemma": "χρηματισμός",
+          "location": "547b",
+          "context": "ἐπὶ χρηματισμὸν καὶ γῆς κτῆσιν"
+        },
+        {
+          "form": "χρυσίου",
+          "lemma": "χρυσίον",
+          "location": "547b",
+          "context": null
+        },
+        {
+          "form": "ἀργύρου",
+          "lemma": "ἄργυρος",
+          "location": "547b",
+          "context": null
+        },
+        {
+          "form": "χρημάτων",
+          "lemma": "χρῆμα",
+          "location": "548a",
+          "context": "ἐπιθυμηταὶ δέ γε χρημάτων"
+        },
+        {
+          "form": "χρυσόν",
+          "lemma": "χρυσός",
+          "location": "548a",
+          "context": "ὑπὸ σκότου χρυσόν τε καὶ ἄργυρον"
+        },
+        {
+          "form": "χρηματισμοῦ",
+          "lemma": "χρηματισμός",
+          "location": "547d",
+          "context": "τοῦ ἄλλου χρηματισμοῦ"
+        }
+      ],
+      "observation": "A dense cluster of wealth-language (χρηματισμός, χρῆμα, χρυσός/χρυσίον, ἄργυρος) accumulates through the description of the timocratic city's hidden acquisitiveness."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὑπὸ σκότου",
+          "lemma": null,
+          "location": "548a",
+          "context": "τιμῶντες ἀγρίως ὑπὸ σκότου χρυσόν τε καὶ ἄργυρον"
+        },
+        {
+          "form": "οὐ φανερῶς",
+          "lemma": null,
+          "location": "548b",
+          "context": "οὐ φανερῶς κτώμενοι"
+        },
+        {
+          "form": "λάθρᾳ",
+          "lemma": "λάθρᾳ",
+          "location": "548b",
+          "context": "λάθρᾳ τὰς ἡδονὰς καρπούμενοι"
+        }
+      ],
+      "observation": "Hiddenness is locally concentrated: ὑπὸ σκότου, κρύψειαν, οὐ φανερῶς, λάθρᾳ—all describing the timocratic relation to wealth and pleasure."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "βραχυβίοις μὲν βραχυπόρους",
+          "lemma": null,
+          "location": "546a",
+          "context": null
+        },
+        {
+          "form": "ἐναντίοις δὲ ἐναντίας",
+          "lemma": null,
+          "location": "546a",
+          "context": null
+        }
+      ],
+      "observation": "Two parallel dative-accusative pairs with formal echoing: βραχυ-/βραχυ- and ἐναντί-/ἐναντί-, each matching life-span to cycle-span."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀριθμός",
+          "lemma": "ἀριθμός",
+          "location": "546b",
+          "context": "ἀριθμὸς περιλαμβάνει τέλειος"
+        },
+        {
+          "form": "ἐπίτριτος πυθμήν",
+          "lemma": null,
+          "location": "546c",
+          "context": null
+        },
+        {
+          "form": "πεμπάδι",
+          "lemma": "πεμπάς",
+          "location": "546c",
+          "context": null
+        },
+        {
+          "form": "ἑκατόν",
+          "lemma": "ἑκατόν",
+          "location": "546c",
+          "context": null
+        },
+        {
+          "form": "κύβων τριάδος",
+          "lemma": null,
+          "location": "546c",
+          "context": null
+        },
+        {
+          "form": "γεωμετρικός",
+          "lemma": "γεωμετρικός",
+          "location": "546c",
+          "context": "σύμπας δὲ οὗτος ἀριθμὸς γεωμετρικός"
+        }
+      ],
+      "observation": "The nuptial number passage concentrates mathematical vocabulary: τέλειος ἀριθμός, ἐπίτριτος πυθμήν, πεμπάς, ἑκατόν, κύβοι τριάδος, γεωμετρικός—a dense technical cluster within the Muses' speech."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lexical_family",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φιλονικίαι",
+          "lemma": "φιλονικία",
+          "location": "548c",
+          "context": null
+        },
+        {
+          "form": "φιλοτιμίαι",
+          "lemma": "φιλοτιμία",
+          "location": "548c",
+          "context": null
+        },
+        {
+          "form": "φιλαναλωταί",
+          "lemma": "φιλαναλωτής",
+          "location": "548b",
+          "context": "φιλαναλωταὶ δὲ ἀλλοτρίων"
+        }
+      ],
+      "observation": "Three φιλ- compounds cluster near the section's end, naming the timocratic character's desires: φιλονικία, φιλοτιμία, φιλαναλωτής."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πειθοῦς",
+          "lemma": "πειθώ",
+          "location": "548b",
+          "context": "οὐχ ὑπὸ πειθοῦς ἀλλʼ ὑπὸ βίας πεπαιδευμένοι"
+        },
+        {
+          "form": "βίας",
+          "lemma": "βία",
+          "location": "548b",
+          "context": null
+        }
+      ],
+      "observation": "πειθώ and βία are explicitly contrasted as modes of education: the timocratic citizens are educated by force, not persuasion."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ παῖδες πατέρα τὸν νόμον ἀποδιδράσκοντες",
+          "lemma": null,
+          "location": "548b",
+          "context": null
+        }
+      ],
+      "observation": "Law is figured as a father from whom citizens flee like children (παῖδες πατέρα τὸν νόμον ἀποδιδράσκοντες)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐν μέσῳ",
+          "lemma": null,
+          "location": "547c",
+          "context": "ἐν μέσῳ τις ἂν εἴη ἀριστοκρατίας τε καὶ ὀλιγαρχίας"
+        },
+        {
+          "form": "μιμήσεται τὴν προτέραν",
+          "lemma": null,
+          "location": "547d",
+          "context": null
+        },
+        {
+          "form": "τὴν ὀλιγαρχίαν",
+          "lemma": null,
+          "location": "547d",
+          "context": null
+        },
+        {
+          "form": "αὑτῆς ἕξει ἴδιον",
+          "lemma": null,
+          "location": "547d",
+          "context": null
+        }
+      ],
+      "observation": "Timocracy is placed ἐν μέσῳ between aristocracy and oligarchy, then described as having three components: imitation of the former, imitation of the latter, and something ἴδιον of its own."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεμειγμένην",
+          "lemma": "μείγνυμι",
+          "location": "548c",
+          "context": "μεμειγμένην πολιτείαν ἐκ κακοῦ τε καὶ ἀγαθοῦ"
+        },
+        {
+          "form": "μέμεικται",
+          "lemma": "μείγνυμι",
+          "location": "548c",
+          "context": null
+        },
+        {
+          "form": "μιγέντος",
+          "lemma": "μείγνυμι",
+          "location": "547a",
+          "context": "ὁμοῦ δὲ μιγέντος σιδηροῦ ἀργυρῷ"
+        },
+        {
+          "form": "μεικτούς",
+          "lemma": "μεικτός",
+          "location": "547e",
+          "context": "ἁπλοῦς τε καὶ ἀτενεῖς…ἀλλὰ μεικτούς"
+        }
+      ],
+      "observation": "μείγνυμι and its cognate μεικτός recur: first metals are mixed (μιγέντος), then men are mixed rather than simple (μεικτούς), then the whole politeia is called μεμειγμένη and confirmed μέμεικται."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πόλεμον",
+          "lemma": "πόλεμος",
+          "location": "548a",
+          "context": "πολεμοῦσα τὸν ἀεὶ χρόνον διάγειν"
+        },
+        {
+          "form": "εἰρήνην",
+          "lemma": "εἰρήνη",
+          "location": "548a",
+          "context": "πρὸς πόλεμον μᾶλλον πεφυκότας ἢ πρὸς εἰρήνην"
+        }
+      ],
+      "observation": "πόλεμος and εἰρήνη are contrasted: the timocratic city inclines toward those naturally suited to war rather than peace, and spends all its time at war."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "εὐχώμεθα ταῖς Μούσαις εἰπεῖν ἡμῖν",
+          "lemma": null,
+          "location": "545d",
+          "context": null
+        },
+        {
+          "form": "τί οὖν…τὸ μετὰ τοῦτο λέγουσιν αἱ Μοῦσαι",
+          "lemma": null,
+          "location": "547b",
+          "context": null
+        },
+        {
+          "form": "μούσας γε οὔσας",
+          "lemma": null,
+          "location": "547a",
+          "context": null
+        }
+      ],
+      "observation": "Socrates proposes invoking the Muses; the Muses' speech then occupies 546a–547a; Glaucon asks what the Muses say next, and Socrates confirms they must be right since they are Muses—the invocation is proposed and carried through."
+    }
+  ]
+}
