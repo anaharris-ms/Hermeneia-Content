@@ -1,0 +1,614 @@
+{
+  "section_id": "republic-chapter-06-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φιλόσοφοι",
+          "lemma": "φιλόσοφος",
+          "location": "484a",
+          "context": null
+        },
+        {
+          "form": "φιλόσοφοι",
+          "lemma": "φιλόσοφος",
+          "location": "484b",
+          "context": "οὐ φιλόσοφοι"
+        },
+        {
+          "form": "φιλοσόφων",
+          "lemma": "φιλόσοφος",
+          "location": "485a",
+          "context": "τῶν φιλοσόφων φύσεων πέρι"
+        },
+        {
+          "form": "φιλόσοφός",
+          "lemma": "φιλόσοφος",
+          "location": "485e",
+          "context": "ἀληθῶς φιλόσοφός τις εἴη"
+        },
+        {
+          "form": "φιλόσοφόν",
+          "lemma": "φιλόσοφος",
+          "location": "486a",
+          "context": "φύσιν φιλόσοφόν τε καὶ μή"
+        },
+        {
+          "form": "φιλοσόφοις",
+          "lemma": "φιλόσοφος",
+          "location": "486d",
+          "context": "ἐν ταῖς ἱκανῶς φιλοσόφοις"
+        }
+      ],
+      "observation": "φιλόσοφος recurs throughout the section, applied variously to persons, natures (φύσεων, φύσιν), and souls."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "485a",
+          "context": "τὴν φύσιν αὐτῶν πρῶτον δεῖ καταμαθεῖν"
+        },
+        {
+          "form": "φύσεων",
+          "lemma": "φύσις",
+          "location": "485a",
+          "context": "τῶν φιλοσόφων φύσεων πέρι"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "485c",
+          "context": "τὸν ἐρωτικῶς του φύσει ἔχοντα"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "486a",
+          "context": "φύσιν φιλόσοφόν τε καὶ μή"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "486b",
+          "context": "δειλῇ δὴ καὶ ἀνελευθέρῳ φύσει"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "486d",
+          "context": "τῆς ἀμούσου τε καὶ ἀσχήμονος φύσεως"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "486d",
+          "context": "ἔμμετρον ἄρα καὶ εὔχαριν... διάνοιαν φύσει"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "487a",
+          "context": "εἰ μὴ φύσει εἴη μνήμων"
+        }
+      ],
+      "observation": "φύσις recurs densely, named as the object of investigation and then applied repeatedly as the criterion for each quality examined."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τυφλὸν",
+          "lemma": "τυφλός",
+          "location": "484c",
+          "context": "εἴτε τυφλὸν εἴτε ὀξὺ ὁρῶντα"
+        },
+        {
+          "form": "ὀξὺ ὁρῶντα",
+          "lemma": null,
+          "location": "484c",
+          "context": null
+        },
+        {
+          "form": "τυφλῶν",
+          "lemma": "τυφλός",
+          "location": "484c",
+          "context": "τι τυφλῶν διαφέρειν"
+        }
+      ],
+      "observation": "τυφλός and ὀξὺ ὁρῶντα are set in explicit contrast as alternative conditions for a guardian; τυφλῶν then returns in the question about those lacking knowledge."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀποβλέποντες",
+          "lemma": "ἀποβλέπω",
+          "location": "484c",
+          "context": "εἰς τὸ ἀληθέστατον ἀποβλέποντες"
+        },
+        {
+          "form": "ἀναφέροντές",
+          "lemma": "ἀναφέρω",
+          "location": "484c",
+          "context": "κἀκεῖσε ἀεὶ ἀναφέροντές τε"
+        },
+        {
+          "form": "θεώμενοι",
+          "lemma": "θεάομαι",
+          "location": "484d",
+          "context": "θεώμενοι ὡς οἷόν τε ἀκριβέστατα"
+        }
+      ],
+      "observation": "Three verbs of looking appear in sequence: ἀποβλέποντες directed toward the truest, ἀναφέροντες carrying reference upward (κἀκεῖσε), and θεώμενοι as the resulting contemplation."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐνθάδε",
+          "lemma": "ἐνθάδε",
+          "location": "484d",
+          "context": "τὰ ἐνθάδε νόμιμα"
+        },
+        {
+          "form": "κἀκεῖσε",
+          "lemma": "ἐκεῖσε",
+          "location": "484c",
+          "context": "κἀκεῖσε ἀεὶ ἀναφέροντές"
+        }
+      ],
+      "observation": "ἐνθάδε and κἀκεῖσε mark a spatial contrast between here (laws and conventions) and there (the truest paradigm)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "484c",
+          "context": "τούτους καθιστάναι φύλακας"
+        },
+        {
+          "form": "φύλακα",
+          "lemma": "φύλαξ",
+          "location": "484c",
+          "context": "φύλακα τηρεῖν ὁτιοῦν"
+        },
+        {
+          "form": "φυλάττοντες",
+          "lemma": "φυλάττω",
+          "location": "484d",
+          "context": "τὰ κείμενα φυλάττοντες σῴζειν"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "484d",
+          "context": "φύλακας στησόμεθα"
+        }
+      ],
+      "observation": "φύλαξ/φυλάττω recurs across the passage: first as the role to be assigned, then in the blind/seeing question about any guardian, then as the activity of preserving existing laws, then again as the choice of whom to appoint."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γραφῆς",
+          "lemma": "γραφή",
+          "location": "484c",
+          "context": "ὥσπερ γραφῆς"
+        },
+        {
+          "form": "παράδειγμα",
+          "lemma": "παράδειγμα",
+          "location": "484c",
+          "context": "μηδὲν ἐναργὲς ἐν τῇ ψυχῇ ἔχοντες παράδειγμα"
+        }
+      ],
+      "observation": "The painter analogy: those lacking knowledge have no ἐναργὲς παράδειγμα in the soul, and the comparison ὥσπερ γραφῆς introduces the image of painting as the activity of the guardian who looks toward the truest model."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐρῶσιν",
+          "lemma": "ἐράω",
+          "location": "485b",
+          "context": "μαθήματός γε ἀεὶ ἐρῶσιν"
+        },
+        {
+          "form": "ἐρωτικῶν",
+          "lemma": "ἐρωτικός",
+          "location": "485b",
+          "context": "περί τε τῶν φιλοτίμων καὶ ἐρωτικῶν"
+        },
+        {
+          "form": "ἐρωτικῶς",
+          "lemma": "ἐρωτικῶς",
+          "location": "485c",
+          "context": "τὸν ἐρωτικῶς του φύσει ἔχοντα"
+        },
+        {
+          "form": "παιδικῶν",
+          "lemma": "παιδικά",
+          "location": "485c",
+          "context": "τὸ συγγενές τε καὶ οἰκεῖον τῶν παιδικῶν ἀγαπᾶν"
+        }
+      ],
+      "observation": "Erotic language (ἐράω, ἐρωτικός, παιδικά) is applied to the philosopher's relation to learning and truth."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ῥέπουσιν",
+          "lemma": "ῥέπω",
+          "location": "485d",
+          "context": "αἱ ἐπιθυμίαι σφόδρα ῥέπουσιν"
+        },
+        {
+          "form": "ῥεῦμα",
+          "lemma": "ῥεῦμα",
+          "location": "485d",
+          "context": "ὥσπερ ῥεῦμα ἐκεῖσε ἀπωχετευμένον"
+        },
+        {
+          "form": "ἐρρυήκασιν",
+          "lemma": "ῥέω",
+          "location": "485d",
+          "context": "πρὸς τὰ μαθήματα... ἐρρυήκασιν"
+        }
+      ],
+      "observation": "A cluster of flow language: desires ῥέπουσιν toward one thing, compared to ῥεῦμα channeled away, then ἐρρυήκασιν toward learning—the water-channel image is sustained across three forms."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τῆς ψυχῆς... ἡδονὴν αὐτῆς καθʼ αὑτήν",
+          "lemma": null,
+          "location": "485d",
+          "context": null
+        },
+        {
+          "form": "τὰς δὲ διὰ τοῦ σώματος",
+          "lemma": null,
+          "location": "485d",
+          "context": "τὰς δὲ διὰ τοῦ σώματος ἐκλείποιεν"
+        }
+      ],
+      "observation": "Pleasure of the soul by itself is contrasted with pleasures through the body; the latter are abandoned (ἐκλείποιεν)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φιλοχρήματος",
+          "lemma": "φιλοχρήματος",
+          "location": "485e",
+          "context": "οὐδαμῇ φιλοχρήματος"
+        },
+        {
+          "form": "φιλοχρήματος",
+          "lemma": "φιλοχρήματος",
+          "location": "486b",
+          "context": "μὴ φιλοχρήματος"
+        },
+        {
+          "form": "φιλοτίμων",
+          "lemma": "φιλότιμος",
+          "location": "485b",
+          "context": null
+        },
+        {
+          "form": "φιλομαθῆ",
+          "lemma": "φιλομαθής",
+          "location": "485d",
+          "context": null
+        },
+        {
+          "form": "φιλοψευδῆ",
+          "lemma": "φιλοψευδής",
+          "location": "485d",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of φιλο- compounds: φιλότιμος, φιλομαθής, φιλοψευδής, φιλοχρήματος (twice). The compounds distribute desire across different objects."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀψεύδειαν",
+          "lemma": "ἀψεύδεια",
+          "location": "485c",
+          "context": null
+        },
+        {
+          "form": "τὸ ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "485c",
+          "context": "μηδαμῇ προσδέχεσθαι τὸ ψεῦδος ἀλλὰ μισεῖν"
+        },
+        {
+          "form": "τὴν δʼ ἀλήθειαν στέργειν",
+          "lemma": null,
+          "location": "485c",
+          "context": null
+        }
+      ],
+      "observation": "ἀψεύδεια is named, then the contrast is expanded: μισεῖν falsehood, στέργειν truth—hate and love set parallel."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀνελευθερίας",
+          "lemma": "ἀνελευθερία",
+          "location": "486a",
+          "context": "μετέχουσα ἀνελευθερίας"
+        },
+        {
+          "form": "σμικρολογία",
+          "lemma": "σμικρολογία",
+          "location": "486a",
+          "context": "ἐναντιώτατον γάρ που σμικρολογία"
+        },
+        {
+          "form": "μεγαλοπρέπεια",
+          "lemma": "μεγαλοπρέπεια",
+          "location": "486a",
+          "context": "ὑπάρχει διανοίᾳ μεγαλοπρέπεια καὶ θεωρία"
+        },
+        {
+          "form": "ἀνελεύθερος",
+          "lemma": "ἀνελεύθερος",
+          "location": "486b",
+          "context": null
+        },
+        {
+          "form": "ἀνελευθέρῳ",
+          "lemma": "ἀνελεύθερος",
+          "location": "486b",
+          "context": "δειλῇ δὴ καὶ ἀνελευθέρῳ φύσει"
+        }
+      ],
+      "observation": "ἀνελευθερία/ἀνελεύθερος recurs three times; σμικρολογία is named as its most extreme opposite to μεγαλοπρέπεια, creating a small/great contrast."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θεωρία",
+          "lemma": "θεωρία",
+          "location": "486a",
+          "context": "θεωρία παντὸς μὲν χρόνου, πάσης δὲ οὐσίας"
+        },
+        {
+          "form": "θεώμενοι",
+          "lemma": "θεάομαι",
+          "location": "484d",
+          "context": null
+        }
+      ],
+      "observation": "θεωρία at 486a names contemplation of all time and all being; θεώμενοι appeared earlier in the painter-guardian analogy. Both involve directed seeing."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μνήμων",
+          "lemma": "μνήμων",
+          "location": "487a",
+          "context": null
+        },
+        {
+          "form": "εὐμαθής",
+          "lemma": "εὐμαθής",
+          "location": "487a",
+          "context": null
+        },
+        {
+          "form": "μεγαλοπρεπής",
+          "lemma": "μεγαλοπρεπής",
+          "location": "487a",
+          "context": null
+        },
+        {
+          "form": "εὔχαρις",
+          "lemma": "εὔχαρις",
+          "location": "487a",
+          "context": null
+        },
+        {
+          "form": "φίλος τε καὶ συγγενὴς ἀληθείας, δικαιοσύνης, ἀνδρείας, σωφροσύνης",
+          "lemma": null,
+          "location": "487a",
+          "context": null
+        }
+      ],
+      "observation": "A summary catalogue of the philosophical nature's qualities gathers traits examined individually across the preceding argument into a single enumerated list."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πλανώμενοι",
+          "lemma": "πλανάω",
+          "location": "484b",
+          "context": "ἐν πολλοῖς καὶ παντοίως ἴσχουσιν πλανώμενοι"
+        },
+        {
+          "form": "πλανωμένης",
+          "lemma": "πλανάω",
+          "location": "485b",
+          "context": "μὴ πλανωμένης ὑπὸ γενέσεως καὶ φθορᾶς"
+        }
+      ],
+      "observation": "πλανάω appears first of non-philosophers wandering among many things, then of the being that does not wander through generation and destruction."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιλήσμονα",
+          "lemma": "ἐπιλήσμων",
+          "location": "486d",
+          "context": "ἐπιλήσμονα ἄρα ψυχήν... μή ποτε ἐγκρίνωμεν"
+        },
+        {
+          "form": "μνημονικὴν",
+          "lemma": "μνημονικός",
+          "location": "486d",
+          "context": "ἀλλὰ μνημονικὴν αὐτὴν ζητῶμεν"
+        },
+        {
+          "form": "λήθης",
+          "lemma": "λήθη",
+          "location": "486c",
+          "context": "λήθης ὢν πλέως"
+        }
+      ],
+      "observation": "Forgetfulness (λήθη, ἐπιλήσμων) and memory (μνημονικός) are set in direct opposition as criteria for the philosophical soul."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀμετρίαν",
+          "lemma": "ἀμετρία",
+          "location": "486d",
+          "context": "ἕλκειν ἢ εἰς ἀμετρίαν"
+        },
+        {
+          "form": "ἐμμετρίᾳ",
+          "lemma": "ἐμμετρία",
+          "location": "486d",
+          "context": "ἀλήθειαν δʼ ἀμετρίᾳ ἡγῇ συγγενῆ εἶναι ἢ ἐμμετρίᾳ"
+        },
+        {
+          "form": "ἔμμετρον",
+          "lemma": "ἔμμετρος",
+          "location": "486d",
+          "context": "ἔμμετρον ἄρα καὶ εὔχαριν ζητῶμεν"
+        }
+      ],
+      "observation": "ἀμετρία and ἐμμετρία are directly opposed; truth is declared kin (συγγενῆ) to measure, and ἔμμετρον is then prescribed for the philosophical mind."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Μῶμος",
+          "lemma": "Μῶμος",
+          "location": "487a",
+          "context": "οὐδʼ ἂν ὁ Μῶμος... τό γε τοιοῦτον μέμψαιτο"
+        }
+      ],
+      "observation": "Glaucon invokes Momus, the personification of blame, to affirm that not even he could find fault—a singular proper name in the section."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὁμολογήσωμεν",
+          "lemma": "ὁμολογέω",
+          "location": "485a",
+          "context": null
+        },
+        {
+          "form": "ὁμολογήσειν",
+          "lemma": "ὁμολογέω",
+          "location": "485a",
+          "context": null
+        },
+        {
+          "form": "ὡμολογήσθω",
+          "lemma": "ὁμολογέω",
+          "location": "485a",
+          "context": "τῶν φιλοσόφων φύσεων πέρι ὡμολογήσθω"
+        },
+        {
+          "form": "ὡμολογήσθω",
+          "lemma": "ὁμολογέω",
+          "location": "485b",
+          "context": null
+        }
+      ],
+      "observation": "ὁμολογέω appears four times in close succession at 485a–b, marking the procedural act of establishing agreement as a repeated verbal action."
+    }
+  ]
+}
