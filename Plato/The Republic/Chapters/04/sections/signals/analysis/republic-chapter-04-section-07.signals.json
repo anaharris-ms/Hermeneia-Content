@@ -1,0 +1,641 @@
+{
+  "section_id": "republic-chapter-04-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κυνηγέτας",
+          "lemma": "κυνηγέτης",
+          "location": "432b",
+          "context": "ὥσπερ κυνηγέτας τινὰς θάμνον κύκλῳ περιίστασθαι"
+        },
+        {
+          "form": "θάμνον",
+          "lemma": "θάμνος",
+          "location": "432b",
+          "context": null
+        },
+        {
+          "form": "κύκλῳ",
+          "lemma": "κύκλος",
+          "location": "432b",
+          "context": null
+        },
+        {
+          "form": "περιίστασθαι",
+          "lemma": "περιίστημι",
+          "location": "432b",
+          "context": null
+        },
+        {
+          "form": "διαφύγῃ",
+          "lemma": "διαφεύγω",
+          "location": "432b",
+          "context": "μή πῃ διαφύγῃ ἡ δικαιοσύνη"
+        },
+        {
+          "form": "ἴχνος",
+          "lemma": "ἴχνος",
+          "location": "432d",
+          "context": "κινδυνεύομέν τι ἔχειν ἴχνος"
+        },
+        {
+          "form": "ἐκφευξεῖσθαι",
+          "lemma": "ἐκφεύγω",
+          "location": "432d",
+          "context": "οὐ πάνυ τι ἐκφευξεῖσθαι ἡμᾶς"
+        }
+      ],
+      "observation": "A hunting cluster: hunters surrounding a thicket lest justice escape, then finding a track and declaring the quarry will not escape. διαφύγῃ and ἐκφευξεῖσθαι both belong to the fleeing/escaping field."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κατιδεῖν",
+          "lemma": "καθοράω",
+          "location": "432c",
+          "context": "προθυμοῦ κατιδεῖν"
+        },
+        {
+          "form": "ἴδῃς",
+          "lemma": "ὁράω",
+          "location": "432c",
+          "context": "ἐάν πως πρότερος ἐμοῦ ἴδῃς"
+        },
+        {
+          "form": "καθορᾶν",
+          "lemma": "καθοράω",
+          "location": "432c",
+          "context": "τὰ δεικνύμενα δυναμένῳ καθορᾶν"
+        },
+        {
+          "form": "κατιδών",
+          "lemma": "καθοράω",
+          "location": "432d",
+          "context": "καὶ ἐγὼ κατιδών"
+        },
+        {
+          "form": "ἑωρῶμεν",
+          "lemma": "ὁράω",
+          "location": "432d",
+          "context": "οὐχ ἑωρῶμεν ἄρʼ αὐτό"
+        },
+        {
+          "form": "ἀπεβλέπομεν",
+          "lemma": "ἀποβλέπω",
+          "location": "432e",
+          "context": "εἰς αὐτὸ μὲν οὐκ ἀπεβλέπομεν"
+        },
+        {
+          "form": "ἀπεσκοποῦμεν",
+          "lemma": "ἀποσκοπέω",
+          "location": "432e",
+          "context": "πόρρω δέ ποι ἀπεσκοποῦμεν"
+        },
+        {
+          "form": "κατιδεῖν",
+          "lemma": "καθοράω",
+          "location": "434d",
+          "context": "ῥᾷον ἂν ἐν ἑνὶ ἀνθρώπῳ κατιδεῖν"
+        }
+      ],
+      "observation": "Dense cluster of seeing/looking verbs throughout the section, including forms of καθοράω (three times), ὁράω, ἀποβλέπω, ἀποσκοπέω. Seeing is proposed, failed (οὐχ ἑωρῶμεν), misdirected (ἀπεσκοποῦμεν πόρρω), and then achieved (κατιδών)."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πρὸ ποδῶν",
+          "lemma": null,
+          "location": "432d",
+          "context": "πρὸ ποδῶν ἡμῖν ἐξ ἀρχῆς κυλινδεῖσθαι"
+        },
+        {
+          "form": "πόρρω",
+          "lemma": "πόρρω",
+          "location": "432e",
+          "context": "πόρρω δέ ποι ἀπεσκοποῦμεν"
+        }
+      ],
+      "observation": "Spatial contrast between near (πρὸ ποδῶν, at their feet) and far (πόρρω, looking far away): justice was close while they looked far."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐν ταῖς χερσὶν ἔχοντες ζητοῦσιν",
+          "lemma": null,
+          "location": "432d",
+          "context": "ὥσπερ οἱ ἐν ταῖς χερσὶν ἔχοντες ζητοῦσιν ἐνίοτε ὃ ἔχουσιν"
+        }
+      ],
+      "observation": "Image of people searching for what they already hold in their hands, presented as a parallel to Socrates and Glaucon's situation with justice."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δύσβατος",
+          "lemma": "δύσβατος",
+          "location": "432c",
+          "context": "δύσβατός γέ τις ὁ τόπος"
+        },
+        {
+          "form": "ἐπίσκιος",
+          "lemma": "ἐπίσκιος",
+          "location": "432c",
+          "context": null
+        },
+        {
+          "form": "σκοτεινός",
+          "lemma": "σκοτεινός",
+          "location": "432c",
+          "context": null
+        },
+        {
+          "form": "δυσδιερεύνητος",
+          "lemma": "δυσδιερεύνητος",
+          "location": "432c",
+          "context": null
+        }
+      ],
+      "observation": "Four-term cluster describing the terrain: hard to traverse, shadowy, dark, hard to search through. Three δυσ- compounds (δύσβατος, δυσδιερεύνητος, δύσκριτον later) share the prefix of difficulty."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὰ αὑτοῦ πράττειν",
+          "lemma": "πράττω",
+          "location": "433a",
+          "context": "τὸ τὰ αὑτοῦ πράττειν καὶ μὴ πολυπραγμονεῖν δικαιοσύνη ἐστί"
+        },
+        {
+          "form": "ἔπραττε",
+          "lemma": "πράττω",
+          "location": "433d",
+          "context": "τὸ αὑτοῦ ἕκαστος εἷς ὢν ἔπραττε"
+        },
+        {
+          "form": "πολυπραγμονεῖν",
+          "lemma": "πολυπραγμονέω",
+          "location": "433a",
+          "context": null
+        },
+        {
+          "form": "ἐπολυπραγμόνει",
+          "lemma": "πολυπραγμονέω",
+          "location": "433d",
+          "context": "οὐκ ἐπολυπραγμόνει"
+        },
+        {
+          "form": "πολυπραγμοσύνην",
+          "lemma": "πολυπραγμοσύνη",
+          "location": "434b",
+          "context": "ταύτην τὴν τούτων μεταβολὴν καὶ πολυπραγμοσύνην ὄλεθρον εἶναι τῇ πόλει"
+        },
+        {
+          "form": "πολυπραγμοσύνη",
+          "lemma": "πολυπραγμοσύνη",
+          "location": "434b",
+          "context": "ἡ τριῶν ἄρα ὄντων γενῶν πολυπραγμοσύνη"
+        },
+        {
+          "form": "τὰ αὑτοῦ πράττοντος",
+          "lemma": "πράττω",
+          "location": "434c",
+          "context": "ἑκάστου τούτων τὸ αὑτοῦ πράττοντος"
+        },
+        {
+          "form": "τὰ αὑτοῦ πράττειν",
+          "lemma": "πράττω",
+          "location": "433d",
+          "context": "τοῦ ἕκαστον ἐν αὐτῇ τὰ αὑτοῦ πράττειν"
+        },
+        {
+          "form": "οἰκειοπραγία",
+          "lemma": "οἰκειοπραγία",
+          "location": "434c",
+          "context": null
+        }
+      ],
+      "observation": "τὰ αὑτοῦ πράττειν recurs as the formula for justice, opposed repeatedly to πολυπραγμονεῖν/πολυπραγμοσύνη. The nominal form οἰκειοπραγία appears as a summary term."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνη",
+          "lemma": "δικαιοσύνη",
+          "location": "434c",
+          "context": "δικαιοσύνη τʼ ἂν εἴη"
+        },
+        {
+          "form": "ἀδικίαν",
+          "lemma": "ἀδικία",
+          "location": "434c",
+          "context": "οὐκ ἀδικίαν φήσεις εἶναι"
+        },
+        {
+          "form": "κακουργίαν",
+          "lemma": "κακουργία",
+          "location": "434c",
+          "context": "κακουργίαν δὲ τὴν μεγίστην"
+        },
+        {
+          "form": "οἰκειοπραγία",
+          "lemma": "οἰκειοπραγία",
+          "location": "434c",
+          "context": null
+        }
+      ],
+      "observation": "Explicit opposition: πολυπραγμοσύνη = κακουργία = ἀδικία vs. οἰκειοπραγία = δικαιοσύνη. τοὐναντίον ἐκείνου marks the contrast."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀφανισθεῖσα ἄδηλος",
+          "lemma": null,
+          "location": "432b",
+          "context": "μή πῃ διαφύγῃ ἡ δικαιοσύνη καὶ ἀφανισθεῖσα ἄδηλος γένηται"
+        },
+        {
+          "form": "φανερόν",
+          "lemma": "φανερός",
+          "location": "432c",
+          "context": "φανερὸν γὰρ δὴ ὅτι ταύτῃ πῃ ἔστιν"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "432d",
+          "context": "πάλαι … φαίνεται πρὸ ποδῶν ἡμῖν"
+        },
+        {
+          "form": "φανερὰν γενομένην",
+          "lemma": "φανερός",
+          "location": "435a",
+          "context": "φανερὰν γενομένην βεβαιωσόμεθα"
+        }
+      ],
+      "observation": "Justice moves from possible invisibility (ἀφανισθεῖσα ἄδηλος) through apparent presence (φανερόν, φαίνεται) to anticipated full visibility (φανερὰν γενομένην) at the section's end."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "narration_dialogue_recurrence",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἰτέον",
+          "lemma": "εἶμι",
+          "location": "432c",
+          "context": "ἀλλὰ γὰρ ὅμως ἰτέον"
+        },
+        {
+          "form": "ἰτέον",
+          "lemma": "εἶμι",
+          "location": "432d",
+          "context": "ἰτέον γάρ, ἔφη"
+        }
+      ],
+      "observation": "Socrates declares ἰτέον (one must go on); Glaucon immediately echoes ἰτέον γάρ, accepting the imperative."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἕπου",
+          "lemma": "ἕπομαι",
+          "location": "432c",
+          "context": "ἕπου … εὐξάμενος μετʼ ἐμοῦ"
+        },
+        {
+          "form": "ἡγοῦ",
+          "lemma": "ἡγέομαι",
+          "location": "432c",
+          "context": "μόνον … ἡγοῦ"
+        },
+        {
+          "form": "ἑπομένῳ",
+          "lemma": "ἕπομαι",
+          "location": "432c",
+          "context": "ἐάν μοι ἑπομένῳ χρῇ"
+        },
+        {
+          "form": "δεικνύμενα",
+          "lemma": "δείκνυμι",
+          "location": "432c",
+          "context": "τὰ δεικνύμενα δυναμένῳ καθορᾶν"
+        }
+      ],
+      "observation": "Glaucon offers to follow (ἑπομένῳ) and see what is shown (δεικνύμενα); Socrates commands him to follow (ἕπου); Glaucon responds by asking Socrates to lead (ἡγοῦ). Leader-follower roles are negotiated."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξ ἀρχῆς",
+          "lemma": null,
+          "location": "432d",
+          "context": "πρὸ ποδῶν ἡμῖν ἐξ ἀρχῆς κυλινδεῖσθαι"
+        },
+        {
+          "form": "ἐξ ἀρχῆς",
+          "lemma": null,
+          "location": "433a",
+          "context": "ὃ γὰρ ἐξ ἀρχῆς ἐθέμεθα δεῖν ποιεῖν διὰ παντός"
+        }
+      ],
+      "observation": "ἐξ ἀρχῆς appears twice: first describing justice rolling at their feet from the beginning, then identifying the principle laid down from the beginning when founding the city."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lexical_family",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "δύσβατος",
+          "lemma": "δύσβατος",
+          "location": "432c",
+          "context": null
+        },
+        {
+          "form": "δυσδιερεύνητος",
+          "lemma": "δυσδιερεύνητος",
+          "location": "432c",
+          "context": null
+        },
+        {
+          "form": "δύσκριτον",
+          "lemma": "δύσκριτος",
+          "location": "433c",
+          "context": "δύσκριτον ἂν εἴη"
+        },
+        {
+          "form": "δύσκριτον",
+          "lemma": "δύσκριτος",
+          "location": "433d",
+          "context": "δύσκριτον, ἔφη"
+        }
+      ],
+      "observation": "Three δυσ- compounds across the section: the terrain is δύσβατος and δυσδιερεύνητος, and later the judgment among virtues is δύσκριτον (repeated by Glaucon)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐκ πυρείων",
+          "lemma": "πυρεῖον",
+          "location": "435a",
+          "context": "ὥσπερ ἐκ πυρείων ἐκλάμψαι ποιήσαιμεν τὴν δικαιοσύνην"
+        },
+        {
+          "form": "τρίβοντες",
+          "lemma": "τρίβω",
+          "location": "435a",
+          "context": "παρʼ ἄλληλα σκοποῦντες καὶ τρίβοντες"
+        }
+      ],
+      "observation": "Fire-stick image at section's end: rubbing city and individual together like fire-sticks to make justice flash forth (ἐκλάμψαι). Light imagery contrasts with the earlier σκοτεινός/ἐπίσκιος terrain."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐγγενέσθαι",
+          "lemma": "ἐγγίγνομαι",
+          "location": "433b",
+          "context": "τὴν δύναμιν παρέσχεν ὥστε ἐγγενέσθαι"
+        },
+        {
+          "form": "ἐγγενομένοις",
+          "lemma": "ἐγγίγνομαι",
+          "location": "433b",
+          "context": null
+        },
+        {
+          "form": "ἐνῇ",
+          "lemma": "ἔνειμι",
+          "location": "433c",
+          "context": "ἕωσπερ ἂν ἐνῇ"
+        },
+        {
+          "form": "ἐγγενόμενον",
+          "lemma": "ἐγγίγνομαι",
+          "location": "433c",
+          "context": "τί τὴν πόλιν ἡμῖν τούτων μάλιστα ἀγαθὴν ἀπεργάσεται ἐγγενόμενον"
+        },
+        {
+          "form": "ἐγγενομένη",
+          "lemma": "ἐγγίγνομαι",
+          "location": "433c",
+          "context": null
+        },
+        {
+          "form": "ἐνοῦσα",
+          "lemma": "ἔνειμι",
+          "location": "433d",
+          "context": null
+        },
+        {
+          "form": "ἐνόν",
+          "lemma": "ἔνειμι",
+          "location": "433d",
+          "context": null
+        }
+      ],
+      "observation": "Dense recurrence of ἐγγίγνομαι and ἔνειμι forms as each virtue is described as being present in or coming to be in the city."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σωφροσύνης",
+          "lemma": "σωφροσύνη",
+          "location": "433b",
+          "context": "σωφροσύνης καὶ ἀνδρείας καὶ φρονήσεως"
+        },
+        {
+          "form": "τρία",
+          "lemma": "τρεῖς",
+          "location": "433c",
+          "context": "εἰ τὰ τρία εὕροιμεν"
+        },
+        {
+          "form": "τὸ ὑπόλοιπον",
+          "lemma": "ὑπόλοιπος",
+          "location": "433b",
+          "context": null
+        },
+        {
+          "form": "τὸ ὑπολειφθέν",
+          "lemma": "ὑπολείπω",
+          "location": "433c",
+          "context": "δικαιοσύνην ἔσεσθαι τὸ ὑπολειφθὲν ἐκείνων"
+        }
+      ],
+      "observation": "Justice is identified as the remainder (τὸ ὑπόλοιπον, τὸ ὑπολειφθέν) after finding the other three virtues—a method of discovery by subtraction."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τέκτων",
+          "lemma": "τέκτων",
+          "location": "434a",
+          "context": "τέκτων σκυτοτόμου ἐπιχειρῶν ἔργα ἐργάζεσθαι"
+        },
+        {
+          "form": "σκυτοτόμος",
+          "lemma": "σκυτοτόμος",
+          "location": "434a",
+          "context": "ἢ σκυτοτόμος τέκτονος"
+        },
+        {
+          "form": "οὐ πάνυ",
+          "lemma": null,
+          "location": "434a",
+          "context": "οὐ πάνυ … μέγα βλάψαι πόλιν"
+        },
+        {
+          "form": "ὄλεθρον",
+          "lemma": "ὄλεθρος",
+          "location": "434b",
+          "context": "πολυπραγμοσύνην ὄλεθρον εἶναι τῇ πόλει"
+        }
+      ],
+      "observation": "Contrast between minor harm (craftsmen exchanging roles: οὐ πάνυ μέγα βλάψαι) and destruction (class-crossing: ὄλεθρον τῇ πόλει)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεταλαμβάνοντες",
+          "lemma": "μεταλαμβάνω",
+          "location": "434a",
+          "context": "τὰ ὄργανα μεταλαμβάνοντες τἀλλήλων"
+        },
+        {
+          "form": "μεταλαμβάνωσι",
+          "lemma": "μεταλαμβάνω",
+          "location": "434b",
+          "context": "τὰ ἀλλήλων οὗτοι ὄργανα μεταλαμβάνωσι"
+        },
+        {
+          "form": "μεταβολήν",
+          "lemma": "μεταβολή",
+          "location": "434b",
+          "context": null
+        },
+        {
+          "form": "μεταβολή",
+          "lemma": "μεταβολή",
+          "location": "434c",
+          "context": null
+        },
+        {
+          "form": "μεταλλαττόμενα",
+          "lemma": "μεταλλάττω",
+          "location": "434a",
+          "context": "πάντα τἆλλα μεταλλαττόμενα"
+        }
+      ],
+      "observation": "μετα- compounds (μεταλαμβάνω, μεταλλάττω, μεταβολή) cluster around the exchange of roles and tools, marking interchange as the core of injustice."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἰς ἕνα ἕκαστον τῶν ἀνθρώπων",
+          "lemma": null,
+          "location": "434d",
+          "context": "ἐὰν μὲν ἡμῖν καὶ εἰς ἕνα ἕκαστον τῶν ἀνθρώπων ἰὸν τὸ εἶδος τοῦτο"
+        },
+        {
+          "form": "ἐν μείζονί τινι",
+          "lemma": null,
+          "location": "434d",
+          "context": "εἰ ἐν μείζονί τινι τῶν ἐχόντων δικαιοσύνην πρότερον"
+        },
+        {
+          "form": "ἐν ἑνὶ ἀνθρώπῳ",
+          "lemma": null,
+          "location": "434d",
+          "context": "ῥᾷον ἂν ἐν ἑνὶ ἀνθρώπῳ κατιδεῖν"
+        },
+        {
+          "form": "ἐπαναφέρωμεν εἰς τὸν ἕνα",
+          "lemma": null,
+          "location": "434e",
+          "context": null
+        },
+        {
+          "form": "ἐπανιόντες ἐπὶ τὴν πόλιν",
+          "lemma": "ἐπάνειμι",
+          "location": "434e",
+          "context": "πάλιν ἐπανιόντες ἐπὶ τὴν πόλιν βασανιοῦμεν"
+        }
+      ],
+      "observation": "The section's end articulates a back-and-forth movement between city and individual: transferring to the one (ἐπαναφέρωμεν εἰς τὸν ἕνα), returning to the city (ἐπανιόντες ἐπὶ τὴν πόλιν), then testing (βασανιοῦμεν)."
+    }
+  ]
+}
