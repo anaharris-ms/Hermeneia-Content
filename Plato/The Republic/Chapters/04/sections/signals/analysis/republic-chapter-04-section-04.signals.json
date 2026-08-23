@@ -1,0 +1,503 @@
+{
+  "section_id": "republic-chapter-04-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ᾤκισται",
+          "lemma": "οἰκίζω",
+          "location": "427e",
+          "context": "εἴπερ ὀρθῶς γε ᾤκισται"
+        },
+        {
+          "form": "οἰκισθείσῃ",
+          "lemma": "οἰκίζω",
+          "location": "428c",
+          "context": "ἐν τῇ ἄρτι ὑφʼ ἡμῶν οἰκισθείσῃ"
+        },
+        {
+          "form": "οἰκισθεῖσα",
+          "lemma": "οἰκίζω",
+          "location": "428e",
+          "context": "κατὰ φύσιν οἰκισθεῖσα πόλις"
+        },
+        {
+          "form": "ὠικισμένη",
+          "lemma": "οἰκίζω",
+          "location": "427c",
+          "context": "ὠικισμένη μὲν τοίνυν ... ἡ πόλις"
+        }
+      ],
+      "observation": "οἰκίζω recurs four times across the section in different participial forms (perfect, aorist passive), marking the city as founded and then referring back to that founding as the search begins."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_density",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιστήμη",
+          "lemma": "ἐπιστήμη",
+          "location": "428b",
+          "context": "ἐπιστήμη τίς ἐστιν"
+        },
+        {
+          "form": "ἐπιστήμῃ",
+          "lemma": "ἐπιστήμη",
+          "location": "428b",
+          "context": "ἀλλʼ ἐπιστήμῃ εὖ βουλεύονται"
+        },
+        {
+          "form": "ἐπιστῆμαι",
+          "lemma": "ἐπιστήμη",
+          "location": "428b",
+          "context": "πολλαὶ δέ γε καὶ παντοδαπαὶ ἐπιστῆμαι"
+        },
+        {
+          "form": "ἐπιστήμην",
+          "lemma": "ἐπιστήμη",
+          "location": "428b",
+          "context": "τὴν τῶν τεκτόνων ἐπιστήμην"
+        },
+        {
+          "form": "ἐπιστήμη",
+          "lemma": "ἐπιστήμη",
+          "location": "428c",
+          "context": "ἔστι τις ἐπιστήμη"
+        },
+        {
+          "form": "ἐπιστήμῃ",
+          "lemma": "ἐπιστήμη",
+          "location": "428e",
+          "context": "τῇ ἐν τούτῳ ἐπιστήμῃ"
+        },
+        {
+          "form": "ἐπιστήμης",
+          "lemma": "ἐπιστήμη",
+          "location": "429a",
+          "context": "ταύτης τῆς ἐπιστήμης"
+        },
+        {
+          "form": "ἐπιστημῶν",
+          "lemma": "ἐπιστήμη",
+          "location": "429a",
+          "context": "τῶν ἄλλων ἐπιστημῶν"
+        },
+        {
+          "form": "ἐπιστήμας",
+          "lemma": "ἐπιστήμη",
+          "location": "428e",
+          "context": "ἐπιστήμας ἔχοντες"
+        }
+      ],
+      "observation": "ἐπιστήμη appears with exceptional density from 428b through 429a, tested against multiple crafts and finally distinguished as the one knowledge properly called σοφία."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "427d",
+          "context": "φῶς ποθὲν πορισάμενος ἱκανόν"
+        },
+        {
+          "form": "ἴδωμεν",
+          "lemma": "ὁράω",
+          "location": "427d",
+          "context": "ἐάν πως ἴδωμεν ποῦ ποτʼ ἂν εἴη ἡ δικαιοσύνη"
+        }
+      ],
+      "observation": "The search for justice is introduced through procuring light (φῶς) and seeing (ἴδωμεν), coupling visual perception with the inquiry."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὕρωμεν",
+          "lemma": "εὑρίσκω",
+          "location": "427e",
+          "context": "ὅτι ἂν αὐτῶν εὕρωμεν ἐν αὐτῇ"
+        },
+        {
+          "form": "εὑρήσειν",
+          "lemma": "εὑρίσκω",
+          "location": "427e",
+          "context": "ἐλπίζω τοίνυν ... εὑρήσειν αὐτὸ ὧδε"
+        },
+        {
+          "form": "ηὑρήκαμεν",
+          "lemma": "εὑρίσκω",
+          "location": "429a",
+          "context": "ἓν τῶν τεττάρων ... ηὑρήκαμεν"
+        },
+        {
+          "form": "ηὑρῆσθαι",
+          "lemma": "εὑρίσκω",
+          "location": "429a",
+          "context": "ἀποχρώντως ηὑρῆσθαι"
+        }
+      ],
+      "observation": "εὑρίσκω moves from hoped-for future (εὑρήσειν) and subjunctive (εὕρωμεν) to accomplished perfect (ηὑρήκαμεν, ηὑρῆσθαι) by the section's end."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σοφή",
+          "lemma": "σοφός",
+          "location": "427e",
+          "context": "σοφή τʼ ἐστὶ καὶ ἀνδρεία καὶ σώφρων καὶ δικαία"
+        },
+        {
+          "form": "σοφία",
+          "lemma": "σοφία",
+          "location": "428b",
+          "context": "ἡ σοφία· καί τι ἄτοπον περὶ αὐτὴν φαίνεται"
+        },
+        {
+          "form": "σοφίαν",
+          "lemma": "σοφία",
+          "location": "429a",
+          "context": "ἣν μόνην δεῖ τῶν ἄλλων ἐπιστημῶν σοφίαν καλεῖσθαι"
+        },
+        {
+          "form": "σοφήν",
+          "lemma": "σοφός",
+          "location": "428d",
+          "context": "εὔβουλον ... καὶ τῷ ὄντι σοφήν"
+        }
+      ],
+      "observation": "σοφός/σοφία recurs throughout, first listed among four virtues, then isolated as the first to be examined, and finally located in the smallest group."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ὑπέσχου ζητήσειν",
+          "lemma": null,
+          "location": "427d",
+          "context": "σὺ γὰρ ὑπέσχου ζητήσειν"
+        },
+        {
+          "form": "ζητητέον",
+          "lemma": "ζητέω",
+          "location": "428a",
+          "context": "ὡσαύτως ζητητέον"
+        },
+        {
+          "form": "ἐζητοῦμεν",
+          "lemma": "ζητέω",
+          "location": "428a",
+          "context": "εἰ ἕν τι ἐζητοῦμεν αὐτῶν"
+        },
+        {
+          "form": "ζητούμενον",
+          "lemma": "ζητέω",
+          "location": "428a",
+          "context": "ἐγνώριστο τὸ ζητούμενον"
+        }
+      ],
+      "observation": "Glaucon recalls Socrates' promise to search (ὑπέσχου ζητήσειν); ζητέω then recurs as the method is articulated."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τεκτόνων",
+          "lemma": "τέκτων",
+          "location": "428b",
+          "context": "τὴν τῶν τεκτόνων ἐπιστήμην"
+        },
+        {
+          "form": "ξυλίνων σκευῶν",
+          "lemma": null,
+          "location": "428c",
+          "context": "τὴν ὑπὲρ τῶν ξυλίνων σκευῶν ἐπιστήμην"
+        },
+        {
+          "form": "χαλκοῦ",
+          "lemma": "χαλκός",
+          "location": "428c",
+          "context": "τὴν ὑπὲρ τῶν ἐκ τοῦ χαλκοῦ"
+        },
+        {
+          "form": "καρποῦ",
+          "lemma": "καρπός",
+          "location": "428c",
+          "context": "τὴν ὑπὲρ τοῦ καρποῦ τῆς γενέσεως ἐκ τῆς γῆς"
+        },
+        {
+          "form": "φυλακική",
+          "lemma": "φυλακικός",
+          "location": "428d",
+          "context": "αὕτη ... ἡ φυλακική"
+        }
+      ],
+      "observation": "A sequence of craft-knowledges (carpentry, bronze-work, farming) is serially rejected before φυλακική is accepted as the knowledge that makes the city wise."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὔβουλος",
+          "lemma": "εὔβουλος",
+          "location": "428b",
+          "context": "εὔβουλος γάρ, οὐχί"
+        },
+        {
+          "form": "εὐβουλία",
+          "lemma": "εὐβουλία",
+          "location": "428b",
+          "context": "ἡ εὐβουλία, δῆλον ὅτι ἐπιστήμη τίς ἐστιν"
+        },
+        {
+          "form": "εὔβουλος",
+          "lemma": "εὔβουλος",
+          "location": "428b",
+          "context": "σοφὴ καὶ εὔβουλος ἡ πόλις"
+        },
+        {
+          "form": "εὔβουλον",
+          "lemma": "εὔβουλος",
+          "location": "428d",
+          "context": "εὔβουλον ... καὶ τῷ ὄντι σοφήν"
+        },
+        {
+          "form": "βουλευομένη",
+          "lemma": "βουλεύω",
+          "location": "428c",
+          "context": "βουλευομένη ὡς ἂν ἔχοι βέλτιστα"
+        },
+        {
+          "form": "βουλεύονται",
+          "lemma": "βουλεύω",
+          "location": "428b",
+          "context": "ἐπιστήμῃ εὖ βουλεύονται"
+        },
+        {
+          "form": "βουλεύεται",
+          "lemma": "βουλεύω",
+          "location": "428d",
+          "context": "οὐχ ὑπὲρ τῶν ἐν τῇ πόλει τινὸς βουλεύεται"
+        }
+      ],
+      "observation": "The εὐβουλ-/βουλεύω family recurs densely, linking good counsel to ἐπιστήμη and distinguishing deliberation about parts from deliberation about the whole."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σμικροτάτῳ",
+          "lemma": "σμικρός",
+          "location": "428e",
+          "context": "τῷ σμικροτάτῳ ἄρα ἔθνει καὶ μέρει ἑαυτῆς"
+        },
+        {
+          "form": "ὅλη",
+          "lemma": "ὅλος",
+          "location": "428e",
+          "context": "ὅλη σοφὴ ἂν εἴη ... πόλις"
+        },
+        {
+          "form": "ὀλίγιστοι",
+          "lemma": "ὀλίγος",
+          "location": "428e",
+          "context": "πάντων τούτων οὗτοι ἂν εἶεν ὀλίγιστοι"
+        },
+        {
+          "form": "ὀλίγιστον",
+          "lemma": "ὀλίγος",
+          "location": "429a",
+          "context": "φύσει ὀλίγιστον γίγνεται γένος"
+        }
+      ],
+      "observation": "The smallest (σμικροτάτῳ) and fewest (ὀλίγιστοι, ὀλίγιστον) part makes the whole (ὅλη) city wise—a contrast between part-size and whole-city predication."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄτοπον",
+          "lemma": "ἄτοπος",
+          "location": "428b",
+          "context": "καί τι ἄτοπον περὶ αὐτὴν φαίνεται"
+        }
+      ],
+      "observation": "σοφία is introduced with the remark that something ἄτοπον (strange) appears concerning it, flagging the result as surprising before the argument proceeds."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "τέτταρα",
+          "lemma": "τέτταρες",
+          "location": "428a",
+          "context": "τέτταρα ὄντα τυγχάνει"
+        },
+        {
+          "form": "τεττάρων",
+          "lemma": "τέτταρες",
+          "location": "428a",
+          "context": "ἄλλων τινῶν τεττάρων"
+        },
+        {
+          "form": "τεττάρων",
+          "lemma": "τέτταρες",
+          "location": "429a",
+          "context": "ἓν τῶν τεττάρων"
+        }
+      ],
+      "observation": "τέτταρες recurs to frame the method: four virtues, four items in analogy, and then one of the four found."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὑπέσχου",
+          "lemma": "ὑπισχνέομαι",
+          "location": "427d",
+          "context": "σὺ γὰρ ὑπέσχου ζητήσειν"
+        },
+        {
+          "form": "ὅσιόν",
+          "lemma": "ὅσιος",
+          "location": "427e",
+          "context": "ὡς οὐχ ὅσιόν σοι ὂν μὴ οὐ βοηθεῖν δικαιοσύνῃ"
+        },
+        {
+          "form": "συλλαμβάνειν",
+          "lemma": "συλλαμβάνω",
+          "location": "427e",
+          "context": "χρὴ δὲ καὶ ὑμᾶς συλλαμβάνειν"
+        },
+        {
+          "form": "ποιήσομεν",
+          "lemma": "ποιέω",
+          "location": "427e",
+          "context": "ποιήσομεν οὕτω"
+        }
+      ],
+      "observation": "Glaucon reminds Socrates of his promise and its religious obligation (οὐχ ὅσιον); Socrates accepts but demands they help (συλλαμβάνειν); Glaucon agrees (ποιήσομεν)—a rapid exchange of obligation and assent."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὑπὲρ τῶν ἐν τῇ πόλει τινὸς",
+          "lemma": null,
+          "location": "428d",
+          "context": "οὐχ ὑπὲρ τῶν ἐν τῇ πόλει τινὸς βουλεύεται"
+        },
+        {
+          "form": "ὑπὲρ αὑτῆς ὅλης",
+          "lemma": null,
+          "location": "428d",
+          "context": "ἀλλʼ ὑπὲρ αὑτῆς ὅλης"
+        }
+      ],
+      "observation": "The decisive ἐπιστήμη is distinguished by its object: not about some particular thing in the city (τινός) but about the city as a whole (αὑτῆς ὅλης)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔγνωμεν",
+          "lemma": "γιγνώσκω",
+          "location": "428a",
+          "context": "ὁπότε πρῶτον ἐκεῖνο ἔγνωμεν"
+        },
+        {
+          "form": "ἐγνωρίσαμεν",
+          "lemma": "γνωρίζω",
+          "location": "428a",
+          "context": "τὰ τρία πρότερον ἐγνωρίσαμεν"
+        },
+        {
+          "form": "ἐγνώριστο",
+          "lemma": "γνωρίζω",
+          "location": "428a",
+          "context": "αὐτῷ ἂν τούτῳ ἐγνώριστο τὸ ζητούμενον"
+        }
+      ],
+      "observation": "γιγνώσκω and γνωρίζω cluster in the methodological analogy about recognizing one of four items by elimination."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνῃ",
+          "lemma": "λανθάνω",
+          "location": "427d",
+          "context": "ἐάντε λανθάνῃ ἐάντε μὴ πάντας θεούς τε καὶ ἀνθρώπους"
+        }
+      ],
+      "observation": "The question of whether the possessor of justice escapes notice (λανθάνῃ) of all gods and humans is posed as part of the search's scope."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἵδρυται",
+          "lemma": "ἱδρύω",
+          "location": "429a",
+          "context": "ὅπου τῆς πόλεως ἵδρυται"
+        }
+      ],
+      "observation": "Wisdom is described as seated or established (ἵδρυται) in a specific location within the city, giving the virtue a spatial placement."
+    }
+  ]
+}
