@@ -1,0 +1,594 @@
+{
+  "section_id": "republic-chapter-07-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "529a",
+          "context": "ἀναγκάζει ψυχὴν εἰς τὸ ἄνω ὁρᾶν"
+        },
+        {
+          "form": "κάτω",
+          "lemma": "κάτω",
+          "location": "529a",
+          "context": "πάνυ ποιεῖν κάτω βλέπειν"
+        },
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "529b",
+          "context": "ἄνω ποιοῦν ψυχὴν βλέπειν μάθημα"
+        },
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "529c",
+          "context": "οὔτε ἄνω ἀλλὰ κάτω αὐτοῦ βλέπειν τὴν ψυχήν"
+        },
+        {
+          "form": "κάτω",
+          "lemma": "κάτω",
+          "location": "529c",
+          "context": "οὔτε ἄνω ἀλλὰ κάτω αὐτοῦ βλέπειν"
+        }
+      ],
+      "observation": "ἄνω and κάτω recur in opposition throughout, each time paired with the soul's direction of looking (βλέπειν). Socrates reverses the expected assignment: looking physically upward can be κάτω for the soul."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "529a",
+          "context": "εἰς τὸ ἄνω ὁρᾶν"
+        },
+        {
+          "form": "θεώμενος",
+          "lemma": "θεάομαι",
+          "location": "529b",
+          "context": "ποικίλματα θεώμενος"
+        },
+        {
+          "form": "ὄμμασι",
+          "lemma": "ὄμμα",
+          "location": "529b",
+          "context": "ὄμμασι θεωρεῖν"
+        },
+        {
+          "form": "ὄψει",
+          "lemma": "ὄψις",
+          "location": "529d",
+          "context": "ὄψει δʼ οὔ"
+        },
+        {
+          "form": "ὁρώμενα",
+          "lemma": "ὁράω",
+          "location": "530b",
+          "context": "σῶμά τε ἔχοντα καὶ ὁρώμενα"
+        },
+        {
+          "form": "ἰδών",
+          "lemma": "ὁράω",
+          "location": "529e",
+          "context": "ἰδὼν τὰ τοιαῦτα"
+        },
+        {
+          "form": "ἀποβλέποντα",
+          "lemma": "ἀποβλέπω",
+          "location": "530a",
+          "context": "εἰς τὰς τῶν ἄστρων φορὰς ἀποβλέποντα"
+        }
+      ],
+      "observation": "A dense cluster of seeing-words (ὁράω, θεάομαι, θεωρέω, ὄμμα, ὄψις, ἀποβλέπω) runs through the section, consistently distinguished from intellectual apprehension."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποικίλματα",
+          "lemma": "ποίκιλμα",
+          "location": "529b",
+          "context": "ἐν ὀροφῇ ποικίλματα θεώμενος"
+        },
+        {
+          "form": "ποικίλματα",
+          "lemma": "ποίκιλμα",
+          "location": "529c",
+          "context": "τὰ ἐν τῷ οὐρανῷ ποικίλματα"
+        },
+        {
+          "form": "πεποίκιλται",
+          "lemma": "ποικίλλω",
+          "location": "529c",
+          "context": "ἐν ὁρατῷ πεποίκιλται"
+        },
+        {
+          "form": "ποικιλίᾳ",
+          "lemma": "ποικιλία",
+          "location": "529d",
+          "context": "τῇ περὶ τὸν οὐρανὸν ποικιλίᾳ"
+        }
+      ],
+      "observation": "The ποικιλ- family recurs four times: ceiling ornaments, heavenly ornaments, the verb of their making, and the abstract noun—linking craft decoration to the visible sky."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μανθάνειν",
+          "lemma": "μανθάνω",
+          "location": "529b",
+          "context": "τῶν αἰσθητῶν τι ἐπιχειρῇ μανθάνειν"
+        },
+        {
+          "form": "μαθεῖν",
+          "lemma": "μανθάνω",
+          "location": "529b",
+          "context": "οὔτε μαθεῖν ἄν ποτέ φημι αὐτόν"
+        },
+        {
+          "form": "μανθάνῃ",
+          "lemma": "μανθάνω",
+          "location": "529c",
+          "context": "ἐν γῇ ἢ ἐν θαλάττῃ μανθάνῃ"
+        },
+        {
+          "form": "μανθάνειν",
+          "lemma": "μανθάνω",
+          "location": "529c",
+          "context": "ἀστρονομίαν μανθάνειν"
+        },
+        {
+          "form": "μανθάνουσιν",
+          "lemma": "μανθάνω",
+          "location": "529c",
+          "context": "παρὰ ἃ νῦν μανθάνουσιν"
+        },
+        {
+          "form": "μαθήσεσθαι",
+          "lemma": "μανθάνω",
+          "location": "529c",
+          "context": "ὠφελίμως πρὸς ἃ λέγομεν μαθήσεσθαι"
+        },
+        {
+          "form": "μάθησιν",
+          "lemma": "μάθησις",
+          "location": "529a",
+          "context": "τὴν περὶ τὰ ἄνω μάθησιν"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "529b",
+          "context": "ἄνω ποιοῦν ψυχὴν βλέπειν μάθημα"
+        },
+        {
+          "form": "μαθήσεως",
+          "lemma": "μάθησις",
+          "location": "529d",
+          "context": "τῆς πρὸς ἐκεῖνα μαθήσεως"
+        }
+      ],
+      "observation": "μανθάνω and its cognates (μάθησις, μάθημα) are densely recurrent, with a persistent contrast between learning directed at sensible things and learning directed at what truly is."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νοήσει",
+          "lemma": "νόησις",
+          "location": "529b",
+          "context": "νοήσει ἀλλʼ οὐκ ὄμμασι θεωρεῖν"
+        },
+        {
+          "form": "ὄμμασι",
+          "lemma": "ὄμμα",
+          "location": "529b",
+          "context": "νοήσει ἀλλʼ οὐκ ὄμμασι θεωρεῖν"
+        }
+      ],
+      "observation": "νόησις and ὄμμα are set in explicit opposition via ἀλλʼ οὐκ as two modes of θεωρεῖν."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνακύπτων",
+          "lemma": "ἀνακύπτω",
+          "location": "529b",
+          "context": "ἀνακύπτων καταμανθάνοι τι"
+        },
+        {
+          "form": "κεχηνώς",
+          "lemma": "χαίνω",
+          "location": "529b",
+          "context": "ἄνω κεχηνὼς"
+        },
+        {
+          "form": "συμμεμυκώς",
+          "lemma": "συμμύω",
+          "location": "529b",
+          "context": "κάτω συμμεμυκὼς"
+        }
+      ],
+      "observation": "Three bodily postures—tilting up, gaping upward, squinting downward—are set in sequence, all dismissed as irrelevant to genuine upward learning."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ὄν",
+          "lemma": "εἰμί",
+          "location": "529b",
+          "context": "περὶ τὸ ὄν τε ᾖ καὶ τὸ ἀόρατον"
+        },
+        {
+          "form": "τὸ ἀόρατον",
+          "lemma": "ἀόρατος",
+          "location": "529b",
+          "context": "περὶ τὸ ὄν τε ᾖ καὶ τὸ ἀόρατον"
+        },
+        {
+          "form": "ὁρατῷ",
+          "lemma": "ὁρατός",
+          "location": "529c",
+          "context": "ἐν ὁρατῷ πεποίκιλται"
+        }
+      ],
+      "observation": "τὸ ἀόρατον characterizes the true object of the μάθημα; ὁρατῷ characterizes the heaven's ornament—an explicit visible/invisible pairing."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργοῦ",
+          "lemma": "δημιουργός",
+          "location": "529e",
+          "context": "ὑπὸ Δαιδάλου ἤ τινος ἄλλου δημιουργοῦ"
+        },
+        {
+          "form": "γραφέως",
+          "lemma": "γραφεύς",
+          "location": "529e",
+          "context": "ἢ γραφέως"
+        },
+        {
+          "form": "Δαιδάλου",
+          "lemma": "Δαίδαλος",
+          "location": "529e",
+          "context": "ὑπὸ Δαιδάλου"
+        },
+        {
+          "form": "δημιουργῷ",
+          "lemma": "δημιουργός",
+          "location": "530a",
+          "context": "τῷ τοῦ οὐρανοῦ δημιουργῷ"
+        }
+      ],
+      "observation": "Daedalus, δημιουργός, and γραφεύς form a craft cluster; δημιουργός then transfers from the human craftsman analogy to the maker of the heaven."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διαγράμμασιν",
+          "lemma": "διάγραμμα",
+          "location": "529e",
+          "context": "ἐκπεπονημένοις διαγράμμασιν"
+        },
+        {
+          "form": "γεωμετρίας",
+          "lemma": "γεωμετρία",
+          "location": "529e",
+          "context": "ἔμπειρος γεωμετρίας"
+        },
+        {
+          "form": "γεωμετρίαν",
+          "lemma": "γεωμετρία",
+          "location": "530b",
+          "context": "ὥσπερ γεωμετρίαν οὕτω καὶ ἀστρονομίαν"
+        }
+      ],
+      "observation": "γεωμετρία appears first as the field whose expert would laugh at taking diagrams for truth, then returns as the explicit model for how astronomy should be pursued."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συμμετρίας",
+          "lemma": "συμμετρία",
+          "location": "530a",
+          "context": "ἄλλης τινὸς συμμετρίας"
+        },
+        {
+          "form": "συμμετρίαν",
+          "lemma": "συμμετρία",
+          "location": "530a",
+          "context": "τὴν δὲ νυκτὸς πρὸς ἡμέραν συμμετρίαν"
+        }
+      ],
+      "observation": "συμμετρία appears first for geometric proportion (among equals and doubles) and immediately again for astronomical ratios (night to day, month to year)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τάχος",
+          "lemma": "τάχος",
+          "location": "529d",
+          "context": "τὸ ὂν τάχος"
+        },
+        {
+          "form": "βραδυτής",
+          "lemma": "βραδυτής",
+          "location": "529d",
+          "context": "ἡ οὖσα βραδυτής"
+        },
+        {
+          "form": "φοράς",
+          "lemma": "φορά",
+          "location": "529d",
+          "context": "φοράς τε πρὸς ἄλληλα φέρεται"
+        },
+        {
+          "form": "φέρει",
+          "lemma": "φέρω",
+          "location": "529d",
+          "context": "τὰ ἐνόντα φέρει"
+        },
+        {
+          "form": "φοράς",
+          "lemma": "φορά",
+          "location": "530a",
+          "context": "τὰς τῶν ἄστρων φορὰς"
+        }
+      ],
+      "observation": "A motion cluster—speed, slowness, carrying, orbits—describes the true astronomical realities, with φορά recurring for the movements of the stars."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθινῷ",
+          "lemma": "ἀληθινός",
+          "location": "529d",
+          "context": "ἐν τῷ ἀληθινῷ ἀριθμῷ"
+        },
+        {
+          "form": "ἀληθέσι",
+          "lemma": "ἀληθής",
+          "location": "529d",
+          "context": "πᾶσι τοῖς ἀληθέσι σχήμασι"
+        },
+        {
+          "form": "ἀλήθειαν",
+          "lemma": "ἀλήθεια",
+          "location": "529e",
+          "context": "τὴν ἀλήθειαν ἐν αὐτοῖς ληψόμενον"
+        },
+        {
+          "form": "ἀλήθειαν",
+          "lemma": "ἀλήθεια",
+          "location": "530b",
+          "context": "ζητεῖν παντὶ τρόπῳ τὴν ἀλήθειαν αὐτῶν λαβεῖν"
+        }
+      ],
+      "observation": "ἀληθινός/ἀλήθεια recurs: true number, true figures, and the truth one seeks—each time contrasted with visible counterparts."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κάλλιστα",
+          "lemma": "καλός",
+          "location": "529c",
+          "context": "κάλλιστα μὲν ἡγεῖσθαι"
+        },
+        {
+          "form": "κάλλιστα",
+          "lemma": "καλός",
+          "location": "529e",
+          "context": "κάλλιστα μὲν ἔχειν ἀπεργασίᾳ"
+        },
+        {
+          "form": "κάλλιστα",
+          "lemma": "καλός",
+          "location": "530a",
+          "context": "ὡς οἷόν τε κάλλιστα τὰ τοιαῦτα ἔργα συστήσασθαι"
+        }
+      ],
+      "observation": "κάλλιστα appears three times, each time conceding the beauty of the visible product while asserting its insufficiency for truth."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "529d",
+          "context": "λόγῳ μὲν καὶ διανοίᾳ ληπτά"
+        },
+        {
+          "form": "διανοίᾳ",
+          "lemma": "διάνοια",
+          "location": "529d",
+          "context": "λόγῳ μὲν καὶ διανοίᾳ ληπτά"
+        },
+        {
+          "form": "φρόνιμον",
+          "lemma": "φρόνιμος",
+          "location": "530c",
+          "context": "τὸ φύσει φρόνιμον ἐν τῇ ψυχῇ"
+        }
+      ],
+      "observation": "λόγος, διάνοια, and φρόνιμον name intellectual capacities set against sight; λόγος and διάνοια are paired as the means of grasping true motions, φρόνιμον names the innately intelligent element in the soul."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "529e",
+          "context": "γελοῖον μὴν ἐπισκοπεῖν αὐτὰ σπουδῇ"
+        },
+        {
+          "form": "σπουδῇ",
+          "lemma": "σπουδή",
+          "location": "529e",
+          "context": "ἐπισκοπεῖν αὐτὰ σπουδῇ"
+        },
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "530a",
+          "context": "τί δʼ οὐ μέλλει γελοῖον εἶναι"
+        }
+      ],
+      "observation": "γελοῖον appears twice in close succession, marking as laughable the earnest (σπουδῇ) scrutiny of visible diagrams or heavens for truth."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ψυχήν",
+          "lemma": "ψυχή",
+          "location": "529a",
+          "context": "ἀναγκάζει ψυχὴν εἰς τὸ ἄνω ὁρᾶν"
+        },
+        {
+          "form": "ψυχὴν",
+          "lemma": "ψυχή",
+          "location": "529b",
+          "context": "ἄνω ποιοῦν ψυχὴν βλέπειν"
+        },
+        {
+          "form": "ψυχήν",
+          "lemma": "ψυχή",
+          "location": "529c",
+          "context": "κάτω αὐτοῦ βλέπειν τὴν ψυχήν"
+        },
+        {
+          "form": "ψυχῇ",
+          "lemma": "ψυχή",
+          "location": "530c",
+          "context": "τὸ φύσει φρόνιμον ἐν τῇ ψυχῇ"
+        }
+      ],
+      "observation": "ψυχή recurs as the subject whose direction of looking is at issue; its final appearance names an innately intelligent element within it that astronomy should render useful."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐπέπληξας",
+          "lemma": "ἐπιπλήττω",
+          "location": "529c",
+          "context": "ὀρθῶς γάρ μοι ἐπέπληξας"
+        },
+        {
+          "form": "δίκην",
+          "lemma": "δίκη",
+          "location": "529c",
+          "context": "δίκην ἔχω"
+        }
+      ],
+      "observation": "Glaucon accepts Socrates' rebuke: δίκην ἔχω (I have my punishment) and ὀρθῶς ἐπέπληξας (you rebuked me rightly) mark a concession completing Socrates' correction."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐξ ὑπτίας νέων",
+          "lemma": null,
+          "location": "529c",
+          "context": "κἂν ἐξ ὑπτίας νέων ἐν γῇ ἢ ἐν θαλάττῃ μανθάνῃ"
+        }
+      ],
+      "observation": "Swimming on one's back in sea or on land is a striking image for someone attempting to learn sensible things while physically oriented upward—combining bodily posture with an absurd spatial scenario."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παραδείγμασι",
+          "lemma": "παράδειγμα",
+          "location": "529d",
+          "context": "παραδείγμασι χρηστέον"
+        },
+        {
+          "form": "προβλήμασιν",
+          "lemma": "πρόβλημα",
+          "location": "530b",
+          "context": "προβλήμασιν ἄρα χρώμενοι"
+        }
+      ],
+      "observation": "παράδειγμα and πρόβλημα each appear with χράομαι: the heavenly ornaments are to be used as models/paradigms, then astronomy is to be pursued through problems, paralleling geometry's method."
+    }
+  ]
+}
