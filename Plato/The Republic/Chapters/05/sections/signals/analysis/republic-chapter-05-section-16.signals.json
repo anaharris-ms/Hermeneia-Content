@@ -1,0 +1,390 @@
+{
+  "section_id": "republic-chapter-05-section-16",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φιλήκοοι",
+          "lemma": "φιλήκοος",
+          "location": "476b",
+          "context": null
+        },
+        {
+          "form": "φιλοθεάμονες",
+          "lemma": "φιλοθεάμων",
+          "location": "476b",
+          "context": null
+        }
+      ],
+      "observation": "Two compound φιλο- adjectives name the lovers of sights and sounds as a pair."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φωνὰς",
+          "lemma": "φωνή",
+          "location": "476b",
+          "context": "τάς τε καλὰς φωνὰς"
+        },
+        {
+          "form": "χρόας",
+          "lemma": "χρόα",
+          "location": "476b",
+          "context": null
+        },
+        {
+          "form": "σχήματα",
+          "lemma": "σχῆμα",
+          "location": "476b",
+          "context": null
+        }
+      ],
+      "observation": "Three concrete sensible particulars—voices, colors, shapes—are listed as objects the sight-lovers embrace."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀσπάζονται",
+          "lemma": "ἀσπάζομαι",
+          "location": "476b",
+          "context": "τάς τε καλὰς φωνὰς ἀσπάζονται"
+        },
+        {
+          "form": "ἀσπάσασθαι",
+          "lemma": "ἀσπάζομαι",
+          "location": "476b",
+          "context": "τὴν φύσιν ἰδεῖν τε καὶ ἀσπάσασθαι"
+        }
+      ],
+      "observation": "ἀσπάζομαι appears first for the sight-lovers embracing beautiful particulars, then for their inability to embrace the nature of the beautiful itself."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατος",
+          "lemma": "ἀδύνατος",
+          "location": "476b",
+          "context": "ἀδύνατος αὐτῶν ἡ διάνοια"
+        },
+        {
+          "form": "δυνατοὶ",
+          "lemma": "δυνατός",
+          "location": "476b",
+          "context": "ἐπʼ αὐτὸ τὸ καλὸν δυνατοὶ ἰέναι"
+        }
+      ],
+      "observation": "ἀδύνατος describes the sight-lovers' thought; δυνατοί describes those able to approach the beautiful itself."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "476c",
+          "context": "ὄναρ ἢ ὕπαρ δοκεῖ σοι ζῆν"
+        },
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "476c",
+          "context": null
+        },
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "476d",
+          "context": "καὶ μάλα ὕπαρ"
+        }
+      ],
+      "observation": "The dreaming/waking pair is posed as a question for the opinion-holder, then answered as ὕπαρ for the one who sees the beautiful itself."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀνειρώττειν",
+          "lemma": "ὀνειρώττω",
+          "location": "476c",
+          "context": "τὸ ὀνειρώττειν ἆρα οὐ τόδε ἐστίν"
+        },
+        {
+          "form": "ὀνειρώττειν",
+          "lemma": "ὀνειρώττω",
+          "location": "476c",
+          "context": "φαίην ὀνειρώττειν τὸν τοιοῦτον"
+        }
+      ],
+      "observation": "ὀνειρώττειν is defined and then immediately applied to the person who mistakes likenesses for originals."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὅμοιόν",
+          "lemma": "ὅμοιος",
+          "location": "476c",
+          "context": "τὸ ὅμοιόν τῳ μὴ ὅμοιον ἀλλʼ αὐτὸ ἡγῆται εἶναι ᾧ ἔοικεν"
+        }
+      ],
+      "observation": "The definition of dreaming turns on taking the likeness (ὅμοιον) for the thing itself (αὐτό) it resembles."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μετέχοντα",
+          "lemma": "μετέχω",
+          "location": "476d",
+          "context": "τὰ ἐκείνου μετέχοντα"
+        },
+        {
+          "form": "μετέχοντα",
+          "lemma": "μετέχω",
+          "location": "476d",
+          "context": "οὔτε τὰ μετέχοντα αὐτὸ οὔτε αὐτὸ τὰ μετέχοντα"
+        }
+      ],
+      "observation": "μετέχοντα appears three times in close succession describing the participatory relation and the waking person's ability to distinguish participants from the thing itself."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γνώμην",
+          "lemma": "γνώμη",
+          "location": "476d",
+          "context": "τὴν διάνοιαν ὡς γιγνώσκοντος γνώμην"
+        },
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "476d",
+          "context": "τοῦ δὲ δόξαν ὡς δοξάζοντος"
+        }
+      ],
+      "observation": "γνώμη and δόξα are assigned to the two types: the knower's thought is γνώμη, the opiner's is δόξα."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γιγνώσκοντος",
+          "lemma": "γιγνώσκω",
+          "location": "476d",
+          "context": null
+        },
+        {
+          "form": "γιγνώσκειν",
+          "lemma": "γιγνώσκω",
+          "location": "476d",
+          "context": "δοξάζειν ἀλλʼ οὐ γιγνώσκειν"
+        },
+        {
+          "form": "γιγνώσκων",
+          "lemma": "γιγνώσκω",
+          "location": "476e",
+          "context": "ὁ γιγνώσκων γιγνώσκει τὶ ἢ οὐδέν"
+        },
+        {
+          "form": "γνωσθείη",
+          "lemma": "γιγνώσκω",
+          "location": "477a",
+          "context": null
+        },
+        {
+          "form": "γνωστόν",
+          "lemma": "γνωστός",
+          "location": "477a",
+          "context": "παντελῶς ὂν παντελῶς γνωστόν"
+        }
+      ],
+      "observation": "Forms of γιγνώσκω recur densely from 476d through 477a as the argument moves from naming the knower to establishing that the fully real is fully knowable."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παραμυθεῖσθαι",
+          "lemma": "παραμυθέομαι",
+          "location": "476e",
+          "context": "ἕξομέν τι παραμυθεῖσθαι αὐτὸν καὶ πείθειν ἠρέμα"
+        },
+        {
+          "form": "πείθειν",
+          "lemma": "πείθω",
+          "location": "476e",
+          "context": null
+        },
+        {
+          "form": "ἐπικρυπτόμενοι",
+          "lemma": "ἐπικρύπτω",
+          "location": "476e",
+          "context": "ἐπικρυπτόμενοι ὅτι οὐχ ὑγιαίνει"
+        }
+      ],
+      "observation": "The proposed approach to the opinion-holder combines soothing (παραμυθεῖσθαι), gentle persuading (πείθειν ἠρέμα), and concealing (ἐπικρυπτόμενοι) that he is not healthy (οὐχ ὑγιαίνει)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἶδεν",
+          "lemma": "οἶδα",
+          "location": "476e",
+          "context": "εἴ τι οἶδεν"
+        },
+        {
+          "form": "εἰδότα",
+          "lemma": "οἶδα",
+          "location": "476e",
+          "context": "ἴδοιμεν εἰδότα τι"
+        }
+      ],
+      "observation": "οἶδα appears twice in the conciliatory address, framing the approach as welcoming anyone who knows something."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὂν",
+          "lemma": "εἰμί",
+          "location": "476e",
+          "context": "πότερον ὂν ἢ οὐκ ὄν"
+        },
+        {
+          "form": "παντελῶς ὂν",
+          "lemma": null,
+          "location": "477a",
+          "context": "τὸ μὲν παντελῶς ὂν παντελῶς γνωστόν"
+        },
+        {
+          "form": "μὴ ὂν",
+          "lemma": null,
+          "location": "477a",
+          "context": "μὴ ὂν δὲ μηδαμῇ πάντῃ ἄγνωστον"
+        }
+      ],
+      "observation": "The section concludes by correlating degrees of being with degrees of knowability: παντελῶς ὄν with παντελῶς γνωστόν, μὴ ὄν with πάντῃ ἄγνωστον."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γνωστόν",
+          "lemma": "γνωστός",
+          "location": "477a",
+          "context": "παντελῶς γνωστόν"
+        },
+        {
+          "form": "ἄγνωστον",
+          "lemma": "ἄγνωστος",
+          "location": "477a",
+          "context": "πάντῃ ἄγνωστον"
+        }
+      ],
+      "observation": "γνωστόν and ἄγνωστον stand as opposites at the section's close, each qualified by a totalizing adverb."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διάνοια",
+          "lemma": "διάνοια",
+          "location": "476b",
+          "context": "αὐτοῦ δὲ τοῦ καλοῦ ἀδύνατος αὐτῶν ἡ διάνοια"
+        },
+        {
+          "form": "διάνοιαν",
+          "lemma": "διάνοια",
+          "location": "476d",
+          "context": "τούτου μὲν τὴν διάνοιαν ὡς γιγνώσκοντος"
+        }
+      ],
+      "observation": "διάνοια first names the thought that cannot reach the beautiful itself, then names the thought of the one who does know—applied to contrasting figures."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργούμενα",
+          "lemma": "δημιουργέω",
+          "location": "476b",
+          "context": "πάντα τὰ ἐκ τῶν τοιούτων δημιουργούμενα"
+        }
+      ],
+      "observation": "δημιουργούμενα names the crafted products made from beautiful voices, colors, and shapes—the objects the sight-lovers embrace."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σπάνιοι",
+          "lemma": "σπάνιος",
+          "location": "476b",
+          "context": "ἆρα οὐ σπάνιοι ἂν εἶεν"
+        }
+      ],
+      "observation": "Those able to approach the beautiful itself are called σπάνιοι—rare."
+    }
+  ]
+}
