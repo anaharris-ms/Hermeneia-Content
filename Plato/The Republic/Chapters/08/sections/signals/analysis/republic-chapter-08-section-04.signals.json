@@ -1,0 +1,556 @@
+{
+  "section_id": "republic-chapter-08-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "πλούσιοι",
+          "lemma": "πλούσιος",
+          "location": "550d",
+          "context": "οἱ μὲν πλούσιοι ἄρχουσιν"
+        },
+        {
+          "form": "πένητι",
+          "lemma": "πένης",
+          "location": "550d",
+          "context": "πένητι δὲ οὐ μέτεστιν ἀρχῆς"
+        }
+      ],
+      "observation": "The defining contrast of oligarchy is stated as a μέν/δέ opposition between πλούσιοι who rule and πένης who has no share in rule."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πένητι",
+          "lemma": "πένης",
+          "location": "550d",
+          "context": null
+        },
+        {
+          "form": "πένητα",
+          "lemma": "πένης",
+          "location": "552a",
+          "context": "πένητα καὶ ἄπορον κεκλημένον"
+        },
+        {
+          "form": "πένητες",
+          "lemma": "πένης",
+          "location": "552b",
+          "context": "οἱ δὲ παντάπασι πένητες"
+        },
+        {
+          "form": "πενήτων",
+          "lemma": "πένης",
+          "location": "551d",
+          "context": "τὴν μὲν πενήτων"
+        }
+      ],
+      "observation": "Forms of πένης recur throughout, marking the poor at the definition, the divided city, the dispossessed citizen, and the extreme outcome."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τιμημάτων",
+          "lemma": "τίμημα",
+          "location": "550c",
+          "context": "τὴν ἀπὸ τιμημάτων πολιτείαν"
+        },
+        {
+          "form": "τιμιώτερον",
+          "lemma": "τίμιος",
+          "location": "550e",
+          "context": null
+        },
+        {
+          "form": "ἀτιμοτέραν",
+          "lemma": "ἄτιμος",
+          "location": "550e",
+          "context": "ἀρετὴν ἀτιμοτέραν"
+        },
+        {
+          "form": "τιμωμένου",
+          "lemma": "τιμάω",
+          "location": "551a",
+          "context": null
+        },
+        {
+          "form": "ἀτιμαζόμενον",
+          "lemma": "ἀτιμάζω",
+          "location": "551a",
+          "context": null
+        },
+        {
+          "form": "φιλοτίμων",
+          "lemma": "φιλότιμος",
+          "location": "551a",
+          "context": null
+        },
+        {
+          "form": "ἀτιμάζουσι",
+          "lemma": "ἀτιμάζω",
+          "location": "551a",
+          "context": null
+        },
+        {
+          "form": "τίμημα",
+          "lemma": "τίμημα",
+          "location": "551b",
+          "context": "εἰς τὸ ταχθὲν τίμημα"
+        }
+      ],
+      "observation": "The τιμ- root appears densely across the section in forms meaning property-assessment, honour, dishonour, and love of honour, linking the valuation of wealth to the devaluation of virtue."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πλούτου",
+          "lemma": "πλοῦτος",
+          "location": "550e",
+          "context": null
+        },
+        {
+          "form": "ἀρετὴ",
+          "lemma": "ἀρετή",
+          "location": "550e",
+          "context": "πλούτου ἀρετὴ διέστηκεν"
+        },
+        {
+          "form": "πλάστιγγι ζυγοῦ",
+          "lemma": null,
+          "location": "550e",
+          "context": "ὥσπερ ἐν πλάστιγγι ζυγοῦ κειμένου ἑκατέρου"
+        }
+      ],
+      "observation": "Wealth and virtue are set in explicit opposition as two things lying on the pans of a balance scale (πλάστιγξ ζυγοῦ), always tipping in opposite directions."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φιλοχρηματισταὶ",
+          "lemma": "φιλοχρηματιστής",
+          "location": "551a",
+          "context": null
+        },
+        {
+          "form": "φιλοχρήματοι",
+          "lemma": "φιλοχρήματος",
+          "location": "551a",
+          "context": null
+        },
+        {
+          "form": "φιλοχρημάτους",
+          "lemma": "φιλοχρήματος",
+          "location": "551e",
+          "context": null
+        },
+        {
+          "form": "χρηματίζεσθαι",
+          "lemma": "χρηματίζω",
+          "location": "550e",
+          "context": null
+        },
+        {
+          "form": "χρημάτων",
+          "lemma": "χρήματα",
+          "location": "551b",
+          "context": null
+        },
+        {
+          "form": "χρήματα",
+          "lemma": "χρήματα",
+          "location": "551e",
+          "context": "χρήματα μὴ ἐθέλειν εἰσφέρειν"
+        },
+        {
+          "form": "χρηματιζομένους",
+          "lemma": "χρηματίζω",
+          "location": "552a",
+          "context": null
+        },
+        {
+          "form": "χρηματιστὴν",
+          "lemma": "χρηματιστής",
+          "location": "552a",
+          "context": null
+        }
+      ],
+      "observation": "The χρημα- family is densely concentrated across the section in nouns, compound adjectives, and verbal forms."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φιλονίκων καὶ φιλοτίμων",
+          "lemma": null,
+          "location": "551a",
+          "context": "ἀντὶ δὴ φιλονίκων καὶ φιλοτίμων ἀνδρῶν"
+        },
+        {
+          "form": "φιλοχρηματισταὶ καὶ φιλοχρήματοι",
+          "lemma": null,
+          "location": "551a",
+          "context": null
+        }
+      ],
+      "observation": "The φιλο- compound pattern shifts: men formerly φιλόνικοι and φιλότιμοι become φιλοχρηματισταί and φιλοχρήματοι, the same morphological structure marking a changed object of desire."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ταμιεῖον",
+          "lemma": "ταμιεῖον",
+          "location": "550d",
+          "context": "τὸ ταμιεῖον ἐκεῖνο ἑκάστῳ χρυσίου πληρούμενον"
+        },
+        {
+          "form": "ἀπόλλυσι",
+          "lemma": "ἀπόλλυμι",
+          "location": "550d",
+          "context": "ἀπόλλυσι τὴν τοιαύτην πολιτείαν"
+        }
+      ],
+      "observation": "The treasury (ταμιεῖον) filling with gold is named as the agent that destroys the timarchic constitution."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁρῶν",
+          "lemma": "ὁράω",
+          "location": "550e",
+          "context": "ἄλλος ἄλλον ὁρῶν"
+        },
+        {
+          "form": "ζῆλον",
+          "lemma": "ζῆλος",
+          "location": "550e",
+          "context": "εἰς ζῆλον ἰὼν"
+        }
+      ],
+      "observation": "Seeing one another (ἄλλος ἄλλον ὁρῶν) leads to emulation (εἰς ζῆλον), a sequence from sight to rivalry."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κηφὴν",
+          "lemma": "κηφήν",
+          "location": "552c",
+          "context": "ἐν κηρίῳ κηφὴν ἐγγίγνεται"
+        },
+        {
+          "form": "νόσημα",
+          "lemma": "νόσημα",
+          "location": "552c",
+          "context": "σμήνους νόσημα"
+        },
+        {
+          "form": "ἀκέντρους",
+          "lemma": "ἄκεντρος",
+          "location": "552c",
+          "context": null
+        },
+        {
+          "form": "κέντρα",
+          "lemma": "κέντρον",
+          "location": "552c",
+          "context": "δεινὰ κέντρα ἔχοντας"
+        },
+        {
+          "form": "πτηνοὺς",
+          "lemma": "πτηνός",
+          "location": "552c",
+          "context": null
+        },
+        {
+          "form": "πεζοὺς",
+          "lemma": "πεζός",
+          "location": "552c",
+          "context": null
+        }
+      ],
+      "observation": "An extended bee/drone image: κηφήν in the honeycomb as νόσημα of the hive, then a division between winged drones (all stingless) and footed drones (some with κέντρα, some without)."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πτωχοὶ",
+          "lemma": "πτωχός",
+          "location": "552c",
+          "context": "ἐκ μὲν τῶν ἀκέντρων πτωχοὶ πρὸς τὸ γῆρας τελευτῶσιν"
+        },
+        {
+          "form": "κακοῦργοι",
+          "lemma": "κακοῦργος",
+          "location": "552d",
+          "context": "ἐκ δὲ τῶν κεκεντρωμένων πάντες ὅσοι κέκληνται κακοῦργοι"
+        }
+      ],
+      "observation": "The stingless become beggars (πτωχοί) in old age; the stinged become criminals (κακοῦργοι)—two divergent outcomes from the same drone class."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κλέπται",
+          "lemma": "κλέπτης",
+          "location": "552d",
+          "context": null
+        },
+        {
+          "form": "βαλλαντιατόμοι",
+          "lemma": "βαλλαντιατόμος",
+          "location": "552d",
+          "context": null
+        },
+        {
+          "form": "ἱερόσυλοι",
+          "lemma": "ἱερόσυλος",
+          "location": "552d",
+          "context": null
+        },
+        {
+          "form": "κακῶν δημιουργοί",
+          "lemma": null,
+          "location": "552d",
+          "context": "πάντων τῶν τοιούτων κακῶν δημιουργοί"
+        }
+      ],
+      "observation": "A list of criminal types—thieves, cutpurses, temple-robbers—culminating in δημιουργοί of evils, a striking use of δημιουργός in a negative sense."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κυβερνήτας",
+          "lemma": "κυβερνήτης",
+          "location": "551c",
+          "context": "εἰ νεῶν οὕτω τις ποιοῖτο κυβερνήτας ἀπὸ τιμημάτων"
+        },
+        {
+          "form": "κυβερνητικώτερος",
+          "lemma": "κυβερνητικός",
+          "location": "551c",
+          "context": "εἰ καὶ κυβερνητικώτερος εἴη"
+        },
+        {
+          "form": "ναυτιλίαν",
+          "lemma": "ναυτιλία",
+          "location": "551c",
+          "context": "πονηράν τὴν ναυτιλίαν αὐτοὺς ναυτίλλεσθαι"
+        }
+      ],
+      "observation": "The ship analogy: selecting pilots by property-assessment rather than skill, with ναυτιλία and ναυτίλλεσθαι in close morphological echo."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μίαν",
+          "lemma": "εἷς",
+          "location": "551d",
+          "context": "τὸ μὴ μίαν ἀλλὰ δύο ἀνάγκῃ εἶναι τὴν τοιαύτην πόλιν"
+        },
+        {
+          "form": "δύο",
+          "lemma": "δύο",
+          "location": "551d",
+          "context": null
+        }
+      ],
+      "observation": "The oligarchic city is declared necessarily not one but two cities—of poor and rich—dwelling in the same place."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδόσθαι",
+          "lemma": "ἀποδίδωμι",
+          "location": "552a",
+          "context": "πάντα τὰ αὑτοῦ ἀποδόσθαι"
+        },
+        {
+          "form": "κτήσασθαι",
+          "lemma": "κτάομαι",
+          "location": "552a",
+          "context": "ἄλλῳ κτήσασθαι τὰ τούτου"
+        },
+        {
+          "form": "ἀποδόμενον",
+          "lemma": "ἀποδίδωμι",
+          "location": "552a",
+          "context": "ἀποδόμενον οἰκεῖν ἐν τῇ πόλει"
+        }
+      ],
+      "observation": "Selling (ἀποδόσθαι, ἀποδόμενον) and acquiring (κτήσασθαι) describe the transfer that creates a citizen who is no part of the city."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μήτε χρηματιστὴν",
+          "lemma": null,
+          "location": "552a",
+          "context": null
+        },
+        {
+          "form": "μήτε δημιουργὸν",
+          "lemma": null,
+          "location": "552a",
+          "context": null
+        },
+        {
+          "form": "μήτε ἱππέα",
+          "lemma": null,
+          "location": "552a",
+          "context": null
+        },
+        {
+          "form": "μήτε ὁπλίτην",
+          "lemma": null,
+          "location": "552a",
+          "context": null
+        },
+        {
+          "form": "πένητα καὶ ἄπορον",
+          "lemma": null,
+          "location": "552a",
+          "context": "ἀλλὰ πένητα καὶ ἄπορον κεκλημένον"
+        }
+      ],
+      "observation": "A fourfold μήτε list of civic roles (moneymaker, craftsman, horseman, hoplite) negated, leaving only the name πένης καὶ ἄπορος."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργὸν",
+          "lemma": "δημιουργός",
+          "location": "552a",
+          "context": "μήτε δημιουργὸν"
+        },
+        {
+          "form": "δημιουργοί",
+          "lemma": "δημιουργός",
+          "location": "552d",
+          "context": "πάντων τῶν τοιούτων κακῶν δημιουργοί"
+        }
+      ],
+      "observation": "δημιουργός appears first as a legitimate civic role the dispossessed citizen no longer holds, then returns as 'craftsmen of evils' describing hidden criminals."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀπαιδευσίαν",
+          "lemma": "ἀπαιδευσία",
+          "location": "552e",
+          "context": null
+        },
+        {
+          "form": "κακὴν τροφὴν",
+          "lemma": null,
+          "location": "552e",
+          "context": null
+        },
+        {
+          "form": "κατάστασιν τῆς πολιτείας",
+          "lemma": null,
+          "location": "552e",
+          "context": null
+        }
+      ],
+      "observation": "Three causes are named for the generation of criminal drones: lack of education, bad nurture, and the constitution's arrangement."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐγγίγνεται",
+          "lemma": "ἐγγίγνομαι",
+          "location": "552c",
+          "context": "ἐν κηρίῳ κηφὴν ἐγγίγνεται"
+        },
+        {
+          "form": "ἐγγίγνεσθαι",
+          "lemma": "ἐγγίγνομαι",
+          "location": "552c",
+          "context": "τὸν τοιοῦτον ἐν οἰκίᾳ κηφῆνα ἐγγίγνεσθαι"
+        },
+        {
+          "form": "ἐγγίγνεσθαι",
+          "lemma": "ἐγγίγνομαι",
+          "location": "552e",
+          "context": "τοὺς τοιούτους αὐτόθι ἐγγίγνεσθαι"
+        }
+      ],
+      "observation": "ἐγγίγνομαι recurs three times for the drone arising within—in the honeycomb, in the household, and in the city."
+    }
+  ]
+}
