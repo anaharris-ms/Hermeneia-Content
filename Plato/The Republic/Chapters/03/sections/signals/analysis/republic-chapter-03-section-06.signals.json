@@ -1,0 +1,489 @@
+{
+  "section_id": "republic-chapter-03-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "403d",
+          "context": "χρηστὸν ᾖ σῶμα"
+        },
+        {
+          "form": "ψυχὴν",
+          "lemma": "ψυχή",
+          "location": "403d",
+          "context": "ψυχὴν ἀγαθὴν ποιεῖν"
+        },
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "403d",
+          "context": "ψυχὴ ἀγαθὴ τῇ αὑτῆς ἀρετῇ σῶμα παρέχειν"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "403d",
+          "context": null
+        }
+      ],
+      "observation": "The expected causal direction (good body produces good soul) is stated and explicitly reversed: ψυχὴ ἀγαθή by its own ἀρετή makes the σῶμα as good as possible."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετῇ",
+          "lemma": "ἀρετή",
+          "location": "403d",
+          "context": "τῇ αὑτοῦ ἀρετῇ"
+        },
+        {
+          "form": "ἀρετῇ",
+          "lemma": "ἀρετή",
+          "location": "403d",
+          "context": "τῇ αὑτῆς ἀρετῇ"
+        }
+      ],
+      "observation": "ἀρετή appears twice in close succession, first attributed to σῶμα (αὑτοῦ) then to ψυχή (αὑτῆς)."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lexical_family",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "γυμναστικῇ",
+          "lemma": "γυμναστική",
+          "location": "403c",
+          "context": "μετὰ δὴ μουσικὴν γυμναστικῇ θρεπτέοι"
+        },
+        {
+          "form": "γυμναστικὴ",
+          "lemma": "γυμναστική",
+          "location": "404b",
+          "context": "ἡ βελτίστη γυμναστικὴ ἀδελφή τις ἂν εἴη τῆς ἁπλῆς μουσικῆς"
+        },
+        {
+          "form": "γυμναστικὴν",
+          "lemma": "γυμναστική",
+          "location": "404e",
+          "context": "κατὰ δὲ γυμναστικὴν ἐν σώμασιν ὑγίειαν"
+        }
+      ],
+      "observation": "γυμναστική recurs across the section, introduced as the next subject after μουσική, then called sister (ἀδελφή) to simple μουσική, and finally paired with μουσική in the closing contrast."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "μουσικὴν",
+          "lemma": "μουσική",
+          "location": "403c",
+          "context": "μετὰ δὴ μουσικὴν"
+        },
+        {
+          "form": "μουσικῆς",
+          "lemma": "μουσική",
+          "location": "404b",
+          "context": "τῆς ἁπλῆς μουσικῆς"
+        },
+        {
+          "form": "μουσικὴν",
+          "lemma": "μουσική",
+          "location": "404e",
+          "context": "κατὰ μὲν μουσικὴν ἐν ψυχαῖς σωφροσύνην"
+        }
+      ],
+      "observation": "μουσική frames the section: it is what precedes γυμναστική at the start, is paired with it as ἀδελφή in the middle, and at the close is assigned to ψυχαί as γυμναστική is to σώματα."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀδελφή",
+          "lemma": "ἀδελφή",
+          "location": "404b",
+          "context": "ἡ βελτίστη γυμναστικὴ ἀδελφή τις ἂν εἴη τῆς ἁπλῆς μουσικῆς"
+        }
+      ],
+      "observation": "The best gymnastics is called ἀδελφή (sister) of simple music, a kinship term applied to two disciplines."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἁπλῆς",
+          "lemma": "ἁπλοῦς",
+          "location": "404b",
+          "context": "τῆς ἁπλῆς μουσικῆς"
+        },
+        {
+          "form": "ἁπλῆ",
+          "lemma": "ἁπλοῦς",
+          "location": "404b",
+          "context": "ἁπλῆ που καὶ ἐπιεικὴς γυμναστική"
+        },
+        {
+          "form": "ἁπλότης",
+          "lemma": "ἁπλότης",
+          "location": "404e",
+          "context": "ἡ δὲ ἁπλότης κατὰ μὲν μουσικὴν ἐν ψυχαῖς σωφροσύνην"
+        }
+      ],
+      "observation": "ἁπλοῦς/ἁπλότης recurs: first describing μουσική, then γυμναστική, then as the abstract noun producing σωφροσύνη and ὑγίεια."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ποικιλίαν",
+          "lemma": "ποικιλία",
+          "location": "404d",
+          "context": "Σικελικὴν ποικιλίαν ὄψου"
+        },
+        {
+          "form": "ποικιλία",
+          "lemma": "ποικιλία",
+          "location": "404e",
+          "context": "ἡ ποικιλία ἐνέτικτεν"
+        }
+      ],
+      "observation": "ποικιλία first names Sicilian culinary variety, then at the close is the agent that produces ἀκολασία and νόσος, opposed to ἁπλότης."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀκολασίαν",
+          "lemma": "ἀκολασία",
+          "location": "404e",
+          "context": null
+        },
+        {
+          "form": "νόσον",
+          "lemma": "νόσος",
+          "location": "404e",
+          "context": null
+        },
+        {
+          "form": "σωφροσύνην",
+          "lemma": "σωφροσύνη",
+          "location": "404e",
+          "context": null
+        },
+        {
+          "form": "ὑγίειαν",
+          "lemma": "ὑγίεια",
+          "location": "404e",
+          "context": null
+        }
+      ],
+      "observation": "The closing sentence sets up a four-term contrast: ποικιλία produces ἀκολασία (in souls via music) and νόσος (in bodies via diet), while ἁπλότης produces σωφροσύνη (in souls) and ὑγίεια (in bodies)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ψυχαῖς",
+          "lemma": "ψυχή",
+          "location": "404e",
+          "context": "ἐν ψυχαῖς σωφροσύνην"
+        },
+        {
+          "form": "σώμασιν",
+          "lemma": "σῶμα",
+          "location": "404e",
+          "context": "ἐν σώμασιν ὑγίειαν"
+        }
+      ],
+      "observation": "The closing parallel distributes effects between ψυχαί and σώματα, echoing the σῶμα/ψυχή pairing at 403d but now in a structural parallelism."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φύλακι",
+          "lemma": "φύλαξ",
+          "location": "403e",
+          "context": "φύλακι μεθυσθέντι μὴ εἰδέναι ὅπου γῆς ἐστιν"
+        },
+        {
+          "form": "φύλακα",
+          "lemma": "φύλαξ",
+          "location": "403e",
+          "context": "τόν γε φύλακα φύλακος δεῖσθαι"
+        },
+        {
+          "form": "φύλακος",
+          "lemma": "φύλαξ",
+          "location": "403e",
+          "context": null
+        }
+      ],
+      "observation": "φύλαξ appears three times in two lines; the second occurrence doubles it (φύλακα φύλακος) to state the absurdity of a guardian needing a guardian."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀσκητῶν",
+          "lemma": "ἀσκητής",
+          "location": "404a",
+          "context": "ἡ τῶνδε τῶν ἀσκητῶν ἕξις"
+        },
+        {
+          "form": "ὑπνώδης",
+          "lemma": "ὑπνώδης",
+          "location": "404a",
+          "context": "ὑπνώδης αὕτη γέ τις καὶ σφαλερὰ πρὸς ὑγίειαν"
+        },
+        {
+          "form": "ἀγρύπνους",
+          "lemma": "ἄγρυπνος",
+          "location": "404a",
+          "context": "ὥσπερ κύνας ἀγρύπνους τε ἀνάγκη εἶναι"
+        }
+      ],
+      "observation": "The ἕξις of ordinary athletes is called ὑπνώδης (sleepy); the warrior-athletes must be ἄγρυπνοι (wakeful) like dogs—a direct contrast of sleep and wakefulness."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κύνας",
+          "lemma": "κύων",
+          "location": "404a",
+          "context": "ὥσπερ κύνας ἀγρύπνους"
+        }
+      ],
+      "observation": "The guardians are compared to dogs (κύνας), specifying wakefulness, sharp sight, and sharp hearing as the relevant canine qualities."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "404a",
+          "context": "ὀξὺ ὁρᾶν καὶ ἀκούειν"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "404a",
+          "context": null
+        }
+      ],
+      "observation": "Sharp seeing (ὀξὺ ὁρᾶν) and hearing (ἀκούειν) are specified together as requirements for warrior-athletes."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἰχθύσιν",
+          "lemma": "ἰχθῦς",
+          "location": "404b",
+          "context": "οὔτε ἰχθύσιν αὐτοὺς ἑστιᾷ"
+        },
+        {
+          "form": "ἑφθοῖς κρέασιν",
+          "lemma": null,
+          "location": "404c",
+          "context": "οὔτε ἑφθοῖς κρέασιν"
+        },
+        {
+          "form": "ὀπτοῖς",
+          "lemma": "ὀπτός",
+          "location": "404c",
+          "context": "ἀλλὰ μόνον ὀπτοῖς"
+        },
+        {
+          "form": "ἡδυσμάτων",
+          "lemma": "ἥδυσμα",
+          "location": "404c",
+          "context": "οὐδὲ μὴν ἡδυσμάτων"
+        },
+        {
+          "form": "Συρακοσίαν…τράπεζαν",
+          "lemma": null,
+          "location": "404d",
+          "context": null
+        },
+        {
+          "form": "Σικελικὴν ποικιλίαν ὄψου",
+          "lemma": null,
+          "location": "404d",
+          "context": null
+        },
+        {
+          "form": "Κορινθίαν κόρην",
+          "lemma": null,
+          "location": "404d",
+          "context": null
+        },
+        {
+          "form": "Ἀττικῶν πεμμάτων",
+          "lemma": null,
+          "location": "404d",
+          "context": null
+        }
+      ],
+      "observation": "A sequence of food-items and luxuries is enumerated: Homer's heroes avoid fish and boiled meat, use only roasted meat with no seasonings; then Syracusan tables, Sicilian ὄψον-variety, Corinthian girls, and Attic pastries are rejected."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Ὁμήρου",
+          "lemma": "Ὅμηρος",
+          "location": "404b",
+          "context": "καὶ παρʼ Ὁμήρου τά γε τοιαῦτα μάθοι ἄν τις"
+        },
+        {
+          "form": "Ὅμηρος",
+          "lemma": "Ὅμηρος",
+          "location": "404c",
+          "context": "οὐδὲ μὴν ἡδυσμάτων…Ὅμηρος πώποτε ἐμνήσθη"
+        }
+      ],
+      "observation": "Homer is cited twice as an authority on diet: first as a source of learning about heroic feasting, then as someone who never mentioned seasonings."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἀπεικάζοντες",
+          "lemma": "ἀπεικάζω",
+          "location": "404e",
+          "context": null
+        },
+        {
+          "form": "ἀπεικάζοιμεν",
+          "lemma": "ἀπεικάζω",
+          "location": "404e",
+          "context": "ὀρθῶς ἂν ἀπεικάζοιμεν"
+        }
+      ],
+      "observation": "ἀπεικάζω appears twice in the same sentence (participle and optative), framing the analogy between elaborate diet and παναρμόνιος song."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παναρμονίῳ",
+          "lemma": "παναρμόνιος",
+          "location": "404d",
+          "context": "τῇ ἐν τῷ παναρμονίῳ καὶ ἐν πᾶσι ῥυθμοῖς πεποιημένῃ"
+        }
+      ],
+      "observation": "παναρμόνιος (all-mode) and πᾶσι ῥυθμοῖς (all rhythms) describe the musical composition to which elaborate diet is compared, concentrating πᾶς-compounds."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τρέφεσθαι",
+          "lemma": "τρέφω",
+          "location": "403c",
+          "context": "ἀκριβῶς τρέφεσθαι ἐκ παίδων"
+        },
+        {
+          "form": "θρεπτέοι",
+          "lemma": "τρέφω",
+          "location": "403c",
+          "context": "γυμναστικῇ θρεπτέοι οἱ νεανίαι"
+        }
+      ],
+      "observation": "Two forms of τρέφω appear close together: the verbal adjective θρεπτέοι states obligation, and the infinitive τρέφεσθαι specifies lifelong rearing from childhood."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑγίειαν",
+          "lemma": "ὑγίεια",
+          "location": "404a",
+          "context": "σφαλερὰ πρὸς ὑγίειαν"
+        },
+        {
+          "form": "ὑγίειαν",
+          "lemma": "ὑγίεια",
+          "location": "404b",
+          "context": "ἀκροσφαλεῖς εἶναι πρὸς ὑγίειαν"
+        },
+        {
+          "form": "ὑγίειαν",
+          "lemma": "ὑγίεια",
+          "location": "404e",
+          "context": "ἐν σώμασιν ὑγίειαν"
+        }
+      ],
+      "observation": "ὑγίεια appears three times: twice with words for precariousness (σφαλερά, ἀκροσφαλεῖς) and finally as the positive product of ἁπλότης in bodies."
+    }
+  ]
+}
