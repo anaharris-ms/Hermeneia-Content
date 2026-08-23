@@ -1,0 +1,737 @@
+{
+  "section_id": "republic-chapter-02-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δοκοῦντι",
+          "lemma": "δοκέω",
+          "location": "363a",
+          "context": "ἵνα δοκοῦντι δικαίῳ εἶναι"
+        },
+        {
+          "form": "δοξῶν",
+          "lemma": "δόξα",
+          "location": "363a",
+          "context": "ἐπὶ πλέον δὲ οὗτοι τὰ τῶν δοξῶν λέγουσιν"
+        },
+        {
+          "form": "δόξας",
+          "lemma": "δόξα",
+          "location": "363e",
+          "context": "εἰς κακὰς δόξας ἄγοντες"
+        },
+        {
+          "form": "δόξῃ",
+          "lemma": "δόξα",
+          "location": "364a",
+          "context": "δόξῃ δὲ μόνον καὶ νόμῳ αἰσχρόν"
+        },
+        {
+          "form": "τὸ δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "365c",
+          "context": "ἐπειδὴ τὸ δοκεῖν"
+        },
+        {
+          "form": "δόξαν δικαιοσύνης",
+          "lemma": "δόξα",
+          "location": "365b",
+          "context": "ἀδίκῳ δὲ δόξαν δικαιοσύνης παρεσκευασμένῳ"
+        },
+        {
+          "form": "τὸ δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "367c",
+          "context": "ἀλλὰ τὸ δοκεῖν"
+        },
+        {
+          "form": "δόξας",
+          "lemma": "δόξα",
+          "location": "367b",
+          "context": "τὰς δὲ δόξας ἀφαίρει"
+        }
+      ],
+      "observation": "Forms of δόξα and δοκέω recur densely throughout the section, appearing in the praise of justice (363a), the punishments of the unjust (363e), the poets' teaching (364a), the young man's reasoning (365b–c), and Adeimantus' final demand to Socrates (367b–c)."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πείθουσιν",
+          "lemma": "πείθω",
+          "location": "364b",
+          "context": "ἐπὶ πλουσίων θύρας ἰόντες πείθουσιν"
+        },
+        {
+          "form": "πείθοντές",
+          "lemma": "πείθω",
+          "location": "364c",
+          "context": "τοὺς θεούς, ὥς φασιν, πείθοντές σφισιν ὑπηρετεῖν"
+        },
+        {
+          "form": "πείθοντες",
+          "lemma": "πείθω",
+          "location": "364e",
+          "context": "πείθοντες οὐ μόνον ἰδιώτας ἀλλὰ καὶ πόλεις"
+        },
+        {
+          "form": "πείσομεν",
+          "lemma": "πείθω",
+          "location": "365d",
+          "context": "ἐξ ὧν τὰ μὲν πείσομεν, τὰ δὲ βιασόμεθα"
+        },
+        {
+          "form": "πειστέον",
+          "lemma": "πείθω",
+          "location": "365e",
+          "context": "οἷς ἢ ἀμφότερα ἢ οὐδέτερα πειστέον"
+        },
+        {
+          "form": "πείθοντες",
+          "lemma": "πείθω",
+          "location": "366a",
+          "context": "πείθοντες αὐτοὺς ἀζήμιοι ἀπαλλάξομεν"
+        },
+        {
+          "form": "ἐπείθετε",
+          "lemma": "πείθω",
+          "location": "367a",
+          "context": "ἐκ νέων ἡμᾶς ἐπείθετε"
+        }
+      ],
+      "observation": "πείθω recurs across changing agents and objects: begging priests persuade the rich and the gods, the young man plans to persuade or compel, the poets must be believed or not, and Adeimantus says 'you' (praising elders) should have persuaded the young from childhood."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πείσομεν",
+          "lemma": "πείθω",
+          "location": "365d",
+          "context": "τὰ μὲν πείσομεν"
+        },
+        {
+          "form": "βιασόμεθα",
+          "lemma": "βιάζομαι",
+          "location": "365d",
+          "context": "τὰ δὲ βιασόμεθα"
+        },
+        {
+          "form": "βιᾶται",
+          "lemma": "βιάζομαι",
+          "location": "365c",
+          "context": "καὶ τὰν ἀλάθειαν βιᾶται"
+        }
+      ],
+      "observation": "Persuasion and force are paired as alternatives: τὸ δοκεῖν 'overpowers' (βιᾶται) truth, and the young man plans to persuade or force (πείσομεν … βιασόμεθα)."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνειν",
+          "lemma": "λανθάνω",
+          "location": "365c",
+          "context": "οὐ ῥᾴδιον ἀεὶ λανθάνειν κακὸν ὄντα"
+        },
+        {
+          "form": "λανθάνειν",
+          "lemma": "λανθάνω",
+          "location": "365d",
+          "context": "ἐπὶ γὰρ τὸ λανθάνειν συνωμοσίας τε καὶ ἑταιρίας συνάξομεν"
+        },
+        {
+          "form": "λανθάνειν",
+          "lemma": "λανθάνω",
+          "location": "365d",
+          "context": "θεοὺς οὔτε λανθάνειν οὔτε βιάσασθαι δυνατόν"
+        },
+        {
+          "form": "λανθάνειν",
+          "lemma": "λανθάνω",
+          "location": "365e",
+          "context": "τί καὶ ἡμῖν μελητέον τοῦ λανθάνειν"
+        },
+        {
+          "form": "λανθάνον",
+          "lemma": "λανθάνω",
+          "location": "366e",
+          "context": "λανθάνον θεούς τε καὶ ἀνθρώπους"
+        },
+        {
+          "form": "λανθάνῃ",
+          "lemma": "λανθάνω",
+          "location": "367e",
+          "context": "ἐάντε λανθάνῃ ἐάντε μὴ θεούς τε καὶ ἀνθρώπους"
+        }
+      ],
+      "observation": "λανθάνω recurs as the central practical problem: escaping notice of humans (365c–d), of gods (365d–e), and finally appears in Adeimantus' demand that Socrates praise justice whether or not it escapes notice of gods and humans (366e, 367e)."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μισθὸν",
+          "lemma": "μισθός",
+          "location": "363d",
+          "context": "κάλλιστον ἀρετῆς μισθὸν μέθην αἰώνιον"
+        },
+        {
+          "form": "μισθοὺς",
+          "lemma": "μισθός",
+          "location": "363d",
+          "context": "μακροτέρους ἀποτείνουσιν μισθοὺς παρὰ θεῶν"
+        },
+        {
+          "form": "μισθοὺς",
+          "lemma": "μισθός",
+          "location": "367d",
+          "context": "μισθοὺς δὲ καὶ δόξας πάρες ἄλλοις ἐπαινεῖν"
+        }
+      ],
+      "observation": "μισθός appears for the rewards the poets promise the just (363d, twice) and returns in Adeimantus' demand that Socrates set aside μισθούς and δόξας (367d)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "exact_repetition",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐν Ἅιδου",
+          "lemma": null,
+          "location": "363c",
+          "context": "εἰς Ἅιδου γὰρ ἀγαγόντες τῷ λόγῳ"
+        },
+        {
+          "form": "ἐν Ἅιδου",
+          "lemma": null,
+          "location": "363d",
+          "context": "εἰς πηλόν τινα κατορύττουσιν ἐν Ἅιδου"
+        },
+        {
+          "form": "ἐν Ἅιδου",
+          "lemma": null,
+          "location": "366a",
+          "context": "ἐν Ἅιδου δίκην δώσομεν"
+        }
+      ],
+      "observation": "Hades appears three times: as the site of the just banquet (363c), the place where the unjust are buried in mud (363d), and where one might pay penalty (366a)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "βαλάνους",
+          "lemma": "βάλανος",
+          "location": "363b",
+          "context": "ἄκρας μέν τε φέρειν βαλάνους"
+        },
+        {
+          "form": "μελίσσας",
+          "lemma": "μέλισσα",
+          "location": "363b",
+          "context": "μέσσας δὲ μελίσσας"
+        },
+        {
+          "form": "ὄιες",
+          "lemma": "ὄϊς",
+          "location": "363b",
+          "context": "εἰροπόκοι δʼ ὄιες"
+        },
+        {
+          "form": "πυροὺς καὶ κριθάς",
+          "lemma": null,
+          "location": "363c",
+          "context": "φέρῃσι δὲ γαῖα μέλαινα πυροὺς καὶ κριθάς"
+        },
+        {
+          "form": "καρπῷ",
+          "lemma": "καρπός",
+          "location": "363c",
+          "context": "βρίθῃσι δὲ δένδρεα καρπῷ"
+        },
+        {
+          "form": "μῆλα",
+          "lemma": "μῆλον",
+          "location": "363c",
+          "context": "τίκτῃ δʼ ἔμπεδα μῆλα"
+        },
+        {
+          "form": "ἰχθῦς",
+          "lemma": "ἰχθύς",
+          "location": "363c",
+          "context": "θάλασσα δὲ παρέχῃ ἰχθῦς"
+        }
+      ],
+      "observation": "The Hesiod and Homer quotations concentrate concrete agricultural and natural abundance—acorns, bees, sheep, wheat, barley, fruit, flocks, fish—as the gods' reward for the just."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μέθην αἰώνιον",
+          "lemma": null,
+          "location": "363d",
+          "context": "κάλλιστον ἀρετῆς μισθὸν μέθην αἰώνιον"
+        },
+        {
+          "form": "πηλόν τινα",
+          "lemma": "πηλός",
+          "location": "363d",
+          "context": "εἰς πηλόν τινα κατορύττουσιν ἐν Ἅιδου"
+        },
+        {
+          "form": "κοσκίνῳ ὕδωρ",
+          "lemma": null,
+          "location": "363d",
+          "context": "κοσκίνῳ ὕδωρ ἀναγκάζουσι φέρειν"
+        }
+      ],
+      "observation": "Musaeus' afterlife for the just (eternal drunkenness, crowned banquet) is locally contrasted with the unjust afterlife (burial in mud, carrying water in a sieve)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "sequence_configuration",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "λείη μὲν ὁδός",
+          "lemma": "ὁδός",
+          "location": "364d",
+          "context": "λείη μὲν ὁδός, μάλα δʼ ἐγγύθι ναίει"
+        },
+        {
+          "form": "ὁδὸν μακράν τε καὶ τραχεῖαν καὶ ἀνάντη",
+          "lemma": "ὁδός",
+          "location": "364d",
+          "context": null
+        },
+        {
+          "form": "ἱδρῶτα",
+          "lemma": "ἱδρώς",
+          "location": "364d",
+          "context": "τῆς δʼ ἀρετῆς ἱδρῶτα θεοὶ προπάροιθεν ἔθηκαν"
+        }
+      ],
+      "observation": "Two roads are set side by side from Hesiod: vice has a smooth, nearby path; virtue has a long, rough, uphill (ἀνάντη) road preceded by sweat."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀδελφὸς αὐτοῦ Ἀδείμαντος",
+          "lemma": null,
+          "location": "362d",
+          "context": "ὁ δὲ ἀδελφὸς αὐτοῦ Ἀδείμαντος"
+        },
+        {
+          "form": "ἀδελφὸς ἀνδρὶ παρείη",
+          "lemma": "ἀδελφός",
+          "location": "362d",
+          "context": "τὸ λεγόμενον, ἀδελφὸς ἀνδρὶ παρείη"
+        }
+      ],
+      "observation": "Socrates names Adeimantus as Glaucon's ἀδελφός and immediately invokes the proverb ἀδελφὸς ἀνδρὶ παρείη, applying the word to both the literal and proverbial relation."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "καταπαλαῖσαι",
+          "lemma": "καταπαλαίω",
+          "location": "362d",
+          "context": "ἱκανὰ καὶ τὰ ὑπὸ τούτου ῥηθέντα καταπαλαῖσαι"
+        },
+        {
+          "form": "ἀδύνατον ποιῆσαι βοηθεῖν δικαιοσύνῃ",
+          "lemma": null,
+          "location": "362d",
+          "context": null
+        }
+      ],
+      "observation": "Socrates describes Glaucon's speech as sufficient to 'wrestle him down' (καταπαλαῖσαι) and render him unable (ἀδύνατον) to defend justice—a wrestling image for argumentative defeat."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπαινοῦσιν",
+          "lemma": "ἐπαινέω",
+          "location": "362e",
+          "context": "οἳ δικαιοσύνην μὲν ἐπαινοῦσιν"
+        },
+        {
+          "form": "ἐπαινοῦντες",
+          "lemma": "ἐπαινέω",
+          "location": "363a",
+          "context": "οὐκ αὐτὸ δικαιοσύνην ἐπαινοῦντες"
+        },
+        {
+          "form": "ἐπαινέται",
+          "lemma": "ἐπαινέτης",
+          "location": "366e",
+          "context": "ὅσοι ἐπαινέται φατὲ δικαιοσύνης εἶναι"
+        },
+        {
+          "form": "ἐπῄνεσεν",
+          "lemma": "ἐπαινέω",
+          "location": "366e",
+          "context": "οὐδεὶς πώποτε... ἐπῄνεσεν δικαιοσύνην"
+        },
+        {
+          "form": "ἐπαίνεσον",
+          "lemma": "ἐπαινέω",
+          "location": "367d",
+          "context": "τοῦτʼ οὖν αὐτὸ ἐπαίνεσον δικαιοσύνης"
+        },
+        {
+          "form": "ἐπαινεῖν",
+          "lemma": "ἐπαινέω",
+          "location": "367b",
+          "context": "οὐ τὸ δίκαιον φήσομεν ἐπαινεῖν σε"
+        }
+      ],
+      "observation": "ἐπαινέω recurs throughout: others praise justice but only for its consequences (362e, 363a); no one has ever praised justice itself (366e); Adeimantus commands Socrates to praise it for what it does in the soul (367d)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ἡσίοδός",
+          "lemma": null,
+          "location": "363a",
+          "context": null
+        },
+        {
+          "form": "Ὅμηρός",
+          "lemma": null,
+          "location": "363a",
+          "context": null
+        },
+        {
+          "form": "Μουσαῖος",
+          "lemma": null,
+          "location": "363c",
+          "context": null
+        },
+        {
+          "form": "Πίνδαρον",
+          "lemma": null,
+          "location": "365b",
+          "context": null
+        },
+        {
+          "form": "Ἀρχιλόχου",
+          "lemma": null,
+          "location": "365c",
+          "context": null
+        },
+        {
+          "form": "Ὀρφέως",
+          "lemma": null,
+          "location": "364e",
+          "context": null
+        }
+      ],
+      "observation": "Six poets are named as authorities cited by fathers, begging priests, or the hypothetical young man: Hesiod, Homer, Musaeus, Pindar, Archilochus, Orpheus."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "αὐτὸ δικαιοσύνην",
+          "lemma": null,
+          "location": "363a",
+          "context": "οὐκ αὐτὸ δικαιοσύνην ἐπαινοῦντες"
+        },
+        {
+          "form": "τὰς ἀπʼ αὐτῆς εὐδοκιμήσεις",
+          "lemma": "εὐδοκίμησις",
+          "location": "363a",
+          "context": null
+        },
+        {
+          "form": "αὐτὸ δʼ ἑκάτερον",
+          "lemma": null,
+          "location": "366e",
+          "context": "αὐτὸ δʼ ἑκάτερον τῇ αὑτοῦ δυνάμει τί δρᾷ"
+        },
+        {
+          "form": "αὐτὴ διʼ αὑτὴν",
+          "lemma": null,
+          "location": "367d",
+          "context": "ὃ αὐτὴ διʼ αὑτὴν τὸν ἔχοντα ὀνίνησιν"
+        }
+      ],
+      "observation": "A recurring contrast between justice 'itself' (αὐτό) and its external consequences: fathers praise not justice itself but its reputational rewards (363a); Adeimantus demands Socrates show what each does αὐτὴ διʼ αὑτήν (366e, 367d)."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θυσίαις τε καὶ ἐπῳδαῖς",
+          "lemma": null,
+          "location": "364b",
+          "context": null
+        },
+        {
+          "form": "θυσίαισι καὶ εὐχωλαῖς ἀγαναῖσιν",
+          "lemma": null,
+          "location": "364d",
+          "context": null
+        },
+        {
+          "form": "λοιβῇ τε κνίσῃ τε",
+          "lemma": null,
+          "location": "364e",
+          "context": null
+        },
+        {
+          "form": "θυσιῶν",
+          "lemma": "θυσία",
+          "location": "364e",
+          "context": "λύσεις τε καὶ καθαρμοὶ ἀδικημάτων διὰ θυσιῶν"
+        },
+        {
+          "form": "θυτέον",
+          "lemma": "θύω",
+          "location": "365e",
+          "context": "ἀδικητέον καὶ θυτέον ἀπὸ τῶν ἀδικημάτων"
+        }
+      ],
+      "observation": "Sacrifice recurs as the mechanism for managing the gods: begging priests use θυσίαι and ἐπῳδαί (364b), Homer's lines name θυσίαι, εὐχωλαί, λοιβή, κνίση (364d–e), and the young man's conclusion pairs ἀδικητέον with θυτέον (365e)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τελεταὶ",
+          "lemma": "τελετή",
+          "location": "365a",
+          "context": "ἃς δὴ τελετὰς καλοῦσιν"
+        },
+        {
+          "form": "τελευτήσασιν",
+          "lemma": "τελευτάω",
+          "location": "365a",
+          "context": "εἰσὶ δὲ καὶ τελευτήσασιν"
+        },
+        {
+          "form": "τελεταὶ",
+          "lemma": "τελετή",
+          "location": "366a",
+          "context": "αἱ τελεταὶ αὖ μέγα δύνανται"
+        }
+      ],
+      "observation": "τελεταί (rites of initiation) and τελευτήσασιν (the dead) appear in immediate proximity at 365a, and τελεταί returns at 366a as the young man's answer to afterlife punishment."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀλώπεκα",
+          "lemma": "ἀλώπηξ",
+          "location": "365c",
+          "context": "τὴν δὲ τοῦ σοφωτάτου Ἀρχιλόχου ἀλώπεκα ἑλκτέον ἐξόπισθεν"
+        },
+        {
+          "form": "κερδαλέαν καὶ ποικίλην",
+          "lemma": null,
+          "location": "365c",
+          "context": null
+        },
+        {
+          "form": "πρόθυρα μὲν καὶ σχῆμα",
+          "lemma": null,
+          "location": "365c",
+          "context": "πρόθυρα μὲν καὶ σχῆμα κύκλῳ περὶ ἐμαυτὸν σκιαγραφίαν ἀρετῆς περιγραπτέον"
+        }
+      ],
+      "observation": "The young man's plan combines architectural and animal imagery: a painted facade (σκιαγραφία ἀρετῆς) as a front entrance (πρόθυρα), while dragging behind the crafty, many-colored fox (ἀλώπεξ) of Archilochus."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "οὐκ εἴρηται ὃ μάλιστα ἔδει ῥηθῆναι",
+          "lemma": null,
+          "location": "362d",
+          "context": null
+        },
+        {
+          "form": "ἐπάμυνε",
+          "lemma": "ἐπαμύνω",
+          "location": "362d",
+          "context": "εἴ τι ὅδε ἐλλείπει, ἐπάμυνε"
+        },
+        {
+          "form": "τοὺς ἐναντίους λόγους",
+          "lemma": null,
+          "location": "362e",
+          "context": "δεῖ γὰρ διελθεῖν ἡμᾶς καὶ τοὺς ἐναντίους λόγους"
+        }
+      ],
+      "observation": "Adeimantus announces that the most essential point has not been stated and that the opposite arguments (those praising justice) must be traversed; he then proceeds to do so through the section."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "367a",
+          "context": "αὐτὸς αὑτοῦ ἦν ἕκαστος ἄριστος φύλαξ"
+        },
+        {
+          "form": "ἐφυλάττομεν",
+          "lemma": "φυλάττω",
+          "location": "367a",
+          "context": "οὐκ ἂν ἀλλήλους ἐφυλάττομεν μὴ ἀδικεῖν"
+        }
+      ],
+      "observation": "Guarding shifts from mutual external surveillance (ἀλλήλους ἐφυλάττομεν) to each person being his own best guardian (αὐτὸς αὑτοῦ … ἄριστος φύλαξ), in a counterfactual about proper praise of justice."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ζῶσιν",
+          "lemma": "ζάω",
+          "location": "365a",
+          "context": "εἰσι μὲν ἔτι ζῶσιν"
+        },
+        {
+          "form": "τελευτήσασιν",
+          "lemma": "τελευτάω",
+          "location": "365a",
+          "context": "εἰσὶ δὲ καὶ τελευτήσασιν"
+        },
+        {
+          "form": "ζῶντές τε καὶ τελευτήσαντες",
+          "lemma": null,
+          "location": "366b",
+          "context": null
+        }
+      ],
+      "observation": "The pair ζῶντες / τελευτήσαντες appears twice: purifications avail both living and dead (365a), and the unjust life with façade succeeds both living and dead (366b)."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "367c",
+          "context": null
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "367d",
+          "context": null
+        },
+        {
+          "form": "φρονεῖν",
+          "lemma": "φρονέω",
+          "location": "367d",
+          "context": null
+        },
+        {
+          "form": "ὑγιαίνειν",
+          "lemma": "ὑγιαίνω",
+          "location": "367d",
+          "context": null
+        }
+      ],
+      "observation": "Adeimantus lists seeing, hearing, thinking, and being healthy as examples of goods valuable for their own nature (τῇ αὑτῶν φύσει) rather than for reputation, as the class to which justice should belong."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θείᾳ φύσει",
+          "lemma": null,
+          "location": "366c",
+          "context": "εἴ τις θείᾳ φύσει δυσχεραίνων τὸ ἀδικεῖν"
+        },
+        {
+          "form": "ἐπιστήμην λαβὼν",
+          "lemma": "ἐπιστήμη",
+          "location": "366c",
+          "context": "ἢ ἐπιστήμην λαβὼν ἀπέχεται αὐτοῦ"
+        }
+      ],
+      "observation": "Only two exceptions to involuntary justice are named: divine nature (θεία φύσις) and acquired knowledge (ἐπιστήμη)."
+    }
+  ]
+}
