@@ -3,7 +3,7 @@
   "signals": [
     {
       "signal_id": "s001",
-      "features": [
+      "signal_types": [
         "semantic_cluster",
         "local_contrast"
       ],
@@ -25,7 +25,7 @@
     },
     {
       "signal_id": "s002",
-      "features": [
+      "signal_types": [
         "semantic_cluster",
         "lemma_recurrence"
       ],
@@ -71,7 +71,7 @@
     },
     {
       "signal_id": "s003",
-      "features": [
+      "signal_types": [
         "other_textual_configuration"
       ],
       "elements": [
@@ -86,7 +86,7 @@
     },
     {
       "signal_id": "s004",
-      "features": [
+      "signal_types": [
         "lemma_recurrence",
         "changed_context_recurrence"
       ],
@@ -102,7 +102,7 @@
     },
     {
       "signal_id": "s005",
-      "features": [
+      "signal_types": [
         "lemma_recurrence",
         "local_density"
       ],
@@ -148,7 +148,7 @@
     },
     {
       "signal_id": "s006",
-      "features": [
+      "signal_types": [
         "lemma_recurrence",
         "local_contrast"
       ],
@@ -170,7 +170,7 @@
     },
     {
       "signal_id": "s007",
-      "features": [
+      "signal_types": [
         "other_textual_configuration"
       ],
       "elements": [
@@ -185,7 +185,7 @@
     },
     {
       "signal_id": "s008",
-      "features": [
+      "signal_types": [
         "lemma_recurrence",
         "local_contrast"
       ],
@@ -207,7 +207,7 @@
     },
     {
       "signal_id": "s009",
-      "features": [
+      "signal_types": [
         "semantic_cluster",
         "lemma_recurrence"
       ],
@@ -241,7 +241,7 @@
     },
     {
       "signal_id": "s010",
-      "features": [
+      "signal_types": [
         "lemma_recurrence",
         "semantic_cluster"
       ],
@@ -275,7 +275,7 @@
     },
     {
       "signal_id": "s011",
-      "features": [
+      "signal_types": [
         "local_contrast"
       ],
       "elements": [
@@ -296,7 +296,7 @@
     },
     {
       "signal_id": "s012",
-      "features": [
+      "signal_types": [
         "sequence_configuration"
       ],
       "elements": [
@@ -317,7 +317,7 @@
     },
     {
       "signal_id": "s013",
-      "features": [
+      "signal_types": [
         "local_contrast"
       ],
       "elements": [
@@ -338,7 +338,7 @@
     },
     {
       "signal_id": "s014",
-      "features": [
+      "signal_types": [
         "lemma_recurrence",
         "changed_context_recurrence"
       ],
@@ -366,7 +366,7 @@
     },
     {
       "signal_id": "s015",
-      "features": [
+      "signal_types": [
         "other_textual_configuration"
       ],
       "elements": [
@@ -387,7 +387,7 @@
     },
     {
       "signal_id": "s016",
-      "features": [
+      "signal_types": [
         "local_contrast"
       ],
       "elements": [
@@ -408,7 +408,7 @@
     },
     {
       "signal_id": "s017",
-      "features": [
+      "signal_types": [
         "lemma_recurrence"
       ],
       "elements": [
@@ -429,7 +429,7 @@
     },
     {
       "signal_id": "s018",
-      "features": [
+      "signal_types": [
         "other_textual_configuration"
       ],
       "elements": [
