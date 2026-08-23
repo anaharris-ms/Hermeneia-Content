@@ -1,0 +1,523 @@
+{
+  "section_id": "republic-chapter-05-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ φύσιν",
+          "lemma": "φύσις",
+          "location": "456c",
+          "context": "κατὰ φύσιν ἐτίθεμεν τὸν νόμον"
+        },
+        {
+          "form": "παρὰ φύσιν",
+          "lemma": "φύσις",
+          "location": "456c",
+          "context": "παρὰ ταῦτα γιγνόμενα παρὰ φύσιν μᾶλλον"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "456d",
+          "context": "τὴν αὐτὴν φύσιν παραλαβοῦσα"
+        }
+      ],
+      "observation": "φύσις recurs three times; the first two are set in direct contrast (κατὰ φύσιν vs. παρὰ φύσιν), and the third applies the concept to the sameness of nature received by men and women."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δυνατά",
+          "lemma": "δυνατός",
+          "location": "456c",
+          "context": "εἰ δυνατά γε καὶ βέλτιστα λέγοιμεν"
+        },
+        {
+          "form": "δυνατά",
+          "lemma": "δυνατός",
+          "location": "456c",
+          "context": "ὅτι μὲν δὴ δυνατά, διωμολόγηται"
+        },
+        {
+          "form": "βέλτιστα",
+          "lemma": "βέλτιστος",
+          "location": "456c",
+          "context": "ὅτι δὲ δὴ βέλτιστα, τὸ μετὰ τοῦτο δεῖ διομολογηθῆναι"
+        },
+        {
+          "form": "δυνατὸν",
+          "lemma": "δυνατός",
+          "location": "457a",
+          "context": "οὐ μόνον ἄρα δυνατὸν ἀλλὰ καὶ ἄριστον"
+        }
+      ],
+      "observation": "δυνατός and βέλτιστος are first paired, then separated into sequential stages of argument, then reunited at 457a where δυνατόν and ἄριστον are joined as accomplished."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἀμείνω",
+          "lemma": "ἀγαθός",
+          "location": "456d",
+          "context": "τὸν μὲν ἀμείνω ἄνδρα, τὸν δὲ χείρω"
+        },
+        {
+          "form": "ἀμείνους",
+          "lemma": "ἀγαθός",
+          "location": "456d",
+          "context": "ἀμείνους ἄνδρας ἐξειργάσθαι τοὺς φύλακας"
+        },
+        {
+          "form": "ἄριστοι",
+          "lemma": "ἀγαθός",
+          "location": "456e",
+          "context": "τῶν ἄλλων πολιτῶν οὐχ οὗτοι ἄριστοι"
+        },
+        {
+          "form": "βέλτισται",
+          "lemma": "ἀγαθός",
+          "location": "456e",
+          "context": "αἱ γυναῖκες τῶν γυναικῶν οὐχ αὗται ἔσονται βέλτισται"
+        },
+        {
+          "form": "ἀρίστους",
+          "lemma": "ἀγαθός",
+          "location": "456e",
+          "context": "γυναῖκάς τε καὶ ἄνδρας ὡς ἀρίστους"
+        },
+        {
+          "form": "ἄριστον",
+          "lemma": "ἀγαθός",
+          "location": "457a",
+          "context": "ἀλλὰ καὶ ἄριστον πόλει"
+        }
+      ],
+      "observation": "Superlative and comparative forms of ἀγαθός accumulate densely, shifting from men alone (ἀμείνω, ἀμείνους, ἄριστοι) to women (βέλτισται) to both together (ἀρίστους) to the arrangement itself (ἄριστον)."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χείρω",
+          "lemma": "χείρων",
+          "location": "456d",
+          "context": "τὸν μὲν ἀμείνω ἄνδρα, τὸν δὲ χείρω"
+        },
+        {
+          "form": "ἀμείνω",
+          "lemma": "ἀγαθός",
+          "location": "456d",
+          "context": null
+        }
+      ],
+      "observation": "ἀμείνω and χείρω are placed in direct μέν/δέ contrast as better and worse man."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "456d",
+          "context": "τυχόντας ἧς διήλθομεν παιδείας"
+        },
+        {
+          "form": "παιδεία",
+          "lemma": "παιδεία",
+          "location": "456c",
+          "context": "οὐκ ἄλλη μὲν ἡμῖν ἄνδρας ποιήσει παιδεία"
+        },
+        {
+          "form": "παιδευθέντας",
+          "lemma": "παιδεύω",
+          "location": "456d",
+          "context": "τοὺς σκυτοτόμους, τῇ σκυτικῇ παιδευθέντας"
+        }
+      ],
+      "observation": "παιδεία/παιδεύω recurs, applied first to the single education for men and women, then to guardians' education, then contrastively to cobblers' training."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "456d",
+          "context": null
+        },
+        {
+          "form": "σκυτοτόμους",
+          "lemma": "σκυτοτόμος",
+          "location": "456d",
+          "context": "ἢ τοὺς σκυτοτόμους, τῇ σκυτικῇ παιδευθέντας"
+        },
+        {
+          "form": "σκυτικῇ",
+          "lemma": "σκυτική",
+          "location": "456d",
+          "context": null
+        }
+      ],
+      "observation": "Guardians and cobblers are set side by side as contrasting products of their respective educations; σκυτοτόμος and σκυτική cluster together."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδυτέον",
+          "lemma": "ἀποδύω",
+          "location": "457a",
+          "context": "ἀποδυτέον δὴ ταῖς τῶν φυλάκων γυναιξίν"
+        },
+        {
+          "form": "ἱματίων",
+          "lemma": "ἱμάτιον",
+          "location": "457a",
+          "context": "ἀρετὴν ἀντὶ ἱματίων ἀμφιέσονται"
+        },
+        {
+          "form": "ἀμφιέσονται",
+          "lemma": "ἀμφιέννυμι",
+          "location": "457a",
+          "context": null
+        },
+        {
+          "form": "γυμναῖς",
+          "lemma": "γυμνός",
+          "location": "457b",
+          "context": "ἐπὶ γυμναῖς γυναιξί"
+        },
+        {
+          "form": "γυμναζομέναις",
+          "lemma": "γυμνάζω",
+          "location": "457b",
+          "context": "τοῦ βελτίστου ἕνεκα γυμναζομέναις"
+        }
+      ],
+      "observation": "A cluster of undressing/clothing/nakedness: women must strip (ἀποδυτέον), will clothe themselves in virtue instead of garments (ἀρετὴν ἀντὶ ἱματίων ἀμφιέσονται), and appear naked (γυμναῖς) while exercising (γυμναζομέναις)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετὴν",
+          "lemma": "ἀρετή",
+          "location": "457a",
+          "context": "ἀρετὴν ἀντὶ ἱματίων ἀμφιέσονται"
+        },
+        {
+          "form": "ἱματίων",
+          "lemma": "ἱμάτιον",
+          "location": "457a",
+          "context": null
+        }
+      ],
+      "observation": "ἀρετή is placed as a substitute for ἱμάτια via ἀντί, contrasting virtue with garments."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "456d",
+          "context": "γελοῖον, ἔφη, ἐρωτᾷς"
+        },
+        {
+          "form": "γελῶν",
+          "lemma": "γελάω",
+          "location": "457b",
+          "context": "ὁ δὲ γελῶν ἀνὴρ ἐπὶ γυμναῖς γυναιξί"
+        },
+        {
+          "form": "γελοίου",
+          "lemma": "γελοῖος",
+          "location": "457b",
+          "context": "ἀτελῆ τοῦ γελοίου σοφίας δρέπων καρπόν"
+        },
+        {
+          "form": "γελᾷ",
+          "lemma": "γελάω",
+          "location": "457b",
+          "context": "οὐδὲν οἶδεν ἐφʼ ᾧ γελᾷ"
+        }
+      ],
+      "observation": "γελάω/γελοῖος appears four times; first as a casual remark about the question, then concentrated at 457b around the man who laughs at naked women, where laughing is characterized as harvesting an unripe fruit of the ridiculous."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀτελῆ",
+          "lemma": "ἀτελής",
+          "location": "457b",
+          "context": "ἀτελῆ τοῦ γελοίου σοφίας δρέπων καρπόν"
+        },
+        {
+          "form": "καρπόν",
+          "lemma": "καρπός",
+          "location": "457b",
+          "context": null
+        },
+        {
+          "form": "δρέπων",
+          "lemma": "δρέπω",
+          "location": "457b",
+          "context": null
+        },
+        {
+          "form": "σοφίας",
+          "lemma": "σοφία",
+          "location": "457b",
+          "context": null
+        }
+      ],
+      "observation": "The man who laughs is said to pluck (δρέπων) an unripe fruit (ἀτελῆ καρπόν) of the ridiculous as wisdom (σοφίας)—a harvest image applied to laughter and knowledge."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὠφέλιμον",
+          "lemma": "ὠφέλιμος",
+          "location": "457b",
+          "context": "τὸ μὲν ὠφέλιμον καλόν"
+        },
+        {
+          "form": "καλόν",
+          "lemma": "καλός",
+          "location": "457b",
+          "context": null
+        },
+        {
+          "form": "βλαβερὸν",
+          "lemma": "βλαβερός",
+          "location": "457b",
+          "context": "τὸ δὲ βλαβερὸν αἰσχρόν"
+        },
+        {
+          "form": "αἰσχρόν",
+          "lemma": "αἰσχρός",
+          "location": "457b",
+          "context": null
+        }
+      ],
+      "observation": "A maxim pairs ὠφέλιμον with καλόν and βλαβερόν with αἰσχρόν in parallel μέν/δέ contrast."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κῦμα",
+          "lemma": "κῦμα",
+          "location": "457b",
+          "context": "ἓν ὥσπερ κῦμα φῶμεν διαφεύγειν"
+        },
+        {
+          "form": "κατακλυσθῆναι",
+          "lemma": "κατακλύζω",
+          "location": "457b",
+          "context": "ὥστε μὴ παντάπασι κατακλυσθῆναι"
+        },
+        {
+          "form": "κῦμα",
+          "lemma": "κῦμα",
+          "location": "457c",
+          "context": "οὐ σμικρὸν κῦμα διαφεύγεις"
+        }
+      ],
+      "observation": "κῦμα appears twice framing the wave image; κατακλυσθῆναι (being flooded) accompanies the first, and the second is called οὐ σμικρόν."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διομολογηθῆναι",
+          "lemma": "διομολογέω",
+          "location": "456c",
+          "context": "τὸ μετὰ τοῦτο δεῖ διομολογηθῆναι"
+        },
+        {
+          "form": "διωμολόγηται",
+          "lemma": "διομολογέω",
+          "location": "456c",
+          "context": "ὅτι μὲν δὴ δυνατά, διωμολόγηται"
+        },
+        {
+          "form": "ὁμολογεῖσθαι",
+          "lemma": "ὁμολογέω",
+          "location": "457c",
+          "context": "τὸν λόγον αὐτὸν αὑτῷ ὁμολογεῖσθαι"
+        }
+      ],
+      "observation": "διομολογέω appears twice marking the two stages of agreement (possible, best), and ὁμολογέω closes the section describing the argument agreeing with itself."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "φυλακικὴν",
+          "lemma": "φυλακικός",
+          "location": "456c",
+          "context": "φυλακικὴν γυναῖκα γενέσθαι"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "456d",
+          "context": null
+        },
+        {
+          "form": "φυλάκων",
+          "lemma": "φύλαξ",
+          "location": "457a",
+          "context": "ταῖς τῶν φυλάκων γυναιξίν"
+        },
+        {
+          "form": "φυλακῆς",
+          "lemma": "φυλακή",
+          "location": "457a",
+          "context": "τῆς ἄλλης φυλακῆς τῆς περὶ τὴν πόλιν"
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "457c",
+          "context": "τούς τε φύλακας ἡμῖν"
+        },
+        {
+          "form": "φυλακίδας",
+          "lemma": "φυλακίς",
+          "location": "457c",
+          "context": "καὶ τὰς φυλακίδας"
+        }
+      ],
+      "observation": "The φύλαξ word-family recurs densely; φυλακίδας at 457c is a notable feminine coinage set beside φύλακας."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐλαφρότερα",
+          "lemma": "ἐλαφρός",
+          "location": "457a",
+          "context": "τὰ ἐλαφρότερα ταῖς γυναιξὶν ἢ τοῖς ἀνδράσι δοτέον"
+        },
+        {
+          "form": "ἀσθένειαν",
+          "lemma": "ἀσθένεια",
+          "location": "457a",
+          "context": "διὰ τὴν τοῦ γένους ἀσθένειαν"
+        }
+      ],
+      "observation": "Lighter tasks (ἐλαφρότερα) are assigned to women on account of the weakness (ἀσθένεια) of their sex, a qualification within the shared arrangement."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδυτέον",
+          "lemma": null,
+          "location": "457a",
+          "context": null
+        },
+        {
+          "form": "κοινωνητέον",
+          "lemma": null,
+          "location": "457a",
+          "context": "κοινωνητέον πολέμου τε καὶ τῆς ἄλλης φυλακῆς"
+        },
+        {
+          "form": "πρακτέον",
+          "lemma": null,
+          "location": "457a",
+          "context": "οὐκ ἄλλα πρακτέον"
+        },
+        {
+          "form": "δοτέον",
+          "lemma": null,
+          "location": "457a",
+          "context": "τὰ ἐλαφρότερα ταῖς γυναιξὶν … δοτέον"
+        }
+      ],
+      "observation": "Four verbal adjectives in -τέον occur in rapid succession, each prescribing what must be done regarding guardian women."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἴδῃς",
+          "lemma": "ὁράω",
+          "location": "457c",
+          "context": "ὅταν τὸ μετὰ τοῦτο ἴδῃς"
+        },
+        {
+          "form": "ἴδω",
+          "lemma": "ὁράω",
+          "location": "457c",
+          "context": "λέγε δή, ἴδω"
+        }
+      ],
+      "observation": "Socrates says 'when you see' (ἴδῃς) the next wave, and the interlocutor immediately echoes with 'let me see' (ἴδω), transferring the verb of seeing between speakers."
+    }
+  ]
+}
