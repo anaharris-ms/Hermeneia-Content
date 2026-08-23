@@ -1,0 +1,504 @@
+{
+  "section_id": "republic-chapter-04-section-11",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὰ αὑτοῦ πράττων",
+          "lemma": "πράττω",
+          "location": "441e",
+          "context": "οὗτος δίκαιός τε ἔσται καὶ τὰ αὑτοῦ πράττων"
+        },
+        {
+          "form": "τὰ αὑτοῦ πράττει",
+          "lemma": "πράττω",
+          "location": "443b",
+          "context": "αὐτοῦ τῶν ἐν αὐτῷ ἕκαστον τὰ αὑτοῦ πράττει"
+        },
+        {
+          "form": "τὸ ἑαυτοῦ ἕκαστον ἐν αὐτῇ πράττειν",
+          "lemma": "πράττω",
+          "location": "441d",
+          "context": null
+        },
+        {
+          "form": "πολυπραγμονεῖν",
+          "lemma": "πολυπραγμονέω",
+          "location": "443d",
+          "context": "μηδὲ πολυπραγμονεῖν πρὸς ἄλληλα τὰ ἐν τῇ ψυχῇ γένη"
+        },
+        {
+          "form": "τἀλλότρια πράττειν",
+          "lemma": "πράττω",
+          "location": "443d",
+          "context": "μὴ ἐάσαντα τἀλλότρια πράττειν ἕκαστον ἐν αὑτῷ"
+        }
+      ],
+      "observation": "Forms of πράττω recur throughout as the definition of justice (τὰ αὑτοῦ πράττειν), with πολυπραγμονεῖν and τἀλλότρια πράττειν as their negations."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἔξω πρᾶξιν",
+          "lemma": null,
+          "location": "443c",
+          "context": "οὐ περὶ τὴν ἔξω πρᾶξιν τῶν αὑτοῦ"
+        },
+        {
+          "form": "ἐντός",
+          "lemma": "ἐντός",
+          "location": "443d",
+          "context": "ἀλλὰ περὶ τὴν ἐντός"
+        }
+      ],
+      "observation": "Justice is explicitly distinguished as pertaining to the ἐντός rather than the ἔξω πρᾶξις."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "441e",
+          "context": "τῷ μὲν λογιστικῷ ἄρχειν προσήκει"
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "442b",
+          "context": "καταδουλώσασθαι καὶ ἄρχειν ἐπιχειρήσῃ ὧν οὐ προσῆκον αὐτῷ γένει"
+        },
+        {
+          "form": "ἄρχον",
+          "lemma": "ἄρχω",
+          "location": "442c",
+          "context": "τό τε ἄρχον καὶ τὼ ἀρχομένω"
+        },
+        {
+          "form": "ἀρχῆς τε πέρι καὶ τοῦ ἄρχεσθαι",
+          "lemma": "ἄρχω",
+          "location": "443b",
+          "context": null
+        },
+        {
+          "form": "ἄρξαντα αὐτὸν αὑτοῦ",
+          "lemma": "ἄρχω",
+          "location": "443d",
+          "context": null
+        }
+      ],
+      "observation": "ἄρχω recurs across legitimate rule by the logistikon, illegitimate seizure by the appetitive, and self-rule in the just individual."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σοφὸν",
+          "lemma": "σοφός",
+          "location": "441c",
+          "context": "πόλις ἦν σοφὴ"
+        },
+        {
+          "form": "ἀνδρεῖος",
+          "lemma": "ἀνδρεῖος",
+          "location": "441d",
+          "context": null
+        },
+        {
+          "form": "δίκαιον",
+          "lemma": "δίκαιος",
+          "location": "441d",
+          "context": null
+        },
+        {
+          "form": "σώφρονα",
+          "lemma": "σώφρων",
+          "location": "442c",
+          "context": "τῇ φιλίᾳ καὶ συμφωνίᾳ"
+        },
+        {
+          "form": "σοφίαν",
+          "lemma": "σοφία",
+          "location": "443e",
+          "context": "σοφίαν δὲ τὴν ἐπιστατοῦσαν ταύτῃ τῇ πράξει ἐπιστήμην"
+        }
+      ],
+      "observation": "The four virtues are applied serially to the individual, paralleling their earlier establishment in the city."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἁρμονίᾳ τε καὶ ῥυθμῷ",
+          "lemma": null,
+          "location": "442a",
+          "context": "ἡμεροῦσα ἁρμονίᾳ τε καὶ ῥυθμῷ"
+        },
+        {
+          "form": "σύμφωνα",
+          "lemma": "σύμφωνος",
+          "location": "441e",
+          "context": "μουσικῆς καὶ γυμναστικῆς κρᾶσις σύμφωνα αὐτὰ ποιήσει"
+        },
+        {
+          "form": "συμφωνίᾳ",
+          "lemma": "συμφωνία",
+          "location": "442c",
+          "context": "τῇ φιλίᾳ καὶ συμφωνίᾳ τῇ αὐτῶν τούτων"
+        },
+        {
+          "form": "συναρμόσαντα",
+          "lemma": "συναρμόζω",
+          "location": "443d",
+          "context": "συναρμόσαντα τρία ὄντα"
+        },
+        {
+          "form": "ἡρμοσμένον",
+          "lemma": "ἁρμόζω",
+          "location": "443e",
+          "context": "σώφρονα καὶ ἡρμοσμένον"
+        },
+        {
+          "form": "ὅρους τρεῖς ἁρμονίας",
+          "lemma": "ἁρμονία",
+          "location": "443d",
+          "context": "ὥσπερ ὅρους τρεῖς ἁρμονίας ἀτεχνῶς"
+        }
+      ],
+      "observation": "A dense cluster of musical-harmonic vocabulary: σύμφωνα, ἁρμονία, ῥυθμός, συμφωνία, συναρμόζω, ἡρμοσμένον."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "νεάτης τε καὶ ὑπάτης καὶ μέσης",
+          "lemma": null,
+          "location": "443d",
+          "context": "ὥσπερ ὅρους τρεῖς ἁρμονίας ἀτεχνῶς, νεάτης τε καὶ ὑπάτης καὶ μέσης"
+        }
+      ],
+      "observation": "The three parts of the soul are compared to the three notes of a harmonic scale—lowest, highest, and middle."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτείνουσα",
+          "lemma": "ἐπιτείνω",
+          "location": "441e",
+          "context": "τὸ μὲν ἐπιτείνουσα"
+        },
+        {
+          "form": "ἀνιεῖσα",
+          "lemma": "ἀνίημι",
+          "location": "442a",
+          "context": "τὸ δὲ ἀνιεῖσα παραμυθουμένη"
+        }
+      ],
+      "observation": "Tightening (ἐπιτείνουσα) and loosening (ἀνιεῖσα) are paired as contrasting actions of the musical-gymnastic blend on the two soul-parts."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐνύπνιον",
+          "lemma": "ἐνύπνιον",
+          "location": "443b",
+          "context": "τέλεον ἄρα ἡμῖν τὸ ἐνύπνιον ἀποτετέλεσται"
+        },
+        {
+          "form": "ὑποπτεῦσαι",
+          "lemma": "ὑποπτεύω",
+          "location": "443b",
+          "context": "ὃ ἔφαμεν ὑποπτεῦσαι"
+        }
+      ],
+      "observation": "Justice's discovery is described as a dream (ἐνύπνιον) now fulfilled (ἀποτετέλεσται), into which they suspect they stumbled."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εἴδωλόν τι τῆς δικαιοσύνης",
+          "lemma": "εἴδωλον",
+          "location": "443c",
+          "context": null
+        },
+        {
+          "form": "τὸ δέ γε ἀληθές",
+          "lemma": "ἀληθής",
+          "location": "443c",
+          "context": "τὸ δέ γε ἀληθές, τοιοῦτόν τι ἦν ... ἡ δικαιοσύνη"
+        }
+      ],
+      "observation": "The craftsman doing his own work is called an εἴδωλον of justice, contrasted with the ἀληθές justice of internal soul-order."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σκυτοτομικὸν",
+          "lemma": "σκυτοτομικός",
+          "location": "443c",
+          "context": "τὸν μὲν σκυτοτομικὸν φύσει ὀρθῶς ἔχειν σκυτοτομεῖν"
+        },
+        {
+          "form": "σκυτοτομεῖν",
+          "lemma": "σκυτοτομέω",
+          "location": "443c",
+          "context": null
+        },
+        {
+          "form": "τεκτονικὸν",
+          "lemma": "τεκτονικός",
+          "location": "443c",
+          "context": "τὸν δὲ τεκτονικὸν τεκταίνεσθαι"
+        },
+        {
+          "form": "τεκταίνεσθαι",
+          "lemma": "τεκταίνω",
+          "location": "443c",
+          "context": null
+        }
+      ],
+      "observation": "Cobbler and carpenter each appear with both noun-adjective and cognate verb, a morphological doubling within the εἴδωλον passage."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "παρακαταθήκην χρυσίου ἢ ἀργυρίου",
+          "lemma": null,
+          "location": "442e",
+          "context": null
+        },
+        {
+          "form": "ἀποστερῆσαι",
+          "lemma": "ἀποστερέω",
+          "location": "442e",
+          "context": null
+        },
+        {
+          "form": "ἱεροσυλιῶν καὶ κλοπῶν καὶ προδοσιῶν",
+          "lemma": null,
+          "location": "443a",
+          "context": null
+        },
+        {
+          "form": "μοιχεῖαί",
+          "lemma": "μοιχεία",
+          "location": "443a",
+          "context": null
+        },
+        {
+          "form": "γονέων ἀμέλειαι",
+          "lemma": null,
+          "location": "443a",
+          "context": null
+        },
+        {
+          "form": "θεῶν ἀθεραπευσίαι",
+          "lemma": "ἀθεραπευσία",
+          "location": "443a",
+          "context": null
+        }
+      ],
+      "observation": "A catalogue of injustices—deposit-theft, sacrilege, theft, betrayal, adultery, neglect of parents, neglect of gods—tested against the just man."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δικαίαν μὲν καὶ καλὴν πρᾶξιν",
+          "lemma": null,
+          "location": "443e",
+          "context": "ἣ ἂν ταύτην τὴν ἕξιν σῴζῃ τε καὶ συναπεργάζηται"
+        },
+        {
+          "form": "ἄδικον δὲ πρᾶξιν",
+          "lemma": null,
+          "location": "444a",
+          "context": "ἣ ἂν ἀεὶ ταύτην λύῃ"
+        },
+        {
+          "form": "σοφίαν",
+          "lemma": "σοφία",
+          "location": "443e",
+          "context": "τὴν ἐπιστατοῦσαν ταύτῃ τῇ πράξει ἐπιστήμην"
+        },
+        {
+          "form": "ἀμαθίαν",
+          "lemma": "ἀμαθία",
+          "location": "444a",
+          "context": "τὴν ταύτῃ αὖ ἐπιστατοῦσαν δόξαν"
+        }
+      ],
+      "observation": "Just/unjust action and σοφία/ἀμαθία are paired in a fourfold contrast; σοφία is ἐπιστήμη, ἀμαθία is δόξα."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "πόλις",
+          "lemma": "πόλις",
+          "location": "441c",
+          "context": "τὰ αὐτὰ μὲν ἐν πόλει"
+        },
+        {
+          "form": "ψυχῇ",
+          "lemma": "ψυχή",
+          "location": "441c",
+          "context": "τὰ αὐτὰ δʼ ἐν ἑνὸς ἑκάστου τῇ ψυχῇ"
+        },
+        {
+          "form": "ἴσα τὸν ἀριθμόν",
+          "lemma": null,
+          "location": "441c",
+          "context": null
+        }
+      ],
+      "observation": "City and soul are declared to contain the same kinds (γένη) equal in number (ἴσα τὸν ἀριθμόν)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ θεόν τινα",
+          "lemma": "θεός",
+          "location": "443c",
+          "context": "κατὰ θεόν τινα εἰς ἀρχήν τε καὶ τύπον τινὰ τῆς δικαιοσύνης κινδυνεύομεν ἐμβεβηκέναι"
+        }
+      ],
+      "observation": "The initial city-founding is said to have arrived at a τύπος of justice κατὰ θεόν τινα—by some god's guidance."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἕνα γενόμενον ἐκ πολλῶν",
+          "lemma": null,
+          "location": "443e",
+          "context": "παντάπασιν ἕνα γενόμενον ἐκ πολλῶν, σώφρονα καὶ ἡρμοσμένον"
+        },
+        {
+          "form": "συνδήσαντα",
+          "lemma": "συνδέω",
+          "location": "443e",
+          "context": "πάντα ταῦτα συνδήσαντα"
+        },
+        {
+          "form": "φίλον γενόμενον ἑαυτῷ",
+          "lemma": "φίλος",
+          "location": "443d",
+          "context": null
+        }
+      ],
+      "observation": "The just person becomes one from many (ἕνα ἐκ πολλῶν), having bound all together (συνδήσαντα) and become a friend to himself (φίλον ἑαυτῷ)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπληστότατον",
+          "lemma": "ἄπληστος",
+          "location": "442a",
+          "context": "χρημάτων φύσει ἀπληστότατον"
+        },
+        {
+          "form": "πίμπλασθαι",
+          "lemma": "πίμπλημι",
+          "location": "442a",
+          "context": "τῷ πίμπλασθαι τῶν περὶ τὸ σῶμα καλουμένων ἡδονῶν"
+        }
+      ],
+      "observation": "The appetitive part is called most insatiable (ἀπληστότατον) by nature, with the danger of its being filled (πίμπλασθαι) with bodily pleasures—filling and unfillability juxtaposed."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μνημονευτέον",
+          "lemma": "μνημονεύω",
+          "location": "441d",
+          "context": "μνημονευτέον ἄρα ἡμῖν"
+        },
+        {
+          "form": "μνημονευτέον",
+          "lemma": "μνημονεύω",
+          "location": "441e",
+          "context": "καὶ μάλα ... μνημονευτέον"
+        },
+        {
+          "form": "ἐπιλελήσμεθα",
+          "lemma": "ἐπιλανθάνω",
+          "location": "441d",
+          "context": "οὔ πῃ μὴν τοῦτό γε ἐπιλελήσμεθα"
+        },
+        {
+          "form": "ἐπιλελῆσθαι",
+          "lemma": "ἐπιλανθάνω",
+          "location": "441d",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of remembering and not-forgetting: ἐπιλελήσμεθα / ἐπιλελῆσθαι answered by the verbal adjective μνημονευτέον repeated by both speakers."
+    }
+  ]
+}
