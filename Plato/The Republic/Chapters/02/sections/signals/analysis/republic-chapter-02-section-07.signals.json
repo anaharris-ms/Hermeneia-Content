@@ -1,0 +1,650 @@
+{
+  "section_id": "republic-chapter-02-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φυλάκων",
+          "lemma": "φύλαξ",
+          "location": "374d",
+          "context": "τὸ τῶν φυλάκων ἔργον"
+        },
+        {
+          "form": "φυλακήν",
+          "lemma": "φυλακή",
+          "location": "374e",
+          "context": "εἰς πόλεως φυλακήν"
+        },
+        {
+          "form": "φύλακα",
+          "lemma": "φύλαξ",
+          "location": "375b",
+          "context": "τὸν φύλακα εἶναι"
+        },
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "375c",
+          "context": "φύλαξ ἀγαθὸς οὐ μὴ γένηται"
+        },
+        {
+          "form": "φύλακα",
+          "lemma": "φύλαξ",
+          "location": "375d",
+          "context": "ἀγαθὸν φύλακα ἀδύνατον γενέσθαι"
+        },
+        {
+          "form": "τῷ φύλακι",
+          "lemma": "φύλαξ",
+          "location": "375e",
+          "context": "παρεβάλλομεν τῷ φύλακι"
+        },
+        {
+          "form": "φυλακικὸς",
+          "lemma": "φυλακικός",
+          "location": "375e",
+          "context": "ὁ φυλακικὸς ἐσόμενος"
+        },
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "376c",
+          "context": "φύλαξ πόλεως"
+        }
+      ],
+      "observation": "φύλαξ and cognates recur densely throughout the section, accumulating qualifications for the guardian's nature."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "θυμοειδὴς",
+          "lemma": "θυμοειδής",
+          "location": "375a",
+          "context": "ὁ μὴ θυμοειδὴς εἴτε ἵππος εἴτε κύων"
+        },
+        {
+          "form": "θυμός",
+          "lemma": "θυμός",
+          "location": "375b",
+          "context": "ἄμαχόν τε καὶ ἀνίκητον θυμός"
+        },
+        {
+          "form": "θυμοειδῆ",
+          "lemma": "θυμοειδής",
+          "location": "375b",
+          "context": "τὰ τῆς ψυχῆς, ὅτι γε θυμοειδῆ"
+        },
+        {
+          "form": "θυμοειδεῖ",
+          "lemma": "θυμοειδής",
+          "location": "375c",
+          "context": "ἐναντία γάρ που θυμοειδεῖ πρᾳεῖα φύσις"
+        },
+        {
+          "form": "θυμοειδεῖ",
+          "lemma": "θυμοειδής",
+          "location": "375e",
+          "context": "πρὸς τῷ θυμοειδεῖ"
+        },
+        {
+          "form": "θυμοειδὴς",
+          "lemma": "θυμοειδής",
+          "location": "376c",
+          "context": "φιλόσοφος δὴ καὶ θυμοειδὴς"
+        }
+      ],
+      "observation": "θυμοειδής/θυμός recurs densely, first as a requirement, then as a problem (opposing gentleness), then as one element in the final composite nature."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πρᾴους",
+          "lemma": "πρᾷος",
+          "location": "375c",
+          "context": "πρὸς μὲν τοὺς οἰκείους πρᾴους"
+        },
+        {
+          "form": "χαλεπούς",
+          "lemma": "χαλεπός",
+          "location": "375c",
+          "context": "πρὸς δὲ τοὺς πολεμίους χαλεπούς"
+        },
+        {
+          "form": "πρᾳοτάτους",
+          "lemma": "πρᾷος",
+          "location": "375e",
+          "context": "ὡς οἷόν τε πρᾳοτάτους εἶναι"
+        },
+        {
+          "form": "τοὐναντίον",
+          "lemma": "ἐναντίος",
+          "location": "375e",
+          "context": "πρὸς δὲ τοὺς ἀγνῶτας τοὐναντίον"
+        },
+        {
+          "form": "πρᾳεῖα",
+          "lemma": "πρᾷος",
+          "location": "375c",
+          "context": "ἐναντία γάρ που θυμοειδεῖ πρᾳεῖα φύσις"
+        }
+      ],
+      "observation": "The gentle/harsh contrast is stated as a requirement for guardians (πρᾴους/χαλεπούς toward kin/enemies), declared contradictory (πρᾳεῖα vs θυμοειδεῖ), then resolved by the dog's nature (πρᾳοτάτους toward familiar, τοὐναντίον toward strangers)."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "374e",
+          "context": "φύσεως ἐπιτηδείας"
+        },
+        {
+          "form": "φύσεις",
+          "lemma": "φύσις",
+          "location": "374e",
+          "context": "ποῖαι φύσεις ἐπιτήδειαι"
+        },
+        {
+          "form": "τὰς φύσεις",
+          "lemma": "φύσις",
+          "location": "375b",
+          "context": "τοιοῦτοι τὰς φύσεις"
+        },
+        {
+          "form": "φύσις",
+          "lemma": "φύσις",
+          "location": "375c",
+          "context": "πρᾳεῖα φύσις"
+        },
+        {
+          "form": "φύσεις",
+          "lemma": "φύσις",
+          "location": "375d",
+          "context": "φύσεις οἵας ἡμεῖς οὐκ ᾠήθημεν"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "375e",
+          "context": "τοῦτο φύσει αὐτῶν τὸ ἦθος"
+        },
+        {
+          "form": "παρὰ φύσιν",
+          "lemma": "φύσις",
+          "location": "375e",
+          "context": "οὐ παρὰ φύσιν ζητοῦμεν"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "376a-b",
+          "context": "τὸ πάθος αὐτοῦ τῆς φύσεως"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "376c",
+          "context": "φύσει φιλόσοφον"
+        },
+        {
+          "form": "τὴν φύσιν",
+          "lemma": "φύσις",
+          "location": "376c",
+          "context": "ἰσχυρὸς ἡμῖν τὴν φύσιν"
+        }
+      ],
+      "observation": "φύσις recurs throughout, moving from the search for a suitable nature, through the apparent impossibility of combining opposed natures, to discovery that such a nature exists."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "σκύλακος",
+          "lemma": "σκύλαξ",
+          "location": "375a",
+          "context": "γενναίου σκύλακος εἰς φυλακήν"
+        },
+        {
+          "form": "νεανίσκου",
+          "lemma": "νεανίσκος",
+          "location": "375a",
+          "context": "νεανίσκου εὐγενοῦς"
+        },
+        {
+          "form": "κύων",
+          "lemma": "κύων",
+          "location": "375a",
+          "context": "εἴτε κύων"
+        },
+        {
+          "form": "κυνῶν",
+          "lemma": "κύων",
+          "location": "375e",
+          "context": "τῶν γενναίων κυνῶν"
+        },
+        {
+          "form": "κυσὶν",
+          "lemma": "κύων",
+          "location": "376a",
+          "context": "ἐν τοῖς κυσὶν κατόψει"
+        },
+        {
+          "form": "θηρίου",
+          "lemma": "θηρίον",
+          "location": "376a",
+          "context": "θαυμάσαι τοῦ θηρίου"
+        }
+      ],
+      "observation": "The dog is introduced via σκύλαξ paired with νεανίσκος as a comparison for the guardian, then recurs as κύων/κυνῶν/κυσίν, and is also called θηρίον."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "γενναίου",
+          "lemma": "γενναῖος",
+          "location": "375a",
+          "context": "γενναίου σκύλακος"
+        },
+        {
+          "form": "εὐγενοῦς",
+          "lemma": "εὐγενής",
+          "location": "375a",
+          "context": "νεανίσκου εὐγενοῦς"
+        },
+        {
+          "form": "γενναίων",
+          "lemma": "γενναῖος",
+          "location": "375e",
+          "context": "τῶν γενναίων κυνῶν"
+        }
+      ],
+      "observation": "γενναῖος appears for the puppy and again for noble dogs, while εὐγενής is used for the young man, concentrating the lexical family of noble birth in the dog-guardian comparison."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀποροῦμεν",
+          "lemma": "ἀπορέω",
+          "location": "375d",
+          "context": "ἀπορήσας τε καὶ ἐπισκεψάμενος... ἀποροῦμεν"
+        },
+        {
+          "form": "εἰκόνος",
+          "lemma": "εἰκών",
+          "location": "375d",
+          "context": "ἧς γὰρ προυθέμεθα εἰκόνος ἀπελείφθημεν"
+        },
+        {
+          "form": "δυνατόν",
+          "lemma": "δυνατός",
+          "location": "375e",
+          "context": "τοῦτο μὲν ἄρα δυνατόν"
+        },
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "375d",
+          "context": "ἀγαθὸν φύλακα ἀδύνατον γενέσθαι"
+        }
+      ],
+      "observation": "An impasse is declared (ἀποροῦμεν, ἀδύνατον) after the image (εἰκών) seems abandoned, then reversed when the dog's nature shows the combination is δυνατόν."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γνωρίμους",
+          "lemma": "γνώριμος",
+          "location": "375e",
+          "context": "τοὺς συνήθεις τε καὶ γνωρίμους"
+        },
+        {
+          "form": "ἀγνῶτας",
+          "lemma": "ἄγνωτος",
+          "location": "375e",
+          "context": "πρὸς δὲ τοὺς ἀγνῶτας"
+        },
+        {
+          "form": "γνώριμον",
+          "lemma": "γνώριμος",
+          "location": "376a",
+          "context": "ὃν δʼ ἂν γνώριμον, ἀσπάζεται"
+        },
+        {
+          "form": "ἀγνῶτα",
+          "lemma": "ἄγνωτος",
+          "location": "376a",
+          "context": "ὃν μὲν ἂν ἴδῃ ἀγνῶτα, χαλεπαίνει"
+        },
+        {
+          "form": "καταμαθεῖν",
+          "lemma": "καταμανθάνω",
+          "location": "376b",
+          "context": "τῷ τὴν μὲν καταμαθεῖν"
+        },
+        {
+          "form": "ἀγνοῆσαι",
+          "lemma": "ἀγνοέω",
+          "location": "376b",
+          "context": "τὴν δὲ ἀγνοῆσαι"
+        }
+      ],
+      "observation": "The knowing/not-knowing contrast (γνώριμος/ἄγνωτος) structures the dog's behavior, then shifts to the epistemological pair καταμαθεῖν/ἀγνοῆσαι as the basis for distinguishing friend from stranger."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lexical_family",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φιλόσοφον",
+          "lemma": "φιλόσοφος",
+          "location": "376b",
+          "context": "ὡς ἀληθῶς φιλόσοφον"
+        },
+        {
+          "form": "φιλομαθὲς",
+          "lemma": "φιλομαθής",
+          "location": "376b",
+          "context": "πῶς οὐκ ἂν φιλομαθὲς εἴη"
+        },
+        {
+          "form": "φιλόσοφον",
+          "lemma": "φιλόσοφος",
+          "location": "376b",
+          "context": "τό γε φιλομαθὲς καὶ φιλόσοφον ταὐτόν"
+        },
+        {
+          "form": "φιλομαθῆ",
+          "lemma": "φιλομαθής",
+          "location": "376c",
+          "context": "φιλόσοφον καὶ φιλομαθῆ αὐτὸν δεῖν εἶναι"
+        }
+      ],
+      "observation": "φιλόσοφος is applied to the dog's nature, then equated with φιλομαθής, and the pair is transferred to the human guardian."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τέχνας",
+          "lemma": "τέχνη",
+          "location": "374a",
+          "context": "ἀδύνατον ἕνα πολλὰς καλῶς ἐργάζεσθαι τέχνας"
+        },
+        {
+          "form": "τεχνικὴ",
+          "lemma": "τεχνικός",
+          "location": "374b",
+          "context": "ἡ περὶ τὸν πόλεμον ἀγωνία οὐ τεχνικὴ δοκεῖ εἶναι"
+        },
+        {
+          "form": "σκυτικῆς",
+          "lemma": "σκυτική",
+          "location": "374b",
+          "context": null
+        },
+        {
+          "form": "πολεμικῆς",
+          "lemma": "πολεμική",
+          "location": "374b",
+          "context": null
+        },
+        {
+          "form": "σκυτοτόμον",
+          "lemma": "σκυτοτόμος",
+          "location": "374b",
+          "context": null
+        },
+        {
+          "form": "γεωργὸν",
+          "lemma": "γεωργός",
+          "location": "374b",
+          "context": null
+        },
+        {
+          "form": "ὑφάντην",
+          "lemma": "ὑφάντης",
+          "location": "374b",
+          "context": null
+        },
+        {
+          "form": "οἰκοδόμον",
+          "lemma": "οἰκοδόμος",
+          "location": "374b",
+          "context": null
+        },
+        {
+          "form": "τέχνης",
+          "lemma": "τέχνη",
+          "location": "374e",
+          "context": "τέχνης τε καὶ ἐπιμελείας μεγίστης δεόμενον"
+        }
+      ],
+      "observation": "A dense cluster of craft terms and specific trades (cobbler, farmer, weaver, builder) supports the one-person-one-craft principle, which is then applied to warfare as τέχνη."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "375b",
+          "context": "τὰ μὲν τοίνυν τοῦ σώματος οἷον δεῖ τὸν φύλακα εἶναι"
+        },
+        {
+          "form": "ψυχῆς",
+          "lemma": "ψυχή",
+          "location": "375b",
+          "context": "καὶ μὴν καὶ τὰ τῆς ψυχῆς"
+        },
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "375b",
+          "context": "ψυχὴ πᾶσα πρὸς πάντα ἄφοβός"
+        }
+      ],
+      "observation": "The guardian's requirements are divided into body (σῶμα) and soul (ψυχή), with σώματος treated as settled and ψυχῆς opening the problem of combining spirit and gentleness."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐννενόηκας",
+          "lemma": "ἐννοέω",
+          "location": "375a",
+          "context": "ἢ οὐκ ἐννενόηκας ὡς ἄμαχόν τε καὶ ἀνίκητον θυμός"
+        },
+        {
+          "form": "ἐννενόηκα",
+          "lemma": "ἐννοέω",
+          "location": "375b",
+          "context": null
+        },
+        {
+          "form": "ἐννενοήκαμεν",
+          "lemma": "ἐννοέω",
+          "location": "375d",
+          "context": "οὐκ ἐννενοήκαμεν ὅτι εἰσὶν ἄρα φύσεις"
+        },
+        {
+          "form": "ἐννοῶ",
+          "lemma": "ἐννοέω",
+          "location": "376a",
+          "context": "οὐ γὰρ ἐννοῶ"
+        }
+      ],
+      "observation": "ἐννοέω recurs: first Socrates asks if Glaucon has noticed spirit's power, Glaucon confirms, then Socrates says 'we have not noticed' the resolution, and Glaucon says he does not yet grasp the philosophical claim."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θαυμάσαι",
+          "lemma": "θαυμάζω",
+          "location": "376a",
+          "context": "ἄξιον θαυμάσαι τοῦ θηρίου"
+        },
+        {
+          "form": "ἐθαύμασας",
+          "lemma": "θαυμάζω",
+          "location": "376a",
+          "context": "ἢ οὔπω τοῦτο ἐθαύμασας"
+        }
+      ],
+      "observation": "Socrates says the dog's quality is worthy of wonder (θαυμάσαι), then asks if Glaucon has not yet wondered at it (ἐθαύμασας)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀξύν",
+          "lemma": "ὀξύς",
+          "location": "375a",
+          "context": "ὀξύν τέ που δεῖ αὐτοῖν ἑκάτερον εἶναι πρὸς αἴσθησιν"
+        },
+        {
+          "form": "ἐλαφρὸν",
+          "lemma": "ἐλαφρός",
+          "location": "375a",
+          "context": "ἐλαφρὸν πρὸς τὸ αἰσθανόμενον διωκάθειν"
+        },
+        {
+          "form": "ἰσχυρὸν",
+          "lemma": "ἰσχυρός",
+          "location": "375a",
+          "context": "ἰσχυρὸν αὖ, ἐὰν δέῃ ἑλόντα διαμάχεσθαι"
+        },
+        {
+          "form": "ἀνδρεῖόν",
+          "lemma": "ἀνδρεῖος",
+          "location": "375a",
+          "context": "ἀνδρεῖόν γε, εἴπερ εὖ μαχεῖται"
+        },
+        {
+          "form": "ταχὺς",
+          "lemma": "ταχύς",
+          "location": "376c",
+          "context": "φιλόσοφος δὴ καὶ θυμοειδὴς καὶ ταχὺς καὶ ἰσχυρὸς"
+        }
+      ],
+      "observation": "Physical qualities (keen perception, swiftness, strength, courage) are listed for the puppy-guardian pair, then gathered in the closing summary with φιλόσοφος added."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οἰκείους",
+          "lemma": "οἰκεῖος",
+          "location": "375c",
+          "context": "πρὸς μὲν τοὺς οἰκείους"
+        },
+        {
+          "form": "πολεμίους",
+          "lemma": "πολέμιος",
+          "location": "375c",
+          "context": "πρὸς δὲ τοὺς πολεμίους"
+        },
+        {
+          "form": "οἰκεῖον",
+          "lemma": "οἰκεῖος",
+          "location": "376b",
+          "context": "τό τε οἰκεῖον καὶ τὸ ἀλλότριον"
+        },
+        {
+          "form": "ἀλλότριον",
+          "lemma": "ἀλλότριος",
+          "location": "376b",
+          "context": null
+        }
+      ],
+      "observation": "The own/alien contrast appears first as οἰκείους/πολεμίους (political/military), then as οἰκεῖον/ἀλλότριον (epistemological), shifting the ground of the distinction."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπεφύκει",
+          "lemma": "φύω",
+          "location": "374b",
+          "context": "πρὸς ὃ ἐπεφύκει ἕκαστος"
+        },
+        {
+          "form": "ἐπιτηδείας",
+          "lemma": "ἐπιτήδειος",
+          "location": "374e",
+          "context": "φύσεως ἐπιτηδείας εἰς αὐτὸ τὸ ἐπιτήδευμα"
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "374e",
+          "context": null
+        }
+      ],
+      "observation": "The one-craft principle is grounded in natural fitness (ἐπεφύκει), and the guardian's task is framed as an ἐπιτήδευμα requiring an ἐπιτήδεια φύσις."
+    }
+  ]
+}
