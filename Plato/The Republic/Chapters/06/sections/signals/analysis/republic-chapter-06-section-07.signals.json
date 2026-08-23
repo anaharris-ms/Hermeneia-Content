@@ -1,0 +1,701 @@
+{
+  "section_id": "republic-chapter-06-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μέγιστα",
+          "lemma": "μέγας",
+          "location": "504a",
+          "context": "ποῖα δὴ λέγεις μαθήματα μέγιστα"
+        },
+        {
+          "form": "μεγίστου",
+          "lemma": "μέγας",
+          "location": "504d",
+          "context": "τοῦ μεγίστου τε καὶ μάλιστα προσήκοντος μαθήματος"
+        },
+        {
+          "form": "μεῖζον",
+          "lemma": "μέγας",
+          "location": "504d",
+          "context": "ἔτι τι μεῖζον δικαιοσύνης"
+        },
+        {
+          "form": "μεγίστων",
+          "lemma": "μέγας",
+          "location": "504e",
+          "context": "τῶν δὲ μεγίστων μὴ μεγίστας ἀξιοῦν"
+        },
+        {
+          "form": "μεγίστας",
+          "lemma": "μέγας",
+          "location": "504e",
+          "context": null
+        },
+        {
+          "form": "μέγιστον",
+          "lemma": "μέγας",
+          "location": "504e",
+          "context": "ὃ μέντοι μέγιστον μάθημα"
+        },
+        {
+          "form": "μέγιστον",
+          "lemma": "μέγας",
+          "location": "505a",
+          "context": "ἡ τοῦ ἀγαθοῦ ἰδέα μέγιστον μάθημα"
+        },
+        {
+          "form": "μεγάλαι",
+          "lemma": "μέγας",
+          "location": "505d",
+          "context": "μεγάλαι καὶ πολλαὶ ἀμφισβητήσεις"
+        }
+      ],
+      "observation": "Forms of μέγας recur densely across the section, applied repeatedly to μάθημα/μαθήματα and to the comparative claim that something is μεῖζον than justice."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μαθημάτων",
+          "lemma": "μάθημα",
+          "location": "502c",
+          "context": "ἐκ τίνων μαθημάτων"
+        },
+        {
+          "form": "μαθήμασι",
+          "lemma": "μάθημα",
+          "location": "503e",
+          "context": "ἐν μαθήμασι πολλοῖς γυμνάζειν"
+        },
+        {
+          "form": "μαθήματα",
+          "lemma": "μάθημα",
+          "location": "503e",
+          "context": "τὰ μέγιστα μαθήματα"
+        },
+        {
+          "form": "μαθήματα",
+          "lemma": "μάθημα",
+          "location": "504a",
+          "context": "ποῖα δὴ λέγεις μαθήματα μέγιστα"
+        },
+        {
+          "form": "μαθήματος",
+          "lemma": "μάθημα",
+          "location": "504d",
+          "context": "τοῦ μεγίστου τε καὶ μάλιστα προσήκοντος μαθήματος"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "504e",
+          "context": "μέγιστον μάθημα"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "505a",
+          "context": "ἡ τοῦ ἀγαθοῦ ἰδέα μέγιστον μάθημα"
+        }
+      ],
+      "observation": "μάθημα recurs throughout, moving from plural μαθήματα (what studies?) toward singular μάθημα (the greatest learning), culminating in identification with ἡ τοῦ ἀγαθοῦ ἰδέα."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βασανιζομένους",
+          "lemma": "βασανίζω",
+          "location": "503a",
+          "context": "βασανιζομένους ἐν ἡδοναῖς τε καὶ λύπαις"
+        },
+        {
+          "form": "βασανιζόμενον",
+          "lemma": "βασανίζω",
+          "location": "503a",
+          "context": "χρυσὸν ἐν πυρὶ βασανιζόμενον"
+        },
+        {
+          "form": "βασανιστέον",
+          "lemma": "βασανίζω",
+          "location": "503e",
+          "context": "βασανιστέον δὴ ἔν τε οἷς τότε ἐλέγομεν"
+        }
+      ],
+      "observation": "βασανίζω appears three times: testing guardians in pleasures and pains, the simile of gold tested in fire, and the verbal adjective βασανιστέον reopening the requirement of testing."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χρυσὸν",
+          "lemma": "χρυσός",
+          "location": "503a",
+          "context": "χρυσὸν ἐν πυρὶ βασανιζόμενον"
+        },
+        {
+          "form": "πυρὶ",
+          "lemma": "πῦρ",
+          "location": "503a",
+          "context": null
+        },
+        {
+          "form": "ἀκήρατον",
+          "lemma": "ἀκήρατος",
+          "location": "503a",
+          "context": "πανταχοῦ ἀκήρατον ἐκβαίνοντα"
+        }
+      ],
+      "observation": "Gold, fire, and purity (ἀκήρατος) cluster in the simile for the guardian who emerges uncontaminated from testing."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκριβεστάτους",
+          "lemma": "ἀκριβής",
+          "location": "503b",
+          "context": "τοὺς ἀκριβεστάτους φύλακας"
+        },
+        {
+          "form": "ἀκριβείας",
+          "lemma": "ἀκρίβεια",
+          "location": "504b",
+          "context": "τῆς μὲν ἀκριβείας … ἐλλιπῆ"
+        },
+        {
+          "form": "ἀκριβέστατα",
+          "lemma": "ἀκριβής",
+          "location": "504e",
+          "context": "ὅπως ὅτι ἀκριβέστατα καὶ καθαρώτατα ἕξει"
+        },
+        {
+          "form": "ἀκριβεστάτης",
+          "lemma": "ἀκριβής",
+          "location": "503d",
+          "context": "παιδείας τῆς ἀκριβεστάτης"
+        }
+      ],
+      "observation": "ἀκριβής/ἀκρίβεια recurs applied first to guardians, then to education, then to an earlier account's deficiency, then to the demand for precision regarding the greatest things."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀλίγοι",
+          "lemma": "ὀλίγος",
+          "location": "503b",
+          "context": "ὀλίγοι ἔσονταί σοι"
+        },
+        {
+          "form": "ὀλιγάκις",
+          "lemma": "ὀλιγάκις",
+          "location": "503b",
+          "context": "εἰς ταὐτὸν συμφύεσθαι αὐτῆς τὰ μέρη ὀλιγάκις ἐθέλει"
+        },
+        {
+          "form": "σπάνιον",
+          "lemma": "σπάνιος",
+          "location": "503d",
+          "context": "σπάνιον αὐτὸ οἴει ἔσεσθαι"
+        }
+      ],
+      "observation": "ὀλίγοι and ὀλιγάκις occur together, reinforced by σπάνιον, stressing rarity of the combined nature."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐμαθεῖς",
+          "lemma": "εὐμαθής",
+          "location": "503c",
+          "context": null
+        },
+        {
+          "form": "ὀξεῖς",
+          "lemma": "ὀξύς",
+          "location": "503c",
+          "context": null
+        },
+        {
+          "form": "βέβαιον",
+          "lemma": "βέβαιος",
+          "location": "503c",
+          "context": "τὸ βέβαιον ἅπαν αὐτῶν ἐξοίχεται"
+        },
+        {
+          "form": "βέβαια",
+          "lemma": "βέβαιος",
+          "location": "503c",
+          "context": "τὰ βέβαια αὖ ταῦτα ἤθη"
+        },
+        {
+          "form": "δυσκίνητα",
+          "lemma": "δυσκίνητος",
+          "location": "503d",
+          "context": "πρὸς τοὺς φόβους δυσκίνητα ὄντα"
+        },
+        {
+          "form": "δυσμαθῶς",
+          "lemma": "δυσμαθής",
+          "location": "503d",
+          "context": null
+        }
+      ],
+      "observation": "Quick-learning (εὐμαθεῖς, ὀξεῖς) natures lack βέβαιον; steady (βέβαια) natures are δυσκίνητα and δυσμαθῶς—the two sets are explicitly contrasted as rarely combining."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "503b",
+          "context": "τοὺς ἀκριβεστάτους φύλακας φιλοσόφους δεῖ καθιστάναι"
+        },
+        {
+          "form": "φύλακι",
+          "lemma": "φύλαξ",
+          "location": "504c",
+          "context": "φύλακι πόλεώς τε καὶ νόμων"
+        },
+        {
+          "form": "φύλακα",
+          "lemma": "φύλαξ",
+          "location": "506a",
+          "context": "οὐ πολλοῦ τινος ἄξιον φύλακα κεκτῆσθαι"
+        },
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "506b",
+          "context": "ὁ τοιοῦτος αὐτὴν ἐπισκοπῇ φύλαξ"
+        }
+      ],
+      "observation": "φύλαξ recurs four times across the section, framing the passage: guardians must be philosophers, must not fall short, must know the good, and must oversee the city."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ ἀγαθοῦ",
+          "lemma": "ἀγαθός",
+          "location": "505a",
+          "context": "ἡ τοῦ ἀγαθοῦ ἰδέα μέγιστον μάθημα"
+        },
+        {
+          "form": "τοῦ ἀγαθοῦ",
+          "lemma": "ἀγαθός",
+          "location": "505b",
+          "context": "ἄνευ τοῦ ἀγαθοῦ"
+        },
+        {
+          "form": "τὸ ἀγαθόν",
+          "lemma": "ἀγαθός",
+          "location": "505b",
+          "context": "τοῖς μὲν πολλοῖς ἡδονὴ δοκεῖ εἶναι τὸ ἀγαθόν"
+        },
+        {
+          "form": "τοῦ ἀγαθοῦ",
+          "lemma": "ἀγαθός",
+          "location": "505b",
+          "context": "τὴν τοῦ ἀγαθοῦ φάναι"
+        },
+        {
+          "form": "τὸ ἀγαθὸν",
+          "lemma": "ἀγαθός",
+          "location": "505c",
+          "context": "οὐκ ἴσμεν τὸ ἀγαθὸν"
+        },
+        {
+          "form": "ἀγαθά",
+          "lemma": "ἀγαθός",
+          "location": "505c",
+          "context": "ὁμολογεῖν ἀγαθὰ εἶναι καὶ κακὰ ταὐτά"
+        },
+        {
+          "form": "ἀγαθά",
+          "lemma": "ἀγαθός",
+          "location": "505d",
+          "context": "ἀγαθὰ δὲ οὐδενὶ ἔτι ἀρκεῖ τὰ δοκοῦντα κτᾶσθαι"
+        },
+        {
+          "form": "ἀγαθά",
+          "lemma": "ἀγαθός",
+          "location": "506a",
+          "context": "ἀγνοούμενα ὅπῃ ποτὲ ἀγαθά ἐστιν"
+        }
+      ],
+      "observation": "τὸ ἀγαθόν / τοῦ ἀγαθοῦ accumulates densely from 505a onward, becoming the section's most frequently recurring substantive phrase."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὰ δοκοῦντα",
+          "lemma": "δοκέω",
+          "location": "505d",
+          "context": "δίκαια μὲν καὶ καλὰ πολλοὶ ἂν ἕλοιντο τὰ δοκοῦντα"
+        },
+        {
+          "form": "τὰ ὄντα",
+          "lemma": "εἰμί",
+          "location": "505d",
+          "context": "ἀλλὰ τὰ ὄντα ζητοῦσιν"
+        },
+        {
+          "form": "τὴν δὲ δόξαν",
+          "lemma": "δόξα",
+          "location": "505d",
+          "context": "τὴν δὲ δόξαν ἐνταῦθα ἤδη πᾶς ἀτιμάζει"
+        }
+      ],
+      "observation": "With justice and beauty people accept τὰ δοκοῦντα; with the good they seek τὰ ὄντα and despise δόξα—an explicit contrast between seeming and being located specifically at the good."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπομαντευομένη",
+          "lemma": "ἀπομαντεύομαι",
+          "location": "505e",
+          "context": "ἀπομαντευομένη τι εἶναι"
+        },
+        {
+          "form": "μαντεύομαι",
+          "lemma": "μαντεύομαι",
+          "location": "506a",
+          "context": "μαντεύομαι δὲ μηδένα αὐτὰ πρότερον γνώσεσθαι"
+        },
+        {
+          "form": "μαντεύῃ",
+          "lemma": "μαντεύομαι",
+          "location": "506a",
+          "context": "καλῶς γάρ, ἔφη, μαντεύῃ"
+        }
+      ],
+      "observation": "μαντεύομαι appears three times: the soul divines (ἀπομαντευομένη) the good, Socrates prophesies, and Glaucon affirms the prophecy—divination language clusters around knowledge of the good."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μέτρον",
+          "lemma": "μέτρον",
+          "location": "504c",
+          "context": "μέτρον τῶν τοιούτων ἀπολεῖπον καὶ ὁτιοῦν τοῦ ὄντος"
+        },
+        {
+          "form": "μετρίως",
+          "lemma": "μέτριος",
+          "location": "504c",
+          "context": "οὐ πάνυ μετρίως γίγνεται"
+        },
+        {
+          "form": "μετρίως",
+          "lemma": "μέτριος",
+          "location": "504b",
+          "context": "ἔμοιγε … μετρίως"
+        }
+      ],
+      "observation": "μέτρον and μετρίως play against each other: Glaucon calls the earlier account μετρίως adequate, but Socrates insists that any measure (μέτρον) falling short of τὸ ὄν is not at all μετρίως sufficient."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "τολμήσθω",
+          "lemma": "τολμάω",
+          "location": "503b",
+          "context": "τοῦτο μὲν τετολμήσθω εἰπεῖν"
+        },
+        {
+          "form": "ἀποτετολμημένα",
+          "lemma": "ἀποτολμάω",
+          "location": "503b",
+          "context": "τὰ νῦν ἀποτετολμημένα"
+        },
+        {
+          "form": "ὄκνος",
+          "lemma": "ὄκνος",
+          "location": "503b",
+          "context": "ὄκνος γάρ … εἰπεῖν"
+        }
+      ],
+      "observation": "ὄκνος (hesitation) is named, then ἀποτετολμημένα (what has been dared) and τετολμήσθω (let it be dared) immediately answer it—reluctance yielding to accomplished daring."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "502c",
+          "context": "μόγις τέλος ἔσχεν"
+        },
+        {
+          "form": "τελεωτάτην",
+          "lemma": "τέλειος",
+          "location": "504d",
+          "context": "τὴν τελεωτάτην ἀπεργασίαν"
+        },
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "504d",
+          "context": "ἐπὶ τέλος οὔποτε ἥξει"
+        },
+        {
+          "form": "ἀτελὲς",
+          "lemma": "ἀτελής",
+          "location": "504c",
+          "context": "ἀτελὲς γὰρ οὐδὲν οὐδενὸς μέτρον"
+        },
+        {
+          "form": "τελευτῶντες",
+          "lemma": "τελευτάω",
+          "location": "505b",
+          "context": "ἀναγκάζονται τελευτῶντες τὴν τοῦ ἀγαθοῦ φάναι"
+        },
+        {
+          "form": "τελευτήσαντι",
+          "lemma": "τελευτάω",
+          "location": "503a",
+          "context": "γέρα δοτέον καὶ ζῶντι καὶ τελευτήσαντι"
+        }
+      ],
+      "observation": "The τελ- root (τέλος, τέλειος, ἀτελής, τελευτάω) recurs across the section, linking completion, the most complete working-out, never reaching an end, incompleteness as no measure, and ending/death."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μνημονεύεις",
+          "lemma": "μνημονεύω",
+          "location": "503a",
+          "context": "εἰ μνημονεύεις"
+        },
+        {
+          "form": "μέμνημαι",
+          "lemma": "μιμνῄσκω",
+          "location": "503b",
+          "context": "μέμνημαι γάρ"
+        },
+        {
+          "form": "μνημονεύεις",
+          "lemma": "μνημονεύω",
+          "location": "504a",
+          "context": "μνημονεύεις μέν που"
+        },
+        {
+          "form": "μνημονεύων",
+          "lemma": "μνημονεύω",
+          "location": "504a",
+          "context": "μὴ γὰρ μνημονεύων … τὰ λοιπὰ ἂν εἴην δίκαιος μὴ ἀκούειν"
+        },
+        {
+          "form": "μνήμονες",
+          "lemma": "μνήμων",
+          "location": "503c",
+          "context": "εὐμαθεῖς καὶ μνήμονες"
+        }
+      ],
+      "observation": "Memory language recurs: Socrates twice asks εἰ μνημονεύεις, Glaucon confirms μέμνημαι, then says not remembering would make him undeserving of hearing further; μνήμονες also appears as a trait of the quick-natured."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἡδονὴ",
+          "lemma": "ἡδονή",
+          "location": "505b",
+          "context": "τοῖς μὲν πολλοῖς ἡδονὴ δοκεῖ εἶναι τὸ ἀγαθόν"
+        },
+        {
+          "form": "φρόνησις",
+          "lemma": "φρόνησις",
+          "location": "505b",
+          "context": "τοῖς δὲ κομψοτέροις φρόνησις"
+        },
+        {
+          "form": "κακάς",
+          "lemma": "κακός",
+          "location": "505c",
+          "context": "ἡδονὰς εἶναι κακάς"
+        },
+        {
+          "form": "ἀγαθὰ εἶναι καὶ κακὰ ταὐτά",
+          "lemma": null,
+          "location": "505c",
+          "context": null
+        }
+      ],
+      "observation": "Two rival identifications of the good—ἡδονή and φρόνησις—are each shown to collapse: pleasure-identifiers must admit pleasures are κακαί (good and bad are the same things); wisdom-identifiers must define φρόνησις as knowledge of the good, which is circular."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀπομαντευομένη",
+          "lemma": "ἀπομαντεύομαι",
+          "location": "505e",
+          "context": null
+        },
+        {
+          "form": "ἀποροῦσα",
+          "lemma": "ἀπορέω",
+          "location": "505e",
+          "context": "ἀποροῦσα δὲ καὶ οὐκ ἔχουσα λαβεῖν"
+        },
+        {
+          "form": "ἀποτυγχάνει",
+          "lemma": "ἀποτυγχάνω",
+          "location": "505e",
+          "context": "διὰ τοῦτο δὲ ἀποτυγχάνει καὶ τῶν ἄλλων"
+        },
+        {
+          "form": "ἐσκοτῶσθαι",
+          "lemma": "σκοτόω",
+          "location": "506a",
+          "context": "δεῖν ἐσκοτῶσθαι"
+        }
+      ],
+      "observation": "The soul's relation to the good follows a sequence: divining (ἀπομαντευομένη), being at a loss (ἀποροῦσα), failing (ἀποτυγχάνει), being in darkness (ἐσκοτῶσθαι)."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἡ τοῦ ἀγαθοῦ ἰδέα",
+          "lemma": null,
+          "location": "505a",
+          "context": "ἡ τοῦ ἀγαθοῦ ἰδέα μέγιστον μάθημα"
+        }
+      ],
+      "observation": "ἡ τοῦ ἀγαθοῦ ἰδέα is explicitly named and identified as μέγιστον μάθημα—a singular identification within this section."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σωτῆρες",
+          "lemma": "σωτήρ",
+          "location": "502d",
+          "context": "οἱ σωτῆρες ἐνέσονται τῆς πολιτείας"
+        },
+        {
+          "form": "κεκοσμήσεται",
+          "lemma": "κοσμέω",
+          "location": "506a",
+          "context": "ἡ πολιτεία τελέως κεκοσμήσεται"
+        },
+        {
+          "form": "πολιτείας",
+          "lemma": "πολιτεία",
+          "location": "502d",
+          "context": null
+        },
+        {
+          "form": "πολιτεία",
+          "lemma": "πολιτεία",
+          "location": "506a",
+          "context": null
+        }
+      ],
+      "observation": "πολιτεία appears near the section's opening (needing σωτῆρες) and closing (τελέως κεκοσμήσεται if overseen by the knowing guardian), framing the section."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "λεκτέον",
+          "lemma": "λέγω",
+          "location": "502c",
+          "context": "τὰ ἐπίλοιπα δὴ μετὰ τοῦτο λεκτέον"
+        },
+        {
+          "form": "βασανιστέον",
+          "lemma": "βασανίζω",
+          "location": "503e",
+          "context": null
+        },
+        {
+          "form": "πονητέον",
+          "lemma": "πονέω",
+          "location": "504d",
+          "context": "οὐχ ἧττον μανθάνοντι πονητέον ἢ γυμναζομένῳ"
+        }
+      ],
+      "observation": "Verbal adjectives in -τέον (λεκτέον, βασανιστέον, πονητέον) recur, articulating obligation regarding speech, testing, and toil."
+    }
+  ]
+}
