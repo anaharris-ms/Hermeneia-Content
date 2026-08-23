@@ -1,0 +1,926 @@
+{
+  "section_id": "republic-chapter-06-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φθοράς",
+          "lemma": "φθορά",
+          "location": "490e",
+          "context": "τῆς φύσεως δεῖ θεάσασθαι τὰς φθοράς"
+        },
+        {
+          "form": "διόλλυται",
+          "lemma": "διόλλυμι",
+          "location": "490e",
+          "context": "ὡς διόλλυται ἐν πολλοῖς"
+        },
+        {
+          "form": "διαφθορὰς",
+          "lemma": "διαφθορά",
+          "location": "491a",
+          "context": "τίνας δέ τὰς διαφθορὰς λέγεις"
+        },
+        {
+          "form": "ἀπόλλυσι",
+          "lemma": "ἀπόλλυμι",
+          "location": "491b",
+          "context": "ἓν ἕκαστον ὧν ἐπῃνέσαμεν τῆς φύσεως ἀπόλλυσι τὴν ἔχουσαν ψυχήν"
+        },
+        {
+          "form": "φθείρει",
+          "lemma": "φθείρω",
+          "location": "491c",
+          "context": "τὰ λεγόμενα ἀγαθὰ πάντα φθείρει καὶ ἀποσπᾷ"
+        },
+        {
+          "form": "διολομένης",
+          "lemma": "διόλλυμι",
+          "location": "491e",
+          "context": "ἐκ νεανικῆς φύσεως τροφῇ διολομένης"
+        },
+        {
+          "form": "διαφθειρομένους",
+          "lemma": "διαφθείρω",
+          "location": "492a",
+          "context": "διαφθειρομένους τινὰς εἶναι ὑπὸ σοφιστῶν νέους"
+        },
+        {
+          "form": "διαφθείροντας",
+          "lemma": "διαφθείρω",
+          "location": "492a",
+          "context": "διαφθείροντας δέ τινας σοφιστὰς ἰδιωτικούς"
+        },
+        {
+          "form": "ἀπολλύναι",
+          "lemma": "ἀπόλλυμι",
+          "location": "494e",
+          "context": "ἡγουμένους ἀπολλύναι αὐτοῦ τὴν χρείαν"
+        },
+        {
+          "form": "διαφθορὰ",
+          "lemma": "διαφθορά",
+          "location": "495b",
+          "context": "ὄλεθρός τε καὶ διαφθορὰ τοσαύτη"
+        }
+      ],
+      "observation": "Forms of φθορά, διαφθορά, ἀπόλλυμι, διόλλυμι, and φθείρω recur densely throughout the section, constituting a sustained cluster of destruction/corruption vocabulary applied to the philosophical nature."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "490e",
+          "context": "τῆς φύσεως δεῖ θεάσασθαι τὰς φθοράς"
+        },
+        {
+          "form": "φύσεις",
+          "lemma": "φύσις",
+          "location": "491a",
+          "context": "οἷαι οὖσαι φύσεις ψυχῶν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "491a",
+          "context": "τοιαύτην φύσιν καὶ πάντα ἔχουσαν"
+        },
+        {
+          "form": "φύεσθαι",
+          "lemma": "φύω",
+          "location": "491b",
+          "context": "ὀλιγάκις ἐν ἀνθρώποις φύεσθαι"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "491b",
+          "context": "ἐπῃνέσαμεν τῆς φύσεως"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "491d",
+          "context": "τὴν ἀρίστην φύσιν"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "491e",
+          "context": "ἐκ νεανικῆς φύσεως"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "491e",
+          "context": "ἀσθενῆ δὲ φύσιν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "492a",
+          "context": "τοῦ φιλοσόφου φύσιν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "493c",
+          "context": "τὴν δὲ τοῦ ἀναγκαίου καὶ ἀγαθοῦ φύσιν"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "494a",
+          "context": "σωτηρίαν φιλοσόφῳ φύσει"
+        },
+        {
+          "form": "φυῇ",
+          "lemma": "φύω",
+          "location": "494b",
+          "context": "ἐὰν τὸ σῶμα φυῇ προσφερὴς τῇ ψυχῇ"
+        },
+        {
+          "form": "πεφυκέναι",
+          "lemma": "φύω",
+          "location": "494d",
+          "context": "διὰ τὸ εὖ πεφυκέναι"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "495a",
+          "context": "τῆς φιλοσόφου φύσεως μέρη"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "495b",
+          "context": "τῆς βελτίστης φύσεως"
+        },
+        {
+          "form": "φύσις",
+          "lemma": "φύσις",
+          "location": "495b",
+          "context": "σμικρὰ δὲ φύσις οὐδὲν μέγα"
+        }
+      ],
+      "observation": "φύσις and φύω recur pervasively, with φύσις repeatedly qualified by contrasting adjectives (ἀρίστην, φαύλης, νεανικῆς, ἀσθενῆ, βελτίστης, σμικρά, φιλοσόφου)."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "σπέρματος",
+          "lemma": "σπέρμα",
+          "location": "491d",
+          "context": "παντὸς σπέρματος πέρι ἢ φυτοῦ"
+        },
+        {
+          "form": "φυτοῦ",
+          "lemma": "φυτόν",
+          "location": "491d",
+          "context": null
+        },
+        {
+          "form": "ἐγγείων",
+          "lemma": "ἔγγειος",
+          "location": "491d",
+          "context": "εἴτε ἐγγείων εἴτε τῶν ζῴων"
+        },
+        {
+          "form": "τροφῆς",
+          "lemma": "τροφή",
+          "location": "491d",
+          "context": "τὸ μὴ τυχὸν τροφῆς ἧς προσήκει"
+        },
+        {
+          "form": "ὥρας",
+          "lemma": "ὥρα",
+          "location": "491d",
+          "context": "μηδʼ ὥρας μηδὲ τόπου"
+        },
+        {
+          "form": "τόπου",
+          "lemma": "τόπος",
+          "location": "491d",
+          "context": null
+        },
+        {
+          "form": "τροφῇ",
+          "lemma": "τροφή",
+          "location": "491d",
+          "context": "ἐν ἀλλοτριωτέρᾳ οὖσαν τροφῇ"
+        },
+        {
+          "form": "σπαρεῖσά",
+          "lemma": "σπείρω",
+          "location": "492a",
+          "context": "ἐν προσηκούσῃ σπαρεῖσά τε καὶ φυτευθεῖσα τρέφηται"
+        },
+        {
+          "form": "φυτευθεῖσα",
+          "lemma": "φυτεύω",
+          "location": "492a",
+          "context": null
+        },
+        {
+          "form": "τρέφηται",
+          "lemma": "τρέφω",
+          "location": "492a",
+          "context": null
+        },
+        {
+          "form": "αὐξανομένην",
+          "lemma": "αὐξάνω",
+          "location": "492a",
+          "context": "εἰς πᾶσαν ἀρετὴν ἀνάγκη αὐξανομένην ἀφικνεῖσθαι"
+        }
+      ],
+      "observation": "An extended agricultural-botanical vocabulary (seed, plant, soil, season, place, nourishment, sowing, planting, growing) is applied to the soul's development, forming a concentrated semantic cluster."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀποσπᾷ",
+          "lemma": "ἀποσπάω",
+          "location": "491b",
+          "context": "ἀπόλλυσι τὴν ἔχουσαν ψυχὴν καὶ ἀποσπᾷ φιλοσοφίας"
+        },
+        {
+          "form": "ἀποσπᾷ",
+          "lemma": "ἀποσπάω",
+          "location": "491c",
+          "context": "τὰ λεγόμενα ἀγαθὰ πάντα φθείρει καὶ ἀποσπᾷ"
+        }
+      ],
+      "observation": "ἀποσπᾷ recurs in identical position: first the virtues themselves tear the soul from philosophy, then the so-called goods do the same."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἓν ἕκαστον ὧν ἐπῃνέσαμεν",
+          "lemma": null,
+          "location": "491b",
+          "context": "ἓν ἕκαστον ὧν ἐπῃνέσαμεν τῆς φύσεως ἀπόλλυσι τὴν ἔχουσαν ψυχήν"
+        },
+        {
+          "form": "τὰ λεγόμενα ἀγαθὰ πάντα",
+          "lemma": null,
+          "location": "491c",
+          "context": "τὰ λεγόμενα ἀγαθὰ πάντα φθείρει καὶ ἀποσπᾷ"
+        }
+      ],
+      "observation": "Two classes of corrupters are distinguished: first the praised virtues themselves (ἀνδρεία, σωφροσύνη), then the so-called goods (κάλλος, πλοῦτος, ἰσχύς, συγγένεια). The virtues destroy what they constitute."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θαυμαστότατον",
+          "lemma": "θαυμαστός",
+          "location": "491b",
+          "context": "ὃ μὲν πάντων θαυμαστότατον ἀκοῦσαι"
+        },
+        {
+          "form": "ἄτοπον",
+          "lemma": "ἄτοπος",
+          "location": "491b",
+          "context": "ἄτοπον ἔφη ἀκοῦσαι"
+        },
+        {
+          "form": "οὐκ ἄτοπα",
+          "lemma": "ἄτοπος",
+          "location": "491c",
+          "context": "οὐκ ἄτοπα δόξει τὰ προειρημένα"
+        },
+        {
+          "form": "ἄτοπος",
+          "lemma": "ἄτοπος",
+          "location": "493c",
+          "context": "οὐκ ἄτοπος ἄν σοι δοκεῖ εἶναι παιδευτής"
+        }
+      ],
+      "observation": "ἄτοπος appears three times: Adeimantus calls the claim ἄτοπον, Socrates promises it will no longer seem ἄτοπα, then applies ἄτοπος to the beast-keeper educator. θαυμαστότατον introduces the same paradox."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σοφιστῶν",
+          "lemma": "σοφιστής",
+          "location": "492a",
+          "context": "διαφθειρομένους τινὰς εἶναι ὑπὸ σοφιστῶν"
+        },
+        {
+          "form": "σοφιστὰς",
+          "lemma": "σοφιστής",
+          "location": "492a",
+          "context": "διαφθείροντας δέ τινας σοφιστὰς ἰδιωτικούς"
+        },
+        {
+          "form": "σοφιστάς",
+          "lemma": "σοφιστής",
+          "location": "492b",
+          "context": "αὐτοὺς τοὺς ταῦτα λέγοντας μεγίστους εἶναι σοφιστάς"
+        },
+        {
+          "form": "σοφιστὴν",
+          "lemma": "σοφιστής",
+          "location": "492d",
+          "context": "τίνα οὖν ἄλλον σοφιστὴν οἴει"
+        },
+        {
+          "form": "σοφιστὰς",
+          "lemma": "σοφιστής",
+          "location": "493a",
+          "context": "οὓς δὴ οὗτοι σοφιστὰς καλοῦσι"
+        }
+      ],
+      "observation": "σοφιστής recurs five times with a shifting referent: first the conventional sophists, then the many themselves are called the greatest sophists, then the term returns to the private teachers whom the many call sophists."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σοφίαν",
+          "lemma": "σοφία",
+          "location": "493a",
+          "context": "καὶ σοφίαν ταύτην καλεῖν"
+        },
+        {
+          "form": "σοφίαν",
+          "lemma": "σοφία",
+          "location": "493b",
+          "context": "σοφίαν τε καλέσειεν καὶ ὡς τέχνην συστησάμενος"
+        },
+        {
+          "form": "σοφίαν",
+          "lemma": "σοφία",
+          "location": "493d",
+          "context": "ὀργὴν καὶ ἡδονὰς κατανενοηκέναι σοφίαν ἡγούμενος"
+        }
+      ],
+      "observation": "σοφία is used three times, each time naming what is falsely called wisdom: the many's opinions, the beast-keeper's knowledge, and the crowd-pleaser's understanding."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐκκλησίας",
+          "lemma": "ἐκκλησία",
+          "location": "492b",
+          "context": null
+        },
+        {
+          "form": "δικαστήρια",
+          "lemma": "δικαστήριον",
+          "location": "492b",
+          "context": null
+        },
+        {
+          "form": "θέατρα",
+          "lemma": "θέατρον",
+          "location": "492b",
+          "context": null
+        },
+        {
+          "form": "στρατόπεδα",
+          "lemma": "στρατόπεδον",
+          "location": "492b",
+          "context": null
+        },
+        {
+          "form": "σύλλογον",
+          "lemma": "σύλλογος",
+          "location": "492b",
+          "context": "κοινὸν πλήθους σύλλογον"
+        }
+      ],
+      "observation": "Five gathering-places are listed in rapid succession as sites of collective influence on the young."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster",
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "θορύβῳ",
+          "lemma": "θόρυβος",
+          "location": "492b",
+          "context": "σὺν πολλῷ θορύβῳ"
+        },
+        {
+          "form": "ἐκβοῶντες",
+          "lemma": "ἐκβοάω",
+          "location": "492b",
+          "context": null
+        },
+        {
+          "form": "κροτοῦντες",
+          "lemma": "κροτέω",
+          "location": "492b",
+          "context": null
+        },
+        {
+          "form": "ἐπηχοῦντες",
+          "lemma": "ἐπηχέω",
+          "location": "492c",
+          "context": "αἵ τε πέτραι καὶ ὁ τόπος ἐν ᾧ ἂν ὦσιν ἐπηχοῦντες"
+        },
+        {
+          "form": "θόρυβον",
+          "lemma": "θόρυβος",
+          "location": "492c",
+          "context": "διπλάσιον θόρυβον παρέχωσι"
+        }
+      ],
+      "observation": "A cluster of noise vocabulary: θόρυβος appears twice framing the scene, with shouting, clapping, and echoing between. The rocks and place themselves echo back doubled noise (διπλάσιον θόρυβον)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κατακλυσθεῖσαν",
+          "lemma": "κατακλύζω",
+          "location": "492c",
+          "context": "κατακλυσθεῖσαν ὑπὸ τοῦ τοιούτου ψόγου ἢ ἐπαίνου"
+        },
+        {
+          "form": "φερομένην κατὰ ῥοῦν",
+          "lemma": null,
+          "location": "492c",
+          "context": "οἰχήσεσθαι φερομένην κατὰ ῥοῦν ᾗ ἂν οὗτος φέρῃ"
+        }
+      ],
+      "observation": "The private education is described as flooded (κατακλυσθεῖσαν) and carried downstream (κατὰ ῥοῦν), water imagery applied to the overwhelming force of crowd opinion."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ψέγωσι",
+          "lemma": "ψέγω",
+          "location": "492b",
+          "context": "τὰ μὲν ψέγωσι τῶν λεγομένων ἢ πραττομένων"
+        },
+        {
+          "form": "ἐπαινῶσιν",
+          "lemma": "ἐπαινέω",
+          "location": "492b",
+          "context": "τὰ δὲ ἐπαινῶσιν"
+        },
+        {
+          "form": "ψόγου",
+          "lemma": "ψόγος",
+          "location": "492c",
+          "context": "διπλάσιον θόρυβον παρέχωσι τοῦ ψόγου καὶ ἐπαίνου"
+        },
+        {
+          "form": "ἐπαίνου",
+          "lemma": "ἔπαινος",
+          "location": "492c",
+          "context": null
+        },
+        {
+          "form": "ψόγου",
+          "lemma": "ψόγος",
+          "location": "492c",
+          "context": "κατακλυσθεῖσαν ὑπὸ τοῦ τοιούτου ψόγου ἢ ἐπαίνου"
+        },
+        {
+          "form": "ἐπαίνου",
+          "lemma": "ἔπαινος",
+          "location": "492c",
+          "context": null
+        },
+        {
+          "form": "ψέγεσθαι",
+          "lemma": "ψέγω",
+          "location": "494a",
+          "context": "τοὺς φιλοσοφοῦντας ἄρα ἀνάγκη ψέγεσθαι"
+        },
+        {
+          "form": "ἐπαινῶσιν",
+          "lemma": "ἐπαινέω",
+          "location": "493d",
+          "context": "ταῦτα ἃ ἂν οὗτοι ἐπαινῶσιν"
+        }
+      ],
+      "observation": "ψέγω/ψόγος and ἐπαινέω/ἔπαινος recur as a paired contrast through the crowd scene and beyond; the crowd's blame and praise are the twin instruments of its power."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "intention_completion",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πείθοντες",
+          "lemma": "πείθω",
+          "location": "492d",
+          "context": "λόγῳ μὴ πείθοντες οὗτοι οἱ παιδευταί"
+        },
+        {
+          "form": "πειθόμενον",
+          "lemma": "πείθω",
+          "location": "492d",
+          "context": "τὸν μὴ πειθόμενον ἀτιμίαις τε καὶ χρήμασι καὶ θανάτοις κολάζουσι"
+        },
+        {
+          "form": "πεισθῇ",
+          "lemma": "πείθω",
+          "location": "494e",
+          "context": "ὅπως ἂν μὴ πεισθῇ"
+        },
+        {
+          "form": "πείθοντα",
+          "lemma": "πείθω",
+          "location": "494e",
+          "context": "περὶ τὸν πείθοντα ὅπως ἂν μὴ οἷός τʼ ᾖ"
+        }
+      ],
+      "observation": "πείθω recurs in a sequence: where λόγος fails to persuade, force follows; later, those around the youth act to prevent him from being persuaded and to neutralize the one persuading."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θρέμματος μεγάλου καὶ ἰσχυροῦ",
+          "lemma": null,
+          "location": "493a",
+          "context": "οἷόνπερ ἂν εἰ θρέμματος μεγάλου καὶ ἰσχυροῦ τρεφομένου"
+        },
+        {
+          "form": "τὰς ὀργάς",
+          "lemma": "ὀργή",
+          "location": "493a",
+          "context": "τὰς ὀργάς τις καὶ ἐπιθυμίας κατεμάνθανεν"
+        },
+        {
+          "form": "ἡμεροῦταί τε καὶ ἀγριαίνει",
+          "lemma": null,
+          "location": "493b",
+          "context": null
+        },
+        {
+          "form": "μεγάλου ζῴου",
+          "lemma": null,
+          "location": "493c",
+          "context": "ἐπὶ ταῖς τοῦ μεγάλου ζῴου δόξαις"
+        }
+      ],
+      "observation": "The many are figured as a great strong beast (θρέμμα μέγα καὶ ἰσχυρόν), whose moods are studied; it is called a μέγα ζῷον whose opinions determine naming of good and bad."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνθρώπειον",
+          "lemma": "ἀνθρώπειος",
+          "location": "492e",
+          "context": "ἀλλοῖον ἦθος πρὸς ἀρετὴν παρὰ τὴν τούτων παιδείαν πεπαιδευμένον, ἀνθρώπειον"
+        },
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "492e",
+          "context": "θεῖον μέντοι κατὰ τὴν παροιμίαν ἐξαιρῶμεν λόγου"
+        },
+        {
+          "form": "θεοῦ μοῖραν",
+          "lemma": null,
+          "location": "493a",
+          "context": "θεοῦ μοῖραν αὐτὸ σῶσαι"
+        }
+      ],
+      "observation": "ἀνθρώπειον is explicitly contrasted with θεῖον: no human character can be educated differently from the crowd's education; only what is divine, set apart by proverb, can be saved—by θεοῦ μοῖρα."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "αὐτὸ τὸ καλὸν",
+          "lemma": null,
+          "location": "493e",
+          "context": "αὐτὸ τὸ καλὸν ἀλλὰ μὴ τὰ πολλὰ καλά"
+        },
+        {
+          "form": "τὰ πολλὰ καλά",
+          "lemma": null,
+          "location": "493e",
+          "context": null
+        },
+        {
+          "form": "αὐτό τι ἕκαστον",
+          "lemma": null,
+          "location": "493e",
+          "context": "αὐτό τι ἕκαστον καὶ μὴ τὰ πολλὰ ἕκαστα"
+        },
+        {
+          "form": "πλῆθος",
+          "lemma": "πλῆθος",
+          "location": "494a",
+          "context": "ἔσθʼ ὅπως πλῆθος ἀνέξεται ἢ ἡγήσεαι εἶναι"
+        }
+      ],
+      "observation": "The contrast between αὐτὸ τὸ καλόν / αὐτό τι ἕκαστον and τὰ πολλὰ καλά / τὰ πολλὰ ἕκαστα is posed as what the πλῆθος cannot accept."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "492a",
+          "context": "εἰς πᾶσαν ἀρετὴν ἀνάγκη αὐξανομένην"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "492d",
+          "context": "πολλή ἀνάγκη"
+        },
+        {
+          "form": "ἀνάγκην",
+          "lemma": "ἀνάγκη",
+          "location": "492d",
+          "context": "οὔπω τὴν μεγίστην ἀνάγκην εἰρήκαμεν"
+        },
+        {
+          "form": "τἀναγκαῖα",
+          "lemma": "ἀναγκαῖος",
+          "location": "493c",
+          "context": "τἀναγκαῖα δίκαια καλοῖ καὶ καλά"
+        },
+        {
+          "form": "τοῦ ἀναγκαίου",
+          "lemma": "ἀναγκαῖος",
+          "location": "493c",
+          "context": "τὴν δὲ τοῦ ἀναγκαίου καὶ ἀγαθοῦ φύσιν"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "493d",
+          "context": "ἡ Διομηδεία λεγομένη ἀνάγκη"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "494a",
+          "context": "τοὺς φιλοσοφοῦντας ἄρα ἀνάγκη ψέγεσθαι"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "495a",
+          "context": "πολλή ἀνάγκη"
+        }
+      ],
+      "observation": "ἀνάγκη recurs repeatedly, including the named Διομηδεία ἀνάγκη and the distinction between τἀναγκαῖα (what the beast-keeper calls just) and the nature of τοῦ ἀναγκαίου καὶ ἀγαθοῦ."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀτιμίαις",
+          "lemma": "ἀτιμία",
+          "location": "492d",
+          "context": null
+        },
+        {
+          "form": "χρήμασι",
+          "lemma": "χρῆμα",
+          "location": "492d",
+          "context": null
+        },
+        {
+          "form": "θανάτοις",
+          "lemma": "θάνατος",
+          "location": "492d",
+          "context": "τὸν μὴ πειθόμενον ἀτιμίαις τε καὶ χρήμασι καὶ θανάτοις κολάζουσι"
+        }
+      ],
+      "observation": "The punishments for the unpersuaded are listed in ascending sequence: dishonor, fines, death."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σμικρὸν δέ τι ἐκφεύγει",
+          "lemma": null,
+          "location": "490e",
+          "context": null
+        },
+        {
+          "form": "ὀλιγάκις ἐν ἀνθρώποις φύεσθαι καὶ ὀλίγας",
+          "lemma": null,
+          "location": "491b",
+          "context": null
+        },
+        {
+          "form": "τούτων δὴ τῶν ὀλίγων",
+          "lemma": null,
+          "location": "491b",
+          "context": "τούτων δὴ τῶν ὀλίγων σκόπει ὡς πολλοὶ ὄλεθροι καὶ μεγάλοι"
+        },
+        {
+          "form": "ὀλίγης",
+          "lemma": "ὀλίγος",
+          "location": "495b",
+          "context": "ὀλίγης καὶ ἄλλως γιγνομένης"
+        },
+        {
+          "form": "σμικρὰ δὲ φύσις οὐδὲν μέγα",
+          "lemma": null,
+          "location": "495b",
+          "context": null
+        }
+      ],
+      "observation": "ὀλίγος/σμικρός recur to mark the rarity of the philosophical nature and the smallness of what escapes; at the close σμικρὰ φύσις is contrasted with μέγα in the claim that small natures do nothing great."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐρρωμένη",
+          "lemma": "ἔρρωμαι",
+          "location": "491c",
+          "context": "συγγένεια ἐρρωμένη ἐν πόλει"
+        },
+        {
+          "form": "ἐρρωμενέστερον",
+          "lemma": "ἔρρωμαι",
+          "location": "491d",
+          "context": "ὅσῳ ἂν ἐρρωμενέστερον ᾖ, τοσούτῳ πλειόνων ἐνδεῖ τῶν πρεπόντων"
+        }
+      ],
+      "observation": "ἐρρωμένη describes powerful family connections as a corruptor; ἐρρωμενέστερον in the seed analogy states that the stronger the nature, the more it lacks when wrongly nourished."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "προκαταλαμβάνοντες καὶ προκολακεύοντες",
+          "lemma": null,
+          "location": "494c",
+          "context": "προκαταλαμβάνοντες καὶ προκολακεύοντες τὴν μέλλουσαν αὐτοῦ δύναμιν"
+        }
+      ],
+      "observation": "The compound pair προκαταλαμβάνοντες καὶ προκολακεύοντες, both with προ-, describes the anticipatory seizure and flattery of the youth's future power."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὑψηλὸν ἐξαρεῖν αὑτόν",
+          "lemma": null,
+          "location": "494d",
+          "context": "ἐπὶ τούτοις ὑψηλὸν ἐξαρεῖν αὑτόν"
+        },
+        {
+          "form": "κάμπτηται καὶ ἕλκηται πρὸς φιλοσοφίαν",
+          "lemma": null,
+          "location": "494e",
+          "context": "κάμπτηται καὶ ἕλκηται πρὸς φιλοσοφίαν"
+        }
+      ],
+      "observation": "The corrupted youth raises himself high (ὑψηλὸν ἐξαρεῖν); if he then bends and is drawn toward philosophy (κάμπτηται καὶ ἕλκηται), his associates act to prevent it."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δουλεύσαντι",
+          "lemma": "δουλεύω",
+          "location": "494d",
+          "context": "τὸ δὲ οὐ κτητὸν μὴ δουλεύσαντι τῇ κτήσει αὐτοῦ"
+        }
+      ],
+      "observation": "νοῦς is described as not acquirable (οὐ κτητόν) without having served/enslaved oneself (δουλεύσαντι) to its acquisition—a striking conjunction of slavery and intellect."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐκπεσεῖν ἐκ τοῦ ἐπιτηδεύματος",
+          "lemma": null,
+          "location": "495a",
+          "context": null
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "491a",
+          "context": "εἰς τὸ ἐπιτήδευμα καθισταμένας αὐτῆς"
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "491a",
+          "context": "εἰς ἀνάξιον καὶ μεῖζον ἑαυτῶν ἀφικνούμεναι ἐπιτήδευμα"
+        },
+        {
+          "form": "ἐπιτηδεύσειν",
+          "lemma": "ἐπιτηδεύω",
+          "location": "492c",
+          "context": "ἐπιτηδεύσειν ἅπερ ἂν οὗτοι"
+        },
+        {
+          "form": "ἐπιτηδεύματι",
+          "lemma": "ἐπιτήδευμα",
+          "location": "494a",
+          "context": "ἐν τῷ ἐπιτηδεύματι μείνασαν πρὸς τέλος ἐλθεῖν"
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "495b",
+          "context": "εἰς τὸ ἄριστον ἐπιτήδευμα"
+        }
+      ],
+      "observation": "ἐπιτήδευμα recurs through the section: philosophy is named as a pursuit (ἐπιτήδευμα) that unworthy souls enter, that the youth is swept to practice (ἐπιτηδεύσειν) whatever the crowd does, that the philosophical nature must remain in to reach its end, and that is finally called τὸ ἄριστον ἐπιτήδευμα."
+    }
+  ]
+}
