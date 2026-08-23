@@ -1,0 +1,553 @@
+{
+  "section_id": "republic-chapter-03-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δεδιέναι",
+          "lemma": "δείδω",
+          "location": "386a",
+          "context": "ἥκιστα τὸν θάνατον δεδιέναι"
+        },
+        {
+          "form": "δεῖμα",
+          "lemma": "δεῖμα",
+          "location": "386b",
+          "context": "ἔχοντα ἐν αὑτῷ τοῦτο τὸ δεῖμα"
+        },
+        {
+          "form": "δεινὰ",
+          "lemma": "δεινός",
+          "location": "386b",
+          "context": "τἀν Ἅιδου ἡγούμενον εἶναί τε καὶ δεινὰ εἶναι"
+        },
+        {
+          "form": "ἀδεῆ",
+          "lemma": "ἀδεής",
+          "location": "386b",
+          "context": "θανάτου ἀδεῆ ἔσεσθαι"
+        },
+        {
+          "form": "δεινά",
+          "lemma": "δεινός",
+          "location": "387b",
+          "context": "ὀνόματα πάντα τὰ δεινά τε καὶ φοβερὰ"
+        },
+        {
+          "form": "φοβερὰ",
+          "lemma": "φοβερός",
+          "location": "387b",
+          "context": null
+        },
+        {
+          "form": "φρίττειν",
+          "lemma": "φρίττω",
+          "location": "387c",
+          "context": "φρίττειν δὴ ποιεῖ"
+        },
+        {
+          "form": "φρίκης",
+          "lemma": "φρίκη",
+          "location": "387c",
+          "context": "ἐκ τῆς τοιαύτης φρίκης"
+        },
+        {
+          "form": "φοβούμεθα",
+          "lemma": "φοβέω",
+          "location": "387c",
+          "context": "ὑπὲρ τῶν φυλάκων φοβούμεθα"
+        },
+        {
+          "form": "πεφοβημένους",
+          "lemma": "φοβέω",
+          "location": "387b",
+          "context": "δουλείαν θανάτου μᾶλλον πεφοβημένους"
+        }
+      ],
+      "observation": "A dense cluster of fear-related words (δείδω, δεῖμα, δεινός, ἀδεής, φοβερός, φοβέω, φρίττω, φρίκη) accumulates across the section, linking fear of death, fear of Hades, fearful names, and the guardians' educators' own fear on their behalf."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θάνατον",
+          "lemma": "θάνατος",
+          "location": "386a",
+          "context": "ἥκιστα τὸν θάνατον δεδιέναι"
+        },
+        {
+          "form": "θανάτου",
+          "lemma": "θάνατος",
+          "location": "386b",
+          "context": "θανάτου ἀδεῆ ἔσεσθαι"
+        },
+        {
+          "form": "θάνατον",
+          "lemma": "θάνατος",
+          "location": "386b",
+          "context": "αἱρήσεσθαι πρὸ ἥττης τε καὶ δουλείας θάνατον"
+        },
+        {
+          "form": "θανάτου",
+          "lemma": "θάνατος",
+          "location": "387b",
+          "context": "δουλείαν θανάτου μᾶλλον πεφοβημένους"
+        }
+      ],
+      "observation": "θάνατος recurs four times; in its third and fourth appearances it is paired with δουλεία, creating a repeated pairing of death and slavery."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δουλείας",
+          "lemma": "δουλεία",
+          "location": "386b",
+          "context": "πρὸ ἥττης τε καὶ δουλείας θάνατον"
+        },
+        {
+          "form": "ἐλευθέρους",
+          "lemma": "ἐλεύθερος",
+          "location": "387b",
+          "context": "οὓς δεῖ ἐλευθέρους εἶναι"
+        },
+        {
+          "form": "δουλείαν",
+          "lemma": "δουλεία",
+          "location": "387b",
+          "context": "δουλείαν θανάτου μᾶλλον πεφοβημένους"
+        }
+      ],
+      "observation": "δουλεία appears twice; at 387b it is set against ἐλευθέρους, and the guardians must be free men who fear slavery more than death."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἀκουστέον",
+          "lemma": "ἀκούω",
+          "location": "386a",
+          "context": "ἀκουστέον τε καὶ οὐκ ἀκουστέον"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "387b",
+          "context": "ἡδέα τοῖς πολλοῖς ἀκούειν"
+        },
+        {
+          "form": "ἀκουστέον",
+          "lemma": "ἀκούω",
+          "location": "387b",
+          "context": "τοσούτῳ ἧττον ἀκουστέον παισὶ καὶ ἀνδράσιν"
+        },
+        {
+          "form": "ἀκούοντας",
+          "lemma": "ἀκούω",
+          "location": "387c",
+          "context": "πάντας τοὺς ἀκούοντας"
+        }
+      ],
+      "observation": "ἀκούω recurs across the section; the verbal adjective ἀκουστέον appears at the opening as both positive and negative (ἀκουστέον τε καὶ οὐκ ἀκουστέον) and returns at 387b in a comparative formulation."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ποιητικώτερα",
+          "lemma": "ποιητικός",
+          "location": "387b",
+          "context": "ὅσῳ ποιητικώτερα, τοσούτῳ ἧττον ἀκουστέον"
+        },
+        {
+          "form": "ἡδέα",
+          "lemma": "ἡδύς",
+          "location": "387b",
+          "context": "ἡδέα τοῖς πολλοῖς ἀκούειν"
+        }
+      ],
+      "observation": "The more poetic (ποιητικώτερα) and pleasant (ἡδέα) the verses are, the less they should be heard—an explicit proportional inversion."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαλείψομεν",
+          "lemma": "ἐξαλείφω",
+          "location": "386c",
+          "context": null
+        },
+        {
+          "form": "διαγράφωμεν",
+          "lemma": "διαγράφω",
+          "location": "387b",
+          "context": null
+        },
+        {
+          "form": "ἀποβλητέα",
+          "lemma": "ἀποβλητέος",
+          "location": "387b",
+          "context": "ὀνόματα πάντα τὰ δεινά τε καὶ φοβερὰ ἀποβλητέα"
+        },
+        {
+          "form": "ἀφαιρετέα",
+          "lemma": "ἀφαιρετέος",
+          "location": "387c",
+          "context": null
+        }
+      ],
+      "observation": "A sequence of removal-actions: wiping out (ἐξαλείψομεν), striking through (διαγράφωμεν), casting away (ἀποβλητέα), and taking away (ἀφαιρετέα), each applied to poetic material about Hades."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Ἅιδου",
+          "lemma": "Ἅιδης",
+          "location": "386b",
+          "context": "τἀν Ἅιδου ἡγούμενον εἶναί τε καὶ δεινὰ εἶναι"
+        },
+        {
+          "form": "Ἅιδου",
+          "lemma": "Ἅιδης",
+          "location": "386b",
+          "context": "τὰ ἐν Ἅιδου"
+        },
+        {
+          "form": "Ἀΐδαο",
+          "lemma": "Ἅιδης",
+          "location": "386d",
+          "context": "εἰν Ἀΐδαο δόμοισιν"
+        },
+        {
+          "form": "Ἄϊδόσδε",
+          "lemma": "Ἅιδης",
+          "location": "386d",
+          "context": "Ἄϊδόσδε βεβήκει"
+        }
+      ],
+      "observation": "Hades is named in Socrates' prose argument and then recurs within the quoted poetry in Homeric dialect forms (Ἀΐδαο, Ἄϊδόσδε)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "386d",
+          "context": "ψυχὴ καὶ εἴδωλον, ἀτὰρ φρένες οὐκ ἔνι πάμπαν"
+        },
+        {
+          "form": "σκιαὶ",
+          "lemma": "σκιά",
+          "location": "386d",
+          "context": "ταὶ δὲ σκιαὶ ἀΐσσουσι"
+        },
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "386d",
+          "context": "ψυχὴ δʼ ἐκ ῥεθέων πταμένη Ἄϊδόσδε βεβήκει"
+        },
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "387a",
+          "context": "ψυχὴ δὲ κατὰ χθονός, ἠΰτε καπνός"
+        },
+        {
+          "form": "νεκύεσσι",
+          "lemma": "νέκυς",
+          "location": "386c",
+          "context": "πᾶσιν νεκύεσσι καταφθιμένοισιν ἀνάσσειν"
+        },
+        {
+          "form": "εἴδωλον",
+          "lemma": "εἴδωλον",
+          "location": "386d",
+          "context": null
+        }
+      ],
+      "observation": "The quoted poetry accumulates images of the dead as ψυχή, εἴδωλον, σκιαί, νέκυες—insubstantial remnants without φρένες."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πταμένη",
+          "lemma": "πέτομαι",
+          "location": "386d",
+          "context": "ψυχὴ δʼ ἐκ ῥεθέων πταμένη Ἄϊδόσδε βεβήκει"
+        },
+        {
+          "form": "κατὰ χθονός",
+          "lemma": null,
+          "location": "387a",
+          "context": "ψυχὴ δὲ κατὰ χθονός … ᾤχετο"
+        },
+        {
+          "form": "ἀΐσσουσι",
+          "lemma": "ἀΐσσω",
+          "location": "386d",
+          "context": "ταὶ δὲ σκιαὶ ἀΐσσουσι"
+        },
+        {
+          "form": "ποτέονται",
+          "lemma": "ποτάομαι",
+          "location": "387a",
+          "context": "τρίζουσαι ποτέονται"
+        }
+      ],
+      "observation": "The quoted verses present souls in flight and downward movement: flying from the body to Hades, going beneath the earth, darting, fluttering like bats."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λοιδορεῖν",
+          "lemma": "λοιδορέω",
+          "location": "386b",
+          "context": "μὴ λοιδορεῖν ἁπλῶς οὕτως τὰ ἐν Ἅιδου"
+        },
+        {
+          "form": "ἐπαινεῖν",
+          "lemma": "ἐπαινέω",
+          "location": "386b",
+          "context": "ἀλλὰ μᾶλλον ἐπαινεῖν"
+        }
+      ],
+      "observation": "Poets are asked not to revile (λοιδορεῖν) but rather to praise (ἐπαινεῖν) what is in Hades—a direct contrast of speech acts."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀκουστέον",
+          "lemma": "ἀκούω",
+          "location": "386a",
+          "context": null
+        },
+        {
+          "form": "λεκτέον",
+          "lemma": "λέγω",
+          "location": "386a",
+          "context": null
+        },
+        {
+          "form": "ἀποβλητέα",
+          "lemma": "ἀποβλητέος",
+          "location": "387b",
+          "context": null
+        },
+        {
+          "form": "ἀφαιρετέα",
+          "lemma": "ἀφαιρετέος",
+          "location": "387c",
+          "context": null
+        },
+        {
+          "form": "λεκτέον",
+          "lemma": "λέγω",
+          "location": "387c",
+          "context": "τὸν δὲ ἐναντίον τύπον τούτοις λεκτέον τε καὶ ποιητέον"
+        },
+        {
+          "form": "ποιητέον",
+          "lemma": "ποιέω",
+          "location": "387c",
+          "context": null
+        }
+      ],
+      "observation": "Verbal adjectives in -τέον/-τέα recur throughout, framing the discussion as a series of prescriptions about what must be heard, said, cast away, removed, spoken, and done."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "Κωκυτούς",
+          "lemma": "Κωκυτός",
+          "location": "387b",
+          "context": null
+        },
+        {
+          "form": "Στύγας",
+          "lemma": "Στύξ",
+          "location": "387b",
+          "context": null
+        },
+        {
+          "form": "ἐνέρους",
+          "lemma": "ἔνεροι",
+          "location": "387c",
+          "context": null
+        },
+        {
+          "form": "ἀλίβαντας",
+          "lemma": "ἀλίβας",
+          "location": "387c",
+          "context": null
+        }
+      ],
+      "observation": "Four underworld names are listed as the fearful names (ὀνόματα δεινά) to be discarded: Cocytus, Styx, the dead below, and the withered dead."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θερμότεροι",
+          "lemma": "θερμός",
+          "location": "387c",
+          "context": "θερμότεροι καὶ μαλακώτεροι τοῦ δέοντος"
+        },
+        {
+          "form": "φρίκης",
+          "lemma": "φρίκη",
+          "location": "387c",
+          "context": "ἐκ τῆς τοιαύτης φρίκης"
+        }
+      ],
+      "observation": "Shivering (φρίκη) is feared to make guardians hotter (θερμότεροι) and softer (μαλακώτεροι)—a striking conjunction of chilling and overheating."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρεῖοι",
+          "lemma": "ἀνδρεῖος",
+          "location": "386a",
+          "context": "εἰ μέλλουσιν εἶναι ἀνδρεῖοι"
+        },
+        {
+          "form": "ἀνδρεῖον",
+          "lemma": "ἀνδρεῖος",
+          "location": "386b",
+          "context": "γενέσθαι ἀνδρεῖον"
+        },
+        {
+          "form": "ἀνδροτῆτα",
+          "lemma": "ἀνδροτής",
+          "location": "386d",
+          "context": "λιποῦσʼ ἀνδροτῆτα καὶ ἥβην"
+        }
+      ],
+      "observation": "ἀνδρεῖος appears in Socrates' prose framing the requirement for courage; within the quoted Homer, ἀνδροτής (manhood) is what the soul leaves behind in death."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παισὶ",
+          "lemma": "παῖς",
+          "location": "387b",
+          "context": "ἧττον ἀκουστέον παισὶ καὶ ἀνδράσιν"
+        },
+        {
+          "form": "παίδων",
+          "lemma": "παῖς",
+          "location": "386a",
+          "context": "εὐθὺς ἐκ παίδων"
+        }
+      ],
+      "observation": "παῖς appears at 386a as the starting point of education (ἐκ παίδων) and at 387b paired with ἀνδράσιν as those who must not hear such poetry."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τύπον",
+          "lemma": "τύπος",
+          "location": "387c",
+          "context": "τὸν δὲ ἐναντίον τύπον τούτοις λεκτέον"
+        },
+        {
+          "form": "τύπου",
+          "lemma": "τύπος",
+          "location": "387c",
+          "context": "ὅσα τούτου τοῦ τύπου ὀνομαζόμενα"
+        }
+      ],
+      "observation": "τύπος appears twice at 387c: first as the type of fearful names to be removed, then immediately as the opposite type (ἐναντίον τύπον) that must be spoken and composed."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "τετριγυῖα",
+          "lemma": "τρίζω",
+          "location": "387a",
+          "context": "ψυχὴ … ᾤχετο τετριγυῖα"
+        },
+        {
+          "form": "τρίζουσαι",
+          "lemma": "τρίζω",
+          "location": "387a",
+          "context": "νυκτερίδες … τρίζουσαι ποτέονται"
+        },
+        {
+          "form": "τετριγυῖαι",
+          "lemma": "τρίζω",
+          "location": "387a",
+          "context": "αἳ τετριγυῖαι ἅμʼ ᾔεσαν"
+        }
+      ],
+      "observation": "τρίζω appears three times in the adjacent Homer quotations—the squeaking soul, the squeaking bats, and the squeaking shades—creating a concentrated sound echo."
+    }
+  ]
+}
