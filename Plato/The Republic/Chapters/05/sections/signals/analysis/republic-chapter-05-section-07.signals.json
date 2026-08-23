@@ -1,0 +1,516 @@
+{
+  "section_id": "republic-chapter-05-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "εἴκοσι ἔτη",
+          "lemma": null,
+          "location": "460e",
+          "context": "τὰ εἴκοσι ἔτη γυναικί"
+        },
+        {
+          "form": "τριάκοντα",
+          "lemma": null,
+          "location": "460e",
+          "context": "ἀνδρὶ δὲ τὰ τριάκοντα"
+        },
+        {
+          "form": "εἰκοσιέτιδος",
+          "lemma": null,
+          "location": "460e",
+          "context": "ἀπὸ εἰκοσιέτιδος μέχρι τετταρακονταέτιδος"
+        },
+        {
+          "form": "τετταρακονταέτιδος",
+          "lemma": null,
+          "location": "460e",
+          "context": null
+        },
+        {
+          "form": "πεντεκαιπεντηκονταέτους",
+          "lemma": null,
+          "location": "460e",
+          "context": "μέχρι πεντεκαιπεντηκονταέτους"
+        },
+        {
+          "form": "δεκάτῳ μηνὶ καὶ ἑβδόμῳ",
+          "lemma": null,
+          "location": "461d",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of specific numbers defines reproductive age spans for women (20–40) and men (past peak to 55), and the tenth and seventh months define kinship reckoning."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "γεννᾶν",
+          "lemma": "γεννάω",
+          "location": "460e",
+          "context": "γεννᾶν τῇ πόλει"
+        },
+        {
+          "form": "γεννήσεων",
+          "lemma": "γέννησις",
+          "location": "461a",
+          "context": "τῶν εἰς τὸ κοινὸν γεννήσεων"
+        },
+        {
+          "form": "γεννήσεται",
+          "lemma": "γεννάω",
+          "location": "461a",
+          "context": null
+        },
+        {
+          "form": "γεννώντων",
+          "lemma": "γεννάω",
+          "location": "461b",
+          "context": "τῶν ἔτι γεννώντων"
+        },
+        {
+          "form": "γεννᾶν",
+          "lemma": "γεννάω",
+          "location": "461b",
+          "context": "τοῦ γεννᾶν ἐκβῶσι"
+        },
+        {
+          "form": "ἐγέννων",
+          "lemma": "γεννάω",
+          "location": "461d",
+          "context": "οἱ πατέρες αὐτῶν ἐγέννων"
+        }
+      ],
+      "observation": "Forms of γεννάω recur densely throughout the section, appearing in varied grammatical forms across the full arc from sanctioned begetting to its cessation and retrospective reckoning."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θυσιῶν",
+          "lemma": "θυσία",
+          "location": "461a",
+          "context": "ὑπὸ θυσιῶν"
+        },
+        {
+          "form": "εὐχῶν",
+          "lemma": "εὐχή",
+          "location": "461a",
+          "context": "ὑπὸ εὐχῶν"
+        },
+        {
+          "form": "σκότου",
+          "lemma": "σκότος",
+          "location": "461b",
+          "context": "ὑπὸ σκότου μετὰ δεινῆς ἀκρατείας"
+        }
+      ],
+      "observation": "Sanctioned birth occurs under sacrifices and prayers; unsanctioned birth is contrasted as occurring under darkness with terrible lack of self-control."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀμείνους",
+          "lemma": "ἀμείνων",
+          "location": "461a",
+          "context": "ἐξ ἀγαθῶν ἀμείνους"
+        },
+        {
+          "form": "ὠφελιμωτέρους",
+          "lemma": "ὠφέλιμος",
+          "location": "461b",
+          "context": "ἐξ ὠφελίμων ὠφελιμωτέρους"
+        }
+      ],
+      "observation": "Two parallel comparative constructions: from good ones better, from useful ones more useful—each moving from positive to comparative via ἐξ + genitive."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἅψηται",
+          "lemma": "ἅπτω",
+          "location": "461a",
+          "context": "γεννήσεων ἅψηται"
+        },
+        {
+          "form": "ἅπτηται",
+          "lemma": "ἅπτω",
+          "location": "461b",
+          "context": "ἅπτηται τῶν ἐν ἡλικίᾳ γυναικῶν"
+        },
+        {
+          "form": "ἅπτεσθαι",
+          "lemma": "ἅπτω",
+          "location": "461e",
+          "context": "ἀλλήλων μὴ ἅπτεσθαι"
+        }
+      ],
+      "observation": "ἅπτω recurs three times: first for transgressive begetting outside age limits, then for unsanctioned union without the ruler's arrangement, then for the sibling prohibition—each a different forbidden touching."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὅσιον",
+          "lemma": "ὅσιος",
+          "location": "461a",
+          "context": "οὔτε ὅσιον οὔτε δίκαιον"
+        },
+        {
+          "form": "ἀνίερον",
+          "lemma": "ἀνίερος",
+          "location": "461b",
+          "context": "νόθον γὰρ καὶ ἀνέγγυον καὶ ἀνίερον"
+        },
+        {
+          "form": "ἱέρειαι",
+          "lemma": "ἱέρεια",
+          "location": "461a",
+          "context": null
+        },
+        {
+          "form": "ἱερεῖς",
+          "lemma": "ἱερεύς",
+          "location": "461a",
+          "context": null
+        },
+        {
+          "form": "Πυθία",
+          "lemma": "Πυθία",
+          "location": "461e",
+          "context": "ἡ Πυθία προσαναιρῇ"
+        }
+      ],
+      "observation": "A cluster of sacred/religious language: ὅσιον, priestesses and priests, ἀνίερον (unholy), and the Pythia's sanction for sibling marriage."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "νόθον",
+          "lemma": "νόθος",
+          "location": "461b",
+          "context": null
+        },
+        {
+          "form": "ἀνέγγυον",
+          "lemma": "ἀνέγγυος",
+          "location": "461b",
+          "context": null
+        },
+        {
+          "form": "ἀνίερον",
+          "lemma": "ἀνίερος",
+          "location": "461b",
+          "context": null
+        }
+      ],
+      "observation": "Three alpha-privative or negatively marked adjectives in asyndeton characterize the illegitimate child: bastard, unbetrothed, unholy."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θυγατρὶ",
+          "lemma": "θυγάτηρ",
+          "location": "461c",
+          "context": null
+        },
+        {
+          "form": "μητρὶ",
+          "lemma": "μήτηρ",
+          "location": "461c",
+          "context": null
+        },
+        {
+          "form": "ὑεῖ",
+          "lemma": "υἱός",
+          "location": "461c",
+          "context": null
+        },
+        {
+          "form": "πατρὶ",
+          "lemma": "πατήρ",
+          "location": "461c",
+          "context": null
+        },
+        {
+          "form": "ὑεῖς",
+          "lemma": "υἱός",
+          "location": "461d",
+          "context": null
+        },
+        {
+          "form": "θυγατέρας",
+          "lemma": "θυγάτηρ",
+          "location": "461d",
+          "context": null
+        },
+        {
+          "form": "πατέρα",
+          "lemma": "πατήρ",
+          "location": "461d",
+          "context": null
+        },
+        {
+          "form": "πάππους",
+          "lemma": "πάππος",
+          "location": "461d",
+          "context": null
+        },
+        {
+          "form": "τηθάς",
+          "lemma": "τηθή",
+          "location": "461d",
+          "context": null
+        },
+        {
+          "form": "ἀδελφάς",
+          "lemma": "ἀδελφή",
+          "location": "461e",
+          "context": null
+        },
+        {
+          "form": "ἀδελφούς",
+          "lemma": "ἀδελφός",
+          "location": "461e",
+          "context": null
+        }
+      ],
+      "observation": "A dense enumeration of kinship terms—daughter, mother, son, father, grandparents, siblings—constitutes the system of naming that replaces biological knowledge with temporal convention."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "461c",
+          "context": "ταῖς ἄνω μητρός"
+        },
+        {
+          "form": "κάτω",
+          "lemma": "κάτω",
+          "location": "461c",
+          "context": "τοῖς τούτων εἰς τὸ κάτω"
+        },
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "461c",
+          "context": "ἐπὶ τὸ ἄνω"
+        }
+      ],
+      "observation": "Kinship prohibitions are mapped spatially as upward and downward directions in the generational line."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "461c",
+          "context": "μηδʼ εἰς φῶς ἐκφέρειν κύημα"
+        },
+        {
+          "form": "σκότου",
+          "lemma": "σκότος",
+          "location": "461b",
+          "context": "ὑπὸ σκότου"
+        }
+      ],
+      "observation": "Darkness (σκότος) characterizes unsanctioned conception; light (φῶς) names what the resulting offspring must not be brought into."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἀκμῆς",
+          "lemma": "ἀκμή",
+          "location": "460e",
+          "context": "μέτριος χρόνος ἀκμῆς"
+        },
+        {
+          "form": "ἀκμὴν",
+          "lemma": "ἀκμή",
+          "location": "460e",
+          "context": "τὴν ὀξυτάτην δρόμου ἀκμὴν"
+        },
+        {
+          "form": "ἀκμὴ",
+          "lemma": "ἀκμή",
+          "location": "461a",
+          "context": "αὕτη ἀκμὴ σώματός τε καὶ φρονήσεως"
+        }
+      ],
+      "observation": "ἀκμή recurs three times: first as a general span, then qualified as the sharpest peak of running, then expanded to encompass both body and intelligence."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τῇ πόλει",
+          "lemma": "πόλις",
+          "location": "460e",
+          "context": "τίκτειν τῇ πόλει"
+        },
+        {
+          "form": "τῇ πόλει",
+          "lemma": "πόλις",
+          "location": "460e",
+          "context": "γεννᾶν τῇ πόλει"
+        },
+        {
+          "form": "τῇ πόλει",
+          "lemma": "πόλις",
+          "location": "461b",
+          "context": "παῖδα τῇ πόλει καθιστάναι"
+        },
+        {
+          "form": "ἡ πόλις",
+          "lemma": "πόλις",
+          "location": "461a",
+          "context": "σύμπασα ἡ πόλις"
+        }
+      ],
+      "observation": "The dative τῇ πόλει recurs as the recipient of bearing, begetting, and establishing children; the city itself also appears as subject joining in prayer."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "πῶς διαγνώσονται",
+          "lemma": "διαγιγνώσκω",
+          "location": "461d",
+          "context": "πατέρας δὲ καὶ θυγατέρας… πῶς διαγνώσονται ἀλλήλων"
+        },
+        {
+          "form": "προσερεῖ",
+          "lemma": "προσαγορεύω",
+          "location": "461d",
+          "context": "ταῦτα πάντα προσερεῖ τὰ μὲν ἄρρενα ὑεῖς"
+        }
+      ],
+      "observation": "Glaucon asks how fathers and daughters will recognize one another; Socrates answers that recognition is replaced by naming based on temporal convention."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κλῆρος",
+          "lemma": "κλῆρος",
+          "location": "461e",
+          "context": "ἐὰν ὁ κλῆρος ταύτῃ συμπίπτῃ"
+        },
+        {
+          "form": "Πυθία",
+          "lemma": "Πυθία",
+          "location": "461e",
+          "context": "ἡ Πυθία προσαναιρῇ"
+        }
+      ],
+      "observation": "Sibling marriage requires a double authorization: the lot must fall that way and the Pythia must additionally sanction it."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐλευθέρους",
+          "lemma": "ἐλεύθερος",
+          "location": "461b",
+          "context": "ἀφήσομέν που ἐλευθέρους αὐτοὺς συγγίγνεσθαι"
+        }
+      ],
+      "observation": "Those past reproductive age are released as 'free' to associate with whom they wish—ἐλεύθερος applied to sexual liberty after state-regulated begetting ends."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀξυτάτην δρόμου ἀκμὴν",
+          "lemma": null,
+          "location": "460e",
+          "context": "τὴν ὀξυτάτην δρόμου ἀκμὴν παρῇ"
+        }
+      ],
+      "observation": "The male reproductive start is defined by passing the sharpest peak of running—a physical athletic image (δρόμος, ὀξυτάτη) marking the transition to begetting."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "461e",
+          "context": "ἡ μὲν δὴ κοινωνία… γυναικῶν τε καὶ παίδων"
+        },
+        {
+          "form": "κοινὸν",
+          "lemma": "κοινός",
+          "location": "461a",
+          "context": "τῶν εἰς τὸ κοινὸν γεννήσεων"
+        }
+      ],
+      "observation": "κοινός appears first within the regulatory discussion (begetting 'into the common stock') and returns in the summarizing frame as κοινωνία naming the entire arrangement."
+    }
+  ]
+}
