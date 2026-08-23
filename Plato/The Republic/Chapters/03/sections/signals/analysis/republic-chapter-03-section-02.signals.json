@@ -1,0 +1,530 @@
+{
+  "section_id": "republic-chapter-03-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὀδυρμοὺς",
+          "lemma": "ὀδυρμός",
+          "location": "387d",
+          "context": "τοὺς ὀδυρμοὺς ἄρα ἐξαιρήσομεν"
+        },
+        {
+          "form": "ὀδύροιτʼ",
+          "lemma": "ὀδύρομαι",
+          "location": "387d",
+          "context": null
+        },
+        {
+          "form": "ὀδυρόμενον",
+          "lemma": "ὀδύρομαι",
+          "location": "388b",
+          "context": "κλαίοντά τε καὶ ὀδυρόμενον"
+        },
+        {
+          "form": "ὀδυρομένους",
+          "lemma": "ὀδύρομαι",
+          "location": "388b",
+          "context": "θεούς γε ποιεῖν ὀδυρομένους"
+        },
+        {
+          "form": "ὀδυρμούς",
+          "lemma": "ὀδυρμός",
+          "location": "388d",
+          "context": "θρήνους ἂν ᾄδοι καὶ ὀδυρμούς"
+        }
+      ],
+      "observation": "Forms of ὀδύρομαι/ὀδυρμός recur throughout, applied first to distinguished men, then to Achilles, then to gods, then to the unrestrained human who imitates them."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαιρήσομεν",
+          "lemma": "ἐξαιρέω",
+          "location": "387d",
+          "context": "τοὺς ὀδυρμοὺς ἄρα ἐξαιρήσομεν"
+        },
+        {
+          "form": "ἐξαιρήσομεν",
+          "lemma": "ἐξαιρέω",
+          "location": "387d",
+          "context": "εἰ ὀρθῶς ἐξαιρήσομεν ἢ οὔ"
+        },
+        {
+          "form": "ἐξαιροῖμεν",
+          "lemma": "ἐξαιρέω",
+          "location": "387e",
+          "context": "ἐξαιροῖμεν τοὺς θρήνους τῶν ὀνομαστῶν ἀνδρῶν"
+        }
+      ],
+      "observation": "ἐξαιρέω recurs three times, shifting from future indicative to optative as the removal of lamentations moves from proposal to justified conclusion."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δεινὸν",
+          "lemma": "δεινός",
+          "location": "387d",
+          "context": "τὸ τεθνάναι οὐ δεινὸν ἡγήσεται"
+        },
+        {
+          "form": "δεινόν",
+          "lemma": "δεινός",
+          "location": "387d",
+          "context": "ὡς δεινόν τι πεπονθότος"
+        },
+        {
+          "form": "δεινὸν",
+          "lemma": "δεινός",
+          "location": "387e",
+          "context": "ἥκιστα ἄρʼ αὐτῷ δεινὸν στερηθῆναι"
+        }
+      ],
+      "observation": "δεινός appears three times in close succession, each time negated or minimized in connection with the ἐπιεικής man's attitude toward loss."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "387e",
+          "context": "ἥκιστα ἑτέρου προσδεῖται"
+        },
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "387e",
+          "context": "ἥκιστα ἄρʼ αὐτῷ δεινὸν στερηθῆναι"
+        },
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "387e",
+          "context": "ἥκιστα μέντοι"
+        },
+        {
+          "form": "ἥκιστʼ",
+          "lemma": "ἥκιστα",
+          "location": "387e",
+          "context": "ἥκιστʼ ἄρα καὶ ὀδύρεσθαι"
+        }
+      ],
+      "observation": "ἥκιστα occurs four times in dense local concentration at 387e, each application extending the ἐπιεικής man's minimal need."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "αὐτὸς αὑτῷ αὐτάρκης",
+          "lemma": null,
+          "location": "387d",
+          "context": "ὁ τοιοῦτος μάλιστα αὐτὸς αὑτῷ αὐτάρκης πρὸς τὸ εὖ ζῆν"
+        }
+      ],
+      "observation": "The triple αὐτ- cluster (αὐτός, αὑτῷ, αὐτάρκης) in a single phrase marks the self-sufficiency of the decent man."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀνομαστῶν ἀνδρῶν",
+          "lemma": null,
+          "location": "387e",
+          "context": "τοὺς θρήνους τῶν ὀνομαστῶν ἀνδρῶν"
+        },
+        {
+          "form": "γυναιξὶ",
+          "lemma": "γυνή",
+          "location": "387e",
+          "context": "γυναιξὶ δὲ ἀποδιδοῖμεν"
+        },
+        {
+          "form": "κακοὶ τῶν ἀνδρῶν",
+          "lemma": null,
+          "location": "388a",
+          "context": "ὅσοι κακοὶ τῶν ἀνδρῶν"
+        }
+      ],
+      "observation": "Lamentations are removed from notable men and reassigned to women (not serious ones) and bad men—a redistribution along lines of worth."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπὶ πλευρᾶς κατακείμενον",
+          "lemma": null,
+          "location": "388a",
+          "context": null
+        },
+        {
+          "form": "ὕπτιον",
+          "lemma": "ὕπτιος",
+          "location": "388a",
+          "context": null
+        },
+        {
+          "form": "πρηνῆ",
+          "lemma": "πρηνής",
+          "location": "388a",
+          "context": null
+        },
+        {
+          "form": "ὀρθὸν ἀναστάντα",
+          "lemma": null,
+          "location": "388a",
+          "context": null
+        },
+        {
+          "form": "πλωΐζοντʼ ἀλύοντʼ ἐπὶ θῖνʼ ἁλὸς",
+          "lemma": null,
+          "location": "388b",
+          "context": null
+        }
+      ],
+      "observation": "Achilles' body moves through a sequence of positions—side, supine, prone, upright, wandering along the shore—a detailed spatial sequence of uncontrolled grief."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐλλογίμων ἀνδρῶν",
+          "lemma": null,
+          "location": "387d",
+          "context": null
+        },
+        {
+          "form": "Ἀχιλλέα θεᾶς παῖδα",
+          "lemma": null,
+          "location": "388a",
+          "context": null
+        },
+        {
+          "form": "Πρίαμον ἐγγὺς θεῶν γεγονότα",
+          "lemma": null,
+          "location": "388b",
+          "context": null
+        },
+        {
+          "form": "θεούς γε ποιεῖν ὀδυρομένους",
+          "lemma": null,
+          "location": "388b",
+          "context": null
+        },
+        {
+          "form": "τόν γε μέγιστον τῶν θεῶν",
+          "lemma": null,
+          "location": "388c",
+          "context": null
+        }
+      ],
+      "observation": "The prohibition against lamentation ascends: from notable men, to Achilles (child of a goddess), to Priam (near the gods), to gods generally, to the greatest god."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γέλωτι",
+          "lemma": "γέλως",
+          "location": "388e",
+          "context": "κρατουμένους ὑπὸ γέλωτος"
+        },
+        {
+          "form": "γέλως",
+          "lemma": "γέλως",
+          "location": "389a",
+          "context": "ἄσβεστος δʼ ἄρʼ ἐνῶρτο γέλως μακάρεσσι θεοῖσιν"
+        },
+        {
+          "form": "φιλογέλωτάς",
+          "lemma": "φιλογέλως",
+          "location": "388e",
+          "context": "οὐδὲ φιλογέλωτάς γε δεῖ εἶναι"
+        }
+      ],
+      "observation": "After the extended treatment of lamentation, γέλως appears as a parallel prohibition; uncontrolled laughter is paired with uncontrolled grief."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἰσχυρῷ γέλωτι",
+          "lemma": null,
+          "location": "388e",
+          "context": "ὅταν τις ἐφιῇ ἰσχυρῷ γέλωτι"
+        },
+        {
+          "form": "ἰσχυρὰν καὶ μεταβολὴν",
+          "lemma": null,
+          "location": "388e",
+          "context": "ἰσχυρὰν καὶ μεταβολὴν ζητεῖ τὸ τοιοῦτον"
+        }
+      ],
+      "observation": "ἰσχυρός is used twice adjacently: strong laughter seeks strong change, linking intensity of emotion to intensity of reversal."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "389b",
+          "context": "θεοῖσι μὲν ἄχρηστον ψεῦδος, ἀνθρώποις δὲ χρήσιμον"
+        },
+        {
+          "form": "φαρμάκου",
+          "lemma": "φάρμακον",
+          "location": "389b",
+          "context": "ὡς ἐν φαρμάκου εἴδει"
+        },
+        {
+          "form": "ἰατροῖς δοτέον",
+          "lemma": null,
+          "location": "389b",
+          "context": "τό γε τοιοῦτον ἰατροῖς δοτέον"
+        },
+        {
+          "form": "ἰδιώταις δὲ οὐχ ἁπτέον",
+          "lemma": null,
+          "location": "389b",
+          "context": null
+        }
+      ],
+      "observation": "Falsehood is characterized as a φάρμακον: useless to gods, useful to humans, to be administered by doctors (rulers) and not touched by laypeople."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "389b",
+          "context": null
+        },
+        {
+          "form": "ψεύδεσθαι",
+          "lemma": "ψεύδομαι",
+          "location": "389b",
+          "context": "προσήκει ψεύδεσθαι"
+        },
+        {
+          "form": "ψεύσασθαι",
+          "lemma": "ψεύδομαι",
+          "location": "389c",
+          "context": "ἰδιώτῃ ψεύσασθαι"
+        },
+        {
+          "form": "ψευδόμενον",
+          "lemma": "ψεύδομαι",
+          "location": "389d",
+          "context": "ἄλλον τινὰ λαμβάνῃ ψευδόμενον ἐν τῇ πόλει"
+        }
+      ],
+      "observation": "Forms of ψεῦδος/ψεύδομαι recur as the discussion moves from the nature of falsehood to who may use it to punishment for unauthorized use."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἰατροῖς",
+          "lemma": "ἰατρός",
+          "location": "389b",
+          "context": null
+        },
+        {
+          "form": "ἰατρὸν",
+          "lemma": "ἰατρός",
+          "location": "389c",
+          "context": "κάμνοντι πρὸς ἰατρόν"
+        },
+        {
+          "form": "ἰητῆρα κακῶν",
+          "lemma": null,
+          "location": "389d",
+          "context": null
+        },
+        {
+          "form": "παιδοτρίβην",
+          "lemma": "παιδοτρίβης",
+          "location": "389c",
+          "context": null
+        },
+        {
+          "form": "κυβερνήτην",
+          "lemma": "κυβερνήτης",
+          "location": "389c",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of expert practitioners—doctor, trainer, helmsman—appears as analogues for the ruler in the matter of truth-telling; the Homeric ἰητῆρα κακῶν echoes the prose ἰατρός."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθειάν",
+          "lemma": "ἀλήθεια",
+          "location": "389b",
+          "context": "ἀλήθειάν γε περὶ πολλοῦ ποιητέον"
+        },
+        {
+          "form": "τἀληθῆ",
+          "lemma": "ἀληθής",
+          "location": "389c",
+          "context": "μὴ τἀληθῆ λέγειν"
+        },
+        {
+          "form": "τὰ ὄντα",
+          "lemma": null,
+          "location": "389c",
+          "context": "μὴ τὰ ὄντα λέγοντι"
+        }
+      ],
+      "observation": "ἀλήθεια is first stated as a general principle; τἀληθῆ and τὰ ὄντα then appear as what subordinates must tell their experts."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "νεὼς ἀνατρεπτικόν τε καὶ ὀλέθριον",
+          "lemma": null,
+          "location": "389d",
+          "context": "ἐπιτήδευμα εἰσάγοντα πόλεως ὥσπερ νεὼς ἀνατρεπτικόν τε καὶ ὀλέθριον"
+        }
+      ],
+      "observation": "The city is compared to a ship (νεώς) that falsehood can overturn; this follows directly on the κυβερνήτης analogy at 389c."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πείσῃ",
+          "lemma": "πείθω",
+          "location": "388e",
+          "context": "ἕως ἄν τις ἡμᾶς ἄλλῳ καλλίονι πείσῃ"
+        },
+        {
+          "form": "ὁ λόγος ἐσήμαινεν",
+          "lemma": null,
+          "location": "388e",
+          "context": "ὡς ἄρτι ἡμῖν ὁ λόγος ἐσήμαινεν· ᾧ πειστέον"
+        }
+      ],
+      "observation": "The λόγος is treated as something that signals (ἐσήμαινεν) and must be obeyed (πειστέον) unless someone persuades (πείσῃ) with a finer one."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θεοῖσι μὲν ἄχρηστον",
+          "lemma": null,
+          "location": "389b",
+          "context": "θεοῖσι μὲν ἄχρηστον ψεῦδος"
+        },
+        {
+          "form": "ἀνθρώποις δὲ χρήσιμον",
+          "lemma": null,
+          "location": "389b",
+          "context": null
+        }
+      ],
+      "observation": "A direct μέν/δέ contrast: falsehood is useless to gods but useful to humans."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπὶ φυλακῇ τῆς χώρας τρέφειν",
+          "lemma": null,
+          "location": "388a",
+          "context": "οὓς δή φαμεν ἐπὶ φυλακῇ τῆς χώρας τρέφειν"
+        },
+        {
+          "form": "τοῖς ἄρχουσιν δὴ τῆς πόλεως",
+          "lemma": null,
+          "location": "389b",
+          "context": null
+        }
+      ],
+      "observation": "The guardians raised for the country's protection at 388a and the rulers of the city at 389b are the reference group for both emotional restraint and the privilege of falsehood."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπί γε λόγῳ ἔργα τελῆται",
+          "lemma": null,
+          "location": "389d",
+          "context": "ἐάνπερ ἐπί γε λόγῳ ἔργα τελῆται"
+        }
+      ],
+      "observation": "The section closes with Adeimantus' conditional: if deeds are completed upon the word—linking λόγος and ἔργον at the conclusion."
+    }
+  ]
+}
