@@ -1,0 +1,615 @@
+{
+  "section_id": "republic-chapter-04-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἑστάναι",
+          "lemma": "ἵστημι",
+          "location": "436c",
+          "context": null
+        },
+        {
+          "form": "κινεῖσθαι",
+          "lemma": "κινέω",
+          "location": "436c",
+          "context": "ἑστάναι … καὶ κινεῖσθαι τὸ αὐτὸ ἅμα κατὰ τὸ αὐτὸ"
+        }
+      ],
+      "observation": "Standing and moving are set as the first illustrative pair of opposites applied to the same thing at the same time."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ταὐτόν",
+          "lemma": "αὐτός",
+          "location": "436b",
+          "context": "ταὐτὸν τἀναντία ποιεῖν ἢ πάσχειν κατὰ ταὐτόν γε καὶ πρὸς ταὐτὸν"
+        },
+        {
+          "form": "τὸ αὐτὸ ἅμα κατὰ τὸ αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "436c",
+          "context": null
+        },
+        {
+          "form": "κατὰ τὸ αὐτὸ πρὸς τὸ αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "437a",
+          "context": null
+        }
+      ],
+      "observation": "Forms of αὐτός accumulate densely in the formulation and restatement of the principle, each time specifying sameness of subject, respect, and object."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "436b",
+          "context": null
+        },
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "437a",
+          "context": null
+        },
+        {
+          "form": "τῶν ἐναντίων",
+          "lemma": "ἐναντίος",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "437c",
+          "context": "εἰς ἅπαντα τἀναντία"
+        },
+        {
+          "form": "τἀναντία",
+          "lemma": "ἐναντίος",
+          "location": "439b",
+          "context": null
+        }
+      ],
+      "observation": "ἐναντίος recurs throughout the section, marking the principle of opposites and its successive applications."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "στρόβιλοι",
+          "lemma": "στρόβιλος",
+          "location": "436d",
+          "context": null
+        },
+        {
+          "form": "κέντρον",
+          "lemma": "κέντρον",
+          "location": "436d",
+          "context": "ἐν τῷ αὐτῷ πήξαντες τὸ κέντρον περιφέρωνται"
+        },
+        {
+          "form": "κύκλῳ",
+          "lemma": "κύκλος",
+          "location": "436d",
+          "context": null
+        },
+        {
+          "form": "εὐθύ",
+          "lemma": "εὐθύς",
+          "location": "436e",
+          "context": null
+        },
+        {
+          "form": "περιφερές",
+          "lemma": "περιφερής",
+          "location": "436e",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of spinning-top and circular-motion vocabulary: top, pivot-point, circle, straight, and curved are concentrated in the illustration of apparent standing-and-moving."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰς δεξιάν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        },
+        {
+          "form": "εἰς ἀριστεράν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        },
+        {
+          "form": "εἰς τὸ πρόσθεν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        },
+        {
+          "form": "εἰς τὸ ὄπισθεν",
+          "lemma": null,
+          "location": "436e",
+          "context": null
+        }
+      ],
+      "observation": "Four directional specifications—right, left, forward, backward—enumerate ways the axis might incline, marking the loss of standing still."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "syntactic_parallel",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐπινεύειν",
+          "lemma": "ἐπινεύω",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "ἀνανεύειν",
+          "lemma": "ἀνανεύω",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "ἐφίεσθαι",
+          "lemma": "ἐφίημι",
+          "location": "437c",
+          "context": null
+        },
+        {
+          "form": "ἀπαρνεῖσθαι",
+          "lemma": "ἀπαρνέομαι",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "προσάγεσθαι",
+          "lemma": "προσάγω",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "ἀπωθεῖσθαι",
+          "lemma": "ἀπωθέω",
+          "location": "437b",
+          "context": null
+        }
+      ],
+      "observation": "Three paired infinitives set in parallel: nodding/shaking-head, reaching-for/refusing, drawing-toward/pushing-away, enumerated as examples of opposites in action or passion."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμοῦντος",
+          "lemma": "ἐπιθυμέω",
+          "location": "437c",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμῇ",
+          "lemma": "ἐπιθυμέω",
+          "location": "437c",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμεῖν",
+          "lemma": "ἐπιθυμέω",
+          "location": "437c",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμία",
+          "lemma": "ἐπιθυμία",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "439d",
+          "context": "περὶ τὰς ἄλλας ἐπιθυμίας ἐπτόηται"
+        }
+      ],
+      "observation": "ἐπιθυμία/ἐπιθυμέω recurs densely as desire is introduced, specified, and finally assigned to a part of the soul."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "διψῆν",
+          "lemma": "διψάω",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "πεινῆν",
+          "lemma": "πεινάω",
+          "location": "437b",
+          "context": null
+        },
+        {
+          "form": "δίψαν",
+          "lemma": "δίψα",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "πεῖναν",
+          "lemma": "πεῖνα",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "ποτοῦ",
+          "lemma": "ποτόν",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "ἐδωδῆς",
+          "lemma": "ἐδωδή",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "πώματος",
+          "lemma": "πῶμα",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "βρώματος",
+          "lemma": "βρῶμα",
+          "location": "437e",
+          "context": null
+        }
+      ],
+      "observation": "Thirst and hunger with their objects (drink/food) form a concrete bodily-appetite cluster used as the clearest instances of desire."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θερμοῦ",
+          "lemma": "θερμός",
+          "location": "437d",
+          "context": "δίψα ἆρά γε θερμοῦ ποτοῦ ἢ ψυχροῦ"
+        },
+        {
+          "form": "ψυχροῦ",
+          "lemma": "ψυχρός",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "πολλοῦ",
+          "lemma": "πολύς",
+          "location": "437d",
+          "context": null
+        },
+        {
+          "form": "ὀλίγου",
+          "lemma": "ὀλίγος",
+          "location": "437d",
+          "context": null
+        }
+      ],
+      "observation": "Hot/cold and much/little are paired as qualifications that thirst-itself does not inherently carry."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπωθεῖσθαι",
+          "lemma": "ἀπωθέω",
+          "location": "437b",
+          "context": "τὸ προσάγεσθαι τῷ ἀπωθεῖσθαι"
+        },
+        {
+          "form": "ἀπωθεῖν",
+          "lemma": "ἀπωθέω",
+          "location": "437c",
+          "context": "εἰς τὸ ἀπωθεῖν καὶ ἀπελαύνειν ἀπʼ αὐτῆς"
+        },
+        {
+          "form": "ἀπωθοῦνταί",
+          "lemma": "ἀπωθέω",
+          "location": "439b",
+          "context": "αἱ χεῖρες τὸ τόξον ἀπωθοῦνταί τε καὶ προσέλκονται"
+        }
+      ],
+      "observation": "ἀπωθέω appears first as an abstract opposite, then applied to the soul's not-willing, then to the archer's hands pushing the bow—shifting from logical category to psychic action to physical illustration."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ θηρίον",
+          "lemma": "θηρίον",
+          "location": "439b",
+          "context": "ἄγοντος ὥσπερ θηρίον ἐπὶ τὸ πιεῖν"
+        }
+      ],
+      "observation": "The desiring element is compared to a beast being led to drink."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ κελεῦον",
+          "lemma": "κελεύω",
+          "location": "439c",
+          "context": "ἐνεῖναι μὲν ἐν τῇ ψυχῇ αὐτῶν τὸ κελεῦον"
+        },
+        {
+          "form": "τὸ κωλῦον",
+          "lemma": "κωλύω",
+          "location": "439c",
+          "context": "ἐνεῖναι δὲ τὸ κωλῦον πιεῖν"
+        }
+      ],
+      "observation": "The commanding element and the preventing element are set as two distinct presences within the soul, one urging drinking and the other restraining it."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐκ λογισμοῦ",
+          "lemma": "λογισμός",
+          "location": "439d",
+          "context": "τὸ μὲν κωλῦον … ἐκ λογισμοῦ"
+        },
+        {
+          "form": "διὰ παθημάτων τε καὶ νοσημάτων",
+          "lemma": null,
+          "location": "439d",
+          "context": "τὰ δὲ ἄγοντα καὶ ἕλκοντα διὰ παθημάτων τε καὶ νοσημάτων"
+        }
+      ],
+      "observation": "The source of restraint (calculation) is contrasted with the source of compulsion (affections and ailments)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast",
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λογιστικόν",
+          "lemma": "λογιστικός",
+          "location": "439d",
+          "context": "τὸ μὲν ᾧ λογίζεται λογιστικὸν προσαγορεύοντες"
+        },
+        {
+          "form": "ἀλόγιστόν τε καὶ ἐπιθυμητικόν",
+          "lemma": null,
+          "location": "439d",
+          "context": "τὸ δὲ ᾧ ἐρᾷ τε καὶ πεινῇ καὶ διψῇ"
+        }
+      ],
+      "observation": "The two parts are named: λογιστικόν and ἀλόγιστόν τε καὶ ἐπιθυμητικόν, with the second characterized by ἐρᾷ, πεινῇ, διψῇ and called companion of fillings and pleasures."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "λογισμοῦ",
+          "lemma": "λογισμός",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "λογίζεται",
+          "lemma": "λογίζομαι",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "λογιστικόν",
+          "lemma": "λογιστικός",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "ἀλόγιστόν",
+          "lemma": "ἀλόγιστος",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "ἀλόγως",
+          "lemma": "ἀλόγως",
+          "location": "439d",
+          "context": "οὐ δὴ ἀλόγως … ἀξιώσομεν"
+        }
+      ],
+      "observation": "The λογ- family clusters at the naming moment: λογισμός, λογίζεται, λογιστικόν, and their negations ἀλόγως and ἀλόγιστον."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐρᾷ",
+          "lemma": "ἐράω",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "πεινῇ",
+          "lemma": "πεινάω",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "διψῇ",
+          "lemma": "διψάω",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "ἐπτόηται",
+          "lemma": "πτοέω",
+          "location": "439d",
+          "context": "περὶ τὰς ἄλλας ἐπιθυμίας ἐπτόηται"
+        },
+        {
+          "form": "πληρώσεών",
+          "lemma": "πλήρωσις",
+          "location": "439d",
+          "context": null
+        },
+        {
+          "form": "ἡδονῶν",
+          "lemma": "ἡδονή",
+          "location": "439d",
+          "context": null
+        }
+      ],
+      "observation": "The desiring part is characterized by a cluster: loves, hungers, thirsts, is agitated, and is companion of fillings and pleasures."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἑταῖρον",
+          "lemma": "ἑταῖρος",
+          "location": "439d",
+          "context": "πληρώσεών τινων καὶ ἡδονῶν ἑταῖρον"
+        }
+      ],
+      "observation": "The desiring part is called ἑταῖρον—companion—of fillings and pleasures, a social/relational term applied to a psychic element."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οὐκ ἔμαθον",
+          "lemma": "μανθάνω",
+          "location": "438b",
+          "context": null
+        },
+        {
+          "form": "οὐκ ἔμαθες",
+          "lemma": "μανθάνω",
+          "location": "438b",
+          "context": null
+        },
+        {
+          "form": "ἔμαθες",
+          "lemma": "μανθάνω",
+          "location": "438d",
+          "context": "εἰ ἄρα νῦν ἔμαθες"
+        },
+        {
+          "form": "ἔμαθον",
+          "lemma": "μανθάνω",
+          "location": "438e",
+          "context": "ἔμαθον, ἔφη"
+        }
+      ],
+      "observation": "μανθάνω passes between speakers: the interlocutor says he did not understand, Socrates echoes his words back, later asks if he now understands, and the interlocutor confirms he has."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιχειρῶμεν αὐτὰ ὁρίζεσθαι",
+          "lemma": null,
+          "location": "436b",
+          "context": "ὧδε τοίνυν ἐπιχειρῶμεν αὐτὰ ὁρίζεσθαι"
+        },
+        {
+          "form": "διττά τε καὶ ἕτερα ἀλλήλων εἶναι",
+          "lemma": null,
+          "location": "439d",
+          "context": "ἀξιώσομεν αὐτὰ διττά τε καὶ ἕτερα ἀλλήλων εἶναι"
+        }
+      ],
+      "observation": "The section opens with a proposal to determine whether things are the same or different and closes with the claim that they are two and different from each other."
+    }
+  ]
+}
