@@ -1,0 +1,362 @@
+{
+  "section_id": "republic-chapter-05-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μέγιστον ἀγαθὸν",
+          "lemma": null,
+          "location": "462a",
+          "context": "τί ποτε τὸ μέγιστον ἀγαθὸν ἔχομεν εἰπεῖν εἰς πόλεως κατασκευήν"
+        },
+        {
+          "form": "μέγιστον κακόν",
+          "lemma": null,
+          "location": "462a",
+          "context": "καὶ τί μέγιστον κακόν"
+        }
+      ],
+      "observation": "μέγιστον ἀγαθόν and μέγιστον κακόν are posed as a paired question, the greatest good and greatest evil for a city."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἁρμόττει",
+          "lemma": "ἁρμόττω",
+          "location": "462a",
+          "context": "εἰς μὲν τὸ τοῦ ἀγαθοῦ ἴχνος ἡμῖν ἁρμόττει"
+        },
+        {
+          "form": "ἀναρμοστεῖ",
+          "lemma": "ἀναρμοστέω",
+          "location": "462a",
+          "context": "τῷ δὲ τοῦ κακοῦ ἀναρμοστεῖ"
+        }
+      ],
+      "observation": "ἁρμόττει and ἀναρμοστεῖ are set against each other as fitting the trace of the good and not fitting that of the bad."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἴχνος",
+          "lemma": "ἴχνος",
+          "location": "462a",
+          "context": "εἰς μὲν τὸ τοῦ ἀγαθοῦ ἴχνος"
+        }
+      ],
+      "observation": "The good is spoken of as having an ἴχνος (trace/track) toward which proposals are tested for fit."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "διασπᾷ",
+          "lemma": "διασπάω",
+          "location": "462b",
+          "context": "ὃ ἂν αὐτὴν διασπᾷ καὶ ποιῇ πολλὰς ἀντὶ μιᾶς"
+        },
+        {
+          "form": "συνδῇ",
+          "lemma": "συνδέω",
+          "location": "462b",
+          "context": "τοῦ ὃ ἂν συνδῇ τε καὶ ποιῇ μίαν"
+        }
+      ],
+      "observation": "διασπᾷ (tearing apart, making many from one) is contrasted with συνδῇ (binding together, making one), with πολλὰς ἀντὶ μιᾶς opposed to μίαν."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κοινωνία",
+          "lemma": "κοινωνία",
+          "location": "462b",
+          "context": "ἡ μὲν ἡδονῆς τε καὶ λύπης κοινωνία συνδεῖ"
+        },
+        {
+          "form": "ἰδίωσις",
+          "lemma": "ἰδίωσις",
+          "location": "462b",
+          "context": "ἡ δέ γε τῶν τοιούτων ἰδίωσις διαλύει"
+        }
+      ],
+      "observation": "κοινωνία (community/sharing) binds while ἰδίωσις (privatization) dissolves; συνδεῖ and διαλύει repeat the binding/loosing contrast."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χαίρωσι",
+          "lemma": "χαίρω",
+          "location": "462b",
+          "context": null
+        },
+        {
+          "form": "λυπῶνται",
+          "lemma": "λυπέω",
+          "location": "462b",
+          "context": null
+        },
+        {
+          "form": "περιαλγεῖς",
+          "lemma": "περιαλγής",
+          "location": "462b",
+          "context": null
+        },
+        {
+          "form": "περιχαρεῖς",
+          "lemma": "περιχαρής",
+          "location": "462b",
+          "context": null
+        },
+        {
+          "form": "ἡδονῆς",
+          "lemma": "ἡδονή",
+          "location": "462b",
+          "context": null
+        },
+        {
+          "form": "λύπης",
+          "lemma": "λύπη",
+          "location": "462b",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of pleasure/pain vocabulary: ἡδονή, λύπη, χαίρω, λυπέω, περιαλγής, περιχαρής."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "exact_repetition",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἐμὸν",
+          "lemma": null,
+          "location": "462c",
+          "context": "τό τε ἐμὸν καὶ τὸ οὐκ ἐμόν"
+        },
+        {
+          "form": "τὸ οὐκ ἐμόν",
+          "lemma": null,
+          "location": "462c",
+          "context": null
+        },
+        {
+          "form": "τοῦ ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "462c",
+          "context": "περὶ τοῦ ἀλλοτρίου κατὰ ταὐτά"
+        }
+      ],
+      "observation": "τὸ ἐμόν and τὸ οὐκ ἐμόν are named as utterances (ῥήματα) whose shared or unshared voicing indicates unity or division; ἀλλότριος extends the same axis."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἅμα φθέγγωνται",
+          "lemma": null,
+          "location": "462c",
+          "context": "ὅταν μὴ ἅμα φθέγγωνται ἐν τῇ πόλει τὰ τοιάδε ῥήματα"
+        }
+      ],
+      "observation": "Unity is framed as simultaneous utterance (ἅμα φθέγγωνται) of the same words in the city."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἑνὸς ἀνθρώπου",
+          "lemma": null,
+          "location": "462c",
+          "context": "ἐγγύτατα ἑνὸς ἀνθρώπου ἔχει"
+        },
+        {
+          "form": "δάκτυλός",
+          "lemma": "δάκτυλος",
+          "location": "462c",
+          "context": "ὅταν που ἡμῶν δάκτυλός του πληγῇ"
+        },
+        {
+          "form": "πᾶσα ἡ κοινωνία",
+          "lemma": null,
+          "location": "462c",
+          "context": "πᾶσα ἡ κοινωνία ἡ κατὰ τὸ σῶμα πρὸς τὴν ψυχὴν τεταμένη"
+        }
+      ],
+      "observation": "The best city is compared to a single human body: when a finger is struck, the whole κοινωνία of body stretched toward soul perceives and co-suffers."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ᾔσθετο",
+          "lemma": "αἰσθάνομαι",
+          "location": "462d",
+          "context": null
+        },
+        {
+          "form": "συνήλγησεν",
+          "lemma": "συναλγέω",
+          "location": "462d",
+          "context": "πᾶσα ἅμα συνήλγησεν μέρους πονήσαντος ὅλη"
+        },
+        {
+          "form": "ἀλγεῖ",
+          "lemma": "ἀλγέω",
+          "location": "462d",
+          "context": "ὁ ἄνθρωπος τὸν δάκτυλον ἀλγεῖ"
+        }
+      ],
+      "observation": "Within the body analogy, perception (ᾔσθετο) and shared pain (συνήλγησεν, ἀλγεῖ) cluster together; the whole suffers for the part."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μέρους",
+          "lemma": "μέρος",
+          "location": "462d",
+          "context": "μέρους πονήσαντος ὅλη"
+        },
+        {
+          "form": "ὅλη",
+          "lemma": "ὅλος",
+          "location": "462d",
+          "context": null
+        }
+      ],
+      "observation": "μέρος and ὅλη are set in explicit relation: the whole co-suffers when a part is in pain."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συνησθήσεται",
+          "lemma": "συνήδομαι",
+          "location": "462e",
+          "context": null
+        },
+        {
+          "form": "συλλυπήσεται",
+          "lemma": "συλλυπέω",
+          "location": "462e",
+          "context": "ἢ συνησθήσεται ἅπασα ἢ συλλυπήσεται"
+        }
+      ],
+      "observation": "The συν- prefix recurs in συνησθήσεται and συλλυπήσεται, extending the co-suffering/co-rejoicing pattern to the city's relation to each citizen."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ ἄρχοντος",
+          "lemma": "ἄρχων",
+          "location": "462c",
+          "context": "εἰς μίαν σύνταξιν τὴν τοῦ ἄρχοντος ἐν αὐτῇ"
+        }
+      ],
+      "observation": "The body's κοινωνία is stretched toward the soul into a single arrangement (σύνταξις) belonging to τοῦ ἄρχοντος—the ruling element within it."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐπανιέναι",
+          "lemma": "ἐπάνειμι",
+          "location": "462e",
+          "context": "ὥρα ἂν εἴη ἐπανιέναι ἡμῖν ἐπὶ τὴν ἡμετέραν πόλιν"
+        }
+      ],
+      "observation": "The section closes with a proposed return (ἐπανιέναι) to 'our city' to test the argument's agreements there."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὁμολογίας",
+          "lemma": "ὁμολογία",
+          "location": "462a",
+          "context": "ἆρʼ οὖν οὐχ ἥδε ἀρχὴ τῆς ὁμολογίας"
+        },
+        {
+          "form": "ὁμολογήματα",
+          "lemma": "ὁμολόγημα",
+          "location": "462e",
+          "context": "τὰ τοῦ λόγου ὁμολογήματα σκοπεῖν"
+        }
+      ],
+      "observation": "ὁμολογία opens the section as the starting point of agreement; ὁμολογήματα closes it as what must now be examined—framing the section between two forms of the same root."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νομοθέτην",
+          "lemma": "νομοθέτης",
+          "location": "462a",
+          "context": "στοχαζόμενον τὸν νομοθέτην τιθέναι τοὺς νόμους"
+        },
+        {
+          "form": "εὔνομον",
+          "lemma": "εὔνομος",
+          "location": "462e",
+          "context": "τήν γε εὔνομον"
+        }
+      ],
+      "observation": "νομοθέτης near the opening and εὔνομος near the close share the νόμος root."
+    }
+  ]
+}
