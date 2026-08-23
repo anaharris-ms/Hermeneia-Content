@@ -1,0 +1,587 @@
+{
+  "section_id": "republic-chapter-06-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἔκγονος",
+          "lemma": "ἔκγονος",
+          "location": "506e",
+          "context": "ὃς δὲ ἔκγονός τε τοῦ ἀγαθοῦ φαίνεται"
+        },
+        {
+          "form": "τόκους",
+          "lemma": "τόκος",
+          "location": "507a",
+          "context": "μὴ ὥσπερ νῦν τοὺς τόκους μόνον"
+        },
+        {
+          "form": "τόκον",
+          "lemma": "τόκος",
+          "location": "507a",
+          "context": "τοῦτον δὲ δὴ οὖν τὸν τόκον τε καὶ ἔκγονον"
+        },
+        {
+          "form": "ἔκγονον",
+          "lemma": "ἔκγονος",
+          "location": "507a",
+          "context": "τὸν τόκον τε καὶ ἔκγονον αὐτοῦ τοῦ ἀγαθοῦ"
+        },
+        {
+          "form": "πατρός",
+          "lemma": "πατήρ",
+          "location": "506e",
+          "context": "εἰς αὖθις γὰρ τοῦ πατρὸς ἀποτείσεις τὴν διήγησιν"
+        },
+        {
+          "form": "ἐγέννησεν",
+          "lemma": "γεννάω",
+          "location": "508b",
+          "context": "ὃν τἀγαθὸν ἐγέννησεν ἀνάλογον ἑαυτῷ"
+        },
+        {
+          "form": "ἔκγονον",
+          "lemma": "ἔκγονος",
+          "location": "508b",
+          "context": "τὸν τοῦ ἀγαθοῦ ἔκγονον"
+        }
+      ],
+      "observation": "A cluster of kinship and generation terms—ἔκγονος, τόκος, πατήρ, γεννάω—recurs through the section, applied to the relationship between the good and the sun."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀποτείσεις",
+          "lemma": "ἀποτίνω",
+          "location": "506e",
+          "context": "τοῦ πατρὸς ἀποτείσεις τὴν διήγησιν"
+        },
+        {
+          "form": "ἀποδοῦναι",
+          "lemma": "ἀποδίδωμι",
+          "location": "507a",
+          "context": "ἐμέ τε δύνασθαι αὐτὴν ἀποδοῦναι"
+        },
+        {
+          "form": "κομίσασθαι",
+          "lemma": "κομίζω",
+          "location": "507a",
+          "context": "ὑμᾶς κομίσασθαι"
+        },
+        {
+          "form": "τόκους",
+          "lemma": "τόκος",
+          "location": "507a",
+          "context": "τοὺς τόκους μόνον"
+        },
+        {
+          "form": "κομίσασθε",
+          "lemma": "κομίζω",
+          "location": "507a",
+          "context": "τὸν τόκον τε καὶ ἔκγονον αὐτοῦ τοῦ ἀγαθοῦ κομίσασθε"
+        },
+        {
+          "form": "κίβδηλον",
+          "lemma": "κίβδηλος",
+          "location": "507a",
+          "context": "κίβδηλον ἀποδιδοὺς τὸν λόγον τοῦ τόκου"
+        },
+        {
+          "form": "ἀποδιδούς",
+          "lemma": "ἀποδίδωμι",
+          "location": "507a",
+          "context": "κίβδηλον ἀποδιδοὺς τὸν λόγον τοῦ τόκου"
+        }
+      ],
+      "observation": "A dense financial/debt cluster at 506e–507a: paying back (ἀποτείσεις), giving back (ἀποδοῦναι, ἀποδιδούς), collecting (κομίσασθαι, κομίσασθε), interest (τόκους), and counterfeit (κίβδηλον). τόκος operates simultaneously as 'interest' and 'offspring.'"
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶσθαι",
+          "lemma": "ὁράω",
+          "location": "507b",
+          "context": "τὰ μὲν δὴ ὁρᾶσθαί φαμεν"
+        },
+        {
+          "form": "ὁρῶμεν",
+          "lemma": "ὁράω",
+          "location": "507c",
+          "context": "τῷ οὖν ὁρῶμεν ἡμῶν αὐτῶν τὰ ὁρώμενα"
+        },
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "507c",
+          "context": "τὴν τοῦ ὁρᾶν τε καὶ ὁρᾶσθαι δύναμιν"
+        },
+        {
+          "form": "ὁρᾶται",
+          "lemma": "ὁράω",
+          "location": "508b",
+          "context": "αἴτιος δʼ ὢν αὐτῆς ὁρᾶται ὑπʼ αὐτῆς"
+        },
+        {
+          "form": "ὁρῶσι",
+          "lemma": "ὁράω",
+          "location": "508d",
+          "context": "σαφῶς ὁρῶσι"
+        }
+      ],
+      "observation": "Forms of ὁράω recur densely across the section in both active and passive, applied to eyes, visible things, and the sun itself being seen by the sight it causes."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τυφλαί",
+          "lemma": "τυφλός",
+          "location": "506c",
+          "context": "ὧν αἱ βέλτισται τυφλαί"
+        },
+        {
+          "form": "τυφλῶν",
+          "lemma": "τυφλός",
+          "location": "506c",
+          "context": "τυφλῶν διαφέρειν ὁδὸν ὀρθῶς πορευομένων"
+        },
+        {
+          "form": "τυφλά",
+          "lemma": "τυφλός",
+          "location": "506c",
+          "context": "αἰσχρὰ θεάσασθαι, τυφλά τε καὶ σκολιά"
+        },
+        {
+          "form": "τυφλῶν",
+          "lemma": "τυφλός",
+          "location": "508c",
+          "context": "ἐγγὺς φαίνονται τυφλῶν"
+        }
+      ],
+      "observation": "τυφλός appears first for opinions without knowledge and returns for eyes in darkness, linking epistemic blindness to perceptual blindness."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νοεῖσθαι",
+          "lemma": "νοέω",
+          "location": "507b",
+          "context": "τὰς δʼ αὖ ἰδέας νοεῖσθαι μέν, ὁρᾶσθαι δʼ οὔ"
+        },
+        {
+          "form": "νοῦν",
+          "lemma": "νοῦς",
+          "location": "508c",
+          "context": "νοῦν καὶ τὰ νοούμενα"
+        },
+        {
+          "form": "ἐνόησεν",
+          "lemma": "νοέω",
+          "location": "508d",
+          "context": "ἐνόησέν τε καὶ ἔγνω αὐτό"
+        },
+        {
+          "form": "νοῦν",
+          "lemma": "νοῦς",
+          "location": "508d",
+          "context": "νοῦν ἔχειν φαίνεται"
+        },
+        {
+          "form": "νοῦν",
+          "lemma": "νοῦς",
+          "location": "508d",
+          "context": "ἔοικεν αὖ νοῦν οὐκ ἔχοντι"
+        }
+      ],
+      "observation": "νοέω/νοῦς moves from the initial contrast (ideas are νοεῖσθαι not ὁρᾶσθαι) into the analogy where the soul either has νοῦς or appears not to, depending on illumination."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὡς εἰδότα",
+          "lemma": "οἶδα",
+          "location": "506c",
+          "context": "περὶ ὧν τις μὴ οἶδεν λέγειν ὡς εἰδότα"
+        },
+        {
+          "form": "ὡς μέντοι οἰόμενον",
+          "lemma": "οἴομαι",
+          "location": "506c",
+          "context": "ὡς μέντοι οἰόμενον ταῦθʼ ἃ οἴεται ἐθέλειν λέγειν"
+        }
+      ],
+      "observation": "Glaucon distinguishes speaking ὡς εἰδότα from speaking ὡς οἰόμενον, a contrast between knowing and opining that precedes the section's later treatment of ἐπιστήμη and δόξα."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀμβλυώττουσι",
+          "lemma": "ἀμβλυώττω",
+          "location": "508c",
+          "context": "ἀμβλυώττουσί τε καὶ ἐγγὺς φαίνονται τυφλῶν"
+        },
+        {
+          "form": "ἀμβλυώττει",
+          "lemma": "ἀμβλυώττω",
+          "location": "508d",
+          "context": "δοξάζει τε καὶ ἀμβλυώττει ἄνω καὶ κάτω τὰς δόξας μεταβάλλον"
+        }
+      ],
+      "observation": "ἀμβλυώττω appears first for eyes in darkness, then for the soul amid becoming—transferring dim-sightedness from the perceptual to the cognitive analogue."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἡμερινὸν φῶς",
+          "lemma": null,
+          "location": "508c",
+          "context": "ὧν ἂν τὰς χρόας τὸ ἡμερινὸν φῶς ἐπέχῃ"
+        },
+        {
+          "form": "νυκτερινὰ φέγγη",
+          "lemma": null,
+          "location": "508c",
+          "context": "ἀλλὰ ὧν νυκτερινὰ φέγγη"
+        }
+      ],
+      "observation": "ἡμερινὸν φῶς and νυκτερινὰ φέγγη are set in explicit contrast as conditions under which the same eyes see clearly or dimly."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἡλιοειδέστατον",
+          "lemma": "ἡλιοειδής",
+          "location": "508b",
+          "context": "ἡλιοειδέστατόν γε οἶμαι τῶν περὶ τὰς αἰσθήσεις ὀργάνων"
+        },
+        {
+          "form": "ἡλιοειδῆ",
+          "lemma": "ἡλιοειδής",
+          "location": "509a",
+          "context": "φῶς τε καὶ ὄψιν ἡλιοειδῆ μὲν νομίζειν ὀρθόν"
+        },
+        {
+          "form": "ἀγαθοειδῆ",
+          "lemma": "ἀγαθοειδής",
+          "location": "509a",
+          "context": "ἀγαθοειδῆ μὲν νομίζειν ταῦτʼ ἀμφότερα ὀρθόν"
+        }
+      ],
+      "observation": "ἡλιοειδής (superlative then positive) describes the eye's relation to the sun; ἀγαθοειδής then mirrors it for knowledge and truth's relation to the good, forming paired -ειδής compounds across the analogy."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "structural_recurrence",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἐν τῷ νοητῷ τόπῳ",
+          "lemma": null,
+          "location": "508c",
+          "context": "αὐτὸ ἐν τῷ νοητῷ τόπῳ πρός τε νοῦν καὶ τὰ νοούμενα"
+        },
+        {
+          "form": "ἐν τῷ ὁρατῷ",
+          "lemma": null,
+          "location": "508c",
+          "context": "τοῦτο τοῦτον ἐν τῷ ὁρατῷ πρός τε ὄψιν καὶ τὰ ὁρώμενα"
+        }
+      ],
+      "observation": "The proportional analogy is stated as a syntactic parallel: ἐν τῷ νοητῷ τόπῳ πρός τε νοῦν καὶ τὰ νοούμενα // ἐν τῷ ὁρατῷ πρός τε ὄψιν καὶ τὰ ὁρώμενα."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπέκεινα τῆς οὐσίας",
+          "lemma": null,
+          "location": "509b",
+          "context": "ἔτι ἐπέκεινα τῆς οὐσίας πρεσβείᾳ καὶ δυνάμει ὑπερέχοντος"
+        }
+      ],
+      "observation": "The good is placed ἐπέκεινα τῆς οὐσίας, beyond being, in dignity and power—a singular and striking spatial/hierarchical expression."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ἄπολλον",
+          "lemma": "Ἀπόλλων",
+          "location": "509c",
+          "context": "Ἄπολλον, ἔφη, δαιμονίας ὑπερβολῆς"
+        },
+        {
+          "form": "ἥλιον",
+          "lemma": "ἥλιος",
+          "location": "508a",
+          "context": "τὸν ἥλιον γὰρ δῆλον ὅτι ἐρωτᾷς"
+        }
+      ],
+      "observation": "Glaucon's exclamation Ἄπολλον invokes the god associated with the sun immediately after the sun has been identified as offspring of the good."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "507c",
+          "context": "τὴν τοῦ ὁρᾶν τε καὶ ὁρᾶσθαι δύναμιν"
+        },
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "508b",
+          "context": "τὴν δύναμιν ἣν ἔχει ἐκ τούτου ταμιευομένην"
+        },
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "508e",
+          "context": "τῷ γιγνώσκοντι τὴν δύναμιν ἀποδιδόν"
+        },
+        {
+          "form": "δυνάμει",
+          "lemma": "δύναμις",
+          "location": "509b",
+          "context": "πρεσβείᾳ καὶ δυνάμει ὑπερέχοντος"
+        }
+      ],
+      "observation": "δύναμις recurs across the section: for the power of seeing, the eye's dispensed power from the sun, the power the good gives the knower, and the good's own surpassing power."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὄψει",
+          "lemma": "ὄψις",
+          "location": "507c",
+          "context": "τῇ ὄψει"
+        },
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "507d",
+          "context": "τὴν δὲ τῆς ὄψεως καὶ τοῦ ὁρατοῦ"
+        },
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "507d",
+          "context": "ἐνούσης που ἐν ὄμμασιν ὄψεως"
+        },
+        {
+          "form": "ὄψις",
+          "lemma": "ὄψις",
+          "location": "507e",
+          "context": "ἥ τε ὄψις οὐδὲν ὄψεται"
+        },
+        {
+          "form": "ὄψις",
+          "lemma": "ὄψις",
+          "location": "508a",
+          "context": "οὐκ ἔστιν ἥλιος ἡ ὄψις"
+        },
+        {
+          "form": "ὄψιν",
+          "lemma": "ὄψις",
+          "location": "508c",
+          "context": "πρός τε ὄψιν καὶ τὰ ὁρώμενα"
+        }
+      ],
+      "observation": "ὄψις recurs throughout as the faculty that requires a third element (light) and is distinguished from both the sun and the eye-organ (ὄμμα)."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πολλὰ καλά",
+          "lemma": null,
+          "location": "507b",
+          "context": "πολλὰ καλά…καὶ πολλὰ ἀγαθά"
+        },
+        {
+          "form": "αὐτὸ δὴ καλόν",
+          "lemma": null,
+          "location": "507b",
+          "context": "καὶ αὐτὸ δὴ καλὸν καὶ αὐτὸ ἀγαθόν"
+        },
+        {
+          "form": "κατʼ ἰδέαν μίαν",
+          "lemma": null,
+          "location": "507b",
+          "context": "πάλιν αὖ κατʼ ἰδέαν μίαν ἑκάστου ὡς μιᾶς οὔσης"
+        }
+      ],
+      "observation": "The many beautiful/good things are contrasted with the single form (αὐτὸ καλόν, αὐτὸ ἀγαθόν, ἰδέα μία), and mapped onto the visible/intelligible distinction that follows."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τρίτον",
+          "lemma": "τρίτος",
+          "location": "507d",
+          "context": "ἐὰν μὴ παραγένηται τρίτον"
+        },
+        {
+          "form": "τρίτον",
+          "lemma": "τρίτος",
+          "location": "507e",
+          "context": "παραγένηται γένος τρίτον ἰδίᾳ ἐπʼ αὐτὸ τοῦτο πεφυκός"
+        }
+      ],
+      "observation": "τρίτον appears twice marking the need for a third element: first denied for hearing, then affirmed for sight—establishing light as the unique third required for vision."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ζυγῷ",
+          "lemma": "ζυγός",
+          "location": "508a",
+          "context": "τιμιωτέρῳ ζυγῷ ἐζύγησαν"
+        },
+        {
+          "form": "ἐζύγησαν",
+          "lemma": "ζεύγνυμι",
+          "location": "508a",
+          "context": null
+        },
+        {
+          "form": "συζεύξεων",
+          "lemma": "σύζευξις",
+          "location": "508a",
+          "context": "τῶν ἄλλων συζεύξεων"
+        }
+      ],
+      "observation": "A yoking cluster: sight and the visible are yoked (ἐζύγησαν) by a more precious yoke (ζυγῷ) than other couplings (συζεύξεων)."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀποστῇς",
+          "lemma": "ἀφίστημι",
+          "location": "506d",
+          "context": "ὥσπερ ἐπὶ τέλει ὢν ἀποστῇς"
+        },
+        {
+          "form": "μηδαμῶς γʼ…παύσῃ",
+          "lemma": "παύω",
+          "location": "509c",
+          "context": "καὶ μηδαμῶς γʼ…παύσῃ"
+        },
+        {
+          "form": "μηδὲ σμικρὸν…παραλίπῃς",
+          "lemma": "παραλείπω",
+          "location": "509c",
+          "context": null
+        }
+      ],
+      "observation": "Glaucon's insistence that Socrates not stop recurs: first urging him not to withdraw (ἀποστῇς) near the end, then not to stop (παύσῃ) or leave out even a small thing (παραλίπῃς)."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπολείπεις",
+          "lemma": "ἀπολείπω",
+          "location": "509c",
+          "context": "εἴ πῃ ἀπολείπεις"
+        },
+        {
+          "form": "ἀπολείπω",
+          "lemma": "ἀπολείπω",
+          "location": "509c",
+          "context": "συχνά γε ἀπολείπω"
+        },
+        {
+          "form": "ἀπολείψω",
+          "lemma": "ἀπολείπω",
+          "location": "509c",
+          "context": "ἑκὼν οὐκ ἀπολείψω"
+        },
+        {
+          "form": "παραλίπῃς",
+          "lemma": "παραλείπω",
+          "location": "509c",
+          "context": "μηδὲ σμικρὸν τοίνυν…παραλίπῃς"
+        }
+      ],
+      "observation": "Forms of ἀπολείπω recur three times in rapid exchange at 509c, with παραλείπω added, concerning what Socrates leaves out of the sun-analogy."
+    }
+  ]
+}
