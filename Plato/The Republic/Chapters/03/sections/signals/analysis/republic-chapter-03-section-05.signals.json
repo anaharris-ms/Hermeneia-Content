@@ -1,0 +1,892 @@
+{
+  "section_id": "republic-chapter-03-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μέλος",
+          "lemma": "μέλος",
+          "location": "398d",
+          "context": "τὸ μέλος ἐκ τριῶν ἐστιν συγκείμενον"
+        },
+        {
+          "form": "λόγου",
+          "lemma": "λόγος",
+          "location": "398d",
+          "context": null
+        },
+        {
+          "form": "ἁρμονίας",
+          "lemma": "ἁρμονία",
+          "location": "398d",
+          "context": null
+        },
+        {
+          "form": "ῥυθμοῦ",
+          "lemma": "ῥυθμός",
+          "location": "398d",
+          "context": null
+        }
+      ],
+      "observation": "μέλος is defined as composed of three elements: λόγος, ἁρμονία, and ῥυθμός. These three terms recur throughout the section as the discussion addresses each in turn."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκολουθεῖν",
+          "lemma": "ἀκολουθέω",
+          "location": "398d",
+          "context": "τήν γε ἁρμονίαν καὶ ῥυθμὸν ἀκολουθεῖν δεῖ τῷ λόγῳ"
+        },
+        {
+          "form": "ἀκολουθεῖ",
+          "lemma": "ἀκολουθέω",
+          "location": "400c",
+          "context": "τῷ εὐρύθμῳ τε καὶ ἀρρύθμῳ ἀκολουθεῖ"
+        },
+        {
+          "form": "ἀκολουθεῖ",
+          "lemma": "ἀκολουθέω",
+          "location": "400e",
+          "context": "εὐηθείᾳ ἀκολουθεῖ"
+        },
+        {
+          "form": "ἀκολουθητέον",
+          "lemma": "ἀκολουθέω",
+          "location": "400d",
+          "context": "ταῦτά γε λόγῳ ἀκολουθητέον"
+        }
+      ],
+      "observation": "ἀκολουθέω recurs as the key verb for the subordination relation: harmony and rhythm must follow λόγος, εὐσχημοσύνη follows εὔρυθμον, the εὐ- qualities follow εὐήθεια, and the verbal adjective ἀκολουθητέον reinforces the chain."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἕπεται",
+          "lemma": "ἕπομαι",
+          "location": "400d",
+          "context": "τῇ καλῇ λέξει ἕπεται ὁμοιούμενον"
+        },
+        {
+          "form": "ἕπεται",
+          "lemma": "ἕπομαι",
+          "location": "400d",
+          "context": "οὐ τῷ τῆς ψυχῆς ἤθει ἕπεται"
+        },
+        {
+          "form": "ἕπεσθαι",
+          "lemma": "ἕπομαι",
+          "location": "400a",
+          "context": "τὸν πόδα τῷ τοῦ τοιούτου λόγῳ ἀναγκάζειν ἕπεσθαι"
+        },
+        {
+          "form": "ἑπόμενον",
+          "lemma": "ἕπομαι",
+          "location": "399e",
+          "context": "ἑπόμενον γὰρ δὴ ταῖς ἁρμονίαις"
+        }
+      ],
+      "observation": "ἕπομαι recurs alongside ἀκολουθέω to articulate the chain of following: the foot must follow λόγος, rhythm follows harmonies, εὔρυθμον follows good λέξις, and λέξις follows the ἦθος of the soul."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "βιαίῳ",
+          "lemma": "βίαιος",
+          "location": "399a",
+          "context": "ἐν πάσῃ βιαίῳ ἐργασίᾳ"
+        },
+        {
+          "form": "ἑκουσίᾳ",
+          "lemma": "ἑκούσιος",
+          "location": "399b",
+          "context": "ἐν ἑκουσίᾳ πράξει"
+        },
+        {
+          "form": "βίαιον, ἑκούσιον",
+          "lemma": null,
+          "location": "399c",
+          "context": "ταύτας δύο ἁρμονίας, βίαιον, ἑκούσιον"
+        }
+      ],
+      "observation": "The two retained harmonies are explicitly paired as βίαιον and ἑκούσιον, corresponding to warlike and peaceful action, then summarized as a named contrast."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θρηνώδεις",
+          "lemma": "θρηνώδης",
+          "location": "398e",
+          "context": "τίνες οὖν θρηνώδεις ἁρμονίαι"
+        },
+        {
+          "form": "μειξολυδιστί",
+          "lemma": null,
+          "location": "398e",
+          "context": null
+        },
+        {
+          "form": "συντονολυδιστί",
+          "lemma": null,
+          "location": "398e",
+          "context": null
+        },
+        {
+          "form": "μαλακαί",
+          "lemma": "μαλακός",
+          "location": "398e",
+          "context": "μαλακαί τε καὶ συμποτικαὶ τῶν ἁρμονιῶν"
+        },
+        {
+          "form": "ἰαστί",
+          "lemma": null,
+          "location": "398e",
+          "context": null
+        },
+        {
+          "form": "λυδιστί",
+          "lemma": null,
+          "location": "398e",
+          "context": null
+        },
+        {
+          "form": "δωριστί",
+          "lemma": null,
+          "location": "399a",
+          "context": null
+        },
+        {
+          "form": "φρυγιστί",
+          "lemma": null,
+          "location": "399a",
+          "context": null
+        }
+      ],
+      "observation": "Named harmoniai are introduced in sequence: θρηνώδεις modes (Mixolydian, Syntonolydian) are removed, then μαλακαί/συμποτικαί (Ionian, Lydian), leaving only Dorian and Phrygian."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "εὐλογία",
+          "lemma": "εὐλογία",
+          "location": "400d",
+          "context": null
+        },
+        {
+          "form": "εὐαρμοστία",
+          "lemma": "εὐαρμοστία",
+          "location": "400d",
+          "context": null
+        },
+        {
+          "form": "εὐσχημοσύνη",
+          "lemma": "εὐσχημοσύνη",
+          "location": "400d",
+          "context": null
+        },
+        {
+          "form": "εὐρυθμία",
+          "lemma": "εὐρυθμία",
+          "location": "400d",
+          "context": null
+        },
+        {
+          "form": "εὐηθείᾳ",
+          "lemma": "εὐήθεια",
+          "location": "400e",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of five εὐ- compounds appears in a single sentence, each naming a quality of goodness in a different domain (speech, harmony, form, rhythm, character), all said to follow εὐήθεια."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lexical_family",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐσχημοσύνης",
+          "lemma": "εὐσχημοσύνη",
+          "location": "400c",
+          "context": null
+        },
+        {
+          "form": "ἀσχημοσύνης",
+          "lemma": "ἀσχημοσύνη",
+          "location": "400c",
+          "context": null
+        },
+        {
+          "form": "εὐρύθμῳ",
+          "lemma": "εὔρυθμος",
+          "location": "400c",
+          "context": null
+        },
+        {
+          "form": "ἀρρύθμῳ",
+          "lemma": "ἄρρυθμος",
+          "location": "400c",
+          "context": null
+        },
+        {
+          "form": "εὐάρμοστον",
+          "lemma": "εὐάρμοστος",
+          "location": "400d",
+          "context": null
+        },
+        {
+          "form": "ἀνάρμοστον",
+          "lemma": "ἀνάρμοστος",
+          "location": "400d",
+          "context": null
+        }
+      ],
+      "observation": "Three paired contrasts of εὐ-/ἀ- compounds appear in close succession, each opposing good and bad form in schema, rhythm, and harmony."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Ἀπόλλω",
+          "lemma": "Ἀπόλλων",
+          "location": "399e",
+          "context": "κρίνοντες τὸν Ἀπόλλω καὶ τὰ τοῦ Ἀπόλλωνος ὄργανα"
+        },
+        {
+          "form": "Μαρσύου",
+          "lemma": "Μαρσύας",
+          "location": "399e",
+          "context": "πρὸ Μαρσύου τε καὶ τῶν ἐκείνου ὀργάνων"
+        }
+      ],
+      "observation": "Apollo and his instruments (lyre, kithara) are judged before Marsyas and his instruments (aulos), framing the instrument selection as a choice between the two."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πολυχορδίας",
+          "lemma": "πολυχορδία",
+          "location": "399c",
+          "context": null
+        },
+        {
+          "form": "παναρμονίου",
+          "lemma": "παναρμόνιος",
+          "location": "399c",
+          "context": null
+        },
+        {
+          "form": "πολύχορδα",
+          "lemma": "πολύχορδος",
+          "location": "399d",
+          "context": null
+        },
+        {
+          "form": "πολυαρμόνια",
+          "lemma": "πολυαρμόνιος",
+          "location": "399d",
+          "context": null
+        },
+        {
+          "form": "πολυχορδότατον",
+          "lemma": "πολύχορδος",
+          "location": "399d",
+          "context": null
+        },
+        {
+          "form": "παναρμόνια",
+          "lemma": "παναρμόνιος",
+          "location": "399d",
+          "context": null
+        }
+      ],
+      "observation": "πολυ- and παν- compounds for multiplicity of strings and modes cluster densely as the rejected instruments are characterized, with πολυχορδότατον as a superlative applied to the aulos."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μιμήσαιτο",
+          "lemma": "μιμέομαι",
+          "location": "399a",
+          "context": "πρεπόντως ἂν μιμήσαιτο φθόγγους τε καὶ προσῳδίας"
+        },
+        {
+          "form": "μίμημα",
+          "lemma": "μίμημα",
+          "location": "399d",
+          "context": "αὐλοῦ τυγχάνει ὄντα μίμημα"
+        },
+        {
+          "form": "μιμήματα",
+          "lemma": "μίμημα",
+          "location": "400a",
+          "context": "ποῖα δὲ ὁποίου βίου μιμήματα"
+        },
+        {
+          "form": "μιμήματα",
+          "lemma": "μίμημα",
+          "location": "401a",
+          "context": "σώφρονός τε καὶ ἀγαθοῦ ἤθους, ἀδελφά τε καὶ μιμήματα"
+        }
+      ],
+      "observation": "μιμέομαι/μίμημα recurs across different subjects: a harmony imitating tones of a brave man, the aulos as imitation of παναρμόνια instruments, rhythms as imitations of lives, and good form/rhythm as imitations of good character."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "καθαίρωμεν",
+          "lemma": "καθαίρω",
+          "location": "399e",
+          "context": "τὰ λοιπὰ καθαίρωμεν"
+        },
+        {
+          "form": "διακαθαίροντες",
+          "lemma": "διακαθαίρω",
+          "location": "399e",
+          "context": "λελήθαμέν γε διακαθαίροντες πάλιν ἣν ἄρτι τρυφᾶν ἔφαμεν πόλιν"
+        }
+      ],
+      "observation": "The purging/purifying vocabulary appears twice in close proximity: the city said to be luxurious is being purified (διακαθαίροντες), and Socrates urges continuing to purify (καθαίρωμεν) what remains."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "νὴ τὸν κύνα",
+          "lemma": null,
+          "location": "399e",
+          "context": "καὶ νὴ τὸν κύνα, εἶπον"
+        }
+      ],
+      "observation": "Socrates swears by the dog, his characteristic oath, at the moment of noticing they have been purifying the city unawares."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τρυφᾶν",
+          "lemma": "τρυφάω",
+          "location": "399e",
+          "context": "ἣν ἄρτι τρυφᾶν ἔφαμεν πόλιν"
+        },
+        {
+          "form": "τραφεῖεν",
+          "lemma": "τρέφω",
+          "location": "401d",
+          "context": "κάλλιστα οὕτω τραφεῖεν"
+        },
+        {
+          "form": "τροφή",
+          "lemma": "τροφή",
+          "location": "401d",
+          "context": "κυριωτάτη ἐν μουσικῇ τροφή"
+        },
+        {
+          "form": "τραφῇ",
+          "lemma": "τρέφω",
+          "location": "401e",
+          "context": "ἐάν τις ὀρθῶς τραφῇ"
+        },
+        {
+          "form": "τρεφόμενοι",
+          "lemma": "τρέφω",
+          "location": "401b",
+          "context": "ἐν κακίας εἰκόσι τρεφόμενοι"
+        },
+        {
+          "form": "τρέφοιτο",
+          "lemma": "τρέφω",
+          "location": "401e",
+          "context": "τρέφοιτʼ ἂν ἀπʼ αὐτῶν"
+        }
+      ],
+      "observation": "τρέφω/τροφή recurs densely: the guardians may be nourished amid bad images or among beautiful works; μουσική is called the most authoritative τροφή; proper nourishment produces one who is καλός τε κἀγαθός."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "κακῇ βοτάνῃ",
+          "lemma": null,
+          "location": "401c",
+          "context": "ὥσπερ ἐν κακῇ βοτάνῃ"
+        },
+        {
+          "form": "ὑγιεινῷ τόπῳ",
+          "lemma": null,
+          "location": "401c",
+          "context": "ὥσπερ ἐν ὑγιεινῷ τόπῳ οἰκοῦντες"
+        },
+        {
+          "form": "αὔρα",
+          "lemma": "αὔρα",
+          "location": "401c",
+          "context": "ὥσπερ αὔρα φέρουσα ἀπὸ χρηστῶν τόπων ὑγίειαν"
+        }
+      ],
+      "observation": "Two contrasting images of environment: guardians grazing in bad pasture versus young people dwelling in a healthy place where a breeze carries health from good places."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "καταδύεται",
+          "lemma": "καταδύω",
+          "location": "401d",
+          "context": "μάλιστα καταδύεται εἰς τὸ ἐντὸς τῆς ψυχῆς"
+        },
+        {
+          "form": "καταδεχόμενος",
+          "lemma": "καταδέχομαι",
+          "location": "401e",
+          "context": "καταδεχόμενος εἰς τὴν ψυχήν"
+        }
+      ],
+      "observation": "Two κατα- compounds describe downward/inward movement into the soul: rhythm and harmony sink into the interior of the soul, and the properly trained person receives beautiful things into his soul."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "στοιχεῖα",
+          "lemma": "στοιχεῖον",
+          "location": "402a",
+          "context": "τὰ στοιχεῖα μὴ λανθάνοι ἡμᾶς ὀλίγα ὄντα ἐν ἅπασιν οἷς ἔστιν περιφερόμενα"
+        },
+        {
+          "form": "εἰκόνας γραμμάτων",
+          "lemma": null,
+          "location": "402b",
+          "context": "εἰκόνας γραμμάτων, εἴ που ἢ ἐν ὕδασιν ἢ ἐν κατόπτροις ἐμφαίνοιντο"
+        },
+        {
+          "form": "σωφροσύνης εἴδη",
+          "lemma": null,
+          "location": "402c",
+          "context": "τὰ τῆς σωφροσύνης εἴδη καὶ ἀνδρείας καὶ ἐλευθεριότητος καὶ μεγαλοπρεπείας"
+        }
+      ],
+      "observation": "An analogy is drawn between recognizing letters (στοιχεῖα) and their images in water and mirrors, and recognizing the εἴδη of virtues and their images everywhere—both requiring the same τέχνη and μελέτη."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ᾠδῆς τρόπου καὶ μελῶν",
+          "lemma": null,
+          "location": "398c",
+          "context": "τὸ περὶ ᾠδῆς τρόπου καὶ μελῶν λοιπόν"
+        },
+        {
+          "form": "τέλος ἡμῖν ἔχειν ὁ περὶ μουσικῆς λόγος",
+          "lemma": null,
+          "location": "403c",
+          "context": null
+        },
+        {
+          "form": "τελευτᾶν τὰ μουσικὰ εἰς τὰ τοῦ καλοῦ ἐρωτικά",
+          "lemma": null,
+          "location": "403c",
+          "context": null
+        }
+      ],
+      "observation": "The section opens by announcing what remains (τὸ περὶ ᾠδῆς … λοιπόν) and closes with Socrates declaring the λόγος about μουσική has reached its τέλος, which is said to terminate in τὰ τοῦ καλοῦ ἐρωτικά."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀδελφά",
+          "lemma": "ἀδελφός",
+          "location": "401a",
+          "context": "κακολογίας καὶ κακοηθείας ἀδελφά"
+        },
+        {
+          "form": "ἀδελφά",
+          "lemma": "ἀδελφός",
+          "location": "401a",
+          "context": "σώφρονός τε καὶ ἀγαθοῦ ἤθους, ἀδελφά τε καὶ μιμήματα"
+        },
+        {
+          "form": "ἀδελφά",
+          "lemma": "ἀδελφός",
+          "location": "401a",
+          "context": "ὅσα τούτων ἀδελφά"
+        }
+      ],
+      "observation": "ἀδελφά is used three times to name the sibling-relation between bad form and bad character, good form and good character, and among the virtues themselves."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐρασμιώτατον",
+          "lemma": "ἐράσμιος",
+          "location": "402d",
+          "context": "τό γε κάλλιστον ἐρασμιώτατον"
+        },
+        {
+          "form": "ἐρῴη",
+          "lemma": "ἐράω",
+          "location": "402d",
+          "context": "ὅ γε μουσικὸς ἐρῴη ἄν"
+        },
+        {
+          "form": "ὀρθὸς ἔρως",
+          "lemma": "ἔρως",
+          "location": "403a",
+          "context": "ὁ δὲ ὀρθὸς ἔρως πέφυκε κοσμίου τε καὶ καλοῦ σωφρόνως τε καὶ μουσικῶς ἐρᾶν"
+        },
+        {
+          "form": "ἐρωτικά",
+          "lemma": "ἐρωτικός",
+          "location": "403c",
+          "context": "τελευτᾶν τὰ μουσικὰ εἰς τὰ τοῦ καλοῦ ἐρωτικά"
+        }
+      ],
+      "observation": "ἔρως and its cognates cluster at the section's close: the most beautiful is most lovable, the μουσικός would love such people, ὀρθὸς ἔρως loves moderately and musically, and μουσική terminates in τὰ τοῦ καλοῦ ἐρωτικά."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σωφροσύνῃ",
+          "lemma": "σωφροσύνη",
+          "location": "402e",
+          "context": "σωφροσύνῃ καὶ ἡδονῇ ὑπερβαλλούσῃ ἔστι τις κοινωνία"
+        },
+        {
+          "form": "ἡδονῇ ὑπερβαλλούσῃ",
+          "lemma": null,
+          "location": "402e",
+          "context": null
+        },
+        {
+          "form": "ἔκφρονα",
+          "lemma": "ἔκφρων",
+          "location": "402e",
+          "context": "ἥ γε ἔκφρονα ποιεῖ οὐχ ἧττον ἢ λύπη"
+        },
+        {
+          "form": "μανικωτέραν",
+          "lemma": "μανικός",
+          "location": "403a",
+          "context": null
+        }
+      ],
+      "observation": "Excessive pleasure is contrasted with σωφροσύνη: it is said to make one ἔκφρων no less than pain, and the pleasure of τὰ ἀφροδίσια is called the most μανική."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιγελάσας",
+          "lemma": "ἐπιγελάω",
+          "location": "398c",
+          "context": "καὶ ὁ Γλαύκων ἐπιγελάσας"
+        },
+        {
+          "form": "ἐκτὸς τῶν πάντων",
+          "lemma": null,
+          "location": "398c",
+          "context": "κινδυνεύω ἐκτὸς τῶν πάντων εἶναι"
+        }
+      ],
+      "observation": "Glaucon laughs and declares himself outside (ἐκτός) the class of everyone who could answer, a disclaimer immediately before Socrates shows he can answer after all."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "οὐκ οἶδα",
+          "lemma": "οἶδα",
+          "location": "399a",
+          "context": "οὐκ οἶδα, ἔφην ἐγώ, τὰς ἁρμονίας"
+        },
+        {
+          "form": "Δάμωνος",
+          "lemma": "Δάμων",
+          "location": "400b",
+          "context": "μετὰ Δάμωνος βουλευσόμεθα"
+        },
+        {
+          "form": "οὐ σαφῶς",
+          "lemma": null,
+          "location": "400b",
+          "context": "οἶμαι δέ με ἀκηκοέναι οὐ σαφῶς"
+        }
+      ],
+      "observation": "Socrates disclaims knowledge of harmonies and later defers to Damon on rhythms, reporting what he has heard from him 'not clearly' (οὐ σαφῶς), yet proceeds to specify the retained harmonies and the principle governing rhythms."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λεῖπε",
+          "lemma": "λείπω",
+          "location": "399c",
+          "context": "ταύτας λεῖπε"
+        },
+        {
+          "form": "λείπεσθαι",
+          "lemma": "λείπω",
+          "location": "399a",
+          "context": "δωριστὶ λείπεσθαι καὶ φρυγιστί"
+        },
+        {
+          "form": "λείπειν",
+          "lemma": "λείπω",
+          "location": "399c",
+          "context": "οὐκ ἄλλας αἰτεῖς λείπειν"
+        },
+        {
+          "form": "λείπεται",
+          "lemma": "λείπω",
+          "location": "399d",
+          "context": "λύρα δή σοι … καὶ κιθάρα λείπεται"
+        },
+        {
+          "form": "λειπτέον",
+          "lemma": "λείπω",
+          "location": "400b",
+          "context": "τίνας τοῖς ἐναντίοις λειπτέον ῥυθμούς"
+        }
+      ],
+      "observation": "λείπω recurs as the operative verb for what is to be retained through successive stages of selection: harmonies, instruments, and rhythms are each specified by what is 'left behind.'"
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ πόλιν",
+          "lemma": null,
+          "location": "399d",
+          "context": "λύρα … καὶ κιθάρα … καὶ κατὰ πόλιν χρήσιμα"
+        },
+        {
+          "form": "κατʼ ἀγρούς",
+          "lemma": null,
+          "location": "399d",
+          "context": "κατʼ ἀγροὺς τοῖς νομεῦσι σῦριγξ"
+        }
+      ],
+      "observation": "The retained instruments are distributed between city (lyre, kithara) and country (syrinx for herdsmen)."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀφαιρετέαι",
+          "lemma": null,
+          "location": "398e",
+          "context": null
+        },
+        {
+          "form": "διωκτέα",
+          "lemma": null,
+          "location": "400e",
+          "context": null
+        },
+        {
+          "form": "ἐπιστατητέον",
+          "lemma": null,
+          "location": "401b",
+          "context": null
+        },
+        {
+          "form": "προσαναγκαστέον",
+          "lemma": null,
+          "location": "401b",
+          "context": null
+        },
+        {
+          "form": "διακωλυτέον",
+          "lemma": null,
+          "location": "401b",
+          "context": null
+        },
+        {
+          "form": "ἐατέος",
+          "lemma": null,
+          "location": "401b",
+          "context": null
+        },
+        {
+          "form": "προσοιστέον",
+          "lemma": null,
+          "location": "403a",
+          "context": null
+        }
+      ],
+      "observation": "Verbal adjectives in -τέον/-τέα recur throughout, articulating what must be done: modes must be removed, good qualities must be pursued, craftsmen must be supervised, and excessive pleasure must not be brought near right eros."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργούς",
+          "lemma": "δημιουργός",
+          "location": "399d",
+          "context": "δημιουργοὺς οὐ θρέψομεν"
+        },
+        {
+          "form": "δημιουργοῖς",
+          "lemma": "δημιουργός",
+          "location": "401b",
+          "context": "τοῖς ἄλλοις δημιουργοῖς ἐπιστατητέον"
+        },
+        {
+          "form": "δημιουργεῖν",
+          "lemma": "δημιουργέω",
+          "location": "401b",
+          "context": "οὐκ ἐατέος παρʼ ἡμῖν δημιουργεῖν"
+        },
+        {
+          "form": "δημιουργηθέντων",
+          "lemma": "δημιουργέω",
+          "location": "401e",
+          "context": "μὴ καλῶς δημιουργηθέντων"
+        },
+        {
+          "form": "δημιουργία",
+          "lemma": "δημιουργία",
+          "location": "401a",
+          "context": "πᾶσα ἡ τοιαύτη δημιουργία"
+        },
+        {
+          "form": "δημιουργούς",
+          "lemma": "δημιουργός",
+          "location": "401c",
+          "context": "ἐκείνους ζητητέον τοὺς δημιουργούς"
+        }
+      ],
+      "observation": "δημιουργός and its cognates recur as the discussion extends from instrument-makers who will not be maintained, to all craftsmen who must be supervised, to the craftsmen who can track the nature of the beautiful."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "συμφωνήσειν",
+          "lemma": "συμφωνέω",
+          "location": "398c",
+          "context": "τοῖς προειρημένοις συμφωνήσειν"
+        },
+        {
+          "form": "συμφωνοῦντα",
+          "lemma": "συμφωνέω",
+          "location": "402d",
+          "context": "ἐν τῷ εἴδει ὁμολογοῦντα ἐκείνοις καὶ συμφωνοῦντα"
+        },
+        {
+          "form": "συμφωνίαν",
+          "lemma": "συμφωνία",
+          "location": "401d",
+          "context": "εἰς ὁμοιότητά τε καὶ φιλίαν καὶ συμφωνίαν τῷ καλῷ λόγῳ"
+        },
+        {
+          "form": "ἀσύμφωνος",
+          "lemma": "ἀσύμφωνος",
+          "location": "402d",
+          "context": "εἰ δὲ ἀσύμφωνος εἴη, οὐκ ἂν ἐρῴη"
+        }
+      ],
+      "observation": "συμφωνέω/συμφωνία appears in shifting contexts: first as consistency with prior agreements, then as the soul's consonance with καλὸς λόγος, then as accord between soul and bodily form, with ἀσύμφωνος marking the absence that prevents eros."
+    }
+  ]
+}
