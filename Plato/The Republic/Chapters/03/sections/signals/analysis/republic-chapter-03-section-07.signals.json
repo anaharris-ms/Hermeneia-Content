@@ -1,0 +1,778 @@
+{
+  "section_id": "republic-chapter-03-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_correspondence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δικαστήριά",
+          "lemma": "δικαστήριον",
+          "location": "405a",
+          "context": "δικαστήριά τε καὶ ἰατρεῖα πολλὰ ἀνοίγεται"
+        },
+        {
+          "form": "δικανική",
+          "lemma": "δικανική",
+          "location": "405a",
+          "context": "δικανική τε καὶ ἰατρικὴ σεμνύνονται"
+        },
+        {
+          "form": "δικαστῶν",
+          "lemma": "δικαστής",
+          "location": "405a",
+          "context": "δεῖσθαι ἰατρῶν καὶ δικαστῶν ἄκρων"
+        },
+        {
+          "form": "δικαστηρίοις",
+          "lemma": "δικαστήριον",
+          "location": "405b",
+          "context": "ἐν δικαστηρίοις φεύγων τε καὶ διώκων"
+        },
+        {
+          "form": "δικαστοῦ",
+          "lemma": "δικαστής",
+          "location": "405c",
+          "context": "νυστάζοντος δικαστοῦ"
+        },
+        {
+          "form": "δικασταὶ",
+          "lemma": "δικαστής",
+          "location": "408d",
+          "context": null
+        },
+        {
+          "form": "δικαστὴν",
+          "lemma": "δικαστής",
+          "location": "409b",
+          "context": "νέον ἀλλὰ γέροντα δεῖ τὸν ἀγαθὸν δικαστὴν εἶναι"
+        },
+        {
+          "form": "δικαστικῆς",
+          "lemma": "δικαστική",
+          "location": "409e",
+          "context": null
+        },
+        {
+          "form": "δικαστικῆς",
+          "lemma": "δικαστική",
+          "location": "410a",
+          "context": "δικαστικῆς εἰς χρείαν ἰέναι"
+        }
+      ],
+      "observation": "The δικ- word family recurs throughout, pairing with ἰατρ- forms at the section's opening and close, while the judge figure shifts from sleepy (νυστάζοντος δικαστοῦ) to the good judge who must be old and experientially pure."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_correspondence",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἰατρεῖα",
+          "lemma": "ἰατρεῖον",
+          "location": "405a",
+          "context": null
+        },
+        {
+          "form": "ἰατρικὴ",
+          "lemma": "ἰατρική",
+          "location": "405a",
+          "context": null
+        },
+        {
+          "form": "ἰατρῶν",
+          "lemma": "ἰατρός",
+          "location": "405a",
+          "context": null
+        },
+        {
+          "form": "ἰατρικῇ",
+          "lemma": "ἰατρική",
+          "location": "406b",
+          "context": "μείξας γυμναστικὴν ἰατρικῇ"
+        },
+        {
+          "form": "ἰατρευόμενος",
+          "lemma": "ἰατρεύω",
+          "location": "406b",
+          "context": "ἐν ἀσχολίᾳ τε πάντων ἰατρευόμενος διὰ βίου ἔζη"
+        },
+        {
+          "form": "ἰατροῦ",
+          "lemma": "ἰατρός",
+          "location": "406d",
+          "context": "παρὰ τοῦ ἰατροῦ φάρμακον πιὼν"
+        },
+        {
+          "form": "ἰατρῷ",
+          "lemma": "ἰατρός",
+          "location": "406e",
+          "context": "χαίρειν εἰπὼν τῷ τοιούτῳ ἰατρῷ"
+        },
+        {
+          "form": "ἰατρικῇ",
+          "lemma": "ἰατρική",
+          "location": "407c",
+          "context": null
+        },
+        {
+          "form": "ἰατρούς",
+          "lemma": "ἰατρός",
+          "location": "408c",
+          "context": "ἀγαθοὺς δεῖ ἐν τῇ πόλει κεκτῆσθαι ἰατρούς"
+        },
+        {
+          "form": "ἰατρικήν",
+          "lemma": "ἰατρική",
+          "location": "409e",
+          "context": null
+        }
+      ],
+      "observation": "The ἰατρ- family saturates the section, paired with δικ- forms in a sustained parallel between medicine and justice."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "αἰσχρὸν",
+          "lemma": "αἰσχρός",
+          "location": "405b",
+          "context": "οὐκ αἰσχρὸν δοκεῖ"
+        },
+        {
+          "form": "αἴσχιστον",
+          "lemma": "αἰσχρός",
+          "location": "405b",
+          "context": "πάντων μὲν οὖν αἴσχιστον"
+        },
+        {
+          "form": "αἴσχιον",
+          "lemma": "αἰσχρός",
+          "location": "405b",
+          "context": "τούτου αἴσχιον εἶναι τοῦτο"
+        },
+        {
+          "form": "αἰσχρᾶς",
+          "lemma": "αἰσχρός",
+          "location": "405a",
+          "context": "τῆς δὲ κακῆς τε καὶ αἰσχρᾶς παιδείας"
+        },
+        {
+          "form": "αἰσχρὸν",
+          "lemma": "αἰσχρός",
+          "location": "405d",
+          "context": null
+        },
+        {
+          "form": "αἰσχροκερδής",
+          "lemma": "αἰσχροκερδής",
+          "location": "408c",
+          "context": "οὐκ ἦν αἰσχροκερδής"
+        }
+      ],
+      "observation": "αἰσχρός recurs in escalating comparative/superlative forms (αἰσχρόν, αἴσχιστον, αἴσχιον) at 405a-d, then returns in the compound αἰσχροκερδής applied to Asclepius at 408c."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τεκμήριον",
+          "lemma": "τεκμήριον",
+          "location": "405a",
+          "context": "μεῖζον ἕξεις λαβεῖν τεκμήριον"
+        },
+        {
+          "form": "τεκμήριον",
+          "lemma": "τεκμήριον",
+          "location": "405b",
+          "context": "ἀπαιδευσίας μέγα τεκμήριον"
+        },
+        {
+          "form": "τεκμαίρομαι",
+          "lemma": "τεκμαίρομαι",
+          "location": "405e",
+          "context": "τεκμαίρομαι δέ"
+        },
+        {
+          "form": "τεκμαίρεσθαι",
+          "lemma": "τεκμαίρομαι",
+          "location": "409a",
+          "context": "ὀξέως ἀφʼ αὑτῆς τεκμαίρεσθαι τὰ τῶν ἄλλων ἀδικήματα"
+        }
+      ],
+      "observation": "τεκμήριον/τεκμαίρομαι appears first as evidence of bad education, then as Socrates' own evidential method regarding Asclepius' sons, then as the judge's mode of discerning injustice."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σώματι σῶμα",
+          "lemma": "σῶμα",
+          "location": "408e",
+          "context": "οὐ γὰρ οἶμαι σώματι σῶμα θεραπεύουσιν"
+        },
+        {
+          "form": "ψυχῇ σῶμα",
+          "lemma": null,
+          "location": "408e",
+          "context": "ἀλλὰ ψυχῇ σῶμα"
+        },
+        {
+          "form": "ψυχῇ ψυχῆς",
+          "lemma": "ψυχή",
+          "location": "409a",
+          "context": "δικαστὴς δέ γε ψυχῇ ψυχῆς ἄρχει"
+        }
+      ],
+      "observation": "A dative-genitive series contrasts the doctor's instrument (ψυχῇ σῶμα, not σώματι σῶμα) with the judge's (ψυχῇ ψυχῆς ἄρχει), differentiating medicine and justice."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "405a",
+          "context": "τῆς κακῆς τε καὶ αἰσχρᾶς παιδείας"
+        },
+        {
+          "form": "ἀπαιδευσίας",
+          "lemma": "ἀπαιδευσία",
+          "location": "405b",
+          "context": null
+        },
+        {
+          "form": "παιδαγωγικῇ",
+          "lemma": "παιδαγωγικός",
+          "location": "406a",
+          "context": "τῇ παιδαγωγικῇ τῶν νοσημάτων"
+        },
+        {
+          "form": "παιδοτρίβης",
+          "lemma": "παιδοτρίβης",
+          "location": "406a",
+          "context": "Ἡρόδικος δὲ παιδοτρίβης ὢν"
+        },
+        {
+          "form": "παιδευομένης",
+          "lemma": "παιδεύω",
+          "location": "409d",
+          "context": "ἀρετὴ δὲ φύσεως παιδευομένης χρόνῳ"
+        },
+        {
+          "form": "ἐκ παίδων",
+          "lemma": "παῖς",
+          "location": "408d",
+          "context": "εἰ ἐκ παίδων ἀρξάμενοι"
+        }
+      ],
+      "observation": "The παιδ- root appears across varied compounds: bad παιδεία, ἀπαιδευσία, παιδαγωγική of diseases, παιδοτρίβης (Herodicus), ἐκ παίδων, and φύσεως παιδευομένης for virtue's education."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δίαιταν",
+          "lemma": "δίαιτα",
+          "location": "405d",
+          "context": "δίαιταν οἵαν διήλθομεν"
+        },
+        {
+          "form": "διαίτης",
+          "lemma": "δίαιτα",
+          "location": "406b",
+          "context": "τῆς εἰωθυίας διαίτης ἐκβαίη"
+        },
+        {
+          "form": "δίαιταν",
+          "lemma": "δίαιτα",
+          "location": "406d",
+          "context": "μακρὰν δίαιταν προστάττῃ"
+        },
+        {
+          "form": "δίαιταν",
+          "lemma": "δίαιτα",
+          "location": "406e",
+          "context": "εἰς τὴν εἰωθυῖαν δίαιταν ἐμβάς"
+        },
+        {
+          "form": "δίαιταν",
+          "lemma": "δίαιτα",
+          "location": "407d",
+          "context": "τὴν εἰωθυῖαν προστάττειν δίαιταν"
+        },
+        {
+          "form": "διαίταις",
+          "lemma": "δίαιτα",
+          "location": "407d",
+          "context": "διαίταις κατὰ σμικρὸν ἀπαντλοῦντα"
+        },
+        {
+          "form": "διαίτῃ",
+          "lemma": "δίαιτα",
+          "location": "408b",
+          "context": "κοσμίους ἐν διαίτῃ"
+        }
+      ],
+      "observation": "δίαιτα recurs densely; εἰωθυῖα δίαιτα (customary regimen) appears three times as the healthy norm, contrasted with μακρὰ δίαιτα as prolonged treatment."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λυσιτελεῖ",
+          "lemma": "λυσιτελέω",
+          "location": "406d",
+          "context": "οὐ σχολὴ κάμνειν οὐδὲ λυσιτελεῖ οὕτω ζῆν"
+        },
+        {
+          "form": "ἐλυσιτέλει",
+          "lemma": "λυσιτελέω",
+          "location": "407a",
+          "context": "εἰ μὴ πράττοι, οὐκ ἐλυσιτέλει ζῆν"
+        },
+        {
+          "form": "λυσιτελῆ",
+          "lemma": "λυσιτελής",
+          "location": "407e",
+          "context": "οὔτε αὑτῷ οὔτε πόλει λυσιτελῆ"
+        },
+        {
+          "form": "λυσιτελεῖν",
+          "lemma": "λυσιτελέω",
+          "location": "408b",
+          "context": "οὔτε αὐτοῖς οὔτε τοῖς ἄλλοις ᾤοντο λυσιτελεῖν ζῆν"
+        }
+      ],
+      "observation": "λυσιτελέω recurs, each time linked to ζῆν: first the carpenter's judgment, then the principle about ἔργον, then Asclepius' policy, then his sons' practice."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπέκναισε",
+          "lemma": "ἀποκναίω",
+          "location": "406b",
+          "context": "ἀπέκναισε πρῶτον μὲν καὶ μάλιστα ἑαυτόν, ἔπειτʼ ἄλλους"
+        },
+        {
+          "form": "ἀποκναιόμενος",
+          "lemma": "ἀποκναίω",
+          "location": "406b",
+          "context": "ἀποκναιόμενος εἴ τι τῆς εἰωθυίας διαίτης ἐκβαίη"
+        }
+      ],
+      "observation": "ἀποκναίω appears first as Herodicus wearing down himself and then others (active), then returns as passive participle describing his own worn-down state."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "στροφὰς στρέφεσθαι",
+          "lemma": "στροφή / στρέφω",
+          "location": "405c",
+          "context": "πάσας μὲν στροφὰς στρέφεσθαι"
+        },
+        {
+          "form": "διεξόδους διεξελθὼν",
+          "lemma": "δίεξοδος / διεξέρχομαι",
+          "location": "405c",
+          "context": "πάσας δὲ διεξόδους διεξελθὼν"
+        },
+        {
+          "form": "ἀποστραφῆναι",
+          "lemma": "ἀποστρέφω",
+          "location": "405c",
+          "context": "ἀποστραφῆναι λυγιζόμενος"
+        },
+        {
+          "form": "λυγιζόμενος",
+          "lemma": "λυγίζω",
+          "location": "405c",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of twisting/turning vocabulary (στροφάς, στρέφεσθαι, ἀποστραφῆναι, λυγιζόμενος, διεξόδους, διεξελθών) with cognate-accusative constructions describes the litigant's evasive bodily contortions."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νέον",
+          "lemma": "νέος",
+          "location": "409b",
+          "context": "οὐ νέον ἀλλὰ γέροντα δεῖ τὸν ἀγαθὸν δικαστὴν εἶναι"
+        },
+        {
+          "form": "γέροντα",
+          "lemma": "γέρων",
+          "location": "409b",
+          "context": null
+        },
+        {
+          "form": "ὀψιμαθῆ",
+          "lemma": "ὀψιμαθής",
+          "location": "409b",
+          "context": "ὀψιμαθῆ γεγονότα τῆς ἀδικίας"
+        },
+        {
+          "form": "εὐήθεις νέοι",
+          "lemma": null,
+          "location": "409a",
+          "context": "εὐήθεις νέοι ὄντες οἱ ἐπιεικεῖς φαίνονται"
+        }
+      ],
+      "observation": "The good judge must be γέρων not νέος, a late-learner (ὀψιμαθής) of injustice; decent young men appear εὐήθεις and easily deceived."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκείαν",
+          "lemma": "οἰκεῖος",
+          "location": "409b",
+          "context": "οὐκ οἰκείαν ἐν τῇ αὑτοῦ ψυχῇ ἐνοῦσαν"
+        },
+        {
+          "form": "ἀλλοτρίαν ἐν ἀλλοτρίαις",
+          "lemma": "ἀλλότριος",
+          "location": "409b",
+          "context": "ἀλλοτρίαν ἐν ἀλλοτρίαις μεμελετηκότα"
+        },
+        {
+          "form": "ἐπιστήμῃ",
+          "lemma": "ἐπιστήμη",
+          "location": "409b",
+          "context": "ἐπιστήμῃ, οὐκ ἐμπειρίᾳ οἰκείᾳ κεχρημένον"
+        },
+        {
+          "form": "ἐμπειρίᾳ οἰκείᾳ",
+          "lemma": null,
+          "location": "409c",
+          "context": null
+        }
+      ],
+      "observation": "οἰκεῖος and ἀλλότριος are set in direct contrast: the judge must know injustice as ἀλλοτρία not οἰκεία, by ἐπιστήμη not ἐμπειρία οἰκεία."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παραδείγματα",
+          "lemma": "παράδειγμα",
+          "location": "409b",
+          "context": "οὐκ ἔχοντες ἐν ἑαυτοῖς παραδείγματα ὁμοιοπαθῆ τοῖς πονηροῖς"
+        },
+        {
+          "form": "παραδείγματα",
+          "lemma": "παράδειγμα",
+          "location": "409c",
+          "context": "πρὸς τὰ ἐν αὑτῷ παραδείγματα ἀποσκοπῶν"
+        },
+        {
+          "form": "παράδειγμα",
+          "lemma": "παράδειγμα",
+          "location": "409d",
+          "context": "οὐκ ἔχων παράδειγμα τοῦ τοιούτου"
+        }
+      ],
+      "observation": "παράδειγμα appears three times: the decent lack inner models matching the wicked; the clever villain uses his own inner models; he lacks a model of the healthy."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πονηρία",
+          "lemma": "πονηρία",
+          "location": "409d",
+          "context": "πονηρία μὲν γὰρ ἀρετήν τε καὶ αὑτὴν οὔποτʼ ἂν γνοίη"
+        },
+        {
+          "form": "ἀρετὴ",
+          "lemma": "ἀρετή",
+          "location": "409d",
+          "context": "ἀρετὴ δὲ φύσεως παιδευομένης χρόνῳ ἅμα αὑτῆς τε καὶ πονηρίας ἐπιστήμην λήψεται"
+        }
+      ],
+      "observation": "πονηρία cannot know either ἀρετή or itself; ἀρετή through educated nature will gain knowledge of both itself and πονηρία—an asymmetric contrast."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σχολὴ",
+          "lemma": "σχολή",
+          "location": "406c",
+          "context": "οὐδενὶ σχολὴ διὰ βίου κάμνειν ἰατρευομένῳ"
+        },
+        {
+          "form": "σχολὴ",
+          "lemma": "σχολή",
+          "location": "406d",
+          "context": "οὐ σχολὴ κάμνειν"
+        },
+        {
+          "form": "ἀσχολίᾳ",
+          "lemma": "ἀσχολία",
+          "location": "406b",
+          "context": "ἐν ἀσχολίᾳ τε πάντων ἰατρευόμενος διὰ βίου ἔζη"
+        }
+      ],
+      "observation": "σχολή appears as what no citizen has for lifelong illness (Asclepius' principle), and what the carpenter refuses to spend; ἀσχολία describes Herodicus' entire life consumed by treatment."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "Ἀσκληπιάδας",
+          "lemma": "Ἀσκληπιάδαι",
+          "location": "405d",
+          "context": "τοὺς κομψοὺς Ἀσκληπιάδας"
+        },
+        {
+          "form": "Ἀσκληπιοῦ",
+          "lemma": "Ἀσκληπιός",
+          "location": "405d",
+          "context": "οὐκ ἦν ἐπʼ Ἀσκληπιοῦ"
+        },
+        {
+          "form": "Ἀσκληπιὸν",
+          "lemma": "Ἀσκληπιός",
+          "location": "407c",
+          "context": "φῶμεν καὶ Ἀσκληπιὸν"
+        },
+        {
+          "form": "πολιτικόν",
+          "lemma": "πολιτικός",
+          "location": "407e",
+          "context": "πολιτικόν λέγεις Ἀσκληπιόν"
+        },
+        {
+          "form": "Ἀσκληπιὸν εἶναι",
+          "lemma": "Ἀσκληπιός",
+          "location": "408b",
+          "context": "Ἀπόλλωνος μέν φασιν Ἀσκληπιὸν εἶναι"
+        },
+        {
+          "form": "αἰσχροκερδής",
+          "lemma": "αἰσχροκερδής",
+          "location": "408c",
+          "context": "εἰ μὲν θεοῦ ἦν, οὐκ ἦν αἰσχροκερδής· εἰ δʼ αἰσχροκερδής, οὐκ ἦν θεοῦ"
+        }
+      ],
+      "observation": "Asclepius is introduced via his descendants (κομψοὺς Ἀσκληπιάδας, ironic), then his era, then his medical policy is constructed, then Glaucon calls him πολιτικός, then the poets' story of his bribery is rejected via a disjunctive argument about divine parentage."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐν Τροίᾳ",
+          "lemma": null,
+          "location": "405e",
+          "context": "αὐτοῦ οἱ ὑεῖς ἐν Τροίᾳ Εὐρυπύλῳ τετρωμένῳ"
+        },
+        {
+          "form": "ἐν Τροίᾳ",
+          "lemma": null,
+          "location": "408a",
+          "context": "καὶ ἐν Τροίᾳ ἀγαθοὶ πρὸς τὸν πόλεμον ἐφάνησαν"
+        },
+        {
+          "form": "αἷμʼ ἐκμυζήσαντες ἐπʼ ἤπια φάρμακʼ ἔπασσον",
+          "lemma": null,
+          "location": "408a",
+          "context": null
+        }
+      ],
+      "observation": "The Trojan setting and Asclepius' sons' practice appear twice; the second occurrence adds the Homeric quotation about Menelaus' wound and a direct verse citation (Il. 4.218)."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "406c",
+          "context": "ἔργον τι ἑκάστῳ ἐν τῇ πόλει προστέτακται"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "407a",
+          "context": "ἦν τι αὐτῷ ἔργον"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "407a",
+          "context": "ὁ δὲ δὴ πλούσιος οὐδὲν ἔχει τοιοῦτον ἔργον προκείμενον"
+        }
+      ],
+      "observation": "ἔργον is what every citizen in a well-governed city has assigned, what makes the carpenter's life worth living, and what the rich man lacks—a pivotal contrast."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "κάμνειν",
+          "lemma": "κάμνω",
+          "location": "406c",
+          "context": "οὐδενὶ σχολὴ διὰ βίου κάμνειν ἰατρευομένῳ"
+        },
+        {
+          "form": "κάμνων",
+          "lemma": "κάμνω",
+          "location": "406d",
+          "context": "τέκτων μέν κάμνων"
+        },
+        {
+          "form": "κάμνειν",
+          "lemma": "κάμνω",
+          "location": "406d",
+          "context": "οὐ σχολὴ κάμνειν"
+        },
+        {
+          "form": "κάμοιεν",
+          "lemma": "κάμνω",
+          "location": "408e",
+          "context": "πάσας νόσους κάμοιεν"
+        },
+        {
+          "form": "κάμνειν",
+          "lemma": "κάμνω",
+          "location": "407c",
+          "context": "κάμνειν γὰρ οἴεσθαι ποιεῖ ἀεί"
+        }
+      ],
+      "observation": "κάμνω recurs across contexts: the general principle (no leisure to be sick), the carpenter who is sick, doctors who should have been sick themselves, and excessive body-care making one always think one is sick."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἰ μὲν θεοῦ ἦν, οὐκ ἦν αἰσχροκερδής",
+          "lemma": null,
+          "location": "408c",
+          "context": null
+        },
+        {
+          "form": "εἰ δʼ αἰσχροκερδής, οὐκ ἦν θεοῦ",
+          "lemma": null,
+          "location": "408c",
+          "context": null
+        }
+      ],
+      "observation": "A chiastic disjunctive argument: if son of a god, then not base-profiting; if base-profiting, then not son of a god—applied to the poets' and Pindar's account of Asclepius."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀποθνῄσκειν ἐάσουσιν",
+          "lemma": null,
+          "location": "410a",
+          "context": "ὅσοι μὲν κατὰ σῶμα τοιοῦτοι, ἀποθνῄσκειν ἐάσουσιν"
+        },
+        {
+          "form": "αὐτοὶ ἀποκτενοῦσιν",
+          "lemma": null,
+          "location": "410a",
+          "context": "τοὺς δὲ κατὰ τὴν ψυχὴν κακοφυεῖς καὶ ἀνιάτους αὐτοὶ ἀποκτενοῦσιν"
+        }
+      ],
+      "observation": "The bodily incurable will be allowed to die (ἐάσουσιν); the psychically incurable the judges themselves will kill (αὐτοὶ ἀποκτενοῦσιν)—a graded sequence from passive permission to active execution."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "σωφροσύνην ἐντίκτειν",
+          "lemma": null,
+          "location": "410a",
+          "context": "τῇ ἁπλῇ ἐκείνῃ μουσικῇ χρώμενοι ἣν δὴ ἔφαμεν σωφροσύνην ἐντίκτειν"
+        },
+        {
+          "form": "ἀκολασίας",
+          "lemma": "ἀκολασία",
+          "location": "405a",
+          "context": "ἀκολασίας δὲ καὶ νόσων πληθυουσῶν ἐν πόλει"
+        }
+      ],
+      "observation": "The section opens with ἀκολασία filling the city and closes with μουσική producing σωφροσύνη, its implicit opposite."
+    }
+  ]
+}
