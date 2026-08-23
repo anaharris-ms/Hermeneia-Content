@@ -1,0 +1,505 @@
+{
+  "section_id": "republic-chapter-02-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παιδευθήσονται",
+          "lemma": "παιδεύω",
+          "location": "376c",
+          "context": "θρέψονται δὲ δὴ ἡμῖν οὗτοι καὶ παιδευθήσονται τίνα τρόπον"
+        },
+        {
+          "form": "παιδεύωμεν",
+          "lemma": "παιδεύω",
+          "location": "376d",
+          "context": "λόγῳ παιδεύωμεν τοὺς ἄνδρας"
+        },
+        {
+          "form": "παιδεία",
+          "lemma": "παιδεία",
+          "location": "376e",
+          "context": "τίς οὖν ἡ παιδεία"
+        },
+        {
+          "form": "παιδεύοντες",
+          "lemma": "παιδεύω",
+          "location": "376e",
+          "context": "μουσικῇ πρότερον ἀρξόμεθα παιδεύοντες"
+        },
+        {
+          "form": "παιδευτέον",
+          "lemma": "παιδεύω",
+          "location": "377a",
+          "context": "παιδευτέον δʼ ἐν ἀμφοτέροις"
+        }
+      ],
+      "observation": "Forms of παιδεύω recur densely across the section, moving from a future passive question through a hortatory subjunctive, a noun, a participle, and a verbal adjective of obligation."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μύθῳ",
+          "lemma": "μῦθος",
+          "location": "376d",
+          "context": "ὥσπερ ἐν μύθῳ μυθολογοῦντές"
+        },
+        {
+          "form": "μύθους",
+          "lemma": "μῦθος",
+          "location": "377a",
+          "context": "πρῶτον τοῖς παιδίοις μύθους λέγομεν"
+        },
+        {
+          "form": "μύθοις",
+          "lemma": "μῦθος",
+          "location": "377a",
+          "context": "πρότερον δὲ μύθοις πρὸς τὰ παιδία"
+        },
+        {
+          "form": "μυθοποιοῖς",
+          "lemma": "μυθοποιός",
+          "location": "377b",
+          "context": "ἐπιστατητέον τοῖς μυθοποιοῖς"
+        },
+        {
+          "form": "μῦθον",
+          "lemma": "μῦθος",
+          "location": "377c",
+          "context": "καλὸν μῦθον ποιήσωσιν"
+        },
+        {
+          "form": "μύθοις",
+          "lemma": "μῦθος",
+          "location": "377c",
+          "context": "πλάττειν τὰς ψυχὰς αὐτῶν τοῖς μύθοις"
+        },
+        {
+          "form": "μύθοις",
+          "lemma": "μῦθος",
+          "location": "377c",
+          "context": "ἐν τοῖς μείζοσιν μύθοις ὀψόμεθα"
+        }
+      ],
+      "observation": "μῦθος and its compounds accumulate densely, appearing in seven instances across the section."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πλάττεται",
+          "lemma": "πλάττω",
+          "location": "377b",
+          "context": "μάλιστα γὰρ δὴ τότε πλάττεται"
+        },
+        {
+          "form": "πλασθέντας",
+          "lemma": "πλάττω",
+          "location": "377b",
+          "context": "μύθους πλασθέντας ἀκούειν τοὺς παῖδας"
+        },
+        {
+          "form": "πλάττειν",
+          "lemma": "πλάττω",
+          "location": "377c",
+          "context": "πλάττειν τὰς ψυχὰς αὐτῶν τοῖς μύθοις"
+        }
+      ],
+      "observation": "πλάττω appears three times: first the young are molded, then stories are described as molded/fabricated, then souls are to be molded by stories. The subject of molding shifts from child to story to soul."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθές",
+          "lemma": "ἀληθής",
+          "location": "376e",
+          "context": "τὸ μὲν ἀληθές, ψεῦδος δʼ ἕτερον"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "376e",
+          "context": null
+        },
+        {
+          "form": "ψευδέσιν",
+          "lemma": "ψευδής",
+          "location": "377a",
+          "context": "πρότερον δʼ ἐν τοῖς ψευδέσιν"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "377a",
+          "context": "τοῦτο δέ που ὡς τὸ ὅλον εἰπεῖν ψεῦδος, ἔνι δὲ καὶ ἀληθῆ"
+        },
+        {
+          "form": "ἀληθῆ",
+          "lemma": "ἀληθής",
+          "location": "377a",
+          "context": null
+        }
+      ],
+      "observation": "λόγοι are divided into ἀληθές and ψεῦδος; education is to begin with the ψευδῆ; μῦθοι are then described as mostly ψεῦδος but containing ἀληθῆ."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μουσική",
+          "lemma": "μουσική",
+          "location": "376e",
+          "context": "ἡ δʼ ἐπὶ ψυχῇ μουσική"
+        },
+        {
+          "form": "γυμναστική",
+          "lemma": "γυμναστική",
+          "location": "376e",
+          "context": "ἡ μὲν ἐπὶ σώμασι γυμναστική"
+        },
+        {
+          "form": "μουσικῇ",
+          "lemma": "μουσική",
+          "location": "376e",
+          "context": "μουσικῇ πρότερον ἀρξόμεθα παιδεύοντες ἢ γυμναστικῇ"
+        },
+        {
+          "form": "μουσικῆς",
+          "lemma": "μουσική",
+          "location": "377a",
+          "context": "μουσικῆς πρότερον ἁπτέον ἢ γυμναστικῆς"
+        }
+      ],
+      "observation": "μουσική and γυμναστική are paired and contrasted; μουσική is assigned to ψυχή, γυμναστική to σώματα; the priority of μουσική is stated twice."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ψυχῇ",
+          "lemma": "ψυχή",
+          "location": "376e",
+          "context": "ἡ δʼ ἐπὶ ψυχῇ μουσική"
+        },
+        {
+          "form": "σώμασι",
+          "lemma": "σῶμα",
+          "location": "376e",
+          "context": "ἡ μὲν ἐπὶ σώμασι γυμναστική"
+        },
+        {
+          "form": "ψυχὰς",
+          "lemma": "ψυχή",
+          "location": "377c",
+          "context": "πλάττειν τὰς ψυχὰς αὐτῶν τοῖς μύθοις"
+        },
+        {
+          "form": "σώματα",
+          "lemma": "σῶμα",
+          "location": "377c",
+          "context": "πολὺ μᾶλλον ἢ τὰ σώματα ταῖς χερσίν"
+        }
+      ],
+      "observation": "The ψυχή/σῶμα contrast introduced with μουσική/γυμναστική returns when molding souls with μῦθοι is compared to molding bodies with hands."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύπος",
+          "lemma": "τύπος",
+          "location": "377b",
+          "context": "ἐνδύεται τύπος ὃν ἄν τις βούληται ἐνσημήνασθαι"
+        },
+        {
+          "form": "τύπον",
+          "lemma": "τύπος",
+          "location": "377c",
+          "context": "δεῖ γὰρ δὴ τὸν αὐτὸν τύπον εἶναι"
+        }
+      ],
+      "observation": "τύπος appears first as the stamp impressed on the young, then as the standard that greater and lesser μῦθοι must share."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μείζοσιν",
+          "lemma": "μέγας",
+          "location": "377c",
+          "context": "ἐν τοῖς μείζοσιν μύθοις"
+        },
+        {
+          "form": "ἐλάττους",
+          "lemma": "ἐλάττων",
+          "location": "377c",
+          "context": "ὀψόμεθα καὶ τοὺς ἐλάττους"
+        },
+        {
+          "form": "μείζους",
+          "lemma": "μέγας",
+          "location": "377d",
+          "context": "τούς τε μείζους καὶ τοὺς ἐλάττους"
+        },
+        {
+          "form": "ἐλάττους",
+          "lemma": "ἐλάττων",
+          "location": "377d",
+          "context": null
+        }
+      ],
+      "observation": "μείζους and ἐλάττους are paired twice in close succession, applied to μῦθοι that must share the same τύπος."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐγκριτέον",
+          "lemma": "ἐγκρίνω",
+          "location": "377c",
+          "context": "καλὸν μῦθον ποιήσωσιν, ἐγκριτέον"
+        },
+        {
+          "form": "ἀποκριτέον",
+          "lemma": "ἀποκρίνω",
+          "location": "377c",
+          "context": "ὃν δʼ ἂν μή, ἀποκριτέον"
+        }
+      ],
+      "observation": "ἐγκριτέον and ἀποκριτέον are set in direct opposition as verbal adjectives of obligation, distinguished only by prefix, for accepting or rejecting μῦθοι."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "μυθολογοῦντές",
+          "lemma": "μυθολογέω",
+          "location": "376d",
+          "context": "ὥσπερ ἐν μύθῳ μυθολογοῦντές"
+        },
+        {
+          "form": "μύθῳ",
+          "lemma": "μῦθος",
+          "location": "376d",
+          "context": null
+        }
+      ],
+      "observation": "μύθῳ and μυθολογοῦντές occur adjacently, creating a figure of etymological echo: telling myths as if in a myth."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκοποῦσι",
+          "lemma": "σκοπέω",
+          "location": "376c",
+          "context": "αὐτὸ σκοποῦσι πρὸς τὸ κατιδεῖν"
+        },
+        {
+          "form": "σκοποῦμεν",
+          "lemma": "σκοπέω",
+          "location": "376d",
+          "context": "πάντα σκοποῦμεν"
+        },
+        {
+          "form": "σκέψιν",
+          "lemma": "σκέψις",
+          "location": "376d",
+          "context": "ταύτην τὴν σκέψιν"
+        }
+      ],
+      "observation": "σκοπέω appears twice and its cognate σκέψις once, all within the framing question about whether investigating education advances the inquiry into justice."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θρέψονται",
+          "lemma": "τρέφω",
+          "location": "376c",
+          "context": "θρέψονται δὲ δὴ ἡμῖν οὗτοι"
+        },
+        {
+          "form": "τροφούς",
+          "lemma": "τροφός",
+          "location": "377c",
+          "context": "πείσομεν τὰς τροφούς τε καὶ μητέρας"
+        }
+      ],
+      "observation": "θρέψονται opens the question of rearing; τροφούς appears later as the nurses who will tell approved stories, connecting nourishment and story-telling."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πρότερον",
+          "lemma": "πρότερος",
+          "location": "376e",
+          "context": "μουσικῇ πρότερον ἀρξόμεθα"
+        },
+        {
+          "form": "πρότερον",
+          "lemma": "πρότερος",
+          "location": "377a",
+          "context": "πρότερον δʼ ἐν τοῖς ψευδέσιν"
+        },
+        {
+          "form": "πρότερον",
+          "lemma": "πρότερος",
+          "location": "377a",
+          "context": "πρότερον δὲ μύθοις πρὸς τὰ παιδία"
+        },
+        {
+          "form": "πρότερον",
+          "lemma": "πρότερος",
+          "location": "377a",
+          "context": "μουσικῆς πρότερον ἁπτέον"
+        }
+      ],
+      "observation": "πρότερον recurs four times, each time establishing a priority: music before gymnastics, false before true, myths before exercises, music before gymnastics again."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀρχὴ",
+          "lemma": "ἀρχή",
+          "location": "377a",
+          "context": "ἀρχὴ παντὸς ἔργου μέγιστον"
+        },
+        {
+          "form": "νέῳ",
+          "lemma": "νέος",
+          "location": "377b",
+          "context": "νέῳ καὶ ἁπαλῷ ὁτῳοῦν"
+        },
+        {
+          "form": "ἁπαλῷ",
+          "lemma": "ἁπαλός",
+          "location": "377b",
+          "context": null
+        }
+      ],
+      "observation": "The beginning (ἀρχή) of any work is called μέγιστον, especially for anything νέῳ καὶ ἁπαλῷ; the conjunction of beginning, greatness, and softness precedes the language of molding."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁ τοῦ Γλαύκωνος ἀδελφός",
+          "lemma": null,
+          "location": "376d",
+          "context": "καὶ ὁ τοῦ Γλαύκωνος ἀδελφός"
+        }
+      ],
+      "observation": "Adeimantus is introduced into the exchange not by name but as 'the brother of Glaucon.'"
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "κατιδεῖν",
+          "lemma": "κατοράω",
+          "location": "376c",
+          "context": "πρὸς τὸ κατιδεῖν... δικαιοσύνην τε καὶ ἀδικίαν"
+        },
+        {
+          "form": "ὀψόμεθα",
+          "lemma": "ὁράω",
+          "location": "377c",
+          "context": "ἐν τοῖς μείζοσιν μύθοις ὀψόμεθα καὶ τοὺς ἐλάττους"
+        }
+      ],
+      "observation": "The section opens with the purpose of seeing (κατιδεῖν) how justice arises and closes with ὀψόμεθα directed at myths, redirecting the verb of seeing from justice to stories."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "λόγον",
+          "lemma": "λόγος",
+          "location": "376d",
+          "context": "ἱκανὸν λόγον ἢ συχνὸν διεξίωμεν"
+        },
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "376d",
+          "context": "σχολὴν ἄγοντες λόγῳ παιδεύωμεν"
+        },
+        {
+          "form": "λόγους",
+          "lemma": "λόγος",
+          "location": "376e",
+          "context": "μουσικῆς δʼ... τιθεῖς λόγους"
+        },
+        {
+          "form": "λόγων",
+          "lemma": "λόγος",
+          "location": "376e",
+          "context": "λόγων δὲ διττὸν εἶδος"
+        }
+      ],
+      "observation": "λόγος appears four times in quick succession: as the discourse they might leave aside, as the medium of education, as a subdivision of μουσική, and as having a double εἶδος."
+    }
+  ]
+}
