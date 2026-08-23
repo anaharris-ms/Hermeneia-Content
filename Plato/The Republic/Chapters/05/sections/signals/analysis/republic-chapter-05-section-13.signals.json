@@ -1,0 +1,500 @@
+{
+  "section_id": "republic-chapter-05-section-13",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "πόλεμος",
+          "lemma": "πόλεμος",
+          "location": "470b",
+          "context": "ἐπὶ δὲ τῇ τοῦ ἀλλοτρίου πόλεμος"
+        },
+        {
+          "form": "στάσις",
+          "lemma": "στάσις",
+          "location": "470b",
+          "context": "ἐπὶ μὲν οὖν τῇ τοῦ οἰκείου ἔχθρᾳ στάσις κέκληται"
+        },
+        {
+          "form": "πολεμίους",
+          "lemma": "πολέμιος",
+          "location": "470c",
+          "context": "πολεμίους φύσει εἶναι"
+        },
+        {
+          "form": "στασιάζειν",
+          "lemma": "στασιάζω",
+          "location": "470c",
+          "context": "νοσεῖν δʼ ἐν τῷ τοιούτῳ τὴν Ἑλλάδα καὶ στασιάζειν"
+        }
+      ],
+      "observation": "πόλεμος and στάσις are explicitly distinguished as two names for two kinds of enmity, one applying to ἀλλότριον, the other to οἰκεῖον; their cognates recur throughout the passage in application to these categories."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "οἰκεῖον",
+          "lemma": "οἰκεῖος",
+          "location": "470b",
+          "context": "τὸ μὲν οἰκεῖον καὶ συγγενές"
+        },
+        {
+          "form": "ἀλλότριον",
+          "lemma": "ἀλλότριος",
+          "location": "470b",
+          "context": "τὸ δὲ ἀλλότριον καὶ ὀθνεῖον"
+        },
+        {
+          "form": "ὀθνεῖον",
+          "lemma": "ὀθνεῖος",
+          "location": "470b",
+          "context": null
+        },
+        {
+          "form": "συγγενές",
+          "lemma": "συγγενής",
+          "location": "470b",
+          "context": null
+        }
+      ],
+      "observation": "Two paired oppositions—οἰκεῖον/συγγενές vs. ἀλλότριον/ὀθνεῖον—are set out as the basis for the πόλεμος/στάσις distinction."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "Ἕλληνας",
+          "lemma": "Ἕλλην",
+          "location": "469b",
+          "context": "Ἕλληνας Ἑλληνίδας πόλεις ἀνδραποδίζεσθαι"
+        },
+        {
+          "form": "βαρβάρων",
+          "lemma": "βάρβαρος",
+          "location": "469c",
+          "context": "τὴν ὑπὸ τῶν βαρβάρων δουλείαν"
+        },
+        {
+          "form": "βαρβαρικῷ",
+          "lemma": "βαρβαρικός",
+          "location": "470c",
+          "context": "τῷ δὲ βαρβαρικῷ ὀθνεῖόν τε καὶ ἀλλότριον"
+        }
+      ],
+      "observation": "Ἕλλην/Ἑλληνικός and βάρβαρος/βαρβαρικός recur densely throughout as the governing contrast for all the specific prohibitions."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδραποδισμοῦ",
+          "lemma": "ἀνδραποδισμός",
+          "location": "469b",
+          "context": null
+        },
+        {
+          "form": "ἀνδραποδίζεσθαι",
+          "lemma": "ἀνδραποδίζω",
+          "location": "469b",
+          "context": null
+        },
+        {
+          "form": "δοῦλον",
+          "lemma": "δοῦλος",
+          "location": "469c",
+          "context": "μηδὲ Ἕλληνα ἄρα δοῦλον ἐκτῆσθαι"
+        },
+        {
+          "form": "δουλείαν",
+          "lemma": "δουλεία",
+          "location": "469c",
+          "context": "τὴν ὑπὸ τῶν βαρβάρων δουλείαν"
+        },
+        {
+          "form": "δουλείᾳ",
+          "lemma": "δουλεία",
+          "location": "471a",
+          "context": "οὐκ ἐπὶ δουλείᾳ κολάζοντες"
+        }
+      ],
+      "observation": "Enslavement vocabulary clusters at the opening and returns near the close; the prohibition against enslaving Greeks is framed partly by fear of barbarian enslavement."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "sequence_configuration",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σκυλεύειν",
+          "lemma": "σκυλεύω",
+          "location": "469c",
+          "context": "σκυλεύειν … τοὺς τελευτήσαντας"
+        },
+        {
+          "form": "νεκρὸν συλᾶν",
+          "lemma": null,
+          "location": "469d",
+          "context": "ἀνελεύθερον … νεκρὸν συλᾶν"
+        },
+        {
+          "form": "νεκροσυλίας",
+          "lemma": "νεκροσυλία",
+          "location": "469e",
+          "context": null
+        }
+      ],
+      "observation": "Stripping the dead is named three times in sequence with escalating moral characterization: first as a question, then as ἀνελεύθερον and φιλοχρήματον, then as something to be abandoned."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τεθνεῶτα",
+          "lemma": "θνῄσκω",
+          "location": "469d",
+          "context": "περὶ τὸν τεθνεῶτα κυπτάζωσι"
+        },
+        {
+          "form": "μαχόμενον",
+          "lemma": "μάχομαι",
+          "location": "469d",
+          "context": "μὴ πρὸς τὸν μαχόμενον ἰέναι"
+        }
+      ],
+      "observation": "The coward's choice is presented as turning toward the dead (τεθνεῶτα) instead of going toward the one still fighting (μαχόμενον)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀποπταμένου τοῦ ἐχθροῦ",
+          "lemma": null,
+          "location": "469d",
+          "context": "τὸ σῶμα τοῦ τεθνεῶτος ἀποπταμένου τοῦ ἐχθροῦ"
+        },
+        {
+          "form": "λελοιπότος δὲ ᾧ ἐπολέμει",
+          "lemma": null,
+          "location": "469d",
+          "context": null
+        }
+      ],
+      "observation": "The enemy is said to have 'flown away' (ἀποπταμένου) from the body, leaving behind 'that with which he fought'—the body is explicitly distinguished from the enemy."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "κυνῶν",
+          "lemma": "κύων",
+          "location": "469e",
+          "context": "τῶν κυνῶν αἳ τοῖς λίθοις οἷς ἂν βληθῶσι χαλεπαίνουσι"
+        },
+        {
+          "form": "τοῦ βάλλοντος οὐχ ἁπτόμεναι",
+          "lemma": null,
+          "location": "469e",
+          "context": null
+        }
+      ],
+      "observation": "Those who strip corpses are compared to dogs that rage at the stones thrown at them while not touching the thrower—an explicit analogy for misdirected hostility."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γῆς τε τμήσεως",
+          "lemma": null,
+          "location": "470a",
+          "context": "γῆς τε τμήσεως τῆς Ἑλληνικῆς"
+        },
+        {
+          "form": "οἰκιῶν ἐμπρήσεως",
+          "lemma": null,
+          "location": "470a",
+          "context": null
+        },
+        {
+          "form": "τέμνωσιν ἀγροὺς",
+          "lemma": "τέμνω",
+          "location": "470d",
+          "context": null
+        },
+        {
+          "form": "οἰκίας ἐμπιμπρῶσιν",
+          "lemma": "ἐμπίμπρημι",
+          "location": "470d",
+          "context": null
+        },
+        {
+          "form": "κεροῦσιν",
+          "lemma": "κείρω",
+          "location": "471a",
+          "context": "τὴν Ἑλλάδα … κεροῦσιν"
+        },
+        {
+          "form": "ἐμπρήσουσιν",
+          "lemma": "ἐμπίμπρημι",
+          "location": "471a",
+          "context": "οἰκήσεις ἐμπρήσουσιν"
+        },
+        {
+          "form": "γῆν … κείρειν",
+          "lemma": "κείρω",
+          "location": "471b",
+          "context": null
+        },
+        {
+          "form": "οἰκίας ἀνατρέπειν",
+          "lemma": "ἀνατρέπω",
+          "location": "471b",
+          "context": null
+        }
+      ],
+      "observation": "Land-ravaging and house-burning recur as a paired action four times, with variation between τέμνω and κείρω for ravaging and between ἐμπίμπρημι and ἀνατρέπω for destruction of houses."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τροφόν τε καὶ μητέρα",
+          "lemma": null,
+          "location": "470d",
+          "context": "τὴν τροφόν τε καὶ μητέρα κείρειν"
+        }
+      ],
+      "observation": "The land is called 'nurse and mother' (τροφόν τε καὶ μητέρα) in the context of why ravaging it in stasis is intolerable."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "νοσεῖν",
+          "lemma": "νοσέω",
+          "location": "470c",
+          "context": "νοσεῖν δʼ ἐν τῷ τοιούτῳ τὴν Ἑλλάδα"
+        },
+        {
+          "form": "σωφρονιοῦσιν",
+          "lemma": "σωφρονίζω",
+          "location": "471a",
+          "context": "εὐμενῶς δὴ σωφρονιοῦσιν"
+        },
+        {
+          "form": "σωφρονισταί",
+          "lemma": "σωφρονιστής",
+          "location": "471a",
+          "context": "σωφρονισταὶ ὄντες, οὐ πολέμιοι"
+        }
+      ],
+      "observation": "Greek-on-Greek conflict is called νοσεῖν (being sick), and the proper response is σωφρονίζειν (bringing to their senses)—correction rather than destruction—with σωφρονισταί explicitly opposed to πολέμιοι."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "διαλλαγησομένων",
+          "lemma": "διαλλάσσω",
+          "location": "470e",
+          "context": "διανοεῖσθαι ὡς διαλλαγησομένων καὶ οὐκ ἀεὶ πολεμησόντων"
+        },
+        {
+          "form": "διαλλαγησόμενοι",
+          "lemma": "διαλλάσσω",
+          "location": "471a",
+          "context": "ὡς διαλλαγησόμενοι ἄρα διοίσονται"
+        }
+      ],
+      "observation": "The expectation of future reconciliation (διαλλαγησομένων) is stated as a general principle and then applied specifically to the guardians' city."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἡμερωτέρων",
+          "lemma": "ἥμερος",
+          "location": "470e",
+          "context": "πολὺ γάρ … ἡμερωτέρων αὕτη ἡ διάνοια"
+        },
+        {
+          "form": "ἥμεροι",
+          "lemma": "ἥμερος",
+          "location": "470e",
+          "context": "ἀγαθοί τε καὶ ἥμεροι ἔσονται"
+        }
+      ],
+      "observation": "ἥμερος appears first as a comparative characterizing the gentler disposition, then in the positive describing the guardians' city—linking the policy to the character of its citizens."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μίασμα",
+          "lemma": "μίασμα",
+          "location": "470a",
+          "context": "μή τι μίασμα ᾖ πρὸς ἱερὸν τὰ τοιαῦτα ἀπὸ τῶν οἰκείων φέρειν"
+        },
+        {
+          "form": "ὁ θεός",
+          "lemma": "θεός",
+          "location": "470a",
+          "context": "ἐὰν μή τι δὴ ὁ θεὸς ἄλλο λέγῃ"
+        }
+      ],
+      "observation": "Bringing arms of fellow Greeks to temples is called a potential μίασμα (pollution), with a reservation for divine exception (ἐὰν μή τι ὁ θεὸς ἄλλο λέγῃ)."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀλίγους ἀεὶ ἐχθροὺς τοὺς αἰτίους τῆς διαφορᾶς",
+          "lemma": null,
+          "location": "471a",
+          "context": null
+        },
+        {
+          "form": "πάντας ἐχθροὺς αὑτοῖς εἶναι, καὶ ἄνδρας καὶ γυναῖκας καὶ παῖδας",
+          "lemma": null,
+          "location": "471a",
+          "context": null
+        }
+      ],
+      "observation": "A contrast between treating everyone in a city as enemies (men, women, children) and recognizing only the few responsible (ὀλίγους … τοὺς αἰτίους) as enemies."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "οἱ αἴτιοι ἀναγκασθῶσιν ὑπὸ τῶν ἀναιτίων ἀλγούντων δοῦναι δίκην",
+          "lemma": null,
+          "location": "471b",
+          "context": null
+        }
+      ],
+      "observation": "The limit of the conflict is set at the point where the guilty (αἴτιοι) are compelled by the suffering of the innocent (ἀναιτίων ἀλγούντων) to give justice (δοῦναι δίκην)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φείδεσθαι",
+          "lemma": "φείδομαι",
+          "location": "469c",
+          "context": "τοῦ Ἑλληνικοῦ γένους φείδεσθαι"
+        },
+        {
+          "form": "φείδεσθαι",
+          "lemma": "φείδομαι",
+          "location": "469c",
+          "context": "ὅλῳ καὶ παντί … διαφέρει τὸ φείδεσθαι"
+        }
+      ],
+      "observation": "φείδεσθαι (sparing) is proposed and immediately emphatically endorsed with ὅλῳ καὶ παντί."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἀνελεύθερον",
+          "lemma": "ἀνελεύθερος",
+          "location": "469d",
+          "context": null
+        },
+        {
+          "form": "φιλοχρήματον",
+          "lemma": "φιλοχρήματος",
+          "location": "469d",
+          "context": null
+        },
+        {
+          "form": "γυναικείας τε καὶ σμικρᾶς διανοίας",
+          "lemma": null,
+          "location": "469d",
+          "context": null
+        }
+      ],
+      "observation": "Stripping corpses receives a concentrated cluster of moral epithets: ἀνελεύθερον, φιλοχρήματον, and γυναικείας τε καὶ σμικρᾶς διανοίας."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύσει … πολεμίους",
+          "lemma": null,
+          "location": "470c",
+          "context": "πολεμίους φύσει εἶναι"
+        },
+        {
+          "form": "φύσει μὲν φίλους",
+          "lemma": null,
+          "location": "470c",
+          "context": "φύσει μὲν φίλους εἶναι"
+        }
+      ],
+      "observation": "φύσει is used in immediate succession for opposite relations: Greeks and barbarians are enemies φύσει, while Greeks among themselves are friends φύσει."
+    }
+  ]
+}
