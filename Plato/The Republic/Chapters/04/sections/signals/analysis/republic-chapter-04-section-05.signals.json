@@ -1,0 +1,616 @@
+{
+  "section_id": "republic-chapter-04-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρεία",
+          "lemma": "ἀνδρεία",
+          "location": "429a",
+          "context": "ἀνδρεία γε αὐτή τε καὶ ἐν ᾧ κεῖται τῆς πόλεως"
+        },
+        {
+          "form": "ἀνδρείαν",
+          "lemma": "ἀνδρεῖος",
+          "location": "429b",
+          "context": "δειλὴν ἢ ἀνδρείαν πόλιν"
+        },
+        {
+          "form": "ἀνδρεῖοι",
+          "lemma": "ἀνδρεῖος",
+          "location": "429b",
+          "context": "δειλοὶ ἢ ἀνδρεῖοι ὄντες"
+        },
+        {
+          "form": "ἀνδρεία",
+          "lemma": "ἀνδρεία",
+          "location": "429b",
+          "context": "ἀνδρεία ἄρα πόλις μέρει τινὶ ἑαυτῆς"
+        },
+        {
+          "form": "ἀνδρείαν",
+          "lemma": "ἀνδρεία",
+          "location": "429c",
+          "context": "τοῦτο ἀνδρείαν καλεῖς"
+        },
+        {
+          "form": "ἀνδρείαν",
+          "lemma": "ἀνδρεία",
+          "location": "429c",
+          "context": "σωτηρίαν ἔγωγʼ λέγω τινὰ εἶναι τὴν ἀνδρείαν"
+        },
+        {
+          "form": "ἀνδρείαν",
+          "lemma": "ἀνδρεία",
+          "location": "430b",
+          "context": "ἀνδρείαν ἔγωγε καλῶ καὶ τίθεμαι"
+        },
+        {
+          "form": "ἀνδρείαν",
+          "lemma": "ἀνδρεία",
+          "location": "430b",
+          "context": "ἄλλο τέ τι ἢ ἀνδρείαν καλεῖν"
+        },
+        {
+          "form": "ἀνδρείαν",
+          "lemma": "ἀνδρεία",
+          "location": "430c",
+          "context": "τοῦτο ἀνδρείαν εἶναι"
+        }
+      ],
+      "observation": "ἀνδρεία/ἀνδρεῖος forms recur densely throughout, repeatedly linked to the verb καλεῖν."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δειλὴν",
+          "lemma": "δειλός",
+          "location": "429b",
+          "context": "δειλὴν ἢ ἀνδρείαν πόλιν"
+        },
+        {
+          "form": "δειλοὶ",
+          "lemma": "δειλός",
+          "location": "429b",
+          "context": "δειλοὶ ἢ ἀνδρεῖοι ὄντες"
+        }
+      ],
+      "observation": "δειλός is paired with ἀνδρεῖος as an explicit contrast in both occurrences."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σώσει",
+          "lemma": "σῴζω",
+          "location": "429b",
+          "context": "διὰ παντὸς σώσει τὴν περὶ τῶν δεινῶν δόξαν"
+        },
+        {
+          "form": "σωτηρίαν",
+          "lemma": "σωτηρία",
+          "location": "429c",
+          "context": "σωτηρίαν ἔγωγʼ λέγω τινὰ εἶναι τὴν ἀνδρείαν"
+        },
+        {
+          "form": "σωτηρίαν",
+          "lemma": "σωτηρία",
+          "location": "429c",
+          "context": "ποίαν δὴ σωτηρίαν"
+        },
+        {
+          "form": "σωτηρίαν",
+          "lemma": "σωτηρία",
+          "location": "429c",
+          "context": "διὰ παντὸς δὲ ἔλεγον αὐτῆς σωτηρίαν"
+        },
+        {
+          "form": "διασῴζεσθαι",
+          "lemma": "διασῴζω",
+          "location": "429c",
+          "context": "διασῴζεσθαι αὐτὴν"
+        },
+        {
+          "form": "σωτηρίαν",
+          "lemma": "σωτηρία",
+          "location": "430b",
+          "context": "σωτηρίαν διὰ παντὸς δόξης"
+        }
+      ],
+      "observation": "The σῴζω/σωτηρία family is dense; courage is defined as a kind of σωτηρία."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "429c",
+          "context": "σώσει τὴν περὶ τῶν δεινῶν δόξαν"
+        },
+        {
+          "form": "δόξης",
+          "lemma": "δόξα",
+          "location": "429c",
+          "context": "τὴν τῆς δόξης τῆς ὑπὸ νόμου"
+        },
+        {
+          "form": "δόξα",
+          "lemma": "δόξα",
+          "location": "430a",
+          "context": "δευσοποιὸς αὐτῶν ἡ δόξα γίγνοιτο"
+        },
+        {
+          "form": "δόξης",
+          "lemma": "δόξα",
+          "location": "430b",
+          "context": "σωτηρίαν διὰ παντὸς δόξης ὀρθῆς τε καὶ νομίμου"
+        },
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "430b",
+          "context": "τὴν ὀρθὴν δόξαν περὶ τῶν αὐτῶν τούτων ἄνευ παιδείας"
+        }
+      ],
+      "observation": "δόξα recurs as the object preserved through courage; in 430b it appears both with and without παιδεία."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δεινῶν",
+          "lemma": "δεινός",
+          "location": "429c",
+          "context": "τὴν περὶ τῶν δεινῶν δόξαν"
+        },
+        {
+          "form": "δεινῶν",
+          "lemma": "δεινός",
+          "location": "429c",
+          "context": "περὶ τῶν δεινῶν ἅ τέ ἐστι καὶ οἷα"
+        },
+        {
+          "form": "δεινῶν",
+          "lemma": "δεινός",
+          "location": "430a",
+          "context": "περὶ δεινῶν καὶ περὶ τῶν ἄλλων"
+        },
+        {
+          "form": "δεινὰ",
+          "lemma": "δεινός",
+          "location": "430a",
+          "context": "τὰ ῥύμματα ταῦτα, δεινὰ ὄντα ἐκκλύζειν"
+        },
+        {
+          "form": "δεινοτέρα",
+          "lemma": "δεινός",
+          "location": "430a",
+          "context": "παντὸς χαλεστραίου δεινοτέρα οὖσα"
+        },
+        {
+          "form": "δεινῶν",
+          "lemma": "δεινός",
+          "location": "430b",
+          "context": "δεινῶν τε πέρι καὶ μή"
+        }
+      ],
+      "observation": "δεινός recurs both as 'fearful things' (the object of right opinion) and as 'terrible/powerful' (describing the ῥύμματα and ἡδονή), a changed-context use of the same word."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λύπαις",
+          "lemma": "λύπη",
+          "location": "429c",
+          "context": "ἔν τε λύπαις ὄντα"
+        },
+        {
+          "form": "ἡδοναῖς",
+          "lemma": "ἡδονή",
+          "location": "429d",
+          "context": "ἐν ἡδοναῖς"
+        },
+        {
+          "form": "ἐπιθυμίαις",
+          "lemma": "ἐπιθυμία",
+          "location": "429d",
+          "context": "ἐν ἐπιθυμίαις"
+        },
+        {
+          "form": "φόβοις",
+          "lemma": "φόβος",
+          "location": "429d",
+          "context": "ἐν φόβοις"
+        },
+        {
+          "form": "ἡδονή",
+          "lemma": "ἡδονή",
+          "location": "430a",
+          "context": "ἥ τε ἡδονή"
+        },
+        {
+          "form": "λύπη",
+          "lemma": "λύπη",
+          "location": "430b",
+          "context": "λύπη τε καὶ φόβος καὶ ἐπιθυμία"
+        },
+        {
+          "form": "φόβος",
+          "lemma": "φόβος",
+          "location": "430b",
+          "context": null
+        },
+        {
+          "form": "ἐπιθυμία",
+          "lemma": "ἐπιθυμία",
+          "location": "430b",
+          "context": null
+        }
+      ],
+      "observation": "The fourfold list λύπη, ἡδονή, ἐπιθυμία, φόβος appears at 429c–d and returns at 430a–b, recast as ῥύμματα in the dye analogy."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βαφῆς",
+          "lemma": "βαφεύς",
+          "location": "429d",
+          "context": "οἱ βαφῆς"
+        },
+        {
+          "form": "βάψαι",
+          "lemma": "βάπτω",
+          "location": "429d",
+          "context": "βουληθῶσι βάψαι ἔρια"
+        },
+        {
+          "form": "ἁλουργά",
+          "lemma": "ἁλουργός",
+          "location": "429d",
+          "context": "ὥστʼ εἶναι ἁλουργά"
+        },
+        {
+          "form": "λευκῶν",
+          "lemma": "λευκός",
+          "location": "429d",
+          "context": "μίαν φύσιν τὴν τῶν λευκῶν"
+        },
+        {
+          "form": "ἄνθος",
+          "lemma": "ἄνθος",
+          "location": "429d",
+          "context": "δέξεται ὅτι μάλιστα τὸ ἄνθος"
+        },
+        {
+          "form": "βάπτουσι",
+          "lemma": "βάπτω",
+          "location": "429d",
+          "context": "οὕτω δὴ βάπτουσι"
+        },
+        {
+          "form": "βαφῇ",
+          "lemma": "βάπτω",
+          "location": "429e",
+          "context": "τούτῳ τῷ τρόπῳ βαφῇ"
+        },
+        {
+          "form": "δευσοποιὸν",
+          "lemma": "δευσοποιός",
+          "location": "429e",
+          "context": "δευσοποιὸν γίγνεται τὸ βαφέν"
+        },
+        {
+          "form": "βαφέν",
+          "lemma": "βάπτω",
+          "location": "429e",
+          "context": null
+        }
+      ],
+      "observation": "An extended dye analogy proceeds in sequence: selection of white wool, preparation, dyeing, and fastness, with βάπτω forms recurring throughout."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ῥυμμάτων",
+          "lemma": "ῥύμμα",
+          "location": "429e",
+          "context": "οὔτʼ ἄνευ ῥυμμάτων οὔτε μετὰ ῥυμμάτων"
+        },
+        {
+          "form": "ῥύμματα",
+          "lemma": "ῥύμμα",
+          "location": "430a",
+          "context": "τὰ ῥύμματα ταῦτα, δεινὰ ὄντα ἐκκλύζειν"
+        },
+        {
+          "form": "ῥύμματος",
+          "lemma": "ῥύμμα",
+          "location": "430b",
+          "context": "παντὸς ἄλλου ῥύμματος"
+        }
+      ],
+      "observation": "ῥύμμα appears first literally (detergents that cannot wash out fast dye) then is transferred to ἡδονή, λύπη, φόβος, ἐπιθυμία as things that wash out opinion."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐκλέγονται",
+          "lemma": "ἐκλέγω",
+          "location": "429d",
+          "context": "ἐκλέγονται ἐκ τοσούτων χρωμάτων μίαν φύσιν"
+        },
+        {
+          "form": "ἐξελεγόμεθα",
+          "lemma": "ἐκλέγω",
+          "location": "429e",
+          "context": "ἐξελεγόμεθα τοὺς στρατιώτας"
+        }
+      ],
+      "observation": "ἐκλέγω is used first for dyers selecting white wool, then for the city selecting soldiers."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδείᾳ",
+          "lemma": "παιδεία",
+          "location": "429c",
+          "context": "ὁ νομοθέτης παρήγγελλεν ἐν τῇ παιδείᾳ"
+        },
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "429c",
+          "context": "τῆς ὑπὸ νόμου διὰ τῆς παιδείας γεγονυίας"
+        },
+        {
+          "form": "ἐπαιδεύομεν",
+          "lemma": "παιδεύω",
+          "location": "430a",
+          "context": "ἐπαιδεύομεν μουσικῇ καὶ γυμναστικῇ"
+        },
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "430b",
+          "context": "ἄνευ παιδείας γεγονυῖαν"
+        }
+      ],
+      "observation": "παιδεία/παιδεύω recurs; the final occurrence marks opinion formed ἄνευ παιδείας as excluded from courage."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "διὰ παντὸς",
+          "lemma": null,
+          "location": "429b",
+          "context": "διὰ παντὸς σώσει τὴν περὶ τῶν δεινῶν δόξαν"
+        },
+        {
+          "form": "διὰ παντὸς",
+          "lemma": null,
+          "location": "429c",
+          "context": "διὰ παντὸς δὲ ἔλεγον αὐτῆς σωτηρίαν"
+        },
+        {
+          "form": "διὰ παντὸς",
+          "lemma": null,
+          "location": "430b",
+          "context": "σωτηρίαν διὰ παντὸς δόξης ὀρθῆς"
+        }
+      ],
+      "observation": "The phrase διὰ παντός recurs three times, each time specifying the completeness of preservation."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θηριώδη",
+          "lemma": "θηριώδης",
+          "location": "430b",
+          "context": "τήν τε θηριώδη καὶ ἀνδραποδώδη"
+        },
+        {
+          "form": "ἀνδραποδώδη",
+          "lemma": "ἀνδραποδώδης",
+          "location": "430b",
+          "context": null
+        }
+      ],
+      "observation": "θηριώδης and ἀνδραποδώδης characterize right opinion formed without education, contrasted with the νόμιμος courage defined above."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἔκπλυτα",
+          "lemma": "ἔκπλυτος",
+          "location": "429e",
+          "context": "ἔκπλυτα καὶ γελοῖα"
+        },
+        {
+          "form": "πλύσις",
+          "lemma": "πλύσις",
+          "location": "429e",
+          "context": "ἡ πλύσις οὔτʼ ἄνευ ῥυμμάτων"
+        },
+        {
+          "form": "ἐκπλύναι",
+          "lemma": "ἐκπλύνω",
+          "location": "430a",
+          "context": "μὴ αὐτῶν ἐκπλύναι τὴν βαφήν"
+        },
+        {
+          "form": "ἐκκλύζειν",
+          "lemma": "ἐκκλύζω",
+          "location": "430a",
+          "context": "δεινὰ ὄντα ἐκκλύζειν"
+        }
+      ],
+      "observation": "A cluster of washing/rinsing terms (πλύσις, ἔκπλυτος, ἐκπλύνω, ἐκκλύζω) elaborates the threat of losing the dye."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "προπαρασκευάζουσιν",
+          "lemma": "προπαρασκευάζω",
+          "location": "429d",
+          "context": "ἔπειτα προπαρασκευάζουσιν"
+        },
+        {
+          "form": "προθεραπεύσας",
+          "lemma": "προθεραπεύω",
+          "location": "429e",
+          "context": "ταῦτα μὴ προθεραπεύσας"
+        }
+      ],
+      "observation": "Both προ- compounds describe the necessary prior preparation; the second appears in the negative case (not pre-treating), corresponding to failure."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀπεικάσαι",
+          "lemma": "ἀπεικάζω",
+          "location": "429d",
+          "context": "ἐθέλω ἀπεικάσαι, εἰ βούλει"
+        },
+        {
+          "form": "βούλομαι",
+          "lemma": "βούλομαι",
+          "location": "429d",
+          "context": "ἀλλὰ βούλομαι"
+        },
+        {
+          "form": "ὑπόλαβε",
+          "lemma": "ὑπολαμβάνω",
+          "location": "429e",
+          "context": "τοιοῦτον τοίνυν ὑπόλαβε κατὰ δύναμιν ἐργάζεσθαι καὶ ἡμᾶς"
+        }
+      ],
+      "observation": "Socrates proposes an analogy (ἀπεικάσαι), the interlocutor consents (βούλομαι), and the analogy is completed and applied (ὑπόλαβε ... ἐργάζεσθαι καὶ ἡμᾶς)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μέρος",
+          "lemma": "μέρος",
+          "location": "429b",
+          "context": "εἰς τοῦτο τὸ μέρος ὃ προπολεμεῖ"
+        },
+        {
+          "form": "μέρει",
+          "lemma": "μέρος",
+          "location": "429b",
+          "context": "ἀνδρεία ἄρα πόλις μέρει τινὶ ἑαυτῆς"
+        }
+      ],
+      "observation": "μέρος appears twice to locate courage in a part of the city."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνην",
+          "lemma": "δικαιοσύνη",
+          "location": "430c",
+          "context": "νῦν γὰρ οὐ τοῦτο ἐζητοῦμεν, ἀλλὰ δικαιοσύνην"
+        }
+      ],
+      "observation": "The section closes by naming δικαιοσύνη as the actual object of search, marking courage as preliminary and the discussion as explicitly incomplete."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οὐ πάνυ",
+          "lemma": null,
+          "location": "429a",
+          "context": "οὐ πάνυ χαλεπὸν ἰδεῖν"
+        },
+        {
+          "form": "οὐ πάνυ",
+          "lemma": null,
+          "location": "429c",
+          "context": "οὐ πάνυ ἔμαθον ὃ εἶπες"
+        },
+        {
+          "form": "οὔτε πάνυ",
+          "lemma": null,
+          "location": "430b",
+          "context": "οὔτε πάνυ νόμιμον ἡγεῖσθαι"
+        }
+      ],
+      "observation": "οὐ πάνυ recurs: Socrates says it is not very hard to see courage, the interlocutor says he did not quite understand, and then the interlocutor says the uneducated version is not quite lawful."
+    }
+  ]
+}
