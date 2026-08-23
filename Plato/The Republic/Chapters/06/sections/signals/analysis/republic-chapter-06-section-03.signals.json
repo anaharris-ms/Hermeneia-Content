@@ -1,0 +1,543 @@
+{
+  "section_id": "republic-chapter-06-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἄχρηστοι",
+          "lemma": "ἄχρηστος",
+          "location": "489b",
+          "context": "ἄχρηστοι τοῖς πολλοῖς οἱ ἐπιεικέστατοι"
+        },
+        {
+          "form": "ἀχρηστίας",
+          "lemma": "ἀχρηστία",
+          "location": "489b",
+          "context": "τῆς μέντοι ἀχρηστίας τοὺς μὴ χρωμένους κέλευε αἰτιᾶσθαι"
+        },
+        {
+          "form": "ἀχρήστους",
+          "lemma": "ἄχρηστος",
+          "location": "489c",
+          "context": "τοὺς ὑπὸ τούτων ἀχρήστους λεγομένους"
+        },
+        {
+          "form": "ἄχρηστοι",
+          "lemma": "ἄχρηστος",
+          "location": "489d",
+          "context": "οἱ δὲ ἐπιεικέστατοι ἄχρηστοι"
+        },
+        {
+          "form": "ἀχρηστίας",
+          "lemma": "ἀχρηστία",
+          "location": "489d",
+          "context": "τῆς μὲν τῶν ἐπιεικῶν ἀχρηστίας"
+        },
+        {
+          "form": "ἀχρήστους",
+          "lemma": "ἄχρηστος",
+          "location": "490d",
+          "context": "ὁρᾶν αὐτῶν τοὺς μὲν ἀχρήστους"
+        }
+      ],
+      "observation": "Forms of ἄχρηστος/ἀχρηστία recur densely throughout the section, applied consistently to the ἐπιεικεῖς philosophers as seen by the many."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιεικέστατοι",
+          "lemma": "ἐπιεικής",
+          "location": "489b",
+          "context": "οἱ ἐπιεικέστατοι τῶν ἐν φιλοσοφίᾳ"
+        },
+        {
+          "form": "ἐπιεικεῖς",
+          "lemma": "ἐπιεικής",
+          "location": "489b",
+          "context": "ἀλλὰ μὴ τοὺς ἐπιεικεῖς"
+        },
+        {
+          "form": "ἐπιεικέστατοι",
+          "lemma": "ἐπιεικής",
+          "location": "489d",
+          "context": null
+        },
+        {
+          "form": "ἐπιεικῶν",
+          "lemma": "ἐπιεικής",
+          "location": "489d",
+          "context": "τῆς μὲν τῶν ἐπιεικῶν ἀχρηστίας"
+        }
+      ],
+      "observation": "ἐπιεικής recurs in superlative and positive forms, consistently paired with ἄχρηστος."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "κυβερνήτην",
+          "lemma": "κυβερνήτης",
+          "location": "489b",
+          "context": "οὐ γὰρ ἔχει φύσιν κυβερνήτην ναυτῶν δεῖσθαι ἄρχεσθαι"
+        },
+        {
+          "form": "ναύταις",
+          "lemma": "ναύτης",
+          "location": "489c",
+          "context": "ἀπεικάζων οἷς ἄρτι ἐλέγομεν ναύταις"
+        },
+        {
+          "form": "κυβερνήταις",
+          "lemma": "κυβερνήτης",
+          "location": "489c",
+          "context": "τοῖς ὡς ἀληθῶς κυβερνήταις"
+        },
+        {
+          "form": "μετεωρολέσχας",
+          "lemma": "μετεωρολέσχης",
+          "location": "489c",
+          "context": "ἀχρήστους λεγομένους καὶ μετεωρολέσχας"
+        }
+      ],
+      "observation": "The nautical image-field: κυβερνήτης and ναύτης are set in correspondence, with μετεωρολέσχας as the term applied to the true pilots by the sailors."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχεσθαι",
+          "lemma": "ἄρχω",
+          "location": "489b",
+          "context": "κυβερνήτην ναυτῶν δεῖσθαι ἄρχεσθαι ὑφʼ αὑτοῦ"
+        },
+        {
+          "form": "ἄρχεσθαι",
+          "lemma": "ἄρχω",
+          "location": "489c",
+          "context": "πάντα τὸν ἄρχεσθαι δεόμενον"
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "489c",
+          "context": "τοῦ ἄρχειν δυναμένου"
+        },
+        {
+          "form": "ἄρχοντα",
+          "lemma": "ἄρχων",
+          "location": "489c",
+          "context": "οὐ τὸν ἄρχοντα δεῖσθαι τῶν ἀρχομένων"
+        },
+        {
+          "form": "ἀρχομένων",
+          "lemma": "ἄρχω",
+          "location": "489c",
+          "context": null
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "489c",
+          "context": "τοὺς νῦν πολιτικοὺς ἄρχοντας"
+        }
+      ],
+      "observation": "Forms of ἄρχω concentrate at 489b–c in active, passive, and participial forms, articulating who should seek whom in the ruling relation."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "θύρας",
+          "lemma": "θύρα",
+          "location": "489b",
+          "context": "ἐπὶ τὰς τῶν πλουσίων θύρας ἰέναι"
+        },
+        {
+          "form": "θύρας",
+          "lemma": "θύρα",
+          "location": "489c",
+          "context": "ἐπὶ ἰατρῶν θύρας ἰέναι"
+        }
+      ],
+      "observation": "θύρας ἰέναι appears twice: first the wise going to the doors of the rich (denied), then the sick going to the doors of doctors (affirmed). The direction of going-to-doors is reversed in who should go to whom."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δεῖσθαι",
+          "lemma": "δέομαι",
+          "location": "489b",
+          "context": "κυβερνήτην ναυτῶν δεῖσθαι ἄρχεσθαι"
+        },
+        {
+          "form": "δεόμενον",
+          "lemma": "δέομαι",
+          "location": "489c",
+          "context": "τὸν ἄρχεσθαι δεόμενον"
+        },
+        {
+          "form": "δεῖσθαι",
+          "lemma": "δέομαι",
+          "location": "489c",
+          "context": "οὐ τὸν ἄρχοντα δεῖσθαι τῶν ἀρχομένων"
+        }
+      ],
+      "observation": "δέομαι recurs three times in close proximity, each time specifying who is in need of whom regarding rule."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "παμπόνηροι οἱ πλεῖστοι",
+          "lemma": null,
+          "location": "489d",
+          "context": "παμπόνηροι οἱ πλεῖστοι τῶν ἰόντων ἐπʼ αὐτήν"
+        },
+        {
+          "form": "ἐπιεικέστατοι ἄχρηστοι",
+          "lemma": null,
+          "location": "489d",
+          "context": "οἱ δὲ ἐπιεικέστατοι ἄχρηστοι"
+        }
+      ],
+      "observation": "The two-part charge against philosophy is stated as a local contrast: the majority are παμπόνηροι, the best are ἄχρηστοι."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀλήθεια",
+          "lemma": "ἀλήθεια",
+          "location": "490a",
+          "context": "ἡγεῖτο δʼ αὐτῷ… πρῶτον μὲν ἀλήθεια"
+        },
+        {
+          "form": "ἀληθινῆς",
+          "lemma": "ἀληθινός",
+          "location": "490a",
+          "context": "μηδαμῇ μετεῖναι φιλοσοφίας ἀληθινῆς"
+        },
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "490c",
+          "context": "ἡγουμένης δὴ ἀληθείας"
+        },
+        {
+          "form": "ἀλήθειαν",
+          "lemma": "ἀλήθεια",
+          "location": "490b",
+          "context": "γεννήσας νοῦν καὶ ἀλήθειαν"
+        },
+        {
+          "form": "ἀληθῶς",
+          "lemma": "ἀληθῶς",
+          "location": "490b",
+          "context": "ἀληθῶς ζῴη"
+        },
+        {
+          "form": "ἀληθῶς",
+          "lemma": "ἀληθῶς",
+          "location": "490d",
+          "context": "τῶν ἀληθῶς φιλοσόφων φύσιν"
+        }
+      ],
+      "observation": "ἀλήθεια and cognates recur from 490a through 490d; ἀλήθεια is first what leads the philosopher, then what is begotten together with νοῦς, then what leads and excludes κακά."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἔρωτος",
+          "lemma": "ἔρως",
+          "location": "490b",
+          "context": "οὐδʼ ἀπολήγοι τοῦ ἔρωτος"
+        },
+        {
+          "form": "ἅψασθαι",
+          "lemma": "ἅπτω",
+          "location": "490b",
+          "context": "τῆς φύσεως ἅψασθαι"
+        },
+        {
+          "form": "ἐφάπτεσθαι",
+          "lemma": "ἐφάπτω",
+          "location": "490b",
+          "context": "ᾧ προσήκει ψυχῆς ἐφάπτεσθαι"
+        },
+        {
+          "form": "πλησιάσας",
+          "lemma": "πλησιάζω",
+          "location": "490b",
+          "context": "ᾧ πλησιάσας καὶ μιγεὶς τῷ ὄντι ὄντως"
+        },
+        {
+          "form": "μιγεὶς",
+          "lemma": "μίγνυμι",
+          "location": "490b",
+          "context": null
+        },
+        {
+          "form": "γεννήσας",
+          "lemma": "γεννάω",
+          "location": "490b",
+          "context": "γεννήσας νοῦν καὶ ἀλήθειαν"
+        },
+        {
+          "form": "ὠδῖνος",
+          "lemma": "ὠδίς",
+          "location": "490b",
+          "context": "οὕτω λήγοι ὠδῖνος"
+        }
+      ],
+      "observation": "An erotic-generative cluster at 490b: ἔρως, touching (ἅψασθαι, ἐφάπτεσθαι), drawing near (πλησιάσας), mingling (μιγείς), begetting (γεννήσας), and labor-pain (ὠδίς) describe the philosopher's relation to τὸ ὄν."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ψεῦδος ἀγαπᾶν",
+          "lemma": null,
+          "location": "490b",
+          "context": "τούτῳ τι μετέσται ψεῦδος ἀγαπᾶν"
+        },
+        {
+          "form": "μισεῖν",
+          "lemma": "μισέω",
+          "location": "490b",
+          "context": "πᾶν τοὐναντίον μισεῖν"
+        }
+      ],
+      "observation": "ἀγαπᾶν and μισεῖν are set as contraries regarding ψεῦδος; the answer selects μισεῖν."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χορὸν κακῶν",
+          "lemma": null,
+          "location": "490c",
+          "context": "αὐτῇ χορὸν κακῶν ἀκολουθῆσαι"
+        },
+        {
+          "form": "χορὸν",
+          "lemma": "χορός",
+          "location": "490c",
+          "context": "τὸν ἄλλον τῆς φιλοσόφου φύσεως χορὸν"
+        }
+      ],
+      "observation": "χορός appears twice in close succession: first a chorus of κακά that cannot follow ἀλήθεια, then the chorus of the philosophical nature's virtues (ἀνδρεία, μεγαλοπρέπεια, εὐμάθεια, μνήμη)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "489c",
+          "context": "τὸ βέλτιστον ἐπιτήδευμα"
+        },
+        {
+          "form": "ἐπιτηδευόντων",
+          "lemma": "ἐπιτηδεύω",
+          "location": "489c",
+          "context": "τῶν τἀναντία ἐπιτηδευόντων"
+        },
+        {
+          "form": "ἐπιτηδεύειν",
+          "lemma": "ἐπιτηδεύω",
+          "location": "489d",
+          "context": "τοὺς τὰ τοιαῦτα φάσκοντας ἐπιτηδεύειν"
+        }
+      ],
+      "observation": "ἐπιτήδευμα and ἐπιτηδεύω appear three times across 489c–d; the best pursuit cannot win repute among those pursuing the opposite, and philosophy's slander comes through those claiming to pursue it."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "489b",
+          "context": "οὐ γὰρ ἔχει φύσιν"
+        },
+        {
+          "form": "πέφυκεν",
+          "lemma": "φύω",
+          "location": "489b",
+          "context": "τὸ δὲ ἀληθὲς πέφυκεν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "489e",
+          "context": "τὴν φύσιν οἷον ἀνάγκη φῦναι"
+        },
+        {
+          "form": "φῦναι",
+          "lemma": "φύω",
+          "location": "489e",
+          "context": null
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "490b",
+          "context": "τῆς φύσεως ἅψασθαι"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "490d",
+          "context": "τὴν τῶν ἀληθῶς φιλοσόφων φύσιν"
+        }
+      ],
+      "observation": "φύσις/φύω recurs throughout: what is natural in the ruling relation (489b), the nature one must be born with (489e), the nature of each thing touched by the soul (490b), and the nature of true philosophers (490d)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀκούωμεν",
+          "lemma": "ἀκούω",
+          "location": "489e",
+          "context": "ἀκούωμεν δὴ καὶ λέγωμεν"
+        },
+        {
+          "form": "λέγωμεν",
+          "lemma": "λέγω",
+          "location": "489e",
+          "context": null
+        }
+      ],
+      "observation": "Two hortatory subjunctives paired: hearing and speaking together as the joint activity proposed for the next inquiry."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "διαβολὴ",
+          "lemma": "διαβολή",
+          "location": "489d",
+          "context": "μεγίστη καὶ ἰσχυροτάτη διαβολὴ γίγνεται φιλοσοφίᾳ"
+        },
+        {
+          "form": "διαβολῆς",
+          "lemma": "διαβολή",
+          "location": "490d",
+          "context": "τῆς διαβολῆς τὴν αἰτίαν ἐπισκοποῦντες"
+        }
+      ],
+      "observation": "διαβολή appears first as the greatest slander against philosophy (489d), then as the cause being investigated (490d), framing the section's inquiry."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "αἰτιᾶσθαι",
+          "lemma": "αἰτιάομαι",
+          "location": "489b",
+          "context": "τοὺς μὴ χρωμένους κέλευε αἰτιᾶσθαι"
+        },
+        {
+          "form": "αἰτίαν",
+          "lemma": "αἰτία",
+          "location": "489d",
+          "context": "τῆς μὲν τῶν ἐπιεικῶν ἀχρηστίας τὴν αἰτίαν"
+        },
+        {
+          "form": "αἰτία",
+          "lemma": "αἰτία",
+          "location": "489d",
+          "context": "οὐδὲ τούτου φιλοσοφία αἰτία"
+        },
+        {
+          "form": "αἰτίαν",
+          "lemma": "αἰτία",
+          "location": "490d",
+          "context": "τῆς διαβολῆς τὴν αἰτίαν ἐπισκοποῦντες"
+        }
+      ],
+      "observation": "αἰτία/αἰτιάομαι recurs: the blame is redirected from the philosophers to those who do not use them, and the cause of the slander is the object of ongoing investigation."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀλαζόνι",
+          "lemma": "ἀλαζών",
+          "location": "490a",
+          "context": "ἀλαζόνι ὄντι μηδαμῇ μετεῖναι φιλοσοφίας ἀληθινῆς"
+        },
+        {
+          "form": "κομψευσάμενος",
+          "lemma": "κομψεύομαι",
+          "location": "489b",
+          "context": "ὁ τοῦτο κομψευσάμενος ἐψεύσατο"
+        }
+      ],
+      "observation": "Two terms for fraudulence: κομψευσάμενος for whoever cleverly said the wise should go to the rich (489b), and ἀλαζών for the pretender who has no share in true philosophy (490a)."
+    }
+  ]
+}
