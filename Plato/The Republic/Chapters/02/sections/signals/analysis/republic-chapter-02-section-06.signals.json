@@ -1,0 +1,566 @@
+{
+  "section_id": "republic-chapter-02-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὄψου",
+          "lemma": "ὄψον",
+          "location": "372c",
+          "context": "Ἄνευ ὄψου … ποιεῖς τοὺς ἄνδρας ἑστιωμένους"
+        },
+        {
+          "form": "ὄψον",
+          "lemma": "ὄψον",
+          "location": "372c",
+          "context": "ὄψον ἕξουσιν"
+        },
+        {
+          "form": "ὄψα",
+          "lemma": "ὄψον",
+          "location": "372e",
+          "context": "ὄψα ἅπερ καὶ οἱ νῦν ἔχουσι"
+        },
+        {
+          "form": "ὄψα",
+          "lemma": "ὄψον",
+          "location": "373a",
+          "context": "ὄψα δὴ καὶ μύρα καὶ θυμιάματα"
+        }
+      ],
+      "observation": "ὄψον recurs four times across the section: Glaucon's objection names its absence, Socrates supplies simple ὄψον, Glaucon demands the ὄψα people now enjoy, and the luxurious city's catalogue includes ὄψα among its proliferating goods."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τραγήματα",
+          "lemma": "τράγημα",
+          "location": "372c",
+          "context": "τραγήματά που παραθήσομεν αὐτοῖς"
+        },
+        {
+          "form": "τραγήματα",
+          "lemma": "τράγημα",
+          "location": "372e",
+          "context": "καὶ τραγήματα"
+        }
+      ],
+      "observation": "τραγήματα appears first in Socrates' simple city (figs, chickpeas, beans) and returns in Glaucon's demand for conventional luxury dining."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑῶν πόλιν",
+          "lemma": null,
+          "location": "372d",
+          "context": "εἰ δὲ ὑῶν πόλιν, ὦ Σώκρατες … κατεσκεύαζες"
+        },
+        {
+          "form": "συβωτῶν",
+          "lemma": "συβώτης",
+          "location": "373c",
+          "context": "ἔτι δὲ καὶ συβωτῶν προσδεησόμεθα"
+        }
+      ],
+      "observation": "Glaucon calls the simple city a city of pigs (ὑῶν πόλιν); Socrates later notes that swineherds (συβωτῶν) are needed only in the luxurious city, not the earlier one."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑγιείας",
+          "lemma": "ὑγίεια",
+          "location": "372d",
+          "context": "ἐν εἰρήνῃ μετὰ ὑγιείας"
+        },
+        {
+          "form": "ὑγιής",
+          "lemma": "ὑγιής",
+          "location": "372e",
+          "context": "ὥσπερ ὑγιής τις"
+        },
+        {
+          "form": "ὑγιεινὴ",
+          "lemma": "ὑγιεινός",
+          "location": "373b",
+          "context": "ἐκείνη γὰρ ἡ ὑγιεινὴ οὐκέτι ἱκανή"
+        }
+      ],
+      "observation": "Health language moves from a condition of the citizens' lives (μετὰ ὑγιείας) to a characterization of the true city (ὑγιής, ὑγιεινή), while the luxurious city is called φλεγμαίνουσαν."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθινὴ πόλις",
+          "lemma": null,
+          "location": "372e",
+          "context": "ἡ μὲν οὖν ἀληθινὴ πόλις"
+        },
+        {
+          "form": "φλεγμαίνουσαν πόλιν",
+          "lemma": null,
+          "location": "372e",
+          "context": "φλεγμαίνουσαν πόλιν θεωρήσωμεν"
+        }
+      ],
+      "observation": "Socrates opposes the true city (ἀληθινὴ πόλις) to the inflamed/feverish city (φλεγμαίνουσαν πόλιν)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἱκανή",
+          "lemma": "ἱκανός",
+          "location": "373b",
+          "context": "ἡ ὑγιεινὴ οὐκέτι ἱκανή"
+        },
+        {
+          "form": "ἱκανὴ",
+          "lemma": "ἱκανός",
+          "location": "373d",
+          "context": "ἡ τότε ἱκανὴ τρέφειν τοὺς τότε"
+        },
+        {
+          "form": "ἱκανὴν",
+          "lemma": "ἱκανός",
+          "location": "373d",
+          "context": "ἱκανὴν ἕξειν νέμειν τε καὶ ἀροῦν"
+        }
+      ],
+      "observation": "ἱκανός recurs three times as the healthy city and its territory shift from sufficient to insufficient under luxury's expansion."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγκαῖα",
+          "lemma": "ἀναγκαῖος",
+          "location": "373a",
+          "context": "οὐκέτι τἀναγκαῖα θετέον"
+        },
+        {
+          "form": "ἀναγκαίου",
+          "lemma": "ἀναγκαῖος",
+          "location": "373b",
+          "context": "οὐκέτι τοῦ ἀναγκαίου ἕνεκά"
+        },
+        {
+          "form": "ἀναγκαίων",
+          "lemma": "ἀναγκαῖος",
+          "location": "373d",
+          "context": "τὸν τῶν ἀναγκαίων ὅρον"
+        }
+      ],
+      "observation": "τὸ ἀναγκαῖον recurs as the boundary transgressed: necessities are no longer the criterion, items exceed necessity, and the limit (ὅρον) of necessities is overstepped."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "sequence_configuration",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "εἰρήνῃ",
+          "lemma": "εἰρήνη",
+          "location": "372d",
+          "context": "τὸν βίον ἐν εἰρήνῃ"
+        },
+        {
+          "form": "πολεμήσομεν",
+          "lemma": "πολεμέω",
+          "location": "373e",
+          "context": "πολεμήσομεν δὴ τὸ μετὰ τοῦτο"
+        },
+        {
+          "form": "πολέμου … γένεσιν",
+          "lemma": null,
+          "location": "373e",
+          "context": "πολέμου αὖ γένεσιν ηὑρήκαμεν"
+        }
+      ],
+      "observation": "The simple city lives ἐν εἰρήνῃ; the section ends with the discovery of the genesis of war (πολέμου γένεσιν) as a consequence of expansion."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κλινῶν",
+          "lemma": "κλίνη",
+          "location": "372d",
+          "context": "ἐπί τε κλινῶν κατακεῖσθαι"
+        },
+        {
+          "form": "τραπεζῶν",
+          "lemma": "τράπεζα",
+          "location": "372d",
+          "context": "ἀπὸ τραπεζῶν δειπνεῖν"
+        },
+        {
+          "form": "κλῖναί",
+          "lemma": "κλίνη",
+          "location": "373a",
+          "context": "κλῖναί τε προσέσονται καὶ τράπεζαι"
+        },
+        {
+          "form": "τράπεζαι",
+          "lemma": "τράπεζα",
+          "location": "373a",
+          "context": null
+        }
+      ],
+      "observation": "Couches and tables appear first in Glaucon's demand and return in Socrates' catalogue of the luxurious city's additions."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δεησόμεθα",
+          "lemma": "δέω",
+          "location": "373c",
+          "context": "διακόνων πλειόνων δεησόμεθα"
+        },
+        {
+          "form": "δεήσειν",
+          "lemma": "δέω",
+          "location": "373c",
+          "context": "οὐ δοκεῖ δεήσειν παιδαγωγῶν"
+        },
+        {
+          "form": "προσδεησόμεθα",
+          "lemma": "προσδέω",
+          "location": "373c",
+          "context": "συβωτῶν προσδεησόμεθα"
+        },
+        {
+          "form": "προσδεήσει",
+          "lemma": "προσδέω",
+          "location": "373c",
+          "context": "καὶ τούτου προσδεήσει"
+        },
+        {
+          "form": "δεήσει",
+          "lemma": "δέω",
+          "location": "373c",
+          "context": "δεήσει δὲ καὶ τῶν ἄλλων βοσκημάτων"
+        }
+      ],
+      "observation": "Forms of δέω/προσδέω concentrate densely at 373c, accumulating the needs generated by luxury."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παραδώσουσιν",
+          "lemma": "παραδίδωμι",
+          "location": "372d",
+          "context": "ἄλλον τοιοῦτον βίον τοῖς ἐκγόνοις παραδώσουσιν"
+        }
+      ],
+      "observation": "The simple city's citizens hand down (παραδώσουσιν) the same life to their offspring, an act of intergenerational transmission."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μύρα",
+          "lemma": "μύρον",
+          "location": "373a",
+          "context": null
+        },
+        {
+          "form": "θυμιάματα",
+          "lemma": "θυμίαμα",
+          "location": "373a",
+          "context": null
+        },
+        {
+          "form": "ἑταῖραι",
+          "lemma": "ἑταίρα",
+          "location": "373a",
+          "context": null
+        },
+        {
+          "form": "πέμματα",
+          "lemma": "πέμμα",
+          "location": "373a",
+          "context": null
+        },
+        {
+          "form": "ζωγραφίαν",
+          "lemma": "ζωγραφία",
+          "location": "373a",
+          "context": null
+        },
+        {
+          "form": "ποικιλίαν",
+          "lemma": "ποικιλία",
+          "location": "373a",
+          "context": null
+        },
+        {
+          "form": "χρυσὸν",
+          "lemma": "χρυσός",
+          "location": "373a",
+          "context": null
+        },
+        {
+          "form": "ἐλέφαντα",
+          "lemma": "ἐλέφας",
+          "location": "373a",
+          "context": null
+        }
+      ],
+      "observation": "A dense catalogue of luxury items—perfumes, incense, courtesans, pastries, painting, embroidery, gold, ivory—accumulates at 373a."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θηρευταί",
+          "lemma": "θηρευτής",
+          "location": "373b",
+          "context": null
+        },
+        {
+          "form": "μιμηταί",
+          "lemma": "μιμητής",
+          "location": "373b",
+          "context": null
+        },
+        {
+          "form": "ποιηταί",
+          "lemma": "ποιητής",
+          "location": "373b",
+          "context": null
+        },
+        {
+          "form": "ῥαψῳδοί",
+          "lemma": "ῥαψῳδός",
+          "location": "373b",
+          "context": null
+        },
+        {
+          "form": "ὑποκριταί",
+          "lemma": "ὑποκριτής",
+          "location": "373b",
+          "context": null
+        },
+        {
+          "form": "χορευταί",
+          "lemma": "χορευτής",
+          "location": "373b",
+          "context": null
+        }
+      ],
+      "observation": "A catalogue of new occupational types—hunters, imitators, poets, rhapsodes, actors, dancers—fills the expanded city at 373b."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "παιδαγωγῶν",
+          "lemma": "παιδαγωγός",
+          "location": "373c",
+          "context": null
+        },
+        {
+          "form": "τιτθῶν",
+          "lemma": "τίτθη",
+          "location": "373c",
+          "context": null
+        },
+        {
+          "form": "τροφῶν",
+          "lemma": "τροφός",
+          "location": "373c",
+          "context": null
+        },
+        {
+          "form": "κομμωτριῶν",
+          "lemma": "κομμώτρια",
+          "location": "373c",
+          "context": null
+        },
+        {
+          "form": "κουρέων",
+          "lemma": "κουρεύς",
+          "location": "373c",
+          "context": null
+        },
+        {
+          "form": "ὀψοποιῶν",
+          "lemma": "ὀψοποιός",
+          "location": "373c",
+          "context": null
+        },
+        {
+          "form": "μαγείρων",
+          "lemma": "μάγειρος",
+          "location": "373c",
+          "context": null
+        }
+      ],
+      "observation": "A second catalogue of service occupations—tutors, wet-nurses, nurses, beauticians, barbers, cooks, butchers—accumulates at 373c."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀποτμητέον",
+          "lemma": "ἀποτέμνω",
+          "location": "373d",
+          "context": "τῆς τῶν πλησίον χώρας ἡμῖν ἀποτμητέον"
+        },
+        {
+          "form": "ὑπερβάντες",
+          "lemma": "ὑπερβαίνω",
+          "location": "373d",
+          "context": "ὑπερβάντες τὸν τῶν ἀναγκαίων ὅρον"
+        }
+      ],
+      "observation": "Territorial expansion is expressed as cutting off (ἀποτμητέον) neighbours' land, while transgression of limits is expressed as stepping beyond (ὑπερβάντες) the boundary (ὅρον) of necessities."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γένεσιν",
+          "lemma": "γένεσις",
+          "location": "373e",
+          "context": "πολέμου αὖ γένεσιν ηὑρήκαμεν"
+        },
+        {
+          "form": "κακά",
+          "lemma": "κακός",
+          "location": "373e",
+          "context": "ταῖς πόλεσιν καὶ ἰδίᾳ καὶ δημοσίᾳ κακὰ γίγνεται"
+        }
+      ],
+      "observation": "Socrates identifies what has been discovered as the genesis (γένεσιν) of war, the source of evils both private (ἰδίᾳ) and public (δημοσίᾳ)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐχόρταζες",
+          "lemma": "χορτάζω",
+          "location": "372d",
+          "context": "τί ἂν αὐτὰς ἄλλο ἢ ταῦτα ἐχόρταζες"
+        },
+        {
+          "form": "ἑστιωμένους",
+          "lemma": "ἑστιάω",
+          "location": "372c",
+          "context": "ποιεῖς τοὺς ἄνδρας ἑστιωμένους"
+        }
+      ],
+      "observation": "Glaucon's ἐχόρταζες (feeding/fattening, used of animals) contrasts with ἑστιωμένους (feasting, of men), reinforcing his ὑῶν πόλιν objection."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκοποῦμεν",
+          "lemma": "σκοπέω",
+          "location": "372e",
+          "context": "οὐ πόλιν … σκοποῦμεν μόνον"
+        },
+        {
+          "form": "σκοποῦντες",
+          "lemma": "σκοπέω",
+          "location": "372e",
+          "context": "σκοποῦντες γὰρ καὶ τοιαύτην"
+        }
+      ],
+      "observation": "σκοπέω appears twice in close succession as Socrates redefines the inquiry's scope from one city to two."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κατίδοιμεν",
+          "lemma": "καθοράω",
+          "location": "372e",
+          "context": "τάχʼ ἂν κατίδοιμεν τήν τε δικαιοσύνην καὶ ἀδικίαν"
+        },
+        {
+          "form": "δικαιοσύνην",
+          "lemma": "δικαιοσύνη",
+          "location": "372e",
+          "context": null
+        },
+        {
+          "form": "ἀδικίαν",
+          "lemma": "ἀδικία",
+          "location": "372e",
+          "context": null
+        }
+      ],
+      "observation": "Socrates says examining the luxurious city might let them see (κατίδοιμεν) where justice and injustice grow in cities—the stated rationale for expanding the inquiry."
+    }
+  ]
+}
