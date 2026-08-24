@@ -1,0 +1,462 @@
+{
+  "section_id": "republic-chapter-08-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπὶ κεφαλὴν ὠθεῖ ἐκ τοῦ θρόνου",
+          "lemma": null,
+          "location": "553b",
+          "context": "δείσας οἶμαι εὐθὺς ἐπὶ κεφαλὴν ὠθεῖ ἐκ τοῦ θρόνου τοῦ ἐν τῇ ἑαυτοῦ ψυχῇ φιλοτιμίαν τε καὶ τὸ θυμοειδές"
+        },
+        {
+          "form": "ἐγκαθίζειν",
+          "lemma": "ἐγκαθίζω",
+          "location": "553c",
+          "context": "εἰς μὲν τὸν θρόνον ἐκεῖνον τὸ ἐπιθυμητικόν τε καὶ φιλοχρήματον ἐγκαθίζειν"
+        },
+        {
+          "form": "χαμαὶ ἔνθεν καὶ ἔνθεν παρακαθίσας",
+          "lemma": null,
+          "location": "553d",
+          "context": "τὸ δέ γε οἶμαι λογιστικόν τε καὶ θυμοειδὲς χαμαὶ ἔνθεν καὶ ἔνθεν παρακαθίσας ὑπʼ ἐκείνῳ"
+        }
+      ],
+      "observation": "A spatial sequence within the soul: φιλοτιμία is pushed headlong from the throne, τὸ ἐπιθυμητικόν is seated on that same throne, and the rational and spirited parts are seated on the ground on either side beneath it."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τιάρας",
+          "lemma": "τιάρα",
+          "location": "553c",
+          "context": null
+        },
+        {
+          "form": "στρεπτούς",
+          "lemma": "στρεπτός",
+          "location": "553c",
+          "context": null
+        },
+        {
+          "form": "ἀκινάκας",
+          "lemma": "ἀκινάκης",
+          "location": "553c",
+          "context": null
+        },
+        {
+          "form": "μέγαν βασιλέα",
+          "lemma": null,
+          "location": "553c",
+          "context": "μέγαν βασιλέα ποιεῖν ἐν ἑαυτῷ"
+        }
+      ],
+      "observation": "Persian royal regalia—tiara, torques, scimitar—are girded on the desire-element enthroned as Great King within the soul."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θρόνου",
+          "lemma": "θρόνος",
+          "location": "553b",
+          "context": "ἐκ τοῦ θρόνου τοῦ ἐν τῇ ἑαυτοῦ ψυχῇ"
+        },
+        {
+          "form": "θρόνον",
+          "lemma": "θρόνος",
+          "location": "553c",
+          "context": "εἰς μὲν τὸν θρόνον ἐκεῖνον τὸ ἐπιθυμητικόν"
+        }
+      ],
+      "observation": "θρόνος recurs: first as the seat from which spirit is expelled, then as the seat into which desire is installed."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φιλοτιμίαν",
+          "lemma": "φιλοτιμία",
+          "location": "553c",
+          "context": null
+        },
+        {
+          "form": "φιλοτιμεῖσθαι",
+          "lemma": "φιλοτιμέομαι",
+          "location": "553d",
+          "context": "φιλοτιμεῖσθαι μηδʼ ἐφʼ ἑνὶ ἄλλῳ ἢ ἐπὶ χρημάτων κτήσει"
+        },
+        {
+          "form": "φιλοτίμου",
+          "lemma": "φιλότιμος",
+          "location": "553d",
+          "context": "ἐκ φιλοτίμου νέου εἰς φιλοχρήματον"
+        },
+        {
+          "form": "φιλοτιμίας",
+          "lemma": "φιλοτιμία",
+          "location": "555a",
+          "context": null
+        }
+      ],
+      "observation": "Forms of φιλοτιμία recur across the section: first expelled from the throne, then redirected solely toward wealth, then named in the transformation from φιλότιμος to φιλοχρήματος, then in contests the miser refuses."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "χρηματισμόν",
+          "lemma": "χρηματισμός",
+          "location": "553c",
+          "context": null
+        },
+        {
+          "form": "φιλοχρήματον",
+          "lemma": "φιλοχρήματος",
+          "location": "553c",
+          "context": null
+        },
+        {
+          "form": "χρημάτων",
+          "lemma": "χρήματα",
+          "location": "553d",
+          "context": "ἐξ ἐλαττόνων χρημάτων πλείω ἔσται"
+        },
+        {
+          "form": "χρήματα",
+          "lemma": "χρήματα",
+          "location": "554a",
+          "context": "χρήματα περὶ πλείστου ποιεῖσθαι"
+        },
+        {
+          "form": "χρήματα",
+          "lemma": "χρήματα",
+          "location": "554b",
+          "context": "χρήματα γοῦν μάλιστα ἔντιμα"
+        },
+        {
+          "form": "χρηματιστήν",
+          "lemma": "χρηματιστής",
+          "location": "555a",
+          "context": null
+        }
+      ],
+      "observation": "The χρημα- word family saturates the section, appearing in noun, adjective, and compound forms throughout the description of the oligarchic character."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγκαίους ἐπιθυμίας",
+          "lemma": null,
+          "location": "554a",
+          "context": "τὰς ἀναγκαίους ἐπιθυμίας μόνον τῶν παρʼ αὑτῷ ἀποπιμπλάς"
+        },
+        {
+          "form": "τὰς ἄλλας ἐπιθυμίας",
+          "lemma": null,
+          "location": "554a",
+          "context": "δουλούμενος τὰς ἄλλας ἐπιθυμίας ὡς ματαίους"
+        }
+      ],
+      "observation": "Necessary desires are satisfied while all other desires are enslaved as vain—a local contrast between two classes of ἐπιθυμία."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δουλούμενος",
+          "lemma": "δουλόω",
+          "location": "554a",
+          "context": "δουλούμενος τὰς ἄλλας ἐπιθυμίας"
+        },
+        {
+          "form": "καταδουλωσάμενος",
+          "lemma": "καταδουλόω",
+          "location": "553d",
+          "context": "καταδουλωσάμενος"
+        }
+      ],
+      "observation": "Forms of δουλόω appear twice: first the desiring element enslaves reason and spirit, then the oligarchic man enslaves his non-necessary desires."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οὐ πείθων",
+          "lemma": "πείθω",
+          "location": "554d",
+          "context": "οὐ πείθων ὅτι οὐκ ἄμεινον"
+        },
+        {
+          "form": "οὐδʼ ἡμερῶν λόγῳ",
+          "lemma": null,
+          "location": "554d",
+          "context": null
+        },
+        {
+          "form": "ἀνάγκῃ καὶ φόβῳ",
+          "lemma": null,
+          "location": "554d",
+          "context": null
+        }
+      ],
+      "observation": "The oligarchic man restrains bad desires not by persuasion or taming with reason but by compulsion and fear—an explicit contrast between πείθω/λόγος and ἀνάγκη/φόβος."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τυφλὸν ἡγεμόνα τοῦ χοροῦ",
+          "lemma": null,
+          "location": "554b",
+          "context": "οὐ γὰρ ἂν τυφλὸν ἡγεμόνα τοῦ χοροῦ ἐστήσατο καὶ ἐτίμα μάλιστα"
+        }
+      ],
+      "observation": "Adeimantus calls the oligarchic man's ruling element a blind chorus-leader—a striking image linking blindness, choral leadership, and honour."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κηφηνώδεις ἐπιθυμίας",
+          "lemma": null,
+          "location": "554b",
+          "context": null
+        },
+        {
+          "form": "πτωχικάς",
+          "lemma": "πτωχικός",
+          "location": "554c",
+          "context": null
+        },
+        {
+          "form": "κακούργους",
+          "lemma": "κακοῦργος",
+          "location": "554c",
+          "context": null
+        },
+        {
+          "form": "τοῦ κηφῆνος συγγενεῖς",
+          "lemma": null,
+          "location": "554d",
+          "context": "τὰς τοῦ κηφῆνος συγγενεῖς ἐνούσας ἐπιθυμίας"
+        }
+      ],
+      "observation": "Drone-like desires are subdivided into beggar-like and criminal, and the drone kinship recurs when others' property is at stake."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οὐδὲ εἷς ἀλλὰ διπλοῦς τις",
+          "lemma": null,
+          "location": "554d",
+          "context": null
+        },
+        {
+          "form": "ἀστασίαστος",
+          "lemma": "ἀστασίαστος",
+          "location": "554d",
+          "context": "οὐκ ἄρʼ ἂν εἴη ἀστασίαστος ὁ τοιοῦτος ἐν ἑαυτῷ"
+        }
+      ],
+      "observation": "The oligarchic man is declared not free from faction within himself, not one but double."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐσχημονέστερος",
+          "lemma": "εὐσχήμων",
+          "location": "554e",
+          "context": null
+        },
+        {
+          "form": "ἀληθὴς ἀρετή",
+          "lemma": null,
+          "location": "554e",
+          "context": "ὁμονοητικῆς δὲ καὶ ἡρμοσμένης τῆς ψυχῆς ἀληθὴς ἀρετὴ πόρρω ποι ἐκφεύγοι ἂν αὐτόν"
+        }
+      ],
+      "observation": "Outward respectability (εὐσχημονέστερος) is contrasted with true virtue of a harmonised soul, which escapes him far away."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὅμοιον",
+          "lemma": "ὅμοιος",
+          "location": "553a",
+          "context": "τὸν δὲ ταύτῃ ὅμοιον"
+        },
+        {
+          "form": "ὁμοίου",
+          "lemma": "ὅμοιος",
+          "location": "553e",
+          "context": "ἐξ ὁμοίου ἀνδρός"
+        },
+        {
+          "form": "ὅμοιος",
+          "lemma": "ὅμοιος",
+          "location": "554a",
+          "context": null
+        },
+        {
+          "form": "ὁμοιότητι",
+          "lemma": "ὁμοιότης",
+          "location": "555a",
+          "context": null
+        }
+      ],
+      "observation": "Forms of ὅμοιος frame the section, recurring as the man-city likeness is proposed, tested, and confirmed."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ζηλοῖ τε τὸν πατέρα καὶ τὰ ἐκείνου ἴχνη διώκῃ",
+          "lemma": null,
+          "location": "553a",
+          "context": null
+        },
+        {
+          "form": "πταίσαντα ὥσπερ πρὸς ἕρματι πρὸς τῇ πόλει",
+          "lemma": null,
+          "location": "553b",
+          "context": null
+        },
+        {
+          "form": "ἐκχέαντα τά τε αὑτοῦ καὶ ἑαυτόν",
+          "lemma": null,
+          "location": "553b",
+          "context": null
+        }
+      ],
+      "observation": "A narrative sequence: the son first emulates the father and follows his tracks, then sees him stumble as against a reef, then sees him pour out both his property and himself."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀρφανῶν ἐπιτροπεύσεις",
+          "lemma": null,
+          "location": "554c",
+          "context": "εἰς τὰς τῶν ὀρφανῶν ἐπιτροπεύσεις"
+        },
+        {
+          "form": "πολλῆς ἐξουσίας λαβέσθαι τοῦ ἀδικεῖν",
+          "lemma": null,
+          "location": "554c",
+          "context": null
+        }
+      ],
+      "observation": "Guardianship of orphans is singled out as the place where criminal desires become visible, where great licence to do injustice arises."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τιμημάτων",
+          "lemma": "τίμημα",
+          "location": "553a",
+          "context": "ἐκ τιμημάτων ἔχουσα τοὺς ἄρχοντας"
+        },
+        {
+          "form": "ἐτίμα",
+          "lemma": "τιμάω",
+          "location": "554b",
+          "context": "ἐτίμα μάλιστα"
+        },
+        {
+          "form": "ἔντιμα",
+          "lemma": "ἔντιμος",
+          "location": "554b",
+          "context": "χρήματα γοῦν μάλιστα ἔντιμα"
+        },
+        {
+          "form": "ἀτιμωθέντα",
+          "lemma": "ἀτιμόω",
+          "location": "553b",
+          "context": null
+        }
+      ],
+      "observation": "The τιμ- root recurs in varied forms: property assessments for office, the father's dishonour, the blind leader honoured most, and money as most honoured."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀλίγοις τισὶν ἑαυτοῦ πολεμῶν ὀλιγαρχικῶς",
+          "lemma": null,
+          "location": "555a",
+          "context": null
+        },
+        {
+          "form": "τὰ πολλὰ ἡττᾶται καὶ πλουτεῖ",
+          "lemma": null,
+          "location": "555a",
+          "context": null
+        }
+      ],
+      "observation": "The miser fights with few of his own resources in oligarchic fashion and mostly loses contests but grows wealthy—defeat in honour paired with success in wealth."
+    }
+  ]
+}
