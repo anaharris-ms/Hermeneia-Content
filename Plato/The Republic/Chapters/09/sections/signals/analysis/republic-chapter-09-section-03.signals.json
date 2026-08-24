@@ -1,0 +1,603 @@
+{
+  "section_id": "republic-chapter-09-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύραννος",
+          "lemma": "τύραννος",
+          "location": "573b",
+          "context": "τύραννος ὁ Ἔρως λέγεται"
+        },
+        {
+          "form": "τύραννος",
+          "lemma": "τύραννος",
+          "location": "573d",
+          "context": "Ἔρως τύραννος ἔνδον οἰκῶν"
+        }
+      ],
+      "observation": "Eros is twice called τύραννος, first as a traditional saying, then as an indwelling ruler of the soul."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τυραννικόν",
+          "lemma": "τυραννικός",
+          "location": "573b",
+          "context": "μεθυσθεὶς ἀνὴρ τυραννικόν τι φρόνημα"
+        },
+        {
+          "form": "τυραννικός",
+          "lemma": "τυραννικός",
+          "location": "573c",
+          "context": "τυραννικὸς δέ … ἀνὴρ ἀκριβῶς γίγνεται"
+        },
+        {
+          "form": "τυραννικῶν",
+          "lemma": "τυραννικός",
+          "location": "574b",
+          "context": "μή τι δρᾶσαι τῶν τυραννικῶν"
+        },
+        {
+          "form": "τυραννικὸν",
+          "lemma": "τυραννικός",
+          "location": "574c",
+          "context": "τὸ τυραννικὸν ὑὸν τεκεῖν"
+        },
+        {
+          "form": "τυραννικῶς",
+          "lemma": "τυραννικός",
+          "location": "575a",
+          "context": "τυραννικῶς ἐν αὐτῷ ὁ Ἔρως"
+        }
+      ],
+      "observation": "τυραννικός recurs across the section, applied successively to a disposition, a man, actions toward parents, begetting a son, and Eros's mode of dwelling."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "Ἔρως",
+          "lemma": "Ἔρως",
+          "location": "573b",
+          "context": "τύραννος ὁ Ἔρως"
+        },
+        {
+          "form": "ἐρωτικός",
+          "lemma": "ἐρωτικός",
+          "location": "573c",
+          "context": "ἐρωτικὸς καὶ μελαγχολικός"
+        },
+        {
+          "form": "Ἔρως",
+          "lemma": "Ἔρως",
+          "location": "573d",
+          "context": "Ἔρως τύραννος ἔνδον οἰκῶν"
+        },
+        {
+          "form": "Ἔρωτος",
+          "lemma": "Ἔρως",
+          "location": "573e",
+          "context": "ὑπʼ αὐτοῦ τοῦ Ἔρωτος"
+        },
+        {
+          "form": "ἔρωτα",
+          "lemma": "ἔρως",
+          "location": "574d",
+          "context": "δορυφοροῦσαι τὸν ἔρωτα"
+        },
+        {
+          "form": "Ἔρωτος",
+          "lemma": "Ἔρως",
+          "location": "574e",
+          "context": "τυραννευθεὶς δὲ ὑπὸ Ἔρωτος"
+        },
+        {
+          "form": "Ἔρως",
+          "lemma": "Ἔρως",
+          "location": "575a",
+          "context": "ὁ Ἔρως ἐν πάσῃ ἀναρχίᾳ καὶ ἀνομίᾳ ζῶν"
+        }
+      ],
+      "observation": "Eros recurs throughout the section as agent, ruler, and object of service, accumulating political predicates."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δορυφόροις",
+          "lemma": "δορυφόρος",
+          "location": "573e",
+          "context": "πάσαις ταῖς ἄλλαις ὥσπερ δορυφόροις ἡγουμένου"
+        },
+        {
+          "form": "δορυφοροῦσαι",
+          "lemma": "δορυφορέω",
+          "location": "574d",
+          "context": "δορυφοροῦσαι τὸν ἔρωτα"
+        }
+      ],
+      "observation": "The bodyguard image (δορυφόρος/δορυφορέω) appears twice: first the other desires serve as bodyguards to Eros, then the newly freed opinions act as bodyguards to eros."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νεωστὶ φίλης",
+          "lemma": null,
+          "location": "574b",
+          "context": "νεωστὶ φίλης καὶ οὐκ ἀναγκαίας ἑταίρας"
+        },
+        {
+          "form": "πάλαι φίλην καὶ ἀναγκαίαν",
+          "lemma": null,
+          "location": "574b",
+          "context": "τὴν πάλαι φίλην καὶ ἀναγκαίαν μητέρα"
+        },
+        {
+          "form": "νεωστὶ φίλου … οὐκ ἀναγκαίου",
+          "lemma": null,
+          "location": "574c",
+          "context": "νεωστὶ φίλου γεγονότος οὐκ ἀναγκαίου"
+        },
+        {
+          "form": "ἀναγκαῖον πρεσβύτην πατέρα",
+          "lemma": null,
+          "location": "574c",
+          "context": "τὸν ἄωρόν τε καὶ ἀναγκαῖον πρεσβύτην πατέρα"
+        }
+      ],
+      "observation": "νεωστί/πάλαι and ἀναγκαῖος/οὐκ ἀναγκαῖος are set in parallel contrast twice: new-not-necessary companion vs. old-necessary parent, for both mother and father."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὡραίου",
+          "lemma": "ὡραῖος",
+          "location": "574c",
+          "context": "ὡραίου νεωστὶ φίλου"
+        },
+        {
+          "form": "ἄωρον",
+          "lemma": "ἄωρος",
+          "location": "574c",
+          "context": "τὸν ἄωρόν τε καὶ ἀναγκαῖον πρεσβύτην πατέρα"
+        }
+      ],
+      "observation": "ὡραῖος and ἄωρος are placed in direct opposition: the 'ripe' new beloved against the 'unripe/untimely' old father."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "sequence_configuration",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἑορταί",
+          "lemma": "ἑορτή",
+          "location": "573d",
+          "context": null
+        },
+        {
+          "form": "κῶμοι",
+          "lemma": "κῶμος",
+          "location": "573d",
+          "context": null
+        },
+        {
+          "form": "θάλειαι",
+          "lemma": "θάλεια",
+          "location": "573d",
+          "context": null
+        },
+        {
+          "form": "ἑταῖραι",
+          "lemma": "ἑταίρα",
+          "location": "573d",
+          "context": null
+        }
+      ],
+      "observation": "A four-item list of feasting and revelry (festivals, revels, banquets, courtesans) names the life governed by Eros as tyrant."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀναλίσκονται",
+          "lemma": "ἀναλίσκω",
+          "location": "573d",
+          "context": "ταχὺ ἄρα ἀναλίσκονται"
+        },
+        {
+          "form": "δανεισμοί",
+          "lemma": "δανεισμός",
+          "location": "573e",
+          "context": null
+        },
+        {
+          "form": "παραιρέσεις",
+          "lemma": "παραίρεσις",
+          "location": "573e",
+          "context": "τῆς οὐσίας παραιρέσεις"
+        },
+        {
+          "form": "ἐπιλείπῃ",
+          "lemma": "ἐπιλείπω",
+          "location": "573e",
+          "context": "ὅταν δὲ δὴ πάντʼ ἐπιλείπῃ"
+        },
+        {
+          "form": "ἀναλώσῃ",
+          "lemma": "ἀναλίσκω",
+          "location": "574a",
+          "context": "ἐὰν τὸ αὑτοῦ μέρος ἀναλώσῃ"
+        }
+      ],
+      "observation": "A sequence of economic exhaustion: spending, borrowing, diminishing property, resources giving out, consuming one's share—tracing progressive financial ruin."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "sequence_configuration",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "κλέπτειν καὶ ἀπατᾶν",
+          "lemma": null,
+          "location": "574b",
+          "context": "τὸ μὲν πρῶτον ἐπιχειροῖ ἂν κλέπτειν καὶ ἀπατᾶν τοὺς γονέας"
+        },
+        {
+          "form": "ἁρπάζοι ἂν καὶ βιάζοιτο",
+          "lemma": null,
+          "location": "574b",
+          "context": null
+        },
+        {
+          "form": "πληγαῖς τε δοῦναι καὶ καταδουλώσασθαι",
+          "lemma": null,
+          "location": "574c",
+          "context": null
+        }
+      ],
+      "observation": "Violence against parents escalates in a three-step sequence: first stealing and deceiving, then seizing and using force, then beating and enslaving."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "574d",
+          "context": "πρότερον μὲν ὄναρ ἐλύοντο ἐν ὕπνῳ"
+        },
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "574e",
+          "context": "ὕπαρ τοιοῦτος ἀεὶ γενόμενος"
+        },
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "574e",
+          "context": "οἷος ὀλιγάκις ἐγίγνετο ὄναρ"
+        }
+      ],
+      "observation": "The ὄναρ/ὕπαρ contrast: what formerly occurred only in dream now becomes the waking permanent condition under Eros's tyranny."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μεθυσθείς",
+          "lemma": "μεθύσκω",
+          "location": "573b",
+          "context": null
+        },
+        {
+          "form": "μαινόμενος",
+          "lemma": "μαίνομαι",
+          "location": "573c",
+          "context": null
+        },
+        {
+          "form": "ὑποκεκινηκώς",
+          "lemma": "ὑποκινέω",
+          "location": "573c",
+          "context": null
+        },
+        {
+          "form": "μεθυστικός",
+          "lemma": "μεθυστικός",
+          "location": "573c",
+          "context": null
+        },
+        {
+          "form": "μελαγχολικός",
+          "lemma": "μελαγχολικός",
+          "location": "573c",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of intoxication and madness terms: drunkenness, madness, derangement, and melancholy characterize the tyrannical man's constitution."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κέντρων",
+          "lemma": "κέντρον",
+          "location": "573e",
+          "context": "ὥσπερ ὑπὸ κέντρων ἐλαυνομένους"
+        },
+        {
+          "form": "οἰστρᾶν",
+          "lemma": "οἰστράω",
+          "location": "573e",
+          "context": null
+        },
+        {
+          "form": "σμῆνος",
+          "lemma": "σμῆνος",
+          "location": "574d",
+          "context": "τὸ τῶν ἡδονῶν σμῆνος"
+        },
+        {
+          "form": "ἐννενεοττευμένας",
+          "lemma": "ἐννεοττεύω",
+          "location": "573e",
+          "context": "ἐπιθυμίας … ἐννενεοττευμένας"
+        }
+      ],
+      "observation": "An insect/animal cluster: goads, gadfly-frenzy, a swarm of pleasures, desires nested like chicks—animal imagery for the appetites."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἔνδον",
+          "lemma": "ἔνδον",
+          "location": "573d",
+          "context": "Ἔρως τύραννος ἔνδον οἰκῶν"
+        },
+        {
+          "form": "ἔξωθεν",
+          "lemma": "ἔξωθεν",
+          "location": "575a",
+          "context": "τὸν μὲν ἔξωθεν εἰσεληλυθότα"
+        },
+        {
+          "form": "ἔνδοθεν",
+          "lemma": "ἔνδοθεν",
+          "location": "575a",
+          "context": "τὸν δʼ ἔνδοθεν"
+        }
+      ],
+      "observation": "Inside/outside spatial terms: Eros dwells ἔνδον; the closing sentence distinguishes θόρυβος that has entered from ἔξωθεν and that released from ἔνδοθεν."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιλείπῃ",
+          "lemma": "ἐπιλείπω",
+          "location": "573e",
+          "context": "ὅταν δὲ δὴ πάντʼ ἐπιλείπῃ"
+        },
+        {
+          "form": "ἐπιλείπῃ",
+          "lemma": "ἐπιλείπω",
+          "location": "574d",
+          "context": "ὅταν δὴ τὰ πατρὸς καὶ μητρὸς ἐπιλείπῃ"
+        }
+      ],
+      "observation": "ἐπιλείπω recurs at two stages of exhaustion: first all resources give out, then specifically parental resources give out, marking escalation."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνεθέντα",
+          "lemma": "ἀνίημι",
+          "location": "575a",
+          "context": null
+        },
+        {
+          "form": "ἐλευθερωθέντα",
+          "lemma": "ἐλευθερόω",
+          "location": "575a",
+          "context": null
+        },
+        {
+          "form": "λελυμέναι",
+          "lemma": "λύω",
+          "location": "574d",
+          "context": "ἐκ δουλείας λελυμέναι"
+        },
+        {
+          "form": "δουλείας",
+          "lemma": "δουλεία",
+          "location": "574d",
+          "context": null
+        },
+        {
+          "form": "καταδουλώσασθαι",
+          "lemma": "καταδουλόω",
+          "location": "574c",
+          "context": null
+        }
+      ],
+      "observation": "A freedom/slavery cluster: desires are released from slavery, the son enslaves his parents, and the inner turmoil is let loose and freed—liberty language applied to appetites while enslavement is applied to kin."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μόναρχος",
+          "lemma": "μόναρχος",
+          "location": "575a",
+          "context": "αὐτὸς ὢν μόναρχος"
+        },
+        {
+          "form": "ἀναρχίᾳ",
+          "lemma": "ἀναρχία",
+          "location": "575a",
+          "context": "ἐν πάσῃ ἀναρχίᾳ καὶ ἀνομίᾳ"
+        },
+        {
+          "form": "ἀνομίᾳ",
+          "lemma": "ἀνομία",
+          "location": "575a",
+          "context": null
+        }
+      ],
+      "observation": "μόναρχος is juxtaposed with ἀναρχία and ἀνομία: sole rule coincides with total lawlessness and absence of rule."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ζῇ δὲ δὴ πῶς",
+          "lemma": null,
+          "location": "573c",
+          "context": null
+        },
+        {
+          "form": "ἢ οὐχ οὗτος ὁ βίος τοῦ τοιούτου",
+          "lemma": null,
+          "location": "575a",
+          "context": null
+        }
+      ],
+      "observation": "The section's descriptive core is framed by a question about how such a man lives and a closing confirmation that this is indeed his βίος."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "573c",
+          "context": "ἐλπίζει δυνατὸς εἶναι ἄρχειν"
+        },
+        {
+          "form": "δημοκρατούμενος",
+          "lemma": "δημοκρατέω",
+          "location": "574e",
+          "context": "ὑπὸ νόμοις τε καὶ πατρὶ δημοκρατούμενος ἐν ἑαυτῷ"
+        },
+        {
+          "form": "τυραννευθείς",
+          "lemma": "τυραννεύω",
+          "location": "574e",
+          "context": "τυραννευθεὶς δὲ ὑπὸ Ἔρωτος"
+        }
+      ],
+      "observation": "Political regime terms applied to the inner soul: the madman expects to rule (ἄρχειν), was formerly democratically governed within himself, and is now tyrannized by Eros."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φόνου",
+          "lemma": "φόνος",
+          "location": "574e",
+          "context": "οὔτε τινὸς φόνου δεινοῦ ἀφέξεται"
+        },
+        {
+          "form": "βρώματος",
+          "lemma": "βρῶμα",
+          "location": "574e",
+          "context": "οὔτε βρώματος"
+        },
+        {
+          "form": "ἔργου",
+          "lemma": "ἔργον",
+          "location": "574e",
+          "context": "οὔτʼ ἔργου"
+        }
+      ],
+      "observation": "A tricolon of things from which the tyrannized man will not abstain: murder, food, deed—escalating from terrible killing to an open-ended 'any deed.'"
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ πόλιν",
+          "lemma": "πόλις",
+          "location": "575a",
+          "context": "τὸν ἔχοντά τε αὐτὸν ὥσπερ πόλιν ἄξει ἐπὶ πᾶσαν τόλμαν"
+        }
+      ],
+      "observation": "The man possessed by Eros is explicitly compared to a city (ὥσπερ πόλιν), making the soul-city analogy locally explicit."
+    }
+  ]
+}
