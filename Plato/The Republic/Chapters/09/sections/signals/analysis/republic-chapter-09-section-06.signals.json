@@ -1,0 +1,606 @@
+{
+  "section_id": "republic-chapter-09-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τύραννος",
+          "lemma": "τύραννος",
+          "location": "579d",
+          "context": null
+        },
+        {
+          "form": "δοῦλος",
+          "lemma": "δοῦλος",
+          "location": "579d",
+          "context": "ὁ τῷ ὄντι τύραννος τῷ ὄντι δοῦλος"
+        }
+      ],
+      "observation": "The tyrant is identified as being in truth a slave; τύραννος and δοῦλος are set in direct opposition within a single phrase."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἰδιώτην",
+          "lemma": "ἰδιώτης",
+          "location": "578c",
+          "context": "μὴ ἰδιώτην βίον καταβιῷ"
+        },
+        {
+          "form": "ἰδιωτῶν",
+          "lemma": "ἰδιώτης",
+          "location": "578d",
+          "context": "ἑνὸς ἑκάστου τῶν ἰδιωτῶν"
+        },
+        {
+          "form": "ἰδιώτης",
+          "lemma": "ἰδιώτης",
+          "location": "579c",
+          "context": "ὡς μὴ ἰδιώτης καταβιῷ"
+        },
+        {
+          "form": "ἰδιωτεύων",
+          "lemma": "ἰδιωτεύω",
+          "location": "579c",
+          "context": "μὴ ἰδιωτεύων ἀλλʼ ἀγωνιζόμενος"
+        }
+      ],
+      "observation": "ἰδιώτης recurs across the section, naming the private life the tyrannical man fails to live, the private slaveholders used as analogy, and the private condition contrasted with public contest."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φόβῳ",
+          "lemma": "φόβος",
+          "location": "578e",
+          "context": "ἐν ποίῳ ἄν τινι καὶ ὁπόσῳ φόβῳ"
+        },
+        {
+          "form": "φοβοῦνται",
+          "lemma": "φοβέω",
+          "location": "578d",
+          "context": "οὐ φοβοῦνται τοὺς οἰκέτας"
+        },
+        {
+          "form": "φοβοῖντο",
+          "lemma": "φοβέω",
+          "location": "578d",
+          "context": "τί γὰρ ἂν φοβοῖντο"
+        },
+        {
+          "form": "φόβων",
+          "lemma": "φόβος",
+          "location": "579b",
+          "context": "πολλῶν καὶ παντοδαπῶν φόβων"
+        },
+        {
+          "form": "φόβου",
+          "lemma": "φόβος",
+          "location": "579e",
+          "context": "φόβου γέμων διὰ παντὸς τοῦ βίου"
+        }
+      ],
+      "observation": "Fear vocabulary is dense throughout: slaveholders do not fear, but the hypothetical isolated master and the tyrant are saturated with fear."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀθλιώτερος",
+          "lemma": "ἄθλιος",
+          "location": "578b",
+          "context": "τούτου ἀθλιώτερος"
+        },
+        {
+          "form": "ἀθλιώτατον",
+          "lemma": "ἄθλιος",
+          "location": "579c",
+          "context": "ὃν νυνδὴ σὺ ἀθλιώτατον ἔκρινας"
+        },
+        {
+          "form": "ἄθλιον",
+          "lemma": "ἄθλιος",
+          "location": "579d",
+          "context": "παντελῶς τὸ πάθος ἄθλιον"
+        },
+        {
+          "form": "ἀθλιώτατον",
+          "lemma": "ἄθλιος",
+          "location": "580c",
+          "context": "τὸν δὲ κάκιστόν τε καὶ ἀδικώτατον ἀθλιώτατον"
+        }
+      ],
+      "observation": "ἄθλιος recurs in escalating comparative and superlative forms across the section."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θωπεύειν",
+          "lemma": "θωπεύω",
+          "location": "579a",
+          "context": null
+        },
+        {
+          "form": "κόλαξ",
+          "lemma": "κόλαξ",
+          "location": "579a",
+          "context": "κόλαξ αὐτὸς ἂν θεραπόντων ἀναφανείη"
+        },
+        {
+          "form": "θωπείας",
+          "lemma": "θωπεία",
+          "location": "579d",
+          "context": "τὰς μεγίστας θωπείας καὶ δουλείας"
+        },
+        {
+          "form": "κόλαξ",
+          "lemma": "κόλαξ",
+          "location": "579e",
+          "context": "κόλαξ τῶν πονηροτάτων"
+        }
+      ],
+      "observation": "Flattery vocabulary (θωπεύειν/θωπεία, κόλαξ) clusters: the master forced to flatter slaves in the analogy returns as the tyrant described as flatterer of the worst."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄρας ἐκ τῆς πόλεως",
+          "lemma": null,
+          "location": "578e",
+          "context": "ἄρας ἐκ τῆς πόλεως αὐτόν τε καὶ γυναῖκα καὶ παῖδας θείη εἰς ἐρημίαν"
+        },
+        {
+          "form": "κύκλῳ",
+          "lemma": "κύκλος",
+          "location": "579a",
+          "context": "κύκλῳ κατοικίσειεν γείτονας πολλοὺς αὐτῷ"
+        },
+        {
+          "form": "κύκλῳ φρουρούμενος",
+          "lemma": null,
+          "location": "579b",
+          "context": "κύκλῳ φρουρούμενος ὑπὸ πάντων πολεμίων"
+        },
+        {
+          "form": "δεσμωτηρίῳ",
+          "lemma": "δεσμωτήριον",
+          "location": "579b",
+          "context": "ἐν τοιούτῳ μὲν δεσμωτηρίῳ δέδεται ὁ τύραννος"
+        },
+        {
+          "form": "καταδεδυκὼς δὲ ἐν τῇ οἰκίᾳ",
+          "lemma": null,
+          "location": "579b",
+          "context": null
+        }
+      ],
+      "observation": "A spatial sequence: lifted out of the city into isolation, then surrounded in a circle by hostile neighbors, then bound in a prison, then sunk down inside the house. Enclosure tightens progressively."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδράποδα",
+          "lemma": "ἀνδράποδον",
+          "location": "578d",
+          "context": "ἀνδράποδα πολλὰ κέκτηνται"
+        },
+        {
+          "form": "δούλων",
+          "lemma": "δοῦλος",
+          "location": "579a",
+          "context": "αὐτῶν τῶν δούλων"
+        },
+        {
+          "form": "οἰκετῶν",
+          "lemma": "οἰκέτης",
+          "location": "578e",
+          "context": "μὴ ἀπόλοιντο ὑπὸ τῶν οἰκετῶν"
+        },
+        {
+          "form": "ἐλευθεροῦν",
+          "lemma": "ἐλευθερόω",
+          "location": "579a",
+          "context": "ἐλευθεροῦν οὐδὲν δεόμενος"
+        },
+        {
+          "form": "ἐλευθέρων",
+          "lemma": "ἐλεύθερος",
+          "location": "578e",
+          "context": "μηδεὶς τῶν ἐλευθέρων μέλλοι βοηθήσειν"
+        },
+        {
+          "form": "ἐλεύθεροι",
+          "lemma": "ἐλεύθερος",
+          "location": "579b",
+          "context": "οἱ ἄλλοι ἐλεύθεροι ἐπιθυμηταί"
+        }
+      ],
+      "observation": "Slave/free terminology recurs densely: ἀνδράποδα, δοῦλοι, οἰκέται against ἐλεύθεροι/ἐλευθεροῦν, with the master-slave relation inverting as the slaveholder becomes flatterer of his own slaves."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεῶν",
+          "lemma": "θεός",
+          "location": "578e",
+          "context": "εἴ τις θεῶν ἄνδρα ἕνα … ἄρας"
+        },
+        {
+          "form": "ὁ θεὸς",
+          "lemma": "θεός",
+          "location": "579a",
+          "context": "ὁ θεὸς κύκλῳ κατοικίσειεν γείτονας"
+        },
+        {
+          "form": "θεούς",
+          "lemma": "θεός",
+          "location": "580c",
+          "context": "πάντας ἀνθρώπους τε καὶ θεούς"
+        }
+      ],
+      "observation": "A god appears as agent of the thought-experiment (lifting the man, settling hostile neighbors), then θεοί return as audience of the final proclamation."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "κρῖνε",
+          "lemma": "κρίνω",
+          "location": "580b",
+          "context": "τοὺς ἄλλους ἑξῆς πέντε ὄντας κρῖνε"
+        },
+        {
+          "form": "ἔκρινας",
+          "lemma": "κρίνω",
+          "location": "579c",
+          "context": "ὃν νυνδὴ σὺ ἀθλιώτατον ἔκρινας"
+        },
+        {
+          "form": "κριθέντος",
+          "lemma": "κρίνω",
+          "location": "579d",
+          "context": "τοῦ ὑπὸ σοῦ κριθέντος χαλεπώτατα ζῆν"
+        },
+        {
+          "form": "κριτὴς",
+          "lemma": "κριτής",
+          "location": "580b",
+          "context": "ὁ διὰ πάντων κριτὴς ἀποφαίνεται"
+        },
+        {
+          "form": "κρίσις",
+          "lemma": "κρίσις",
+          "location": "580b",
+          "context": "ῥᾳδία ἡ κρίσις"
+        },
+        {
+          "form": "ἔκρινε",
+          "lemma": "κρίνω",
+          "location": "580c",
+          "context": "εὐδαιμονέστατον ἔκρινε"
+        },
+        {
+          "form": "κρίνω",
+          "lemma": "κρίνω",
+          "location": "580b",
+          "context": "ὥσπερ χοροὺς κρίνω"
+        }
+      ],
+      "observation": "κρίνω and its derivatives accumulate at the section's close: judging, judge, judgment—applied to Glaucon's verdict and to the analogy of a judge who decides among all contestants."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ χοροὺς κρίνω",
+          "lemma": null,
+          "location": "580b",
+          "context": null
+        },
+        {
+          "form": "κήρυκα",
+          "lemma": "κῆρυξ",
+          "location": "580b",
+          "context": "μισθωσώμεθα οὖν κήρυκα"
+        },
+        {
+          "form": "ἀνείπω",
+          "lemma": "ἀναγορεύω",
+          "location": "580b",
+          "context": "ἢ αὐτὸς ἀνείπω"
+        },
+        {
+          "form": "ἀνειρήσθω",
+          "lemma": "ἀναγορεύω",
+          "location": "580c",
+          "context": null
+        },
+        {
+          "form": "προσαναγορεύω",
+          "lemma": "προσαναγορεύω",
+          "location": "580c",
+          "context": null
+        }
+      ],
+      "observation": "A performance/contest frame: judging choruses, hiring a herald, and publicly proclaiming the verdict—vocabulary of public competition and announcement clusters at the proof's conclusion."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκοπεῖν",
+          "lemma": "σκοπέω",
+          "location": "578c",
+          "context": "εὖ μάλα τῷ τοιούτῳ λόγῳ σκοπεῖν"
+        },
+        {
+          "form": "σκέψις",
+          "lemma": "σκέψις",
+          "location": "578c",
+          "context": "περὶ γάρ τοι τοῦ μεγίστου ἡ σκέψις"
+        },
+        {
+          "form": "σκόπει",
+          "lemma": "σκοπέω",
+          "location": "578c",
+          "context": "σκόπει δὴ εἰ ἄρα τι λέγω"
+        },
+        {
+          "form": "σκοποῦντας",
+          "lemma": "σκοπέω",
+          "location": "578d",
+          "context": "περὶ αὐτοῦ σκοποῦντας"
+        }
+      ],
+      "observation": "σκοπέω/σκέψις occurs four times in quick succession as Socrates insists on careful examination rather than mere opinion."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "βασιλικώτατον καὶ βασιλεύοντα αὑτοῦ",
+          "lemma": null,
+          "location": "580c",
+          "context": null
+        },
+        {
+          "form": "τυραννικώτατος ὢν ἑαυτοῦ τε ὅτι μάλιστα τυραννῇ καὶ τῆς πόλεως",
+          "lemma": null,
+          "location": "580c",
+          "context": null
+        }
+      ],
+      "observation": "The final proclamation sets the most kingly man who rules himself against the most tyrannical man who tyrannizes himself and his city—parallel superlative constructions in direct contrast."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φθονερῷ",
+          "lemma": "φθονερός",
+          "location": "580a",
+          "context": null
+        },
+        {
+          "form": "ἀπίστῳ",
+          "lemma": "ἄπιστος",
+          "location": "580a",
+          "context": null
+        },
+        {
+          "form": "ἀδίκῳ",
+          "lemma": "ἄδικος",
+          "location": "580a",
+          "context": null
+        },
+        {
+          "form": "ἀφίλῳ",
+          "lemma": "ἄφιλος",
+          "location": "580a",
+          "context": null
+        },
+        {
+          "form": "ἀνοσίῳ",
+          "lemma": "ἀνόσιος",
+          "location": "580a",
+          "context": null
+        },
+        {
+          "form": "πανδοκεῖ",
+          "lemma": "πανδοκεύς",
+          "location": "580a",
+          "context": "πάσης κακίας πανδοκεῖ τε καὶ τροφεῖ"
+        }
+      ],
+      "observation": "A concentrated list of alpha-privative adjectives (ἄπιστος, ἄδικος, ἄφιλος, ἀνόσιος) plus φθονερός culminates in πανδοκεῖ καὶ τροφεῖ—the tyrant as host and nurse of all vice."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὡς γυνὴ ζῇ",
+          "lemma": null,
+          "location": "579b",
+          "context": "καταδεδυκὼς δὲ ἐν τῇ οἰκίᾳ τὰ πολλὰ ὡς γυνὴ ζῇ"
+        }
+      ],
+      "observation": "The tyrant is said to live like a woman, sunk inside his house—a striking simile linking confinement to a gendered domestic image."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκράτωρ",
+          "lemma": "ἀκράτωρ",
+          "location": "579c",
+          "context": "ἑαυτοῦ ὢν ἀκράτωρ"
+        },
+        {
+          "form": "ἀκράτορι",
+          "lemma": "ἀκράτωρ",
+          "location": "579c",
+          "context": "κάμνοντι σώματι καὶ ἀκράτορι ἑαυτοῦ"
+        }
+      ],
+      "observation": "ἀκράτωρ appears twice in close succession: the tyrannical soul lacking mastery of itself is paralleled by a sick body lacking mastery of itself."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ἀρίστωνος ὑὸς",
+          "lemma": null,
+          "location": "580b",
+          "context": "ὁ Ἀρίστωνος ὑὸς τὸν ἄριστόν τε καὶ δικαιότατον εὐδαιμονέστατον ἔκρινε"
+        }
+      ],
+      "observation": "Glaucon is named as 'son of Ariston,' and his verdict concerns τὸν ἄριστον—the patronymic and the superlative adjective share the same root."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πέντε",
+          "lemma": "πέντε",
+          "location": "580b",
+          "context": "τοὺς ἄλλους ἑξῆς πέντε ὄντας κρῖνε"
+        },
+        {
+          "form": "βασιλικόν",
+          "lemma": "βασιλικός",
+          "location": "580b",
+          "context": null
+        },
+        {
+          "form": "τιμοκρατικόν",
+          "lemma": "τιμοκρατικός",
+          "location": "580b",
+          "context": null
+        },
+        {
+          "form": "ὀλιγαρχικόν",
+          "lemma": "ὀλιγαρχικός",
+          "location": "580b",
+          "context": null
+        },
+        {
+          "form": "δημοκρατικόν",
+          "lemma": "δημοκρατικός",
+          "location": "580b",
+          "context": null
+        },
+        {
+          "form": "τυραννικόν",
+          "lemma": "τυραννικός",
+          "location": "580b",
+          "context": null
+        }
+      ],
+      "observation": "The five character types are listed in explicit ranked sequence for judgment."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεάσασθαι",
+          "lemma": "θεάομαι",
+          "location": "579e",
+          "context": "ἐάν τις ὅλην ψυχὴν ἐπίστηται θεάσασθαι"
+        },
+        {
+          "form": "θεωρῆσαι",
+          "lemma": "θεωρέω",
+          "location": "579b",
+          "context": "οὔτε θεωρῆσαι ὅσων δὴ καὶ οἱ ἄλλοι ἐλεύθεροι ἐπιθυμηταί εἰσιν"
+        }
+      ],
+      "observation": "θεωρῆσαι names what the tyrant cannot do (travel to see spectacles), while θεάσασθαι names what is needed to see the whole soul truly—two cognate seeing-verbs in contrasting applications."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "τῇ ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "location": "579d",
+          "context": "ἔστιν ἄρα τῇ ἀληθείᾳ"
+        },
+        {
+          "form": "τῇ ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "location": "579e",
+          "context": "πένης τῇ ἀληθείᾳ φαίνεται"
+        }
+      ],
+      "observation": "τῇ ἀληθείᾳ appears twice in close proximity, framing the tyrant's true condition as slave and as truly poor."
+    }
+  ]
+}
