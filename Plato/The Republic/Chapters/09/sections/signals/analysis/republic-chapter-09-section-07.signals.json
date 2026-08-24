@@ -1,0 +1,553 @@
+{
+  "section_id": "republic-chapter-09-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "structural_recurrence",
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "τριττά",
+          "lemma": "τριττός",
+          "location": "581c",
+          "context": "τριττὰ γένη εἶναι"
+        },
+        {
+          "form": "τριχῇ",
+          "lemma": "τριχῇ",
+          "location": "580d",
+          "context": "ψυχὴ ἑνὸς ἑκάστου τριχῇ"
+        },
+        {
+          "form": "τριῶν",
+          "lemma": "τρεῖς",
+          "location": "580d",
+          "context": "τριῶν ὄντων τριτταὶ καὶ ἡδοναί"
+        },
+        {
+          "form": "τρεῖς",
+          "lemma": "τρεῖς",
+          "location": "581c",
+          "context": "τρεῖς τοιούτους ἀνθρώπους"
+        },
+        {
+          "form": "τριῶν",
+          "lemma": "τρεῖς",
+          "location": "583a",
+          "context": "τριῶν ἄρʼ οὐσῶν τῶν ἡδονῶν"
+        }
+      ],
+      "observation": "Forms of three (τριχῇ, τριῶν, τριτταί, τρεῖς, τριττά) recur densely throughout the section, structuring the division of soul, pleasures, desires, human types, and lives."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φιλόσοφον",
+          "lemma": "φιλόσοφος",
+          "location": "581c",
+          "context": null
+        },
+        {
+          "form": "φιλόνικον",
+          "lemma": "φιλόνικος",
+          "location": "581b",
+          "context": null
+        },
+        {
+          "form": "φιλοκερδές",
+          "lemma": "φιλοκερδής",
+          "location": "581c",
+          "context": null
+        },
+        {
+          "form": "φιλοχρήματον",
+          "lemma": "φιλοχρήματος",
+          "location": "580e",
+          "context": null
+        },
+        {
+          "form": "φιλότιμον",
+          "lemma": "φιλότιμος",
+          "location": "581b",
+          "context": null
+        },
+        {
+          "form": "φιλομαθές",
+          "lemma": "φιλομαθής",
+          "location": "581b",
+          "context": null
+        },
+        {
+          "form": "φιλόλογος",
+          "lemma": "φιλόλογος",
+          "location": "582e",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of φιλο- compounds names the soul-parts and human types: φιλοχρήματον, φιλοκερδές, φιλότιμον, φιλόνικον, φιλομαθές, φιλόσοφον, φιλόλογος."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μανθάνει",
+          "lemma": "μανθάνω",
+          "location": "580d",
+          "context": "ᾧ μανθάνει ἄνθρωπος"
+        },
+        {
+          "form": "μανθάνομεν",
+          "lemma": "μανθάνω",
+          "location": "581b",
+          "context": "ᾧ γε μανθάνομεν"
+        },
+        {
+          "form": "μανθάνειν",
+          "lemma": "μανθάνω",
+          "location": "581d",
+          "context": "τὴν ἀπὸ τοῦ μανθάνειν"
+        },
+        {
+          "form": "μανθάνοντα",
+          "lemma": "μανθάνω",
+          "location": "581e",
+          "context": "ἀεὶ εἶναι μανθάνοντα"
+        },
+        {
+          "form": "μανθάνοντι",
+          "lemma": "μανθάνω",
+          "location": "582b",
+          "context": "τὰ ὄντα μανθάνοντι"
+        },
+        {
+          "form": "μανθάνομεν",
+          "lemma": "μανθάνω",
+          "location": "583a",
+          "context": "ᾧ μανθάνομεν"
+        }
+      ],
+      "observation": "μανθάνω recurs throughout, defining the learning part of the soul, its pleasure, and the philosopher's activity."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κρίνεσθαι",
+          "lemma": "κρίνω",
+          "location": "582a",
+          "context": "τίνι χρὴ κρίνεσθαι"
+        },
+        {
+          "form": "κριθήσεσθαι",
+          "lemma": "κρίνω",
+          "location": "582a",
+          "context": "καλῶς κριθήσεσθαι"
+        },
+        {
+          "form": "κρίνει",
+          "lemma": "κρίνω",
+          "location": "582d",
+          "context": "κάλλιστα τῶν ἀνδρῶν κρίνει"
+        },
+        {
+          "form": "κρίνεσθαι",
+          "lemma": "κρίνω",
+          "location": "582d",
+          "context": "διʼ οὗ γε δεῖ ὀργάνου κρίνεσθαι"
+        },
+        {
+          "form": "ἐκρίνετο",
+          "lemma": "κρίνω",
+          "location": "582d",
+          "context": "πλούτῳ καὶ κέρδει ἄριστα ἐκρίνετο"
+        },
+        {
+          "form": "κριτήριον",
+          "lemma": "κριτήριον",
+          "location": "582a",
+          "context": "βέλτιον κριτήριον"
+        },
+        {
+          "form": "κριτής",
+          "lemma": "κριτής",
+          "location": "583a",
+          "context": "φησιν ὁ κριτής"
+        }
+      ],
+      "observation": "κρίνω and related forms (κριτήριον, κριτής) accumulate densely from 582a onward as judging becomes the central action."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐμπειρίᾳ",
+          "lemma": "ἐμπειρία",
+          "location": "582a",
+          "context": "ἐμπειρίᾳ τε καὶ φρονήσει καὶ λόγῳ"
+        },
+        {
+          "form": "φρονήσει",
+          "lemma": "φρόνησις",
+          "location": "582a",
+          "context": null
+        },
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "582a",
+          "context": null
+        }
+      ],
+      "observation": "The three criteria for judging—ἐμπειρία, φρόνησις, λόγος—are introduced together at 582a and each is then argued to belong to the philosopher."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γεύεσθαι",
+          "lemma": "γεύω",
+          "location": "582b",
+          "context": "ἀνάγκη γεύεσθαι τῶν ἑτέρων"
+        },
+        {
+          "form": "γεύεσθαι",
+          "lemma": "γεύω",
+          "location": "582b",
+          "context": "οὐκ ἀνάγκη γεύεσθαι"
+        },
+        {
+          "form": "γεγεῦσθαι",
+          "lemma": "γεύω",
+          "location": "582c",
+          "context": "ἀδύνατον ἄλλῳ γεγεῦσθαι"
+        },
+        {
+          "form": "γλυκεῖά",
+          "lemma": "γλυκύς",
+          "location": "582b",
+          "context": "ὡς γλυκεῖά ἐστιν"
+        }
+      ],
+      "observation": "γεύεσθαι/γεγεῦσθαι recurs to describe tasting pleasures, with γλυκεῖα adding a concrete sensory detail to the philosopher's pleasure of knowing."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πολυειδίαν",
+          "lemma": "πολυειδία",
+          "location": "580d",
+          "context": "διὰ πολυειδίαν ἑνὶ οὐκ ἔσχομεν ὀνόματι προσειπεῖν"
+        },
+        {
+          "form": "μέγιστον καὶ ἰσχυρότατον",
+          "lemma": null,
+          "location": "580e",
+          "context": "ὃ μέγιστον καὶ ἰσχυρότατον εἶχεν ἐν αὑτῷ"
+        }
+      ],
+      "observation": "The appetitive part is said to resist a single name due to its πολυειδία; it is named by what is μέγιστον καὶ ἰσχυρότατον in it—a naming procedure explicitly described."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐδωδήν",
+          "lemma": "ἐδωδή",
+          "location": "580e",
+          "context": "περὶ τὴν ἐδωδὴν ἐπιθυμιῶν"
+        },
+        {
+          "form": "πόσιν",
+          "lemma": "πόσις",
+          "location": "580e",
+          "context": "καὶ πόσιν"
+        },
+        {
+          "form": "ἀφροδίσια",
+          "lemma": "ἀφροδίσιος",
+          "location": "580e",
+          "context": "καὶ ἀφροδίσια"
+        }
+      ],
+      "observation": "Eating, drinking, and sex are listed as the concrete appetites that give the ἐπιθυμητικόν its name."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καπνόν",
+          "lemma": "καπνός",
+          "location": "581d",
+          "context": "καπνὸν καὶ φλυαρίαν"
+        },
+        {
+          "form": "φορτικήν",
+          "lemma": "φορτικός",
+          "location": "581d",
+          "context": "φορτικήν τινα ἡγεῖται"
+        }
+      ],
+      "observation": "The φιλότιμος dismisses the pleasure of learning as καπνός καὶ φλυαρία and the pleasure of money as φορτική—concrete terms of contempt."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "581e",
+          "context": "εἰ μὴ ἀνάγκη ἦν"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "582b",
+          "context": "ἀνάγκη γεύεσθαι"
+        },
+        {
+          "form": "ἀναγκαίας",
+          "lemma": "ἀναγκαῖος",
+          "location": "581e",
+          "context": "καλεῖν τῷ ὄντι ἀναγκαίας"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "582e",
+          "context": "ἀνάγκη … ἀληθέστατα εἶναι"
+        }
+      ],
+      "observation": "ἀνάγκη shifts context: the philosopher calls other pleasures ἀναγκαίας (581e), then necessity describes the philosopher's compulsory tasting of lower pleasures (582b), then necessity marks the conclusion of the argument (582e)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐμπειρότατος",
+          "lemma": "ἔμπειρος",
+          "location": "582a",
+          "context": null
+        },
+        {
+          "form": "ἐμπειρότερος",
+          "lemma": "ἔμπειρος",
+          "location": "582a",
+          "context": null
+        },
+        {
+          "form": "ἔμπειροι",
+          "lemma": "ἔμπειρος",
+          "location": "582c",
+          "context": "πάντες τῆς ἡδονῆς ἔμπειροι"
+        },
+        {
+          "form": "ἔμπειρος",
+          "lemma": "ἔμπειρος",
+          "location": "582d",
+          "context": "μόνος ἔμπειρος γεγονώς"
+        },
+        {
+          "form": "ἐμπείρῳ",
+          "lemma": "ἔμπειρος",
+          "location": "582b",
+          "context": "οὐδʼ ἐμπείρῳ γίγνεσθαι"
+        },
+        {
+          "form": "ἄπειρος",
+          "lemma": "ἄπειρος",
+          "location": "582c",
+          "context": "μᾶλλον ἄπειρός ἐστι"
+        }
+      ],
+      "observation": "ἔμπειρος and its forms (including the negation ἄπειρος) recur densely as the argument turns on who has experience of all pleasures."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὄργανον",
+          "lemma": "ὄργανον",
+          "location": "582d",
+          "context": "διʼ οὗ γε δεῖ ὀργάνου κρίνεσθαι"
+        },
+        {
+          "form": "ὄργανον",
+          "lemma": "ὄργανον",
+          "location": "582d",
+          "context": "λόγοι δὲ τούτου μάλιστα ὄργανον"
+        }
+      ],
+      "observation": "λόγοι are identified as the ὄργανον of judgment, and this ὄργανον is said to belong to the philosopher."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "θέας",
+          "lemma": "θέα",
+          "location": "582c",
+          "context": "τῆς δὲ τοῦ ὄντος θέας"
+        },
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "581b",
+          "context": "πρὸς τὸ εἰδέναι τὴν ἀλήθειαν"
+        },
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "581e",
+          "context": "τοῦ εἰδέναι τἀληθές"
+        }
+      ],
+      "observation": "The philosopher's pleasure is described both as εἰδέναι τὴν ἀλήθειαν (581b, 581e) and as τοῦ ὄντος θέα (582c)—knowing and seeing τὸ ὄν correspond."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἥδιστος",
+          "lemma": "ἡδύς",
+          "location": "581c",
+          "context": "τίς τούτων τῶν βίων ἥδιστος"
+        },
+        {
+          "form": "ἐγκωμιάσεται",
+          "lemma": "ἐγκωμιάζω",
+          "location": "581c",
+          "context": "τὸν ἑαυτοῦ ἕκαστος μάλιστα ἐγκωμιάσεται"
+        },
+        {
+          "form": "ἀμφισβητοῦνται",
+          "lemma": "ἀμφισβητέω",
+          "location": "581e",
+          "context": "ἀμφισβητοῦνται ἑκάστου τοῦ εἴδους αἱ ἡδοναί"
+        }
+      ],
+      "observation": "Each type praises (ἐγκωμιάσεται) his own life as ἥδιστος, producing a dispute (ἀμφισβητοῦνται) that requires a judge."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "κύριος",
+          "lemma": "κύριος",
+          "location": "583a",
+          "context": "κύριος γοῦν ἐπαινέτης ὤν"
+        },
+        {
+          "form": "ἐπαινέτης",
+          "lemma": "ἐπαινέτης",
+          "location": "583a",
+          "context": null
+        },
+        {
+          "form": "ἐπαινεῖ",
+          "lemma": "ἐπαινέω",
+          "location": "582e",
+          "context": "ὁ φιλόσοφός τε καὶ ὁ φιλόλογος ἐπαινεῖ"
+        }
+      ],
+      "observation": "The philosopher is called κύριος ἐπαινέτης—an authoritative praiser—summarizing the argument that his praise (ἐπαινεῖ) is truest."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἡδίστη",
+          "lemma": "ἡδύς",
+          "location": "583a",
+          "context": "ἡδίστη ἂν εἴη"
+        },
+        {
+          "form": "δευτέραν",
+          "lemma": "δεύτερος",
+          "location": "583a",
+          "context": "τίνα δὲ δεύτερον … βίον"
+        },
+        {
+          "form": "ὑστάτην",
+          "lemma": "ὕστατος",
+          "location": "583a",
+          "context": "ὑστάτην δὴ τὴν τοῦ φιλοκερδοῦς"
+        }
+      ],
+      "observation": "The section closes with an explicit ranking: ἡδίστη (philosopher), δευτέραν (warrior), ὑστάτην (money-lover)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθέστατα",
+          "lemma": "ἀληθής",
+          "location": "582e",
+          "context": "ἀληθέστατα εἶναι"
+        },
+        {
+          "form": "ἀληθέστατα",
+          "lemma": "ἀληθής",
+          "location": "582a",
+          "context": "τίς αὐτῶν ἀληθέστατα λέγει"
+        }
+      ],
+      "observation": "ἀληθέστατα frames the judging sequence: the question (who speaks most truly, 582a) is answered with the same superlative at 582e."
+    }
+  ]
+}
