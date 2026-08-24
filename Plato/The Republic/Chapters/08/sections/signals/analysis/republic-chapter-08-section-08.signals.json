@@ -1,0 +1,877 @@
+{
+  "section_id": "republic-chapter-08-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐλευθερίαν",
+          "lemma": "ἐλευθερία",
+          "location": "562c",
+          "context": null
+        },
+        {
+          "form": "ἐλεύθερος",
+          "lemma": "ἐλεύθερος",
+          "location": "562c",
+          "context": "ὅστις φύσει ἐλεύθερος"
+        },
+        {
+          "form": "ἐλευθερίας",
+          "lemma": "ἐλευθερία",
+          "location": "562e",
+          "context": "ἐπὶ πᾶν τὸ τῆς ἐλευθερίας ἰέναι"
+        },
+        {
+          "form": "ἐλεύθερος",
+          "lemma": "ἐλεύθερος",
+          "location": "562e",
+          "context": "ἵνα δὴ ἐλεύθερος ᾖ"
+        },
+        {
+          "form": "ἐλεύθεροι",
+          "lemma": "ἐλεύθερος",
+          "location": "563b",
+          "context": "μηδὲν ἧττον ἐλεύθεροι ὦσι τῶν πριαμένων"
+        },
+        {
+          "form": "ἐλευθερίας",
+          "lemma": "ἐλευθερία",
+          "location": "563b",
+          "context": "ὅση ἡ ἰσονομία καὶ ἐλευθερία"
+        },
+        {
+          "form": "ἐλευθερώτερά",
+          "lemma": "ἐλεύθερος",
+          "location": "563c",
+          "context": null
+        },
+        {
+          "form": "ἐλευθέρως",
+          "lemma": "ἐλευθέρως",
+          "location": "563c",
+          "context": null
+        },
+        {
+          "form": "ἐλευθερίας",
+          "lemma": "ἐλευθερία",
+          "location": "563d",
+          "context": "μεστὰ ἐλευθερίας"
+        },
+        {
+          "form": "ἐλευθερία",
+          "lemma": "ἐλευθερία",
+          "location": "564a",
+          "context": "ἡ γὰρ ἄγαν ἐλευθερία"
+        },
+        {
+          "form": "ἐλευθερίας",
+          "lemma": "ἐλευθερία",
+          "location": "564a",
+          "context": "τῆς ἀκροτάτης ἐλευθερίας"
+        }
+      ],
+      "observation": "Forms of ἐλευθερία/ἐλεύθερος recur with extraordinary density throughout the section, extending from the city to individuals, families, animals, and abstract principle."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐλευθερία",
+          "lemma": "ἐλευθερία",
+          "location": "564a",
+          "context": "ἡ γὰρ ἄγαν ἐλευθερία"
+        },
+        {
+          "form": "δουλείαν",
+          "lemma": "δουλεία",
+          "location": "564a",
+          "context": "εἰς ἄγαν δουλείαν μεταβάλλειν"
+        },
+        {
+          "form": "δουλεία",
+          "lemma": "δουλεία",
+          "location": "564a",
+          "context": "δουλεία πλείστη τε καὶ ἀγριωτάτη"
+        },
+        {
+          "form": "δουλείας",
+          "lemma": "δουλεία",
+          "location": "563d",
+          "context": "ὁτιοῦν δουλείας τις προσφέρηται"
+        },
+        {
+          "form": "καταδουλοῦται",
+          "lemma": "καταδουλόω",
+          "location": "563e",
+          "context": "καταδουλοῦται δημοκρατίαν"
+        },
+        {
+          "form": "δουλοῦται",
+          "lemma": "δουλόω",
+          "location": "564b",
+          "context": "ἐν δημοκρατίᾳ δουλοῦται αὐτήν"
+        }
+      ],
+      "observation": "ἐλευθερία and δουλεία are set in explicit opposition: excess freedom transforms into extreme slavery."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπληστία",
+          "lemma": "ἀπληστία",
+          "location": "562b",
+          "context": "ἡ πλούτου τοίνυν ἀπληστία"
+        },
+        {
+          "form": "ἀπληστία",
+          "lemma": "ἀπληστία",
+          "location": "562b",
+          "context": "ἡ τούτου ἀπληστία καὶ ταύτην καταλύει"
+        },
+        {
+          "form": "ἀπληστία",
+          "lemma": "ἀπληστία",
+          "location": "562c",
+          "context": "ἡ τοῦ τοιούτου ἀπληστία"
+        }
+      ],
+      "observation": "ἀπληστία recurs three times, first of wealth in oligarchy, then transferred to freedom in democracy, establishing a parallel mechanism of destruction."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "structural_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπώλλυ",
+          "lemma": "ἀπόλλυμι",
+          "location": "562b",
+          "context": "αὐτὴν ἀπώλλυ"
+        },
+        {
+          "form": "καταλύει",
+          "lemma": "καταλύω",
+          "location": "562b",
+          "context": "ἡ τούτου ἀπληστία καὶ ταύτην καταλύει"
+        },
+        {
+          "form": "ἀπώλεσεν",
+          "lemma": "ἀπόλλυμι",
+          "location": "563e",
+          "context": "νόσημα ἐγγενόμενον ἀπώλεσεν αὐτήν"
+        }
+      ],
+      "observation": "The same pattern — insatiability of the regime's defining good destroys that regime — is stated for oligarchy and then applied to democracy."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κηφῆσι",
+          "lemma": "κηφήν",
+          "location": "564b",
+          "context": "οὓς δὴ ἀφομοιοῦμεν κηφῆσι"
+        },
+        {
+          "form": "κηφῆσι",
+          "lemma": "κηφήν",
+          "location": "564e",
+          "context": "τοῖς κηφῆσι μέλι"
+        },
+        {
+          "form": "κηφήνων",
+          "lemma": "κηφήν",
+          "location": "564e",
+          "context": "κηφήνων βοτάνη"
+        },
+        {
+          "form": "κηφὴν",
+          "lemma": "κηφήν",
+          "location": "565c",
+          "context": "ἐκεῖνος ὁ κηφὴν ἐντίκτει κεντῶν"
+        },
+        {
+          "form": "μέλι",
+          "lemma": "μέλι",
+          "location": "564e",
+          "context": "πλεῖστον δὴ οἶμαι τοῖς κηφῆσι μέλι"
+        },
+        {
+          "form": "μέλιτός",
+          "lemma": "μέλι",
+          "location": "565a",
+          "context": "ἐὰν μὴ μέλιτός τι μεταλαμβάνῃ"
+        },
+        {
+          "form": "βλίττει",
+          "lemma": "βλίττω",
+          "location": "564e",
+          "context": null
+        },
+        {
+          "form": "βλίσειεν",
+          "lemma": "βλίττω",
+          "location": "564e",
+          "context": null
+        },
+        {
+          "form": "κηρίοις",
+          "lemma": "κηρίον",
+          "location": "564c",
+          "context": "σὺν αὐτοῖσι τοῖς κηρίοις ἐκτετμήσεσθον"
+        },
+        {
+          "form": "μελιττουργὸν",
+          "lemma": "μελιττουργός",
+          "location": "564c",
+          "context": "σοφὸν μελιττουργὸν"
+        },
+        {
+          "form": "κέντρα",
+          "lemma": "κέντρον",
+          "location": "564b",
+          "context": "τοὺς μὲν κέντρα ἔχουσι"
+        },
+        {
+          "form": "ἀκέντροις",
+          "lemma": "ἄκεντρος",
+          "location": "564b",
+          "context": null
+        },
+        {
+          "form": "κεντῶν",
+          "lemma": "κεντέω",
+          "location": "565c",
+          "context": "ὁ κηφὴν ἐντίκτει κεντῶν αὐτούς"
+        },
+        {
+          "form": "βομβεῖ",
+          "lemma": "βομβέω",
+          "location": "564d",
+          "context": "περὶ τὰ βήματα προσίζον βομβεῖ"
+        }
+      ],
+      "observation": "A sustained bee/drone semantic cluster: κηφήν, μέλι, βλίττω, κηρίον, μελιττουργός, κέντρον/κεντέω, βομβέω. The drones divide into stinging and stingless; the stinging drone reappears actively κεντῶν the wealthy into becoming oligarchic."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "νόσημα",
+          "lemma": "νόσημα",
+          "location": "563e",
+          "context": "ὅπερ ἐν τῇ ὀλιγαρχίᾳ νόσημα"
+        },
+        {
+          "form": "νόσημα",
+          "lemma": "νόσημα",
+          "location": "564b",
+          "context": "ποῖον νόσημα ἐν ὀλιγαρχίᾳ"
+        },
+        {
+          "form": "φλέγμα",
+          "lemma": "φλέγμα",
+          "location": "564b",
+          "context": "οἷον περὶ σῶμα φλέγμα τε καὶ χολή"
+        },
+        {
+          "form": "χολή",
+          "lemma": "χολή",
+          "location": "564b",
+          "context": null
+        },
+        {
+          "form": "ἰατρόν",
+          "lemma": "ἰατρός",
+          "location": "564c",
+          "context": "τὸν ἀγαθὸν ἰατρόν τε καὶ νομοθέτην"
+        }
+      ],
+      "observation": "A medical cluster: νόσημα (twice), φλέγμα, χολή, ἰατρός. The disease analogy links political disorder to bodily illness and pairs doctor with lawgiver."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "διψήσασα",
+          "lemma": "διψάω",
+          "location": "562c",
+          "context": "ἐλευθερίας διψήσασα"
+        },
+        {
+          "form": "οἰνοχόων",
+          "lemma": "οἰνοχόος",
+          "location": "562d",
+          "context": "κακῶν οἰνοχόων"
+        },
+        {
+          "form": "ἀκράτου",
+          "lemma": "ἄκρατος",
+          "location": "562d",
+          "context": "ἀκράτου αὐτῆς μεθυσθῇ"
+        },
+        {
+          "form": "μεθυσθῇ",
+          "lemma": "μεθύσκω",
+          "location": "562d",
+          "context": null
+        }
+      ],
+      "observation": "A drinking/intoxication cluster: the city thirsts for freedom, is served by bad wine-pourers, and gets drunk on unmixed freedom."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "sequence_configuration",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὅμοιον",
+          "lemma": "ὅμοιος",
+          "location": "562e",
+          "context": "πατέρα μὲν ἐθίζεσθαι παιδὶ ὅμοιον γίγνεσθαι"
+        },
+        {
+          "form": "ἐξισοῦσθαι",
+          "lemma": "ἐξισόω",
+          "location": "563a",
+          "context": "μέτοικον δὲ ἀστῷ καὶ ἀστὸν μετοίκῳ ἐξισοῦσθαι"
+        },
+        {
+          "form": "ὁμοίους",
+          "lemma": "ὅμοιος",
+          "location": "562d",
+          "context": "ἄρχοντας μὲν ἀρχομένοις, ἀρχομένους δὲ ἄρχουσιν ὁμοίους"
+        },
+        {
+          "form": "ἰσονομία",
+          "lemma": "ἰσονομία",
+          "location": "563b",
+          "context": null
+        }
+      ],
+      "observation": "A cascade of leveling: rulers like ruled, father like child, metic like citizen, slave like master, men and women equal — each relationship made ὅμοιος or ἴσος."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "562d",
+          "context": "τοὺς δὲ ἄρχοντας μὲν ἀρχομένοις"
+        },
+        {
+          "form": "ἀρχομένοις",
+          "lemma": "ἄρχω",
+          "location": "562d",
+          "context": null
+        },
+        {
+          "form": "ἀρχομένους",
+          "lemma": "ἄρχω",
+          "location": "562d",
+          "context": "ἀρχομένους δὲ ἄρχουσιν ὁμοίους"
+        },
+        {
+          "form": "ἄρχουσιν",
+          "lemma": "ἄρχω",
+          "location": "562d",
+          "context": null
+        },
+        {
+          "form": "ἀναρχίαν",
+          "lemma": "ἀναρχία",
+          "location": "562e",
+          "context": "τὴν ἀναρχίαν ἐμφυομένην"
+        }
+      ],
+      "observation": "Four forms of ἄρχω in a chiastic arrangement (rulers-ruled, ruled-rulers) are followed by ἀναρχία — the negation of rule itself."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προστατούντων",
+          "lemma": "προΐστημι",
+          "location": "562d",
+          "context": "κακῶν οἰνοχόων προστατούντων"
+        },
+        {
+          "form": "προεστὸς",
+          "lemma": "προΐστημι",
+          "location": "564d",
+          "context": "τοῦτό που τὸ προεστὸς αὐτῆς"
+        },
+        {
+          "form": "προεστῶτες",
+          "lemma": "προΐστημι",
+          "location": "565a",
+          "context": "οἱ προεστῶτες"
+        },
+        {
+          "form": "προΐστασθαι",
+          "lemma": "προΐστημι",
+          "location": "565c",
+          "context": "ἕνα τινὰ ἀεὶ δῆμος εἴωθεν διαφερόντως προΐστασθαι"
+        },
+        {
+          "form": "προστάτου",
+          "lemma": "προστάτης",
+          "location": "565d",
+          "context": "ἐκ προστάτου ἐπὶ τύραννον"
+        },
+        {
+          "form": "προστάτης",
+          "lemma": "προστάτης",
+          "location": "565d",
+          "context": "ὁ προστάτης τῷ ἐν τῷ μύθῳ"
+        },
+        {
+          "form": "προστάτης",
+          "lemma": "προστάτης",
+          "location": "566c",
+          "context": "ὁ δὲ δὴ προστάτης ἐκεῖνος"
+        },
+        {
+          "form": "προστατικῆς",
+          "lemma": "προστατικός",
+          "location": "565d",
+          "context": "ἐκ προστατικῆς ῥίζης"
+        }
+      ],
+      "observation": "Forms of προΐστημι/προστάτης recur from the bad wine-pourers through the drone leadership to the single champion of the people who becomes tyrant — the word shifts from general leadership to the specific root of tyranny."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "φύεται",
+          "lemma": "φύω",
+          "location": "563e",
+          "context": "ὅθεν τυραννὶς φύεται"
+        },
+        {
+          "form": "φυόμενον",
+          "lemma": "φύω",
+          "location": "564b",
+          "context": "νόσημα ἐν ὀλιγαρχίᾳ τε φυόμενον"
+        },
+        {
+          "form": "ἐμφύεται",
+          "lemma": "ἐμφύω",
+          "location": "564d",
+          "context": "τὸ τοιοῦτον γένος ἐν αὐτῇ ἐμφύεται"
+        },
+        {
+          "form": "φύηται",
+          "lemma": "φύω",
+          "location": "565d",
+          "context": "ὅτανπερ φύηται τύραννος"
+        },
+        {
+          "form": "ἐκβλαστάνει",
+          "lemma": "ἐκβλαστάνω",
+          "location": "565d",
+          "context": "ἐκ προστατικῆς ῥίζης καὶ οὐκ ἄλλοθεν ἐκβλαστάνει"
+        },
+        {
+          "form": "ῥίζης",
+          "lemma": "ῥίζα",
+          "location": "565d",
+          "context": null
+        },
+        {
+          "form": "φυτοῖς",
+          "lemma": "φυτόν",
+          "location": "564a",
+          "context": "ἐν ὥραις τε καὶ ἐν φυτοῖς"
+        }
+      ],
+      "observation": "A growth/botanical cluster: φύω and compounds recur for tyranny's emergence; ῥίζα and ἐκβλαστάνω make the tyrant sprout from the root of the champion; φυτοῖς appears in the general principle of reversal."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καλλίστη",
+          "lemma": "καλός",
+          "location": "562a",
+          "context": "ἡ καλλίστη δή ... πολιτεία"
+        },
+        {
+          "form": "κάλλιστος",
+          "lemma": "καλός",
+          "location": "562a",
+          "context": "ὁ κάλλιστος ἀνήρ"
+        },
+        {
+          "form": "κάλλιστον",
+          "lemma": "καλός",
+          "location": "562c",
+          "context": "ἔχει τε κάλλιστον"
+        },
+        {
+          "form": "καλή",
+          "lemma": "καλός",
+          "location": "563e",
+          "context": "ἡ ἀρχὴ οὑτωσὶ καλὴ καὶ νεανική"
+        }
+      ],
+      "observation": "καλός appears ironically: tyranny and tyrant are introduced as 'fairest'; freedom is 'fairest' possession; the beginning from which tyranny grows is 'fair and vigorous.'"
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λύκῳ",
+          "lemma": "λύκος",
+          "location": "565e",
+          "context": "ἀνάγκη δὴ τούτῳ λύκῳ γενέσθαι"
+        },
+        {
+          "form": "γευσάμενος",
+          "lemma": "γεύομαι",
+          "location": "565d",
+          "context": "ὁ γευσάμενος τοῦ ἀνθρωπίνου σπλάγχνου"
+        },
+        {
+          "form": "Λυκαίου",
+          "lemma": "Λυκαῖος",
+          "location": "565d",
+          "context": "τοῦ Διὸς τοῦ Λυκαίου ἱερόν"
+        },
+        {
+          "form": "γευόμενος",
+          "lemma": "γεύομαι",
+          "location": "565e",
+          "context": "γλώττῃ τε καὶ στόματι ἀνοσίῳ γευόμενος φόνου συγγενοῦς"
+        },
+        {
+          "form": "λύκῳ",
+          "lemma": "λύκος",
+          "location": "566a",
+          "context": "λύκῳ ἐξ ἀνθρώπου γενέσθαι"
+        }
+      ],
+      "observation": "The Arcadian myth of Zeus Lykaios: tasting human flesh turns a man into a wolf. γευσάμενος in the myth returns as γευόμενος for the protector tasting kindred blood; λύκῳ γενέσθαι frames both the myth and its political application."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεταβάλλει",
+          "lemma": "μεταβάλλω",
+          "location": "562a",
+          "context": "ἐκ δημοκρατίας μεταβάλλει"
+        },
+        {
+          "form": "μεταβολὴν",
+          "lemma": "μεταβολή",
+          "location": "563e",
+          "context": "μεγάλην ... εἰς τοὐναντίον μεταβολὴν ἀνταποδιδόναι"
+        },
+        {
+          "form": "μεταβάλλειν",
+          "lemma": "μεταβάλλω",
+          "location": "564a",
+          "context": "εἰς ἄγαν δουλείαν μεταβάλλειν"
+        },
+        {
+          "form": "μεταβολῆς",
+          "lemma": "μεταβολή",
+          "location": "565d",
+          "context": "τίς ἀρχὴ οὖν μεταβολῆς ἐκ προστάτου ἐπὶ τύραννον"
+        }
+      ],
+      "observation": "μεταβάλλω/μεταβολή recurs for regime change, culminating in the specific question of what begins the transformation from champion to tyrant."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τυραννίς",
+          "lemma": "τυραννίς",
+          "location": "562a",
+          "context": null
+        },
+        {
+          "form": "τύραννος",
+          "lemma": "τύραννος",
+          "location": "562a",
+          "context": null
+        },
+        {
+          "form": "τυραννίδος",
+          "lemma": "τυραννίς",
+          "location": "562a",
+          "context": "τίς τρόπος τυραννίδος"
+        },
+        {
+          "form": "τύραννος",
+          "lemma": "τύραννος",
+          "location": "566d",
+          "context": "τύραννος ἀντὶ προστάτου ἀποτετελεσμένος"
+        }
+      ],
+      "observation": "The section opens asking τίς τρόπος τυραννίδος and closes with the prostates standing in the chariot as τύραννος ἀντὶ προστάτου ἀποτετελεσμένος — the transformation announced at the start is completed at the end."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τριχῇ",
+          "lemma": "τριχῇ",
+          "location": "564c",
+          "context": "τριχῇ διαστησώμεθα τῷ λόγῳ δημοκρατουμένην πόλιν"
+        },
+        {
+          "form": "γένος",
+          "lemma": "γένος",
+          "location": "564d",
+          "context": "ἓν μὲν γάρ που τὸ τοιοῦτον γένος"
+        },
+        {
+          "form": "γένος",
+          "lemma": "γένος",
+          "location": "565a",
+          "context": "δῆμος δʼ ἂν εἴη τρίτον γένος"
+        }
+      ],
+      "observation": "The democratic city is divided into three γένη: drones, wealthy, and dēmos — presented as a tripartite analytical scheme."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "καταδύεσθαι",
+          "lemma": "καταδύομαι",
+          "location": "562e",
+          "context": "καταδύεσθαί γε ... εἴς τε τὰς ἰδίας οἰκίας"
+        },
+        {
+          "form": "ἐμφυομένην",
+          "lemma": "ἐμφύομαι",
+          "location": "562e",
+          "context": "τὴν ἀναρχίαν ἐμφυομένην"
+        }
+      ],
+      "observation": "Anarchy sinks down (καταδύεσθαι) into private houses and implants itself (ἐμφυομένην) — downward and inward spatial movement."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Αἰσχύλον",
+          "lemma": "Αἰσχύλος",
+          "location": "563c",
+          "context": "κατʼ Αἰσχύλον ... ἐροῦμεν ὅτι νῦν ἦλθʼ ἐπὶ στόμα"
+        },
+        {
+          "form": "Κροίσῳ",
+          "lemma": "Κροῖσος",
+          "location": "566c",
+          "context": "κατὰ τὸν Κροίσῳ γενόμενον χρησμόν"
+        },
+        {
+          "form": "Ἕρμον",
+          "lemma": "Ἕρμος",
+          "location": "566c",
+          "context": "πολυψήφιδα παρʼ Ἕρμον"
+        },
+        {
+          "form": "μέγας μεγαλωστί",
+          "lemma": null,
+          "location": "566d",
+          "context": "μέγας μεγαλωστὶ οὐ κεῖται"
+        }
+      ],
+      "observation": "Three external literary references appear: Aeschylus (unspecified), the oracle to Croesus (Herodotus 1.55), and a Homeric phrase (Il. 16.776) applied inversely — the prostates does not lie fallen but stands in the chariot."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κεῖται",
+          "lemma": "κεῖμαι",
+          "location": "566d",
+          "context": "οὐ κεῖται"
+        },
+        {
+          "form": "ἕστηκεν",
+          "lemma": "ἵστημι",
+          "location": "566d",
+          "context": "ἀλλὰ καταβαλὼν ἄλλους πολλοὺς ἕστηκεν ἐν τῷ δίφρῳ"
+        }
+      ],
+      "observation": "The Homeric hero lies fallen; the tyrant-prostates inverts this — he does not lie but stands, having cast down others."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄγαν",
+          "lemma": "ἄγαν",
+          "location": "563e",
+          "context": "τὸ ἄγαν τι ποιεῖν"
+        },
+        {
+          "form": "ἄγαν",
+          "lemma": "ἄγαν",
+          "location": "564a",
+          "context": "ἡ γὰρ ἄγαν ἐλευθερία"
+        },
+        {
+          "form": "ἄγαν",
+          "lemma": "ἄγαν",
+          "location": "564a",
+          "context": "εἰς ἄγαν δουλείαν"
+        },
+        {
+          "form": "ἀκροτάτης",
+          "lemma": "ἄκρος",
+          "location": "564a",
+          "context": "τῆς ἀκροτάτης ἐλευθερίας"
+        }
+      ],
+      "observation": "ἄγαν appears three times in close succession, bracketing the reversal from extreme freedom to extreme slavery; ἀκροτάτης reinforces the superlative excess."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θηρίων",
+          "lemma": "θηρίον",
+          "location": "562e",
+          "context": "μέχρι τῶν θηρίων"
+        },
+        {
+          "form": "θηρίων",
+          "lemma": "θηρίον",
+          "location": "563c",
+          "context": "τὸ μὲν γὰρ τῶν θηρίων"
+        },
+        {
+          "form": "κύνες",
+          "lemma": "κύων",
+          "location": "563c",
+          "context": "αἵ τε κύνες κατὰ τὴν παροιμίαν οἷαίπερ αἱ δέσποιναι"
+        },
+        {
+          "form": "ἵπποι",
+          "lemma": "ἵππος",
+          "location": "563c",
+          "context": null
+        },
+        {
+          "form": "ὄνοι",
+          "lemma": "ὄνος",
+          "location": "563c",
+          "context": null
+        }
+      ],
+      "observation": "Animals appear as the endpoint of democratic leveling: anarchy extends to beasts, and dogs, horses, and donkeys walk freely on the roads, bumping into passersby."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐθελοδούλους",
+          "lemma": "ἐθελόδουλος",
+          "location": "562d",
+          "context": "προπηλακίζει ὡς ἐθελοδούλους τε καὶ οὐδὲν ὄντας"
+        },
+        {
+          "form": "δεσποτικοί",
+          "lemma": "δεσποτικός",
+          "location": "563b",
+          "context": "ἵνα δὴ μὴ δοκῶσιν ... δεσποτικοί"
+        },
+        {
+          "form": "δέσποιναι",
+          "lemma": "δέσποινα",
+          "location": "563c",
+          "context": "αἵ τε κύνες ... οἷαίπερ αἱ δέσποιναι"
+        },
+        {
+          "form": "δεσπότης",
+          "lemma": "δεσπότης",
+          "location": "563e",
+          "context": "μηδαμῇ μηδεὶς αὐτοῖς ᾖ δεσπότης"
+        }
+      ],
+      "observation": "The δεσπότης word-family recurs across contexts: willing slaves are mocked, elders avoid seeming despotic, dogs become like their mistresses, and citizens reject any master."
+    }
+  ]
+}
