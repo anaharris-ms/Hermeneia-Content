@@ -1,0 +1,639 @@
+{
+  "section_id": "republic-chapter-08-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγκαῖαι",
+          "lemma": "ἀναγκαῖος",
+          "location": "558d",
+          "context": "αἳ δὴ οὐκ ἀναγκαῖαι κέκληνται"
+        },
+        {
+          "form": "ἀναγκαίους ἐπιθυμίας",
+          "lemma": "ἀναγκαῖος",
+          "location": "558d",
+          "context": "ὁρισώμεθα τάς τε ἀναγκαίους ἐπιθυμίας καὶ τὰς μή"
+        },
+        {
+          "form": "ἀναγκαῖαι",
+          "lemma": "ἀναγκαῖος",
+          "location": "558e",
+          "context": "δικαίως ἂν ἀναγκαῖαι καλοῖντο"
+        },
+        {
+          "form": "ἀναγκαίους",
+          "lemma": "ἀναγκαῖος",
+          "location": "559a",
+          "context": "μὴ ἀναγκαίους φαῖμεν εἶναι"
+        },
+        {
+          "form": "ἀναγκαίων",
+          "lemma": "ἀναγκαῖος",
+          "location": "559d",
+          "context": "ἀρχόμενον ὑπὸ τῶν μὴ ἀναγκαίων"
+        },
+        {
+          "form": "ἀναγκαίοις",
+          "lemma": "ἀναγκαῖος",
+          "location": "561a",
+          "context": "ἐν ἀναγκαίοις ἐπιθυμίαις τρεφομένου"
+        },
+        {
+          "form": "ἀναγκαίους",
+          "lemma": "ἀναγκαῖος",
+          "location": "561a",
+          "context": "εἰς ἀναγκαίους ἢ μὴ ἀναγκαίους ἡδονάς"
+        }
+      ],
+      "observation": "ἀναγκαῖος recurs densely throughout, consistently paired with its own negation (μὴ ἀναγκαῖος/οὐκ ἀναγκαῖος), structuring the distinction between necessary and unnecessary desires."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "αἰδῶ",
+          "lemma": "αἰδώς",
+          "location": "560d",
+          "context": "τὴν μὲν αἰδῶ ἠλιθιότητα ὀνομάζοντες"
+        },
+        {
+          "form": "σωφροσύνην",
+          "lemma": "σωφροσύνη",
+          "location": "560d",
+          "context": "σωφροσύνην δὲ ἀνανδρίαν καλοῦντες"
+        },
+        {
+          "form": "μετριότητα",
+          "lemma": "μετριότης",
+          "location": "560d",
+          "context": "μετριότητα δὲ καὶ κοσμίαν δαπάνην ὡς ἀγροικίαν καὶ ἀνελευθερίαν"
+        },
+        {
+          "form": "ὕβριν",
+          "lemma": "ὕβρις",
+          "location": "560e",
+          "context": "ὕβριν μὲν εὐπαιδευσίαν καλοῦντες"
+        },
+        {
+          "form": "ἀναρχίαν",
+          "lemma": "ἀναρχία",
+          "location": "560e",
+          "context": "ἀναρχίαν δὲ ἐλευθερίαν"
+        },
+        {
+          "form": "ἀσωτίαν",
+          "lemma": "ἀσωτία",
+          "location": "560e",
+          "context": "ἀσωτίαν δὲ μεγαλοπρέπειαν"
+        },
+        {
+          "form": "ἀναίδειαν",
+          "lemma": "ἀναίδεια",
+          "location": "561a",
+          "context": "ἀναίδειαν δὲ ἀνδρείαν"
+        }
+      ],
+      "observation": "Two parallel series of renamings: virtues (αἰδώς, σωφροσύνη, μετριότης) are renamed as defects and expelled; vices (ὕβρις, ἀναρχία, ἀσωτία, ἀναίδεια) are renamed as virtues and welcomed in. The structure is a systematic inversion through ὀνομάζειν/καλεῖν."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀνομάζοντες",
+          "lemma": "ὀνομάζω",
+          "location": "560d",
+          "context": "αἰδῶ ἠλιθιότητα ὀνομάζοντες"
+        },
+        {
+          "form": "καλοῦντες",
+          "lemma": "καλέω",
+          "location": "560e",
+          "context": "σωφροσύνην δὲ ἀνανδρίαν καλοῦντες"
+        },
+        {
+          "form": "καλοῦντες",
+          "lemma": "καλέω",
+          "location": "560e",
+          "context": "ὕβριν μὲν εὐπαιδευσίαν καλοῦντες"
+        },
+        {
+          "form": "καλοῖντο",
+          "lemma": "καλέω",
+          "location": "558e",
+          "context": "ἀναγκαῖαι καλοῖντο"
+        },
+        {
+          "form": "καλοῖτο",
+          "lemma": "καλέω",
+          "location": "559c",
+          "context": "οὐκ ἀναγκαία ἂν καλοῖτο"
+        },
+        {
+          "form": "καλῶν",
+          "lemma": "καλέω",
+          "location": "561d",
+          "context": "ἡδύν τε δὴ καὶ ἐλευθέριον καὶ μακάριον καλῶν τὸν βίον"
+        }
+      ],
+      "observation": "καλέω and ὀνομάζω recur as acts of naming/calling. The section uses naming itself as an action: defining desires as necessary or not, renaming virtues as vices and vices as virtues, and the democratic man calling his life pleasant and free."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὠθοῦσιν ἔξω",
+          "lemma": null,
+          "location": "560d",
+          "context": "ὠθοῦσιν ἔξω ἀτίμως φυγάδα"
+        },
+        {
+          "form": "ἐκβάλλουσι",
+          "lemma": "ἐκβάλλω",
+          "location": "560d",
+          "context": "προπηλακίζοντες ἐκβάλλουσι"
+        },
+        {
+          "form": "ὑπερορίζουσι",
+          "lemma": "ὑπερορίζω",
+          "location": "560d",
+          "context": "πείθοντες ὑπερορίζουσι"
+        },
+        {
+          "form": "κατάγουσιν",
+          "lemma": "κατάγω",
+          "location": "560e",
+          "context": "λαμπρὰς μετὰ πολλοῦ χοροῦ κατάγουσιν ἐστεφανωμένας"
+        }
+      ],
+      "observation": "A cluster of expulsion verbs (ὠθέω ἔξω, ἐκβάλλω, ὑπερορίζω) for virtues, followed by κατάγω for the processional entry of vices—directional movement outward and then inward."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀκρόπολιν",
+          "lemma": "ἀκρόπολις",
+          "location": "560b",
+          "context": "κατέλαβον τὴν τοῦ νέου τῆς ψυχῆς ἀκρόπολιν"
+        },
+        {
+          "form": "φρουροί",
+          "lemma": "φρουρός",
+          "location": "560b",
+          "context": "ἄριστοι φρουροί τε καὶ φύλακες"
+        },
+        {
+          "form": "φύλακες",
+          "lemma": "φύλαξ",
+          "location": "560b",
+          "context": null
+        },
+        {
+          "form": "τείχους",
+          "lemma": "τεῖχος",
+          "location": "560c",
+          "context": "τὰς τοῦ βασιλικοῦ τείχους ἐν αὐτῷ πύλας"
+        },
+        {
+          "form": "πύλας",
+          "lemma": "πύλη",
+          "location": "560c",
+          "context": null
+        },
+        {
+          "form": "φρούριον",
+          "lemma": "φρούριον",
+          "location": "561b",
+          "context": "παριεὶς εἰς τὸ φρούριον"
+        },
+        {
+          "form": "συμμαχίαν",
+          "lemma": "συμμαχία",
+          "location": "560c",
+          "context": "οὔτε αὐτὴν τὴν συμμαχίαν παριᾶσιν"
+        },
+        {
+          "form": "πρέσβεις",
+          "lemma": "πρεσβευτής",
+          "location": "560c",
+          "context": "οὔτε πρέσβεις πρεσβυτέρων λόγους"
+        }
+      ],
+      "observation": "The soul is described through a dense cluster of fortification and military vocabulary: acropolis, guards, walls, gates, garrison-fort, alliance, ambassadors. This military-spatial language maps the city analogy onto the individual soul."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συμμαχίας",
+          "lemma": "συμμαχία",
+          "location": "559e",
+          "context": "βοηθησάσης τῷ ἑτέρῳ μέρει συμμαχίας ἔξωθεν"
+        },
+        {
+          "form": "ἀντιβοηθήσῃ",
+          "lemma": "ἀντιβοηθέω",
+          "location": "559e",
+          "context": "ἀντιβοηθήσῃ τις τῷ ἐν ἑαυτῷ ὀλιγαρχικῷ συμμαχία"
+        },
+        {
+          "form": "βοήθεια",
+          "lemma": "βοήθεια",
+          "location": "560c",
+          "context": "παρʼ οἰκείων τις βοήθεια τῷ φειδωλῷ αὐτοῦ τῆς ψυχῆς"
+        }
+      ],
+      "observation": "βοήθεια/συμμαχία recurs three times: first as external alliance aiding democratic desires, then as counter-aid to the oligarchic element, then as help from relatives to the thrifty part—each time the aided party and source shift."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξέπεσον",
+          "lemma": "ἐκπίπτω",
+          "location": "560a",
+          "context": "αἱ δὲ καὶ ἐξέπεσον"
+        },
+        {
+          "form": "ἐκπεσουσῶν",
+          "lemma": "ἐκπίπτω",
+          "location": "560a",
+          "context": "τῶν ἐκπεσουσῶν ἐπιθυμιῶν"
+        },
+        {
+          "form": "ἐκπεσόντων",
+          "lemma": "ἐκπίπτω",
+          "location": "561b",
+          "context": "μέρη τε καταδέξηται τῶν ἐκπεσόντων"
+        }
+      ],
+      "observation": "ἐκπίπτω recurs: desires fall out, then the fallen desires are named again as returning—the expelled may be readmitted (καταδέξηται τῶν ἐκπεσόντων)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐστεφανωμένας",
+          "lemma": "στεφανόω",
+          "location": "560e",
+          "context": "κατάγουσιν ἐστεφανωμένας"
+        },
+        {
+          "form": "χοροῦ",
+          "lemma": "χορός",
+          "location": "560e",
+          "context": "μετὰ πολλοῦ χοροῦ"
+        },
+        {
+          "form": "ἐγκωμιάζοντες",
+          "lemma": "ἐγκωμιάζω",
+          "location": "560e",
+          "context": null
+        },
+        {
+          "form": "ὑποκοριζόμενοι",
+          "lemma": "ὑποκορίζομαι",
+          "location": "560e",
+          "context": null
+        },
+        {
+          "form": "τελουμένου",
+          "lemma": "τελέω",
+          "location": "560e",
+          "context": "κατεχομένου τε ὑπʼ αὐτῶν καὶ τελουμένου"
+        },
+        {
+          "form": "τέλεσι",
+          "lemma": "τέλος",
+          "location": "560e",
+          "context": "μεγάλοισι τέλεσι"
+        }
+      ],
+      "observation": "The entry of vices is described through ritual/ceremonial language: crowning, chorus, praise-singing, euphemism, initiation (τελούμενος with μεγάλοισι τέλεσι)—a processional and initiatory scene."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μεθύων καὶ καταυλούμενος",
+          "lemma": null,
+          "location": "561c",
+          "context": null
+        },
+        {
+          "form": "ὑδροποτῶν καὶ κατισχναινόμενος",
+          "lemma": null,
+          "location": "561c",
+          "context": null
+        },
+        {
+          "form": "γυμναζόμενος",
+          "lemma": "γυμνάζω",
+          "location": "561d",
+          "context": null
+        },
+        {
+          "form": "ἀργῶν καὶ πάντων ἀμελῶν",
+          "lemma": null,
+          "location": "561d",
+          "context": null
+        },
+        {
+          "form": "ἐν φιλοσοφίᾳ διατρίβων",
+          "lemma": null,
+          "location": "561d",
+          "context": null
+        },
+        {
+          "form": "πολιτεύεται",
+          "lemma": "πολιτεύω",
+          "location": "561d",
+          "context": null
+        },
+        {
+          "form": "πολεμικούς",
+          "lemma": "πολεμικός",
+          "location": "561d",
+          "context": null
+        },
+        {
+          "form": "χρηματιστικούς",
+          "lemma": "χρηματιστικός",
+          "location": "561d",
+          "context": null
+        }
+      ],
+      "observation": "The democratic man's life is catalogued as a rapid oscillating sequence of opposed activities: drinking/fasting, exercise/idleness, philosophy/politics/war/money-making—each pair or item replacing the last without order."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ἡ πόλις μετέβαλλε",
+          "lemma": null,
+          "location": "559e",
+          "context": null
+        },
+        {
+          "form": "οὕτω καὶ ὁ νεανίας μεταβάλλει",
+          "lemma": null,
+          "location": "559e",
+          "context": null
+        },
+        {
+          "form": "ὥσπερ ἐκείνην τὴν πόλιν, τοῦτον τὸν ἄνδρα",
+          "lemma": null,
+          "location": "561e",
+          "context": null
+        }
+      ],
+      "observation": "Explicit city-man parallel is stated twice: the young man changes as the city changed, and at the end the man is declared to be like that city—framing the section."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κηφῆνα",
+          "lemma": "κηφήν",
+          "location": "559c",
+          "context": "ὃν νυνδὴ κηφῆνα ὠνομάζομεν"
+        },
+        {
+          "form": "κηφήνων μέλιτος",
+          "lemma": "κηφήν",
+          "location": "559d",
+          "context": "γεύσηται κηφήνων μέλιτος"
+        }
+      ],
+      "observation": "κηφήν (drone) appears first as a label for the man ruled by unnecessary pleasures, then as a source of honey the young man tastes—the drone shifts from named type to agent offering sweetness."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Λωτοφάγους",
+          "lemma": "Λωτοφάγος",
+          "location": "560c",
+          "context": "εἰς ἐκείνους τοὺς Λωτοφάγους ἐλθὼν φανερῶς κατοικεῖ"
+        }
+      ],
+      "observation": "The Lotus-eaters are named as a destination the young man goes to and openly dwells among—a singular Homeric reference."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐξ ἴσου",
+          "lemma": "ἴσος",
+          "location": "561b",
+          "context": "ἀλλʼ ἐξ ἴσου τρέφων"
+        },
+        {
+          "form": "ἐξ ἴσου",
+          "lemma": "ἴσος",
+          "location": "561c",
+          "context": "ὁμοίας φησὶν ἁπάσας εἶναι καὶ τιμητέας ἐξ ἴσου"
+        },
+        {
+          "form": "εἰς ἴσον",
+          "lemma": "ἴσος",
+          "location": "561b",
+          "context": "εἰς ἴσον δή τι καταστήσας τὰς ἡδονάς"
+        },
+        {
+          "form": "ἰσονομικοῦ",
+          "lemma": "ἰσονομικός",
+          "location": "561e",
+          "context": "βίον ἰσονομικοῦ τινος ἀνδρός"
+        }
+      ],
+      "observation": "ἴσος and its compounds recur: pleasures set into equality, nourished equally, all declared equally honorable, and the man's life summed as ἰσονομικός."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φειδωλοῦ",
+          "lemma": "φειδωλός",
+          "location": "558c",
+          "context": "τοῦ φειδωλοῦ ἐκείνου καὶ ὀλιγαρχικοῦ"
+        },
+        {
+          "form": "χρηματιστικαί",
+          "lemma": "χρηματιστικός",
+          "location": "558d",
+          "context": "χρηματιστικαὶ δὲ μή"
+        },
+        {
+          "form": "ἀναλωτικαί",
+          "lemma": "ἀναλωτικός",
+          "location": "558d",
+          "context": "ὅσαι ἀναλωτικαὶ μέν"
+        },
+        {
+          "form": "χρηματιστικάς",
+          "lemma": "χρηματιστικός",
+          "location": "559c",
+          "context": "ἐκείνας δὲ χρηματιστικὰς διὰ τὸ χρησίμους πρὸς τὰ ἔργα"
+        },
+        {
+          "form": "ἀναλωτικάς",
+          "lemma": "ἀναλωτικός",
+          "location": "559c",
+          "context": "ἀναλωτικὰς φῶμεν εἶναι ταύτας"
+        },
+        {
+          "form": "ἀναλίσκων",
+          "lemma": "ἀναλίσκω",
+          "location": "561a",
+          "context": "ἀναλίσκων καὶ χρήματα καὶ πόνους"
+        }
+      ],
+      "observation": "A spending/earning lexical cluster: φειδωλός, χρηματιστικός, ἀναλωτικός recur in defining the oligarchic character and the classification of desires; ἀναλίσκω then describes the democratic man's expenditure."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἡδύν",
+          "lemma": "ἡδύς",
+          "location": "561d",
+          "context": null
+        },
+        {
+          "form": "ἐλευθέριον",
+          "lemma": "ἐλευθέριος",
+          "location": "561d",
+          "context": null
+        },
+        {
+          "form": "μακάριον",
+          "lemma": "μακάριος",
+          "location": "561d",
+          "context": "ἡδύν τε δὴ καὶ ἐλευθέριον καὶ μακάριον καλῶν τὸν βίον"
+        }
+      ],
+      "observation": "Three accusative adjectives in parallel describe how the democratic man names his own life: pleasant, free, blessed—a tricolon of self-applied praise."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παραδείγματα",
+          "lemma": "παράδειγμα",
+          "location": "561e",
+          "context": "παραδείγματα πολιτειῶν τε καὶ τρόπων πλεῖστα ἐν αὐτῷ ἔχοντα"
+        },
+        {
+          "form": "παράδειγμα",
+          "lemma": "παράδειγμα",
+          "location": "559a",
+          "context": "προελώμεθα δή τι παράδειγμα ἑκατέρων"
+        }
+      ],
+      "observation": "παράδειγμα appears first when Socrates proposes an example of each type of desire, and returns at the close where the democratic man himself contains the most examples of constitutions and ways of life."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σίτου",
+          "lemma": "σῖτος",
+          "location": "559b",
+          "context": "αὐτοῦ σίτου τε καὶ ὄψου"
+        },
+        {
+          "form": "ὄψου",
+          "lemma": "ὄψον",
+          "location": "559b",
+          "context": null
+        },
+        {
+          "form": "ἐδεσμάτων",
+          "lemma": "ἔδεσμα",
+          "location": "559b",
+          "context": "ἀλλοίων ἐδεσμάτων"
+        },
+        {
+          "form": "φαγεῖν",
+          "lemma": "ἐσθίω",
+          "location": "559a",
+          "context": "ἡ τοῦ φαγεῖν μέχρι ὑγιείας"
+        },
+        {
+          "form": "γεύσηται",
+          "lemma": "γεύω",
+          "location": "559d",
+          "context": "γεύσηται κηφήνων μέλιτος"
+        },
+        {
+          "form": "μέλιτος",
+          "lemma": "μέλι",
+          "location": "559d",
+          "context": null
+        }
+      ],
+      "observation": "Food and eating form the concrete example of necessary vs. unnecessary desire (bread, relish, delicacies), then γεύσηται κηφήνων μέλιτος transfers the tasting image to the young man's encounter with drone-pleasures."
+    }
+  ]
+}
