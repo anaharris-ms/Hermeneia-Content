@@ -1,0 +1,575 @@
+{
+  "section_id": "republic-chapter-08-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θρέψεται",
+          "lemma": "τρέφω",
+          "location": "568d",
+          "context": "πόθεν θρέψεται"
+        },
+        {
+          "form": "θρέψεται",
+          "lemma": "τρέφω",
+          "location": "568e",
+          "context": "ἐκ τῶν πατρῴων θρέψεται"
+        },
+        {
+          "form": "θρέψει",
+          "lemma": "τρέφω",
+          "location": "568e",
+          "context": "ὁ δῆμος ὁ γεννήσας τὸν τύραννον θρέψει"
+        },
+        {
+          "form": "τρέφεσθαι",
+          "lemma": "τρέφω",
+          "location": "568e",
+          "context": "οὔτε δίκαιον τρέφεσθαι ὑπὸ πατρὸς ὑὸν ἡβῶντα"
+        },
+        {
+          "form": "τρέφοι",
+          "lemma": "τρέφω",
+          "location": "569a",
+          "context": "δουλεύων τοῖς αὑτοῦ δούλοις τρέφοι ἐκεῖνόν"
+        }
+      ],
+      "observation": "Forms of τρέφω recur densely as the question of who feeds the tyrant and his retinue passes through several formulations, culminating in the father-son reversal."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γεννήσας",
+          "lemma": "γεννάω",
+          "location": "568e",
+          "context": "ὁ δῆμος ὁ γεννήσας τὸν τύραννον"
+        },
+        {
+          "form": "ἐγέννησέν",
+          "lemma": "γεννάω",
+          "location": "569a",
+          "context": "τούτου αὐτὸν ἕνεκα ἐγέννησέν τε καὶ κατέστησεν"
+        },
+        {
+          "form": "γεννῶν",
+          "lemma": "γεννάω",
+          "location": "569b",
+          "context": "οἷον θρέμμα γεννῶν ἠσπάζετό τε καὶ ηὖξεν"
+        }
+      ],
+      "observation": "Forms of γεννάω recur three times, each time with the δῆμος as the one who begot the tyrant."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὑπὸ πατρὸς ὑὸν",
+          "lemma": null,
+          "location": "568e",
+          "context": "τρέφεσθαι ὑπὸ πατρὸς ὑὸν ἡβῶντα"
+        },
+        {
+          "form": "ὑπὸ ὑέος πατέρα",
+          "lemma": null,
+          "location": "568e",
+          "context": "τοὐναντίον ὑπὸ ὑέος πατέρα"
+        }
+      ],
+      "observation": "The father-son feeding relation is stated and then syntactically reversed: ὑπὸ πατρὸς ὑόν is answered by ὑπὸ ὑέος πατέρα."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δούλους",
+          "lemma": "δοῦλος",
+          "location": "567e",
+          "context": "τοὺς δούλους ἀφελόμενος τοὺς πολίτας, ἐλευθερώσας"
+        },
+        {
+          "form": "δούλοις",
+          "lemma": "δοῦλος",
+          "location": "569a",
+          "context": "δουλεύων τοῖς αὑτοῦ δούλοις"
+        },
+        {
+          "form": "δουλείας",
+          "lemma": "δουλεία",
+          "location": "569c",
+          "context": "φεύγων ἂν καπνὸν δουλείας ἐλευθέρων"
+        },
+        {
+          "form": "δούλων",
+          "lemma": "δοῦλος",
+          "location": "569c",
+          "context": "εἰς πῦρ δούλων δεσποτείας"
+        },
+        {
+          "form": "δούλων δουλείαν",
+          "lemma": null,
+          "location": "569c",
+          "context": "τὴν χαλεπωτάτην τε καὶ πικροτάτην δούλων δουλείαν"
+        }
+      ],
+      "observation": "δοῦλος/δουλεία recur across the section: slaves are first freed to become bodyguards, then the demos itself is described as enslaved, culminating in δούλων δουλείαν."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐλευθερώσας",
+          "lemma": "ἐλευθερόω",
+          "location": "567e",
+          "context": "τοὺς δούλους ἀφελόμενος τοὺς πολίτας, ἐλευθερώσας"
+        },
+        {
+          "form": "ἐλευθερωθείη",
+          "lemma": "ἐλευθερόω",
+          "location": "569a",
+          "context": "ἀπὸ τῶν πλουσίων … ἐλευθερωθείη"
+        },
+        {
+          "form": "ἐλευθέρων",
+          "lemma": "ἐλεύθερος",
+          "location": "569c",
+          "context": "καπνὸν δουλείας ἐλευθέρων"
+        },
+        {
+          "form": "ἐλευθερίας",
+          "lemma": "ἐλευθερία",
+          "location": "569c",
+          "context": "τῆς πολλῆς ἐκείνης καὶ ἀκαίρου ἐλευθερίας"
+        }
+      ],
+      "observation": "Freedom language recurs in shifting contexts: the tyrant frees slaves, the demos hoped to be freed, but its ἐλευθερία proves ἄκαιρος and yields to δουλεία."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "566e",
+          "context": null
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "567a",
+          "context": "τυράννῳ ἀεὶ ἀνάγκη πόλεμον ταράττειν"
+        },
+        {
+          "form": "ἀναγκάζωνται",
+          "lemma": "ἀναγκάζω",
+          "location": "567a",
+          "context": "πένητες γιγνόμενοι … ἀναγκάζωνται"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "567c",
+          "context": "ἀνάγκη αὐτῷ … πολεμίῳ εἶναι"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "567c",
+          "context": "αὐτῷ … ἀνάγκη, εἴπερ ἄρξει"
+        },
+        {
+          "form": "ἀνάγκῃ δέδεται",
+          "lemma": "ἀνάγκη",
+          "location": "567d",
+          "context": "ἐν μακαρίᾳ ἄρα … ἀνάγκῃ δέδεται"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "568e",
+          "context": "πολλὴ αὐτῷ … ἀνάγκη"
+        },
+        {
+          "form": "ἀναγκάζων",
+          "lemma": "ἀναγκάζω",
+          "location": "568d",
+          "context": "ἐλάττους εἰσφορὰς ἀναγκάζων τὸν δῆμον"
+        }
+      ],
+      "observation": "ἀνάγκη/ἀναγκάζω recurs throughout the section, applied to the tyrant's compulsions and the compulsions he imposes on citizens."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "καθήρῃ",
+          "lemma": "καθαίρω",
+          "location": "567c",
+          "context": "ἕως ἂν καθήρῃ τὴν πόλιν"
+        },
+        {
+          "form": "καθαρμόν",
+          "lemma": "καθαρμός",
+          "location": "567c",
+          "context": "καλόν γε … καθαρμόν"
+        }
+      ],
+      "observation": "Adeimantus echoes καθήρῃ with καθαρμόν, calling the tyrant's purge a καθαρμός; Socrates immediately marks it as the inverse of medical purging."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὸ χείριστον ἀφαιροῦντες",
+          "lemma": null,
+          "location": "567c",
+          "context": "οἱ μὲν γὰρ τὸ χείριστον ἀφαιροῦντες λείπουσι τὸ βέλτιστον"
+        },
+        {
+          "form": "τοὐναντίον",
+          "lemma": "ἐναντίος",
+          "location": "567c",
+          "context": "ὁ δὲ τοὐναντίον"
+        }
+      ],
+      "observation": "The medical analogy sets up an explicit contrast: doctors remove the worst and leave the best; the tyrant does τοὐναντίον."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lexical_family",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαιμονίαν",
+          "lemma": "εὐδαιμονία",
+          "location": "566d",
+          "context": "διέλθωμεν δὴ τὴν εὐδαιμονίαν"
+        },
+        {
+          "form": "εὐδαίμων",
+          "lemma": "εὐδαίμων",
+          "location": "567c",
+          "context": "οὕτως εὐδαίμων ἐστίν"
+        },
+        {
+          "form": "μακαρίᾳ",
+          "lemma": "μακάριος",
+          "location": "567d",
+          "context": "ἐν μακαρίᾳ ἄρα … ἀνάγκῃ δέδεται"
+        },
+        {
+          "form": "μακάριον",
+          "lemma": "μακάριος",
+          "location": "567e",
+          "context": "ἦ μακάριον … λέγεις τυράννου χρῆμα"
+        }
+      ],
+      "observation": "The section opens proposing to survey the tyrant's εὐδαιμονία; εὐδαίμων then appears ironically, and μακάριος twice in ironic exclamations about the tyrant's blessed necessity and blessed condition."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πολέμους",
+          "lemma": "πόλεμος",
+          "location": "566e",
+          "context": "πολέμους τινὰς ἀεὶ κινεῖ"
+        },
+        {
+          "form": "πολεμίοις",
+          "lemma": "πολέμιος",
+          "location": "567a",
+          "context": "ἐνδοὺς τοῖς πολεμίοις"
+        },
+        {
+          "form": "πόλεμον ταράττειν",
+          "lemma": "πόλεμος",
+          "location": "567a",
+          "context": "τυράννῳ ἀεὶ ἀνάγκη πόλεμον ταράττειν"
+        },
+        {
+          "form": "πολεμίῳ",
+          "lemma": "πολέμιος",
+          "location": "567c",
+          "context": "ἀνάγκη αὐτῷ … πολεμίῳ εἶναι"
+        }
+      ],
+      "observation": "πόλεμος/πολέμιος recurs: the tyrant stirs wars externally, hands suspects to enemies, and must himself be πολέμιος to all who have merit."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἑταῖροι",
+          "lemma": "ἑταῖρος",
+          "location": "568a",
+          "context": "οὗτοι οἱ ἑταῖροι αὐτόν"
+        },
+        {
+          "form": "ἑταῖροι καὶ ἑταῖραι",
+          "lemma": "ἑταῖρος",
+          "location": "568e",
+          "context": "οἱ συμπόται τε καὶ ἑταῖροι καὶ ἑταῖραι"
+        },
+        {
+          "form": "ἑταίρους",
+          "lemma": "ἑταῖρος",
+          "location": "568e",
+          "context": "θρέψει αὐτόν τε καὶ ἑταίρους"
+        },
+        {
+          "form": "ἑταίρους",
+          "lemma": "ἑταῖρος",
+          "location": "569a",
+          "context": "ἀπιέναι … αὐτόν τε καὶ τοὺς ἑταίρους"
+        }
+      ],
+      "observation": "ἑταῖρος recurs as the tyrant's companions who must be fed, admire him, and whom the demos eventually wants to expel."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "προσγελᾷ",
+          "lemma": "προσγελάω",
+          "location": "566d",
+          "context": "προσγελᾷ τε καὶ ἀσπάζεται πάντας"
+        },
+        {
+          "form": "ἀσπάζεται",
+          "lemma": "ἀσπάζομαι",
+          "location": "566d",
+          "context": null
+        },
+        {
+          "form": "ἵλεώς τε καὶ πρᾷος",
+          "lemma": null,
+          "location": "566e",
+          "context": "πᾶσιν ἵλεώς τε καὶ πρᾷος εἶναι προσποιεῖται"
+        },
+        {
+          "form": "ἠσπάζετό",
+          "lemma": "ἀσπάζομαι",
+          "location": "569b",
+          "context": "θρέμμα γεννῶν ἠσπάζετό τε καὶ ηὖξεν"
+        }
+      ],
+      "observation": "ἀσπάζομαι appears early for the tyrant's greeting of everyone and returns at the end for the demos' welcoming of the creature it begot."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καπνὸν δουλείας ἐλευθέρων",
+          "lemma": null,
+          "location": "569c",
+          "context": "φεύγων ἂν καπνὸν δουλείας ἐλευθέρων"
+        },
+        {
+          "form": "εἰς πῦρ δούλων δεσποτείας",
+          "lemma": null,
+          "location": "569c",
+          "context": null
+        }
+      ],
+      "observation": "The proverbial image contrasts smoke and fire: fleeing the smoke of slavery under free men into the fire of despotism under slaves."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πατραλοίαν",
+          "lemma": "πατραλοίας",
+          "location": "569b",
+          "context": "πατραλοίαν … λέγεις τύραννον"
+        },
+        {
+          "form": "γηροτρόφον",
+          "lemma": "γηροτρόφος",
+          "location": "569b",
+          "context": "χαλεπὸν γηροτρόφον"
+        }
+      ],
+      "observation": "The tyrant is named πατραλοίας and χαλεπὸς γηροτρόφος in immediate conjunction, compressing the father-beating and the inversion of filial care into two adjacent terms."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σοφὸν",
+          "lemma": "σοφός",
+          "location": "568a",
+          "context": "ἥ τε τραγῳδία ὅλως σοφὸν δοκεῖ εἶναι"
+        },
+        {
+          "form": "σοφοὶ τύραννοί",
+          "lemma": "σοφός",
+          "location": "568b",
+          "context": "σοφοὶ τύραννοί εἰσι τῶν σοφῶν συνουσίᾳ"
+        },
+        {
+          "form": "τοὺς σοφούς",
+          "lemma": "σοφός",
+          "location": "568b",
+          "context": null
+        },
+        {
+          "form": "σοφοὶ ὄντες",
+          "lemma": "σοφός",
+          "location": "568b",
+          "context": "ἅτε σοφοὶ ὄντες οἱ τῆς τραγῳδίας ποιηταί"
+        }
+      ],
+      "observation": "σοφός clusters densely in the digression on tragedy and Euripides, applied ironically to tragedy, tyrants, their companions, and the poets themselves."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνωτέρω",
+          "lemma": "ἀνωτέρω",
+          "location": "568c",
+          "context": "ὅσῳ δʼ ἂν ἀνωτέρω ἴωσιν"
+        },
+        {
+          "form": "τὸ ἄναντες",
+          "lemma": "ἄναντες",
+          "location": "568d",
+          "context": "πρὸς τὸ ἄναντες τῶν πολιτειῶν"
+        },
+        {
+          "form": "ὑπὸ ἄσθματος ἀδυνατοῦσα πορεύεσθαι",
+          "lemma": null,
+          "location": "568d",
+          "context": null
+        }
+      ],
+      "observation": "The poets' honor is described via upward spatial movement: going ἀνωτέρω toward τὸ ἄναντες of the constitutions, where τιμή gives out as if breathless from the ascent."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κηφῆνας",
+          "lemma": "κηφήν",
+          "location": "567d",
+          "context": "κηφῆνας … νὴ τὸν κύνα"
+        },
+        {
+          "form": "πετόμενοι",
+          "lemma": "πέτομαι",
+          "location": "567d",
+          "context": "αὐτόματοι … πολλοὶ ἥξουσι πετόμενοι"
+        },
+        {
+          "form": "θρέμμα",
+          "lemma": "θρέμμα",
+          "location": "569b",
+          "context": "οἷον θρέμμα γεννῶν"
+        }
+      ],
+      "observation": "The tyrant's supporters are described as drones flying in (πετόμενοι, κηφῆνας), and the tyrant himself is called a θρέμμα the demos begot and nurtured."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐξέβημεν",
+          "lemma": "ἐκβαίνω",
+          "location": "568d",
+          "context": "ἐνταῦθα μὲν ἐξέβημεν"
+        },
+        {
+          "form": "μεταβαίνει",
+          "lemma": "μεταβαίνω",
+          "location": "569c",
+          "context": "ὡς μεταβαίνει τυραννὶς ἐκ δημοκρατίας"
+        }
+      ],
+      "observation": "ἐξέβημεν marks a self-conscious digression (we stepped aside), and μεταβαίνει closes the section describing the transition of tyranny from democracy—both compounds of βαίνω framing the section's end."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "διέλθωμεν",
+          "lemma": "διέρχομαι",
+          "location": "566d",
+          "context": "διέλθωμεν δὴ τὴν εὐδαιμονίαν"
+        },
+        {
+          "form": "διεληλυθέναι",
+          "lemma": "διέρχομαι",
+          "location": "569c",
+          "context": "ἱκανῶς διεληλυθέναι"
+        }
+      ],
+      "observation": "The section opens with the hortatory subjunctive διέλθωμεν proposing to go through the tyrant's happiness, and closes with διεληλυθέναι marking the task as completed."
+    }
+  ]
+}
