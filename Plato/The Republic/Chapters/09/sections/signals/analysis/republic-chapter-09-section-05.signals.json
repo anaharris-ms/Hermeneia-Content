@@ -1,0 +1,640 @@
+{
+  "section_id": "republic-chapter-09-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τυραννουμένην",
+          "lemma": "τυραννεύω",
+          "location": "576c",
+          "context": "κατὰ τὴν τυραννουμένην πόλιν"
+        },
+        {
+          "form": "τυραννουμένη",
+          "lemma": "τυραννεύω",
+          "location": "576d",
+          "context": "τυραννουμένη πόλις πρὸς βασιλευομένην"
+        },
+        {
+          "form": "τυραννουμένης",
+          "lemma": "τυραννεύω",
+          "location": "576e",
+          "context": "τυραννουμένης μὲν οὐκ ἔστιν ἀθλιωτέρα"
+        },
+        {
+          "form": "τυραννουμένην",
+          "lemma": "τυραννεύω",
+          "location": "577c",
+          "context": "δούλην τὴν τυραννουμένην ἐρεῖς"
+        },
+        {
+          "form": "τυραννουμένη",
+          "lemma": "τυραννεύω",
+          "location": "577d",
+          "context": "δούλη καὶ τυραννουμένη πόλις"
+        },
+        {
+          "form": "τυραννουμένη",
+          "lemma": "τυραννεύω",
+          "location": "577e",
+          "context": "τυραννουμένη ἄρα ψυχὴ"
+        },
+        {
+          "form": "τυραννουμένην",
+          "lemma": "τυραννεύω",
+          "location": "577e",
+          "context": "τυραννουμένην πόλιν"
+        },
+        {
+          "form": "τυραννικῷ",
+          "lemma": "τυραννικός",
+          "location": "578a",
+          "context": "τούτῳ τῷ τυραννικῷ"
+        }
+      ],
+      "observation": "Forms of τυραννεύω and τυραννικός recur densely throughout, applied alternately to πόλις and ψυχή/ἀνήρ in a sustained parallel transfer."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀθλιώτατος",
+          "lemma": "ἄθλιος",
+          "location": "576c",
+          "context": null
+        },
+        {
+          "form": "ἀθλιωτέρα",
+          "lemma": "ἄθλιος",
+          "location": "576e",
+          "context": "τυραννουμένης μὲν οὐκ ἔστιν ἀθλιωτέρα"
+        },
+        {
+          "form": "ἀθλιότητος",
+          "lemma": "ἀθλιότης",
+          "location": "576d",
+          "context": "εὐδαιμονίας τε αὖ καὶ ἀθλιότητος"
+        },
+        {
+          "form": "ἀθλιότητος",
+          "lemma": "ἀθλιότης",
+          "location": "577b",
+          "context": "πῶς ἔχει εὐδαιμονίας καὶ ἀθλιότητος"
+        },
+        {
+          "form": "ἀθλίως",
+          "lemma": "ἀθλίως",
+          "location": "577c",
+          "context": "ἀτίμως τε καὶ ἀθλίως δοῦλον"
+        },
+        {
+          "form": "ἀθλιωτάτην",
+          "lemma": "ἄθλιος",
+          "location": "578b",
+          "context": "τὴν πόλιν τῶν πόλεων ἀθλιωτάτην"
+        },
+        {
+          "form": "ἀθλιώτατον",
+          "lemma": "ἄθλιος",
+          "location": "578b",
+          "context": "μακρῷ ἀθλιώτατον εἶναι τῶν ἄλλων"
+        }
+      ],
+      "observation": "The ἄθλιος word family recurs across the section, applied to city and man, intensifying from comparative to superlative."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δούλην",
+          "lemma": "δοῦλος",
+          "location": "577c",
+          "context": "ἐλευθέραν ἢ δούλην τὴν τυραννουμένην"
+        },
+        {
+          "form": "ἐλευθέραν",
+          "lemma": "ἐλεύθερος",
+          "location": "577c",
+          "context": null
+        },
+        {
+          "form": "δεσπότας",
+          "lemma": "δεσπότης",
+          "location": "577c",
+          "context": "ὁρᾷς γε ἐν αὐτῇ δεσπότας καὶ ἐλευθέρους"
+        },
+        {
+          "form": "ἐλευθέρους",
+          "lemma": "ἐλεύθερος",
+          "location": "577c",
+          "context": null
+        },
+        {
+          "form": "δοῦλον",
+          "lemma": "δοῦλος",
+          "location": "577c",
+          "context": "τὸ ἐπιεικέστατον ἀτίμως τε καὶ ἀθλίως δοῦλον"
+        },
+        {
+          "form": "δουλείας",
+          "lemma": "δουλεία",
+          "location": "577d",
+          "context": "πολλῆς μὲν δουλείας τε καὶ ἀνελευθερίας"
+        },
+        {
+          "form": "ἀνελευθερίας",
+          "lemma": "ἀνελευθερία",
+          "location": "577d",
+          "context": null
+        },
+        {
+          "form": "δουλεύειν",
+          "lemma": "δουλεύω",
+          "location": "577d",
+          "context": "τὰ μέρη δουλεύειν"
+        },
+        {
+          "form": "δεσπόζειν",
+          "lemma": "δεσπόζω",
+          "location": "577d",
+          "context": "τὸ μοχθηρότατον καὶ μανικώτατον δεσπόζειν"
+        },
+        {
+          "form": "δούλην",
+          "lemma": "δοῦλος",
+          "location": "577d",
+          "context": "δούλην ἢ ἐλευθέραν τὴν τοιαύτην ψυχήν"
+        },
+        {
+          "form": "δούλη",
+          "lemma": "δοῦλος",
+          "location": "577d",
+          "context": "ἥ γε αὖ δούλη καὶ τυραννουμένη πόλις"
+        }
+      ],
+      "observation": "A dense cluster of δοῦλος/δουλεία/δεσπότης/ἐλεύθερος/ἀνελευθερία, with slavery and freedom explicitly contrasted and transferred from city to soul."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "structural_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "πόλιν",
+          "lemma": "πόλις",
+          "location": "576c",
+          "context": "κατὰ τὴν τυραννουμένην πόλιν"
+        },
+        {
+          "form": "ἀνήρ",
+          "lemma": "ἀνήρ",
+          "location": "576c",
+          "context": "τοῦτο καὶ ἀνὴρ πρὸς ἄνδρα"
+        },
+        {
+          "form": "ὁμοιότητα",
+          "lemma": "ὁμοιότης",
+          "location": "577c",
+          "context": "τὴν ὁμοιότητα ἀναμιμνῃσκόμενος τῆς τε πόλεως καὶ τοῦ ἀνδρός"
+        }
+      ],
+      "observation": "The city-man analogy is explicitly named via ὁμοιότης and structurally enacted: each claim about the tyrannized city is followed by a corresponding claim about the tyrannical man/soul."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰσελθόντας",
+          "lemma": "εἰσέρχομαι",
+          "location": "576e",
+          "context": "ὅλην τὴν πόλιν εἰσελθόντας θεάσασθαι"
+        },
+        {
+          "form": "καταδύντες",
+          "lemma": "καταδύνω",
+          "location": "576e",
+          "context": "καταδύντες εἰς ἅπασαν"
+        },
+        {
+          "form": "ἐνδύς",
+          "lemma": "ἐνδύνω",
+          "location": "577a",
+          "context": "εἰς ἀνδρὸς ἦθος ἐνδὺς διιδεῖν"
+        },
+        {
+          "form": "ἔξωθεν",
+          "lemma": "ἔξωθεν",
+          "location": "577a",
+          "context": "καθάπερ παῖς ἔξωθεν ὁρῶν"
+        }
+      ],
+      "observation": "Entering-in and diving-down language (εἰσελθόντας, καταδύντες, ἐνδύς) describes proper investigation of both city and soul, contrasted with seeing from outside (ἔξωθεν)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θεάσασθαι",
+          "lemma": "θεάομαι",
+          "location": "576e",
+          "context": "ὅλην τὴν πόλιν εἰσελθόντας θεάσασθαι"
+        },
+        {
+          "form": "ἰδόντες",
+          "lemma": "ὁράω",
+          "location": "576e",
+          "context": null
+        },
+        {
+          "form": "ὁρῶν",
+          "lemma": "ὁράω",
+          "location": "577a",
+          "context": "παῖς ἔξωθεν ὁρῶν"
+        },
+        {
+          "form": "διορᾷ",
+          "lemma": "διοράω",
+          "location": "577a",
+          "context": "ἱκανῶς διορᾷ"
+        },
+        {
+          "form": "ὁρᾷς",
+          "lemma": "ὁράω",
+          "location": "577c",
+          "context": "ὁρᾷς γε ἐν αὐτῇ δεσπότας"
+        },
+        {
+          "form": "ὀφθείη",
+          "lemma": "ὁράω",
+          "location": "577b",
+          "context": "γυμνὸς ἂν ὀφθείη τῆς τραγικῆς σκευῆς"
+        },
+        {
+          "form": "ἀποβλέψας",
+          "lemma": "ἀποβλέπω",
+          "location": "578b",
+          "context": null
+        },
+        {
+          "form": "ἀποβλέπων",
+          "lemma": "ἀποβλέπω",
+          "location": "578b",
+          "context": null
+        },
+        {
+          "form": "βλέποντες",
+          "lemma": "βλέπω",
+          "location": "576d",
+          "context": "πρὸς τὸν τύραννον ἕνα ὄντα βλέποντες"
+        }
+      ],
+      "observation": "Verbs of seeing cluster throughout: θεάομαι, ὁράω, διοράω, βλέπω, ἀποβλέπω—distinguishing superficial from penetrating observation."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἔξωθεν",
+          "lemma": "ἔξωθεν",
+          "location": "577a",
+          "context": "παῖς ἔξωθεν ὁρῶν"
+        },
+        {
+          "form": "τῆς τραγικῆς σκευῆς",
+          "lemma": null,
+          "location": "577b",
+          "context": "γυμνὸς ἂν ὀφθείη τῆς τραγικῆς σκευῆς"
+        },
+        {
+          "form": "γυμνός",
+          "lemma": "γυμνός",
+          "location": "577b",
+          "context": null
+        },
+        {
+          "form": "προστάσεως",
+          "lemma": "πρόστασις",
+          "location": "577a",
+          "context": "τῆς τῶν τυραννικῶν προστάσεως"
+        },
+        {
+          "form": "σχηματίζονται",
+          "lemma": "σχηματίζω",
+          "location": "577a",
+          "context": "ἣν πρὸς τοὺς ἔξω σχηματίζονται"
+        }
+      ],
+      "observation": "Outward appearance (προστάσεως, σχηματίζονται, τραγικῆς σκευῆς) is contrasted with being stripped bare (γυμνός), distinguishing false display from true condition."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κατʼ οἰκίαν πράξεσιν",
+          "lemma": null,
+          "location": "577a",
+          "context": null
+        },
+        {
+          "form": "οἰκείους",
+          "lemma": "οἰκεῖος",
+          "location": "577a",
+          "context": "πρὸς ἑκάστους τοὺς οἰκείους"
+        },
+        {
+          "form": "δημοσίοις κινδύνοις",
+          "lemma": null,
+          "location": "577b",
+          "context": "ἐν αὖ τοῖς δημοσίοις κινδύνοις"
+        }
+      ],
+      "observation": "The domestic sphere (κατʼ οἰκίαν, οἰκείους) is set beside the public sphere (δημοσίοις κινδύνοις) as two domains in which the tyrant must be observed."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κρίνεις",
+          "lemma": "κρίνω",
+          "location": "576d",
+          "context": null
+        },
+        {
+          "form": "κρῖναι",
+          "lemma": "κρίνω",
+          "location": "577a",
+          "context": "ἀξιῶν κρίνειν περὶ αὐτῶν ἐκεῖνον"
+        },
+        {
+          "form": "κρῖναι",
+          "lemma": "κρίνω",
+          "location": "577b",
+          "context": "τῶν δυνατῶν ἂν κρῖναι"
+        },
+        {
+          "form": "ἔκρινας",
+          "lemma": "κρίνω",
+          "location": "578b",
+          "context": "τὴν πόλιν τῶν πόλεων ἀθλιωτάτην ἔκρινας"
+        }
+      ],
+      "observation": "κρίνω recurs as the act of judging is specified: who is qualified to judge, and the judgment itself is rendered at the section's end."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀρίστη",
+          "lemma": "ἄριστος",
+          "location": "576d",
+          "context": "ἡ μὲν γὰρ ἀρίστη"
+        },
+        {
+          "form": "κακίστη",
+          "lemma": "κακός",
+          "location": "576d",
+          "context": "ἡ δὲ κακίστη"
+        }
+      ],
+      "observation": "Superlative ἀρίστη and κακίστη are set in direct opposition via μέν/δέ to characterize the kingly versus tyrannized city."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὀδυρμούς",
+          "lemma": "ὀδυρμός",
+          "location": "578a",
+          "context": null
+        },
+        {
+          "form": "στεναγμούς",
+          "lemma": "στεναγμός",
+          "location": "578a",
+          "context": null
+        },
+        {
+          "form": "θρήνους",
+          "lemma": "θρῆνος",
+          "location": "578a",
+          "context": null
+        },
+        {
+          "form": "ἀλγηδόνας",
+          "lemma": "ἀλγηδών",
+          "location": "578a",
+          "context": null
+        }
+      ],
+      "observation": "A four-term cluster of suffering (ὀδυρμούς, στεναγμούς, θρήνους, ἀλγηδόνας) accumulates to characterize the tyrannized city."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαιμονίᾳ",
+          "lemma": "εὐδαιμονία",
+          "location": "576c",
+          "context": "ἀρετῇ καὶ εὐδαιμονίᾳ"
+        },
+        {
+          "form": "εὐδαιμονίας",
+          "lemma": "εὐδαιμονία",
+          "location": "576d",
+          "context": "εὐδαιμονίας τε αὖ καὶ ἀθλιότητος"
+        },
+        {
+          "form": "εὐδαιμονεστέρα",
+          "lemma": "εὐδαίμων",
+          "location": "576e",
+          "context": "βασιλευομένης δὲ οὐκ εὐδαιμονεστέρα"
+        },
+        {
+          "form": "εὐδαιμονίας",
+          "lemma": "εὐδαιμονία",
+          "location": "577b",
+          "context": "πῶς ἔχει εὐδαιμονίας καὶ ἀθλιότητος"
+        }
+      ],
+      "observation": "εὐδαιμονία recurs paired each time with its opposite (ἀθλιότης or ἀρετή), maintaining a consistent contrastive frame."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐκπληττώμεθα",
+          "lemma": "ἐκπλήττω",
+          "location": "576d",
+          "context": "μὴ ἐκπληττώμεθα πρὸς τὸν τύραννον ἕνα ὄντα βλέποντες"
+        },
+        {
+          "form": "ἐκπλήττεται",
+          "lemma": "ἐκπλήττω",
+          "location": "577a",
+          "context": "καθάπερ παῖς ἔξωθεν ὁρῶν ἐκπλήττεται"
+        }
+      ],
+      "observation": "ἐκπλήττω appears first as a warning against being dazzled by the tyrant's singularity, then returns describing a child dazzled by outward display—linking the two cautions."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιεικέστατον",
+          "lemma": "ἐπιεικής",
+          "location": "577c",
+          "context": "τὸ ἐπιεικέστατον ἀτίμως τε καὶ ἀθλίως δοῦλον"
+        },
+        {
+          "form": "ἐπιεικέστατα",
+          "lemma": "ἐπιεικής",
+          "location": "577d",
+          "context": "ταῦτα αὐτῆς τὰ μέρη δουλεύειν, ἅπερ ἦν ἐπιεικέστατα"
+        }
+      ],
+      "observation": "ἐπιεικέστατον describes the most decent element first in the city (577c), then the corresponding parts of the soul (577d), both enslaved."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "οἴστρου",
+          "lemma": "οἶστρος",
+          "location": "577e",
+          "context": "ὑπὸ δὲ οἴστρου ἀεὶ ἑλκομένη βίᾳ"
+        },
+        {
+          "form": "μαινομένῳ",
+          "lemma": "μαίνομαι",
+          "location": "578a",
+          "context": "ἐν τῷ μαινομένῳ ὑπὸ ἐπιθυμιῶν τε καὶ ἐρώτων"
+        },
+        {
+          "form": "μανικώτατον",
+          "lemma": "μανικός",
+          "location": "577d",
+          "context": "τὸ μοχθηρότατον καὶ μανικώτατον δεσπόζειν"
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "578a",
+          "context": null
+        },
+        {
+          "form": "ἐρώτων",
+          "lemma": "ἔρως",
+          "location": "578a",
+          "context": null
+        }
+      ],
+      "observation": "Madness and compulsion cluster: οἶστρος, μαίνομαι/μανικός, ἐπιθυμία, ἔρως characterize the tyrannical soul as driven by ungovernable force."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "βούλεται",
+          "lemma": "βούλομαι",
+          "location": "577d",
+          "context": "ἥκιστα ποιεῖ ἃ βούλεται"
+        },
+        {
+          "form": "βουληθῇ",
+          "lemma": "βούλομαι",
+          "location": "577e",
+          "context": "ἥκιστα ποιήσει ἃ ἂν βουληθῇ"
+        }
+      ],
+      "observation": "βούλομαι appears in parallel constructions about city then soul: both do least what they wish, the intended action remaining unfulfilled (ἥκιστα ποιεῖ/ποιήσει)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πλουσίαν",
+          "lemma": "πλούσιος",
+          "location": "577e",
+          "context": "πλουσίαν δὲ ἢ πενομένην"
+        },
+        {
+          "form": "πενομένην",
+          "lemma": "πένομαι",
+          "location": "577e",
+          "context": null
+        },
+        {
+          "form": "πενιχράν",
+          "lemma": "πενιχρός",
+          "location": "578a",
+          "context": "ψυχὴν τυραννικὴν πενιχρὰν καὶ ἄπληστον"
+        },
+        {
+          "form": "ἄπληστον",
+          "lemma": "ἄπληστος",
+          "location": "578a",
+          "context": null
+        }
+      ],
+      "observation": "Rich/poor contrast (πλουσίαν/πενομένην) is posed for the city, then resolved as poverty for both city and soul, with ἄπληστον added for the soul."
+    }
+  ]
+}
