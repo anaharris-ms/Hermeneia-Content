@@ -1,0 +1,139 @@
+{
+  "section_id": "republic-chapter-05-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "s001 narrates Polemarchus physically grasping Adeimantus' cloak and drawing him close; s004 records λαβόμενος τοῦ ἱματίου alongside the metaphorical uses of ἐπιλαμβάνω (seizing at another constitution, being seized by the interlocutors). The physical grip on fabric and the intellectual grip on Socrates converge: both prevent forward movement through literal and argumentative seizure."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s008"
+      ],
+      "observation": "s002 traces ἀφίημι from detention through release to legal acquittal; s003 isolates the shift from conversational to juridical context; s008 introduces the homicide/deception analogy with φονέα, φόνου, and καθαρόν. Held together, these signals make visible a transformation: what begins as physical and conversational restraint (Ἀφήσομεν... οὐκ ἀφίετε) becomes juridical absolution (ἀφίεμέν σε ὥσπερ φόνου), so that Socrates' reluctance to speak is first arrested as evasion, then conditionally released as from a capital charge."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s012",
+        "s020"
+      ],
+      "observation": "s005 clusters terms of evasion (ἐκκλέπτειν, λήσειν, ἀπορρᾳθυμεῖν); s012 identifies the proverb κοινὰ τὰ φίλων that Socrates tried to pass off casually; s020 notes that only one phrase from Polemarchus' whisper was overheard. The section displays a pattern of partial audibility and attempted concealment: Polemarchus whispers and only one question is heard, Socrates tries to slip past a whole form of argument by citing a proverb lightly, and Adeimantus names this as theft and lazy evasion."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s011",
+        "s021"
+      ],
+      "observation": "s006 tracks ὀρθός applied to constitution, manner of κοινωνία, and correctness questioned (τὸ ὀρθῶς... λόγου δεῖται); s011 repeats διέρχομαι as the verb of argumentative traversal that Socrates tried to avoid and is now commanded to complete; s021 contrasts the planned sequence (ἐφεξῆς) with the acknowledged reversal (ἀνάπαλιν). Together these make visible a disrupted trajectory: the right constitution requires right traversal, Socrates intended sequential exposition, but the interlocutors' intervention forces him to proceed backward, unsettling both the order and the confidence that ὀρθῶς names."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010",
+        "s023"
+      ],
+      "observation": "s009 accumulates five ἀπιστ- forms around disbelief; s010 contrasts θαρραλέον / ἀσφαλές with φοβερόν / σφαλερόν; s023 expresses Socrates' fear that the argument will seem a mere prayer (εὐχή). Held together, these signals reveal Socrates' repeated naming of his own epistemic position: he lacks confidence (ἀπιστοῦντα), fears rather than trusts, and worries the logos will dissolve into wish rather than demonstration—a self-description of intellectual stance layered through vocabulary of trust, safety, and dread."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s012",
+        "s014"
+      ],
+      "observation": "s007 tracks κοινός / κοινωνία five times; s012 cites κοινὰ τὰ φίλων; s014 traces φίλος from the proverb through speaking among φίλοις to dragging φίλους down and preferring to err among ἐχθροῖς. The conjunction makes visible how the proverb that friends hold things in common is itself held in common among these friends as an accusation, a topic, and a relational stake: the κοινωνία under investigation implicates the κοινωνία of the present conversation, and Socrates fears harming the very φίλοι with whom he must speak about what is κοινά among φίλοι."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s010"
+      ],
+      "observation": "s013 concentrates three σφάλλω forms around stumbling, error, and the danger of erring regarding justice and law; s010 opposes ἀσφαλές to σφαλερόν. The negation ἀ-σφαλής makes the root visible: safety is the privative of stumbling, and Socrates' description of his position as σφαλερόν and his fear of σφαλεὶς τῆς ἀληθείας foregrounds the vocabulary of falling as defining intellectual risk."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s022"
+      ],
+      "observation": "s016 describes the argument as two dramatic acts in sequence (ἀνδρεῖον δρᾶμα, τὸ γυναικεῖον); s022 recalls establishing men as guardians of a flock (ἀγέλης φύλακας). The gendered division of the drama (male, then female) is placed alongside the animal comparison (guardians of a flock), so that the treatment of human reproduction borrows structure from both theatrical performance and animal husbandry."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s018",
+        "s019"
+      ],
+      "observation": "s017 names a swarm of arguments (ἑσμὸν λόγων) Socrates had avoided; s018 introduces χρυσοχοέω, gold-smelting, as ironic foil to listening to arguments; s019 contrasts μετρίων (moderate) with μέτρον redefined as a whole lifetime. These three signals together make visible competing images of intellectual labor: arguments as swarming insects, as audible matter set against metalworking, and as requiring measurement that dissolves measure into duration."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s008"
+      ],
+      "observation": "s015 records Socrates invoking Adrasteia before speaking; s008 layers homicide, deception, purity, and acquittal. The ritual propitiation of Nemesis precedes the juridical language by moments in the text: Socrates anticipates divine retribution for speech error just before Glaucon offers human acquittal, so that the vertical (divine) and horizontal (social) dimensions of answerability for speech are juxtaposed."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s004",
+        "s011"
+      ],
+      "observation": "s002 tracks ἀφίημι from release to acquittal; s004 clusters λαμβάνω / ἐπιλαμβάνω as physical and intellectual grasping; s011 accumulates six forms of διέρχομαι as argumentative passage. The three verbal families together articulate movement blocked and permitted: seizing prevents, releasing permits, traversing completes. The interlocutors seize Socrates (ἐπιλαβόμενοί μου), refuse to release him (οὐκ ἀφίετε), and demand he traverse the argument (διέλθῃς), while Socrates thought himself already through (διεληλυθώς) and later will be released (ἀφίεμέν σε) only after traversing (διέλθῃς)."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σμικρὸν γὰρ ἀπωτέρω τοῦ Ἀδειμάντου καθῆστο",
+          "lemma": null,
+          "location": "449b",
+          "context": "Polemarchus' seated position relative to Adeimantus before the physical intervention"
+        }
+      ],
+      "observation": "Polemarchus was seated a small distance away (σμικρὸν... ἀπωτέρω) from Adeimantus, a spatial detail that precedes and enables the sequence of reaching, grasping, and drawing close narrated in s001. The small separation must be crossed for the intervention to occur."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάπαλιν",
+          "lemma": "ἀνάπαλιν",
+          "location": "451b",
+          "context": "λέγειν δή... χρὴ ἀνάπαλιν αὖ νῦν, ἃ τότε ἴσως ἔδει ἐφεξῆς λέγειν"
+        }
+      ],
+      "observation": "ἀνάπαλιν (backward, in reverse order) names the directional reversal Socrates must now perform, set against the sequential progression (ἐφεξῆς) he had planned. The interlocutors' seizure has not merely delayed but inverted the argumentative direction."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πιστεύοντος",
+          "lemma": "πιστεύω",
+          "location": "450d",
+          "context": "πιστεύοντος μὲν γὰρ ἐμοῦ ἐμοὶ εἰδέναι ἃ λέγω"
+        },
+        {
+          "form": "ἀπιστοῦντα",
+          "lemma": "ἀπιστέω",
+          "location": "450e",
+          "context": "ἀπιστοῦντα δὲ καὶ ζητοῦντα ἅμα τοὺς λόγους ποιεῖσθαι"
+        }
+      ],
+      "observation": "πιστεύω (trusting) and its negation ἀπιστέω (distrusting) appear in immediate proximity as the contrasted conditions of speech: Socrates describes himself as ἀπιστοῦντα (distrusting himself), opposed to πιστεύοντος (trusting). This pair makes explicit what s009's accumulation of ἀπιστ- forms enacts: Socrates' self-distrust regarding his own knowledge."
+    }
+  ]
+}
