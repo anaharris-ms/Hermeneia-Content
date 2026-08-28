@@ -1,0 +1,157 @@
+{
+  "section_id": "republic-chapter-05-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s007"
+      ],
+      "observation": "The dog analogy establishes τροφήν for σκυλάκων (451d) as the ground for asserting that identical τροφήν τε καὶ παιδείαν must be given to any animal used for the same work (451e). When τροφήν recurs at section's end (453d) applied to γυναικῶν καὶ παίδων, the female/male pairing has moved from guardian dogs through abstract principle to human women and children, carrying the requirement of identical rearing across all three levels."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s005",
+        "s016"
+      ],
+      "observation": "γελοῖος first names what appears ridiculous to the eyes (452a-b), then undergoes redefinition: τὸ ἐν τοῖς ὀφθαλμοῖς γελοῖον is displaced by τὸ ἐν τοῖς λόγοις μηνυθέντος ἀρίστου (452d), so that only τὸ κακόν remains truly γελοῖον while καλόν and ἀγαθόν become the sole serious standards (452e). The section's dense recurrence of γελοῖος thus enacts the displacement it describes: visual impression yielding to rational speech."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s010",
+        "s011"
+      ],
+      "observation": "The γυμνός/γυμνάσιον cluster concentrates around the historical shift from Greek shame to acceptance of male nakedness. The contrast ἀποδύεσθαι/συγκαλύπτειν names the visible alternative; Κρῆτες then Λακεδαιμόνιοι gives the historical sequence; Ἕλλησιν/βαρβάρων marks the cultural boundary. Held together, these signals make visible that the argument for female gymnastic training depends on a prior Greek transformation of visual custom through rational judgment—the same movement now to be repeated for women."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s009"
+      ],
+      "observation": "κοινῇ appears twice in quick succession (451d-e) as the dogs do all things 'in common,' opposing οἰκουρεῖν ἔνδον to the συν- prefixed activities συμφυλάττειν and συνθηρεύειν. When κοινωνῆσαι returns at 453a asking whether female nature can share in all works with male, the section's opening image of co-guarding and co-hunting has become the formal question of κοινωνία itself."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "φύσις recurs five times in the self-objection (453a-c), each occurrence tightening the contradiction: the principle κατὰ φύσιν ἕκαστον ἕνα ἓν τὰ αὑτοῦ πράττειν is invoked against the proposal, yet woman and man have πάμπολυ διαφέρει… τὴν φύσιν and πλεῖστον κεχωρισμένην φύσιν. The ἀμφισβήτησις structure allows Socrates to voice this φύσις-based objection himself ὑπὲρ τῶν ἄλλων, making the density of φύσις recurrence enact the weight of the difficulty rather than its resolution."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s012"
+      ],
+      "observation": "Glaucon concedes that female dogs are used κοινῇ though ὡς ἀσθενεστέραις while males are ὡς ἰσχυροτέροις (451e), introducing comparative difference within shared function. But the self-objection insists on πάμπολυ διαφέρει and πλεῖστον κεχωρισμένην φύσιν (453b-c), shifting from acknowledged weaker/stronger degree to maximally separated φύσις. The section presents the comparative claim without adjudicating whether degree of strength constitutes separated nature."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s002"
+      ],
+      "observation": "σκώμματα, κωμῳδεῖν, and γελωτοποιεῖν name the activity of the χαρίεντες and ἀστεῖοι who would mock the proposal (452b-d). This naming coincides with the dense recurrence and redefinition of γελοῖος itself: the section both anticipates mockery and simultaneously redefines what deserves to be called γελοῖον, so that the mockers' activity is named at the moment their standard is displaced."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s017"
+      ],
+      "observation": "ὡρμήσαμεν λέγειν and λέγειν ἠρξάμεθα (452b-c) invoke the fact of having begun as reason to press on πρὸς τὸ τραχὺ τοῦ νόμου. Yet immediately after, Socrates stages an ἀμφισβήτησις and then proposes speaking ὑπὲρ τῶν ἄλλων ἵνα μὴ ἔρημα τὰ τοῦ ἑτέρου λόγου πολιορκῆται (453a). Having begun thus becomes a reason both to advance and to pause for self-objection, and the military image πολιορκῆται appears in a section arguing that women should share in war—the besieged λόγος itself becomes a figure of the combat it discusses."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s012"
+      ],
+      "observation": "The female/male pairing moves from θηλείας/ἄρρενες guardian dogs (451d) to γυναιξίν/ἀνδράσι (451e) to φύσις ἡ ἀνθρωπίνη ἡ θήλεια and τῇ τοῦ ἄρρενος γένους (453a), then the objection reasserts γυνὴ ἀνδρὸς with πάμπολυ διαφέρει… τὴν φύσιν (453b). The recurrence makes visible that while the dog analogy moved smoothly to human application, the self-objection refuses that movement by returning to the same male/female distinction now maximally emphasized through φύσις language—the pairing recurs but its meaning is contested across the recurrence."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐδόκει",
+          "lemma": "δοκέω",
+          "location": "452c",
+          "context": "τοῖς Ἕλλησιν ἐδόκει αἰσχρὰ εἶναι καὶ γελοῖα"
+        },
+        {
+          "form": "ἐφάνη",
+          "lemma": "φαίνω",
+          "location": "452d",
+          "context": "χρωμένοις ἄμεινον… ἐφάνη"
+        },
+        {
+          "form": "ἐξερρύη",
+          "lemma": "ἐκρέω",
+          "location": "452d",
+          "context": "τὸ ἐν τοῖς ὀφθαλμοῖς δὴ γελοῖον ἐξερρύη"
+        }
+      ],
+      "observation": "Three aorist passive verbs mark the stages of the Greek shift regarding nakedness: what seemed (ἐδόκει) shameful, what appeared (ἐφάνη) better in use, and the flowing-away (ἐξερρύη) of visual ridicule under the revealed best in speech."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "φιλοπαίσμων",
+          "lemma": "φιλοπαίσμων",
+          "location": "452e",
+          "context": "εἴτε τις φιλοπαίσμων εἴτε σπουδαστικὸς"
+        },
+        {
+          "form": "σπουδαστικὸς",
+          "lemma": "σπουδαστικός",
+          "location": "452e",
+          "context": null
+        },
+        {
+          "form": "σπουδάζειν",
+          "lemma": "σπουδάζω",
+          "location": "452c",
+          "context": "δεηθεῖσίν τε τούτων μὴ τὰ αὑτῶν πράττειν ἀλλὰ σπουδάζειν"
+        },
+        {
+          "form": "σπουδάζει",
+          "lemma": "σπουδάζω",
+          "location": "452e",
+          "context": "καλοῦ αὖ σπουδάζει"
+        }
+      ],
+      "observation": "The playful/serious opposition (φιλοπαίσμων/σπουδαστικός) names two possible objectors at 452e. σπουδάζειν had earlier named what the mockers should do instead of their own activity (452c), and recurs as proper orientation toward τὸ καλόν (452e). The section thus distinguishes play from serious objection while also insisting that seriousness requires the correct standard."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὡμολογεῖτε",
+          "lemma": "ὁμολογέω",
+          "location": "453b",
+          "context": "ἐν ἀρχῇ… ὡμολογεῖτε δεῖν κατὰ φύσιν ἕκαστον"
+        },
+        {
+          "form": "ὡμολογήσαμεν",
+          "lemma": "ὁμολογέω",
+          "location": "453b",
+          "context": "ὡμολογήσαμεν οἶμαι· πῶς γὰρ οὔ;"
+        },
+        {
+          "form": "ἀνομολογητέον",
+          "lemma": "ἀνομολογέω",
+          "location": "452e",
+          "context": "οὐ πρῶτον μὲν τοῦτο περὶ αὐτῶν ἀνομολογητέον"
+        }
+      ],
+      "observation": "The objection appeals to what Socrates and Glaucon ὡμολογεῖτε at the city's founding, which Socrates confirms with ὡμολογήσαμεν. But before voicing the objection, Socrates had proposed that the question ἀνομολογητέον—must be agreed about or settled through discussion. The morphological echo makes visible that prior ὁμολογία now requires further ἀνομολογία."
+    }
+  ]
+}
