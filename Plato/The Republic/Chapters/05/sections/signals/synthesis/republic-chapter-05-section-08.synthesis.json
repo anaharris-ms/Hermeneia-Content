@@ -1,0 +1,217 @@
+{
+  "section_id": "republic-chapter-05-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "s001 poses the greatest good and greatest evil as paired extremes for the city; s004 specifies them as binding-into-one (συνδῇ, μίαν) versus tearing-apart-into-many (διασπᾷ, πολλὰς ἀντὶ μιᾶς). Held together, the abstract superlatives receive concrete directional form: the extreme good and evil are opposed movements of unification and fragmentation."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003"
+      ],
+      "observation": "s002 contrasts ἁρμόττει and ἀναρμοστεῖ as fitting and not-fitting the good and bad; s003 names the good's ἴχνος as what receives the fit. The conjunction makes visible that testing for the good is not direct apprehension but tracking a trace, and that the proposals are measured by their harmonic relation to that trace rather than by deductive certainty."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "s004 opposes διασπᾷ/συνδῇ as the city's dissolution and binding; s005 names κοινωνία as what binds (συνδεῖ) and ἰδίωσις as what dissolves (διαλύει). The two connections make visible that the verbal pair διασπᾷ/συνδῇ is enacted through the noun pair κοινωνία/ἰδίωσις: the abstract movement receives a social-ontological agent."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "s005 identifies κοινωνία ἡδονῆς τε καὶ λύπης as what binds; s006 densely clusters the vocabulary of pleasure and pain (ἡδονή, λύπη, χαίρω, λυπέω, περιαλγής, περιχαρής). Together they make visible that the section's unity is not conceptual or structural but affective: the city is bound or dissolved by shared or privatized feeling."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "s007 records τὸ ἐμόν and τὸ οὐκ ἐμόν as the ῥήματα whose voicing indicates unity or division; s008 specifies that unity requires ἅμα φθέγγωνται, simultaneous utterance. Held together, they make visible that the city's unity is enacted in speech: not merely holding the same things mine or not-mine, but voicing those words together at the same moment."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s010"
+      ],
+      "observation": "s006 clusters pleasure/pain terms (χαίρω, λυπέω, ἡδονή, λύπη, περιαλγής, περιχαρής); s010 clusters perception and shared pain in the body analogy (ᾔσθετο, συνήλγησεν, ἀλγεῖ). The conjunction makes visible that the affective κοινωνία of s006 is grounded in the body's perceptual co-suffering: the city's shared feeling is modeled on the whole body's immediate aisthesis when a part is struck."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s011"
+      ],
+      "observation": "s009 compares the best city to ἑνὸς ἀνθρώπου, with the whole κοινωνία perceiving and co-suffering when a δάκτυλος is struck; s011 explicitly contrasts μέρος and ὅλη in that co-suffering. Together they make visible that the body analogy turns on a specific relation: the whole (ὅλη) experiences what happens to any part (μέρος) as happening to itself, collapsing the distinction between particular and universal within the organic unity."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013"
+      ],
+      "observation": "s009 describes the body's κοινωνία as stretched πρὸς τὴν ψυχήν; s013 specifies that this κοινωνία is arranged εἰς μίαν σύνταξιν τὴν τοῦ ἄρχοντος ἐν αὐτῇ. Held together, they make visible that the body's unity is not an undifferentiated mass but an ordered relation: the κοινωνία is stretched toward soul and gathered into a single arrangement belonging to the ruling element, so that unity depends on directional tension and hierarchical order."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s012"
+      ],
+      "observation": "s007 identifies τὸ ἐμόν and τὸ οὐκ ἐμόν as the utterances indicating unity; s012 extends the συν- prefix pattern to συνησθήσεται and συλλυπήσεται, the city's co-rejoicing and co-suffering with each citizen. Together they make visible that what is named 'mine' in speech (s007) is enacted in shared affective response (s012): the verbal claim becomes real through the city's actual co-feeling with the individual's fortune."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "s001 frames the section's inquiry around identifying the μέγιστον ἀγαθόν and μέγιστον κακόν; s015 opens with ὁμολογίας as the starting point and closes with ὁμολογήματα to be examined. The conjunction makes visible that the search for the greatest good and evil is framed within, and subordinate to, the discipline of ὁμολογία: the extreme superlatives are approached through the tested coherence of agreements rather than by direct intuition or definition."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s014"
+      ],
+      "observation": "s003 speaks of testing proposals against τὸ τοῦ ἀγαθοῦ ἴχνος, the trace of the good; s014 proposes ἐπανιέναι ἐπὶ τὴν ἡμετέραν πόλιν to examine the argument's ὁμολογήματα there. Held together, they make visible a movement of inquiry: the good is approached by tracking an ἴχνος (s003), and that tracking requires return (ἐπανιέναι) to the constructed city (s014) as the site where the trace can be examined, making the constructed city the medium rather than the object of the search."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s011"
+      ],
+      "observation": "s004 contrasts διασπᾷ (making πολλὰς ἀντὶ μιᾶς) with συνδῇ (making μίαν); s011 contrasts μέρος and ὅλη in the body analogy where the ὅλη co-suffers for the μέρος. Together they make visible that the one/many opposition at the city's level (s004) is grounded in the part/whole relation at the body's level (s011): unity is not mere singularity but a whole that experiences each part's affection as its own, while fragmentation occurs when parts suffer separately."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "s005 names κοινωνία as binding and ἰδίωσις as dissolving; s008 specifies that dissolution occurs ὅταν μὴ ἅμα φθέγγωνται the same ῥήματα. The conjunction makes visible that κοινωνία versus ἰδίωσις is audible in the city's speech: sharing is enacted in simultaneous utterance, privatization in temporal dispersion or difference of voice, so that the ontological condition (s005) has a sonic manifestation (s008)."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s012"
+      ],
+      "observation": "s006 densely clusters pleasure/pain vocabulary across both sharing and privatization (χαίρω/λυπέω, περιχαρής/περιαλγής, ἡδονή/λύπη); s012 repeats the co-affective pattern with συνησθήσεται/συλλυπήσεται for the well-ordered city. Together they make visible that the same affective range (joy and grief) appears in both contexts, but reconfigured: s006 presents these as simultaneous or opposed responses to the same events, while s012 presents them as the city's unified response to any citizen's individual fortune, transforming the axis from synchronized-versus-opposed feeling to collective-versus-private feeling."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "συνδεῖ",
+          "lemma": "συνδέω",
+          "location": "462b",
+          "context": "ἡ μὲν ἡδονῆς τε καὶ λύπης κοινωνία συνδεῖ"
+        },
+        {
+          "form": "συνδῇ",
+          "lemma": "συνδέω",
+          "location": "462b",
+          "context": "τοῦ ὃ ἂν συνδῇ τε καὶ ποιῇ μίαν"
+        }
+      ],
+      "observation": "συνδέω appears twice in close succession at 462b: first as present indicative συνδεῖ describing what κοινωνία does, then as aorist subjunctive συνδῇ in the relative clause defining the greatest good. The shift from indicative statement to subjunctive condition makes the binding visible first as ongoing action, then as possibility to be achieved."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διαλύει",
+          "lemma": "διαλύω",
+          "location": "462b",
+          "context": "ἡ δέ γε τῶν τοιούτων ἰδίωσις διαλύει"
+        },
+        {
+          "form": "διασπᾷ",
+          "lemma": "διασπάω",
+          "location": "462b",
+          "context": "ὃ ἂν αὐτὴν διασπᾷ"
+        }
+      ],
+      "observation": "διαλύω and διασπάω both carry the δια- prefix marking separation and both describe the city's fragmentation, but διαλύω suggests loosing or dissolution while διασπάω suggests violent tearing, intensifying the image of disunity across the two verbs."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ ταὐτά",
+          "lemma": null,
+          "location": "462c",
+          "context": "περὶ τοῦ ἀλλοτρίου κατὰ ταὐτά"
+        },
+        {
+          "form": "κατὰ ταὐτά",
+          "lemma": null,
+          "location": "462c",
+          "context": "ἐπὶ τὸ αὐτὸ κατὰ ταὐτὰ τοῦτο λέγουσι"
+        }
+      ],
+      "observation": "κατὰ ταὐτά appears twice at 462c: first describing the sameness required for ἀλλότριος as for ἐμόν/οὐκ ἐμόν, then describing the sameness of those who say τὸ ἐμόν ἐπὶ τὸ αὐτό. The phrase marks the criterion of unity as identical orientation rather than mere agreement."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πᾶσα",
+          "lemma": "πᾶς",
+          "location": "462c",
+          "context": "πᾶσα ἡ κοινωνία ἡ κατὰ τὸ σῶμα"
+        },
+        {
+          "form": "πάντες",
+          "lemma": "πᾶς",
+          "location": "462b",
+          "context": "ὅταν ὅτι μάλιστα πάντες οἱ πολῖται"
+        },
+        {
+          "form": "πᾶσα",
+          "lemma": "πᾶς",
+          "location": "462d",
+          "context": "καὶ πᾶσα ἅμα συνήλγησεν"
+        },
+        {
+          "form": "ἅπασα",
+          "lemma": "πᾶς",
+          "location": "462e",
+          "context": "ἢ συνησθήσεται ἅπασα ἢ συλλυπήσεται"
+        }
+      ],
+      "observation": "πᾶς recurs four times across the section: describing all citizens sharing pleasure and pain (462b), the whole κοινωνία of the body (462c), the whole co-suffering simultaneously (462d), and the whole city co-feeling (462e). The recurrence traces how totality moves from the citizen body to the bodily κοινωνία to the temporal simultaneity of response to the city's collective affection."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὅλη",
+          "lemma": "ὅλος",
+          "location": "462d",
+          "context": "πᾶσα ἅμα συνήλγησεν μέρους πονήσαντος ὅλη"
+        },
+        {
+          "form": "ὅλη",
+          "lemma": "ὅλος",
+          "location": "462d",
+          "context": "καὶ οὕτω δὴ λέγομεν ὅτι... [within the explanation]"
+        }
+      ],
+      "observation": "ὅλη appears twice in close proximity at 462d within the body analogy: first as predicate (the whole co-suffered) then implied in the explanation of why we say 'the human being' (not merely the finger) feels pain. The doubling emphasizes that wholeness is both the experiencing subject and the principle of predication."
+    }
+  ]
+}
