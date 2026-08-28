@@ -1,0 +1,138 @@
+{
+  "section_id": "republic-chapter-05-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "`s003` traces δυνατός through the negotiation of what question remains and Socrates' proposal to assume possibility; `s004` traces ὠφέλιμος from the contested pair through Socrates' hope to escape that question and finally to the superlative applied to sacred marriages. Held together, the two lexical paths show that the beneficial question Socrates hoped to isolate returns at the close in intensified form (ὠφελιμώτατοι), while the possibility question he proposed to defer by assumption (ὡς δυνατῶν ὄντων θείς) remains suspended."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s011"
+      ],
+      "observation": "`s001` records κοινός applied successively to women, children, dwellings, and meals; `s011` records ἰδίᾳ negated twice. The conjunction makes visible that the expansion of κοινός across persons and things is matched by a double negation of ἴδιος, each negation specifying a different sphere: cohabitation and possession."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "`s006` clusters festive/banquet language (ἑορτάσαι, ἑστιᾶσθαι) around Socrates' deferral request; `s007` shows ἀργός intensifying (ἀργοί, ἀργόν, ἀργοτέραν) in the description of idle thinkers. Held together, the festive image and the intensifying idleness both characterize the same mental movement: entertaining oneself by assuming what one desires rather than examining feasibility."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s014"
+      ],
+      "observation": "`s008` observes μεῖξις naming natural drive and μείγνυσθαι immediately introducing the qualification 'disorderly'; `s014` contrasts ἀτάκτως with διατάττω/διατάξουσιν. Together they show that the section articulates mixing twice—first as natural necessity, second as requiring ordered arrangement—and that the vocabulary of order (τάττω family) frames both the idle thinkers' arranging (διατάττουσιν) and the rulers' future arranging (διατάξουσιν), while ἀτάκτως names the prohibited alternative."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s012"
+      ],
+      "observation": "`s009` contrasts geometric and erotic necessities, with Glaucon claiming the erotic sharper (δριμύτεραι) in power to persuade; `s012` equates the sacred (ἱεροί) with the most beneficial (ὠφελιμώτατοι). The juxtaposition makes visible that erotic necessity is characterized by persuasive force, while the marriages that answer it are to be made sacred precisely by being beneficial—two distinct grounds of compulsion and legitimation brought into local proximity."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s001"
+      ],
+      "observation": "`s013` specifies reciprocal unknowing between parent and child; `s001` traces κοινός expanding from women to children to dwellings and meals. Held together, they show that what is held in common includes both persons and things, but that the communality of persons is specified not by shared possession but by mutual epistemic negation: neither knows the other as his own."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s005"
+      ],
+      "observation": "`s002` records three forms of ἀμφισβητέω as Socrates and Glaucon contest which aspects will be disputed; `s005` shows Socrates hoping to escape (ἀποδράσεσθαι) and Glaucon catching him escaping (ἀποδιδράσκων). Together they make visible a double movement in the exchange: explicit contestation over what will be contested, and immediate interception of an attempted evasion."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s014"
+      ],
+      "observation": "`s010` shows ἐπιτάττω in passive (what is commanded) and active (to command); `s014` contrasts ἀτάκτως with διατάττω/διατάξουσιν. Held together, these signal families show that the section articulates ordering at three levels: the rulers' commanding (ἐπιτάξειν), the auxiliaries' obedience to commands (τὰ ἐπιταττόμενα), and the future arrangement of marriages (διατάξουσιν), all set against the prohibition of disorder (ἀτάκτως)."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s003"
+      ],
+      "observation": "`s015` shows παρίημι repeated three times in the exchange over permission to defer; `s003` shows δυνατός recurring as the question Socrates seeks to postpone by assuming possibility (ὡς δυνατῶν ὄντων θείς). Together they make visible that the granting of permission (παρίημι) is permission to proceed by assumption, and that the term for what is assumed (δυνατῶν) returns immediately after permission is granted, marking the assumption explicitly."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s012"
+      ],
+      "observation": "`s016` applies ὅσιον and δίκαιον in immediate succession to the prohibition of disorder; `s012` applies ἱερός twice to marriages and equates the sacred with the beneficial. Held together, the two pairs show that disorder is negated by two normative terms (not ὅσιον, not δίκαιον), while sacred marriage is established by equation with benefit (ἱεροί = ὠφελιμώτατοι), creating a double normative frame: one negative (what is prohibited), one positive (what is sanctified)."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s003"
+      ],
+      "observation": "`s007` shows ἀργός intensifying across idle thinkers who assume what they desire is already present (θέντες ὡς ὑπάρχον εἶναι ὃ βούλονται); `s003` shows Socrates proposing to assume possibility (ὡς δυνατῶν ὄντων θείς). Held together, they make visible that Socrates' methodological deferral is explicitly compared to the procedure of idle thinkers, and that both involve a θέντες construction: the idle assume what they wish is present, Socrates proposes to assume what is possible is present."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρότερα",
+          "lemma": "πρότερος",
+          "location": "458b",
+          "context": "ταῦτα πειράσομαί σοι πρότερα συνδιασκοπεῖσθαι, ὕστερα δʼ ἐκεῖνα"
+        },
+        {
+          "form": "ὕστερα",
+          "lemma": "ὕστερος",
+          "location": "458b",
+          "context": "ταῦτα πειράσομαί σοι πρότερα συνδιασκοπεῖσθαι, ὕστερα δʼ ἐκεῖνα"
+        }
+      ],
+      "observation": "πρότερα and ὕστερα mark the explicit temporal sequence of examination that Socrates proposes: first the beneficial, later the possible."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θέντες",
+          "lemma": "τίθημι",
+          "location": "458a",
+          "context": "θέντες ὡς ὑπάρχον εἶναι ὃ βούλονται"
+        },
+        {
+          "form": "θεὶς",
+          "lemma": "τίθημι",
+          "location": "458b",
+          "context": "ὡς δυνατῶν ὄντων θεὶς σκέψομαι"
+        }
+      ],
+      "observation": "τίθημι appears as θέντες (idle thinkers assuming what they wish) and θείς (Socrates assuming possibility), the same participle form applied to both procedures of assumption."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "μέγιστον ἀγαθόν",
+          "lemma": null,
+          "location": "457d",
+          "context": "ὡς οὐ μέγιστον ἀγαθὸν κοινὰς μὲν τὰς γυναῖκας εἶναι, κοινοὺς δὲ τοὺς παῖδας"
+        }
+      ],
+      "observation": "μέγιστον ἀγαθόν, the greatest good, is applied to the communal arrangement of women and children, a singular superlative claim appearing once."
+    }
+  ]
+}
