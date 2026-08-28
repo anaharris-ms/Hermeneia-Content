@@ -1,0 +1,118 @@
+{
+  "section_id": "republic-chapter-01-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s003"
+      ],
+      "observation": "`s001` presents Thrasymachus crouching and springing like a beast to tear apart; `s003` records his repeated attempts to seize the argument, his being restrained by those seated nearby, and his final abandonment of quiet. Held together, the two sequences make visible a movement from restrained animal impulse to released attack: the participle `διεκωλύετο` delays the beast-image `ὥσπερ θηρίον` until `οὐκέτι ἡσυχίαν ἦγεν` releases it."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "`s001` describes Thrasymachus gathered like a beast springing at 'us' (`ἐφʼ ἡμᾶς`); `s002` positions his utterance `εἰς τὸ μέσον`. The spatial movement from predator-to-prey becomes speech-into-shared-space, making visible the transformation of physical threat into verbal intervention at a contested locus."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "`s006` preserves Thrasymachus' list of five prohibited answers, ending with `τὸ συμφέρον`; `s007` records that this same term returns as the kernel of his own definition at 338c, now qualified by `τοῦ κρείττονος`. The last forbidden term becomes the announced answer, making visible a reversal in which prohibition transforms into assertion through the addition of `τοῦ κρείττονος`."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s012"
+      ],
+      "observation": "`s004` records the dense recurrence of `ἀποκρίνομαι` across the section as the contested act; `s012` names Socrates' `εἰρωνεία` as habitual and predicts he will practice it `πάντα μᾶλλον` rather than answer. Held together, the two make visible that the question is not what justice is but who will perform the act of answering, and that Socratic irony is accused of being an evasion of precisely this act."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` records that priority of seeing determines speechlessness or speech; `s009` records Socrates looking at Thrasymachus twice—first in fear (`ἐφοβούμην`), then first (`πρότερος`). Together they make visible that the capacity to respond depends on a visual priority, and that Socrates' narration reverses temporal sequence: fear accompanies the present looking, but the prior look is what enables speech now."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s016"
+      ],
+      "observation": "`s010` contrasts searching for gold with searching for justice, calling justice more valuable than many golds; `s016` records Thrasymachus demanding `ἀργύριον` as payment and Glaucon promising all will contribute. The two make visible that while Socrates claims justice surpasses gold in value, the scene enacts an immediate monetary transaction for the answer, transferring the vocabulary of worth from the sought object to the asking price."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s006"
+      ],
+      "observation": "`s013` preserves Socrates' analogy forbidding four factorizations of twelve; `s006` preserves Thrasymachus' five prohibited answers for justice. Both prohibitions operate by exhaustive enumeration before the question is answered, making visible a formal mirroring in which Socrates' arithmetical example reduplicates the very structure Thrasymachus uses to constrain definition."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "`s014` clusters learning and teaching: the non-knower should learn from the knower, Thrasymachus accuses Socrates of learning without teaching, Socrates asks to be taught; `s015` preserves Thrasymachus' accusation that Socrates does not repay gratitude (`χάριν ἀποδιδόναι`) and Socrates' reply that he pays (`ἐκτίνω`) only praise, having no money. Held together, the two clusters make visible that the exchange of knowledge is structured as reciprocal payment, and that Socrates' lack of money corresponds to his refusal to teach—both absences framed as debts unpaid."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s004"
+      ],
+      "observation": "`s017` tracks Thrasymachus' intention to speak, his yielding, and his actual definition; `s004` tracks the repeated refusal and demand for answering across the section. The two sequences make visible that Thrasymachus' own answer arrives only after a completed arc of desire, resistance, and concession—he performs the act of answering he accused Socrates of evading, but only after demanding payment for it."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "`s011` marks Thrasymachus' laughter as `σαρδάνιον`; `s012` names Socrates' manner as `εἰρωνεία`. Both are marked, habitual qualities attached to speech acts: one a physical eruption, the other a verbal practice. Held together, they make visible that each speaker is named by a recurring style—Thrasymachus by a type of laugh, Socrates by a type of speech—before either defines justice."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s018"
+      ],
+      "observation": "`s005` records Thrasymachus accusing the group of `φλυαρία`, then using `φλυαρῇς` to pre-exclude answers; `s018` records him accusing them of `ὑποκατακλινόμενοι` to one another, then Socrates reusing `ὑποκατακλίνεσθαι` in his gold analogy. Both words first appear as accusations, then return in constrained or transferred contexts, making visible a pattern in which Thrasymachus' aggressive vocabulary is either prohibited (by himself) or repurposed (by Socrates) within the same section."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δεῖ",
+          "lemma": "δεῖ",
+          "location": "336d",
+          "context": "μή μοι ἐρεῖς ὅτι τὸ δέον ἐστὶν"
+        },
+        {
+          "form": "ἐδέοντο",
+          "lemma": "δέομαι",
+          "location": "338a",
+          "context": "οἵ τε Γλαύκων καὶ οἱ ἄλλοι ἐδέοντο αὐτοῦ μὴ ἄλλως ποιεῖν"
+        }
+      ],
+      "observation": "Forms of δεῖ and δέομαι both appear: first as the prohibited answer `τὸ δέον` (what is necessary/binding), then as the verb describing Glaucon and the others begging Thrasymachus not to do otherwise. The lexical echo links the rejected term for justice to the enacted social pressure."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πάντες γὰρ ἡμεῖς Σωκράτει εἰσοίσομεν",
+          "lemma": null,
+          "location": "337d",
+          "context": "Glaucon's promise"
+        }
+      ],
+      "observation": "Glaucon guarantees collective payment on Socrates' behalf with `πάντες`, making visible that the singular asker is backed by a plural financial guarantee, transforming Socrates from isolated respondent to representative of a contributing group."
+    }
+  ]
+}
