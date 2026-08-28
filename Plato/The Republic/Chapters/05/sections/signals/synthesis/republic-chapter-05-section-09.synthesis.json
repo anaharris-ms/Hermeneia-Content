@@ -1,0 +1,160 @@
+{
+  "section_id": "republic-chapter-05-section-09",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s003"
+      ],
+      "observation": "The three naming contrasts—δεσπότας/σωτῆρας καὶ ἐπικούρους, δούλους/μισθοδότας καὶ τροφέας, συνάρχοντας/συμφύλακας—form a system: in other cities, names mark domination (δεσπότας commanding δούλους), while in the proposed city each pair names a reciprocal function (those called σωτῆρας are sustained by μισθοδότας, those who guard together are συμφύλακες). The shift from δεσπότης to σωτήρ and from σύναρχος to συμφύλαξ makes visible that the proposed city replaces hierarchical office-titles with terms for shared protective work."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "The contrast οἰκεῖον/ἀλλότριον at 463b–c divides co-rulers in other cities; then the kinship enumeration (ἀδελφῷ, ἀδελφῇ, πατρί, μητρί, ὑεῖ, θυγατρί, ἐκγόνοις, προγόνοις) supplies the content that eliminates ἀλλότριον—every encounter is mediated by one of these kinship positions. Held together, the two signals make visible that the elimination of the ἀλλότριον is achieved by saturating all guardian relations with the οἰκεῖον vocabulary of family."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s012"
+      ],
+      "observation": "The kinship enumeration at 463c lists eight relational positions; then at 463d three dispositions (αἰδώς, κηδεμονία, ὑπήκοος) are named as what νόμος requires περὶ πατέρας. The conjunction makes visible that the kinship terms are not only names but carry specific normative demands—the exhaustive relational grid imposes its own legal and affective obligations."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s014"
+      ],
+      "observation": "Socrates asks whether kinship will be ὀνόματα μόνον or will include πράξεις; Glaucon responds that names ἄνευ ἔργων uttered διὰ τῶν στομάτων μόνον would be γελοῖον. The two moments together make visible that the section poses the question of empty versus enacted kinship, and that Glaucon's answer commits the city to embodying the relational structure the names articulate."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "ὄνομα/ὀνομάζω recurs three times (463c, 463e, 464a), each time questioning whether naming constitutes a real relation; τὸ ἐμόν appears first as the ῥῆμα citizens will say (463e), then as what they will ὀνομάζειν (464a). Together these recurrences make visible that shared naming is itself treated as a constitutive act—the citizens' common use of τὸ ἐμόν enacts the κοινωνία rather than merely describing it."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "The κοινός/κοινωνία cluster at 464a (κοινῇ, κοινωνήσουσιν, κοινωνοῦντες, κοινωνίαν) saturates the passage just as λύπη and ἡδονή appear as the content shared κοινῇ and then again in the city-to-body analogy. The conjunction makes visible that shared pleasure and pain are not incidental feelings but the substance of κοινωνία—the lexical density marks affective sharing as the city's realized unity."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "λύπη and ἡδονή first appear as what the guardians will share κοινῇ (464a), then return in the simile of the well-governed city to a σῶμα that feels pain or pleasure in a μέρος (464b). Held together, the two moments make visible that shared affect is both the city's achievement and its defining analogy—the guardians' κοινωνία is figured as the organic unity of a body whose parts feel together."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "φῆμαι are said to be sung (ὑμνήσουσιν) around children's ears by all citizens (463d); then Glaucon rejects kinship names uttered διὰ τῶν στομάτων μόνον without ἔργα as γελοῖον (463e). The two references to civic speech make visible a doubled acoustic environment: children hear kinship sung by the whole city, yet speech through mouths alone is insufficient—what children hear must be enacted in the πράξεις that follow."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "οἰκεῖος appears twice describing kinship ὀνόματα (463c, 463e), then the related οἰκία appears negatively—guardians must have no ἰδίας οἰκίας (464b); ἐπίκουρος first names the rulers as called by the people (463b), then returns as the group receiving κοινωνία of women and children (464b). Together these movements make visible that the section concludes by grounding kinship-language in institutional arrangements: the οἰκεῖον relation depends on eliminating private οἰκίαι, and the ἐπίκουροι named at the opening are shown at the close to be constituted by the κοινωνία just described."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s016"
+      ],
+      "observation": "The people call the rulers σωτῆράς τε καὶ ἐπικούρους (463b); the section concludes by identifying ἡ κοινωνία τοῖς ἐπικούροις of women and children as the cause of the city's μέγιστον ἀγαθόν (464b). The two uses of ἐπίκουρος frame the section: the opening naming by the people is shown at the close to depend on the institutional structure that produces the ἐπίκουροι as a class whose shared kinship makes them guardians rather than masters."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "συμφωνήσουσιν",
+          "lemma": "συμφωνέω",
+          "location": "463e",
+          "context": "πασῶν ἄρα πόλεων μάλιστα ἐν αὐτῇ συμφωνήσουσιν ἑνός τινος ἢ εὖ ἢ κακῶς πράττοντος"
+        }
+      ],
+      "observation": "συμφωνέω appears once: citizens will συμφωνήσουσιν in saying τὸ ἐμὸν εὖ πράττει or κακῶς. The verb marks vocal unity—citizens sound together—as the city's achieved condition."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νομοθετήσεις",
+          "lemma": "νομοθετέω",
+          "location": "463c",
+          "context": "πότερον αὐτοῖς τὰ ὀνόματα μόνον οἰκεῖα νομοθετήσεις"
+        },
+        {
+          "form": "νόμος",
+          "lemma": "νόμος",
+          "location": "463d",
+          "context": "ὅσα νόμος περὶ πατέρας αἰδοῦς τε πέρι καὶ κηδεμονίας"
+        }
+      ],
+      "observation": "νομοθετέω appears as Socrates asks whether kinship will be legislated as names only; νόμος returns immediately as what prescribes conduct toward parents. The recurrence links the legislative act of imposing kinship names to the traditional νόμος governing family relations."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὅσια",
+          "lemma": "ὅσιος",
+          "location": "463d",
+          "context": "ὡς οὔτε ὅσια οὔτε δίκαια πράττοντος ἄν"
+        },
+        {
+          "form": "δίκαια",
+          "lemma": "δίκαιος",
+          "location": "463d",
+          "context": "ὡς οὔτε ὅσια οὔτε δίκαια πράττοντος ἄν"
+        }
+      ],
+      "observation": "ὅσια and δίκαια appear together as what will not be achieved if kinship names are spoken without corresponding πράξεις. The pair marks the stakes of enacted versus empty kinship as encompassing both divine and human right."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "μάλιστα",
+          "lemma": "μάλιστα",
+          "location": "463e, 464a (three instances)",
+          "context": "πασῶν ἄρα πόλεων μάλιστα / μάλιστα τοῦ αὐτοῦ κοινωνήσουσιν / λύπης τε καὶ ἡδονῆς μάλιστα κοινωνίαν / πολὺ μὲν οὖν μάλιστα"
+        }
+      ],
+      "observation": "μάλιστα appears four times in rapid succession at 463e–464a, each time intensifying a claim about the proposed city's κοινωνία. The repetition makes visible the section's escalating insistence on maximal shared feeling."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὡμολογήσαμεν",
+          "lemma": "ὁμολογέω",
+          "location": "464b (twice)",
+          "context": "ὡμολογήσαμεν ἀγαθόν / καὶ ὀρθῶς γʼ, ἔφη, ὡμολογήσαμεν / καὶ μὲν δὴ καὶ τοῖς πρόσθεν γε ὁμολογοῦμεν"
+        }
+      ],
+      "observation": "ὁμολογέω appears three times at 464b, twice in aorist (ὡμολογήσαμεν) referring to past agreement, once in present (ὁμολογοῦμεν) affirming ongoing consistency. The recurrence makes visible the section's concluding gesture of binding present claims to prior agreements."
+    }
+  ]
+}
