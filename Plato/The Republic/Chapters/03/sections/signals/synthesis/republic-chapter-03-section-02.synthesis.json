@@ -1,0 +1,264 @@
+{
+  "section_id": "republic-chapter-03-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "The recurrence of ὀδύρομαι forms (s001) and γέλως forms (s009) creates a paired structure: both lamentation and uncontrolled laughter are traced through the same ascending sequence—from notable men to gods—and both are prohibited for the same guardians. The parallelism makes visible that the section treats these as matching emotional extremes requiring identical discipline."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s006"
+      ],
+      "observation": "The three occurrences of ἐξαιρέω (s002) enact the redistribution described in s006: lamentations are removed from ὀνομαστῶν ἀνδρῶν and reassigned to women and bad men. The verb's repetition across the question, test, and conclusion marks the stages of the removal, making the transfer itself textually visible as a deliberate legislative act."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "The threefold negation of δεινόν (s003) and the fourfold ἥκιστα (s004) converge at 387e to produce a dense local concentration of minimizing language. Together they make visible the argumentative reduction: the ἐπιεικής man's self-sufficiency is established through accumulated negatives and superlatives of least-ness, each extending the logic of non-dependence to a further domain."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "Achilles' spatial sequence (s007)—side, supine, prone, upright, wandering—appears precisely at the midpoint of the ascending scale (s008) from distinguished men through demigods to gods. The detailed bodily positions make visible what uncontrolled grief looks like at the threshold between human and divine, enacted through physical restlessness rather than abstract description."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s004"
+      ],
+      "observation": "The triple αὐτ- cluster αὐτὸς αὑτῷ αὐτάρκης (s005) is immediately followed by the fourfold ἥκιστα sequence (s004). The concentrated self-reference of the first phrase makes the man's self-containment visible; the accumulated superlatives of least-ness then extend that containment across multiple domains of potential loss. The juxtaposition makes visible that self-sufficiency is built from maximal self-reference and minimal external need."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "The ascending prohibition scale (s008) reaches τὸν μέγιστον τῶν θεῶν lamenting over Sarpedon, then immediately transitions to γέλως (s009) with ἄσβεστος γέλως among the blessed gods. The sequence makes visible that the two extremes—grief and laughter—are addressed in the same divine register, with Zeus positioned at the peak of the lamentation series and the divine laughter scene following directly."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s009"
+      ],
+      "observation": "The doubled ἰσχυρός linking strong laughter to strong change (s010) appears immediately after the prohibition of φιλογέλωτας (s009). The correspondence makes visible why excessive laughter merits prohibition: not because it is unseemly in itself, but because the intensity of the emotion seeks an equally intense reversal."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "The pharmakological characterization of falsehood (s011)—useless to gods, useful to humans, administered by doctors, not touched by laypeople—generates the sequence of ψεῦδος/ψεύδομαι forms (s012) that follows. The metaphor makes visible the structure of the subsequent argument: rulers may administer it, laypeople may not touch it, unauthorized use is punishable. The medical image controls the distribution of permissions."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "The cluster of expert practitioners—ἰατρός, παιδοτρίβης, κυβερνήτης (s013)—appears precisely where subordinates are required to tell τἀληθῆ and τὰ ὄντα (s014). The analogies make visible that truth-telling runs upward: the sick to the doctor, the trainee to the trainer, the sailor to the helmsman. Each expert's authority depends on receiving accurate reports from below."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s015"
+      ],
+      "observation": "The κυβερνήτης in the triad of experts (s013) is immediately followed by the city-as-ship image (s015): falsehood introduced by unauthorized practitioners is ἀνατρεπτικόν for the πόλις as for a νεώς. The helmsman analogy generates the nautical metaphor, making visible that the unauthorized lie capsizes the political vessel just as a subordinate's falsehood would endanger the literal ship."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s019"
+      ],
+      "observation": "At 388e ὁ λόγος signals (ἐσήμαινεν) and must be obeyed (πειστέον); at 389d Adeimantus closes with ἐπί γε λόγῳ ἔργα τελῆται. The two moments frame the truth-and-falsehood discussion between them, making visible that λόγος both commands obedience and awaits completion in ἔργα. The section opens with the authority of argument and closes with its fulfillment in deed."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s018"
+      ],
+      "observation": "Lamentations are removed from ὀνομαστῶν ἀνδρῶν and given to women and bad men so that 'those we say we are raising for the country's protection' will find such behavior offensive (s006); later, falsehood is permitted to 'the rulers of the city' alone (s018). The double reference makes visible that the guardians subject to emotional prohibition are the same class granted the privilege of authorized deception."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s008",
+        "s012"
+      ],
+      "observation": "The ὀδυρμός recurrence (s001) follows the ascending scale from men to gods (s008); the ψεῦδος recurrence (s012) follows a descending scale of authorization from rulers to punished laypeople. Held together, the two sequences make visible that the section treats emotional expression and falsehood through opposite movements: lamentation is prohibited upward through increasingly exalted beings, while authorized deception is restricted downward through increasingly subordinate roles."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s011"
+      ],
+      "observation": "The direct contrast θεοῖσι μὲν ἄχρηστον, ἀνθρώποις δὲ χρήσιμον (s017) immediately precedes the pharmakological characterization (s011). The μέν/δέ structure makes visible that falsehood's human utility depends precisely on divine non-need: it functions ὡς ἐν φαρμάκου εἴδει because gods have no use for it, placing the medicine entirely in the human realm where doctors must control its administration."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θρήνους",
+          "lemma": "θρῆνος",
+          "location": "387e",
+          "context": "ἐξαιροῖμεν τοὺς θρήνους τῶν ὀνομαστῶν ἀνδρῶν"
+        },
+        {
+          "form": "θρήνους",
+          "lemma": "θρῆνος",
+          "location": "388d",
+          "context": "πολλοὺς ἐπὶ σμικροῖσιν παθήμασιν θρήνους ἂν ᾄδοι καὶ ὀδυρμούς"
+        }
+      ],
+      "observation": "θρῆνος appears twice: first as what is removed from notable men at 387e, then at 388d as what the unrestrained person sings over small misfortunes. The recurrence bridges the legislative removal and its violated alternative."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "387d",
+          "context": "εἰ ὀρθῶς ἐξαιρήσομεν ἢ οὔ"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "387e",
+          "context": "ὀρθῶς ἄρʼ ἂν ἐξαιροῖμεν"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "388a",
+          "context": "ὀρθῶς, ἔφη"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "389b",
+          "context": "εἰ γὰρ ὀρθῶς ἐλέγομεν ἄρτι"
+        }
+      ],
+      "observation": "ὀρθῶς recurs four times, marking the rightness of removal (387d, 387e, 388a) and later the rightness of the earlier claim about falsehood (389b). Each occurrence ratifies a conclusion."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχουσιν",
+          "lemma": "ἄρχω",
+          "location": "389b",
+          "context": "τοῖς ἄρχουσιν δὴ τῆς πόλεως"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχω",
+          "location": "389c",
+          "context": "πρός γε δὴ τοὺς τοιούτους ἄρχοντας"
+        }
+      ],
+      "observation": "Forms of ἄρχω appear twice in close succession at 389b-c, first identifying who may lie (rulers), then who must be told the truth (the same rulers, from the perspective of subordinates)."
+    },
+    {
+      "signal_types": [
+        "local_density",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἁπτέον",
+          "lemma": "ἅπτω",
+          "location": "389b",
+          "context": "ἰδιώταις δὲ οὐχ ἁπτέον"
+        },
+        {
+          "form": "ἁπτέον",
+          "lemma": "ἅπτω",
+          "location": "389b",
+          "context": "τοῖς δὲ ἄλλοις πᾶσιν οὐχ ἁπτέον τοῦ τοιούτου"
+        }
+      ],
+      "observation": "The verbal adjective ἁπτέον appears twice in immediate succession at 389b, both negated, prohibiting laypeople and all others from touching falsehood. The doubled prohibition intensifies the restriction."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθέστατα",
+          "lemma": "ἀληθής",
+          "location": "388e",
+          "context": "ἀληθέστατα, ἔφη, λέγεις"
+        },
+        {
+          "form": "ἀληθέστατα",
+          "lemma": "ἀληθής",
+          "location": "389c",
+          "context": "ἀληθέστατα, ἔφη"
+        }
+      ],
+      "observation": "Adeimantus responds with the superlative ἀληθέστατα twice: once affirming the danger of young men hearing divine laments (388e), once affirming the wrongness of laypeople lying to rulers (389c). The identical affirmations frame the transition from grief to falsehood."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ποιεῖν",
+          "lemma": "ποιέω",
+          "location": "388a",
+          "context": "μὴ ποιεῖν Ἀχιλλέα θεᾶς παῖδα"
+        },
+        {
+          "form": "ἐποίησε",
+          "lemma": "ποιέω",
+          "location": "388b",
+          "context": "ὅσα καὶ οἷα ἐκεῖνος ἐποίησε"
+        },
+        {
+          "form": "ποιεῖν",
+          "lemma": "ποιέω",
+          "location": "388b",
+          "context": "μήτοι θεούς γε ποιεῖν ὀδυρομένους"
+        },
+        {
+          "form": "ποιῇ",
+          "lemma": "ποιέω",
+          "location": "388e",
+          "context": "ὅταν τις ἐφιῇ ἰσχυρῷ γέλωτι"
+        },
+        {
+          "form": "ποιῇ",
+          "lemma": "ποιέω",
+          "location": "389a",
+          "context": "ἀνθρώπους ἀξίους λόγου κρατουμένους ὑπὸ γέλωτος ἄν τις ποιῇ"
+        },
+        {
+          "form": "ποιητέον",
+          "lemma": "ποιέω",
+          "location": "389b",
+          "context": "ἀλήθειάν γε περὶ πολλοῦ ποιητέον"
+        }
+      ],
+      "observation": "Forms of ποιέω recur six times across 388a-389b, applied to poetic making (what Homer did, what poets must not make), emotional states (being overcome by laughter), and valuation (making truth of great account). The lemma links poetic fabrication, psychological production, and ethical priority."
+    }
+  ]
+}
