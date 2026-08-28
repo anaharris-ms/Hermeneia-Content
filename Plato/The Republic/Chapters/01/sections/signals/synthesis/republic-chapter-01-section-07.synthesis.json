@@ -1,0 +1,186 @@
+{
+  "section_id": "republic-chapter-01-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The dense accumulation of πλεονεκτέω forms (`s001`) is structured by the ὅμοιος/ἀνόμοιος contrast (`s002`): the just person does not seek to overreach the like but only the unlike; the unjust seeks to overreach both like and unlike. Held together, these signals make visible a grammatical chiasmus—the just man's selective restraint mirrors the craft-knower's selective assertion, while the unjust man's indiscriminate grasping mirrors the non-knower's indiscriminate presumption."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s001",
+        "s002"
+      ],
+      "observation": "The musician and doctor examples (`s006`) serve as craft-witnesses to the pleonexia pattern (`s001`, `s002`): the knower does not seek to overreach the knower (the like), only the non-knower (the unlike). When generalized to πᾶσα ἐπιστήμη, the craft-pair becomes a structural template: the distinction between ὅμοιος and ἀνόμοιος is relocated from persons to epistemic states, making the argument's pivot from ethics to epistemology textually enacted rather than asserted."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s005"
+      ],
+      "observation": "Thrasymachus calls justice γενναία εὐήθεια and injustice εὐβουλία (`s003`), refusing the expected ἀρετή/κακία assignment (`s004`). The section concludes by reversing his placement, aligning δικαιοσύνη with ἀρετή and σοφία, ἀδικία with κακία and ἀμαθία (`s005`). Held together, these three moments make visible a double inversion: Thrasymachus inverts the conventional ethical map, then Socrates inverts Thrasymachus's inversion, returning justice to ἀρετή—but now justified through the craft-analogy rather than conventional εἰκός."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "στάσις/στασιάζω recurs (`s009`) as the argument descends through πόλις, δυοῖν, ἐν ἑνί (`s010`). The scale-sequence makes visible a fractal structure: injustice produces the same internal division (στασιάζειν) whether it appears in a city, between two persons, or within a single soul. The ἐν ἑνί case reveals the one unjust person as internally plural—στασιάζοντα καὶ οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "The descending scale from πόλις to ἐν ἑνί (`s010`) is paired with the ὁμόνοια/φιλία vs. μίση/μάχαι contrast (`s011`). As the argument contracts from collective to individual, what justice produces (concord, friendship) and what injustice produces (faction, hatred) remain structurally constant, making visible the claim that the single unjust person replicates within himself the relational structure of a factional city."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s011"
+      ],
+      "observation": "The unjust person is declared ἐχθρός to self, to the just, and to the gods; the just person is φίλος to the gods (`s012`). This ἐχθρός/φίλος pair echoes the μίση/φιλία opposition (`s011`), extending the relational vocabulary from human collectives to the divine. The gods are introduced as δίκαιοι, positioning them within the same ὅμοιος structure that governs the craft-analogy: the just person does not overreach the like, and the gods are cited as instances of the like."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s010"
+      ],
+      "observation": "τέλειος/τελέως appears first in Thrasymachus's claim about complete injustice (`s013`), then qualifies those who are τελέως ἄδικοι as capable of subduing cities, and concludes that the completely unjust are τελέως ἀδύνατοι to act together. The descending scale (`s010`) from πόλις to ἐν ἑνί thus inverts the force of τέλειος: complete injustice, when traced to its logical conclusion at every scale, becomes complete inability to act."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013"
+      ],
+      "observation": "Thrasymachus blushes and sweats extraordinarily (`s007`) at the moment Socrates concludes that δικαιοσύνη is ἀρετή and σοφία, ἀδικία κακία and ἀμαθία. This bodily eruption occurs immediately before the τελέως ἄδικοι are declared τελέως ἀδύνατοι (`s013`). Held together, the somatic signal and the logical conclusion mark a double collapse: Thrasymachus's body registers what his argument has not yet conceded—that the complete unjust person is completely powerless."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s014"
+      ],
+      "observation": "Socrates contrasts two procedures: one requiring external δικασταί, another where interlocutors are δικασταί and ῥήτορες simultaneously (`s008`). Thrasymachus later compares Socrates' method to old women telling stories and says he will respond only by nodding and shaking his head (`s014`). The two moments make visible a shift: the initially proposed method of mutual examination (ἅμα αὐτοί τε δικασταὶ καὶ ῥήτορες) collapses into silent assent (κατανεύσομαι καὶ ἀνανεύσομαι), exposing Thrasymachus's withdrawal from λόγος into gesture."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s014"
+      ],
+      "observation": "Socrates frames the remainder of the argument as ἑστίασις (a feast to be completed) (`s015`), while Thrasymachus had earlier threatened to δημηγορεῖν (`s014`). The two metaphors—banquet and public speech—set beside one another make visible competing models of discourse: Thrasymachus imagines himself delivering a long oration, Socrates reconfigures the exchange as a shared meal to be filled out through question and answer."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s016"
+      ],
+      "observation": "The dense pleonexia vocabulary (`s001`) structures the epistemic argument; the section closes by reframing the entire inquiry as περὶ τοῦ ὅντινα τρόπον χρὴ ζῆν (`s016`). The shift from πλεονεκτεῖν (overreaching) to ὅντινα τρόπον χρὴ ζῆν (how one must live) relocates the argument's center: what began as a question about who gets more becomes a question about the shape of a life."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s016"
+      ],
+      "observation": "The alignment of δικαιοσύνη with σοφία and ἀδικία with ἀμαθία (`s005`) concludes one stage of argument; the section then states that the remaining question is εἰ δὲ καὶ ἄμεινον ζῶσιν οἱ δίκαιοι and εὐδαιμονέστεροί εἰσιν (`s016`). Held together, these moments make visible a two-stage structure: the epistemic identification (justice=wisdom) is completed, but the question of ζῆν (living) and εὐδαιμονία remains open."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἑαυτῷ",
+          "lemma": "ἑαυτοῦ",
+          "location": "352a",
+          "context": "ἐχθρὸν εἶναι ἑαυτῷ τε καὶ τῷ ἐναντίῳ"
+        },
+        {
+          "form": "ἑαυτῷ",
+          "lemma": "ἑαυτοῦ",
+          "location": "352a",
+          "context": "στασιάζοντα καὶ οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ"
+        },
+        {
+          "form": "ἑαυτῷ",
+          "lemma": "ἑαυτοῦ",
+          "location": "352a",
+          "context": "ἐχθρὸν καὶ ἑαυτῷ καὶ τοῖς δικαίοις"
+        }
+      ],
+      "observation": "ἑαυτῷ recurs three times in 352a, each instance locating internal division within the unjust individual: ἐχθρὸν ἑαυτῷ, οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ. The reflexive pronoun makes the ἐν ἑνί case grammatically enacted—the one becomes simultaneously subject and object of enmity and faction."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "352a",
+          "context": "ἀδύνατον αὐτὸ πρᾶξαι"
+        },
+        {
+          "form": "ἀδύνατοι",
+          "lemma": "ἀδύνατος",
+          "location": "352c",
+          "context": "τελέως εἰσὶ καὶ πράττειν ἀδύνατοι"
+        }
+      ],
+      "observation": "ἀδύνατος appears first as a predicate adjective (ἀδύνατον πρᾶξαι) applied to any group containing injustice, then as a plural predicate (ἀδύνατοι πράττειν) applied to the completely unjust. The morphological variation—neuter singular to masculine plural—tracks the descent from collective to individual while preserving the same incapacity."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὡς σὺ ἄρτι ἔλεγες",
+          "lemma": null,
+          "location": "348c",
+          "context": "διὰ ἅ, εἴρηκα"
+        },
+        {
+          "form": "ὡς ἐγὼ ἔλεγον",
+          "lemma": null,
+          "location": "351c",
+          "context": "εἰ δ᾽ ὡς ἐγὼ ἔλεγον, μετὰ ἀδικίας"
+        }
+      ],
+      "observation": "Socrates marks two competing argumentative origins: ὡς σὺ ἄρτι ἔλεγες (as you were just saying) and ὡς ἐγὼ ἔλεγον (as I was saying). The εἰ μέν...εἰ δέ construction pivots on whose λόγος governs the conditional, making the choice between Thrasymachus's and Socrates' premises grammatically explicit."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πράττειν",
+          "lemma": "πράττω",
+          "location": "350a",
+          "context": "ἢ πράττειν ἢ λέγειν"
+        },
+        {
+          "form": "πρᾶξαι",
+          "lemma": "πράττω",
+          "location": "352a",
+          "context": "ἀδύνατον αὐτὸ πρᾶξαι"
+        },
+        {
+          "form": "πράττειν",
+          "lemma": "πράττω",
+          "location": "352c",
+          "context": "τελέως εἰσὶ καὶ πράττειν ἀδύνατοι"
+        }
+      ],
+      "observation": "πράττω recurs in infinitive forms across the argument about action and capacity. First paired with λέγειν in the epistemic generalization (350a), then declared ἀδύνατον for any internally divided group (352a), and finally denied to the completely unjust (352c). The infinitive πράττειν itself becomes the object that injustice renders impossible."
+    }
+  ]
+}
