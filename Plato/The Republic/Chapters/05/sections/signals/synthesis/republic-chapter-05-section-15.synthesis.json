@@ -1,0 +1,204 @@
+{
+  "section_id": "republic-chapter-05-section-15",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The dense accumulation of φιλο- compounds (s001) and the recurring insistence on πᾶς totality (s002) together make visible the section's repeated movement: naming a kind of lover, then demanding the lover embrace the whole of what is loved without partiality. Each φιλο- term triggers the same totality claim—every boy in bloom, all wine, all learning."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s002"
+      ],
+      "observation": "The μέν … δέ structures denying partial desire (s003) repeatedly interrupt the πᾶς insistence on totality (s002). Held together, they show the argument enacted through negation: each assertion of loving all is shadowed by the explicit rejection of loving only part, making the totalizing claim depend on blocking the partial alternative."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s006"
+      ],
+      "observation": "The ἐρωτικός lexical cluster (s007) frames the catalogue of physical features (s006). The lover's renaming of every nose, complexion, and pallor as attractive becomes the enacted illustration of what an ἐραστής does, transforming the abstract claim about total acceptance into a concrete inventory of linguistic maneuvers."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "The δυσχερ-/εὐχερῶς contrast (s008) and the food/appetite vocabulary (s009) combine to make the philosopher's stance toward learning visible through two sensory registers simultaneously: the ease or difficulty of approach and the tasting/hunger/insatiability of consumption. Learning becomes both a bodily encounter and an appetite, not a detached intellectual act."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s006"
+      ],
+      "observation": "The food analogy vocabulary (s009) and the catalogue of renamed physical features (s006) both articulate acceptance through bodily terms—eating and visual appearance. Held together, they show the argument grounding philosophical love in sensory encounter: the philosopher tastes learning as the lover views and renames the beloved's body."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "The contested φιλοθεάμονες term (s010) and the ἓν/πολλά opposition (s012) together bring into view what distinguishes true from counterfeit philosophers: the spectacle-lovers see the many appearances, the true philosophers behold the one form. The reclamation of φιλοθεάμονες for 'lovers of the sight of truth' depends on redirecting the gaze from multiplicity to unity."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s004"
+      ],
+      "observation": "ἀκολουθέω appears in the political distinction (s004) between those who lead and those who follow, then immediately in Socrates' imperative to Glaucon to follow the argument (s013). The term transfers from city to dialogue, making the conversational following of an argument echo and perhaps enact the political following of a philosopher-ruler."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "The ἀκολουθέω/ἡγέομαι pairing appears first as political roles (s013, s014), then Socrates commands Glaucon ἀκολούθησόν μοι. The movement from describing who should follow the leader in a city to Glaucon being asked to follow Socrates in argument makes the dialogue itself a site where leading and following are performed, not only defined."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s001"
+      ],
+      "observation": "The φιλήκοοι who have 'hired out their ears' and run around at Dionysia (s011) stand as a concrete image within the φιλο- compound series (s001). This particular φιλο- type is specified through bodily posture and movement—rented ears, running from chorus to chorus—making the indiscriminate sensory pursuit visible as a physical comportment, not only a disposition."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s012"
+      ],
+      "observation": "The section's opening call to define and distinguish (s016: διορίσασθαι, ὁρίζεσθαι) reaches its enacted answer in the διαιρῶ division at 476a, which separates spectacle-lovers from philosophers using the ἓν/πολλά distinction (s012). The promised act of defining is completed not through a single formula but through a metaphysical division between one and many."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s003"
+      ],
+      "observation": "Glaucon's admission that reminding is necessary (s015) and the repeated rejection of partial desire through μέν … δέ structures (s003) together show him forgetting the totalizing principle he must have heard before. His need for reminding makes visible the resistance to the totality claim—it is not self-evident but must be repeatedly imposed against the inclination to love only part."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s010"
+      ],
+      "observation": "The φιλο- compound accumulation (s001) reaches a crisis point in the φιλοθεάμονες/φιλήκοοι/φιλόσοφος trio (s010), where Glaucon worries that too many types will count as philosophers. The proliferation of φιλο- terms itself creates the pressure requiring a new distinction, as the naming pattern threatens to collapse genuine and counterfeit under the same grammatical form."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s012"
+      ],
+      "observation": "The three pairs of opposites—beautiful/ugly, just/unjust, good/bad (s018)—are each said to be one in itself yet appear many (s012). The pairing structure (ἐναντίον, δίκαιον καὶ ἄδικον) itself enacts the appearance of multiplicity: what is one εἶδος is immediately cited alongside its opposite, making the duality visible even as the unity is asserted."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s002"
+      ],
+      "observation": "The ἐπιθυμ- vocabulary moving from honor-lovers to the general principle (s005) and the πᾶς totality insistence (s002) together ground the argument's method: each particular φιλο- type (honor, wine, boys) becomes evidence for the universal claim that desiring anything means desiring the whole of its kind, making the accumulation of examples serve a generalizing movement."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s005"
+      ],
+      "observation": "The honor-lovers' willingness to accept honor from smaller/more trivial sources when greater/more dignified sources are unavailable (s017) specifies what being ἐπιθυμηταὶ τιμῆς (s005) concretely means: it is not a simple preference but a hierarchical appetite that will settle downward through lesser satisfactions, making the totality claim compatible with ranked gradations of the desired object."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "φιλεῖν",
+          "lemma": "φιλέω",
+          "location": "474c",
+          "context": "ὃν ἂν φῶμεν φιλεῖν τι"
+        },
+        {
+          "form": "φιλοῦντα",
+          "lemma": "φιλέω",
+          "location": "474c",
+          "context": "τὸ μὲν φιλοῦντα ἐκείνου, τὸ δὲ μή"
+        }
+      ],
+      "observation": "The verb φιλέω appears in infinitive and participle before the φιλο- compound accumulation begins, establishing the verbal root whose nominal forms will proliferate through the section."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθῶς",
+          "location": "474c",
+          "context": "ἐὰν ὀρθῶς λέγηται"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθῶς",
+          "location": "476b",
+          "context": "οὓς μόνους ἄν τις ὀρθῶς προσείποι φιλοσόφους"
+        }
+      ],
+      "observation": "ὀρθῶς appears at the section's opening, qualifying whether the totality principle is correctly stated, then returns at its close, specifying that only one class may correctly be called philosophers. The adverb frames the section's movement from methodological correctness to terminological correctness."
+    },
+    {
+      "signal_types": [
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "νέον",
+          "lemma": "νέος",
+          "location": "475c",
+          "context": "ἄλλως τε καὶ νέον ὄντα"
+        },
+        {
+          "form": "ἐν ὥρᾳ",
+          "lemma": "ὥρα",
+          "location": "474d",
+          "context": "πάντες οἱ ἐν ὥρᾳ"
+        },
+        {
+          "form": "ἐπὶ ὥρᾳ",
+          "lemma": "ὥρα",
+          "location": "474e",
+          "context": "ἐὰν ἐπὶ ὥρᾳ ᾖ"
+        },
+        {
+          "form": "ἀνθούντων ἐν ὥρᾳ",
+          "lemma": "ἀνθέω",
+          "location": "475a",
+          "context": "τῶν ἀνθούντων ἐν ὥρᾳ"
+        }
+      ],
+      "observation": "Youth vocabulary—νέον, ἐν ὥρᾳ, ἀνθούντων—concentrates around the lover analogy, making the bloom and season of the beloved a recurring qualification that is then pointedly transferred to the young person reluctant to learn (νέον ὄντα at 475b)."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χωρίς",
+          "lemma": "χωρίς",
+          "location": "476a",
+          "context": "ταύτῃ τοίνυν διαιρῶ, χωρὶς μέν"
+        },
+        {
+          "form": "χωρὶς αὖ",
+          "lemma": "χωρίς",
+          "location": "476b",
+          "context": "καὶ χωρὶς αὖ περὶ ὧν ὁ λόγος"
+        }
+      ],
+      "observation": "χωρίς appears twice in the section's final division, the first separating spectacle-lovers and craftsmen, the second (χωρὶς αὖ) separating true philosophers. The doubling of the separating term enacts the division it describes."
+    }
+  ]
+}
