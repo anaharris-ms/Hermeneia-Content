@@ -1,0 +1,196 @@
+{
+  "section_id": "republic-chapter-04-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "`s001` marks the city's founding through four participial forms of οἰκίζω; `s004` traces εὑρίσκω from hoped-for future through subjunctive to accomplished perfect. Held together, the founding's completion enables the search's completion: the perfect οἰκισθεῖσα at 428e stands beside the perfect ηὑρήκαμεν at 429a, making the parallel movement from anticipated to realized state visible."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s007"
+      ],
+      "observation": "`s007` presents a serial rejection of craft-knowledges (carpentry, bronze-work, farming) before φυλακική is accepted; `s002` records the exceptional density of ἐπιστήμη throughout this sequence. Together they make visible that the one ἐπιστήμη properly called σοφία emerges through the denial of multiple ἐπιστῆμαι, each rejected in turn."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013"
+      ],
+      "observation": "`s009` contrasts the smallest part (σμικροτάτῳ, ὀλίγιστον) with the whole city (ὅλη); `s013` contrasts deliberation about some particular thing (τινός) with deliberation about the city as a whole (αὑτῆς ὅλης). Together these make visible a doubled inversion: the fewest in number deliberate about the whole, while the many crafts each address only a part."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s010"
+      ],
+      "observation": "`s005` shows σοφός/σοφία listed first among four virtues, then isolated for examination, then located in the smallest group; `s010` flags σοφία as ἄτοπον—strange or out of place—before the argument proceeds. Together they make the promised strangeness visible: wisdom is first in the list but last in distribution, possessed by the fewest."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s014"
+      ],
+      "observation": "`s003` introduces the search through procuring light (φῶς) and seeing (ἴδωμεν); `s014` clusters γιγνώσκω/γνωρίζω (ἔγνωμεν, ἐγνωρίσαμεν, ἐγνώριστο) in the methodological analogy. Held together, visual perception gives way to cognitive recognition: the section moves from seeing where justice is to knowing one of four by elimination."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s012"
+      ],
+      "observation": "`s006` records Glaucon's reminder of Socrates' promise to search (ὑπέσχου ζητήσειν) and the subsequent recurrence of ζητέω; `s012` preserves the rapid exchange of obligation (ὅσιον), demand for help (συλλαμβάνειν), and agreement (ποιήσομεν). Together they make visible that the search is not simply announced but negotiated through a sequence of promise, reminder, obligation, and assent before ζητέω can proceed."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s013"
+      ],
+      "observation": "`s008` shows the εὐβουλ-/βουλεύω family recurring densely; `s013` distinguishes deliberation about some particular thing (τινός) from deliberation about the whole (αὑτῆς ὅλης). Together they make visible that εὐβουλία is tested repeatedly against partial objects (wooden implements, bronze, crops) and only recognized when its object becomes the city itself."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s014"
+      ],
+      "observation": "`s011` frames the method through the recurrence of τέτταρες (four virtues, four items in analogy, one of the four found); `s014` clusters forms of γιγνώσκω/γνωρίζω in the methodological analogy about recognizing one of four by elimination. Together they make the arithmetical procedure visible: knowing three reveals the fourth, and the number four itself recurs to mark each stage of the method's articulation."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s008"
+      ],
+      "observation": "`s002` records exceptional density of ἐπιστήμη from 428b through 429a; `s008` records parallel density of the εὐβουλ-/βουλεύω family in the same span. Held together, the two clusters make visible that ἐπιστήμη and εὐβουλία are not simply equated but tested together through the same sequence of craft-knowledges, each rejection narrowing both terms simultaneously."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s016"
+      ],
+      "observation": "`s001` traces οἰκίζω through four forms marking the city's founding; `s016` describes wisdom as seated or established (ἵδρυται) in a specific location within the city. Together they make visible a spatial parallel: the city is founded (οἰκίζω) and wisdom is seated (ἱδρύω) within it, both verbs sharing a root sense of placement or establishment."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009"
+      ],
+      "observation": "`s007` presents a sequence of craft-knowledges (carpentry, bronze-work, farming) serially rejected before φυλακική; `s009` contrasts the fewest (ὀλίγιστοι, ὀλίγιστον) with the many. Together they make visible that the rejected crafts are implicitly many (woodworkers, bronze-workers, farmers) while the accepted φυλακική belongs to the smallest group, enacting through the sequence what the conclusion states numerically."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "local_density",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "427e",
+          "context": "δῆλον δὴ ὅτι σοφή τʼ ἐστὶ"
+        },
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "427e",
+          "context": "δῆλον"
+        },
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "428b",
+          "context": "δῆλον ὅτι ἐπιστήμη τίς ἐστιν"
+        },
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "428b",
+          "context": "δῆλον"
+        },
+        {
+          "form": "δῆλα",
+          "lemma": "δῆλος",
+          "location": "428a",
+          "context": "δῆλα δή"
+        },
+        {
+          "form": "κατάδηλον",
+          "lemma": "κατάδηλος",
+          "location": "428a",
+          "context": "πρῶτόν γέ μοι δοκεῖ ἐν αὐτῷ κατάδηλον εἶναι ἡ σοφία"
+        }
+      ],
+      "observation": "δῆλος recurs with exceptional density (six instances including the compound κατάδηλον) from 427e through 428b, repeatedly asserting that the four virtues, the method, and the nature of εὐβουλία as ἐπιστήμη are clear or evident, even as the argument must then work to locate wisdom among many knowledges."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "πρῶτον",
+          "lemma": "πρῶτος",
+          "location": "428a",
+          "context": "ὁπότε πρῶτον ἐκεῖνο ἔγνωμεν"
+        },
+        {
+          "form": "πρότερον",
+          "lemma": "πρότερος",
+          "location": "428a",
+          "context": "τὰ τρία πρότερον ἐγνωρίσαμεν"
+        },
+        {
+          "form": "πρῶτόν",
+          "lemma": "πρῶτος",
+          "location": "428a",
+          "context": "πρῶτόν γέ μοι δοκεῖ ἐν αὐτῷ κατάδηλον εἶναι ἡ σοφία"
+        }
+      ],
+      "observation": "πρῶτος/πρότερος recurs three times: first in the methodological analogy (knowing the one first or the three earlier), then to introduce σοφία as first (πρῶτόν) to be examined—temporal priority in method corresponds to ordinal priority in the list of virtues."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑπόλοιπον",
+          "lemma": "ὑπόλοιπος",
+          "location": "427e",
+          "context": "τὸ ὑπόλοιπον ἔσται τὸ οὐχ ηὑρημένον"
+        },
+        {
+          "form": "ὑπολειφθέν",
+          "lemma": "ὑπολείπω",
+          "location": "428a",
+          "context": "οὐκ ἄλλο ἔτι ἦν ἢ τὸ ὑπολειφθέν"
+        }
+      ],
+      "observation": "ὑπόλοιπος and ὑπολείπω (lexically related) appear in consecutive sentences articulating the method of finding one of four by elimination: what remains (ὑπόλοιπον) will be what is not yet found, identified with what is left over (ὑπολειφθέν)."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "παρακάλει",
+          "lemma": "παρακαλέω",
+          "location": "427d",
+          "context": "τὸν ἀδελφὸν παρακάλει καὶ Πολέμαρχον καὶ τοὺς ἄλλους"
+        },
+        {
+          "form": "παρά",
+          "lemma": "παρά",
+          "location": "428c",
+          "context": "ἐν τῇ ἄρτι ὑφʼ ἡμῶν οἰκισθείσῃ παρά τισι τῶν πολιτῶν"
+        }
+      ],
+      "observation": "παρακαλέω at 427d summons the brother, Polemarchus, and others to join the search; παρά at 428c locates the decisive ἐπιστήμη beside (παρά) certain citizens. The prepositional stem recurs, first as a call to presence, then as a preposition of location."
+    }
+  ]
+}
