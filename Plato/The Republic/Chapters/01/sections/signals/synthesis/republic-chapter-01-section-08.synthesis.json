@@ -1,0 +1,160 @@
+{
+  "section_id": "republic-chapter-01-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s003"
+      ],
+      "observation": "`s001` accumulates ἔργον through horse, pruning-hook, eyes, ears, and soul; `s002` pairs ἀρετή with each ἔργον; `s003` establishes that ἀρετή makes a thing perform its ἔργον εὖ, κακία κακῶς. Held together, the three signals make visible a formal pattern: the section builds a repeating structure—identify an ἔργον, identify its ἀρετή and κακία, then state the consequence—that is applied identically to sense organs and to soul, making the soul's ἔργον and ἀρετή visible through the same textual architecture used for eyes."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "`s004` presents eyes and ears as sense-organ examples with Thrasymachus supplying τυφλότης as the κακία of sight; `s005` distinguishes δρέπανον from μάχαιρα and σμίλη as the tool that prunes best. The conjunction makes visible a movement from bodily organs (eyes, ears) to external tools (pruning implements) to soul, each providing a concrete instance of ἔργον, yet only the soul's ἔργον will be identified with living itself."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "`s006` lists ἐπιμελεῖσθαι, ἄρχειν, βουλεύεσθαι as soul's ἔργα, then separately names τὸ ζῆν; `s007` identifies δικαιοσύνη as soul's ἀρετή and ἀδικία as its κακία. Together they make visible that living is treated as the soul's ἔργον alongside deliberating and ruling, and that δικαιοσύνη is the ἀρετή enabling this ἔργον to be performed εὖ—the just soul lives well because justice is the excellence proper to the activity of living."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s007",
+        "s008"
+      ],
+      "observation": "`s003` establishes that ἀρετή produces εὖ and κακία produces κακῶς in performing an ἔργον; `s007` identifies δικαιοσύνη as ἀρετή and ἀδικία as κακία; `s008` contrasts εὐδαίμων and μακάριος with ἄθλιος. The conjunction makes visible a transfer: the formal relation between ἀρετή and εὖ established for eyes and tools is now applied to soul, so that the just person living εὖ becomes εὐδαίμων, the unjust living κακῶς becomes ἄθλιος—the evaluative terms εὐδαίμων and ἄθλιος occupy the position that εὖ and κακῶς occupied in the earlier pattern."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s014"
+      ],
+      "observation": "`s008` calls the person who lives εὖ both μακάριος and εὐδαίμων; `s009` concludes that injustice is never λυσιτελέστερον than justice because being ἄθλιος does not profit; `s014` addresses Thrasymachus as ὦ μακάριε immediately after μακάριος has described the well-living person. Held together, these make visible that the term μακάριος passes from the conclusion's description of the just person to Socrates' direct address to Thrasymachus—Socrates calls Thrasymachus blessed at the moment he declares injustice never more profitable, though the argument has just shown the just person is μακάριος."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "`s010` has Thrasymachus offer the argument as a feast (εἱστιάσθω) at the Bendideia, then Socrates reply that he has not feasted well (οὐ καλῶς εἱστίαμαι); `s011` compares Socrates to greedy diners (λίχνοι) who snatch each dish before tasting the previous one. Together they make visible a sustained feast metaphor: Thrasymachus presents the conclusion as a meal, Socrates accepts the image but reverses its evaluation—the feast was not good because he consumed it in the wrong order, like a glutton."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s015"
+      ],
+      "observation": "`s011` describes λίχνοι snatching and tasting each dish παραφερομένου before finishing the previous one; `s015` lists three questions in sequence and says Socrates abandoned the first (τὸ δίκαιον ὅτι ποτ' ἐστίν) to pursue the later ones. Held together, the greedy-diner image and the sequence of abandoned questions make visible that the problem is one of order: Socrates moved to whether justice is ἀρετή or κακία, and to whether injustice is more profitable, πρὶν τοῦ προτέρου μετρίως ἀπολαῦσαι—before properly enjoying the first question—so the feast metaphor enacts the methodological error it names."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s015"
+      ],
+      "observation": "`s012` states the dialogue's result is knowing nothing (μηδὲν εἰδέναι) and specifies Socrates does not know what the just is (τὸ δίκαιον μὴ οἶδα ὅ ἐστιν); `s015` identifies τὸ δίκαιον ὅτι ποτ' ἐστίν as the first question that was abandoned. Together they make visible that the section closes by naming the unasked question—what justice is—twice: once as the content of ignorance, once as the question that should have been answered first, so that not-knowing and wrong-ordering point to the same absent object."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s015"
+      ],
+      "observation": "`s007` presents δικαιοσύνη as ἀρετή and ἀδικία as κακία as a prior concession (συνεχωρήσαμεν); `s015` says Socrates abandoned the question of what justice is to pursue whether it is κακία and ἀμαθία or σοφία and ἀρετή. Held together, they make visible that the question Socrates names as improperly addressed—whether justice is ἀρετή or κακία—is the very question whose answer (δικαιοσύνη is ἀρετή) the argument just invoked as already conceded, so the conclusion simultaneously relies on and declares premature the same identification."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s012"
+      ],
+      "observation": "`s001` accumulates ἔργον five times, culminating in identifying living as the soul's ἔργον; `s012` states the result is knowing nothing and not knowing what the just is. The conjunction makes visible that the section's densest pattern of recurrence—ἔργον applied systematically to horse, tool, eyes, ears, soul—produces a completed argument about justice and happiness, yet closes with the claim that nothing has been known, so the most elaborated formal structure in the section is declared to rest on an unexamined foundation."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "353c",
+          "context": "τῇ οἰκείᾳ μὲν ἀρετῇ τὸ αὑτῶν ἔργον εὖ ἐργάσεται"
+        },
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "353e",
+          "context": "ψυχὴ καὶ ὁ δίκαιος ἀνὴρ εὖ βιώσεται"
+        },
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "354a",
+          "context": "ὁ εὖ ζῶν μακάριός τε καὶ εὐδαίμων"
+        }
+      ],
+      "observation": "εὖ recurs three times: first, ἀρετή makes a thing perform its ἔργον εὖ; second, the just soul and person will live εὖ (βιώσεται); third, the person living εὖ is μακάριος and εὐδαίμων. The adverb marks the transfer of the formal relation from any ἔργον to living specifically."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κακῶς",
+          "lemma": "κακῶς",
+          "location": "353c",
+          "context": "κακίᾳ δὲ κακῶς"
+        },
+        {
+          "form": "κακῇ",
+          "lemma": "κακός",
+          "location": "353e",
+          "context": "ἀνάγκη ἄρα κακῇ ψυχῇ κακῶς ἄρχειν"
+        }
+      ],
+      "observation": "κακῶς appears twice: first, κακία produces κακῶς in any ἔργον; second, the bad soul rules and cares κακῶς. The adverb links the general pattern to the soul's specific activities of ruling and caring."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "353e",
+          "context": "ἆρ' ἂν ποτε ψυχὴ τὰ αὑτῆς ἔργα εὖ ἀπεργάσεται στερομένη τῆς οἰκείας ἀρετῆς ἢ ἀδύνατον"
+        }
+      ],
+      "observation": "Thrasymachus answers ἀδύνατον: it is impossible for a soul deprived of its own ἀρετή to perform its ἔργα well. This single word asserts necessity and grounds the transition to ἀνάγκη in the next line."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "353e",
+          "context": "ἀνάγκη ἄρα κακῇ ψυχῇ κακῶς ἄρχειν καὶ ἐπιμελεῖσθαι"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "353e",
+          "context": "τῇ δὲ ἀγαθῇ πάντα ταῦτα εὖ πράττειν. ἀνάγκη"
+        }
+      ],
+      "observation": "ἀνάγκη appears twice in immediate succession: first, necessity that the bad soul rules badly; second, necessity that the good soul does all these things well. The doubled necessity binds the conclusion that justice produces happiness and injustice produces misery."
+    }
+  ]
+}
