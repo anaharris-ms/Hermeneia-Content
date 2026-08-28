@@ -1,0 +1,1543 @@
+{
+  "section_id": "republic-chapter-10-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκοῦσαι",
+          "lemma": "ἀκούω",
+          "location": "614a",
+          "context": "χρὴ δʼ αὐτὰ ἀκοῦσαι, ἵνα τελέως ἑκάτερος αὐτῶν ἀπειλήφῃ τὰ ὑπὸ τοῦ λόγου ὀφειλόμενα ἀκοῦσαι"
+        },
+        {
+          "form": "ἀκούοντι",
+          "lemma": "ἀκούω",
+          "location": "614b",
+          "context": "λέγοις ἄν, ἔφη, ὡς οὐ πολλὰ ἄλλʼ ἥδιον ἀκούοντι"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "614d",
+          "context": "διακελεύοιντό οἱ ἀκούειν τε καὶ θεᾶσθαι πάντα τὰ ἐν τῷ τόπῳ"
+        }
+      ],
+      "observation": "Forms of ἀκούω recur: first as what must be heard about rewards and punishments (614a), then as pleasant hearing of the tale (614b), then as a command to Er to hear and see everything in the place (614d)."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "θεᾶσθαι",
+          "lemma": "θεάομαι",
+          "location": "614d",
+          "context": "διακελεύοιντό οἱ ἀκούειν τε καὶ θεᾶσθαι πάντα τὰ ἐν τῷ τόπῳ"
+        },
+        {
+          "form": "θέας",
+          "lemma": "θέα",
+          "location": "615a",
+          "context": "εὐπαθείας διηγεῖσθαι καὶ θέας ἀμηχάνους τὸ κάλλος"
+        },
+        {
+          "form": "θεαμάτων",
+          "lemma": "θέαμα",
+          "location": "615d",
+          "context": "ἐθεασάμεθα γὰρ οὖν δὴ καὶ τοῦτο τῶν δεινῶν θεαμάτων"
+        },
+        {
+          "form": "θέαν",
+          "lemma": "θέα",
+          "location": "619e",
+          "context": "ταύτην γὰρ δὴ ἔφη τὴν θέαν ἀξίαν εἶναι ἰδεῖν"
+        }
+      ],
+      "observation": "Forms of θέα and θεάομαι recur: Er is commanded to see everything (614d), souls describe visions of indescribable beauty (615a), Er witnessed terrible sights (615d), and the spectacle of souls choosing lives is described as worth seeing (619e)."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δικαίους",
+          "lemma": "δίκαιος",
+          "location": "614c",
+          "context": "τοὺς μὲν δικαίους κελεύειν πορεύεσθαι τὴν εἰς δεξιάν τε καὶ ἄνω"
+        },
+        {
+          "form": "δικασθείη",
+          "lemma": "δικάζω",
+          "location": "614d",
+          "context": "ἐπειδὴ αὐταῖς δικασθείη"
+        },
+        {
+          "form": "δίκην",
+          "lemma": "δίκη",
+          "location": "615a",
+          "context": "ὑπὲρ ἁπάντων δίκην δεδωκέναι ἐν μέρει"
+        },
+        {
+          "form": "δίκαιοι",
+          "lemma": "δίκαιος",
+          "location": "615b",
+          "context": "εὐεργεσίας εὐεργετηκότες καὶ δίκαιοι καὶ ὅσιοι γεγονότες εἶεν"
+        },
+        {
+          "form": "δίκας",
+          "lemma": "δίκη",
+          "location": "616a",
+          "context": "καὶ τὰς μὲν δὴ δίκας τε καὶ τιμωρίας"
+        },
+        {
+          "form": "δικαιοτέραν",
+          "lemma": "δίκαιος",
+          "location": "618e",
+          "context": "ἀμείνω δὲ ὅστις εἰς τὸ δικαιοτέραν"
+        },
+        {
+          "form": "δικαιοσύνην",
+          "lemma": "δικαιοσύνη",
+          "location": "621c",
+          "context": "δικαιοσύνην μετὰ φρονήσεως παντὶ τρόπῳ ἐπιτηδεύσομεν"
+        }
+      ],
+      "observation": "The δικ- word family recurs throughout: judges send the just to the right and upward (614c), souls are judged (614d), they pay penalties (615a), the just and pious receive rewards (615b), punishments and judgments are described (616a), lives lead to becoming more just (618e), and justice with wisdom is to be practiced (621c)."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δεξιάν",
+          "lemma": "δεξιός",
+          "location": "614c",
+          "context": "τὴν εἰς δεξιάν τε καὶ ἄνω διὰ τοῦ οὐρανοῦ"
+        },
+        {
+          "form": "ἀριστεράν",
+          "lemma": "ἀριστερός",
+          "location": "614c",
+          "context": "τοὺς δὲ ἀδίκους τὴν εἰς ἀριστεράν τε καὶ κάτω"
+        },
+        {
+          "form": "πρόσθεν",
+          "lemma": "πρόσθεν",
+          "location": "614c",
+          "context": "σημεῖα περιάψαντας τῶν δεδικασμένων ἐν τῷ πρόσθεν"
+        },
+        {
+          "form": "ὄπισθεν",
+          "lemma": "ὄπισθεν",
+          "location": "614c",
+          "context": "ἔχοντας καὶ τούτους ἐν τῷ ὄπισθεν σημεῖα"
+        }
+      ],
+      "observation": "The just are sent to the right and upward through the sky with signs in front, while the unjust go to the left and downward with signs behind."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "614c",
+          "context": "τὴν εἰς δεξιάν τε καὶ ἄνω διὰ τοῦ οὐρανοῦ"
+        },
+        {
+          "form": "κάτω",
+          "lemma": "κάτω",
+          "location": "614c",
+          "context": "τὴν εἰς ἀριστεράν τε καὶ κάτω"
+        },
+        {
+          "form": "ἀνιέναι",
+          "lemma": "ἀνίημι",
+          "location": "614d",
+          "context": "ἐκ μὲν τοῦ ἀνιέναι ἐκ τῆς γῆς"
+        },
+        {
+          "form": "καταβαίνειν",
+          "lemma": "καταβαίνω",
+          "location": "614d",
+          "context": "ἐκ δὲ τοῦ ἑτέρου καταβαίνειν ἑτέρας ἐκ τοῦ οὐρανοῦ"
+        },
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "621c",
+          "context": "τῆς ἄνω ὁδοῦ ἀεὶ ἑξόμεθα"
+        }
+      ],
+      "observation": "Upward and downward movement recurs: the just go upward through heaven, the unjust downward (614c), souls ascend from earth and descend from heaven (614d-e), and the upward road is to be maintained through practicing justice (621c)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "exact_repetition",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "χάσματα",
+          "lemma": "χάσμα",
+          "location": "614c",
+          "context": "δύʼ εἶναι χάσματα ἐχομένω ἀλλήλοιν"
+        },
+        {
+          "form": "χάσμα",
+          "lemma": "χάσμα",
+          "location": "614d",
+          "context": "καθʼ ἑκάτερον τὸ χάσμα τοῦ οὐρανοῦ τε καὶ τῆς γῆς"
+        }
+      ],
+      "observation": "χάσμα appears first in the plural describing two chasms of earth adjacent to each other and two of heaven opposite them (614c), then in the singular as souls depart through each chasm after being judged (614d)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄγγελον",
+          "lemma": "ἄγγελος",
+          "location": "614d",
+          "context": "δέοι αὐτὸν ἄγγελον ἀνθρώποις γενέσθαι τῶν ἐκεῖ"
+        },
+        {
+          "form": "ἄγγελος",
+          "lemma": "ἄγγελος",
+          "location": "619b",
+          "context": "ὁ ἐκεῖθεν ἄγγελος ἤγγελλε"
+        }
+      ],
+      "observation": "ἄγγελος first appears when Er is told he must become a messenger to humans of things there (614d), then returns when the messenger from there reports what the prophet said (619b)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀπιούσας",
+          "lemma": "ἄπειμι",
+          "location": "614d",
+          "context": "ἀπιούσας τὰς ψυχάς, ἐπειδὴ αὐταῖς δικασθείη"
+        },
+        {
+          "form": "ἀνιέναι",
+          "lemma": "ἀνίημι",
+          "location": "614d",
+          "context": "ἐκ μὲν τοῦ ἀνιέναι ἐκ τῆς γῆς"
+        },
+        {
+          "form": "καταβαίνειν",
+          "lemma": "καταβαίνω",
+          "location": "614d",
+          "context": "ἐκ δὲ τοῦ ἑτέρου καταβαίνειν ἑτέρας ἐκ τοῦ οὐρανοῦ"
+        },
+        {
+          "form": "ἀπιούσας",
+          "lemma": "ἄπειμι",
+          "location": "614e",
+          "context": "ἁσμένας εἰς τὸν λειμῶνα ἀπιούσας"
+        }
+      ],
+      "observation": "Souls depart through the chasms after judgment (614d), then ascend from earth while others descend from heaven (614e), and gladly depart into the meadow (614e)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "exact_repetition",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "αὐχμοῦ",
+          "lemma": "αὐχμός",
+          "location": "614d",
+          "context": "ἐκ τῆς γῆς μεστὰς αὐχμοῦ τε καὶ κόνεως"
+        },
+        {
+          "form": "καθαράς",
+          "lemma": "καθαρός",
+          "location": "614e",
+          "context": "καταβαίνειν ἑτέρας ἐκ τοῦ οὐρανοῦ καθαράς"
+        }
+      ],
+      "observation": "Souls ascending from earth are full of squalor and dust, while those descending from heaven are pure."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "χιλιέτη",
+          "lemma": "χιλιέτης",
+          "location": "615a",
+          "context": "εἶναι δὲ τὴν πορείαν χιλιέτη"
+        },
+        {
+          "form": "χιλιοστὸν",
+          "lemma": "χιλιοστός",
+          "location": "615c",
+          "context": "ἤδη χιλιοστὸν ἔτος εἰς ἐκεῖνον τὸν χρόνον"
+        },
+        {
+          "form": "χιλιέτει",
+          "lemma": "χιλιέτης",
+          "location": "621d",
+          "context": "ἐν τῇ χιλιέτει πορείᾳ, ἣν διεληλύθαμεν"
+        }
+      ],
+      "observation": "The thousand-year duration appears for the underground journey (615a), for Ardiaios' time since crimes (615c), and for the journey we have traversed (621d)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δεκάκις",
+          "lemma": "δεκάκις",
+          "location": "615a",
+          "context": "ὑπὲρ ἁπάντων δίκην δεδωκέναι ἐν μέρει, ὑπὲρ ἑκάστου δεκάκις"
+        },
+        {
+          "form": "ἑκατονταετηρίδα",
+          "lemma": "ἑκατονταετηρίς",
+          "location": "615a",
+          "context": "τοῦτο δʼ εἶναι κατὰ ἑκατονταετηρίδα ἑκάστην"
+        },
+        {
+          "form": "δεκαπλάσιον",
+          "lemma": "δεκαπλάσιος",
+          "location": "615b",
+          "context": "ἵνα δεκαπλάσιον τὸ ἔκτεισμα τοῦ ἀδικήματος ἐκτίνοιεν"
+        },
+        {
+          "form": "δεκαπλασίας",
+          "lemma": "δεκαπλάσιος",
+          "location": "615b",
+          "context": "πάντων τούτων δεκαπλασίας ἀλγηδόνας"
+        }
+      ],
+      "observation": "A tenfold pattern of payment recurs: penalty paid ten times for each wrong (615a), calculated on hundred-year periods (615a), tenfold payment of the crime (615b), and tenfold pains for those causing deaths or betrayals (615b)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Ἀρδιαῖος",
+          "lemma": "Ἀρδιαῖος",
+          "location": "615c",
+          "context": "ἐρωτωμένῳ ἑτέρῳ ὑπὸ ἑτέρου ὅπου εἴη Ἀρδιαῖος ὁ μέγας"
+        },
+        {
+          "form": "Ἀρδιαῖος",
+          "lemma": "Ἀρδιαῖος",
+          "location": "615c",
+          "context": "ὁ δὲ Ἀρδιαῖος οὗτος τῆς Παμφυλίας ἔν τινι πόλει τύραννος ἐγεγόνει"
+        },
+        {
+          "form": "Ἀρδιαῖον",
+          "lemma": "Ἀρδιαῖος",
+          "location": "615e",
+          "context": "τὸν δὲ Ἀρδιαῖον καὶ ἄλλους συμποδίσαντες"
+        }
+      ],
+      "observation": "Ardiaios is first sought by another (615c), then identified as a Pamphylian tyrant who killed his father and brother (615c-d), then bound and dragged beside the road to Tartarus (616a)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "exact_repetition",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀναβήσεσθαι",
+          "lemma": "ἀναβαίνω",
+          "location": "615e",
+          "context": "οὓς οἰομένους ἤδη ἀναβήσεσθαι οὐκ ἐδέχετο τὸ στόμιον"
+        },
+        {
+          "form": "ἀνιέναι",
+          "lemma": "ἀνίημι",
+          "location": "615e",
+          "context": "μὴ ἱκανῶς δεδωκὼς δίκην ἐπιχειροῖ ἀνιέναι"
+        },
+        {
+          "form": "ἀναβαίνοι",
+          "lemma": "ἀναβαίνω",
+          "location": "616a",
+          "context": "μὴ γένοιτο ἑκάστῳ τὸ φθέγμα ὅτε ἀναβαίνοι"
+        },
+        {
+          "form": "ἀναβῆναι",
+          "lemma": "ἀναβαίνω",
+          "location": "616a",
+          "context": "ἁσμενέστατα ἕκαστον σιγήσαντος ἀναβῆναι"
+        }
+      ],
+      "observation": "Those expecting to ascend are not received by the mouth (615e), those attempting to ascend without sufficient penalty are rejected (615e), and the ascent becomes possible only when the bellowing sound does not occur (616a)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἐμυκᾶτο",
+          "lemma": "μυκάομαι",
+          "location": "615e",
+          "context": "ἀλλʼ ἐμυκᾶτο ὁπότε τις τῶν οὕτως ἀνιάτως ἐχόντων"
+        },
+        {
+          "form": "φθέγμα",
+          "lemma": "φθέγμα",
+          "location": "615e",
+          "context": "καταμανθάνοντες τὸ φθέγμα"
+        },
+        {
+          "form": "φθέγμα",
+          "lemma": "φθέγμα",
+          "location": "616a",
+          "context": "μὴ γένοιτο ἑκάστῳ τὸ φθέγμα ὅτε ἀναβαίνοι"
+        }
+      ],
+      "observation": "The mouth bellows when the incurably wicked try to ascend (615e), savage men observe the sound (615e), and the fear is that the sound might occur when each one ascends (616a)."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "συμποδίσαντες",
+          "lemma": "συμποδίζω",
+          "location": "615e",
+          "context": "τὸν δὲ Ἀρδιαῖον καὶ ἄλλους συμποδίσαντες χεῖράς τε καὶ πόδας καὶ κεφαλήν"
+        },
+        {
+          "form": "καταβαλόντες",
+          "lemma": "καταβάλλω",
+          "location": "616a",
+          "context": "καταβαλόντες καὶ ἐκδείραντες"
+        },
+        {
+          "form": "εἷλκον",
+          "lemma": "ἕλκω",
+          "location": "616a",
+          "context": "εἷλκον παρὰ τὴν ὁδὸν ἐκτὸς ἐπʼ ἀσπαλάθων κνάμπτοντες"
+        }
+      ],
+      "observation": "Ardiaios and others are bound in hands, feet, and head, then thrown down and flayed, then dragged beside the road while being carded on thorns."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "Τάρταρον",
+          "lemma": "Τάρταρος",
+          "location": "616a",
+          "context": "εἰς τὸν Τάρταρον ἐμπεσούμενοι ἄγοιντο"
+        }
+      ],
+      "observation": "Ardiaios and others are being led to fall into Tartarus."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἑπτὰ",
+          "lemma": "ἑπτά",
+          "location": "616b",
+          "context": "τοῖς ἐν τῷ λειμῶνι ἑκάστοις ἑπτὰ ἡμέραι γένοιντο"
+        },
+        {
+          "form": "ὀγδόῃ",
+          "lemma": "ὄγδοος",
+          "location": "616b",
+          "context": "ἀναστάντας ἐντεῦθεν δεῖν τῇ ὀγδόῃ πορεύεσθαι"
+        },
+        {
+          "form": "τεταρταίους",
+          "lemma": "τεταρταῖος",
+          "location": "616b",
+          "context": "ἀφικνεῖσθαι τεταρταίους"
+        },
+        {
+          "form": "ἡμερησίαν",
+          "lemma": "ἡμερήσιος",
+          "location": "616b",
+          "context": "προελθόντες ἡμερησίαν ὁδόν"
+        }
+      ],
+      "observation": "A temporal sequence: seven days in the meadow (616b), departure on the eighth day (616b), arrival on the fourth day (616b), and a day's journey forward (616b)."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "exact_repetition",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "616b",
+          "context": "διὰ παντὸς τοῦ οὐρανοῦ καὶ γῆς τεταμένον φῶς εὐθύ"
+        },
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "616c",
+          "context": "κατὰ μέσον τὸ φῶς ἐκ τοῦ οὐρανοῦ"
+        },
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "616c",
+          "context": "εἶναι γὰρ τοῦτο τὸ φῶς σύνδεσμον τοῦ οὐρανοῦ"
+        }
+      ],
+      "observation": "Light appears stretched straight through all heaven and earth like a pillar (616b), then they see the extremities of its bonds in the middle from heaven (616c), then it is identified as the binding of heaven (616c)."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἄτρακτον",
+          "lemma": "ἄτρακτος",
+          "location": "616c",
+          "context": "ἐκ δὲ τῶν ἄκρων τεταμένον ἀνάγκης ἄτρακτον"
+        },
+        {
+          "form": "ἀτράκτου",
+          "lemma": "ἄτρακτος",
+          "location": "617c",
+          "context": "τοῦ ἀτράκτου τὴν ἔξω περιφοράν"
+        },
+        {
+          "form": "ἄτρακτον",
+          "lemma": "ἄτρακτος",
+          "location": "617a",
+          "context": "στρεφόμενον τὸν ἄτρακτον ὅλον"
+        }
+      ],
+      "observation": "The spindle of Necessity is stretched from the extremities of the light (616c), Clotho touches it to turn the outer revolution (617c), and the whole spindle revolves (617a)."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "σφόνδυλον",
+          "lemma": "σφόνδυλος",
+          "location": "616c",
+          "context": "τὸν δὲ σφόνδυλον μεικτὸν ἔκ τε τούτου καὶ ἄλλων γενῶν"
+        },
+        {
+          "form": "σφονδύλου",
+          "lemma": "σφόνδυλος",
+          "location": "616d",
+          "context": "τὴν δὲ τοῦ σφονδύλου φύσιν εἶναι τοιάνδε"
+        },
+        {
+          "form": "σφονδύλῳ",
+          "lemma": "σφόνδυλος",
+          "location": "616d",
+          "context": "ἐν ἑνὶ μεγάλῳ σφονδύλῳ κοίλῳ καὶ ἐξεγλυμμένῳ"
+        },
+        {
+          "form": "σφονδύλους",
+          "lemma": "σφόνδυλος",
+          "location": "616d",
+          "context": "ὀκτὼ γὰρ εἶναι τοὺς σύμπαντας σφονδύλους"
+        },
+        {
+          "form": "σφονδύλου",
+          "lemma": "σφόνδυλος",
+          "location": "616e",
+          "context": "νῶτον συνεχὲς ἑνὸς σφονδύλου ἀπεργαζομένους"
+        },
+        {
+          "form": "σφόνδυλον",
+          "lemma": "σφόνδυλος",
+          "location": "616e",
+          "context": "τὸν μὲν οὖν πρῶτόν τε καὶ ἐξωτάτω σφόνδυλον"
+        }
+      ],
+      "observation": "The whorl appears first as mixed in composition (616c), then its nature is described (616d), as one large hollow whorl (616d), as eight whorls in all (616d), forming a continuous back of one whorl (616e), with the first and outermost specified (616e)."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὀκτὼ",
+          "lemma": "ὀκτώ",
+          "location": "616d",
+          "context": "ὀκτὼ γὰρ εἶναι τοὺς σύμπαντας σφονδύλους"
+        },
+        {
+          "form": "ὀγδόου",
+          "lemma": "ὄγδοος",
+          "location": "616e",
+          "context": "διὰ μέσου τοῦ ὀγδόου διαμπερὲς ἐληλάσθαι"
+        },
+        {
+          "form": "ὀγδόου",
+          "lemma": "ὄγδοος",
+          "location": "616e",
+          "context": "τέταρτον δὲ τὸν τοῦ ὀγδόου"
+        },
+        {
+          "form": "ὀγδόου",
+          "lemma": "ὄγδοος",
+          "location": "617a",
+          "context": "τὸν δὲ τοῦ ὀγδόου τὸ χρῶμα ἀπὸ τοῦ ἑβδόμου ἔχειν"
+        },
+        {
+          "form": "ὄγδοον",
+          "lemma": "ὄγδοος",
+          "location": "617a",
+          "context": "αὐτῶν δὲ τούτων τάχιστα μὲν ἰέναι τὸν ὄγδοον"
+        },
+        {
+          "form": "ὀκτὼ",
+          "lemma": "ὀκτώ",
+          "location": "617b",
+          "context": "ἐκ πασῶν δὲ ὀκτὼ οὐσῶν μίαν ἁρμονίαν συμφωνεῖν"
+        }
+      ],
+      "observation": "Eight whorls in all (616d), the spindle driven through the middle of the eighth (616e), references to the eighth in order (616e, 617a), the eighth moving fastest (617a), and eight Sirens sounding one harmony (617b)."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "Σειρῆνα",
+          "lemma": "Σειρήν",
+          "location": "617b",
+          "context": "ἐφʼ ἑκάστου βεβηκέναι Σειρῆνα συμπεριφερομένην"
+        },
+        {
+          "form": "Σειρήνων",
+          "lemma": "Σειρήν",
+          "location": "617c",
+          "context": "ὑμνεῖν πρὸς τὴν τῶν Σειρήνων ἁρμονίαν"
+        }
+      ],
+      "observation": "A Siren stands on each of the eight circles, carried around and emitting one note (617b), and the Fates sing in harmony with the Sirens (617c)."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "Μοίρας",
+          "lemma": "Μοῖρα",
+          "location": "617c",
+          "context": "θυγατέρας τῆς ἀνάγκης, Μοίρας"
+        },
+        {
+          "form": "Λάχεσίν",
+          "lemma": "Λάχεσις",
+          "location": "617c",
+          "context": "Λάχεσίν τε καὶ Κλωθὼ καὶ Ἄτροπον"
+        },
+        {
+          "form": "Λάχεσιν",
+          "lemma": "Λάχεσις",
+          "location": "617c",
+          "context": "Λάχεσιν μὲν τὰ γεγονότα"
+        },
+        {
+          "form": "Κλωθὼ",
+          "lemma": "Κλωθώ",
+          "location": "617c",
+          "context": "Κλωθὼ δὲ τὰ ὄντα"
+        },
+        {
+          "form": "Ἄτροπον",
+          "lemma": "Ἄτροπος",
+          "location": "617c",
+          "context": "Ἄτροπον δὲ τὰ μέλλοντα"
+        },
+        {
+          "form": "Κλωθὼ",
+          "lemma": "Κλωθώ",
+          "location": "617c",
+          "context": "τὴν μὲν Κλωθὼ τῇ δεξιᾷ χειρὶ"
+        },
+        {
+          "form": "Ἄτροπον",
+          "lemma": "Ἄτροπος",
+          "location": "617c",
+          "context": "τὴν δὲ Ἄτροπον τῇ ἀριστερᾷ"
+        },
+        {
+          "form": "Λάχεσιν",
+          "lemma": "Λάχεσις",
+          "location": "617d",
+          "context": "τὴν δὲ Λάχεσιν ἐν μέρει"
+        },
+        {
+          "form": "Λάχεσιν",
+          "lemma": "Λάχεσις",
+          "location": "617d",
+          "context": "πρὸς τὴν Λάχεσιν"
+        },
+        {
+          "form": "Λαχέσεως",
+          "lemma": "Λάχεσις",
+          "location": "617d",
+          "context": "ἐκ τῶν τῆς Λαχέσεως γονάτων"
+        },
+        {
+          "form": "Λαχέσεως",
+          "lemma": "Λάχεσις",
+          "location": "617d",
+          "context": "ἀνάγκης θυγατρὸς κόρης Λαχέσεως λόγος"
+        },
+        {
+          "form": "Λάχεσιν",
+          "lemma": "Λάχεσις",
+          "location": "620d",
+          "context": "προσιέναι πρὸς τὴν Λάχεσιν"
+        },
+        {
+          "form": "Κλωθὼ",
+          "lemma": "Κλωθώ",
+          "location": "620e",
+          "context": "πρὸς τὴν Κλωθὼ ὑπὸ τὴν ἐκείνης χεῖρα"
+        },
+        {
+          "form": "Ἀτρόπου",
+          "lemma": "Ἄτροπος",
+          "location": "620e",
+          "context": "ἐπὶ τὴν τῆς Ἀτρόπου ἄγειν νῆσιν"
+        }
+      ],
+      "observation": "The three Fates, daughters of Necessity—Lachesis, Clotho, and Atropos—are named (617c), assigned temporal domains of past, present, and future (617c), described touching the spindle's revolutions with right and left hands (617c-d), Lachesis alternating with each hand (617d), souls must go to Lachesis (617d), lots and life-patterns taken from Lachesis' lap (617d), the prophet's speech is from maiden Lachesis (617d), souls approach Lachesis after choosing (620d), then are led to Clotho (620e) and Atropos (620e)."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κλήρους",
+          "lemma": "κλῆρος",
+          "location": "617d",
+          "context": "λαβόντα ἐκ τῶν τῆς Λαχέσεως γονάτων κλήρους τε καὶ βίων παραδείγματα"
+        },
+        {
+          "form": "κλήρους",
+          "lemma": "κλῆρος",
+          "location": "617e",
+          "context": "ῥῖψαι ἐπὶ πάντας τοὺς κλήρους"
+        },
+        {
+          "form": "κλήρου",
+          "lemma": "κλῆρος",
+          "location": "619d",
+          "context": "διὰ τὴν τοῦ κλήρου τύχην"
+        },
+        {
+          "form": "κλῆρος",
+          "lemma": "κλῆρος",
+          "location": "619e",
+          "context": "ὁ κλῆρος αὐτῷ τῆς αἱρέσεως μὴ ἐν τελευταίοις πίπτοι"
+        }
+      ],
+      "observation": "Lots are taken from Lachesis' lap along with life-patterns (617d), the lots are cast on everyone (617e), fortune of the lot affects change in goods and evils (619d), and the lot of choice should not fall among the last (619e)."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "βίων",
+          "lemma": "βίος",
+          "location": "617d",
+          "context": "κλήρους τε καὶ βίων παραδείγματα"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "617e",
+          "context": "πρῶτος αἱρείσθω βίον"
+        },
+        {
+          "form": "βίων",
+          "lemma": "βίος",
+          "location": "618a",
+          "context": "τὰ τῶν βίων παραδείγματα"
+        },
+        {
+          "form": "βίους",
+          "lemma": "βίος",
+          "location": "618a",
+          "context": "ζῴων τε γὰρ πάντων βίους"
+        },
+        {
+          "form": "βίους",
+          "lemma": "βίος",
+          "location": "618a",
+          "context": "δοκίμων ἀνδρῶν βίους"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "618b",
+          "context": "ἄλλον ἑλομένην βίον"
+        },
+        {
+          "form": "βίου",
+          "lemma": "βίος",
+          "location": "618c",
+          "context": "πρὸς ἀρετὴν βίου πῶς ἔχει"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "618e",
+          "context": "τόν τε χείρω καὶ τὸν ἀμείνω βίον"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "619a",
+          "context": "τὸν μέσον ἀεὶ τῶν τοιούτων βίον αἱρεῖσθαι"
+        },
+        {
+          "form": "βίῳ",
+          "lemma": "βίος",
+          "location": "619a",
+          "context": "ἐν τῷδε τῷ βίῳ κατὰ τὸ δυνατὸν"
+        },
+        {
+          "form": "βίος",
+          "lemma": "βίος",
+          "location": "619b",
+          "context": "κεῖται βίος ἀγαπητός"
+        },
+        {
+          "form": "βίῳ",
+          "lemma": "βίος",
+          "location": "619c",
+          "context": "ἐν τεταγμένῃ πολιτείᾳ ἐν τῷ προτέρῳ βίῳ βεβιωκότα"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "619d",
+          "context": "εἰς τὸν ἐνθάδε βίον ἀφικνοῖτο"
+        },
+        {
+          "form": "βίους",
+          "lemma": "βίος",
+          "location": "620a",
+          "context": "αἱ ψυχαὶ ᾑροῦντο τοὺς βίους"
+        },
+        {
+          "form": "βίου",
+          "lemma": "βίος",
+          "location": "620a",
+          "context": "κύκνου βίον αἱρουμένην"
+        },
+        {
+          "form": "βίου",
+          "lemma": "βίος",
+          "location": "620a",
+          "context": "ἀνθρωπίνου βίου αἵρεσιν"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "620b",
+          "context": "λέοντος βίον"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "620b",
+          "context": "ἀετοῦ διαλλάξαι βίον"
+        },
+        {
+          "form": "βίον",
+          "lemma": "βίος",
+          "location": "620c",
+          "context": "βίον ἀνδρὸς ἰδιώτου ἀπράγμονος"
+        },
+        {
+          "form": "βίου",
+          "lemma": "βίος",
+          "location": "620e",
+          "context": "φύλακα συμπέμπειν τοῦ βίου"
+        }
+      ],
+      "observation": "Lives and life-patterns recur throughout: patterns of lives taken from Lachesis (617d), first to choose a life (617e), patterns of lives laid out (618a), lives of all animals and all humans (618a), lives of reputable men (618a), choosing another life makes the soul different (618b), in relation to virtue of life (618c), worse and better life (618e), the middle life to be chosen (619a), in this life as far as possible (619a), a welcome life lies ready (619b), previous life in an ordered polity (619c), arrival into life here (619e), souls chose lives (620a), swan's life, human life (620a), lion's life (620b), eagle's life (620b), private man's life (620c), guardian of the life (620e)."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "exact_repetition",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "αἱρείσθω",
+          "lemma": "αἱρέω",
+          "location": "617e",
+          "context": "πρῶτος αἱρείσθω βίον"
+        },
+        {
+          "form": "αἱρήσεσθε",
+          "lemma": "αἱρέω",
+          "location": "617e",
+          "context": "ὑμεῖς δαίμονα αἱρήσεσθε"
+        },
+        {
+          "form": "ἑλομένου",
+          "lemma": "αἱρέω",
+          "location": "617e",
+          "context": "αἰτία ἑλομένου"
+        },
+        {
+          "form": "αἱρεῖσθαι",
+          "lemma": "αἱρέω",
+          "location": "618c",
+          "context": "τὸν βελτίω ἐκ τῶν δυνατῶν ἀεὶ πανταχοῦ αἱρεῖσθαι"
+        },
+        {
+          "form": "αἱρεῖσθαι",
+          "lemma": "αἱρέω",
+          "location": "618d",
+          "context": "δυνατὸν εἶναι συλλογισάμενον αἱρεῖσθαι"
+        },
+        {
+          "form": "αἵρεσις",
+          "lemma": "αἵρεσις",
+          "location": "618e",
+          "context": "αὕτη κρατίστη αἵρεσις"
+        },
+        {
+          "form": "αἱρεῖσθαι",
+          "lemma": "αἱρέω",
+          "location": "619a",
+          "context": "τὸν μέσον ἀεὶ τῶν τοιούτων βίον αἱρεῖσθαι"
+        },
+        {
+          "form": "αἱρέσεως",
+          "lemma": "αἵρεσις",
+          "location": "619b",
+          "context": "μήτε ὁ ἄρχων αἱρέσεως ἀμελείτω"
+        },
+        {
+          "form": "ἑλέσθαι",
+          "lemma": "αἱρέω",
+          "location": "619b",
+          "context": "τὴν μεγίστην τυραννίδα ἑλέσθαι"
+        },
+        {
+          "form": "ἑλέσθαι",
+          "lemma": "αἱρέω",
+          "location": "619b",
+          "context": "οὐ πάντα ἱκανῶς ἀνασκεψάμενον ἑλέσθαι"
+        },
+        {
+          "form": "αἵρεσιν",
+          "lemma": "αἵρεσις",
+          "location": "619c",
+          "context": "ὀδύρεσθαι τὴν αἵρεσιν"
+        },
+        {
+          "form": "αἱρέσεις",
+          "lemma": "αἵρεσις",
+          "location": "619d",
+          "context": "οὐκ ἐξ ἐπιδρομῆς τὰς αἱρέσεις ποιεῖσθαι"
+        },
+        {
+          "form": "αἱρέσεως",
+          "lemma": "αἵρεσις",
+          "location": "619e",
+          "context": "τῆς αἱρέσεως μὴ ἐν τελευταίοις πίπτοι"
+        },
+        {
+          "form": "αἱρεῖσθαι",
+          "lemma": "αἱρέω",
+          "location": "620a",
+          "context": "κατὰ συνήθειαν γὰρ τοῦ προτέρου βίου τὰ πολλὰ αἱρεῖσθαι"
+        },
+        {
+          "form": "αἱρουμένην",
+          "lemma": "αἱρέω",
+          "location": "620a",
+          "context": "κύκνου βίον αἱρουμένην"
+        },
+        {
+          "form": "ἑλομένην",
+          "lemma": "αἱρέω",
+          "location": "620a",
+          "context": "τὴν Θαμύρου ἀηδόνος ἑλομένην"
+        },
+        {
+          "form": "αἵρεσιν",
+          "lemma": "αἵρεσις",
+          "location": "620a",
+          "context": "ἀνθρωπίνου βίου αἵρεσιν"
+        },
+        {
+          "form": "ἑλέσθαι",
+          "lemma": "αἱρέω",
+          "location": "620b",
+          "context": "λαχοῦσαν ψυχὴν ἑλέσθαι λέοντος βίον"
+        },
+        {
+          "form": "αἱρησομένην",
+          "lemma": "αἱρέω",
+          "location": "620c",
+          "context": "πασῶν ὑστάτην αἱρησομένην ἰέναι"
+        },
+        {
+          "form": "ἑλέσθαι",
+          "lemma": "αἱρέω",
+          "location": "620d",
+          "context": "ἁσμένην ἑλέσθαι"
+        },
+        {
+          "form": "ᾑρῆσθαι",
+          "lemma": "αἱρέω",
+          "location": "620d",
+          "context": "πάσας τὰς ψυχὰς τοὺς βίους ᾑρῆσθαι"
+        },
+        {
+          "form": "εἵλετο",
+          "lemma": "αἱρέω",
+          "location": "620d",
+          "context": "ὃν εἵλετο δαίμονα"
+        },
+        {
+          "form": "αἱρεθέντων",
+          "lemma": "αἱρέω",
+          "location": "620e",
+          "context": "ἀποπληρωτὴν τῶν αἱρεθέντων"
+        },
+        {
+          "form": "εἵλετο",
+          "lemma": "αἱρέω",
+          "location": "620e",
+          "context": "κυροῦντα ἣν λαχὼν εἵλετο μοῖραν"
+        }
+      ],
+      "observation": "Forms of αἱρέω recur in multiple moods and voices throughout the choice of lives: imperative for the first to choose (617e), future for choosing a daimon (617e), participle for the one who chose (617e), infinitives for choosing always the better (618c, 618d, 619a), nouns for the choice itself (618e, 619b, 619c, 619d, 619e, 620a), aorist forms for completed choices (619b, 619c, 620a, 620b, 620d, 620e), future participle for about to choose (620c), perfect for all souls having chosen (620d), and choices being fulfilled (620e)."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "δαίμονα",
+          "lemma": "δαίμων",
+          "location": "617e",
+          "context": "οὐχ ὑμᾶς δαίμων λήξεται, ἀλλʼ ὑμεῖς δαίμονα αἱρήσεσθε"
+        },
+        {
+          "form": "δαίμονα",
+          "lemma": "δαίμων",
+          "location": "620d",
+          "context": "ὃν εἵλετο δαίμονα, τοῦτον φύλακα συμπέμπειν"
+        }
+      ],
+      "observation": "A daimon will not be allotted to souls, but they will choose a daimon (617e); later, the daimon each chose is sent as guardian and fulfiller of what was chosen (620e)."
+    },
+    {
+      "signal_id": "s028",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετὴ",
+          "lemma": "ἀρετή",
+          "location": "617e",
+          "context": "ἀρετὴ δὲ ἀδέσποτον"
+        },
+        {
+          "form": "ἀρετὴν",
+          "lemma": "ἀρετή",
+          "location": "618c",
+          "context": "πρὸς ἀρετὴν βίου πῶς ἔχει"
+        },
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "619d",
+          "context": "ἄνευ φιλοσοφίας ἀρετῆς μετειληφότα"
+        }
+      ],
+      "observation": "Virtue is without a master (617e), all things must be considered in relation to virtue of life (618c), and one who participated in virtue without philosophy (619d)."
+    },
+    {
+      "signal_id": "s029",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "θεὸς",
+          "lemma": "θεός",
+          "location": "617e",
+          "context": "αἰτία ἑλομένου· θεὸς ἀναίτιος"
+        },
+        {
+          "form": "θεοῖς",
+          "lemma": "θεός",
+          "location": "621c",
+          "context": "ἵνα καὶ ἡμῖν αὐτοῖς φίλοι ὦμεν καὶ τοῖς θεοῖς"
+        }
+      ],
+      "observation": "God is without blame (617e); we should be dear to ourselves and to the gods (621c)."
+    },
+    {
+      "signal_id": "s030",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "τυραννίδας",
+          "lemma": "τυραννίς",
+          "location": "618a",
+          "context": "τυραννίδας τε γὰρ ἐν αὐτοῖς εἶναι"
+        },
+        {
+          "form": "τυραννίδα",
+          "lemma": "τυραννίς",
+          "location": "619b",
+          "context": "τὴν μεγίστην τυραννίδα ἑλέσθαι"
+        },
+        {
+          "form": "τυραννίδας",
+          "lemma": "τυραννίς",
+          "location": "619a",
+          "context": "μὴ ἐμπεσὼν εἰς τυραννίδας"
+        }
+      ],
+      "observation": "Tyrannies among the life-patterns (618a), the first chooser selects the greatest tyranny (619b), and the warning not to fall into tyrannies (619a)."
+    },
+    {
+      "signal_id": "s031",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φιλοσοφίας",
+          "lemma": "φιλοσοφία",
+          "location": "619d",
+          "context": "ἔθει ἄνευ φιλοσοφίας ἀρετῆς μετειληφότα"
+        },
+        {
+          "form": "φιλοσοφοῖ",
+          "lemma": "φιλοσοφέω",
+          "location": "619d",
+          "context": "εἴ τις ἀεί, ὁπότε εἰς τὸν ἐνθάδε βίον ἀφικνοῖτο, ὑγιῶς φιλοσοφοῖ"
+        }
+      ],
+      "observation": "One who participated in virtue by habit without philosophy (619d), and if someone always philosophizes soundly whenever arriving into life here (619e)."
+    },
+    {
+      "signal_id": "s032",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οὐρανοῦ",
+          "lemma": "οὐρανός",
+          "location": "619c",
+          "context": "τῶν ἐκ τοῦ οὐρανοῦ ἡκόντων"
+        },
+        {
+          "form": "γῆς",
+          "lemma": "γῆ",
+          "location": "619d",
+          "context": "τῶν δʼ ἐκ τῆς γῆς τοὺς πολλούς"
+        },
+        {
+          "form": "πόνων",
+          "lemma": "πόνος",
+          "location": "619d",
+          "context": "ἅτε πόνων ἀγυμνάστους"
+        },
+        {
+          "form": "πεπονηκότας",
+          "lemma": "πονέω",
+          "location": "619d",
+          "context": "ἅτε αὐτούς τε πεπονηκότας"
+        }
+      ],
+      "observation": "Those from heaven are untrained in labors and make hasty choices, while those from earth, having labored themselves and seen others labor, do not choose hastily."
+    },
+    {
+      "signal_id": "s033",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χθονίαν",
+          "lemma": "χθόνιος",
+          "location": "619e",
+          "context": "πορείαν οὐκ ἂν χθονίαν καὶ τραχεῖαν πορεύεσθαι"
+        },
+        {
+          "form": "λείαν",
+          "lemma": "λεῖος",
+          "location": "619e",
+          "context": "ἀλλὰ λείαν τε καὶ οὐρανίαν"
+        }
+      ],
+      "observation": "The journey would not be earthly and rough, but smooth and heavenly."
+    },
+    {
+      "signal_id": "s034",
+      "signal_types": [
+        "exact_repetition",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "Ὀρφέως",
+          "lemma": "Ὀρφεύς",
+          "location": "620a",
+          "context": "ψυχὴν ἔφη τήν ποτε Ὀρφέως γενομένην"
+        },
+        {
+          "form": "Θαμύρου",
+          "lemma": "Θάμυρις",
+          "location": "620a",
+          "context": "τὴν Θαμύρου ἀηδόνος ἑλομένην"
+        },
+        {
+          "form": "Αἴαντος",
+          "lemma": "Αἴας",
+          "location": "620b",
+          "context": "εἶναι δὲ τὴν Αἴαντος τοῦ Τελαμωνίου"
+        },
+        {
+          "form": "Ἀγαμέμνονος",
+          "lemma": "Ἀγαμέμνων",
+          "location": "620b",
+          "context": "τὴν δʼ ἐπὶ τούτῳ Ἀγαμέμνονος"
+        },
+        {
+          "form": "Ἀταλάντης",
+          "lemma": "Ἀταλάντη",
+          "location": "620b",
+          "context": "τὴν Ἀταλάντης ψυχήν"
+        },
+        {
+          "form": "Ἐπειοῦ",
+          "lemma": "Ἐπειός",
+          "location": "620c",
+          "context": "τὴν Ἐπειοῦ τοῦ Πανοπέως"
+        },
+        {
+          "form": "Θερσίτου",
+          "lemma": "Θερσίτης",
+          "location": "620c",
+          "context": "τοῦ γελωτοποιοῦ Θερσίτου"
+        },
+        {
+          "form": "Ὀδυσσέως",
+          "lemma": "Ὀδυσσεύς",
+          "location": "620c",
+          "context": "τὴν Ὀδυσσέως λαχοῦσαν πασῶν ὑστάτην"
+        }
+      ],
+      "observation": "Named souls of mythic figures choose lives: Orpheus chooses a swan's life avoiding birth as a woman (620a), Thamyras a nightingale (620a), Ajax a lion avoiding human form after the judgment of arms (620b), Agamemnon an eagle in hatred of humanity (620b), Atalanta an athlete's honors (620b), Epeius a craftwoman's nature (620c), Thersites an ape (620c), and Odysseus last of all a private man's life (620c)."
+    },
+    {
+      "signal_id": "s035",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "Λήθης",
+          "lemma": "Λήθη",
+          "location": "621a",
+          "context": "εἰς τὸ τῆς Λήθης πεδίον"
+        },
+        {
+          "form": "Λήθης",
+          "lemma": "Λήθη",
+          "location": "621c",
+          "context": "τὸν τῆς Λήθης ποταμὸν εὖ διαβησόμεθα"
+        }
+      ],
+      "observation": "The plain of Lethe (621a) and the river of Lethe to be crossed well (621c)."
+    },
+    {
+      "signal_id": "s036",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "Ἀμέλητα",
+          "lemma": "Ἀμέλης",
+          "location": "621a",
+          "context": "παρὰ τὸν Ἀμέλητα ποταμόν"
+        }
+      ],
+      "observation": "The river Ameles, whose water no vessel can hold."
+    },
+    {
+      "signal_id": "s037",
+      "signal_types": [
+        "exact_repetition",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "πιεῖν",
+          "lemma": "πίνω",
+          "location": "621a",
+          "context": "μέτρον μὲν οὖν τι τοῦ ὕδατος πᾶσιν ἀναγκαῖον εἶναι πιεῖν"
+        },
+        {
+          "form": "πίνειν",
+          "lemma": "πίνω",
+          "location": "621a",
+          "context": "τοὺς δὲ φρονήσει μὴ σῳζομένους πλέον πίνειν τοῦ μέτρου"
+        },
+        {
+          "form": "πιόντα",
+          "lemma": "πίνω",
+          "location": "621a",
+          "context": "τὸν δὲ ἀεὶ πιόντα πάντων ἐπιλανθάνεσθαι"
+        },
+        {
+          "form": "πιεῖν",
+          "lemma": "πίνω",
+          "location": "621b",
+          "context": "αὐτὸς δὲ τοῦ μὲν ὕδατος κωλυθῆναι πιεῖν"
+        }
+      ],
+      "observation": "All must drink a measure of the water (621a), those not preserved by wisdom drink more than the measure (621a), whoever drinks forgets everything (621a), and Er himself was prevented from drinking (621b)."
+    },
+    {
+      "signal_id": "s038",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιλανθάνεσθαι",
+          "lemma": "ἐπιλανθάνομαι",
+          "location": "621b",
+          "context": "τὸν δὲ ἀεὶ πιόντα πάντων ἐπιλανθάνεσθαι"
+        }
+      ],
+      "observation": "Whoever drinks the water forgets everything."
+    },
+    {
+      "signal_id": "s039",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "621b",
+          "context": "ἄλλον ἄλλῃ φέρεσθαι ἄνω εἰς τὴν γένεσιν"
+        },
+        {
+          "form": "ἀναβλέψας",
+          "lemma": "ἀναβλέπω",
+          "location": "621b",
+          "context": "ἐξαίφνης ἀναβλέψας ἰδεῖν ἕωθεν αὑτὸν κείμενον ἐπὶ τῇ πυρᾷ"
+        }
+      ],
+      "observation": "Souls are carried upward to birth like shooting stars (621b), and Er suddenly looked up at dawn and saw himself lying on the pyre (621b)."
+    },
+    {
+      "signal_id": "s040",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μῦθος",
+          "lemma": "μῦθος",
+          "location": "621b",
+          "context": "μῦθος ἐσώθη καὶ οὐκ ἀπώλετο"
+        },
+        {
+          "form": "σώσειεν",
+          "lemma": "σῴζω",
+          "location": "621c",
+          "context": "ἡμᾶς ἂν σώσειεν"
+        }
+      ],
+      "observation": "The tale was saved and did not perish (621b), and it would save us if we are persuaded by it (621c)."
+    },
+    {
+      "signal_id": "s041",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "πειθώμεθα",
+          "lemma": "πείθω",
+          "location": "621c",
+          "context": "ἂν πειθώμεθα αὐτῷ"
+        },
+        {
+          "form": "πειθώμεθα",
+          "lemma": "πείθω",
+          "location": "621c",
+          "context": "ἀλλʼ ἂν ἐμοὶ πειθώμεθα"
+        }
+      ],
+      "observation": "If we are persuaded by the tale (621c) and if we are persuaded by me (621c)."
+    },
+    {
+      "signal_id": "s042",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ψυχὴν",
+          "lemma": "ψυχή",
+          "location": "621c",
+          "context": "νομίζοντες ἀθάνατον ψυχὴν"
+        },
+        {
+          "form": "ψυχὴν",
+          "lemma": "ψυχή",
+          "location": "621c",
+          "context": "τὴν ψυχὴν οὐ μιανθησόμεθα"
+        }
+      ],
+      "observation": "Believing the soul immortal (621c) and the soul will not be defiled (621c)."
+    },
+    {
+      "signal_id": "s043",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "φρονήσεως",
+          "lemma": "φρόνησις",
+          "location": "621c",
+          "context": "δικαιοσύνην μετὰ φρονήσεως παντὶ τρόπῳ ἐπιτηδεύσομεν"
+        },
+        {
+          "form": "φρονήσει",
+          "lemma": "φρόνησις",
+          "location": "621a",
+          "context": "τοὺς δὲ φρονήσει μὴ σῳζομένους"
+        }
+      ],
+      "observation": "Those not preserved by wisdom drink more than the measure (621a), and we will practice justice with wisdom in every way (621c)."
+    },
+    {
+      "signal_id": "s044",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἐνθάδε",
+          "lemma": "ἐνθάδε",
+          "location": "621c",
+          "context": "μένοντες ἐνθάδε"
+        },
+        {
+          "form": "ἐνθάδε",
+          "lemma": "ἐνθάδε",
+          "location": "621d",
+          "context": "καὶ ἐνθάδε καὶ ἐν τῇ χιλιέτει πορείᾳ"
+        }
+      ],
+      "observation": "Remaining here (621c) and both here and in the thousand-year journey (621d)."
+    }
+  ]
+}
