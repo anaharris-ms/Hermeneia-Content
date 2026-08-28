@@ -1,0 +1,286 @@
+{
+  "section_id": "republic-chapter-05-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s010"
+      ],
+      "observation": "The initial cluster of animal kinds—hunting dogs, birds, horses, and general ζῷα—establishes an analogy that the later ποίμνιον and ἀγέλη complete: the section moves from comparing guardians to domesticated animals to openly naming the guardian class as 'flock' and 'herd.'"
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s015"
+      ],
+      "observation": "γενναῖος ('noble/well-bred') and γεννάω ('beget') establish quality as inseparable from breeding act in the animal examples; ἐξ ἀκμαζόντων ('from those in their prime') recurs at opening and close, framing the section as a transfer of the breeding principle from animals to humans through the criterion of peak condition."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s008"
+      ],
+      "observation": "The medical cluster (φάρμακον, ἰατρός, φαρμακεύω) is explicitly equated with ψεῦδος and ἀπάτη ('falsehood and deception'), then enacted through the concealment vocabulary (λανθάνειν, ἀπόρρητος, ἄδηλος, κατακρύπτω): the section presents deception not as occasional necessity but as systematic treatment requiring medical-level skill."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "The sequence of festivals, sacrifices, hymns, and lots is capped by calling the lots κομψοί ('clever/elegant') and stating that inferior men will blame τύχη rather than rulers: the entire ceremonial apparatus becomes a single deceptive mechanism whose elegance lies in misdirecting responsibility from human agents to chance."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s011"
+      ],
+      "observation": "γάμος recurs from animal matings through institutional festivals to number-control by rulers; παιδοποιία moves from animal question through breeding policy to guardian women's ease; the festival sequence (ἑορταί, θυσίαι, ὕμνοι, κλῆροι) intervenes between policy and result—marriage becomes progressively layered with ceremony even as its eugenic core remains constant."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "The best/worst pairing (ἄριστοι vs. φαυλότατοι for parents, ἀγαθῶν vs. χειρόνων for offspring) structures the entire breeding program; the concealment vocabulary (λανθάνειν, ἀπόρρητος, ἄδηλος, κατακρύπτω, μηδεμία τὸ αὑτῆς αἰσθήσεται) concentrates around disposing of inferior children—the section's systematic division of superior and inferior culminates in making the inferior vanish from perception."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013"
+      ],
+      "observation": "ἄκρος appears for rulers ('top-quality') and for the flock ('peak condition'); ἄρχων/ἀρχή recurs eight times, with rulers sole knowing agents of every concealed operation—the section makes peak quality of rulers and peak quality of ruled dependent on one another through asymmetric knowledge."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s016"
+      ],
+      "observation": "ποίμνιον and ἀγέλη name guardians as livestock; the σηκός ('pen/enclosure') located χωρὶς ('separately') ἔν τινι μέρει τῆς πόλεως ('in a certain part of the city') provides the spatial enactment—the pastoral metaphor acquires concrete institutional architecture within the city."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "ἄρχων recurs as sole knowing agent throughout; ἀστασίαστος ('free from faction') names the political goal of concealment—the section makes the rulers' epistemic monopoly the condition for the guardians' political unity."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s001",
+        "s002"
+      ],
+      "observation": "Socrates moves from ὁρῶ ('I see') Glaucon's household animals to προσέσχηκάς ('have you attended to') their breeding; this initial seeing-and-asking about animals structures the entire section's movement from animal γάμοι and παιδοποιία to human institutional control—the question about what Glaucon has noticed in his household becomes the template for what rulers will enact in the city."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s016"
+      ],
+      "observation": "The festival sequence (ἑορταί, θυσίαι, ὕμνοι, κλῆροι) provides ceremonial form; the σηκός provides spatial infrastructure for separating good offspring and bringing mothers to nurse—public ritual and hidden enclosure function together as the section's institutional pair."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s003"
+      ],
+      "observation": "Glaucon calls the nursing arrangement πολλὴν ῥᾳστώνην ('great ease') τῆς παιδοποιίας for guardian women; Socrates answers πρέπει γάρ ('it is fitting')—the final exchange on παιδοποιία reduces the entire breeding apparatus to a question of fitting ease, with no further justification offered."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s014"
+      ],
+      "observation": "The ἄριστοι/φαυλότατοι and ἀγαθῶν/χειρόνων pairings structure eugenic selection; ἀστασίαστος names freedom from faction as the goal—the section makes systematic division and ranking of human quality the means to political non-division."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρὸς Διός",
+          "lemma": null,
+          "location": "459a",
+          "context": "ἆρʼ οὖν, ὦ πρὸς Διός, προσέσχηκάς τι τοῖς τούτων γάμοις"
+        }
+      ],
+      "observation": "Socrates invokes Zeus by name (πρὸς Διός) precisely when asking Glaucon whether he has attended to animal breeding—the oath marks the transition from observing Glaucon's household to the analogy that will govern human reproduction."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "νομοθετητέαι",
+          "lemma": "νομοθετέω",
+          "location": "459e",
+          "context": "ἑορταί τινες νομοθετητέαι"
+        },
+        {
+          "form": "ποιητέοι",
+          "lemma": "ποιέω",
+          "location": "459e",
+          "context": "ὕμνοι ποιητέοι"
+        },
+        {
+          "form": "ποιήσομεν",
+          "lemma": "ποιέω",
+          "location": "460a",
+          "context": "ἐπὶ τοῖς ἄρχουσι ποιήσομεν"
+        },
+        {
+          "form": "ποιητέοι",
+          "lemma": "ποιέω",
+          "location": "460a",
+          "context": "κλῆροι δή τινες οἶμαι ποιητέοι κομψοί"
+        }
+      ],
+      "observation": "Four verbal adjectives in -τέος concentrate in the institutional sequence: festivals must-be-legislated, hymns must-be-made, number-of-marriages we-will-make, lots must-be-made—the necessity mood saturates the construction of the ceremonial apparatus."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "νύμφας",
+          "lemma": "νύμφη",
+          "location": "459e",
+          "context": "συνάξομεν τάς τε νύμφας καὶ τοὺς νυμφίους"
+        },
+        {
+          "form": "νυμφίους",
+          "lemma": "νυμφίος",
+          "location": "459e",
+          "context": null
+        }
+      ],
+      "observation": "νύμφη and νυμφίος ('brides and bridegrooms') appear as the human counterparts to be gathered at festivals, providing the ceremonial naming for those selected through the eugenic scheme."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθῶς",
+          "location": "459d",
+          "context": "καὶ ὀρθῶς γε, ἔφη"
+        },
+        {
+          "form": "ὀρθότατα",
+          "lemma": "ὀρθός",
+          "location": "459e",
+          "context": "ὀρθότατα, ἔφη"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθῶς",
+          "location": "460a",
+          "context": "ὀρθῶς, ἔφη"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθῶς",
+          "location": "460b",
+          "context": "ὀρθῶς"
+        }
+      ],
+      "observation": "Glaucon responds ὀρθῶς or ὀρθότατα ('rightly,' 'most rightly') four times in swift succession, rhythmically endorsing the deception-drug analogy, the eugenic breeding principle, the concealment requirement, and the institutional apparatus."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βαβαῖ",
+          "lemma": null,
+          "location": "459b",
+          "context": "βαβαῖ, ἦν δʼ ἐγώ, ὦ φίλε ἑταῖρε"
+        }
+      ],
+      "observation": "Socrates' exclamation βαβαῖ (expressing surprise or emphasis) and the vocative φίλε ἑταῖρε ('dear comrade') mark the moment of transition from animal analogy to the requirement for ἄκρων rulers—the emotional and relational register intensifies precisely when the human application is stated."
+    },
+    {
+      "signal_types": [
+        "local_density",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γέρα",
+          "lemma": "γέρας",
+          "location": "460b",
+          "context": "γέρα δοτέον καὶ ἆθλα"
+        },
+        {
+          "form": "ἆθλα",
+          "lemma": "ἆθλον",
+          "location": "460b",
+          "context": null
+        },
+        {
+          "form": "ἐξουσία",
+          "lemma": "ἐξουσία",
+          "location": "460b",
+          "context": "ἀφθονεστέρα ἡ ἐξουσία τῆς τῶν γυναικῶν συγκοιμήσεως"
+        },
+        {
+          "form": "προφάσεως",
+          "lemma": "πρόφασις",
+          "location": "460b",
+          "context": "μετὰ προφάσεως"
+        }
+      ],
+      "observation": "Honors (γέρα), prizes (ἆθλα), and more abundant sexual ἐξουσία ('license/authority') are granted to the good among the young, explicitly μετὰ προφάσεως ('under pretext')—the section names eugenic reproduction as reward camouflaged by honorific justification."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τροφοὺς",
+          "lemma": "τροφός",
+          "location": "460c",
+          "context": "παρά τινας τροφοὺς"
+        },
+        {
+          "form": "τροφῆς",
+          "lemma": "τροφή",
+          "location": "460c",
+          "context": "καὶ τροφῆς οὗτοι ἐπιμελήσονται"
+        },
+        {
+          "form": "τροφοῖς",
+          "lemma": "τροφός",
+          "location": "460d",
+          "context": "τίτθαις τε καὶ τροφοῖς παραδώσουσιν"
+        }
+      ],
+      "observation": "τροφός ('nurse/caretaker') appears three times, with τροφή ('nursing/rearing') once—the concentration names the delegation of infant care to specialized personnel separate from biological mothers."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "καθαρὸν τὸ γένος",
+          "lemma": null,
+          "location": "460c",
+          "context": "εἴπερ μέλλει … καθαρὸν τὸ γένος τῶν φυλάκων ἔσεσθαι"
+        }
+      ],
+      "observation": "Glaucon states that hiding defective offspring is necessary εἴπερ μέλλει καθαρὸν τὸ γένος ('if indeed the breed/race is going to be pure')—purity of γένος is named as the explicit goal justifying concealment."
+    }
+  ]
+}
