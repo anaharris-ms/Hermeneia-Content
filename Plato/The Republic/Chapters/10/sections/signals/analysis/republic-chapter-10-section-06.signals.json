@@ -1,0 +1,1126 @@
+{
+  "section_id": "republic-chapter-10-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀθάνατος",
+          "lemma": "ἀθάνατος",
+          "location": "608c",
+          "context": "οἴει ἀθανάτῳ πράγματι"
+        },
+        {
+          "form": "ἀθάνατος",
+          "lemma": "ἀθάνατος",
+          "location": "608d",
+          "context": "ἀθάνατος ἡμῶν ἡ ψυχὴ"
+        },
+        {
+          "form": "ἀθανάτους",
+          "lemma": "ἀθάνατος",
+          "location": "610c",
+          "context": "ἀθανάτους τὰς ψυχὰς ὁμολογεῖν"
+        },
+        {
+          "form": "ἀθανάτων",
+          "lemma": "ἀθάνατος",
+          "location": "611a",
+          "context": "ὁτιοῦν τῶν ἀθανάτων πλέον γίγνοιτο"
+        },
+        {
+          "form": "ἀθάνατα",
+          "lemma": "ἀθάνατος",
+          "location": "611a",
+          "context": "πάντα ἂν εἴη τελευτῶντα ἀθάνατα"
+        },
+        {
+          "form": "ἀθάνατον",
+          "lemma": "ἀθάνατος",
+          "location": "611b",
+          "context": "ἀθάνατον ψυχή"
+        },
+        {
+          "form": "ἀθάνατον",
+          "lemma": "ἀθάνατος",
+          "location": "611b",
+          "context": "ὅτι μὲν τοίνυν ἀθάνατον ψυχή"
+        },
+        {
+          "form": "ἀθανάτῳ",
+          "lemma": "ἀθάνατος",
+          "location": "611e",
+          "context": "συγγενὴς οὖσα τῷ τε θείῳ καὶ ἀθανάτῳ"
+        }
+      ],
+      "observation": "Forms of ἀθάνατος recur eight times, moving from Socrates' question about an immortal thing, to the assertion that the soul is immortal, to the requirement that an interlocutor acknowledge immortal souls, to arguments about the nature of immortals, and finally to the soul's kinship with the immortal."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπόλλυται",
+          "lemma": "ἀπόλλυμι",
+          "location": "608d",
+          "context": "ἡ ψυχὴ καὶ οὐδέποτε ἀπόλλυται"
+        },
+        {
+          "form": "ἀπολλύον",
+          "lemma": "ἀπόλλυμι",
+          "location": "608e",
+          "context": "τὸ μὲν ἀπολλύον καὶ διαφθεῖρον πᾶν τὸ κακὸν εἶναι"
+        },
+        {
+          "form": "ἀπολλύσιν",
+          "lemma": "ἀπόλλυμι",
+          "location": "609a",
+          "context": "τὸ σύμφυτον ἄρα κακὸν ἑκάστου καὶ ἡ πονηρία ἕκαστον ἀπολλύσιν"
+        },
+        {
+          "form": "ἀπολέσῃ",
+          "lemma": "ἀπόλλυμι",
+          "location": "609b",
+          "context": "οὐ γὰρ τό γε ἀγαθὸν μή ποτέ τι ἀπολέσῃ"
+        },
+        {
+          "form": "ἀπολλύον",
+          "lemma": "ἀπόλλυμι",
+          "location": "609b",
+          "context": "τοῦτο μέντοι οὐχ οἷόν τε αὐτὸ λύειν ἀπολλύον"
+        },
+        {
+          "form": "ἀπόλλυσι",
+          "lemma": "ἀπόλλυμι",
+          "location": "609c",
+          "context": "ἦ οὖν τι τούτων αὐτὴν διαλύει τε καὶ ἀπόλλυσι"
+        },
+        {
+          "form": "ἀπολωλέναι",
+          "lemma": "ἀπόλλυμι",
+          "location": "609c",
+          "context": "τότε ἀπολωλέναι ὑπὸ τῆς ἀδικίας"
+        },
+        {
+          "form": "ἀπολωλέναι",
+          "lemma": "ἀπόλλυμι",
+          "location": "609e",
+          "context": "φήσομεν αὐτὸ διʼ ἐκεῖνα ὑπὸ τῆς αὑτοῦ κακίας νόσου οὔσης ἀπολωλέναι"
+        },
+        {
+          "form": "ἀπόλλυσθαι",
+          "lemma": "ἀπόλλυμι",
+          "location": "610a",
+          "context": "ὑπὸ ἀλλοτρίου κακοῦ ἄνευ τῆς ἰδίας πονηρίας ψυχὴν ἀπόλλυσθαι"
+        },
+        {
+          "form": "ἀπόλλυσθαι",
+          "lemma": "ἀπόλλυμι",
+          "location": "610b",
+          "context": "μηδὲν μᾶλλόν ποτε ψυχὴν ἀπόλλυσθαι"
+        },
+        {
+          "form": "ἀπόλλυσθαι",
+          "lemma": "ἀπόλλυμι",
+          "location": "610c",
+          "context": "μήτε ψυχὴν μήτε ἄλλο μηδὲν ἐῶμεν φάναι τινὰ ἀπόλλυσθαι"
+        },
+        {
+          "form": "ἀπολέσαι",
+          "lemma": "ἀπόλλυμι",
+          "location": "610e",
+          "context": "ἥ γε οἰκεία πονηρία καὶ τὸ οἰκεῖον κακὸν ἀποκτεῖναι καὶ ἀπολέσαι ψυχήν"
+        },
+        {
+          "form": "ἀπολεῖ",
+          "lemma": "ἀπόλλυμι",
+          "location": "610e",
+          "context": "ψυχὴν ἤ τι ἄλλο ἀπολεῖ"
+        },
+        {
+          "form": "ἀπόλλυται",
+          "lemma": "ἀπόλλυμι",
+          "location": "610e",
+          "context": "ὁπότε μηδʼ ὑφʼ ἑνὸς ἀπόλλυται κακοῦ"
+        },
+        {
+          "form": "ἀπολλυμένης",
+          "lemma": "ἀπόλλυμι",
+          "location": "611a",
+          "context": "οὔτε γὰρ ἄν που ἐλάττους γένοιντο μηδεμιᾶς ἀπολλυμένης"
+        }
+      ],
+      "observation": "Forms of ἀπόλλυμι recur fifteen times, moving from the initial negation that the soul never perishes, through repeated examinations of what destroys and what is destroyed, to the final conclusion that the soul is not destroyed by any evil."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κακὸν",
+          "lemma": "κακός",
+          "location": "608d",
+          "context": "ἀγαθόν τι, εἶπον, καὶ κακὸν καλεῖς"
+        },
+        {
+          "form": "κακὸν",
+          "lemma": "κακός",
+          "location": "608e",
+          "context": "τὸ μὲν ἀπολλύον καὶ διαφθεῖρον πᾶν τὸ κακὸν εἶναι"
+        },
+        {
+          "form": "κακὸν",
+          "lemma": "κακός",
+          "location": "608e",
+          "context": "κακὸν ἑκάστῳ τι καὶ ἀγαθὸν λέγεις"
+        },
+        {
+          "form": "κακόν",
+          "lemma": "κακός",
+          "location": "609a",
+          "context": "σχεδὸν πᾶσι σύμφυτον ἑκάστῳ κακόν τε καὶ νόσημα"
+        },
+        {
+          "form": "κακὸν",
+          "lemma": "κακός",
+          "location": "609a",
+          "context": "τὸ σύμφυτον ἄρα κακὸν ἑκάστου καὶ ἡ πονηρία ἕκαστον ἀπολλύσιν"
+        },
+        {
+          "form": "κακὸν",
+          "lemma": "κακός",
+          "location": "609b",
+          "context": "ᾧ ἔστι μὲν κακὸν ὃ ποιεῖ αὐτὸ μοχθηρόν"
+        },
+        {
+          "form": "κακήν",
+          "lemma": "κακός",
+          "location": "609b",
+          "context": "ψυχῇ ἆρʼ οὐκ ἔστιν ὃ ποιεῖ αὐτὴν αὐτὴν κακήν"
+        },
+        {
+          "form": "κακοῦ",
+          "lemma": "κακός",
+          "location": "610a",
+          "context": "ὑπὸ ἀλλοτρίου κακοῦ μὴ ἐμποιήσαντος τὸ ἔμφυτον κακόν"
+        },
+        {
+          "form": "κακὸν",
+          "lemma": "κακός",
+          "location": "610e",
+          "context": "τὸ οἰκεῖον κακὸν ἀποκτεῖναι καὶ ἀπολέσαι ψυχήν"
+        },
+        {
+          "form": "κακὸν",
+          "lemma": "κακός",
+          "location": "610e",
+          "context": "τό γε ἐπʼ ἄλλου ὀλέθρῳ τεταγμένον κακὸν"
+        },
+        {
+          "form": "κακοῦ",
+          "lemma": "κακός",
+          "location": "610e",
+          "context": "μηδʼ ὑφʼ ἑνὸς ἀπόλλυται κακοῦ"
+        },
+        {
+          "form": "κακῶν",
+          "lemma": "κακός",
+          "location": "610d",
+          "context": "ἀπαλλαγὴ γὰρ ἂν εἴη κακῶν"
+        },
+        {
+          "form": "κακῶν",
+          "lemma": "κακός",
+          "location": "611c",
+          "context": "ὑπό τε τῆς τοῦ σώματος κοινωνίας καὶ ἄλλων κακῶν"
+        },
+        {
+          "form": "κακῶν",
+          "lemma": "κακός",
+          "location": "611d",
+          "context": "διακειμένην ὑπὸ μυρίων κακῶν"
+        }
+      ],
+      "observation": "Forms of κακός recur throughout the section as the central term in the argument, beginning with the general question of good and evil, moving through the specific evil that makes each thing bad, and culminating in the soul's condition affected by countless evils."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "πονηρία",
+          "lemma": "πονηρία",
+          "location": "609a",
+          "context": "τὸ σύμφυτον ἄρα κακὸν ἑκάστου καὶ ἡ πονηρία ἕκαστον ἀπολλύσιν"
+        },
+        {
+          "form": "πονηρίας",
+          "lemma": "πονηρία",
+          "location": "609e",
+          "context": "ὑπὸ τῆς τῶν σιτίων πονηρίας"
+        },
+        {
+          "form": "πονηρία",
+          "lemma": "πονηρία",
+          "location": "609e",
+          "context": "ἐὰν μὲν ἐμποιῇ ἡ αὐτῶν πονηρία τῶν σιτίων"
+        },
+        {
+          "form": "πονηρίας",
+          "lemma": "πονηρία",
+          "location": "610a",
+          "context": "ὑπὸ σιτίων πονηρίας"
+        },
+        {
+          "form": "πονηρία",
+          "lemma": "πονηρία",
+          "location": "610a",
+          "context": "ἐὰν μὴ σώματος πονηρία ψυχῇ ψυχῆς πονηρίαν ἐμποιῇ"
+        },
+        {
+          "form": "πονηρίαν",
+          "lemma": "πονηρία",
+          "location": "610a",
+          "context": "σώματος πονηρία ψυχῇ ψυχῆς πονηρίαν ἐμποιῇ"
+        },
+        {
+          "form": "πονηρίας",
+          "lemma": "πονηρία",
+          "location": "610a",
+          "context": "ὑπὸ ἀλλοτρίου κακοῦ ἄνευ τῆς ἰδίας πονηρίας"
+        },
+        {
+          "form": "πονηρία",
+          "lemma": "πονηρία",
+          "location": "610e",
+          "context": "ἥ γε οἰκεία πονηρία καὶ τὸ οἰκεῖον κακὸν"
+        }
+      ],
+      "observation": "Forms of πονηρία recur eight times in a dense concentration, moving from the general statement that each thing's wickedness destroys it, through the extended argument about food's wickedness and the body, to the conclusion that the soul's own wickedness cannot destroy it."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκείου",
+          "lemma": "οἰκεῖος",
+          "location": "611a",
+          "context": "μηδʼ ὑφʼ ἑνὸς ἀπόλλυται κακοῦ, μήτε οἰκείου μήτε ἀλλοτρίου"
+        },
+        {
+          "form": "ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "611a",
+          "context": "μήτε οἰκείου μήτε ἀλλοτρίου"
+        },
+        {
+          "form": "οἰκεία",
+          "lemma": "οἰκεῖος",
+          "location": "610e",
+          "context": "ἥ γε οἰκεία πονηρία καὶ τὸ οἰκεῖον κακὸν"
+        },
+        {
+          "form": "οἰκεῖον",
+          "lemma": "οἰκεῖος",
+          "location": "610e",
+          "context": "ἥ γε οἰκεία πονηρία καὶ τὸ οἰκεῖον κακὸν"
+        },
+        {
+          "form": "ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "610a",
+          "context": "ὑπὸ ἀλλοτρίου κακοῦ ἄνευ τῆς ἰδίας πονηρίας"
+        },
+        {
+          "form": "ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "610b",
+          "context": "ἀλλοτρίου δὲ κακοῦ ἐν ἄλλῳ γιγνομένου"
+        },
+        {
+          "form": "ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "610a",
+          "context": "ὑπʼ ἀλλοτρίου κακῷ ἕτερον"
+        }
+      ],
+      "observation": "The contrast between οἰκεῖος (one's own) and ἀλλότριος (another's) recurs as the central distinction in the argument about what can destroy the soul, with the claim that only its own evil could destroy it, not another's."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀδικία",
+          "lemma": "ἀδικία",
+          "location": "609c",
+          "context": "ἀδικία τε καὶ ἀκολασία καὶ δειλία καὶ ἀμαθία"
+        },
+        {
+          "form": "ἀδικίας",
+          "lemma": "ἀδικία",
+          "location": "609c",
+          "context": "ἀπολωλέναι ὑπὸ τῆς ἀδικίας"
+        },
+        {
+          "form": "ἀδικία",
+          "lemma": "ἀδικία",
+          "location": "609d",
+          "context": "ἆρα ἐνοῦσα ἐν αὐτῇ ἀδικία καὶ ἡ ἄλλη κακία"
+        },
+        {
+          "form": "ἀδικίαν",
+          "lemma": "ἀδικία",
+          "location": "610c",
+          "context": "τὴν ἀδικίαν εἶναι θανάσιμον τῷ ἔχοντι ὥσπερ νόσον"
+        },
+        {
+          "form": "ἀδικία",
+          "lemma": "ἀδικία",
+          "location": "610d",
+          "context": "οὐκ ἄρα πάνδεινον φανεῖται ἡ ἀδικία"
+        },
+        {
+          "form": "ἀδικίας",
+          "lemma": "ἀδικία",
+          "location": "611c",
+          "context": "ἐναργέστερον δικαιοσύνας τε καὶ ἀδικίας διόψεται"
+        }
+      ],
+      "observation": "Forms of ἀδικία recur six times, beginning as one of the evils that makes the soul bad, examined as potentially destroying the soul, tested as possibly being deadly like a disease, declared not terrible if it were deadly, and finally mentioned as something that will be seen more clearly when the soul is viewed in its pure state."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θανάσιμον",
+          "lemma": "θανάσιμος",
+          "location": "610c",
+          "context": "τὴν ἀδικίαν εἶναι θανάσιμον τῷ ἔχοντι ὥσπερ νόσον"
+        },
+        {
+          "form": "θανάσιμον",
+          "lemma": "θανάσιμος",
+          "location": "610d",
+          "context": "εἰ θανάσιμον ἔσται τῷ λαμβάνοντι"
+        },
+        {
+          "form": "θανάσιμος",
+          "lemma": "θανάσιμος",
+          "location": "610e",
+          "context": "οὕτω πόρρω που, ὡς ἔοικεν, ἐσκήνηται τοῦ θανάσιμος εἶναι"
+        }
+      ],
+      "observation": "Forms of θανάσιμος appear three times in a brief sequence, testing whether injustice is deadly to the one who possesses it and concluding that injustice is very far from being deadly."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀποθνῄσκειν",
+          "lemma": "ἀποθνῄσκω",
+          "location": "610d",
+          "context": "τοὺς μὲν μάλιστα θᾶττον, τοὺς δʼ ἧττον σχολαίτερον... ἀποθνῄσκειν"
+        },
+        {
+          "form": "ἀποθνῄσκουσιν",
+          "lemma": "ἀποθνῄσκω",
+          "location": "610d",
+          "context": "ὑπʼ ἄλλων δίκην ἐπιτιθέντων ἀποθνῄσκουσιν οἱ ἄδικοι"
+        },
+        {
+          "form": "ἀποθνῃσκόντων",
+          "lemma": "ἀποθνῄσκω",
+          "location": "610c",
+          "context": "τῶν ἀποθνῃσκόντων ἀδικώτεραι αἱ ψυχαὶ διὰ τὸν θάνατον γίγνονται"
+        },
+        {
+          "form": "ἀποθνῄσκων",
+          "lemma": "ἀποθνῄσκω",
+          "location": "610c",
+          "context": "πονηρότερος καὶ ἀδικώτερος γίγνεται ὁ ἀποθνῄσκων"
+        }
+      ],
+      "observation": "Forms of ἀποθνῄσκω recur four times in close sequence, examining whether the souls of those dying become more unjust through death, whether the one dying becomes worse, and whether the unjust die by injustice itself or by others imposing penalty."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θάνατον",
+          "lemma": "θάνατος",
+          "location": "609d",
+          "context": "ἕως ἂν εἰς θάνατον ἀγαγοῦσα τοῦ σώματος χωρίσῃ"
+        },
+        {
+          "form": "θάνατον",
+          "lemma": "θάνατος",
+          "location": "610c",
+          "context": "τῶν ἀποθνῃσκόντων ἀδικώτεραι αἱ ψυχαὶ διὰ τὸν θάνατον γίγνονται"
+        }
+      ],
+      "observation": "θάνατον appears twice, first as the potential end point if injustice were to lead the soul to death and separate it from the body, and then in the question of whether souls become more unjust through death."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "διαφθεῖρον",
+          "lemma": "διαφθείρω",
+          "location": "608e",
+          "context": "τὸ μὲν ἀπολλύον καὶ διαφθεῖρον πᾶν τὸ κακὸν εἶναι"
+        },
+        {
+          "form": "διαφθείρειεν",
+          "lemma": "διαφθείρω",
+          "location": "609b",
+          "context": "οὐκ ἂν ἄλλο γε αὐτὸ ἔτι διαφθείρειεν"
+        },
+        {
+          "form": "διαφθειρούσης",
+          "lemma": "διαφθείρω",
+          "location": "609d",
+          "context": "τῷ προσκαθῆσθαι καὶ ἐνεῖναι διαφθειρούσης"
+        },
+        {
+          "form": "διαφθείρεσθαι",
+          "lemma": "διαφθείρω",
+          "location": "610a",
+          "context": "οὐδέποτε ἀξιώσομεν διαφθείρεσθαι"
+        }
+      ],
+      "observation": "Forms of διαφθείρω recur four times, establishing the general principle that evil corrupts and destroys, examining whether anything else can corrupt what its own evil cannot, and concluding that the soul cannot be corrupted by another's evil without its own."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "νόσον",
+          "lemma": "νόσος",
+          "location": "609a",
+          "context": "σύμπαντι τῷ σώματι νόσον"
+        },
+        {
+          "form": "νόσημα",
+          "lemma": "νόσημα",
+          "location": "609a",
+          "context": "σχεδὸν πᾶσι σύμφυτον ἑκάστῳ κακόν τε καὶ νόσημα"
+        },
+        {
+          "form": "νόσου",
+          "lemma": "νόσος",
+          "location": "609e",
+          "context": "ὑπὸ τῆς αὑτοῦ κακίας νόσου οὔσης"
+        },
+        {
+          "form": "νόσου",
+          "lemma": "νόσος",
+          "location": "609e",
+          "context": "διʼ ἐκεῖνα ὑπὸ τῆς αὑτοῦ κακίας νόσου οὔσης ἀπολωλέναι"
+        },
+        {
+          "form": "νόσον",
+          "lemma": "νόσος",
+          "location": "610c",
+          "context": "τὴν ἀδικίαν εἶναι θανάσιμον τῷ ἔχοντι ὥσπερ νόσον"
+        }
+      ],
+      "observation": "Forms of νόσος and νόσημα recur five times, establishing disease as the innate evil of the body, comparing wickedness to disease, and testing whether injustice might be deadly like a disease."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "609a",
+          "context": "σύμπαντι τῷ σώματι νόσον"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "609c",
+          "context": "ὥσπερ σῶμα ἡ σώματος πονηρία νόσος οὖσα"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "609c",
+          "context": "ὥσπερ σῶμα ἡ σώματος πονηρία"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "609c",
+          "context": "εἰς τὸ μηδὲ σῶμα εἶναι"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "609d",
+          "context": "εἰς θάνατον ἀγαγοῦσα τοῦ σώματος χωρίσῃ"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "609e",
+          "context": "οὐκ οἰόμεθα δεῖν σῶμα ἀπόλλυσθαι"
+        },
+        {
+          "form": "σώματι",
+          "lemma": "σῶμα",
+          "location": "609e",
+          "context": "ἡ αὐτῶν πονηρία τῶν σιτίων τῷ σώματι σώματος μοχθηρίαν"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "609e",
+          "context": "τῷ σώματι σώματος μοχθηρίαν"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "610a",
+          "context": "ἄλλων ὄντων ἄλλο ὂν τὸ σῶμα"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "610a",
+          "context": "ἐὰν μὴ σώματος πονηρία ψυχῇ"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "610b",
+          "context": "διὰ ταῦτα τὰ παθήματα τοῦ σώματος"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "610b",
+          "context": "ὅλον τὸ σῶμα κατατέμοι"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "611c",
+          "context": "ὑπό τε τῆς τοῦ σώματος κοινωνίας"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "611d",
+          "context": "τὰ παλαιὰ τοῦ σώματος μέρη"
+        }
+      ],
+      "observation": "Forms of σῶμα recur fourteen times, beginning with the body's disease, developing the analogy between the body's destruction by its own evil and the soul's potential destruction, and concluding with the soul's association with the body that has obscured its true nature."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "exact_repetition",
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔχει γάρ, ἔφη, λόγον",
+          "lemma": null,
+          "location": "610a",
+          "context": "κατὰ τὸν αὐτὸν τοίνυν λόγον... ἔχει γάρ, ἔφη, λόγον"
+        }
+      ],
+      "observation": "The phrase ἔχει γάρ, ἔφη, λόγον appears as Glaucon's acknowledgment that Socrates' argument according to the same reasoning makes sense."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "θεάσασθαι",
+          "lemma": "θεάομαι",
+          "location": "611c",
+          "context": "οὐ λελωβημένον δεῖ αὐτὸ θεάσασθαι"
+        },
+        {
+          "form": "θεώμεθα",
+          "lemma": "θεάομαι",
+          "location": "611c",
+          "context": "ὥσπερ νῦν ἡμεῖς θεώμεθα"
+        },
+        {
+          "form": "τεθεάμεθα",
+          "lemma": "θεάομαι",
+          "location": "611c",
+          "context": "τεθεάμεθα μέντοι διακείμενον αὐτό"
+        },
+        {
+          "form": "θεώμεθα",
+          "lemma": "θεάομαι",
+          "location": "611d",
+          "context": "οὕτω καὶ τὴν ψυχὴν ἡμεῖς θεώμεθα διακειμένην"
+        }
+      ],
+      "observation": "Forms of θεάομαι recur four times in a close sequence, contrasting the need to view the soul unmutilated with the present viewing of it in its current condition, and comparing this present viewing to viewing the sea-god Glaucus."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "Γλαῦκον",
+          "lemma": "Γλαύκων",
+          "location": "609e",
+          "context": "ἐννόει γάρ, ἦν δʼ ἐγώ, ὦ Γλαύκων"
+        },
+        {
+          "form": "Γλαύκων",
+          "lemma": "Γλαύκων",
+          "location": "611d",
+          "context": "ἀλλὰ δεῖ, ὦ Γλαύκων, ἐκεῖσε βλέπειν"
+        },
+        {
+          "form": "Γλαῦκον",
+          "lemma": "Γλαῦκος",
+          "location": "611d",
+          "context": "τὸν θαλάττιον Γλαῦκον"
+        }
+      ],
+      "observation": "Glaucon is addressed by name at 609e and 611d, and between these direct addresses the sea-god Glaucus (θαλάττιον Γλαῦκον) is mentioned as a figure whose ancient nature cannot easily be seen because of accretions."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐκκεκλάσθαι",
+          "lemma": "ἐκκλάω",
+          "location": "611d",
+          "context": "τὰ μὲν ἐκκεκλάσθαι"
+        },
+        {
+          "form": "συντετρῖφθαι",
+          "lemma": "συντρίβω",
+          "location": "611d",
+          "context": "τὰ δὲ συντετρῖφθαι"
+        },
+        {
+          "form": "λελωβῆσθαι",
+          "lemma": "λωβάομαι",
+          "location": "611d",
+          "context": "πάντως λελωβῆσθαι ὑπὸ τῶν κυμάτων"
+        },
+        {
+          "form": "προσπεφυκέναι",
+          "lemma": "προσφύω",
+          "location": "611d",
+          "context": "ἄλλα δὲ προσπεφυκέναι, ὄστρεά τε καὶ φυκία καὶ πέτρας"
+        },
+        {
+          "form": "λελωβημένον",
+          "lemma": "λωβάομαι",
+          "location": "611b",
+          "context": "οὐ λελωβημένον δεῖ αὐτὸ θεάσασθαι"
+        }
+      ],
+      "observation": "A cluster of perfect passive participles describes the condition of the sea-god Glaucus: parts broken off, worn down, mutilated by waves, and other things grown upon him; this is preceded by the statement that the soul must be viewed not mutilated (λελωβημένον)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ὄστρεά",
+          "lemma": "ὄστρεον",
+          "location": "611d",
+          "context": "ὄστρεά τε καὶ φυκία καὶ πέτρας"
+        },
+        {
+          "form": "ὄστρεα",
+          "lemma": "ὄστρεον",
+          "location": "612a",
+          "context": "περικρουσθεῖσα πέτρας τε καὶ ὄστρεα"
+        }
+      ],
+      "observation": "ὄστρεα appears twice, first describing the shells grown upon the sea-god Glaucus, then describing what the soul would be knocked free from if it followed its impulse toward the divine."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πέτρας",
+          "lemma": "πέτρα",
+          "location": "611d",
+          "context": "ὄστρεά τε καὶ φυκία καὶ πέτρας"
+        },
+        {
+          "form": "πέτρας",
+          "lemma": "πέτρα",
+          "location": "612a",
+          "context": "περικρουσθεῖσα πέτρας τε καὶ ὄστρεα"
+        },
+        {
+          "form": "πετρώδη",
+          "lemma": "πετρώδης",
+          "location": "612a",
+          "context": "γεηρὰ καὶ πετρώδη πολλὰ καὶ ἄγρια"
+        }
+      ],
+      "observation": "Forms related to πέτρα recur three times, first as rocks grown upon Glaucus, then as what the soul would be knocked free from, and finally as rocky things grown upon the soul because of earthly feastings."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φιλοσοφίαν",
+          "lemma": "φιλοσοφία",
+          "location": "611e",
+          "context": "εἰς τὴν φιλοσοφίαν αὐτῆς"
+        }
+      ],
+      "observation": "φιλοσοφίαν appears as that toward which one must look to understand what the soul touches and what companionships it desires."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θείῳ",
+          "lemma": "θεῖος",
+          "location": "611e",
+          "context": "συγγενὴς οὖσα τῷ τε θείῳ καὶ ἀθανάτῳ"
+        },
+        {
+          "form": "ἀεὶ ὄντι",
+          "lemma": null,
+          "location": "611e",
+          "context": "καὶ τῷ ἀεὶ ὄντι"
+        }
+      ],
+      "observation": "The soul is described as kindred to the divine, the immortal, and that which always is, a triad of affiliations indicating its true nature."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀεὶ",
+          "lemma": "ἀεί",
+          "location": "611a",
+          "context": "ἀνάγκη αὐτὸ ἀεὶ ὂν εἶναι· εἰ δʼ ἀεὶ ὄν, ἀθάνατον"
+        },
+        {
+          "form": "ἀεὶ",
+          "lemma": "ἀεί",
+          "location": "611a",
+          "context": "ἐννοεῖς ὅτι ἀεὶ ἂν εἶεν αἱ αὐταί"
+        },
+        {
+          "form": "ἀεὶ",
+          "lemma": "ἀεί",
+          "location": "611e",
+          "context": "καὶ τῷ ἀεὶ ὄντι"
+        }
+      ],
+      "observation": "ἀεί recurs three times, establishing that the soul must always exist, that the same souls would always exist, and that the soul is kindred to that which always is."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐλάττους",
+          "lemma": "ἐλάττων",
+          "location": "611a",
+          "context": "οὔτε γὰρ ἄν που ἐλάττους γένοιντο"
+        },
+        {
+          "form": "πλείους",
+          "lemma": "πλείων",
+          "location": "611a",
+          "context": "οὔτε αὖ πλείους"
+        },
+        {
+          "form": "πλέον",
+          "lemma": "πλείων",
+          "location": "611a",
+          "context": "εἰ γὰρ ὁτιοῦν τῶν ἀθανάτων πλέον γίγνοιτο"
+        }
+      ],
+      "observation": "Comparative forms ἐλάττους and πλείους/πλέον appear in close proximity as part of the argument that immortal souls can become neither fewer nor more in number."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θνητοῦ",
+          "lemma": "θνητός",
+          "location": "611a",
+          "context": "ἐκ τοῦ θνητοῦ ἂν γίγνοιτο"
+        }
+      ],
+      "observation": "θνητοῦ appears once in the argument that if immortals could increase in number, they would have to come from the mortal, and all things would end up being immortal."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σύνθετον",
+          "lemma": "σύνθετος",
+          "location": "611b",
+          "context": "οὐ ῥᾴδιον, ἦν δʼ ἐγώ, ἀίδιον εἶναι σύνθετόν τε ἐκ πολλῶν"
+        },
+        {
+          "form": "συνθέσει",
+          "lemma": "σύνθεσις",
+          "location": "611b",
+          "context": "μὴ τῇ καλλίστῃ κεχρημένον συνθέσει"
+        }
+      ],
+      "observation": "σύνθετον and συνθέσει appear together in the statement that it is not easy for something composite from many parts to be eternal unless it possesses the finest composition, which the soul has not been shown to have."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποικιλίας",
+          "lemma": "ποικιλία",
+          "location": "611b",
+          "context": "πολλῆς ποικιλίας καὶ ἀνομοιότητός τε καὶ διαφορᾶς γέμειν"
+        }
+      ],
+      "observation": "ποικιλίας appears in the warning not to think the soul in its truest nature is full of much variety, dissimilarity, and difference within itself."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "καθαρὸν",
+          "lemma": "καθαρός",
+          "location": "611c",
+          "context": "οἷόν ἐστιν καθαρὸν γιγνόμενον"
+        }
+      ],
+      "observation": "καθαρὸν appears in the description of how the soul must be contemplated as it becomes pure, in contrast to its present mutilated condition."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λογισμῷ",
+          "lemma": "λογισμός",
+          "location": "611c",
+          "context": "τοιοῦτον ἱκανῶς λογισμῷ διαθεατέον"
+        }
+      ],
+      "observation": "λογισμῷ appears as the means by which the soul in its pure state must be contemplated thoroughly."
+    },
+    {
+      "signal_id": "s028",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἅπτεται",
+          "lemma": "ἅπτω",
+          "location": "611e",
+          "context": "ἐννοεῖν ὧν ἅπτεται καὶ οἵων ἐφίεται ὁμιλιῶν"
+        },
+        {
+          "form": "ἐφίεται",
+          "lemma": "ἐφίεμαι",
+          "location": "611e",
+          "context": "ὧν ἅπτεται καὶ οἵων ἐφίεται ὁμιλιῶν"
+        }
+      ],
+      "observation": "ἅπτεται and ἐφίεται appear together describing what the soul touches and what companionships it desires when one looks toward its philosophy."
+    },
+    {
+      "signal_id": "s029",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐκκομισθεῖσα ἐκ τοῦ πόντου",
+          "lemma": null,
+          "location": "611e",
+          "context": "ὑπὸ ταύτης τῆς ὁρμῆς ἐκκομισθεῖσα ἐκ τοῦ πόντου ἐν ᾧ νῦν ἐστίν"
+        }
+      ],
+      "observation": "The soul is described as being carried out from the sea in which it now is by the impulse toward the divine and eternal."
+    },
+    {
+      "signal_id": "s030",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἑστιωμένῃ",
+          "lemma": "ἑστιάω",
+          "location": "612a",
+          "context": "ἅτε γῆν ἑστιωμένῃ"
+        },
+        {
+          "form": "ἑστιάσεων",
+          "lemma": "ἑστίασις",
+          "location": "612a",
+          "context": "ὑπὸ τῶν εὐδαιμόνων λεγομένων ἑστιάσεων"
+        }
+      ],
+      "observation": "Forms of ἑστιάω recur twice, describing the soul as feasting on earth and the earthy, rocky, wild things that have grown upon it from so-called blessed feastings."
+    },
+    {
+      "signal_id": "s031",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πολυειδὴς",
+          "lemma": "πολυειδής",
+          "location": "612a",
+          "context": "εἴτε πολυειδὴς εἴτε μονοειδής"
+        },
+        {
+          "form": "μονοειδής",
+          "lemma": "μονοειδής",
+          "location": "612a",
+          "context": "εἴτε πολυειδὴς εἴτε μονοειδής"
+        }
+      ],
+      "observation": "πολυειδὴς and μονοειδής are placed in direct contrast as alternative possibilities for the soul's true nature—whether it is many-formed or single-formed."
+    },
+    {
+      "signal_id": "s032",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πάθη",
+          "lemma": "πάθος",
+          "location": "612a",
+          "context": "τὰ ἐν τῷ ἀνθρωπίνῳ βίῳ πάθη τε καὶ εἴδη"
+        },
+        {
+          "form": "παθήματα",
+          "lemma": "πάθημα",
+          "location": "610b",
+          "context": "διὰ ταῦτα τὰ παθήματα τοῦ σώματος"
+        }
+      ],
+      "observation": "πάθη appears describing the affections and forms in human life that have been discussed, earlier paired with παθήματα describing the sufferings of the body."
+    },
+    {
+      "signal_id": "s033",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διεληλύθαμεν",
+          "lemma": "διέρχομαι",
+          "location": "608c",
+          "context": "τά γε μέγιστα ἐπίχειρα ἀρετῆς καὶ προκείμενα ἆθλα οὐ διεληλύθαμεν"
+        },
+        {
+          "form": "διήλθομεν",
+          "lemma": "διέρχομαι",
+          "location": "611c",
+          "context": "δικαιοσύνας τε καὶ ἀδικίας διόψεται καὶ πάντα ἃ νῦν διήλθομεν"
+        },
+        {
+          "form": "διεληλύθαμεν",
+          "lemma": "διέρχομαι",
+          "location": "612a",
+          "context": "τὰ ἐν τῷ ἀνθρωπίνῳ βίῳ πάθη τε καὶ εἴδη, ὡς ἐγᾦμαι, ἐπιεικῶς αὐτῆς διεληλύθαμεν"
+        }
+      ],
+      "observation": "Forms of διέρχομαι recur three times, framing the section: opening with the statement that they have not gone through the greatest prizes, continuing with what has been gone through that will be seen more clearly, and closing with the fair account they have gone through of the affections and forms in human life."
+    }
+  ]
+}
