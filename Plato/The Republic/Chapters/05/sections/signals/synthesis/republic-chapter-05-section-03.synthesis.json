@@ -1,0 +1,264 @@
+{
+  "section_id": "republic-chapter-05-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "`s001` cites the swimming imagery at 453d; `s015` shows ἐμπίπτω recurring first for falling into water, then for falling unwillingly into antilogical practice. Held together, they make visible that the argument's methodological trap is described through the same vocabulary as the physical peril: both involve involuntary entry into a medium requiring effort to survive."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "`s004` contrasts ἐρίζειν and διαλέγεσθαι; `s005` contrasts pursuing κατʼ ὄνομα with examining κατʼ εἴδη. The two contrasts align: eristic proceeds by surface name, dialectic by divided εἶδος, and the section names its own procedural failure as following the ὄνομα of φύσις without examining its εἶδος."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s010"
+      ],
+      "observation": "`s005` contrasts εἶδος and ὄνομα as modes of inquiry; `s010` names ἀλλοίωσις and ὁμοίωσις as the relevant εἶδος. Together they make visible that the correction to eristic requires specifying which εἶδος of difference or likeness governs the distribution of ἐπιτηδεύματα, not merely invoking the name φύσις."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s011"
+      ],
+      "observation": "`s008` presents the bald/long-haired pair as γελοῖον when applied to cobbling despite acknowledged ἐναντία φύσις; `s011` reduces male/female to τίκτειν and ὀχεύειν, explicitly declared insufficient for distinguishing ἐπιτηδεύματα. The two examples bracket the argument: one ridiculous application and one insufficient biological specification demonstrate that not every acknowledged difference in φύσις governs distribution of pursuits."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s012"
+      ],
+      "observation": "`s003` tracks φύσις qualified as ἄλλη/ἑτέρα or αὐτή throughout; `s012` introduces ἀσθενής and ἰσχυρός at the conclusion. Together they show that after the entire examination of same and different nature, a single comparative difference—strength—is the only conceded distinction within otherwise αὐτή φύσις."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s014"
+      ],
+      "observation": "`s002` shows ἐπιτήδευμα/ἐπιτηδεύω recurring with high density throughout the section; `s014` concentrates the φυλακ- family at 456a–b. Held together, they make visible that the section's sustained question about which ἐπιτηδεύματα follow from which φύσις resolves into φυλακή as the specific pursuit under examination."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "`s013` presents a sequence of paired opposites (εὐφυής/ἀφυής, φιλόσοφος/μισόσοφος, θυμοειδής/ἄθυμος, and others) structuring the enumeration at 455b–456a; `s014` immediately follows with φυλακικός applied to both women and men. The paired opposites make visible which capacities constitute φυλακική φύσις, and the sequence establishes that both genders may instantiate either member of each pair."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s001"
+      ],
+      "observation": "`s001` opens with swimming language and the need to σῴζεσθαι; `s016` shows the movement from searching for an ἔξοδος at 453e to ἥκομεν εἰς τὰ πρότερα περιφερόμενοι at 456b. Together they make visible that the argument swims through a perilous medium and arrives back at its starting point—the way out is a circle that confirms the original position."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s017"
+      ],
+      "observation": "`s004` contrasts ἐρίζειν and διαλέγεσθαι and describes those who fall unwillingly into antilogic; `s017` shows ἄκοντες first applied to πολλοί, then reflexively to the speakers themselves. Held together, they make visible that the diagnosis of antilogical practice is immediately turned inward: the speakers acknowledge falling into the same trap they describe."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s011"
+      ],
+      "observation": "`s009` cites concrete crafts: cobbling, medicine, carpentry, weaving, cake-making, stew-making; `s011` reduces biological difference to the infinitives τίκτειν and ὀχεύειν. The juxtaposition makes visible that the argument treats reproductive function with the same grammatical and logical form as any other τέχνη—an infinitive naming an activity, not a governing difference."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s003"
+      ],
+      "observation": "`s018` clusters three συν-/συγ- compounds at 456b (συνοικεῖν, συμφυλάττειν, συγγενεῖς); `s003` tracks φύσις qualified as αὐτή or ἑτέρα throughout. Together they make visible that shared φύσις issues in συγγενεῖς and joint activity (συν-), while the entire argument has been distinguishing what counts as αὐτή versus ἑτέρα φύσις."
+    },
+    {
+      "signal_ids": [
+        "s020",
+        "s001"
+      ],
+      "observation": "`s001` presents σῴζεσθαι ἐκ τοῦ λόγου as rescue from argumentative peril; `s020` shows σῴζω returning at 455b as retaining what one has learned. The verb moves from surviving the argument's sea to preserving acquired knowledge, linking the opening swimming image to a criterion of φύσις (retention through learning)."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s004"
+      ],
+      "observation": "`s006` traces ἀντιλογικός, ἀντιλογία, ἀντιλέγων across 454a–455a; `s004` contrasts ἔρις/ἐρίζειν with διαλέγεσθαι/διάλεκτος. Together they make visible that ἀντιλογική is the named τέχνη of ἔρις, and the section both diagnoses this practice and solicits the ἀντιλέγων to follow a different mode of inquiry."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s001"
+      ],
+      "observation": "`s007` contrasts μικράν κολυμβήθραν and μέγιστον πέλαγος; `s001` clusters the swimming language around this contrast. Together they make visible that despite the difference in scale, the action required (νεῖ, νευστέον) remains identical—an image for the argument that different φύσεις may require the same ἐπιτήδευμα."
+    },
+    {
+      "signal_ids": [
+        "s019",
+        "s016"
+      ],
+      "observation": "`s016` shows arrival εἰς τὰ πρότερα after searching for an ἔξοδος; `s019` closes by negating ἀδύνατα and εὐχαῖς ὅμοια. Held together, they make visible that the circular return to the prior position is claimed as achievable legislation rather than impossible wish, confirming what the opening already proposed."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μανθάνοι",
+          "lemma": "μανθάνω",
+          "location": "455b",
+          "context": "ὁ μὲν ῥᾳδίως τι μανθάνοι"
+        },
+        {
+          "form": "μαθήσεως",
+          "lemma": "μάθησις",
+          "location": "455b",
+          "context": "ἀπὸ βραχείας μαθήσεως"
+        },
+        {
+          "form": "ἔμαθεν",
+          "lemma": "μανθάνω",
+          "location": "455b",
+          "context": "οὗ ἔμαθεν"
+        },
+        {
+          "form": "μαθήσεως",
+          "lemma": "μάθησις",
+          "location": "455b",
+          "context": "πολλῆς μαθήσεως τυχών"
+        },
+        {
+          "form": "ἔμαθε",
+          "lemma": "μανθάνω",
+          "location": "455b",
+          "context": "μηδʼ ἃ ἔμαθε σῴζοιτο"
+        }
+      ],
+      "observation": "Forms of μανθάνω and μάθησις concentrate in a single period at 455b, defining εὐφυής and ἀφυής through ease or difficulty of learning, rapidity or slowness, retention or loss of what is learned."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "πάντα",
+          "lemma": "πᾶς",
+          "location": "455c",
+          "context": "οὐ πάντα ταῦτα τὸ τῶν ἀνδρῶν γένος διαφερόντως ἔχει"
+        },
+        {
+          "form": "πάντα",
+          "lemma": "πᾶς",
+          "location": "455d",
+          "context": "πάντων μὲν μετέχει γυνὴ ἐπιτηδευμάτων"
+        },
+        {
+          "form": "πάντων",
+          "lemma": "πᾶς",
+          "location": "455e",
+          "context": "πάντων δὲ ἀνήρ"
+        },
+        {
+          "form": "πᾶσι",
+          "lemma": "πᾶς",
+          "location": "455e",
+          "context": "ἐπὶ πᾶσι δὲ ἀσθενέστερον γυνὴ ἀνδρός"
+        }
+      ],
+      "observation": "πᾶς in various forms (πάντα, πάντων, πᾶσι) appears four times across 455c–e, insisting on totality: men do not surpass in πάντα, women share in πάντα ἐπιτηδευμάτων, men likewise in πάντων, and women are weaker ἐπὶ πᾶσι."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γένος",
+          "lemma": "γένος",
+          "location": "455c",
+          "context": "τὸ τῶν ἀνδρῶν γένος"
+        },
+        {
+          "form": "γένος",
+          "lemma": "γένος",
+          "location": "455c",
+          "context": "τὸ γυναικεῖον γένος"
+        },
+        {
+          "form": "γένος",
+          "lemma": "γένος",
+          "location": "454d",
+          "context": "τὸ τῶν ἀνδρῶν καὶ τὸ τῶν γυναικῶν γένος"
+        },
+        {
+          "form": "γένους",
+          "lemma": "γένος",
+          "location": "455d",
+          "context": "τὸ γένος τοῦ γένους"
+        }
+      ],
+      "observation": "γένος recurs four times across 454d–455d, each time designating male or female as a class, and at 455d the genitive τοῦ γένους creates a reflexive doubling: one γένος is surpassed by the other γένος."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ῥᾳδίως",
+          "lemma": "ῥᾴδιος",
+          "location": "455b",
+          "context": "ὁ μὲν ῥᾳδίως τι μανθάνοι, ὁ δὲ χαλεπῶς"
+        },
+        {
+          "form": "χαλεπῶς",
+          "lemma": "χαλεπός",
+          "location": "455b",
+          "context": null
+        },
+        {
+          "form": "βραχείας",
+          "lemma": "βραχύς",
+          "location": "455b",
+          "context": "ἀπὸ βραχείας μαθήσεως"
+        },
+        {
+          "form": "πολλῆς",
+          "lemma": "πολύς",
+          "location": "455b",
+          "context": "πολλῆς μαθήσεως τυχών"
+        },
+        {
+          "form": "πολὺ",
+          "lemma": "πολύς",
+          "location": "455b",
+          "context": "ἐπὶ πολὺ εὑρετικός"
+        },
+        {
+          "form": "οὐ ῥᾴδιον",
+          "lemma": "ῥᾴδιος",
+          "location": "455a",
+          "context": "ἐν μὲν τῷ παραχρῆμα ἱκανῶς εἰπεῖν οὐ ῥᾴδιον"
+        },
+        {
+          "form": "οὐδὲν χαλεπόν",
+          "lemma": "χαλεπός",
+          "location": "455a",
+          "context": "ἐπισκεψαμένῳ δὲ οὐδὲν χαλεπόν"
+        }
+      ],
+      "observation": "ῥᾴδιος/ῥᾳδίως and χαλεπός/χαλεπῶς appear first at 455a contrasting immediate difficulty with examined ease, then return at 455b contrasting the εὐφυής who learns ῥᾳδίως from the ἀφυής who learns χαλεπῶς. The same pair of adverbs describes both the argument's difficulty and natural capacity for learning."
+    }
+  ]
+}
