@@ -1,0 +1,278 @@
+{
+  "section_id": "republic-chapter-05-section-14",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s008"
+      ],
+      "observation": "δυνατός forms (s001) and γίγνομαι forms (s008) are grammatically paired throughout: δυνατὴ γενέσθαι, δυνατὸν καὶ ᾗ δυνατόν, δυνατὸν γενέσθαι. The recurring conjunction makes visible that the demand for possibility is inseparable from a question of coming-into-being, and the optative γένοιτο forms mark hypothetical existence while infinitives γενέσθαι/γίγνεσθαι appear with δυνατόν in indirect questions."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s007"
+      ],
+      "observation": "The painter cluster (s007: ζωγράφος, γράψας, γράμμα, κάλλιστος) exemplifies what παράδειγμα (s002) means concretely: the paradigm is a painted model. The sequence makes visible that Socrates moves from abstract παράδειγμα language to the specific activity of a painter making an image on a surface, then applies this back to the city παράδειγμα made λόγῳ."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s011"
+      ],
+      "observation": "Wave imagery (s003) and hesitation terms (s011) are temporally distributed: ὤκνουν τε καὶ ἐδεδοίκη appears when Socrates names the third wave still approaching; ὄκνος returns at 473e after the wave has broken as the philosopher-king statement. The distribution makes the wave-hesitation relation visible as a before-and-after configuration: fear precedes the wave, hesitation is named again in explaining why the wave was feared."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s006"
+      ],
+      "observation": "ἀγαπάω (s004) and ἐγγύτατα (s006) both appear in parallel structures about contentment with approximation: ἀγαπήσομεν ἐὰν ὅτι ἐγγύτατα at 472c for the just man's proximity to justice itself, and ἂν ἀγαπῴην paired with ὡς ἂν ἐγγύτατα at 473a-b for the city's proximity to what was said. The parallelism makes visible that Socrates applies the same standard of satisfactory nearness to both the paradigm of justice and the paradigm of the city."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s002"
+      ],
+      "observation": "The λόγος/ἔργον contrast (s005) reframes what παράδειγμα (s002) requires: παράδειγμα ἐποιοῦμεν λόγῳ is followed immediately by the principle that πρᾶξις is less capable of grasping truth than λέξις. The sequence makes visible that the paradigm's existence in speech is not a deficiency but a stated principle about the relation of speech and action to truth."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s017"
+      ],
+      "observation": "The numerical sequence ἑνός, δυοῖν, ὀλιγίστων (s009) specifies the smallest change needed (σμικροτάτου, σμικροτάτων in s017), then Socrates resolves to ἑνὸς μεταβαλόντος while immediately negating σμικροῦ: οὐ μέντοι σμικροῦ γε οὐδὲ ῥᾳδίου. The juxtaposition makes visible a reversal within the numerical reduction: the one change sought as smallest turns out not to be small."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s003"
+      ],
+      "observation": "The philosopher-king structure of separation and convergence (s010: χωρὶς ἐφʼ ἑκάτερον, then εἰς ταὐτὸν συμπέσῃ) is immediately followed by the wave that will ἐκγελῶν and κατακλύσειν (s003). The placement makes visible that the convergence statement itself is the third wave: what Socrates feared to say is the falling-together of what now travels apart."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s014"
+      ],
+      "observation": "The ridicule cluster (s012: γέλως, ἐκγελάω, ἀδοξία, τωθάζω) anticipates opponents' response, and Glaucon's military image (s014: stripping cloaks, seizing weapons, running at full stretch) depicts the same opponents. The conjunction makes visible that the feared laughter is also a feared armed assault: intellectual ridicule is described with the form and movement of military attack."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s014"
+      ],
+      "observation": "Glaucon's military image of opponents (s014) is met by his promise ἀμυνῶ οἷς δύναμαι (s015), offering εὐνοίᾳ τε καὶ τῷ παρακελεύεσθαι as his means. The juxtaposition makes visible that Glaucon responds to the depicted armed attack with his own ἀμύνω, but his δύναμαι consists only of goodwill and encouragement—defense without the weapons his image attributed to the attackers."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "δύναμαι in Glaucon's promise ἀμυνῶ οἷς δύναμαι (s015) echoes δυνατός forms (s001) that dominate the section as the question of possibility. The recurrence makes visible that Glaucon's limited power (εὐνοίᾳ τε καὶ τῷ παρακελεύεσθαι) is stated with the same root as the city's contested possibility."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s008"
+      ],
+      "observation": "φυῇ τε εἰς τὸ δυνατὸν καὶ φῶς ἡλίου ἴδῃ (s013) uses the optative φυῇ for the constitution's growth into the possible, joining γίγνομαι forms (s008) that mark hypothetical coming-into-being throughout. The natural-growth verb φύω appears once, at the section's conclusion, as a final formulation of the γένοιτο question: not simply coming-to-be but growing into the possible and seeing sunlight."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s013"
+      ],
+      "observation": "The philosopher-king statement (s010) requires εἰς ταὐτὸν συμπέσῃ for political power and philosophy; the constitution must φυῇ τε εἰς τὸ δυνατὸν (s013). Both use εἰς with spatial or directional force: falling together into the same thing, growing into the possible. The parallel prepositional structure makes visible that both the convergence and the realization are articulated as movement into a location or condition."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s016"
+      ],
+      "observation": "παράδειγμα (s002) is made for looking toward perfectly just and unjust individuals; ὁμοιότατος and ὁμοιοτάτην (s016) immediately describe the person most like those paradigms as having the most similar portion. The sequence makes visible that the paradigm's function is explicitly comparative: it establishes a standard of likeness measured in degrees (ὁμοιότατος, ἐγγύτατα)."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019"
+      ],
+      "observation": "Glaucon says ἃ σὰ παραλείπεις ἐγὼ λέγω (s018), then immediately cites kinship names—ἀδελφούς, πατέρας, ὑεῖς (s019)—as what Socrates left out. The juxtaposition makes visible that Glaucon's supplementation consists of naming the relational terms soldiers would use, and the female element joining the campaign follows immediately as part of what was παραλείπεται."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s012"
+      ],
+      "observation": "The wave that will ἐκγελῶν (s003) names laughter with a compound verb prefixed by ἐκ-; ἐκγελάω appears only here in the section. The ridicule cluster (s012) includes γέλως, ἀδοξία, and τωθάζω but not this specific compound. The singular ἐκγελῶν makes visible that the wave itself is personified as laughing-out, performing the ridicule it also causes."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδεῖξαι",
+          "lemma": "ἀποδείκνυμι",
+          "location": "472d",
+          "context": "μὴ ἔχῃ ἀποδεῖξαι ὡς καὶ δυνατὸν γενέσθαι"
+        },
+        {
+          "form": "ἀποδεῖξαι",
+          "lemma": "ἀποδείκνυμι",
+          "location": "472e",
+          "context": "ἐὰν μὴ ἔχωμεν ἀποδεῖξαι ὡς δυνατόν"
+        },
+        {
+          "form": "ἀπόδειξιν",
+          "lemma": "ἀποδείκνυμι",
+          "location": "472e",
+          "context": "πρὸς τὴν τοιαύτην ἀπόδειξιν"
+        },
+        {
+          "form": "ἀποδείξωμεν",
+          "lemma": "ἀποδείκνυμι",
+          "location": "472d",
+          "context": "ἵνʼ ἀποδείξωμεν ὡς δυνατὰ ταῦτα γίγνεσθαι"
+        },
+        {
+          "form": "ἀποδεικνύναι",
+          "lemma": "ἀποδείκνυμι",
+          "location": "473b",
+          "context": "πειρώμεθα ζητεῖν τε καὶ ἀποδεικνύναι"
+        }
+      ],
+      "observation": "ἀποδείκνυμι recurs five times in close sequence at 472d-473b, always paired with δυνατόν or the question of possibility. The dense recurrence marks demonstration/proof as the contested activity: Socrates repeatedly reformulates what ἀποδεῖξαι is required to show and what it is not required to show."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "βασιλεύσωσιν",
+          "lemma": "βασιλεύω",
+          "location": "473c",
+          "context": "ἢ οἱ φιλόσοφοι βασιλεύσωσιν"
+        },
+        {
+          "form": "φιλοσοφήσωσι",
+          "lemma": "φιλοσοφέω",
+          "location": "473d",
+          "context": "ἢ οἱ βασιλῆς τε νῦν λεγόμενοι καὶ δυνάσται φιλοσοφήσωσι"
+        }
+      ],
+      "observation": "βασιλεύσωσιν and φιλοσοφήσωσι are parallel third-person plural aorist subjunctives in the same grammatical slot, chiastic with their subjects: philosophers doing kingly action, kings doing philosophical action. The morphological parallelism enacts the convergence grammatically before it is named as συμπέσῃ."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαιμονίας",
+          "lemma": "εὐδαιμονία",
+          "location": "472c",
+          "context": "οἷοι ἂν ἡμῖν φαίνωνται εὐδαιμονίας τε πέρι"
+        },
+        {
+          "form": "εὐδαιμονήσειεν",
+          "lemma": "εὐδαιμονέω",
+          "location": "473e",
+          "context": "οὐκ ἂν ἄλλη τις εὐδαιμονήσειεν οὔτε ἰδίᾳ οὔτε δημοσίᾳ"
+        }
+      ],
+      "observation": "εὐδαιμονία appears as the goal in the paradigm argument at 472c (looking toward paradigms regarding happiness), then εὐδαιμονέω returns at 473e after the philosopher-king statement (no other city will be happy privately or publicly). The recurrence frames the entire argument between paradigm-method and philosopher-king proposal with the question of happiness."
+    },
+    {
+      "signal_types": [
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "παντάπασι",
+          "lemma": "παντάπασι",
+          "location": "473a",
+          "context": "τοιαῦτα παντάπασι καὶ τῷ ἔργῳ δεῖν γιγνόμενα"
+        },
+        {
+          "form": "παντάπασι",
+          "lemma": "παντάπασι",
+          "location": "473c",
+          "context": "παντάπασι μὲν οὖν"
+        }
+      ],
+      "observation": "παντάπασι appears twice: first when Socrates asks not to be forced to show speech and deed matching completely, then as Glaucon's emphatic assent just before the philosopher-king statement. The local repetition marks complete/total correspondence as what is being negotiated and affirmed."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαίφνης",
+          "lemma": "ἐξαίφνης",
+          "location": "472a",
+          "context": "ἐξαίφνης γε σύ"
+        }
+      ],
+      "observation": "ἐξαίφνης appears once, naming the suddenness of Glaucon's demand as a καταδρομή (raid) on Socrates' λόγος. The adverb marks the interruption's temporal character—Glaucon's intervention is not gradual or prepared but sudden."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "στραγγευομένῳ",
+          "lemma": "στραγγεύομαι",
+          "location": "472a",
+          "context": "οὐ συγγιγνώσκεις στραγγευομένῳ"
+        },
+        {
+          "form": "συγγνώμην",
+          "lemma": "συγγιγνώσκω",
+          "location": "472a",
+          "context": "πάνυ συγγνώμην ἕξεις"
+        }
+      ],
+      "observation": "Socrates asks for συγγιγνώσκω (forbearance) for one στραγγευομένῳ (being wrung out/squeezed), then says Glaucon will have συγγνώμην when he sees the third wave. The repetition of the forbearance-root around the image of being wrung out makes visible that Socrates frames his hesitation as deserving the same patience as physical exhaustion."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "καταδρομήν",
+          "lemma": "καταδρομή",
+          "location": "472a",
+          "context": "ὥσπερ καταδρομὴν ἐποιήσω ἐπὶ τὸν λόγον μου"
+        }
+      ],
+      "observation": "καταδρομή (raid, sudden attack) appears once as Socrates' characterization of Glaucon's sudden demand. The military term makes Glaucon's intellectual interruption into a hostile incursion against Socrates' λόγος."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κακῶν",
+          "lemma": "κακός",
+          "location": "473d",
+          "context": "οὐκ ἔστι κακῶν παῦλα"
+        },
+        {
+          "form": "κακῶς",
+          "lemma": "κακός",
+          "location": "473b",
+          "context": "τί ποτε νῦν κακῶς ἐν ταῖς πόλεσι πράττεται"
+        }
+      ],
+      "observation": "κακός appears as κακῶς (badly) for what is now done in cities, then as κακῶν (evils) in the negative purpose clause: no cessation of evils without the philosopher-king convergence. The shift from adverb to genitive plural makes visible a movement from bad practice to evils requiring cessation."
+    }
+  ]
+}
