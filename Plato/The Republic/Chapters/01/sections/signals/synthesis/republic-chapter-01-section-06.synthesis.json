@@ -1,0 +1,216 @@
+{
+  "section_id": "republic-chapter-01-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s009"
+      ],
+      "observation": "The shepherd imagery (`s002`) materializes the contested term συμφέρον (`s009`). Thrasymachus asks whether shepherds fatten (παχύνειν) their flocks looking to the sheep's good or the master's and their own; when Socrates returns to the same image at 345c asking whether the shepherd qua shepherd fattens (πιαίνειν) the flock, he redirects συμφέρον from κρείττων to ἀρχόμενος. The recurrence makes visible how the concrete care-relation becomes the site where the direction of σκοπεῖν is contested."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "The nurse (τίτθη) at 343a who neglects the running-nosed child (κορυζῶντα) unwiped (οὐκ ἀπομύττει, `s004`) supplies a bodily care-image that answers the shepherd-flock configuration (`s002`). Both present a caretaker accused of misdirected attention. Held together, they make visible a doubled failure of care — bodily and intellectual — staged as the ground of Thrasymachus's accusation."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s009"
+      ],
+      "observation": "σκοπέω (`s005`) appears densely as the verb naming what each figure looks to; συμφέρον (`s009`) names the contested object of that looking. Thrasymachus commands σκοπεῖσθαι and σκόπει (343d, 344a) while assigning συμφέρον to the κρείττων; Socrates returns σκοπεῖσθαι at 345d and 346e redirecting it to the ἀρχόμενος. Their conjunction makes visible that the argument turns not on whether to look but on the direction and beneficiary of looking."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s001"
+      ],
+      "observation": "εὐήθης (`s006`) appears both as εὐηθικῶν describing the ruled who are called just (343c) and as εὐηθέστατε addressing Socrates (343d). The ἀλλότριον ἀγαθόν / οἰκεία βλάβη contrast (`s001`) assigns advantage to another and harm to oneself. Held together, they make visible that εὐήθης names not simplicity alone but the condition of securing another's good at one's own expense — a relational structure that Thrasymachus applies both to the ruled and to Socrates himself."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "The bath-attendant image (ὥσπερ βαλανεύς, `s007`) pouring speech into ears (344d) is immediately followed by Thrasymachus's intention to leave (ἀπιέναι) and the compulsion to remain (ὑπομεῖναι, `s008`). The conjunction makes visible a configuration of bodily saturation, attempted departure, and enforced staying that enacts in dramatic sequence what the speech itself performs: a flooding that seeks exit but is held in place for accounting."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s014"
+      ],
+      "observation": "The μισθός cluster (`s010`) establishes that wage-earning (μισθωτική, μισθαρνητική) is distinct from each craft's proper benefit; ἑκών/ἀνάγκη (`s014`) establishes that no one willingly (ἑκόντα) rules without compulsion (ἀνάγκην). Held together, they make visible that ruling requires external inducement (μισθόν, τιμήν, ζημίαν at 347a) precisely because it does not supply its own αὑτῷ συμφέρον — the decent do not find their advantage in the act itself."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s013"
+      ],
+      "observation": "The ἔλαττον/πλέον pair (`s011`) positions the just as always having less in contracts, taxes, and office; the εὐδαιμονέστατον/ἀθλιωτάτους pair (`s013`) assigns supreme happiness to the complete wrongdoer and wretchedness to the wronged. Held together, they make visible a double axis: quantitative distribution (more/less) and qualitative condition (blessed/wretched), with injustice occupying both πλέον and εὐδαιμονέστατον while justice receives ἔλαττον and risks ἀθλιώτατον."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s018"
+      ],
+      "observation": "Tyranny as τελεωτάτη ἀδικία (`s012`) is distinguished from partial wrongdoing (κατὰ μέρη, `s018`) which earns shameful names, against tyranny which seizes all at once (συλλήβδην, `s018`) and earns εὐδαίμων and μακάριος. The conjunction makes visible that completeness (τελεωτάτην) and wholeness (συλλήβδην) reverse the evaluative register: what is partial incurs reproach, what is total receives praise — magnitude inverts moral assessment."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "The greatest ζημία (`s015`) is being ruled by someone worse (ὑπὸ πονηροτέρου, 347c); in a city of good men not-ruling would be competed for as ruling is now (τὸ μὴ ἄρχειν … ὥσπερ νυνὶ τὸ ἄρχειν, `s016`, 347d). Held together, they make visible that penalty is reimagined not as external deprivation but as subjection, and that the present competition for office would be inverted if rulers were truly ἀγαθοί — the struggle itself indexes the quality of those who seek it."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s009"
+      ],
+      "observation": "βίος (`s017`) frames the question as the whole conduct of life (ὅλου βίου διαγωγήν, 344e) and returns at section's end contrasting the life of the just and unjust (347e). συμφέρον (`s009`) recurs throughout contested between κρείττων and ἀρχόμενος. Held together, they make visible that the entire deliberation pivots on whose advantage orients a life — the question of direction (πρὸς τίνα σκοπεῖν) becomes the question of how to live (πῶς βιωσόμεθα)."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s009",
+        "s002"
+      ],
+      "observation": "The ἀλλότριον ἀγαθόν / οἰκεία βλάβη contrast (`s001`) assigns advantage to another and harm to oneself; συμφέρον (`s009`) is contested as belonging to κρείττων or ἀρχόμενος; the shepherd image (`s002`) asks whether care looks to the flock's or the master's good. All three configure a relational structure with two positions (caretaker/cared-for, ruler/ruled, self/other) and a contested direction of benefit. Their conjunction makes visible that the argument does not ask what justice is in itself but where advantage flows within asymmetric relations."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s010",
+        "s014"
+      ],
+      "observation": "σκοπέω (`s005`) names what each τέχνη or ἀρχή looks to; μισθός (`s010`) is the separate wage-earning benefit distinct from the craft's proper work; ἑκών (`s014`) marks that no one willingly rules without external inducement. Held together, they make visible that if proper ruling (σκοπεῖσθαι τὸ τῷ ἀρχομένῳ συμφέρον) supplied no αὑτῷ advantage, compulsion or wage must supply what the activity itself withholds — the need for μισθός testifies that the ruled's good is not the ruler's οἰκεῖον ἀγαθόν."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διδάξαι",
+          "lemma": "διδάσκω",
+          "location": "344d",
+          "context": "πρὶν διδάξαι ἱκανῶς"
+        },
+        {
+          "form": "μαθεῖν",
+          "lemma": "μανθάνω",
+          "location": "344e",
+          "context": "ἢ μαθεῖν εἴτε οὕτως εἴτε ἄλλως ἔχει"
+        },
+        {
+          "form": "μαθήσῃ",
+          "lemma": "μανθάνω",
+          "location": "344a",
+          "context": "πάντων δὲ ῥᾷστα μαθήσῃ"
+        }
+      ],
+      "observation": "διδάσκω and μανθάνω appear in close sequence at 344a, 344d, 344e as Thrasymachus claims Socrates will most easily learn (μαθήσῃ) and Socrates asks whether Thrasymachus intends to teach (διδάξαι) or only to leave, and whether Socrates is to learn (μαθεῖν) how things stand."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ποιεῖν τὰ ἄδικα",
+          "lemma": null,
+          "location": "344c",
+          "context": "οὐ γὰρ τὸ ποιεῖν τὰ ἄδικα ἀλλὰ τὸ πάσχειν φοβούμενοι ὀνειδίζουσιν"
+        },
+        {
+          "form": "τὸ πάσχειν",
+          "lemma": null,
+          "location": "344c",
+          "context": "οὐ γὰρ τὸ ποιεῖν τὰ ἄδικα ἀλλὰ τὸ πάσχειν φοβούμενοι ὀνειδίζουσιν"
+        }
+      ],
+      "observation": "τὸ ποιεῖν and τὸ πάσχειν are set in grammatical parallel with ἀλλά at 344c, contrasting doing and suffering injustice as objects of fear (φοβούμενοι) in those who reproach it."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέχνη",
+          "lemma": "τέχνη",
+          "location": "345d",
+          "context": "τῇ δὲ ποιμενικῇ"
+        },
+        {
+          "form": "τέχνη",
+          "lemma": "τέχνη",
+          "location": "346a",
+          "context": "ἑκάστην μέντοι φαμὲν ἑκάστοτε τῶν τεχνῶν"
+        },
+        {
+          "form": "τέχνης",
+          "lemma": "τέχνη",
+          "location": "346c",
+          "context": "τὴν γε ὠφελίαν ἑκάστης τῆς τέχνης ἰδίαν ὡμολογήσαμεν εἶναι"
+        },
+        {
+          "form": "τέχνη",
+          "lemma": "τέχνη",
+          "location": "346d",
+          "context": "ἀπὸ τῆς αὐτοῦ τέχνης"
+        },
+        {
+          "form": "τέχνη",
+          "lemma": "τέχνη",
+          "location": "346e",
+          "context": "οὐδεμία τέχνη οὐδὲ ἀρχὴ τὸ αὑτῇ ὠφέλιμον παρασκευάζει"
+        },
+        {
+          "form": "τέχνῃ",
+          "lemma": "τέχνη",
+          "location": "347a",
+          "context": "ὁ μέλλων καλῶς τῇ τέχνῃ πράξειν"
+        }
+      ],
+      "observation": "τέχνη recurs densely from 345d through 347a as Socrates establishes that each τέχνη provides its own distinct ὠφελία and σκοπεῖται τὸ τῷ ἀρχομένῳ συμφέρον, not τὸ αὑτῇ ὠφέλιμον."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὠφελίαν",
+          "lemma": "ὠφελία",
+          "location": "346a",
+          "context": "ἡ ὠφελίαν ἰδίαν τινὰ ἡμῖν παρέχεται"
+        },
+        {
+          "form": "ὠφέλιμον",
+          "lemma": "ὠφέλιμος",
+          "location": "346e",
+          "context": "οὐδεμία τέχνη οὐδὲ ἀρχὴ τὸ αὑτῇ ὠφέλιμον παρασκευάζει"
+        },
+        {
+          "form": "ὠφελεῖ",
+          "lemma": "ὠφελέω",
+          "location": "346e",
+          "context": "ἄρ' οὖν οὐδ' ὠφελεῖ τότε, ὅταν προῖκα ἐργάζηται"
+        },
+        {
+          "form": "ὠφελοῦνται",
+          "lemma": "ὠφελέω",
+          "location": "346c",
+          "context": "ἥντινα ὠφελίαν κοινῇ ὠφελοῦνται"
+        }
+      ],
+      "observation": "ὠφελία, ὠφέλιμον, and ὠφελέω cluster at 346a–e: each τέχνη provides its distinct ὠφελία (346a, 346c), yet no τέχνη παρασκευάζει τὸ αὑτῇ ὠφέλιμον (346e), and it still benefits (ὠφελεῖ) even when working without fee (προῖκα)."
+    }
+  ]
+}
