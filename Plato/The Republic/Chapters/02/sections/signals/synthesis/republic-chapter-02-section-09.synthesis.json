@@ -1,0 +1,185 @@
+{
+  "section_id": "republic-chapter-02-section-09",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "s015 preserves the step-by-step chain of negations and affirmations at 379b; s001 shows that the entire chain converges on the single term αἴτιος/ἀναίτιος, which then accumulates through 380c. The conjunction makes visible how a single philosophical term is built up through linked propositions and then repeatedly applied to the god across the section."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s016"
+      ],
+      "observation": "s002 records the sustained contrast ἀγαθός/κακός; s016 shows that God is cause of ὀλίγων, not-cause of πολλῶν, because goods are ἐλάττω than evils. Together they make visible that the quantitative asymmetry (few/many, fewer/more) mirrors and grounds the qualitative contrast (good/bad)."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005"
+      ],
+      "observation": "s003 clusters ψεύδομαι/ψευδής at 377d–e, each occurrence qualified by καλῶς or μέγιστον; s005 supplies the painter simile with its likeness-terms (εἰκάζω, ἐοικότα, ὅμοια). Held together, they show that falsehood is qualified not by truth/falsity but by representational success or failure—whether the image is ὅμοιος to its object."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "s006 contrasts ποιηταί and οἰκισταί as roles; s007 shows that τύπος appears three times, introduced as what οἰκισταί must know and concluded as the completed νόμος/τύπος. Together they make visible that the founders' task is not to compose myths but to know and enforce the patterns (τύποι) governing composition."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013"
+      ],
+      "observation": "s009 pairs ἔργα and πάθη—deeds and sufferings—first for Kronos, then for Niobe; s013 shows that the agents and victims are consistently family members (son, father, mother, kin). Together they make visible that divine violence is enacted and suffered within kinship, as action and passion inside the same relation."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "s010 opposes silence (σιγᾶσθαι) to speech (λέγειν) and restricts hearing (ἀκούειν) to the fewest; s011 specifies that access requires not the customary χοῖρος but a μέγα καὶ ἄπορον θῦμα. Together they show that restriction operates through both ritual cost and numerical limitation—the sacrifice makes few hearers, not many."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "s012 clusters πολεμέω, ἐπιβουλεύω, μάχομαι, γιγαντομαχία, θεομαχία, ἔχθρα, ἀπεχθάνομαι; s013 shows these enmities occur πρὸς συγγενεῖς τε καὶ οἰκείους—toward kin and household members. Together they make visible that the entire war-vocabulary is not general conflict but intrafamilial violence, which is then forbidden to guardians who must not ἀπεχθάνεσθαι one another."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s018"
+      ],
+      "observation": "s008 shows the proliferation of verbal adjectives (λεκτέον, etc.) throughout the section; s018 shows that the section concludes with νόμος and εὐνομήσεσθαι. Together they make visible that prescriptive force (-τέον forms) accumulates into a single νόμος, and the city's good order (εὐνομέω) depends on this legislative speech."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s008"
+      ],
+      "observation": "s014 preserves the rare compounds δυσέκνιπτα and ἀμετάστατα describing youthful opinions; s008 shows that immediately after, the text shifts to what πρῶτα ἀκούουσιν and what must be ὅτι κάλλιστα μεμυθολογημένα, governed by -τέον forms. Together they make visible that the immovability of first opinions converts hearing into legislation: what is first heard becomes what must (δεῖ) be controlled."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s001"
+      ],
+      "observation": "s017 preserves the two Homeric images rejected: Zeus's two πίθοι and Zeus as ταμίας of goods and evils; s001 shows that αἴτιος accumulates densely as the section's core term. Together they make visible that the rejected images distribute causation (mixing or dispensing goods and evils), while the established τύπος restricts it (God αἴτιος only of ἀγαθῶν)."
+    },
+    {
+      "signal_ids": [
+        "s019",
+        "s018"
+      ],
+      "observation": "s019 shows three σύν- compounds in close succession (σύμφορα, σύμφωνα, σύμψηφος); the last is Adeimantus's σύμψηφός σοί εἰμι agreeing to the νόμος (s018). Together they make visible that Adeimantus's agreement (σύμψηφος) formally enacts the harmony (σύμφωνα) and benefit (σύμφορα) that the νόμος requires."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s003"
+      ],
+      "observation": "s004 shows μέμφομαι recurring three times to frame the criterion for blaming poets; s003 clusters ψεύδομαι/ψευδής, each qualified by καλῶς or μέγιστον. Together they make visible that blame (μέμφομαι) is directed not at falsehood itself but at falsehood's quality (οὐ καλῶς ψεύδηται, τὸ μέγιστον ψεῦδος)."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐν ἔπεσιν... ἐν μέλεσιν... ἐν τραγῳδίᾳ",
+          "lemma": null,
+          "location": "379a",
+          "context": "ἐάντέ τις αὐτὸν ἐν ἔπεσιν ποιῇ ἐάντε ἐν μέλεσιν ἐάντε ἐν τραγῳδίᾳ"
+        }
+      ],
+      "observation": "The three genres (ἔπη, μέλη, τραγῳδία) are cited in sequence through a threefold ἐάντε structure, exhausting poetic modes to which the τύπος applies."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νεώτερον",
+          "lemma": "νεώτερος",
+          "location": "380c",
+          "context": "μήτε νεώτερον μήτε πρεσβύτερον"
+        },
+        {
+          "form": "πρεσβύτερον",
+          "lemma": "πρεσβύτερος",
+          "location": "380c",
+          "context": "μήτε νεώτερον μήτε πρεσβύτερον"
+        }
+      ],
+      "observation": "The prohibition applies to both νεώτερος and πρεσβύτερος, extending the rule across all ages, not only to the young (νέος) mentioned earlier."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐν μέτρῳ",
+          "lemma": "μέτρον",
+          "location": "380c",
+          "context": "μήτʼ ἐν μέτρῳ μήτε ἄνευ μέτρου μυθολογοῦντα"
+        },
+        {
+          "form": "ἄνευ μέτρου",
+          "lemma": "μέτρον",
+          "location": "380c",
+          "context": "μήτʼ ἐν μέτρῳ μήτε ἄνευ μέτρου"
+        }
+      ],
+      "observation": "The prohibition extends to both verse (ἐν μέτρῳ) and prose (ἄνευ μέτρου), covering all forms of speech about the gods."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὅσιον",
+          "lemma": "ὅσιος",
+          "location": "378c",
+          "context": "οὐδʼ ἔστιν τοῦτο ὅσιον"
+        },
+        {
+          "form": "ὅσια",
+          "lemma": "ὅσιος",
+          "location": "380c",
+          "context": "ὡς οὔτε ὅσια ἂν λεγόμενα εἰ λέγοιτο"
+        }
+      ],
+      "observation": "ὅσιος appears twice: first to say citizen enmity is not ὅσιον, then to say speaking of God as cause of evils is not ὅσια—the term links political and theological impiety."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀθλίοι",
+          "lemma": "ἄθλιος",
+          "location": "380b",
+          "context": "ὡς δὲ ἄθλιοι μὲν οἱ δίκην διδόντες"
+        },
+        {
+          "form": "ἄθλιοι",
+          "lemma": "ἄθλιος",
+          "location": "380b",
+          "context": "ἀλλʼ εἰ μὲν ὅτι ἐδεήθησαν κολάσεως λέγοιεν ὡς ἄθλιοι οἱ κακοί"
+        }
+      ],
+      "observation": "ἄθλιοι recurs twice at 380b: first forbidden when describing those punished as wretched because god acts, then permitted when describing the wicked as wretched because they need punishment—the same word marks the contrast between impious and pious speech."
+    }
+  ]
+}
