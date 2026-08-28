@@ -1,0 +1,150 @@
+{
+  "section_id": "republic-chapter-04-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s012"
+      ],
+      "observation": "`s001` notes Leontius ascending from the Piraeus; `s012` notes the corpses lying beside the public executioner. Held together, the spatial movement upward and the location of execution outside the city walls make visible a threshold position: Leontius is ascending from the port, encountering bodies placed at the city's boundary by legal violence."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s007"
+      ],
+      "observation": "`s002` concentrates the vocabulary of seeing—desire to see, covering eyes, forcibly opening them, 'look,' spectacle; `s007` preserves Leontius addressing his eyes as separate agents, calling them κακοδαίμονες and commanding them to be filled. The conjunction makes visible that the eyes are treated as both the instrument Leontius violently deploys (διελκύσας) and the addressee he rebukes, dramatizing the internal division through apostrophe to a body part."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s003"
+      ],
+      "observation": "`s006` marks the simultaneous desire and aversion in Leontius, resolved by desire's victory; `s003` traces ἐπιθυμία from concrete verb (ἐπιθυμοῖ) through the force that masters him (κρατούμενος ὑπὸ τῆς ἐπιθυμίας) to the abstract faculty (τῷ ἐπιθυμητικῷ, τὸ ἐπιθυμητικόν). The sequence makes visible how the narrative enacts the particular conflict, then immediately becomes evidence for the general claim that anger wars with desires (πολεμεῖν ταῖς ἐπιθυμίαις), and finally enters the classification of psychic parts."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009"
+      ],
+      "observation": "`s007` has Leontius address his eyes as κακοδαίμονες in self-rebuke; `s009` contrasts active ἀδικεῖν (believing oneself unjust) with passive ἀδικεῖσθαι (believing oneself wronged), each producing opposite responses in thumos. Both configurations make visible self-division enacted through self-address and internal judgment, whether rebuking one's own organs or one's spirit responding differently to how one construes one's own action."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "`s005` clusters military vocabulary applied to intra-psychic relations—warring, fighting, faction, alliance, arms; `s008` has Socrates liken thumos recalled by logos to a dog recalled by a shepherd, which Glaucon immediately maps onto the city's guardians under rulers. The conjunction makes visible that martial language for psychic conflict and pastoral language for psychic harmony are both transposed onto the political structure, where auxiliaries are explicitly named as dogs under shepherds."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s016"
+      ],
+      "observation": "`s009` contrasts believing oneself to act unjustly (ἀδικεῖν) with believing oneself wronged (ἀδικεῖσθαι); `s016` lists three outcomes for spirited persistence: accomplish, die, or be recalled and calmed. Held together, they make visible that thumos's activity depends on the agent's judgment about justice: when one believes oneself unjust, thumos does not rise; when one believes oneself wronged, thumos endures unto completion, death, or recall by reason."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s005"
+      ],
+      "observation": "`s010` sets the city's three classes (χρηματιστικόν, ἐπικουρητικόν, βουλευτικόν) beside the soul's three parts, naming the spirited part ἐπίκουρον to the reasoning part; `s005` uses military terms including σύμμαχον for thumos allied with logos. The conjunction makes visible that the spirited part's relation to reason is named through two roles—auxiliary (ἐπίκουρον, matching the city's ἐπικουρητικόν class) and ally (σύμμαχον), both drawn from military cooperation."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s015"
+      ],
+      "observation": "`s011` moves ἀκούω from hearsay introduction of the Leontius story to Glaucon's confirming echo, and αἰσθάνομαι from physical perception of corpses to perceiving an internal psychic event; `s015` quotes a Homeric verse and immediately glosses it as evidence. Both make visible a movement from external report or text to internal confirmation: the Leontius story is heard then verified by Glaucon's own hearing; the Homeric line is cited then interpreted as depicting psychic division."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s015"
+      ],
+      "observation": "`s013` traces the λόγος/λογισμός/λογιστικός family alongside its privative ἀλογίστως, with ἀναλογισάμενον appearing in the Homeric citation; `s015` preserves the quoted line where one part rebukes (ἠνίπαπε) another. The conjunction makes visible that Homer's ἀναλογισάμενον—the participle of calculating reflection—is set against ἀλογίστως θυμουμένῳ, making the Homeric heart-rebuke into evidence that the calculating part chastises the spiritedly angry part."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s004"
+      ],
+      "observation": "`s014` cites children and beasts as parallel evidence; `s004` traces θυμός through the section, including the claim that children are immediately full of θυμός but some never partake of λογισμός (441a). Held together, the sequence makes visible that the distinctness of thumos is demonstrated not only by internal conflict in mature souls but by its chronological and natural priority: it appears in children from birth and exists in beasts, both cases where logos is absent or delayed."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s016"
+      ],
+      "observation": "`s006` describes Leontius's internal struggle (μάχοιτο, παρακαλύπτοιτο) ending in desire's victory (κρατούμενος ὑπὸ τῆς ἐπιθυμίας); `s016` lists three possible endings for spirited endurance fighting for what seems just. The contrast makes visible two opposed resolutions: when desire masters thumos, the struggle ends in surrender and self-rebuke; when thumos fights for perceived justice, it persists until accomplishment, death, or rational recall—no surrender to appetite appears among its possible outcomes."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὡς ἄλλο ὂν ἄλλῳ",
+          "lemma": null,
+          "location": "440a",
+          "context": "ὀργὴν πολεμεῖν ταῖς ἐπιθυμίαις ὡς ἄλλο ὂν ἄλλῳ"
+        },
+        {
+          "form": "ὥσπερ δυοῖν στασιαζόντοιν",
+          "lemma": null,
+          "location": "440b",
+          "context": "ὥσπερ δυοῖν στασιαζόντοιν σύμμαχον τῷ λόγῳ γιγνόμενον τὸν θυμόν"
+        },
+        {
+          "form": "ὡς ἕτερον ἑτέρῳ ἐπιπλῆττον",
+          "lemma": null,
+          "location": "441b",
+          "context": "ὡς ἕτερον ἑτέρῳ ἐπιπλῆττον πεποίηκεν Ὅμηρος"
+        }
+      ],
+      "observation": "Three instances of 'as one thing to another' mark the section's argumentative movement: first, anger wars with desires 'as one thing with another' (ὡς ἄλλο ὂν ἄλλῳ); then thumos allies with logos 'as between two factions' (ὥσπερ δυοῖν στασιαζόντοιν); finally, Homer depicts 'one thing rebuking another' (ἕτερον ἑτέρῳ ἐπιπλῆττον). Each formulation asserts distinctness through relationality."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "τέως μέν",
+          "lemma": null,
+          "location": "439e",
+          "context": "τέως μὲν μάχοιτό τε καὶ παρακαλύπτοιτο"
+        },
+        {
+          "form": "κρατούμενος δʼ οὖν",
+          "lemma": null,
+          "location": "440a",
+          "context": "κρατούμενος δʼ οὖν ὑπὸ τῆς ἐπιθυμίας"
+        }
+      ],
+      "observation": "The temporal sequence τέως μέν ('for a time') ... κρατούμενος δʼ οὖν ('but overcome') marks the duration and resolution of Leontius's internal conflict through contrasting particles."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γενναιότερος",
+          "lemma": "γενναῖος",
+          "location": "440c",
+          "context": "οὐχ ὅσῳ ἂν γενναιότερος ᾖ"
+        },
+        {
+          "form": "τῶν γενναίων",
+          "lemma": "γενναῖος",
+          "location": "440d",
+          "context": "οὐ λήγει τῶν γενναίων"
+        }
+      ],
+      "observation": "γενναῖος appears twice: first comparatively, describing the person who does not get angry when justly suffering (440c); then substantively, describing the noble deeds thumos does not cease from when fighting for perceived justice (440d). The same adjective marks opposed conditions—restraint under just suffering versus persistence under perceived injustice."
+    }
+  ]
+}
