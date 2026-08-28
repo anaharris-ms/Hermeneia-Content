@@ -1,0 +1,157 @@
+{
+  "section_id": "republic-chapter-05-section-13",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s011"
+      ],
+      "observation": "s001 distinguishes πόλεμος (war against ἀλλότριον) from στάσις (conflict among οἰκεῖον); s011 calls Greek-on-Greek conflict νοσεῖν (being sick) and prescribes σωφρονίζειν (bringing to soundness of mind) rather than destruction. Held together, these signals make visible that στάσις is treated not as war but as a pathology within a body that requires therapeutic correction, not elimination. The σωφρονισταί/πολέμιοι opposition at 471a becomes the enacted consequence of the στάσις/πόλεμος distinction at 470b."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "s007 describes the enemy as having 'flown away' (ἀποπταμένου) from the corpse, leaving behind only the instrument with which he fought; s008 compares those who strip corpses to dogs that rage at stones while not touching the thrower. Both passages articulate the same error: mistaking the inert remainder for the true opponent. The conjunction makes visible a double misdirection—confusing body with enemy, instrument with agent."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s009"
+      ],
+      "observation": "s010 calls the land 'nurse and mother' (τροφόν τε καὶ μητέρα) in explaining why ravaging it is intolerable; s009 records the fourfold recurrence of land-ravaging and house-burning across the section. Held together, the familial naming at 470d reframes all four instances of the paired destruction: each mention of cutting and burning becomes an act against a nurse and mother, making visible why these actions mark the agents as not φιλοπόλιδες."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "s015 contrasts treating all (men, women, children) as enemies with recognizing only the few responsible (ὀλίγους … τοὺς αἰτίους); s016 sets the limit of conflict at the point where the innocent suffering (ἀναιτίων ἀλγούντων) compels the guilty to give justice. The conjunction makes visible a specific mechanism: the many who are not responsible become the means by which the few who are responsible are brought to account, transforming the innocent from potential targets into active agents of resolution."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "s012 states twice that conflict should proceed with expectation of future reconciliation (διαλλαγησομένων); s013 calls this expectation a gentler disposition (ἡμερωτέρων) and then applies ἥμεροι to the character of the guardians' city. Held together, these make visible that the expectation of reconciliation is not merely a policy but an expression of character—ἥμερος names the disposition that makes διαλλαγή thinkable rather than final destruction."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s019"
+      ],
+      "observation": "s002 sets out two paired oppositions—οἰκεῖον/συγγενές vs. ἀλλότριον/ὀθνεῖον—as the basis for distinguishing kinds of conflict; s019 immediately uses φύσει for opposite relations: Greeks and barbarians are enemies φύσει, Greeks among themselves are friends φύσει. The conjunction makes visible that φύσις itself bifurcates: the same nature that makes Greeks and barbarians natural enemies makes Greeks among themselves natural friends, and both claims rest on the same categories established in s002."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s003"
+      ],
+      "observation": "s004 traces enslavement vocabulary from the opening prohibition against enslaving Greeks (469b-c) to the statement that guardians will not punish ἐπὶ δουλείᾳ (471a); s003 records the dense recurrence of Ἕλλην/βάρβαρος throughout. Held together, these signals make visible that the prohibition against enslaving Greeks is framed both by fear of barbarian enslavement (469c) and by the principle that Greeks correcting Greeks act as σωφρονισταί rather than enslavers (471a)—the section moves from avoiding what barbarians might do to Greeks to refusing to do to Greeks what only barbarians should suffer."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006",
+        "s018"
+      ],
+      "observation": "s005 traces three mentions of stripping the dead with escalating moral judgment; s006 contrasts the coward's turn toward the dead (τεθνεῶτα) instead of the living fighter (μαχόμενον); s018 concentrates moral epithets—ἀνελεύθερον, φιλοχρήματον, γυναικείας τε καὶ σμικρᾶς διανοίας—on corpse-stripping. Held together, these make visible that the practice receives not merely prohibition but dense ethical characterization: it is simultaneously cowardly (facing the dead not the living), slavish (ἀνελεύθερον), greedy (φιλοχρήματον), and small-minded (σμικρᾶς διανοίας)—a concentration of vices that makes the single act carry multiple degradations."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s001"
+      ],
+      "observation": "s014 calls bringing Greek arms to temples a potential μίασμα (pollution), with reservation for divine exception; s001 distinguishes πόλεμος from στάσις based on whether the conflict is with ἀλλότριον or οἰκεῖον. Held together, these make visible that the στάσις/πόλεμος distinction has a ritual dimension: what might be acceptable as trophies from πόλεμος becomes μίασμα when taken from στάσις, suggesting that the categories οἰκεῖον and ἀλλότριον govern not only military conduct but also sacred space."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s012"
+      ],
+      "observation": "s009 records four iterations of the paired actions—ravaging land and burning houses—with lexical variation (τέμνω/κείρω for land, ἐμπίμπρημι/ἀνατρέπω for houses); s012 states twice that conflict should proceed with expectation of reconciliation (διαλλαγησομένων). The conjunction makes visible that the fourfold prohibition against permanent destruction of land and houses enacts the expectation of διαλλαγή: one does not destroy what one expects to be reconciled with, and the repeated prohibition makes the expectation of future unity structurally visible through what is withheld."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s003"
+      ],
+      "observation": "s017 records the proposal to spare (φείδεσθαι) the Hellenic race and its immediate emphatic endorsement (ὅλῳ καὶ παντί); s003 traces the dense Ἕλλην/βάρβαρος opposition throughout the section. Held together, these make visible that the single verb φείδεσθαι, emphatically endorsed at the section's opening, governs all subsequent specific prohibitions—enslavement, corpse-stripping, land-ravaging, house-burning—each becoming a particular form of the sparing (φείδεσθαι) that applies ὅλῳ καὶ παντί to relations among Greeks."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔχθρα",
+          "lemma": "ἔχθρα",
+          "location": "470b",
+          "context": "ἐπὶ μὲν οὖν τῇ τοῦ οἰκείου ἔχθρᾳ στάσις κέκληται"
+        },
+        {
+          "form": "ἐχθροῦ",
+          "lemma": "ἐχθρός",
+          "location": "469d",
+          "context": "ἀποπταμένου τοῦ ἐχθροῦ"
+        },
+        {
+          "form": "ἔχθραν",
+          "lemma": "ἔχθρα",
+          "location": "470c",
+          "context": "πόλεμον τὴν ἔχθραν ταύτην κλητέον"
+        },
+        {
+          "form": "ἔχθραν",
+          "lemma": "ἔχθρα",
+          "location": "470d",
+          "context": "στάσιν τὴν τοιαύτην ἔχθραν κλητέον"
+        },
+        {
+          "form": "ἐχθροὺς",
+          "lemma": "ἐχθρός",
+          "location": "471a",
+          "context": "ὀλίγους ἀεὶ ἐχθροὺς τοὺς αἰτίους"
+        }
+      ],
+      "observation": "ἔχθρα and ἐχθρός recur five times: first naming the kind of hostility that defines στάσις (470b), then describing the enemy who has flown away from the corpse (469d), then twice naming the enmity in both πόλεμος and στάσις (470c-d), finally identifying the few truly responsible as enemies (471a). The recurrence traces enmity from its initial categorization through its misapplication to corpses to its proper restriction to the guilty few."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πρόφασιν",
+          "lemma": "πρόφασις",
+          "location": "469c",
+          "context": "πρόφασιν μὲν τοῖς δειλοῖς ἔχει"
+        },
+        {
+          "form": "φιλοπόλιδες",
+          "lemma": "φιλόπολις",
+          "location": "470d",
+          "context": "οὐδέτεροι αὐτῶν φιλοπόλιδες"
+        }
+      ],
+      "observation": "πρόφασις at 469d names the false justification (excuse, pretext) that corpse-stripping provides to cowards; φιλοπόλιδες at 470d names what those who ravage their own land are not. Both terms identify a gap between appearance and reality in martial conduct—one creates a false reason, the other fails to possess genuine attachment to the city."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἐὰν μή τι δὴ ὁ θεὸς ἄλλο λέγῃ",
+          "lemma": null,
+          "location": "470a",
+          "context": "ἐὰν μή τι δὴ ὁ θεὸς ἄλλο λέγῃ"
+        }
+      ],
+      "observation": "The single conditional reservation 'unless the god says otherwise' appears only once, creating a singular exception clause to the prohibition against dedicating Greek arms in temples—divine speech alone can override the pollution (μίασμα) principle."
+    }
+  ]
+}
