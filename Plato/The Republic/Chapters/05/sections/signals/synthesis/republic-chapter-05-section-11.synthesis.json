@@ -1,0 +1,158 @@
+{
+  "section_id": "republic-chapter-05-section-11",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s005"
+      ],
+      "observation": "The children's doubled activity—θεωρεῖν (s001) and διακονεῖν/ὑπηρετεῖν/θεραπεύειν (s005)—is first presented as simultaneous (πρὸς δὲ τῇ θέᾳ διακονεῖν), then separated in the potter analogy where διακονοῦντες θεωροῦσι names a prolonged apprenticeship before touching the craft. The conjunction reveals that watching and serving are not merely concurrent but sequenced: service accompanies and prepares for eventual performance."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s008"
+      ],
+      "observation": "The craftsman terminology (s002) brackets the children's developmental trajectory (s008): δημιουργῶν introduces children who watch before they are τελεωθέντας, mature enough to practice the craft themselves; δημιουργόν returns as the demotion for a guardian who has failed. The same word names both the goal of maturation through watching and the consequence of regression through cowardice."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s012"
+      ],
+      "observation": "The metaphor of winging children (πτεροῦν, πετόμενοι, s006) is immediately translated into mounting them on horses (ἀναβιβαστέον, s007), and the horse-qualities specified (s012) answer the metaphor's implied need: not θυμοειδῶν or μαχητικῶν but ποδωκεστάτων καὶ εὐηνιωτάτων—swiftest for flight, easiest to control. The literalization preserves the metaphor's directional sense: wings for escape, not for attack."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "The density of θεωρέω/θέα terms (s001) and κίνδυνος terms (s004) converge in the question ἄξιον κινδύνου θεωρεῖν ἢ μὴ τὰ περὶ τὸν πόλεμον: whether the act of watching war is worth the risk. Watching, the children's defining activity, is itself named as a danger requiring justification and protective measures (προσμηχανᾶσθαι αὐτοῖς ἀσφάλειαν)."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s004"
+      ],
+      "observation": "The animal precedent (πᾶν ζῷον μαχεῖταί γε διαφερόντως παρόντων ὧν ἂν τέκῃ, s011) supporting the presence of children in war is immediately met with the counter-consideration κίνδυνος οὐ σμικρός (s004): the risk of losing both children and the city's ability to recover. The ζῷον analogy, first invoked to naturalize the guardian community (466d), here introduces the danger that distinguishes human warfare from animal instinct."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s015"
+      ],
+      "observation": "The fathers' discriminating judgment (εἰς μὲν ἄρα τὰς ἄξουσιν, εἰς δὲ τὰς εὐλαβήσονται, s009) is grammatically parallel to the sequence of verbal adjectives (παρασκευαστέον, κινδυνευτέον, ἀναβιβαστέον, s015). Both express selective necessity: the fathers must judge which campaigns warrant risk, the section prescribes which preparatory actions must be taken. The structural echo makes discernment itself a prescriptive requirement."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s001",
+        "s005"
+      ],
+      "observation": "The potter children (s010) provide the explicit analogy: πολὺν χρόνον διακονοῦντες θεωροῦσι πρὶν ἅπτεσθαι. This single phrase condenses the entire sequence later prescribed for guardian children—διακονεῖν καὶ ὑπηρετεῖν (s005) combined with θεωρεῖν (s001) over prolonged time before touching (ἅπτεσθαι) the work. The potter analogy is not illustrative decoration but a compressed template that the military prescription expands."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "The two military failures (s013) receive asymmetric treatment: the deserter becomes a δημιουργόν or γεωργόν (demotion to productive labor), while the captured soldier becomes δωρεάν and ἄγρα (s014), a gift-object handed over to the enemy's use. The contrast is not merely between two punishments but between reabsorption into the city's productive class and expulsion from the guardian function into the status of transferable property."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s013"
+      ],
+      "observation": "δημιουργός (s003) moves from the model (craftsman whose children learn by watching) to the punishment (status assigned to the cowardly guardian). The deserter who abandons τάξιν (s013) is reassigned to the very class whose children he once resembled as a learner. The recurrence completes a failed apprenticeship: the guardian who does not mature into the craft returns to the status of those whose children still watch it."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεῶνται",
+          "lemma": "θεάομαι",
+          "location": "466e",
+          "context": "ἵνʼ ὥσπερ οἱ τῶν ἄλλων δημιουργῶν θεῶνται ταῦτα ἃ τελεωθέντας δεήσει δημιουργεῖν"
+        },
+        {
+          "form": "ἅπτεσθαι",
+          "lemma": "ἅπτω",
+          "location": "467a",
+          "context": "πρὶν ἅπτεσθαι τοῦ κεραμεύειν"
+        }
+      ],
+      "observation": "The movement from θεῶνται (watching what they will need to practice when mature) to ἅπτεσθαι (touching, beginning to practice) marks the temporal threshold between apprenticeship and performance, explicitly preserved in the potter analogy and implied for the guardian children."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἡγεμόνας τε καὶ παιδαγωγούς",
+          "lemma": null,
+          "location": "467d",
+          "context": "ἱκανοὺς ἡγεμόνας τε καὶ παιδαγωγοὺς εἶναι"
+        },
+        {
+          "form": "πρεσβυτέρων ἡγεμόνων",
+          "lemma": null,
+          "location": "467e",
+          "context": "μετὰ πρεσβυτέρων ἡγεμόνων ἑπόμενοι"
+        }
+      ],
+      "observation": "ἡγεμόνας appears twice: first paired with παιδαγωγούς as the qualified leaders assigned to the children, then as πρεσβυτέρων ἡγεμόνων whom the children will follow in escape. The recurrence specifies that the same figures guide both observation and flight."
+    },
+    {
+      "signal_types": [
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀσφάλειαν",
+          "lemma": "ἀσφάλεια",
+          "location": "467c",
+          "context": "προσμηχανᾶσθαι δʼ αὐτοῖς ἀσφάλειαν"
+        },
+        {
+          "form": "ἀσφαλέστατα",
+          "lemma": "ἀσφαλής",
+          "location": "467e",
+          "context": "καὶ ἀσφαλέστατα, ἄν τι δέῃ, σωθήσονται"
+        },
+        {
+          "form": "σωθήσονται",
+          "lemma": "σῴζω",
+          "location": "467e",
+          "context": "ἀσφαλέστατα, ἄν τι δέῃ, σωθήσονται"
+        }
+      ],
+      "observation": "ἀσφάλεια and its cognate ἀσφαλέστατα frame the protective measures, with σωθήσονται naming the intended outcome. The cluster concentrates around the transition from abstract safety-principle (ἀσφάλειαν) to concrete safe-escape (ἀσφαλέστατα σωθήσονται)."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "γνωμονικοὶ τῶν στρατειῶν ὅσαι τε καὶ μὴ ἐπικίνδυνοι",
+          "lemma": null,
+          "location": "467c-d",
+          "context": "οὐκ ἀμαθεῖς ἔσονται ἀλλὰ γνωμονικοὶ τῶν στρατειῶν ὅσαι τε καὶ μὴ ἐπικίνδυνοι"
+        },
+        {
+          "form": "ἱκανοὺς ἡγεμόνας τε καὶ παιδαγωγοὺς εἶναι",
+          "lemma": null,
+          "location": "467d",
+          "context": "τοὺς ἐμπειρίᾳ τε καὶ ἡλικίᾳ ἱκανοὺς ἡγεμόνας τε καὶ παιδαγωγοὺς εἶναι"
+        }
+      ],
+      "observation": "Two parallel constructions specify adult competence through paired qualifications: fathers must be γνωμονικοί (discerning) about which campaigns are or are not dangerous; appointed leaders must be ἱκανούς (sufficient) through both experience and age. Both structures use τε καί to join dual criteria for protective judgment."
+    }
+  ]
+}
