@@ -1,0 +1,141 @@
+{
+  "section_id": "republic-chapter-01-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s005"
+      ],
+      "observation": "`s001` shows συμφέρον saturating the section; `s005` shows ἁμαρτάνω clustering around the question of whether rulers err. Held together, the two densities mark a transformation: the section moves from a space where benefit can attach to error to a space where error is eliminated from the strict-sense craft, so that συμφέρον can only attach to the ἀρχόμενος. The negated ἀσύμφορα appears precisely when error enters the argument (339e), then ἁμαρτία is denied to τέχνη (342b), allowing συμφέρον to return at the end (342e) no longer ambiguously placed."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s010"
+      ],
+      "observation": "`s002` shows κρείττων shifting referents—political, athletic, political again; `s010` introduces the ἀκριβής/ὡς ἔπος εἰπεῖν contrast. Held together, the two sequences make visible a doubled movement: κρείττων first moves from abstraction to body (Polydamas) then back to abstraction under strict speech. The ἀκριβὴς λόγος does not return to the original political sense but recasts κρείττων as a technical term stripped of the loose everyday register that admitted the athlete."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s006",
+        "s016"
+      ],
+      "observation": "`s003` gives the ἄρχων/ἀρχόμενος pair; `s006` assembles the craftsmen series; `s016` contrasts χρηματιστής and θεραπευτής. Taken together, these configurations make visible a progressive narrowing: the general ἄρχων becomes the specific craftsman (ἰατρός, κυβερνήτης), then each craftsman is split into two possible identities (moneymaker or healer, etc.). The ἀρχόμενος, initially the subjected political class, becomes the sick body or the sailors—concrete, needy objects of craft rather than subordinates of rule."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s012"
+      ],
+      "observation": "`s004` introduces Polydamas and beef—bodily strength and food; `s012` introduces deficient eyes, ears, and the πονηρὸν σῶμα needing medicine. Held together, the two bodily moments frame the section: the first body is strong and fed, the second is weak and requires technical care. The section thus moves from a body that exemplifies superiority through nourishment to a body that exemplifies dependency and need."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "`s007` tracks κακουργέω through accusation, denial, and challenge; `s008` tracks συκοφαντέω similarly. Held together, the two recurrent accusations make visible a rhetorical loop in which Thrasymachus charges Socrates with bad-faith argument, Socrates denies it, and Thrasymachus then dares him to attempt it. The loop marks the ἀκριβὴς λόγος move not as neutral clarification but as contested terrain where precision can be called trickery."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "`s009` introduces the lion that cannot be shaved; `s010` introduces the ἀκριβής/loose contrast. Held together, the image and the methodological pair make visible an ironic reversal: Socrates disclaims madness in trying to shave Thrasymachus-as-lion, yet the ἀκριβὴς λόγος that Thrasymachus himself invokes becomes the instrument by which Socrates does exactly that—strips away the loose sense and leaves the strict."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s013"
+      ],
+      "observation": "`s011` clusters τέχνη, ἐπιστήμη, δημιουργός; `s013` marks the ἀπέραντον infinite regress. Held together, these make visible the function of the strict-sense craftsman: he halts the regress by being perfectly what his name designates, needing no further τέχνη. The craftsman is defined precisely by not requiring another craft, so the ἀπέραντον becomes the threat that the ἀκριβὴς definition wards off."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "`s014` records Thrasymachus agreeing μόγις twice; `s015` records the final statement that the ruler looks toward the ruled and does everything for that one's benefit. Held together, the reluctant concessions and the completed thesis make visible a dramatic movement: the section does not end with Thrasymachus persuaded but with him having yielded step by difficult step to a conclusion that redirects βλέπων and ποιεῖ entirely away from his opening claim."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "`s001` shows συμφέρον recurring throughout; `s015` closes with the ruler βλέπων πρὸς ἐκεῖνο and doing ἅπαντα for the ἀρχόμενος's συμφέρον. Held together, the density and the closure make visible that συμφέρον itself has not been eliminated but redirected: it saturates the section from the start, undergoes negation (ἀσύμφορα) in the middle, and returns at the end attached firmly to the ruled rather than the ruler."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s004",
+        "s006"
+      ],
+      "observation": "`s002` shifts κρείττων from political to athletic to redefined political; `s004` introduces Polydamas and beef; `s006` assembles the craftsmen. Held together, these make visible a substitution: the section begins with political superiority, momentarily replaces it with bodily superiority nourished by meat, then definitively replaces both with the technical superiority of the craftsman who rules not the strong but the weak (sick, sailors)."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s018"
+      ],
+      "observation": "`s017` lists three regime types in parallel verbal forms; `s018` pairs παρανομεῖν and ἀδικεῖν as joint characterizations of the transgressor. Held together, the regime triad and the law/justice pair mark the opening movement: Thrasymachus presents regimes as formally parallel (each κρατεῖ and θέτει νόμους), and transgression as simultaneously legal and moral failure. The craft argument will dissolve this parallelism by making the strict-sense ἄρχων indifferent to regime type."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s011"
+      ],
+      "observation": "`s005` shows ἁμαρτάνω clustering densely then being eliminated; `s011` shows τέχνη, ἐπιστήμη, δημιουργός defining the craftsman. Held together, these make visible the mechanism of elimination: the craftsman does not cease to err by becoming virtuous but by being redefined as one who, when erring, is not a craftsman. Error is not corrected; it is excluded from the definition. ἁμαρτία becomes external to ἐπιστήμη, leaving the craft ἀβλαβής and ἀκέραιος (342b)."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀβλαβής καὶ ἀκέραιος",
+          "lemma": null,
+          "location": "342b",
+          "context": "αὐτὴ δὲ ἀβλαβής καὶ ἀκέραιός ἐστιν ὀρθὴ οὖσα"
+        }
+      ],
+      "observation": "The craft is called ἀβλαβής (unhurt) and ἀκέραιος (unmixed, intact) when it is ὀρθή—three terms that together characterize the strict-sense τέχνη as immune to damage, contamination, and deviation. This triad appears only here and marks the completed purification of craft from error and need."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ζητεῖν τε καὶ ἐκπορίζειν",
+          "lemma": null,
+          "location": "341d",
+          "context": "ἐπὶ τῷ τὸ συμφέρον ἑκάστῳ ζητεῖν τε καὶ ἐκπορίζειν"
+        },
+        {
+          "form": "σκέψεταί τε καὶ ἐκποριούσης",
+          "lemma": null,
+          "location": "342a",
+          "context": "τῆς τὸ συμφέρον εἰς αὐτὰ ταῦτα σκεψομένης τε καὶ ἐκποριούσης"
+        }
+      ],
+      "observation": "The pairing ζητεῖν τε καὶ ἐκπορίζειν (to seek and supply) at 341d is echoed by σκέψεταί τε καὶ ἐκποριούσης (considering and supplying) at 342a. Both present craft's double action—searching and providing—casting the τέχνη as active agent on behalf of a passive object."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὁμολογεῖται",
+          "lemma": "ὁμολογέω",
+          "location": "339d, 342d, 342e",
+          "context": "Multiple uses of ὁμολογεῖται / ὡμολόγηται"
+        }
+      ],
+      "observation": "Forms of ὁμολογέω recur as the narrator marks agreed steps: ὁμολογεῖται at 339d and 342e, ὡμολόγηται at 339d and 342d. Each marks a point Thrasymachus has conceded, making the argument's progress visible as a series of recorded agreements rather than a continuous persuasion."
+    }
+  ]
+}
