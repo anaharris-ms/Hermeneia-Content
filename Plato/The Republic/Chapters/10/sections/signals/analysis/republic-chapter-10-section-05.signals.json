@@ -1,0 +1,643 @@
+{
+  "section_id": "republic-chapter-10-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πεπαίδευκεν",
+          "lemma": "παιδεύω",
+          "location": "606e",
+          "context": "τὴν Ἑλλάδα πεπαίδευκεν οὗτος ὁ ποιητὴς"
+        },
+        {
+          "form": "παιδείαν",
+          "lemma": "παιδεία",
+          "location": "606e",
+          "context": "πρὸς διοίκησίν τε καὶ παιδείαν τῶν ἀνθρωπίνων πραγμάτων"
+        }
+      ],
+      "observation": "Forms from the παιδεύω family appear in the claim attributed to Homer's admirers that the poet has educated Greece and is worthy for the education of human affairs."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μανθάνειν",
+          "lemma": "μανθάνω",
+          "location": "606e",
+          "context": "ἄξιος ἀναλαβόντι μανθάνειν"
+        },
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "607a",
+          "context": "εἰδέναι δὲ ὅτι"
+        }
+      ],
+      "observation": "A verb of learning (μανθάνειν) in the attributed claim is followed by a verb of knowing (εἰδέναι) in Socrates' response."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "τὸν αὑτοῦ βίον",
+          "lemma": null,
+          "location": "606e",
+          "context": "πάντα τὸν αὑτοῦ βίον κατασκευασάμενον ζῆν"
+        },
+        {
+          "form": "τὸν βίον τὸν ἀνθρώπινον",
+          "lemma": null,
+          "location": "607d",
+          "context": "πρὸς τὰς πολιτείας καὶ τὸν βίον τὸν ἀνθρώπινον"
+        }
+      ],
+      "observation": "βίος appears first as 'one's own life' in the context of living according to Homer, and later as 'human life' in the proposed defense of poetry's benefit."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φιλεῖν",
+          "lemma": "φιλέω",
+          "location": "607a",
+          "context": "φιλεῖν μὲν χρὴ καὶ ἀσπάζεσθαι"
+        },
+        {
+          "form": "φιλοποιηταὶ",
+          "lemma": "φιλοποιητής",
+          "location": "607d",
+          "context": "ὅσοι μὴ ποιητικοί, φιλοποιηταὶ δέ"
+        }
+      ],
+      "observation": "φιλεῖν describes the appropriate attitude toward Homer's admirers; φιλοποιηταὶ later names the advocates of poetry who are not themselves poets."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ποιητὴς",
+          "lemma": "ποιητής",
+          "location": "606e",
+          "context": "οὗτος ὁ ποιητὴς"
+        },
+        {
+          "form": "τοῦτον τὸν ποιητὴν",
+          "lemma": "ποιητής",
+          "location": "606e",
+          "context": "κατὰ τοῦτον τὸν ποιητὴν πάντα"
+        },
+        {
+          "form": "ποιητικώτατον",
+          "lemma": "ποιητικός",
+          "location": "607a",
+          "context": "Ὅμηρον ποιητικώτατον εἶναι"
+        },
+        {
+          "form": "τραγῳδοποιῶν",
+          "lemma": "τραγῳδοποιός",
+          "location": "607a",
+          "context": "πρῶτον τῶν τραγῳδοποιῶν"
+        },
+        {
+          "form": "ποιήσεως",
+          "lemma": "ποίησις",
+          "location": "607a",
+          "context": "ὅσον μόνον ὕμνους θεοῖς καὶ ἐγκώμια τοῖς ἀγαθοῖς ποιήσεως"
+        },
+        {
+          "form": "ποιήσεως",
+          "lemma": "ποίησις",
+          "location": "607b",
+          "context": "ἀναμνησθεῖσιν περὶ ποιήσεως"
+        },
+        {
+          "form": "ποιητικῇ",
+          "lemma": "ποιητική",
+          "location": "607b",
+          "context": "διαφορὰ φιλοσοφίᾳ τε καὶ ποιητικῇ"
+        },
+        {
+          "form": "ποιητικὴ",
+          "lemma": "ποιητική",
+          "location": "607c",
+          "context": "ἡ πρὸς ἡδονὴν ποιητικὴ"
+        },
+        {
+          "form": "ποιητικοί",
+          "lemma": "ποιητικός",
+          "location": "607d",
+          "context": "ὅσοι μὴ ποιητικοί"
+        },
+        {
+          "form": "ποιήσεως",
+          "lemma": "ποίησις",
+          "location": "607e",
+          "context": "ἔρωτα τῆς τοιαύτης ποιήσεως"
+        },
+        {
+          "form": "ποιήσει",
+          "lemma": "ποίησις",
+          "location": "608a",
+          "context": "ἐπὶ τῇ τοιαύτῃ ποιήσει"
+        },
+        {
+          "form": "ποιητικῇ",
+          "lemma": "ποιητική",
+          "location": "608b",
+          "context": "οὐδέ γε ποιητικῇ"
+        },
+        {
+          "form": "ποιήσεως",
+          "lemma": "ποίησις",
+          "location": "608b",
+          "context": "νομιστέα ἅπερ εἰρήκαμεν περὶ ποιήσεως"
+        }
+      ],
+      "observation": "The ποι- lexical family (ποιητής, ποιητικός, τραγῳδοποιός, ποίησις, ποιητική, φιλοποιητής) recurs throughout with high density."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὕμνους θεοῖς καὶ ἐγκώμια τοῖς ἀγαθοῖς",
+          "lemma": null,
+          "location": "607a",
+          "context": "ὅσον μόνον ὕμνους θεοῖς καὶ ἐγκώμια τοῖς ἀγαθοῖς ποιήσεως παραδεκτέον"
+        },
+        {
+          "form": "τὴν ἡδυσμένην Μοῦσαν",
+          "lemma": null,
+          "location": "607a",
+          "context": "εἰ δὲ τὴν ἡδυσμένην Μοῦσαν παραδέξῃ"
+        }
+      ],
+      "observation": "Hymns to gods and encomia to the good are set against the sweetened Muse as contrasting types of poetry to admit."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἡδονή σοι καὶ λύπη",
+          "lemma": null,
+          "location": "607a",
+          "context": "ἡδονή σοι καὶ λύπη ἐν τῇ πόλει βασιλεύσετον"
+        },
+        {
+          "form": "νόμου τε καὶ τοῦ κοινῇ ἀεὶ δόξαντος εἶναι βελτίστου λόγου",
+          "lemma": null,
+          "location": "607a",
+          "context": "ἀντὶ νόμου τε καὶ τοῦ κοινῇ ἀεὶ δόξαντος εἶναι βελτίστου λόγου"
+        }
+      ],
+      "observation": "Pleasure and pain ruling in the city are explicitly contrasted with law and the commonly judged best reasoning using ἀντί."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπεστέλλομεν",
+          "lemma": "ἀποστέλλω",
+          "location": "607b",
+          "context": "τότε αὐτὴν ἐκ τῆς πόλεως ἀπεστέλλομεν"
+        },
+        {
+          "form": "κατιέναι",
+          "lemma": "κάτειμι",
+          "location": "607d",
+          "context": "δικαία ἐστὶν οὕτω κατιέναι"
+        }
+      ],
+      "observation": "Poetry was sent away (ἀπεστέλλομεν) from the city and is later said to be just in returning (κατιέναι) after making a defense."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "παλαιὰ μέν τις διαφορὰ φιλοσοφίᾳ τε καὶ ποιητικῇ",
+          "lemma": null,
+          "location": "607b",
+          "context": "παλαιὰ μέν τις διαφορὰ φιλοσοφίᾳ τε καὶ ποιητικῇ"
+        },
+        {
+          "form": "παλαιᾶς ἐναντιώσεως",
+          "lemma": null,
+          "location": "607c",
+          "context": "σημεῖα παλαιᾶς ἐναντιώσεως τούτων"
+        }
+      ],
+      "observation": "The ancient quarrel (παλαιὰ διαφορά) between philosophy and poetry is stated and then reinforced with reference to signs of ancient opposition (παλαιᾶς ἐναντιώσεως)."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λακέρυζα πρὸς δεσπόταν κύων ἐκείνη κραυγάζουσα",
+          "lemma": null,
+          "location": "607b",
+          "context": "καὶ γὰρ ἡ λακέρυζα πρὸς δεσπόταν κύων ἐκείνη κραυγάζουσα"
+        },
+        {
+          "form": "μέγας ἐν ἀφρόνων κενεαγορίαισι",
+          "lemma": null,
+          "location": "607b",
+          "context": "καὶ μέγας ἐν ἀφρόνων κενεαγορίαισι"
+        },
+        {
+          "form": "ὁ τῶν διασόφων ὄχλος κρατῶν",
+          "lemma": null,
+          "location": "607c",
+          "context": "καὶ ὁ τῶν διασόφων ὄχλος κρατῶν"
+        },
+        {
+          "form": "οἱ λεπτῶς μεριμνῶντες, ὅτι ἄρα πένονται",
+          "lemma": null,
+          "location": "607c",
+          "context": "καὶ οἱ λεπτῶς μεριμνῶντες, ὅτι ἄρα πένονται"
+        }
+      ],
+      "observation": "Four quoted or paraphrased phrases are cited as signs of the ancient quarrel: a yelping dog against its master, one great in senseless empty speeches, the mob of the over-subtle ruling, and those thinking subtly that they are poor."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἡδεῖα",
+          "lemma": "ἡδύς",
+          "location": "607d",
+          "context": "οὐ μόνον ἡδεῖα ἀλλὰ καὶ ὠφελίμη"
+        },
+        {
+          "form": "ἡδεῖα",
+          "lemma": "ἡδύς",
+          "location": "607e",
+          "context": "ἐὰν μὴ μόνον ἡδεῖα φανῇ"
+        },
+        {
+          "form": "ἡδυσμένην",
+          "lemma": "ἡδύνω",
+          "location": "607a",
+          "context": "τὴν ἡδυσμένην Μοῦσαν"
+        },
+        {
+          "form": "πρὸς ἡδονὴν",
+          "lemma": "ἡδονή",
+          "location": "607c",
+          "context": "ἡ πρὸς ἡδονὴν ποιητικὴ"
+        }
+      ],
+      "observation": "Forms from the ἡδύς family recur: the sweetened Muse, poetry directed toward pleasure, and the repeated condition that poetry be shown to be pleasant and beneficial."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "exact_repetition",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "οὐ μόνον ἡδεῖα ἀλλὰ καὶ ὠφελίμη",
+          "lemma": null,
+          "location": "607d",
+          "context": "ὡς οὐ μόνον ἡδεῖα ἀλλὰ καὶ ὠφελίμη"
+        },
+        {
+          "form": "ἐὰν μὴ μόνον ἡδεῖα φανῇ ἀλλὰ καὶ ὠφελίμη",
+          "lemma": null,
+          "location": "607e",
+          "context": "κερδανοῦμεν γάρ που ἐὰν μὴ μόνον ἡδεῖα φανῇ ἀλλὰ καὶ ὠφελίμη"
+        }
+      ],
+      "observation": "The formula 'not only pleasant but also beneficial' recurs exactly in the proposed defense and in the statement of what would be gained."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "intention_completion",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπολογησαμένη",
+          "lemma": "ἀπολογέομαι",
+          "location": "607d",
+          "context": "δικαία ἐστὶν οὕτω κατιέναι, ἀπολογησαμένη"
+        },
+        {
+          "form": "λόγον ὑπὲρ αὐτῆς εἰπεῖν",
+          "lemma": null,
+          "location": "607d",
+          "context": "ἄνευ μέτρου λόγον ὑπὲρ αὐτῆς εἰπεῖν"
+        },
+        {
+          "form": "ἕως δʼ ἂν μὴ οἵα τʼ ᾖ ἀπολογήσασθαι",
+          "lemma": "ἀπολογέομαι",
+          "location": "608a",
+          "context": "ἕως δʼ ἂν μὴ οἵα τʼ ᾖ ἀπολογήσασθαι"
+        }
+      ],
+      "observation": "Poetry's defense (ἀπολογησαμένη) is proposed as the just condition for return, advocates are permitted to speak a λόγον on its behalf, and the listening continues as long as poetry is not able to make its defense (ἀπολογήσασθαι)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κηλουμένοις",
+          "lemma": "κηλέω",
+          "location": "607c",
+          "context": "σύνισμέν γε ἡμῖν αὐτοῖς κηλουμένοις ὑπʼ αὐτῆς"
+        },
+        {
+          "form": "κηλῇ",
+          "lemma": "κηλέω",
+          "location": "607c",
+          "context": "οὐ κηλῇ ὑπʼ αὐτῆς καὶ σύ"
+        }
+      ],
+      "observation": "Forms of κηλέω appear first in Socrates' acknowledgment that 'we' are enchanted by poetry and then in the direct question to Glaucon whether he too is enchanted."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔρωτα τῆς τοιαύτης ποιήσεως",
+          "lemma": "ἔρως",
+          "location": "607e",
+          "context": "διὰ τὸν ἐγγεγονότα μὲν ἔρωτα τῆς τοιαύτης ποιήσεως"
+        },
+        {
+          "form": "τὸν ἔρωτα",
+          "lemma": "ἔρως",
+          "location": "607e",
+          "context": "ἐὰν ἡγήσωνται μὴ ὠφέλιμον εἶναι τὸν ἔρωτα"
+        },
+        {
+          "form": "τὸν παιδικόν τε καὶ τὸν τῶν πολλῶν ἔρωτα",
+          "lemma": "ἔρως",
+          "location": "608a",
+          "context": "εὐλαβούμενοι πάλιν ἐμπεσεῖν εἰς τὸν παιδικόν τε καὶ τὸν τῶν πολλ῾ν ἔρωτα"
+        }
+      ],
+      "observation": "ἔρως appears first in a simile of those who abstain from an unhelpful love, then as the ingrown love of such poetry, and finally as the childish and common love to be guarded against."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπῳδήν",
+          "lemma": "ἐπῳδή",
+          "location": "608a",
+          "context": "καὶ ταύτην τὴν ἐπῳδήν"
+        },
+        {
+          "form": "ἐπᾴδοντες",
+          "lemma": "ἐπᾴδω",
+          "location": "608a",
+          "context": "ἀκροασόμεθʼ αὐτῆς ἐπᾴδοντες ἡμῖν αὐτοῖς"
+        }
+      ],
+      "observation": "The activity of chanting an incantation over oneself (ἐπᾴδοντες) and the incantation itself (ἐπῳδήν) appear together as the safeguard while listening to poetry."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθείας τε ἁπτομένῃ καὶ σπουδαίᾳ",
+          "lemma": null,
+          "location": "608a",
+          "context": "ὡς ἀληθείας τε ἁπτομένῃ καὶ σπουδαίᾳ"
+        },
+        {
+          "form": "οὐ σπουδαστέον",
+          "lemma": "σπουδάζω",
+          "location": "608a",
+          "context": "ὡς οὐ σπουδαστέον ἐπὶ τῇ τοιαύτῃ ποιήσει"
+        }
+      ],
+      "observation": "The incantation states that one must not take seriously (οὐ σπουδαστέον) such poetry as if it touched truth and were serious (ἁπτομένῃ καὶ σπουδαίᾳ)."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τῆς ἐν αὑτῷ πολιτείας",
+          "lemma": null,
+          "location": "608b",
+          "context": "περὶ τῆς ἐν αὑτῷ πολιτείας δεδιότι"
+        }
+      ],
+      "observation": "The listener is said to fear concerning the regime within himself (τῆς ἐν αὑτῷ πολιτείας)."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "exact_repetition",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "μέγας γάρ, ἔφην, ὁ ἀγών, ὦ φίλε Γλαύκων, μέγας",
+          "lemma": null,
+          "location": "608b",
+          "context": "μέγας γάρ, ἔφην, ὁ ἀγών, ὦ φίλε Γλαύκων, μέγας"
+        }
+      ],
+      "observation": "μέγας is repeated immediately for emphasis in the declaration that the contest is great."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὸ χρηστὸν ἢ κακὸν γενέσθαι",
+          "lemma": null,
+          "location": "608b",
+          "context": "μέγας, οὐχ ὅσος δοκεῖ, τὸ χρηστὸν ἢ κακὸν γενέσθαι"
+        }
+      ],
+      "observation": "The contest is defined as becoming good or bad (τὸ χρηστὸν ἢ κακὸν γενέσθαι)."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "οὔτε τιμῇ ἐπαρθέντα οὔτε χρήμασιν οὔτε ἀρχῇ οὐδεμιᾷ οὐδέ γε ποιητικῇ",
+          "lemma": null,
+          "location": "608b",
+          "context": "οὔτε τιμῇ ἐπαρθέντα οὔτε χρήμασιν οὔτε ἀρχῇ οὐδεμιᾷ οὐδέ γε ποιητικῇ"
+        }
+      ],
+      "observation": "A series of negated grounds for neglecting justice is listed: honor, money, any office, and poetry."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνης",
+          "lemma": "δικαιοσύνη",
+          "location": "608b",
+          "context": "ἀμελῆσαι δικαιοσύνης τε καὶ τῆς ἄλλης ἀρετῆς"
+        },
+        {
+          "form": "δικαία",
+          "lemma": "δίκαιος",
+          "location": "607d",
+          "context": "δικαία ἐστὶν οὕτω κατιέναι"
+        }
+      ],
+      "observation": "δίκαιος appears in the statement that poetry is just in returning after defense; δικαιοσύνη appears in the closing statement that one must not neglect justice and other virtue."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "σύμφημί",
+          "lemma": "σύμφημι",
+          "location": "608b",
+          "context": "παντάπασιν, ἦ δʼ ὅς, σύμφημι"
+        },
+        {
+          "form": "σύμφημί σοι",
+          "lemma": "σύμφημι",
+          "location": "608b",
+          "context": "σύμφημί σοι, ἔφη"
+        }
+      ],
+      "observation": "σύμφημι appears twice in Glaucon's closing responses, marking agreement."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὠφέλιμον",
+          "lemma": "ὠφέλιμος",
+          "location": "607e",
+          "context": "ἐὰν ἡγήσωνται μὴ ὠφέλιμον εἶναι"
+        },
+        {
+          "form": "ὠφελίμη",
+          "lemma": "ὠφέλιμος",
+          "location": "607d",
+          "context": "οὐ μόνον ἡδεῖα ἀλλὰ καὶ ὠφελίμη"
+        },
+        {
+          "form": "ὠφελίμη",
+          "lemma": "ὠφέλιμος",
+          "location": "607e",
+          "context": "ἐὰν μὴ μόνον ἡδεῖα φανῇ ἀλλὰ καὶ ὠφελίμη"
+        }
+      ],
+      "observation": "ὠφέλιμος recurs in the simile of unhelpful love and twice in the condition that poetry be shown beneficial as well as pleasant."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κερδανοῦμεν",
+          "lemma": "κερδαίνω",
+          "location": "607e",
+          "context": "κερδανοῦμεν γάρ που"
+        },
+        {
+          "form": "κερδαίνειν",
+          "lemma": "κερδαίνω",
+          "location": "607e",
+          "context": "πῶς δʼ οὐ μέλλομεν, ἔφη, κερδαίνειν"
+        }
+      ],
+      "observation": "Forms of κερδαίνω appear in Socrates' statement that 'we' will gain and in Glaucon's rhetorical question about gaining."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "διʼ Ὁμήρου θεωρῇς",
+          "lemma": null,
+          "location": "607d",
+          "context": "καὶ μάλιστα ὅταν διʼ Ὁμήρου θεωρῇς αὐτήν"
+        }
+      ],
+      "observation": "Poetry is viewed 'through Homer' (διʼ Ὁμήρου θεωρῇς) in the direct question about Glaucon's enchantment."
+    }
+  ]
+}
