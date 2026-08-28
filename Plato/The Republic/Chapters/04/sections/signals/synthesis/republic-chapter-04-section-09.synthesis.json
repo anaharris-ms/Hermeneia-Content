@@ -1,0 +1,174 @@
+{
+  "section_id": "republic-chapter-04-section-09",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s006"
+      ],
+      "observation": "`s001` sets standing and moving as illustrative opposites concerning the same thing; `s006` enumerates three paired bodily actions (nodding/shaking-head, reaching-for/refusing, drawing-toward/pushing-away). Held together, the section's movement from spatial opposition to gestural-appetitive opposition becomes visible: the principle migrates from a geometric puzzle to actions of the desiring and refusing body."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "`s004` concentrates spinning-top vocabulary (pivot, circle, straight, curved); `s005` specifies four directions of possible axis-tilt (right, left, forward, backward). Together they reveal that the geometric illustration requires both circular and rectilinear coordinates held simultaneously, and that the failure to maintain upright position can be enumerated directionally—the argument's insistence on κατὰ ταὐτόν is shown through what happens when that sameness is violated."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s019"
+      ],
+      "observation": "`s002` marks the dense accumulation of sameness-language in the principle's formulation; `s019` shows the section opening with a proposal to determine whether things are the same or different and closing with the conclusion that they are two and different. The repetition of sameness-specification at the start enables the eventual distinction: the principle of non-contradiction concerning the same thing in the same respect establishes the criterion by which difference can be recognized."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` isolates thirst and hunger with their objects (drink/food) as clearest instances; `s009` enumerates qualifications thirst-itself does not carry (hot/cold, much/little). Held together, the argument's move becomes visible: desire is first specified as desire-of-something, then purified of all qualification to become desire-of-its-object-only, making thirst-itself a formal relation rather than a qualified bodily state."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s016"
+      ],
+      "observation": "`s007` tracks the dense recurrence of ἐπιθυμία/ἐπιθυμέω as desire is introduced and formalized; `s016` clusters the verbs characterizing the desiring part (loves, hungers, thirsts, is agitated). The first preserves the abstract noun and verb across the argument's middle; the second accumulates concrete actions at the naming moment. Together they show desire moving from logical category to lived multiplicity."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "`s010` follows ἀπωθέω from abstract opposite to psychic action to the archer's hands; `s012` names the commanding and preventing elements as distinct presences in the soul. The migration of pushing-away through contexts converges with the identification of two soul-parts: what began as a logical placeholder becomes the restraining element, and the illustration of the archer's two hands makes the soul's internal duality visible as simultaneous opposed action."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s017"
+      ],
+      "observation": "`s011` compares the desiring element to a beast being led; `s017` calls it companion (ἑταῖρον) of fillings and pleasures. The two relational terms (beast, companion) held together reveal a shift in how the desiring part is figured: first as something led like an animal, then as something that keeps company with its objects—from dominance to partnership, both social configurations applied to a psychic element."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s015"
+      ],
+      "observation": "`s013` contrasts calculation (λογισμός) with affections and ailments as sources of restraint and compulsion; `s015` clusters the λογ- family at the naming moment (λογισμός, λογίζεται, λογιστικόν, ἀλόγιστον, ἀλόγως). Together they show the derivation of the name λογιστικόν from the source λογισμός, and the marking of the opposed part by negation (ἀλόγιστον), while ἀλόγως qualifies the reasonableness of making the distinction itself—the naming participates in the lexical family it names."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s010",
+        "s012"
+      ],
+      "observation": "`s006` enumerates paired opposite actions (nodding/shaking, reaching/refusing, drawing/pushing); `s010` tracks ἀπωθέω from that initial list through application to soul and archer; `s012` identifies the commanding and preventing as two elements. The configuration shows how an initial catalogue of bodily opposites is distilled into a single repeated verb (pushing-away), then dramatized in the archer's hands, and finally projected onto the soul's internal structure—the paired actions become a model for psychic division."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s014"
+      ],
+      "observation": "`s003` tracks ἐναντίος recurring as the principle is stated and applied; `s014` names the two parts λογιστικόν and ἀλόγιστόν τε καὶ ἐπιθυμητικόν. Held together: the principle of opposites that governs the entire argument culminates in the naming of one part by its logical function and the other by its non-logical, desiring character—the abstract opposition becomes psychic architecture."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s002"
+      ],
+      "observation": "`s018` shows μανθάνω passing between speakers in a sequence of non-understanding, echo, inquiry, and confirmation; `s002` marks the dense repetition of sameness-language in the principle itself. The interlocutor's learning-trajectory mirrors the argument's method: just as the principle requires repeated specification of 'the same in the same respect toward the same,' so understanding requires repeated articulation, confirmation, and eventual achieved recognition."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s011",
+        "s016"
+      ],
+      "observation": "`s008` isolates thirst and hunger as clearest bodily appetites; `s011` compares the desiring element to a beast being led to drink; `s016` clusters loves, hungers, thirsts, is agitated, fillings, pleasures. Together: thirst is introduced as formal example, then becomes the image (beast to drink) by which desire's compulsion is figured, then returns in the final characterization where διψῇ stands among other appetites—the argument's illustrative example participates in its own conclusion."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἆρά",
+          "lemma": "ἆρα",
+          "location": "437d",
+          "context": "ἆρʼ οὖν … ἆρʼ οὖν … ἆρά γε … ἆρʼ ἄν … ἆρʼ οὖν … ἆρʼ οὖν"
+        }
+      ],
+      "observation": "ἆρα recurs six times in the extended thirst-analysis passage (437d-439a), marking a sustained interrogative rhythm as the formal relation of desire-to-object is established and defended."
+    },
+    {
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πέφυκεν",
+          "lemma": "φύω",
+          "location": "437e",
+          "context": "αὐτοῦ πώματος … οὗπερ πέφυκεν"
+        },
+        {
+          "form": "πέφυκεν",
+          "lemma": "φύω",
+          "location": "439a",
+          "context": "αὐτὸ δίψος πέφυκεν"
+        }
+      ],
+      "observation": "πέφυκεν (perfect of natural constitution) appears twice in the climactic formulation that desire-itself is naturally of its object-itself only, marking the natural relation as already-constituted rather than acquired."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "διψῶντας οὐκ ἐθέλειν πιεῖν",
+          "lemma": null,
+          "location": "439c",
+          "context": "φῶμέν τινας ἔστιν ὅτε διψῶντας οὐκ ἐθέλειν πιεῖν"
+        }
+      ],
+      "observation": "The case of the thirsty-person-not-willing-to-drink concentrates the entire argument's structure in a single concrete configuration: the same person (τινας) at the same time (ὅτε) undergoes opposite orientations (thirsting/not-willing) toward the same object (πιεῖν), making the principle's abstract formulation phenomenally available."
+    },
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἐθέλειν",
+          "lemma": "ἐθέλω",
+          "location": "437b",
+          "context": "τὸ ἐθέλειν"
+        },
+        {
+          "form": "ἐθέλει",
+          "lemma": "ἐθέλω",
+          "location": "437c",
+          "context": "καθʼ ὅσον ἐθέλει"
+        },
+        {
+          "form": "ἀβουλεῖν καὶ μὴ ἐθέλειν",
+          "lemma": "ἐθέλω",
+          "location": "437c",
+          "context": null
+        },
+        {
+          "form": "οὐκ ἐθέλειν",
+          "lemma": "ἐθέλω",
+          "location": "439c",
+          "context": "διψῶντας οὐκ ἐθέλειν πιεῖν"
+        }
+      ],
+      "observation": "ἐθέλω appears in positive infinitive, finite verb, double-negated infinitive, and participial negation, charting willing as it is first enumerated among desires, then paired with not-willing as opposite, then embodied in the thirsty person's refusal to drink."
+    }
+  ]
+}
