@@ -1,0 +1,175 @@
+{
+  "section_id": "republic-chapter-05-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "s001 establishes φύσις as both norm and criterion (κατὰ φύσιν vs. παρὰ φύσιν), while s002 sequences the argument from δυνατά to βέλτιστα. Held together, they reveal that what is according to nature (s001) becomes the ground for what is both possible and best (s002): the argument's movement from possibility to excellence runs through the single nature that men and women share."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s006"
+      ],
+      "observation": "s003 traces the accumulation of superlatives from men to women to both together to the arrangement itself; s006 contrasts guardians with cobblers. Together they make visible that the claim to produce the best (s003) is grounded in a contrast between guardian education and cobbler training (s006), where the ridiculous comparison (γελοῖον) sharpens the assertion that guardians will be ἄριστοι among all citizens."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "s007 clusters undressing, garments, nakedness, and exercising; s008 contrasts ἀρετή with ἱμάτια. Together they reveal that the stripping (ἀποδυτέον) enacted in s007 is a substitution rather than mere removal: virtue is put on where garments are taken off, so that nakedness and clothing occupy the same grammatical and conceptual position."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "s009 concentrates γελάω/γελοῖος around the man laughing at naked women; s010 describes him as plucking unripe fruit. Together they make visible that laughter is diagnosed as premature harvesting: the man who laughs gathers (δρέπων) a fruit (καρπόν) not yet complete (ἀτελῆ), treating the ridiculous as wisdom before its proper season."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "s010 characterizes the laugher as harvesting unripe fruit of the ridiculous as wisdom; s011 declares the beneficial beautiful and the harmful shameful. Together they reveal that the maxim (s011) answers the harvest image (s010): what appears ridiculous is judged by ὠφέλιμον/βλαβερόν, not by immediate visibility, so the unripe fruit signals a failure to wait for the beneficial to show itself as beautiful."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s017"
+      ],
+      "observation": "s012 frames the wave image (κῦμα, κατακλυσθῆναι, οὐ σμικρόν); s017 transfers the verb of seeing (ἴδῃς, ἴδω) between speakers. Together they make visible that the wave metaphor depends on visibility: Socrates promises the interlocutor will see (ἴδῃς) the next wave, and the interlocutor's echo (ἴδω) enacts the movement from being told about a wave to seeing it, so that the section closes with vision deferred to what has not yet appeared."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s013"
+      ],
+      "observation": "s002 sequences δυνατά and βέλτιστα as stages requiring agreement (διωμολόγηται, διομολογηθῆναι); s013 records that the argument agrees with itself (ὁμολογεῖσθαι). Together they reveal that the two-stage movement through possibility and excellence (s002) is completed when the λόγος achieves self-agreement (s013), so that external assent (διομολογέω) becomes internal consistency (ὁμολογέω)."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "s014 concentrates the φύλαξ word-family and coins φυλακίδας as a feminine counterpart to φύλακας; s015 assigns lighter tasks to women due to their ἀσθένεια. Together they make visible that the coinage of φυλακίδας (s014) stands beside the acknowledgment of differentiation (s015): sameness of name and role (guardian-women) coexists with a measured assignment of lighter duties, so that equality does not erase the weaker γένος."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s016"
+      ],
+      "observation": "s005 recurs παιδεία and παιδεύω across men, women, guardians, and cobblers; s016 clusters four -τέον verbal adjectives prescribing what must be done. Together they reveal that education (s005) determines what must be done (s016): the single παιδεία received by both sexes generates the sequence of prescriptive verbal adjectives (ἀποδυτέον, κοινωνητέον, πρακτέον, δοτέον), so that the sameness of training becomes the grammatical necessity of shared action."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s014"
+      ],
+      "observation": "s001 contrasts κατὰ φύσιν and παρὰ φύσιν, then applies φύσις to the sameness shared by men and women; s014 coins φυλακίδας alongside φύλακας. Together they make visible that the single φύσις (s001) is enacted in language as grammatical pairing (s014): the feminine coinage φυλακίδας does not create a separate role but mirrors φύλακας, so that the shared nature appears as a doubled grammatical form."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s015"
+      ],
+      "observation": "s003 accumulates superlatives (ἀμείνους, ἄριστοι, βέλτισται, ἀρίστους, ἄριστον) across men, women, both, and the arrangement; s015 assigns lighter tasks due to ἀσθένεια. Together they reveal that the movement toward the best (s003) does not eliminate differentiation (s015): even as men and women are declared ἀρίστους together, the assignment of ἐλαφρότερα to women preserves a measured inequality within the superlative, so that being best does not mean being identical."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "s012 describes escaping one wave and anticipates another; s013 closes with the λόγος agreeing with itself. Together they make visible that self-agreement (s013) is situated within ongoing danger (s012): the argument's internal consistency (ὁμολογεῖσθαι) is not a final resting place but a momentary escape from one κῦμα before the next, so that coherence is an achievement threatened by what has not yet appeared."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πόλει",
+          "lemma": "πόλις",
+          "location": "456e",
+          "context": "ἔστι δέ τι πόλει ἄμεινον"
+        },
+        {
+          "form": "πόλιν",
+          "lemma": "πόλις",
+          "location": "456d",
+          "context": "ἐν οὖν τῇ πόλει ἣν ᾠκίζομεν"
+        },
+        {
+          "form": "πόλει",
+          "lemma": "πόλις",
+          "location": "457a",
+          "context": "ἄριστον πόλει νόμιμον"
+        },
+        {
+          "form": "πόλιν",
+          "lemma": "πόλις",
+          "location": "457a",
+          "context": "τῆς περὶ τὴν πόλιν"
+        }
+      ],
+      "observation": "πόλις recurs four times, always in dative or accusative, marking the city as the beneficiary (ἄμεινον πόλει) and locus (ἐν τῇ πόλει, περὶ τὴν πόλιν) of the arrangement, and as the recipient of the best νόμιμον."
+    },
+    {
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "μουσική",
+          "lemma": "μουσική",
+          "location": "456e",
+          "context": "μουσική τε καὶ γυμναστικὴ παραγιγνόμεναι"
+        },
+        {
+          "form": "γυμναστικὴ",
+          "lemma": "γυμναστική",
+          "location": "456e",
+          "context": null
+        },
+        {
+          "form": "γυμναῖς",
+          "lemma": "γυμνός",
+          "location": "457b",
+          "context": "ἐπὶ γυμναῖς γυναιξί"
+        },
+        {
+          "form": "γυμναζομέναις",
+          "lemma": "γυμνάζω",
+          "location": "457b",
+          "context": null
+        }
+      ],
+      "observation": "γυμναστική appears as one of the two disciplines at 456e; its lexical family (γυμνός, γυμνάζω) reappears at 457b where naked women exercising provoke laughter, so that the abstract curriculum term becomes visible flesh."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ βελτίστου ἕνεκα",
+          "lemma": null,
+          "location": "457b",
+          "context": "τοῦ βελτίστου ἕνεκα γυμναζομέναις"
+        },
+        {
+          "form": "βέλτιστα",
+          "lemma": "βέλτιστος",
+          "location": "456c",
+          "context": "εἰ δυνατά γε καὶ βέλτιστα λέγοιμεν"
+        }
+      ],
+      "observation": "βέλτιστος appears first as the second stage of the argument (βέλτιστα at 456c), then reappears as the purpose clause qualifying the naked women exercising (τοῦ βελτίστου ἕνεκα at 457b), so that what was shown argumentatively is restated as the reason for an action that provokes laughter."
+    }
+  ]
+}
