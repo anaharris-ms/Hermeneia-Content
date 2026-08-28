@@ -1,0 +1,179 @@
+{
+  "section_id": "republic-chapter-05-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s003"
+      ],
+      "observation": "`s001` traces κτάομαι recurrences (private acquisition dragged home, nothing possessed except the body, possession as cause of faction); `s003` contrasts ἴδιος with κοινός across the section. Held together, these signal chains make visible a movement from dragging property into separate households (ἕλκοντα ὅτι ἂν δύνηται χωρὶς τῶν ἄλλων κτήσασθαι) to the shared condition where all is κοινά except the body itself. The exception πλὴν τὸ σῶμα becomes a hinge: the one ἴδιον possession is the threshold at which private acquisition stops and communal holding begins."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "`s005` identifies τὸ ἐμόν and the divergence ἄλλον ἄλλο (each calling a different thing his own); `s006` traces pleasure and pain first as private (ἰδίων ὄντων ἰδίας) then as shared (ὁμοπαθεῖς λύπης τε καὶ ἡδονῆς). The shift from ἄλλον ἄλλο to ὁμοπαθεῖς enacts what the abolition of τὸ ἐμόν achieves: divergent affective lives converge into a single shared experience of pleasure and pain."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s011"
+      ],
+      "observation": "`s002` notes φύλαξ recurring, culminating at 466b where the guardian who pursues private happiness μηδὲ φύλαξ εἶναι; `s011` traces εὐδαίμων across the objection that guardians were not made happy, the city's superlative happiness, and the private pursuit that negates guardianship. Together these make visible the paradox that claiming εὐδαιμονία for oneself annuls the condition (φύλαξ) through which collective εὐδαιμονία is secured."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s022"
+      ],
+      "observation": "`s004` clusters στάσις vocabulary including the alpha-privative ἀστασίαστος and the compound διχοστατέω; `s022` pairs διασπᾶν (tearing apart) with εἰρήνην (peace). Held together, these oppositions frame the section's movement: from the city torn (διασπᾶν) by faction (στασιάζουσιν) through multiple quarrel-types to a condition free from faction (ἀστασιάστοις) where peace (εἰρήνην) prevails πανταχῇ ἐκ τῶν νόμων."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s010"
+      ],
+      "observation": "`s008` lists kinship terms (γονέων, ὑεῖς, ἀδελφούς, πατέρας) invoked as the basis for restraint; `s009` identifies the dual guardians δέος and αἰδώς; `s010` contrasts πρεσβύτερος commanding and νεώτερος not using force. Together these signals make visible a structure where communal kinship vocabulary (ὡς γονέων, ὡς ὑεῖς, ὡς ἀδελφούς, ὡς πατέρας) replaces actual genealogical difference and age-based hierarchy (πρεσβύτερος/νεώτερος) is maintained not by coercion but by the dual affective forces αἰδώς and δέος, which prevent violence without external enforcement."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s010"
+      ],
+      "observation": "`s007` notes the body as sole private possession (πλὴν τὸ σῶμα) and its return as the domain of justified self-defence (σωμάτων ἐπιμελείᾳ); `s010` establishes that the younger will not use force against the elder. Held together, these make visible that the one ἴδιον possession justifies defence only between equals (ἥλιξι μὲν γὰρ ἥλικας ἀμύνεσθαι), while age-hierarchy prevents bodily violence across generations, so the body's privacy is acknowledged precisely where communal kinship structure limits its assertion."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013",
+        "s014"
+      ],
+      "observation": "`s012` uses Olympian victors as comparative measure; `s013` specifies the guardians' νίκη as σωτηρίαν συμπάσης τῆς πόλεως; `s014` traces τροφή from guardians receiving it from others to its public provision being τελεωτέρα than Olympic victors'. Together these signals make visible a systematic inversion: Olympic victors receive honors for individual athletic triumph, guardians for collective salvation; victors are honored for a partial achievement (διὰ σμικρόν που μέρος), guardians for a complete one (τελεωτέρα); the victory is redefined from personal glory to the preservation of the whole."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s019"
+      ],
+      "observation": "`s015` marks three riddances (ἀπηλλάχθαι, ἀπηλλαγμένοι, ἀπαλλάξονται) from lawsuits, petty evils, and all such things; `s019` catalogs the rapid sequence of financial struggles (δανειζόμενοι, ἐξαρνούμενοι, πορισάμενοι, θέμενοι, παραδόντες). The triple ἀπαλλάσσω negates the entire sequence of participles: the riddance is not merely from individual hardships but from the accelerating cycle of borrowing, denying, procuring, depositing, handing over that characterizes private household economy."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s011"
+      ],
+      "observation": "`s016` cites Hesiod's maxim πλέον εἶναί πως ἥμισυ παντός in the context of a guardian seizing everything in the city; `s011` traces the guardian's pursuit of private εὐδαιμονία as negating guardianship itself. Together these make the Hesiodic half-whole paradox concrete: the guardian who grasps for the whole (ἅπαντα τὰ ἐν τῇ πόλει οἰκειοῦσθαι) loses even the half (ceasing to be φύλαξ), while accepting the limited life (the 'half') secures the whole city's salvation."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s018"
+      ],
+      "observation": "`s017` compares women guardians to dogs (κύνας) in co-guarding and co-hunting; `s018` pairs θῆλυς and ἄρρην with the dual πεφύκατον πρὸς ἀλλήλω κοινωνεῖν. The dog comparison does not domesticate the women but places them in the same functional role as male guardians (συνθηρεύειν ὥσπερ κύνας), and the closing assertion of natural κοινωνία between female and male makes the section end precisely where it began: with κοινῇ πάντας ἀναλίσκειν, now extended explicitly to both sexes πάντα πάντῇ κατὰ τὸ δυνατὸν κοινωνεῖν."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s015",
+        "s019"
+      ],
+      "observation": "`s001` traces κτάομαι from initial lack (τι κτῆμα) through private acquisition (κτήσασθαι, ἐκτῆσθαι) to possession as faction-cause (κτῆσιν); `s015` marks riddance from lawsuits and petty evils; `s019` details the financial struggle sequence. Together these make visible what the absence of κτῆμα eliminates: not only the grand causes of faction (χρημάτων ἢ παίδων καὶ συγγενῶν κτῆσιν) but the entire degrading apparatus of household management—the borrowing, debt-denial, procurement, stewardship that the speaker marks as σμικρότατα τῶν κακῶν yet describes at length, then dismisses as δῆλα, ἀγεννῆ, and unworthy of speech even as he catalogues them."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s018"
+      ],
+      "observation": "`s003` contrasts ἴδιος with κοινός, culminating in κοινωνεῖν appearing twice at section's end; `s018` closes with the dual πεφύκατον πρὸς ἀλλήλω κοινωνεῖν, applied to θῆλυς and ἄρρην. The section's final word κοινωνεῖν both completes the ἴδιος/κοινός contrast and grounds it in φύσις: male and female are φύσει partners (πεφύκατον), so their total communal life (πάντα πάντῇ κοινωνεῖν) is οὐ παρὰ φύσιν but an enactment of what they naturally are πρὸς ἀλλήλω."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s011"
+      ],
+      "observation": "`s021` recalls a deferred question (whether guardians are happy) and marks it answered νῦν; `s011` traces εὐδαίμων recurrences through the objection, the city's superlative happiness, and the private pursuit. The remembered deferral (εἰς αὖθις σκεψοίμεθα) is not merely recalled but enacted within this section: the answer comes not by declaring guardians εὐδαίμονες but by redefining the measure (Olympic victors) and showing the guardian life καλλίων καὶ ἀμείνων, so the deferred examination becomes its own completion."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s009"
+      ],
+      "observation": "`s006` moves pleasure and pain from private (ἰδίων ὄντων ἰδίας) to shared (ὁμοπαθεῖς); `s009` names αἰδώς and δέος as the dual guardians preventing violence. The shift to shared affect (ὁμοπαθεῖς λύπης τε καὶ ἡδονῆς) makes possible the operation of αἰδώς and δέος: shame before parents and fear of collective aid function precisely because pleasure and pain are no longer ἰδίας but common, so the affective restraints arise from within the unified body rather than being imposed from outside."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "τὸν μὲν εἰς τὴν ἑαυτοῦ οἰκίαν ἕλκοντα",
+          "lemma": null,
+          "location": "464c",
+          "context": "τὸν μὲν εἰς τὴν ἑαυτοῦ οἰκίαν ἕλκοντα ὅτι ἂν δύνηται χωρὶς τῶν ἄλλων κτήσασθαι, τὸν δὲ εἰς τὴν ἑαυτοῦ ἑτέραν οὖσαν"
+        }
+      ],
+      "observation": "The τὸν μὲν ... τὸν δὲ construction at 464c-d syntactically enacts the divergence named by ἄλλον ἄλλο: parallel accusative participle phrases (τὸν μὲν ἕλκοντα, τὸν δὲ [sc. ἕλκοντα]) picture each person dragging property εἰς τὴν ἑαυτοῦ οἰκίαν, with ἑτέραν οὖσαν emphasizing the separateness of the households."
+    },
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἥλιξι μὲν γὰρ ἥλικας",
+          "lemma": "ἧλιξ",
+          "location": "464e",
+          "context": "ἥλιξι μὲν γὰρ ἥλικας ἀμύνεσθαι καλὸν καὶ δίκαιον"
+        }
+      ],
+      "observation": "ἧλιξ appears in rapid succession in different cases (dative plural ἥλιξι, accusative plural ἥλικας), creating a grammatical echo that mirrors the reciprocal relation: equals defending against equals, with the morphological variation enacting the interchangeability of the parties."
+    },
+    {
+      "signal_types": [
+        "exact_repetition",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "πάντα πάντῃ",
+          "lemma": null,
+          "location": "466d",
+          "context": "πάντα πάντῃ κατὰ τὸ δυνατὸν κοινωνεῖν"
+        }
+      ],
+      "observation": "πάντα πάντῃ ('in all things in all ways') appears at the section's close as a double totality modifying κοινωνεῖν, answering κοινῇ πάντας ἀναλίσκειν at the opening (464c): the initial common expenditure by all is completed by sharing all in all ways."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "συμπάσης τῆς πόλεως σωτηρίαν",
+          "lemma": null,
+          "location": "465d",
+          "context": "νίκην τε γὰρ νικῶσι συμπάσης τῆς πόλεως σωτηρίαν"
+        }
+      ],
+      "observation": "The guardians' victory is defined as σωτηρίαν συμπάσης τῆς πόλεως: not a personal prize but the preservation of the entire city, with συμπάσης emphasizing totality in contrast to the Olympic victors' partial achievement (διὰ σμικρόν που μέρος)."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "464c, 464e, 465a",
+          "context": "ὀρθῶς, ἔφη ... ὀρθῶς, ἔφη ... καὶ γὰρ τόδε ὀρθὸν ἔχει"
+        }
+      ],
+      "observation": "The interlocutor's repeated affirmation ὀρθῶς punctuates the argument three times (464c, 464e, 465a), each time marking assent to a stage: guardians as true guardians, age-equals' self-defense, and the law allowing younger to satisfy anger against peers."
+    }
+  ]
+}
