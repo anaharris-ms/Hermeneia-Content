@@ -1,0 +1,184 @@
+{
+  "section_id": "republic-chapter-05-section-16",
+  "connections": [
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s008"
+      ],
+      "observation": "The sight-lovers ἀσπάζονται beautiful particulars but are ἀδύνατος to ἀσπάσασθαι the beautiful itself (s003, s004); the true philosopher δυνατοί to approach the beautiful itself καθορᾶν both αὐτό and τὰ μετέχοντα (s004, s008). The recurrence of ἀσπάζομαι across the two groups makes visible that the same verb of embrace applies to different objects: the sight-lovers can embrace only crafted particulars, while the inability to embrace the beautiful itself marks the boundary of their διάνοια. The philosopher's δυνατοί capacity is shown not simply as reaching the beautiful itself but as distinguishing it from its participants—a discrimination the sight-lovers cannot perform."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "Dreaming is defined as taking τὸ ὅμοιον for αὐτό (s007); the waking philosopher distinguishes αὐτό from τὰ μετέχοντα and τὰ μετέχοντα from αὐτό (s008). The definition of ὀνειρώττειν and the description of waking cognition share the same structural opposition—mistaking likeness for original versus correctly distinguishing participant from participated—but μετέχοντα names the participatory relation where ὅμοιον named mere resemblance. The shift from resemblance vocabulary to participation vocabulary marks a movement from the dream-state's confusion to the waking state's accurate relational cognition."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006",
+        "s009"
+      ],
+      "observation": "The ὄναρ/ὕπαρ question (s005) is answered through the definition of ὀνειρώττειν (s006), and this dreaming/waking distinction is then mapped onto δόξα and γνώμη (s009). The one who ὀνειρώττει is assigned δόξα, the one who lives ὕπαρ is assigned γνώμη. The progression makes visible that the initial sensory distinction (dreaming versus waking) becomes a cognitive distinction (δόξα versus γνώμη), preserving the same structural opposition across different registers."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s013",
+        "s014"
+      ],
+      "observation": "γιγνώσκω recurs through five forms from 476d to 477a (s010), culminating in the correlation of παντελῶς ὄν with παντελῶς γνωστόν and μὴ ὄν with πάντῃ ἄγνωστον (s013, s014). The dense local recurrence of knowing-vocabulary leads to a precise ontological-epistemological equation in which degrees of being and degrees of knowability are made exactly parallel through the adverbial qualifications παντελῶς, μηδαμῇ, πάντῃ. The knowing-language accumulates until it crystallizes into a formal correspondence between complete being and complete knowability."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s016"
+      ],
+      "observation": "The φιλήκοοι and φιλοθεάμονες (s001) embrace φωνάς, χρόας, σχήματα (s002) and πάντα τὰ ἐκ τῶν τοιούτων δημιουργούμενα (s016). The compound φιλο- adjectives name the lovers; the triad of sensibles names what they love; δημιουργούμενα gathers all these sensibles under the category of crafted products. The configuration makes visible that the objects of the sight-lovers' affection are not simply beautiful particulars but specifically products crafted from sensible materials—voices, colors, shapes become the materials from which further objects are made."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "The approach to the disputing opinion-holder involves παραμυθεῖσθαι, πείθειν ἠρέμα, and ἐπικρυπτόμενοι ὅτι οὐχ ὑγιαίνει (s011), framed by the concession εἴ τι οἶδεν and ἴδοιμεν εἰδότα τι (s012). The welcoming acknowledgment that he might know something (εἴ τι οἶδεν, εἰδότα τι) surrounds the concealment that he is unhealthy. The configuration makes visible a pedagogical strategy: the movement toward knowledge begins not with direct diagnosis but with a concealed therapeutic approach that appears as generous welcome."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s017"
+      ],
+      "observation": "Those ἀδύνατος to see the beautiful itself are contrasted with those δυνατοί to approach it (s004), who are called σπάνιοι (s017). The capacity/incapacity opposition is supplemented by the rarity of the capable. The configuration makes visible that δυνατοί names not a widely distributed human capacity but an exceptional one: the ability to approach the beautiful itself is rare, making the incapacity of the many not simply a deficiency but the common condition."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s009"
+      ],
+      "observation": "διάνοια first describes the sight-lovers' thought as ἀδύνατος to see the beautiful itself (s015), then names the true philosopher's thought as γνώμη ὡς γιγνώσκοντος (s015, s009). The same term διάνοια is predicated with incapacity for one group and with knowing for the other, but in the second instance it is also renamed γνώμη. The recurrence of διάνοια makes visible that the two groups do not simply have different thoughts but that thought itself receives different names—διάνοια alone for the incapable, διάνοια/γνώμη for the knower."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s007"
+      ],
+      "observation": "The sight-lovers embrace φωνάς, χρόας, σχήματα (s002); dreaming is defined as taking τὸ ὅμοιον for αὐτό (s007). The sensible particulars—voices, colors, shapes—are not themselves called ὅμοια in this section, but the dream-definition's focus on mistaking likeness for original places the beautiful particulars in the structural position of likenesses. The configuration makes visible that the crafted products from voices, colors, and shapes function as resemblances that the sight-lovers mistake for the beautiful itself."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "location": "476b",
+          "context": "αὐτοῦ δὲ τοῦ καλοῦ"
+        },
+        {
+          "form": "αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "476b",
+          "context": "ἐπʼ αὐτὸ τὸ καλὸν δυνατοὶ ἰέναι"
+        },
+        {
+          "form": "αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "476c",
+          "context": "αὐτὸ δὲ κάλλος μήτε νομίζων"
+        },
+        {
+          "form": "αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "476c",
+          "context": "ἡγῆται εἶναι ᾧ ἔοικεν"
+        },
+        {
+          "form": "αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "476c",
+          "context": "ὁ τἀναντία τούτων ἡγούμενός τέ τι αὐτὸ καλὸν"
+        },
+        {
+          "form": "αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "476d",
+          "context": "καὶ δυνάμενος καθορᾶν καὶ αὐτὸ"
+        },
+        {
+          "form": "αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "476d",
+          "context": "οὔτε τὰ μετέχοντα αὐτὸ"
+        },
+        {
+          "form": "αὐτὸ",
+          "lemma": "αὐτός",
+          "location": "476d",
+          "context": "οὔτε αὐτὸ τὰ μετέχοντα"
+        }
+      ],
+      "observation": "αὐτός in its neuter singular form recurs eight times from 476b through 476d, naming the beautiful itself (αὐτὸ τὸ καλόν, αὐτὸ κάλλος) and appearing in the dream-definition and the participation-distinctions. Each occurrence marks the object that the sight-lovers cannot reach, that the dreamer mistakes likenesses for, and that the philosopher correctly distinguishes from participants."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἰδεῖν τε καὶ ἀσπάσασθαι",
+          "lemma": null,
+          "location": "476b",
+          "context": "τὴν φύσιν ἰδεῖν τε καὶ ἀσπάσασθαι"
+        },
+        {
+          "form": "ἰέναι τε καὶ ὁρᾶν",
+          "lemma": null,
+          "location": "476b",
+          "context": "ἐπʼ αὐτὸ τὸ καλὸν δυνατοὶ ἰέναι τε καὶ ὁρᾶν"
+        }
+      ],
+      "observation": "Two paired infinitives joined by τε καί describe relation to the beautiful itself: the sight-lovers are unable τὴν φύσιν ἰδεῖν τε καὶ ἀσπάσασθαι; the rare ones are able ἰέναι τε καὶ ὁρᾶν καθʼ αὑτό. Both pairs combine a motion or perception verb with a verb of apprehension or approach, but ἰδεῖν/ἀσπάσασθαι names seeing and embracing the nature, while ἰέναι/ὁρᾶν names going to and seeing the thing itself."
+    },
+    {
+      "signal_types": [
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐάντε... ἐάντʼ",
+          "lemma": null,
+          "location": "476c",
+          "context": "ἐάντε ἐν ὕπνῳ τις ἐάντʼ ἐγρηγορὼς"
+        }
+      ],
+      "observation": "The ἐάντε... ἐάντʼ construction (whether... or) in the dream-definition specifies that ὀνειρώττειν applies both ἐν ὕπνῳ and ἐγρηγορώς—whether asleep or awake. The syntactic structure makes visible that the dream-state is not defined by physical sleep but by the cognitive act of mistaking likeness for original, which can occur in either physiological condition."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δοκεῖ",
+          "lemma": "δοκέω",
+          "location": "476c",
+          "context": "ὄναρ ἢ ὕπαρ δοκεῖ σοι ζῆν"
+        },
+        {
+          "form": "δοκεῖ",
+          "lemma": "δοκέω",
+          "location": "476d",
+          "context": "ὕπαρ ἢ ὄναρ αὖ καὶ οὗτος δοκεῖ σοι ζῆν"
+        }
+      ],
+      "observation": "δοκέω frames both the question about the opinion-holder's life (ὄναρ ἢ ὕπαρ δοκεῖ σοι ζῆν) and the question about the philosopher's life (ὕπαρ ἢ ὄναρ... δοκεῖ σοι ζῆν). The same verb of seeming asks the interlocutor to judge both figures, and the inverted word order (ὄναρ ἢ ὕπαρ, then ὕπαρ ἢ ὄναρ) marks the structural parallel of the two questions while reversing their expected answers."
+    }
+  ]
+}
