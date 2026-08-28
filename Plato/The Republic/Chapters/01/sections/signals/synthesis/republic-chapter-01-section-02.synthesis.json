@@ -1,0 +1,186 @@
+{
+  "section_id": "republic-chapter-01-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "`s001` marks Socrates' infrequent descent (καταβαίνων) to the Piraeus; `s004` describes old age as a road (ὁδὸν) the elderly have traveled. Held together, these make visible that the section opens with two spatial images of movement—downward journey and forward path—each framing an encounter with what lies ahead or below."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005",
+        "s006"
+      ],
+      "observation": "`s003` contrasts withering bodily pleasures with growing appetites for λόγοι; `s005` catalogs the bodily pleasures (sex, drinking, feasting) old men long for; `s006` opposes τότε (then living) with νῦν (not living). The configuration makes visible a doubled time: one in which pleasures shift from body to speech, another in which they vanish entirely, leaving only remembered intensity."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s018"
+      ],
+      "observation": "`s007` presents the image of escaping a mad master (δεσπότην λυττῶντα/μαινόμενον); `s018` warns against returning weapons to a friend gone mad (μανείς). Both pair release or withholding with madness, making visible a recurring pattern: sanity requires distance from the violent or deranged, whether master or friend."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` densely repeats αἰτία/αἴτιον while arguing the real cause is not old age; `s009` explicitly names τρόπος against γῆρας as the single cause. Together they make visible the section's diagnostic movement: multiple claims of causation are gathered, then concentrated into a single assignment—character, not age."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s015"
+      ],
+      "observation": "`s010` traces a three-generation chain of inheriting and leaving wealth (παραλαμβάνω/καταλείπω); `s015` shows Cephalus handing over the λόγος (παραδίδωμι) and names Polemarchus κληρονόμος. The pairing makes visible that both wealth and argument are transmitted as inheritance, each moving from elder to younger through the same vocabulary of reception and transfer."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "`s012` introduces μῦθοι about Hades and δίκη there; `s013` contrasts their former ridicule (καταγελώμενοι) with their current power to twist the soul (στρέφουσιν τὴν ψυχήν). Together they reveal a temporal reversal: stories dismissed in youth become tormenting in proximity to death."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s012"
+      ],
+      "observation": "`s014` opposes κακὴ ἐλπίς for the unjust with ἡδεῖα ἐλπίς for the just; `s012` grounds this contrast in μῦθοι of afterlife δίκη. The pairing makes visible that hope's quality is determined by anticipated judgment, linking present moral condition directly to imagined future consequence."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s019"
+      ],
+      "observation": "`s011` presents a triple analogy—poets love poems, fathers love children, money-makers love money as their own ἔργον; `s019` clusters οὐσία with κτάομαι forms across the wealth discussion. Together they make visible that wealth is treated both as product (ἔργον made by the maker) and as possession (οὐσία acquired and held), a double relation of creation and ownership."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s018"
+      ],
+      "observation": "`s017` repeats ἀποδίδωμι densely in stating and testing the definition of justice as returning what was received; `s018` supplies the concrete case—weapons and madness—that disrupts simple return. The conjunction makes visible that a lexical concentration (the verb cluster) is immediately interrupted by a dramatic counterexample, exposing the inadequacy of the definition through the very term it privileges."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s015"
+      ],
+      "observation": "`s002` uses ἰέναι twice with δεῦρο, first in counterfactual denial then in imperative invitation; `s015` shows Cephalus departing and handing over (παραδίδωμι) the λόγος. The pairing makes visible a movement pattern: the section begins with contested coming and going (to the Piraeus), and closes with an actual departure that transfers speech itself to another."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s013"
+      ],
+      "observation": "`s016` shows Cephalus laughing (γελάσας) as he departs for sacrifice; `s013` describes the myths as once laughed at (καταγελώμενοι), now tormenting. The pairing makes visible that laughter appears twice—first as past dismissal of divine stories, then as Cephalus' present gesture while departing toward the ἱερά—juxtaposing ridicule of myth with ritualized acknowledgment of the divine."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s012"
+      ],
+      "observation": "`s004` asks whether old age is a rough or easy road (ὁδὸν τραχεῖα ἢ εὔπορος); `s012` introduces μῦθοι of Hades where the unjust must pay δίκη. Held together, these make visible that the initial spatial question (what kind of path is old age?) is later answered not in terms of terrain but of destination and reckoning—the road leads toward judgment."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὑποψίας",
+          "lemma": "ὑποψία",
+          "location": "330e",
+          "context": "ὑποψίας δ᾽ οὖν καὶ δείματος μεστὸς γίγνεται"
+        },
+        {
+          "form": "δείματος",
+          "lemma": "δεῖμα",
+          "location": "330e",
+          "context": "ὑποψίας δ᾽ οὖν καὶ δείματος μεστὸς γίγνεται"
+        },
+        {
+          "form": "δειμαίνει",
+          "lemma": "δειμαίνω",
+          "location": "331a",
+          "context": "θαμὰ ἐγειρόμενος δειμαίνει"
+        }
+      ],
+      "observation": "Forms of suspicion (ὑποψίας) and fear (δείματος, δειμαίνει) cluster as Cephalus describes the unjust man's mental state near death—he becomes full of these, awakens frightened, lives in dread."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "γηροτρόφος",
+          "lemma": "γηροτρόφος",
+          "location": "331a",
+          "context": "ἡδεῖα ἐλπὶς ἀεὶ πάρεστι καὶ ἀγαθὴ γηροτρόφος"
+        }
+      ],
+      "observation": "γηροτρόφος appears in Cephalus' Pindar quotation describing hope as 'nurse of old age'—the only occurrence of this compound, linking ἐλπίς directly to γῆρας through the metaphor of nourishment."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "εἰ μὲν ἐγὼ ἔτι ἂν δυνάμει",
+          "lemma": null,
+          "location": "328c",
+          "context": "εἰ μὲν ἐγὼ ἔτι ἂν δυνάμει ἦ τοῦ ῥᾳδίως πορεύεσθαι πρὸς τὸ ἄστυ"
+        },
+        {
+          "form": "ἂν μὲν γὰρ κόσμιοι καὶ εὔκολοι ὦσιν",
+          "lemma": null,
+          "location": "329d",
+          "context": "ἂν μὲν γὰρ κόσμιοι καὶ εὔκολοι ὦσιν, καὶ τὸ γῆρας μετρίως ἐστὶν ἐπίπονον"
+        }
+      ],
+      "observation": "Two conditional structures (εἰ μέν... / ἂν μέν...) each link capacity or character to experience: Cephalus' ability determines whether Socrates need come; people's character determines whether old age is bearable."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀνθ᾽ ἑνὸς οὐκ ἐλαχίστου",
+          "lemma": null,
+          "location": "331b",
+          "context": "ἀλλὰ ἕν γε ἀνθ᾽ ἑνὸς οὐκ ἐλαχίστου ἔγωγε θείην"
+        }
+      ],
+      "observation": "Cephalus introduces his summary of wealth's benefit with the formula 'one thing in exchange for one thing not least' (ἕν... ἀνθ᾽ ἑνὸς), framing the entire argument as a measured equivalence."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπηλλάχθαι",
+          "lemma": "ἀπαλλάσσω",
+          "location": "329d",
+          "context": "δεσποτῶν πάνυ πολλῶν ἐστι καὶ μαινομένων ἀπηλλάχθαι"
+        },
+        {
+          "form": "ἀπέφυγον",
+          "lemma": "ἀποφεύγω",
+          "location": "329c",
+          "context": "ἀσμενέστατα μέντοι αὐτὸ ἀπέφυγον"
+        }
+      ],
+      "observation": "Two verbs of escape cluster in the Sophocles anecdote and its elaboration: ἀποφεύγω (gladly escaped) and ἀπαλλάσσω (released from), both describing freedom from desire's mastery."
+    }
+  ]
+}
