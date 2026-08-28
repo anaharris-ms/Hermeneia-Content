@@ -1,0 +1,170 @@
+{
+  "section_id": "republic-chapter-04-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "s001 names a fortress to be built in music; s004 traces lawlessness slipping in, settling, flowing beneath, stepping out, advancing, and overturning. Held together, they make visible that the architectural metaphor answers a movement sequence: the fortress in music is positioned against a precisely charted infiltration."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s002"
+      ],
+      "observation": "s003 shows play first as harmless disguise, then as the medium through which children receive lawfulness; s002 contrasts παρανομία with ἔννομος/εὐνομία. The conjunction makes visible that play itself is the contested site where lawlessness disguises itself and where lawfulness must be received—the same activity bearing opposed qualities."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s007"
+      ],
+      "observation": "s004 sequences lawlessness advancing through stages to final overturning; s007 contrasts genuine correction (ἐπανορθοῦσα) with futile correctors endlessly patching. Together they make visible that the movement traced in s004 generates the activity described in s007: those who correct without changing the regimen answer the very infiltration they cannot perceive."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006",
+        "s007"
+      ],
+      "observation": "s005 shows συμβόλαια as where lawlessness emerges, as marketplace dealings Socrates declines to legislate, and as the site of futile legislative attempts; s006 repeatedly declines to legislate; s007 contrasts genuine and futile correction. Together they make visible that the same transactions appear three times in relation to three legislative postures: as symptom, as what the true legislator avoids, and as what the futile legislator endlessly targets."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "s008 gathers medical vocabulary for sick people who refuse to change their regimen; s009 traces χαρίεις/χάρις shifting from ironic praise to absent grace to flattery to superlative irony. Held together, they make visible that the medical image and the ironic vocabulary chart the same refusal: those who doctor endlessly while rejecting the truth are called χαριέντως and χαριέστατοι—charm naming futility."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s013",
+        "s014"
+      ],
+      "observation": "s010 shows θεραπεία shifting from care of parents to flattering service to badly governed cities to ritual service reserved for Apollo; s013 names Apollo as ancestral interpreter at the earth's navel; s014 lists temple foundations, sacrifices, gods, daimones, heroes, burials. Together they make visible that θεραπεία moves through escalating contexts until it reaches the one context Socrates will not legislate: service to the divine, which belongs to the ancestral interpreter seated at the center."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s015"
+      ],
+      "observation": "s012 contrasts small and great: lawlessness enters small and grows; small customs are discovered; diseases grow greater; the greatest legislation belongs to Apollo. s015 densely lists small customs: silence, reclining, rising, care of parents, haircuts, cloaks, shoes, bodily bearing. Together they make visible that the small customs itemized in s015 are the very σμικρά discovered by the rightly educated in s012, yet Socrates refuses to legislate them—the detailed list demonstrating what will not be legislated."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s008"
+      ],
+      "observation": "s011 names the Hydra as comparison for endlessly cutting at contractual wrongdoing; s008 gathers medical vocabulary for those who doctor without effect, making diseases greater and more complex. Together they make visible that the Hydra's regenerating heads and the proliferating diseases are parallel figures: both name futile intervention that multiplies what it attempts to cure."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s017"
+      ],
+      "observation": "s016 states that like calls to like as a principle of education's consequences; s017 shows τελευτάω shifting from lawlessness finally overturning to education finally issuing in something τέλεον to literal death requiring burial. Together they make visible that the doubled ὅμοιον names the mechanism by which education reaches its τέλος—likeness accumulates toward completion, whether toward good or ruin."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s013"
+      ],
+      "observation": "s006 shows Socrates repeatedly declining to legislate, calling it foolish, and reserving νομοθετήματα for Apollo; s013 names Apollo at Delphi as πάτριος ἐξηγητής seated on the earth's navel and assigns him the μέγιστα, κάλλιστα, and πρῶτα of legislation. Together they make visible that Socrates' refusals accumulate toward a single assignment: what he will not do is given to the one seated at the center as interpreter, the legislative task transferred to divine authority positioned at the earth's ὀμφαλός."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s009"
+      ],
+      "observation": "s018 contrasts the fourfold intemperate regimen (drinking, gorging, sexual indulgence, idleness) with the truth-teller considered most hateful; s009 shows χάριν absent from truth-telling and χαρίζηται naming flattery of badly governed cities. Together they make visible that the one who speaks truth about regimen lacks χάρις precisely because he opposes the pleasures named in s018, while the flatterer who serves the city's desires possesses χάρις—grace and favor located on opposite sides of truth."
+    },
+    {
+      "signal_ids": [
+        "s019",
+        "s009"
+      ],
+      "observation": "s019 illustrates a man who cannot measure but believes he is four cubits because many tell him so; s009 traces χαρίεις applied ironically to futile legislators praised by the many. Together they make visible that the man who cannot measure himself yet believes the crowd's measurement enacts what s009 describes: those praised by the πολλοί for political skill are measured by those as unable to measure as themselves."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "s001 names a φυλακτήριον to be built for the guardians in music; s013 positions Apollo as πάτριος ἐξηγητής ἐν μέσῳ τῆς γῆς ἐπὶ τοῦ ὀμφαλοῦ. Together they make visible a spatial contrast: the fortress is to be built by the guardians in their education, while the interpreter sits already positioned at the earth's navel—construction and inhabitation opposed to seated centrality."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s016"
+      ],
+      "observation": "s002 contrasts παρανομία with εὐνομία; s003 shows play as the medium for both lawlessness and lawfulness; s016 states that like calls to like. Together they make visible that play's dual capacity in s003 enacts the principle in s016: whether play admits lawlessness or lawfulness, it calls forth more of the same—the διπλοῦν of play answered by the accumulating ὅμοιον."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνει",
+          "lemma": "λανθάνω",
+          "location": "424d",
+          "context": "ῥᾳδίως αὕτη λανθάνει παραδυομένη"
+        },
+        {
+          "form": "ἀγνοοῦντες",
+          "lemma": "ἀγνοέω",
+          "location": "426e",
+          "context": "ἀγνοοῦντες ὅτι τῷ ὄντι ὥσπερ Ὕδραν τέμνουσιν"
+        }
+      ],
+      "observation": "λανθάνει describes lawlessness slipping in unnoticed; ἀγνοοῦντες describes futile legislators not knowing they cut a Hydra. Both name ignorance of what is happening, the first as stealth, the second as failed recognition."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἐξηγητῇ … ἐξηγητής … ἐξηγεῖται",
+          "lemma": "ἐξηγέομαι/ἐξηγητής",
+          "location": "427c",
+          "context": "οὐδὲ χρησόμεθα ἐξηγητῇ ἀλλʼ ἢ τῷ πατρίῳ· οὗτος γὰρ δήπου ὁ θεὸς … πάτριος ἐξηγητὴς … ἐξηγεῖται"
+        }
+      ],
+      "observation": "ἐξηγητής (interpreter) appears as noun twice and as verb once in immediate succession, the threefold form concentrating the act of interpretation at the moment Apollo is named."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐν μέσῳ τῆς γῆς",
+          "lemma": null,
+          "location": "427c",
+          "context": "ἐν μέσῳ τῆς γῆς ἐπὶ τοῦ ὀμφαλοῦ καθήμενος"
+        }
+      ],
+      "observation": "Apollo is positioned ἐν μέσῳ τῆς γῆς (in the middle of the earth) ἐπὶ τοῦ ὀμφαλοῦ (upon the navel)—spatial centrality doubled by anatomical image."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "οὐκ ἐπιστάμεθα … οὐδενὶ ἄλλῳ πεισόμεθα … οὐδὲ χρησόμεθα ἐξηγητῇ ἀλλʼ ἢ τῷ πατρίῳ",
+          "lemma": null,
+          "location": "427c",
+          "context": "τὰ γὰρ δὴ τοιαῦτα οὔτʼ ἐπιστάμεθα ἡμεῖς οἰκίζοντές τε πόλιν οὐδενὶ ἄλλῳ πεισόμεθα, ἐὰν νοῦν ἔχωμεν, οὐδὲ χρησόμεθα ἐξηγητῇ ἀλλʼ ἢ τῷ πατρίῳ"
+        }
+      ],
+      "observation": "A threefold negative construction: we do not know, we will obey no other, we will use no interpreter except the ancestral—negations accumulating toward the single exception."
+    }
+  ]
+}
