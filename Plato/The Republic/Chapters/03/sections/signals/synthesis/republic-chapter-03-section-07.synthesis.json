@@ -1,0 +1,174 @@
+{
+  "section_id": "republic-chapter-03-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The δικ- and ἰατρ- word families recur in sustained parallel throughout. They open together at 405a (δικαστήριά τε καὶ ἰατρεῖα, δικανική τε καὶ ἰατρική), bifurcate through separate treatments (s001 follows the judge through νυστάζων to γέρων and ἀγαθός; s002 follows medicine through Herodicus, Asclepius, and his sons), then reunite at 409e-410a (ἰατρικήν μετὰ τῆς τοιαύτης δικαστικῆς). This configuration makes visible the entire section's architectonic: two arts examined in parallel, differentiated by their instruments (s005), and finally legislated together."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s012"
+      ],
+      "observation": "The soul-body contrasts at 408e-409a (σώματι σῶμα negated, ψυχῇ σῶμα affirmed, ψυχῇ ψυχῆς ἄρχει) combine with the οἰκεῖος/ἀλλότριος and ἐπιστήμη/ἐμπειρία contrasts at 409b-c to differentiate how the two arts relate to their objects. The doctor must have a healthy soul to treat sick bodies by ψυχῇ σῶμα; the judge must have a pure soul knowing injustice as ἀλλοτρίαν ἐν ἀλλοτρίαις and by ἐπιστήμη not ἐμπειρία οἰκεία. Medicine works across the soul-body divide; justice works soul-to-soul but must keep vice foreign. The grammatical datives and genitives make the asymmetry of instrument and relation formally visible."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s015"
+      ],
+      "observation": "εἰωθυῖα δίαιτα recurs three times (406e, 407d) as the norm to which both carpenter and Asclepian medicine return, while μακρὰ δίαιτα (406d) and διαίταις κατὰ σμικρὸν ἀπαντλοῦντα (407d) name the prolonged regimen Asclepius rejected. This configuration is enacted by σχολή/ἀσχολία: the carpenter has no σχολή for sickness (406d), Asclepius knows no citizen has σχολή (406c), yet Herodicus spent his entire life ἐν ἀσχολίᾳ ἰατρευόμενος (406b). Held together, customary regimen, leisure, and assigned work become visible as structurally interdependent: the citizen must return to εἰωθυῖα δίαιτα because he has ἔργον and therefore no σχολή to be sick."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s018"
+      ],
+      "observation": "λυσιτελέω recurs four times, each time bound to ζῆν and positioned against a figure who lacks ἔργον or would lose it. The carpenter says life treating illness οὐδὲ λυσιτελεῖ (406d); Socrates generalizes that without one's ἔργον, οὐκ ἐλυσιτέλει ζῆν (407a); Asclepius judges the incurable οὔτε αὑτῷ οὔτε πόλει λυσιτελῆ (407e); his sons deemed the incurable οὔτε αὐτοῖς οὔτε τοῖς ἄλλοις λυσιτελεῖν ζῆν (408b). The fourfold recurrence makes visible that what profits life is determined by the presence or absence of ἔργον τι προκείμενον (406c, 407a), and that this criterion extends from individual (αὑτῷ) through others (τοῖς ἄλλοις) to πόλει."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "αἰσχρός escalates through comparative and superlative forms (αἰσχρόν, αἴσχιστον, αἴσχιον) at 405a-b, each time coupled with τεκμήριον as evidence of bad education: needing expert judges is αἰσχρόν and a great τεκμήριον of ἀπαιδευσία; this is αἴσχιστον; worse still (αἴσχιον) is spending one's life in courts. Then at 408c, αἰσχροκερδής appears in the disjunctive argument about Asclepius. The escalating shame-words establish a descending scale of civic disgrace; their return in the compound αἰσχροκερδής transfers the disgrace to the poetic tradition's account, making visible that the poets' Asclepius would exemplify the very civic shame the historical Asclepius' medicine was designed to prevent."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s014"
+      ],
+      "observation": "The age requirement that the good judge be γέρων not νέος, an ὀψιμαθής of injustice (409b), is grounded in the epistemological asymmetry stated at 409d: πονηρία can know neither ἀρετή nor itself, but ἀρετὴ φύσεως παιδευομένης χρόνῳ will gain knowledge of both itself and πονηρία. Held together, these make visible why the judge must be old: only educated virtue (παιδευομένης, s006) over time (χρόνῳ) acquires the double knowledge vice cannot have. The νέοι who are εὐήθεις (409a) lack not moral purity but temporal duration; they have not yet become ὀψιμαθεῖς."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s013"
+      ],
+      "observation": "The cluster of twisting vocabulary (στροφάς, στρέφεσθαι, διεξόδους, διεξελθών, ἀποστραφῆναι λυγιζόμενος) describing the litigant's evasive contortions at 405c, and the recurrence of παράδειγμα (409b, 409c, 409d) describing the inner models by which both decent and wicked judge, configure two modes of relation between interior and exterior. The litigant twists his exterior to evade δίκη; the wicked judge ἀποσκοπῶν πρὸς τὰ ἐν αὑτῷ παραδείγματα projects his interior outward. Held together, these make visible that both figures operate through a mismatch between inner state and outer performance, while the good judge's inner purity (ἄπειρον καὶ ἀκέραιον, 409a) allows direct knowledge of outer injustice as ἀλλοτρίαν."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s017"
+      ],
+      "observation": "Asclepius is constructed through a sequence: introduced via ironic distance (κομψοὺς Ἀσκληπιάδας, 405d), located in his era (οὐκ ἦν ἐπʼ Ἀσκληπιοῦ, 405d), his policy inferred from his sons' Trojan practice (405e), named πολιτικός by Glaucon (407e), then the Trojan evidence revisited with Homeric citation (408a), and finally defended against the poets via disjunctive argument (408b-c). The repetition of the Trojan setting makes visible that the historical reconstruction (τεκμαίρομαι, s004) moves from inference to confirmed principle to explicit verse testimony, then must confront and reject a competing poetic account. The sequence enacts τεκμαίρεσθαι as a hermeneutic movement from observed practice to reconstructed principle to confrontation with tradition."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s019"
+      ],
+      "observation": "Herodicus ἀπέκναισε first himself, then others (406b, active), then is described ἀποκναιόμενος by his own regimen (406b, passive). This doubling—wearing down others, being worn down—recurs in the distribution of κάμνω: the general principle forbids lifelong κάμνειν ἰατρευομένῳ (406c); the τέκτων κάμνων refuses it (406d); yet doctors should themselves have κάμοιεν all diseases (408e), and excessive body-care makes one κάμνειν γὰρ οἴεσθαι ἀεί (407c). Held together, Herodicus and the proposed doctor configuration reveal two opposite relations to illness: Herodicus turns his own illness into lifelong occupation; the good doctor would have experienced illness without being occupied by it. The active-passive reversal in ἀποκναίω and the distributed uses of κάμνω make visible that the same bodily experience can either consume a life or equip a soul."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s022"
+      ],
+      "observation": "The section opens with κακῆς τε καὶ αἰσχρᾶς παιδείας and ἀκολασίας filling the city (405a), then the παιδ- root recurs across varied forms (παιδαγωγική of diseases, παιδοτρίβης Herodicus, ἐκ παίδων for doctors, φύσεως παιδευομένης for virtue), and closes with τῇ ἁπλῇ μουσικῇ... ἣν δὴ ἔφαμεν σωφροσύνην ἐντίκτειν (410a). Held together, these frame the entire medical and judicial discussion within an educational arc: the proliferation of courts and doctors signals παιδεία's failure, the treatments and judgments anatomized within depend on whether soul or body has been educated or corrupted, and the final turn to simple μουσική producing σωφροσύνη (the implicit opposite of the opening ἀκολασία) makes education rather than therapy the prior question. The frame makes visible that medicine and justice are responses to educational failure, not substitutes for education."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s001",
+        "s002"
+      ],
+      "observation": "At 410a, the bodily incurable ἀποθνῄσκειν ἐάσουσιν; the psychically incurable αὐτοὶ ἀποκτενοῦσιν. This graded sequence—passive permission versus active execution—differentiates the final acts of medicine and justice. Medicine (ἰατρική, s002) permits death; justice (δικαστική, s001) executes. Held together with the opening parallel (δικαστήριά τε καὶ ἰατρεῖα, δικανική τε καὶ ἰατρική), the configuration makes visible that the two arts, though paired throughout, culminate in opposed relations to death: the doctor steps back, the judge acts. The grammatical contrast (ἐάσουσιν / αὐτοὶ ἀποκτενοῦσιν) marks the boundary where the parallelism reaches its limit."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θεραπεύειν",
+          "lemma": "θεραπεύω",
+          "location": "407e",
+          "context": "μὴ οἴεσθαι δεῖν θεραπεύειν"
+        },
+        {
+          "form": "θεραπεύσουσι",
+          "lemma": "θεραπεύω",
+          "location": "410a",
+          "context": "τοὺς μὲν εὐφυεῖς τὰ σώματα καὶ τὰς ψυχὰς θεραπεύσουσι"
+        },
+        {
+          "form": "θεραπεύουσιν",
+          "lemma": "θεραπεύω",
+          "location": "408e",
+          "context": "οὐ γὰρ οἶμαι σώματι σῶμα θεραπεύουσιν"
+        },
+        {
+          "form": "θεραπεύειν",
+          "lemma": "θεραπεύω",
+          "location": "408e",
+          "context": "οὐκ ἐγχωρεῖ κακὴν γενομένην τε καὶ οὖσαν εὖ τι θεραπεύειν"
+        }
+      ],
+      "observation": "θεραπεύω recurs four times with shifting objects and negations: doctors do not treat σώματι σῶμα but ψυχῇ σῶμα; a corrupted soul cannot θεραπεύειν well; Asclepius judges certain men μὴ δεῖν θεραπεύειν; the legislated arts will θεραπεύσουσι the well-natured in body and soul. The verb marks the boundary of legitimate medical and judicial care."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "408b",
+          "context": "νοσώδη δὲ φύσει τε καὶ ἀκόλαστον"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "408e",
+          "context": "μὴ πάνυ ὑγιεινοὶ φύσει"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "409d",
+          "context": "ἀρετὴ δὲ φύσεως παιδευομένης χρόνῳ"
+        },
+        {
+          "form": "φύσεσιν",
+          "lemma": "φύσις",
+          "location": "408d",
+          "context": "παντοδαπαῖς φύσεσιν ὡμιληκότες"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "407c",
+          "context": "φύσει τε καὶ διαίτῃ ὑγιεινῶς ἔχοντας"
+        },
+        {
+          "form": "πέφυκε",
+          "lemma": "φύω",
+          "location": "409b",
+          "context": "οἷον πέφυκε κακόν"
+        },
+        {
+          "form": "εὐφυεῖς",
+          "lemma": "εὐφυής",
+          "location": "410a",
+          "context": "τοὺς μὲν εὐφυεῖς τὰ σώματα καὶ τὰς ψυχὰς θεραπεύσουσι"
+        },
+        {
+          "form": "κακοφυεῖς",
+          "lemma": "κακοφυής",
+          "location": "410a",
+          "context": "τοὺς δὲ κατὰ τὴν ψυχὴν κακοφυεῖς καὶ ἀνιάτους"
+        }
+      ],
+      "observation": "φύσις recurs across the section in varied grammatical forms and contexts: paired with δίαιτα for the healthy (407d), opposed to it in the sick by nature (408b), determining whether doctors should themselves be healthy φύσει (408e), the object of παιδεία for virtue (409d), and finally divided into εὐφυεῖς (to be cared for) and κακοφυεῖς (to be killed). The recurrence makes nature a persistent coordinate alongside education, regimen, and justice."
+    }
+  ]
+}
