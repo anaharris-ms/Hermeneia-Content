@@ -1,0 +1,136 @@
+{
+  "section_id": "republic-chapter-05-section-12",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "The sequence of three honors in s001 culminates in φιλῆσαί τε καὶ φιληθῆναι; s013 then converts this reciprocal kissing into a law forbidding refusal, making the third honor's expansion from gesture to enforceable practice visible."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s003"
+      ],
+      "observation": "φύλακες in the Hesiodic citation (s010) names the dead as guardians of mortals; the dense recurrence of ἀγαθός (s003) moves from living warriors to those judged good in life, making visible that the guardian role transfers from living excellence to posthumous protection."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s006"
+      ],
+      "observation": "εὐδοκιμέω recurs three times (s002), moving from living honors to Homeric precedent to the warrior who dies; τελευτάω recurs three times (s006), each marking death. Held together, they make visible a progression from reputation in life to reputation at death to death by any cause, expanding who may achieve the posthumous transformation."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s011"
+      ],
+      "observation": "The dense cluster of τιμάω/τιμή (s004) culminates in honoring with hymns, seats, meat, and cups; s011 then shifts to θεραπεύσομεν and προσκυνήσομεν for the tombs. The conjunction makes visible that honoring (τιμᾶν) the living transitions into cultic service (θεραπεύειν, προσκυνεῖν) for the dead."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s014"
+      ],
+      "observation": "πεισόμεθα Ὁμήρῳ is affirmed (s005), then πεισόμεθα Ἡσιόδῳ is introduced with negation but immediately reversed to affirmation (s005, s014). The sequence makes visible a rhetorical pattern of obedience to both poets, despite the apparent negation, uniting Homeric living honors with Hesiodic posthumous transformation."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009",
+        "s011"
+      ],
+      "observation": "The concrete items of honor—sacrifices, hymns, seats, meat, cups (s007)—are offered to the living; the Hesiodic dead become δαίμονες, ἀλεξίκακοι, φύλακες (s009) and receive θεραπεύειν and προσκυνεῖν at their θήκας (s011). Held together, these make visible a parallel structure of material and ritual service, shifted from feasting the living to worshipping the entombed."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s011"
+      ],
+      "observation": "The fallen brave are assigned to τοῦ χρυσοῦ γένους (s008), then cited as δαίμονες ἁγνοὶ ἐπιχθόνιοι, φύλακες (s009), and finally called δαιμόνιοι καὶ θεῖοι with tombs receiving cult (s011). The sequence makes visible a three-stage movement: assignment to race, poetic identification as daimones, and cultic enactment of their new status."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s016"
+      ],
+      "observation": "ἐπὶ στρατιᾶς frames both living honors and posthumous honors (s012); the posthumous honors are then extended to those who die γήρᾳ ἤ τινι ἄλλῳ τρόπῳ (s016). The conjunction makes visible that the military context of death is first made definitive, then quietly generalized to include non-battlefield death."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s003"
+      ],
+      "observation": "ἐρῶν ἢ ἄρρενος ἢ θηλείας is linked to the incentive to win τἀριστεῖα (s015); γάμοι πλείους and the recurrence of ἀγαθός (s003) link battlefield excellence to reproductive opportunity. Held together, erotic desire and marriage rewards make visible the alignment of military valor with generative outcomes."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s004",
+        "s007"
+      ],
+      "observation": "The sequence of three gestures—crowning, hand-clasping, kissing (s001)—precedes the dense τιμάω cluster (s004), which then expands into sacrifices, hymns, seats, meat, cups (s007). The progression makes visible an escalation from bodily contact through verbal honoring to material feasting."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἅμα τῷ τιμᾶν",
+          "lemma": "τιμάω",
+          "location": "468e",
+          "context": "ἅμα τῷ τιμᾶσθαι καὶ τὴν ἰσχὺν αὐξήσει... ἵνα ἅμα τῷ τιμᾶν ἀσκῶμεν"
+        }
+      ],
+      "observation": "ἅμα τῷ τιμᾶν/τιμᾶσθαι recurs: first in the Homeric example where honor increases strength, then in the city's practice where honoring simultaneously trains. The repetition makes simultaneity of honor and effect visible."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "διαπυθόμενοι ἄρα τοῦ θεοῦ",
+          "lemma": null,
+          "location": "469a",
+          "context": "διαπυθόμενοι ἄρα τοῦ θεοῦ πῶς χρὴ τοὺς δαιμονίους τε καὶ θείους τιθέναι καὶ τίνι διαφόρῳ"
+        }
+      ],
+      "observation": "After affirming Hesiod's claim that the dead become daimones, Socrates proposes consulting the god (τοῦ θεοῦ) for burial rites, inserting oracular mediation between poetic authority and cultic enactment."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "θήσομεν... θεραπεύσομέν τε καὶ προσκυνήσομεν",
+          "lemma": null,
+          "location": "469a-b",
+          "context": "οὕτω καὶ ταύτῃ θήσομεν... οὕτω θεραπεύσομέν τε καὶ προσκυνήσομεν"
+        }
+      ],
+      "observation": "Three future indicatives—θήσομεν (we will bury), θεραπεύσομεν (we will tend), προσκυνήσομεν (we will worship)—mark enacted sequence: burial, ongoing service, reverential worship."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "νώτοισιν... διηνεκέεσσι",
+          "lemma": null,
+          "location": "468d",
+          "context": "νώτοισιν Αἴαντα... διηνεκέεσσι γεραίρεσθαι"
+        }
+      ],
+      "observation": "The Homeric citation honors Ajax with νώτοισιν διηνεκέεσσι (continuous back-portions), making the long cut of meat a visible sign of sustained honor for the young and brave."
+    }
+  ]
+}
