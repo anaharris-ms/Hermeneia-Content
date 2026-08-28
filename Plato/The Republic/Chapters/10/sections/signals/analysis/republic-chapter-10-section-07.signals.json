@@ -1,0 +1,684 @@
+{
+  "section_id": "republic-chapter-10-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐδανείσασθε",
+          "lemma": "δανείζω",
+          "location": "612c",
+          "context": "ἆρʼ οὖν ἀποδώσετέ μοι ἃ ἐδανείσασθε ἐν τῷ λόγῳ"
+        },
+        {
+          "form": "ἔδωκα",
+          "lemma": "δίδωμι",
+          "location": "612c",
+          "context": "ἔδωκα ὑμῖν τὸν δίκαιον δοκεῖν ἄδικον εἶναι"
+        },
+        {
+          "form": "ἀποδώσετε",
+          "lemma": "ἀποδίδωμι",
+          "location": "612e",
+          "context": "πρῶτον μὲν τοῦτο ἀποδώσετε"
+        },
+        {
+          "form": "ἀποδώσομεν",
+          "lemma": "ἀποδίδωμι",
+          "location": "612e",
+          "context": "ἀποδώσομεν, ἔφη"
+        }
+      ],
+      "observation": "Socrates requests return of what was borrowed in the argument; he states that he gave something, asks whether they will give it back, and receives confirmation that they will give it back."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "612c",
+          "context": "τὸν δίκαιον δοκεῖν ἄδικον εἶναι"
+        },
+        {
+          "form": "δοκεῖσθαι",
+          "lemma": "δοκέω",
+          "location": "612d",
+          "context": "ὁμολογεῖν περὶ αὐτῆς δοκεῖσθαι οὕτω"
+        },
+        {
+          "form": "δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "612d",
+          "context": "τὰ νικητήρια κομίσηται, ἀπὸ τοῦ δοκεῖν κτωμένη"
+        },
+        {
+          "form": "εἶναι",
+          "lemma": "εἰμί",
+          "location": "612e",
+          "context": "τὰ ἀπὸ τοῦ εἶναι ἀγαθά"
+        }
+      ],
+      "observation": "Forms of δοκέω appear in the concession that the just man seems unjust, in the request that justice be agreed to seem as it truly is, and in the contrast between winning prizes from seeming and the goods justice gives from being."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "exact_repetition",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "νικητήρια",
+          "lemma": "νικητήριον",
+          "location": "612d",
+          "context": "ἵνα καὶ τὰ νικητήρια κομίσηται"
+        },
+        {
+          "form": "νικητήρια",
+          "lemma": "νικητήριον",
+          "location": "613b",
+          "context": "τὰ μὲν δὴ παρὰ θεῶν τοιαῦτʼ ἄττʼ ἂν εἴη νικητήρια τῷ δικαίῇ"
+        },
+        {
+          "form": "ἆθλα",
+          "lemma": "ἆθλον",
+          "location": "613c",
+          "context": "εἰς τέλος ἐλθόντες τά τε ἆθλα λαμβάνουσιν"
+        },
+        {
+          "form": "ἆθλα",
+          "lemma": "ἆθλον",
+          "location": "613c",
+          "context": "τὰ ἆθλα παρὰ τῶν ἀνθρώπων φέρονται"
+        },
+        {
+          "form": "ἆθλά",
+          "lemma": "ἆθλον",
+          "location": "614a",
+          "context": "ἆθλά τε καὶ μισθοὶ καὶ δῶρα γίγνεται"
+        },
+        {
+          "form": "στεφανοῦνται",
+          "lemma": "στεφανόω",
+          "location": "613c",
+          "context": "τά τε ἆθλα λαμβάνουσιν καὶ στεφανοῦνται"
+        }
+      ],
+      "observation": "Prizes, crowns, and rewards recur: prizes from seeming, prizes from the gods, prizes taken by true runners, prizes from human beings, and prizes together with wages and gifts."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "μισθούς",
+          "lemma": "μισθός",
+          "location": "612b",
+          "context": "οὐ τοὺς μισθοὺς οὐδὲ τὰς δόξας δικαιοσύνης ἐπῃνέκαμεν"
+        },
+        {
+          "form": "μισθούς",
+          "lemma": "μισθός",
+          "location": "612c",
+          "context": "καὶ τοὺς μισθοὺς τῇ δικαιοσύνῃ καὶ τῇ ἄλλῃ ἀρετῇ ἀποδοῦναι"
+        },
+        {
+          "form": "μισθοί",
+          "lemma": "μισθός",
+          "location": "614a",
+          "context": "ἆθλά τε καὶ μισθοὶ καὶ δῶρα"
+        }
+      ],
+      "observation": "μισθός appears first as what was not praised in the argument, then as what may now be given back to justice, and finally in a triad with prizes and gifts."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "exact_repetition",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "Ἡσίοδόν τε καὶ Ὅμηρον",
+          "lemma": null,
+          "location": "612b",
+          "context": "ὥσπερ Ἡσίοδόν τε καὶ Ὅμηρον ὑμεῖς ἔφατε"
+        },
+        {
+          "form": "αὐτὸ δικαιοσύνην αὐτῇ ψυχῇ",
+          "lemma": null,
+          "location": "612b",
+          "context": "ἀλλʼ αὐτὸ δικαιοσύνην αὐτῇ ψυχῇ ἄριστον ηὕρομεν"
+        }
+      ],
+      "observation": "The argument did not praise rewards as Hesiod and Homer did, but found justice itself best for the soul itself."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δακτύλιον",
+          "lemma": "δακτύλιος",
+          "location": "612b",
+          "context": "τὸν Γύγου δακτύλιον"
+        },
+        {
+          "form": "κυνῆν",
+          "lemma": "κυνῆ",
+          "location": "612b",
+          "context": "τὴν Ἄιδος κυνῆν"
+        }
+      ],
+      "observation": "The ring of Gyges and the cap of Hades are named together as items the soul should act justly whether possessing them or not."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "παρʼ ἀνθρώπων τε καὶ θεῶν",
+          "lemma": null,
+          "location": "612c",
+          "context": "ὅσους τε καὶ οἵους τῇ ψυχῇ παρέχει παρʼ ἀνθρώπων τε καὶ θεῶν"
+        },
+        {
+          "form": "παρὰ θεῶν καὶ παρʼ ἀνθρώπων",
+          "lemma": null,
+          "location": "612d",
+          "context": "ὥσπερ ἔχει δόξης καὶ παρὰ θεῶν καὶ παρʼ ἀνθρώπων"
+        },
+        {
+          "form": "παρὰ θεῶν",
+          "lemma": null,
+          "location": "613b",
+          "context": "τὰ μὲν δὴ παρὰ θεῶν τοιαῦτʼ ἄττʼ ἂν εἴη νικητήρια"
+        },
+        {
+          "form": "παρʼ ἀνθρώπων",
+          "lemma": null,
+          "location": "613b",
+          "context": "τί δέ, ἦν δʼ ἐγώ, παρʼ ἀνθρώπων"
+        },
+        {
+          "form": "παρὰ τῶν ἀνθρώπων",
+          "lemma": null,
+          "location": "613c",
+          "context": "τὰ ἆθλα παρὰ τῶν ἀνθρώπων φέρονται"
+        },
+        {
+          "form": "παρὰ θεῶν τε καὶ ἀνθρώπων",
+          "lemma": null,
+          "location": "614a",
+          "context": "ζῶντι τῷ δικαίῳ παρὰ θεῶν τε καὶ ἀνθρώπων ἆθλά"
+        }
+      ],
+      "observation": "Phrases naming gods and human beings as sources recur with varied order and prepositions throughout the passage."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "exact_repetition",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπὸ τῶν κάτω",
+          "lemma": null,
+          "location": "613b",
+          "context": "ὅσοι ἂν θέωσιν εὖ ἀπὸ τῶν κάτω"
+        },
+        {
+          "form": "ἀπὸ δὲ τῶν ἄνω",
+          "lemma": null,
+          "location": "613b",
+          "context": "ἀπὸ δὲ τῶν ἄνω μή"
+        }
+      ],
+      "observation": "Runners who run well from the lower position but not from the upper are described in spatial terms of downward and upward."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀποπηδῶσιν",
+          "lemma": "ἀποπηδάω",
+          "location": "613b",
+          "context": "τὸ μὲν πρῶτον ὀξέως ἀποπηδῶσιν"
+        },
+        {
+          "form": "τελευτῶντες",
+          "lemma": "τελευτάω",
+          "location": "613b",
+          "context": "τελευτῶντες δὲ καταγέλαστοι γίγνονται"
+        },
+        {
+          "form": "εἰς τέλος ἐλθόντες",
+          "lemma": null,
+          "location": "613c",
+          "context": "οἱ δὲ τῇ ἀληθείᾳ δρομικοὶ εἰς τέλος ἐλθόντες"
+        },
+        {
+          "form": "πρὸς τὸ τέλος",
+          "lemma": null,
+          "location": "613c",
+          "context": "πρὸς τὸ τέλος ἑκάστης πράξεως"
+        },
+        {
+          "form": "ἐπὶ τέλους τοῦ δρόμου",
+          "lemma": null,
+          "location": "613d",
+          "context": "ἐπὶ τέλους τοῦ δρόμου αἱρεθέντες"
+        }
+      ],
+      "observation": "The runner comparison moves from first leaping sharply to ending in mockery, while true runners reach the finish; this sequence of beginning and end recurs in actions and in the unjust being caught at the finish of the race."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "καταγέλαστοι",
+          "lemma": "καταγέλαστος",
+          "location": "613c",
+          "context": "τελευτῶντες δὲ καταγέλαστοι γίγνονται"
+        },
+        {
+          "form": "καταγέλαστοί",
+          "lemma": "καταγέλαστος",
+          "location": "613d",
+          "context": "ἐπὶ τέλους τοῦ δρόμου αἱρεθέντες καταγέλαστοί εἰσιν"
+        }
+      ],
+      "observation": "καταγέλαστοι appears first of cunning and unjust runners ending in mockery, then of the many unjust who are caught at the race's finish."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὰ ὦτα ἐπὶ τῶν ὤμων ἔχοντες",
+          "lemma": null,
+          "location": "613c",
+          "context": "τὰ ὦτα ἐπὶ τῶν ὤμων ἔχοντες καὶ ἀστεφάνωτοι ἀποτρέχοντες"
+        }
+      ],
+      "observation": "The failed runners have their ears on their shoulders and run off uncrowned."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνειν",
+          "lemma": "λανθάνω",
+          "location": "612c",
+          "context": "κἂν εἰ μὴ δυνατὸν εἴη ταῦτα λανθάνειν καὶ θεοὺς καὶ ἀνθρώπους"
+        },
+        {
+          "form": "λανθάνει",
+          "lemma": "λανθάνω",
+          "location": "612e",
+          "context": "θεούς γε οὐ λανθάνει ἑκάτερος αὐτῶν"
+        },
+        {
+          "form": "λάθωσιν",
+          "lemma": "λανθάνω",
+          "location": "613d",
+          "context": "οἱ πολλοὶ αὐτῶν, καὶ ἐὰν νέοι ὄντες λάθωσιν"
+        }
+      ],
+      "observation": "Forms of λανθάνω appear first as the hypothetical impossibility of escaping notice by gods and humans, then as confirmation that the gods are not escaped, and finally as the possibility that the unjust may escape notice when young."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ζῶντός",
+          "lemma": "ζάω",
+          "location": "612c",
+          "context": "ζῶντός τε ἔτι τοῦ ἀνθρώπου καὶ ἐπειδὰν τελευτήσῃ"
+        },
+        {
+          "form": "ζῶντι",
+          "lemma": "ζάω",
+          "location": "614a",
+          "context": "ζῶντι τῷ δικαίῳ παρὰ θεῶν τε καὶ ἀνθρώπων"
+        }
+      ],
+      "observation": "ζάω appears first paired with dying as the times when justice brings rewards, then naming the living just man as recipient of prizes, wages, and gifts."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "θεοφιλής",
+          "lemma": "θεοφιλής",
+          "location": "612e",
+          "context": "ὁ μὲν θεοφιλὴς ἂν εἴη"
+        },
+        {
+          "form": "θεοφιλεῖ",
+          "lemma": "θεοφιλής",
+          "location": "612e",
+          "context": "τῷ δὲ θεοφιλεῖ οὐχ ὁμολογήσομεν"
+        }
+      ],
+      "observation": "θεοφιλής names the just man as beloved by the gods and then introduces the question of what comes to him from the gods."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγκαῖον αὐτῷ κακὸν ἐκ προτέρας ἁμαρτίας ὑπῆρχεν",
+          "lemma": null,
+          "location": "613a",
+          "context": "εἰ μή τι ἀναγκαῖον αὐτῷ κακὸν ἐκ προτέρας ἁμαρτίας ὑπῆρχεν"
+        }
+      ],
+      "observation": "A necessary evil from an earlier error is named as the sole exception to all good things coming from the gods to the god-beloved."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πενίᾳ",
+          "lemma": "πενία",
+          "location": "613a",
+          "context": "ἐάντʼ ἐν πενίᾳ γίγνηται"
+        },
+        {
+          "form": "νόσοις",
+          "lemma": "νόσος",
+          "location": "613a",
+          "context": "ἐάντʼ ἐν νόσοις"
+        },
+        {
+          "form": "κακῶν",
+          "lemma": "κακός",
+          "location": "613a",
+          "context": "τινι ἄλλῳ τῶν δοκούντων κακῶν"
+        }
+      ],
+      "observation": "Poverty, diseases, and other seeming evils are named together as conditions the just man may experience but which will end in good."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁμοιοῦσθαι θεῷ",
+          "lemma": null,
+          "location": "613b",
+          "context": "εἰς ὅσον δυνατὸν ἀνθρώπῳ ὁμοιοῦσθαι θεῷ"
+        },
+        {
+          "form": "ὑπὸ τοῦ ὁμοίου",
+          "lemma": null,
+          "location": "613b",
+          "context": "μὴ ἀμελεῖσθαι ὑπὸ τοῦ ὁμοίου"
+        }
+      ],
+      "observation": "The just man practices virtue to become like god as far as possible for a human being; Glaucon states it is reasonable that such a one not be neglected by the like."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "exact_repetition",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐάντʼ ἔχῃ",
+          "lemma": null,
+          "location": "612b",
+          "context": "ἐάντʼ ἔχῃ τὸν Γύγου δακτύλιον, ἐάντε μή"
+        },
+        {
+          "form": "ἐάντʼ ἐν πενίᾳ γίγνηται ἐάντʼ ἐν νόσοις",
+          "lemma": null,
+          "location": "613a",
+          "context": "ἐάντʼ ἐν πενίᾳ γίγνηται ἐάντʼ ἐν νόσοις"
+        },
+        {
+          "form": "ἐὰν",
+          "lemma": null,
+          "location": "613d",
+          "context": "καὶ ἐὰν νέοι ὄντες λάθωσιν"
+        }
+      ],
+      "observation": "ἐάν constructions appear in the concession about the ring, in conditions the just man may face, and in the possibility that the unjust escape notice when young."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρεσβύτεροι",
+          "lemma": "πρεσβύτερος",
+          "location": "613d",
+          "context": "ἐπειδὰν πρεσβύτεροι γένωνται"
+        },
+        {
+          "form": "νέοι",
+          "lemma": "νέος",
+          "location": "613d",
+          "context": "καὶ ἐὰν νέοι ὄντες λάθωσιν"
+        },
+        {
+          "form": "γέροντες",
+          "lemma": "γέρων",
+          "location": "613d",
+          "context": "καὶ γέροντες γιγνόμενοι ἄθλιοι"
+        }
+      ],
+      "observation": "The just hold office when they become older; the unjust may escape notice when young but become wretched old men."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχουσί τε ἂν βούλωνται τὰς ἀρχάς, γαμοῦσί τε ὁπόθεν ἂν βούλωνται, ἐκδιδόασί τε εἰς οὓς ἂν ἐθέλωσι",
+          "lemma": null,
+          "location": "613d",
+          "context": null
+        }
+      ],
+      "observation": "When older, the just hold the offices they wish, marry from where they wish, and give in marriage to whom they wish."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἅπερ αὐτὸς ἔλεγες περὶ τῶν ἀδίκων",
+          "lemma": null,
+          "location": "613c",
+          "context": "ἀνέξῃ ἄρα λέγοντος ἐμοῦ περὶ τούτων ἅπερ αὐτὸς ἔλεγες περὶ τῶν ἀδίκων"
+        },
+        {
+          "form": "πάντα ἃ σὺ περὶ ἐκείνων, ἐγὼ νῦν λέγω περὶ τῶνδε",
+          "lemma": null,
+          "location": "613d",
+          "context": null
+        }
+      ],
+      "observation": "Socrates announces he will say about the just what Glaucon said about the unjust, then states he is now saying about these what Glaucon said about those."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μαστιγούμενοι",
+          "lemma": "μαστιγόω",
+          "location": "613e",
+          "context": "προπηλακίζονται ὑπὸ ξένων τε καὶ ἀστῶν, μαστιγούμενοι"
+        },
+        {
+          "form": "στρεβλώσονται",
+          "lemma": "στρεβλόω",
+          "location": "613e",
+          "context": "εἶτα στρεβλώσονται"
+        },
+        {
+          "form": "ἐκκαυθήσονται",
+          "lemma": "ἐκκαίω",
+          "location": "613e",
+          "context": "καὶ ἐκκαυθήσονται"
+        }
+      ],
+      "observation": "The unjust are scourged, tortured, and burned."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄγροικα",
+          "lemma": "ἄγροικος",
+          "location": "613e",
+          "context": "ἃ ἄγροικα ἔφησθα σὺ εἶναι, ἀληθῆ λέγων"
+        }
+      ],
+      "observation": "Socrates calls the torments crude things that Glaucon said truthfully were crude."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "δίκαια",
+          "lemma": "δίκαιος",
+          "location": "612e",
+          "context": "δίκαια, ἔφη, αἰτῇ"
+        },
+        {
+          "form": "δίκαια",
+          "lemma": "δίκαιος",
+          "location": "613e",
+          "context": "δίκαια γὰρ λέγεις"
+        }
+      ],
+      "observation": "Glaucon responds δίκαια to Socrates' request to restore what was borrowed and again when Socrates asks if he will tolerate the reversal."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀγαθά",
+          "lemma": "ἀγαθός",
+          "location": "612e",
+          "context": "τὰ ἀπὸ τοῦ εἶναι ἀγαθά"
+        },
+        {
+          "form": "ἀγαθόν",
+          "lemma": "ἀγαθός",
+          "location": "613a",
+          "context": "ὡς τούτῳ ταῦτα εἰς ἀγαθόν τι τελευτήσει"
+        },
+        {
+          "form": "ἀγαθοῖς",
+          "lemma": "ἀγαθός",
+          "location": "614a",
+          "context": "πρὸς ἐκείνοις τοῖς ἀγαθοῖς οἷς αὐτὴ παρείχετο ἡ δικαιοσύνη"
+        }
+      ],
+      "observation": "Forms of ἀγαθός appear as the goods justice gives from being, the good end to which seeming evils will come for the just man, and the goods justice provided in addition to which prizes, wages, and gifts come."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὡς οἷόν τε ἄριστα",
+          "lemma": null,
+          "location": "613a",
+          "context": "πάντα γίγνεσθαι ὡς οἷόν τε ἄριστα"
+        }
+      ],
+      "observation": "All things that come from the gods to the god-beloved come to be as best as possible."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀμελεῖται",
+          "lemma": "ἀμελέω",
+          "location": "613a",
+          "context": "οὐ γὰρ δὴ ὑπό γε θεῶν ποτε ἀμελεῖται"
+        },
+        {
+          "form": "ἀμελεῖσθαι",
+          "lemma": "ἀμελέω",
+          "location": "613b",
+          "context": "μὴ ἀμελεῖσθαι ὑπὸ τοῦ ὁμοίου"
+        }
+      ],
+      "observation": "The one eager to become just is never neglected by the gods; Glaucon confirms it is reasonable such a one not be neglected by the like."
+    }
+  ]
+}
