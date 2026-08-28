@@ -1,0 +1,162 @@
+{
+  "section_id": "republic-chapter-03-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s016"
+      ],
+      "observation": "The λύκος first appears as the external enemy (415e), then as what the κύνας themselves may become (416a); this transformation from dog to wolf is simultaneously articulated as a transformation from ἥμεροι to ἀγρίοις (416b-c). The pastoral image thus specifies what the abstract terms gentle and savage concretely enact: the guardian-dogs must remain tame protectors rather than becoming the wild predators they were meant to guard against."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s007"
+      ],
+      "observation": "The four ἀντί constructions trace a single degradation through different registers: dogs become wolves (pastoral), allies become masters (political), guardians become farmers (functional), allies become enemies (relational). The ἔνδον/ἔξωθεν reversal at 417b completes this pattern: guardians initially control those within and defend against those without (415e), but corrupted guardians fear those within more than external enemies (417b)—the directional contrast now maps onto the completed transformation sequence."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s006",
+        "s017"
+      ],
+      "observation": "The στρατοπεδεύω sequence (415d-416e) moves from task to completion to permanent simile, while s017's action sequence (arm, lead, arrive, survey, encamp, sacrifice, make beds) establishes the guardians' position through a series of aorist participles and imperatives that culminate in sacrifice and rest. The στρατιωτικάς/χρηματιστικάς contrast (415e) then names what this entire spatial and ritual sequence must preserve: dwellings that maintain the military encampment rather than enabling the acquisition named at 417a (γῆν, οἰκίας, νομίσματα)."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s018"
+      ],
+      "observation": "The dense recurrence of χρυσός (416e-417a) holds together the θεῖον/ἀνθρώπειον/θνητός contrast and the ἀκήρατον/μιαίνειν pair. The guardians possess divine gold ἐν τῇ ψυχῇ which is ἀκήρατον; they must not συμμειγνύντας μιαίνειν it by acquiring mortal gold. The proliferation of gold-terms thus articulates a pollution logic: the same word names both what must be possessed (internally, divinely) and what must not be touched (externally, mortally)."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s008"
+      ],
+      "observation": "The cluster of physical contact verbs at 417a (μεταχειρίζεσθαι, ἅπτεσθαι, περιάψασθαι, πίνειν) specifies the bodily dimension of the gold prohibition. Held together with the dense recurrence of χρυσός/χρυσίον, these verbs make visible how the taboo operates through enacted gesture: handling, touching, fastening on the body, drinking from vessels become the concrete actions that would μιαίνειν the ἀκήρατον possession in the soul."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "The σῴζοιντό/σῴζοιεν reflexive-transitive pair (417a) articulates preservation as simultaneously self-directed and city-directed. The μισοῦντες/μισούμενοι, ἐπιβουλεύοντες/ἐπιβουλευόμενοι active-passive pairs (417b) articulate corruption as simultaneously self-directed and other-directed. The grammatical parallelism makes visible that the guardians' relation to themselves and to the city transforms together: they either save both or destroy both through reciprocal hostility."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s005"
+      ],
+      "observation": "The guardians are named γηγενεῖς (earth-born) at the section's opening (415d); by the corruption scenario at 417a they acquire γῆν τε ἰδίαν. The οἰκ- stem recurs throughout (οἰκήσεις, οἰκεῖν, οἴκησιν, οἰκίας) from initial dwelling-prescription to final prohibition. Held together, these make visible that the guardians' birth from earth and their dwelling arrangements are both sites where proper relation to land and house must be continuously secured rather than privately possessed."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s011"
+      ],
+      "observation": "παιδεία appears three times (416b-c): Glaucon asserts the guardians are πεπαιδευμένοι, Socrates insists they need τῆς ὀρθῆς παιδείας, then adds that housing must accompany τῇ παιδείᾳ ταύτῃ. κακουργεῖν appears first as what dogs might do to sheep (416a), then as what housing must not ἐπαρεῖ guardians to do toward citizens (416d). The conjunction makes visible that education and dwelling-arrangement together constitute the double prevention: education must be correct, housing must not incite wrongdoing—both are necessary to forestall the κακουργεῖν that would transform guardians into predators."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s007",
+        "s004"
+      ],
+      "observation": "The pastoral cluster (κύνας, ποιμέσι, ποιμνίων, προβάτοις) concentrates at 416a where the dog-to-wolf transformation is articulated. The ἔνδον/ἔξωθεν pair (415e, 417b) names the two directions of guardian attention. The ἀντί constructions trace the transformation sequence. Held together, these make visible that the pastoral image at 416a already contains the spatial and relational reversals spelled out across the section: the κύνας ἐπίκουροι ποιμνίων (416a) are simultaneously the φύλακες watching ἔνδον/ἔξωθεν (415e) and potentially the δεσπόται ἐχθροί (417b)—the single pastoral configuration already holds the guardians' possible futures."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s017",
+        "s012"
+      ],
+      "observation": "The στρατοπεδεύω progression (415d-416e) moves from finding the best place to encamp, through the completed encampment before sacrifice, to living ὥσπερ ἐστρατοπεδευμένους as a permanent condition. The action sequence at 415d-e orders the initial establishment through seven movements ending in making beds. The σῴζοιντό/σῴζοιεν pair (417a) names the double preservation that results. Held together, these make visible that the military encampment is not a temporary state but the permanent spatial form that enables the reflexive-transitive saving: living perpetually encamped is what allows the guardians to save themselves while saving the city."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κατέχοιεν",
+          "lemma": "κατέχω",
+          "location": "415e",
+          "context": "τούς τε ἔνδον μάλιστʼ ἂν κατέχοιεν"
+        },
+        {
+          "form": "ἀπαμύνοιεν",
+          "lemma": "ἀπαμύνω",
+          "location": "415e",
+          "context": "τούς τε ἔξωθεν ἀπαμύνοιεν"
+        }
+      ],
+      "observation": "The two optative verbs κατέχοιεν (hold/restrain those within) and ἀπαμύνοιεν (ward off those without) articulate the guardians' double directional function from their encampment position."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἰδίαν",
+          "lemma": "ἴδιος",
+          "location": "416d",
+          "context": "οὐσίαν κεκτημένον μηδεμίαν μηδένα ἰδίαν"
+        },
+        {
+          "form": "ἰδίαν",
+          "lemma": "ἴδιος",
+          "location": "417a",
+          "context": "γῆν τε ἰδίαν"
+        }
+      ],
+      "observation": "ἰδίαν (private) appears twice: first in the prohibition against private property at 416d, then in the corruption scenario where guardians acquire private land at 417a—the adjective marks the boundary between proper and corrupted guardian condition."
+    },
+    {
+      "signal_types": [
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "μήτε περιεῖναι... μήτε ἐνδεῖν",
+          "lemma": null,
+          "location": "416e",
+          "context": "μήτε περιεῖναι αὐτοῖς εἰς τὸν ἐνιαυτὸν μήτε ἐνδεῖν"
+        }
+      ],
+      "observation": "The μήτε... μήτε construction at 416e specifies the precise calibration of the guardians' provisions: neither surplus nor deficit for the year—a balanced negation that names the economic mean they must inhabit."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "416c",
+          "context": "τοῦ φύλακας ὡς ἀρίστους εἶναι"
+        },
+        {
+          "form": "οἰκονόμοι",
+          "lemma": "οἰκονόμος",
+          "location": "417a",
+          "context": "οἰκονόμοι μὲν καὶ γεωργοί"
+        },
+        {
+          "form": "γεωργοί",
+          "lemma": "γεωργός",
+          "location": "417a",
+          "context": null
+        }
+      ],
+      "observation": "φύλακας (guardians) at 416d names what they must remain; οἰκονόμοι καὶ γεωργοί (household-managers and farmers) at 417a names what they will become through corruption—the three nouns mark the transformation from military to economic identity."
+    }
+  ]
+}
