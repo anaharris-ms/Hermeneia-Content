@@ -1,0 +1,161 @@
+{
+  "section_id": "republic-chapter-01-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The densely recurring ὀφείλω and ἀποδίδωμι together constitute the initial definition—τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι—and are then forced through each successive τέχνη comparison and the friends/enemies formula, so that by 335e ὀφείλεσθαι and ἀποδιδόναι are explicitly denied when the object is βλάβη from a δίκαιος ἀνήρ. The two lemmas trace the section's entire argumentative arc from neutral repayment through proposed harm back to the exclusion of harm."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "The τέχνη series (s006) presses δικαιοσύνη into the frame 'τίσιν τί ἀποδιδοῦσα,' forcing the question of to whom and what it renders. When the answer becomes 'useless when in use, useful when idle' (s007), the parallel structure collapses: ἰατρική and μαγειρική operate continuously in their domains, but justice emerges as χρήσιμος only for ἄχρηστον things—a configuration that makes the inadequacy of the τέχνη analogy visible."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "The φίλος/ἐχθρός pair (s003) structures the distribution of ὠφελία and βλάβη (s004) throughout; by 334e the expected pairing inverts (friends harmed, enemies benefited), and by 335d–335e βλάπτειν is removed entirely from the δίκαιος. The two signal clusters together make visible the section's movement from a confidently stated reciprocal schema to its explicit denial."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "The φύλαξ/κλέπτης pairing (s009) shows that the same skill guards and steals; Autolycus (s010) exemplifies κλεπτοσύνη θʼ ὅρκῳ τε from Homer, and the argument concludes that justice κατὰ σέ, καθʼ Ὅμηρον, καὶ κατὰ Σιμωνίδην is κλεπτική τις. Held together, the two configurations make the section's reductio visible: the just person skilled at guarding is equally skilled at theft, a conclusion Polemarchus must reject."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s005"
+      ],
+      "observation": "Socrates calls Polemarchus κληρονόμος of the λόγος (s005) and then declares Simonides spoke ποιητικῶς, using ᾐνίξατο—he riddled (s008). Together, the two elements frame the inherited saying as requiring interpretation, not transparent statement, so that Polemarchus inherits not a clear definition but a puzzle in need of unpacking."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012",
+        "s013"
+      ],
+      "observation": "Three parallel structures converge: horses, dogs, humans each made χείρους by harm into their own ἀρετή (s011); μουσικοί, ἱππικοί, δίκαιοι cannot by their respective ἀρετή produce their opposites (s012); and heat, dryness, the good each cannot produce τοῦ ἐναντίου (s013). Together, the three series establish that an ἀρετή cannot by its own ἔργον produce its contrary, thereby grounding the conclusion that the δίκαιος cannot harm."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "The saying is reassigned from Simonides (a σοφός) to a list of powerful wealthy men—Periander, Perdiccas, Xerxes, Ismenias (s014)—and Socrates proposes μαχούμεθα κοινῇ against anyone attributing it to the σοφοί (s015). The two together make visible a shift from inherited poetic authority to a joint combat defending the wise against a maxim now attributed to wealth and power."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s016"
+      ],
+      "observation": "ὀφείλω recurs across changing contexts (s001), and παρακατατίθημι appears first as the scenario Simonides does NOT mean, then becomes the only context where justice is χρήσιμος—when money is idle (s016). Together, the two lemmas map the section's dramatic narrowing: what was initially excluded as an exception (the unsafe deposit) becomes the only remaining domain where the initial formula applies."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s016"
+      ],
+      "observation": "Justice is χρήσιμος only when things are ἄχρηστον (s007), and the one example given is παρακαταθέσθαι—storing idle money (s016). The conjunction makes visible that the initial broad formula collapses into a single, marginal use: safekeeping what cannot be used."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δοκοῦντα",
+          "lemma": "δοκέω",
+          "location": "334c",
+          "context": "φίλους δὲ λέγεις εἶναι πότερον τοὺς δοκοῦντας ἑκάστῳ χρηστοὺς εἶναι"
+        },
+        {
+          "form": "δοκῶσι",
+          "lemma": "δοκέω",
+          "location": "334c",
+          "context": "κἂν μὴ δοκῶσι"
+        },
+        {
+          "form": "δοκεῖ",
+          "lemma": "δοκέω",
+          "location": "334c",
+          "context": "ὥστε δοκεῖν αὐτοῖς πολλοὺς μὲν χρηστοὺς εἶναι μὴ ὄντας"
+        },
+        {
+          "form": "δοκοῦντα",
+          "lemma": "δοκέω",
+          "location": "334e",
+          "context": "τὸν δοκοῦντα χρηστόν, τοῦτον φίλον εἶναι"
+        },
+        {
+          "form": "δοκοῦντά",
+          "lemma": "δοκέω",
+          "location": "335a",
+          "context": "τὸν δοκοῦντά τε καὶ τὸν ὄντα χρηστὸν φίλον"
+        },
+        {
+          "form": "δοκοῦντα",
+          "lemma": "δοκέω",
+          "location": "335a",
+          "context": "τὸν δὲ δοκοῦντα μέν, ὄντα δὲ μή, δοκεῖν ἀλλὰ μὴ εἶναι φίλον"
+        }
+      ],
+      "observation": "Forms of δοκέω (seem, appear) recur densely in the revision of the φίλος/ἐχθρός definition at 334c–335a, distinguishing τοὺς δοκοῦντας (those who seem) from τοὺς ὄντας (those who are), producing the corrected formula: the friend is ὁ ὤν, not merely ὁ δοκῶν."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διηνοεῖτο",
+          "lemma": "διανοέομαι",
+          "location": "332c",
+          "context": "διενοεῖτο μὲν γάρ, ὡς φαίνεται, ὅτι τοῦτʼ εἴη δίκαιον"
+        },
+        {
+          "form": "νοεῖ",
+          "lemma": "νοέω",
+          "location": "335e",
+          "context": "τοῦτο δὴ δὲ νοεῖ αὐτῷ"
+        }
+      ],
+      "observation": "διανοέομαι at 332c marks Simonides' intended meaning behind the poetic riddle; νοέω at 335e marks what the speaker of the revised formula now means. The two cognates frame the section's interpretive movement from a poet's concealed intention to a corrected understanding."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "κινδυνεύει",
+          "lemma": "κινδυνεύω",
+          "location": "333d",
+          "context": "ὅταν ἄρα ἄχρηστον ᾖ ἀργύριον, τότε χρήσιμος ἐπʼ αὐτῷ ἡ δικαιοσύνη; κινδυνεύει"
+        },
+        {
+          "form": "κινδυνεύεις",
+          "lemma": "κινδυνεύω",
+          "location": "334a",
+          "context": "κλέπτης ἄρα τις ὁ δίκαιος ἀναπέφανται, καὶ κινδυνεύεις παρʼ Ὁμήρου μεμαθηκέναι αὐτό"
+        },
+        {
+          "form": "κινδυνεύομεν",
+          "lemma": "κινδυνεύω",
+          "location": "334e",
+          "context": "κινδυνεύομεν γὰρ οὐκ ὀρθῶς τὸν φίλον καὶ ἐχθρὸν θέσθαι"
+        }
+      ],
+      "observation": "κινδυνεύω appears three times, each marking an unwelcome implication: justice risks being useful only for the useless, risks being theft learned from Homer, risks having wrongly defined friend and enemy. The repeated verb tracks the argument's successive危险 moments of realization."
+    }
+  ]
+}
