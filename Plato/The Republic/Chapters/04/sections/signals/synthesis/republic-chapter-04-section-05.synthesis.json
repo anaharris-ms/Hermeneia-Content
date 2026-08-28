@@ -1,0 +1,159 @@
+{
+  "section_id": "republic-chapter-04-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s007",
+        "s009",
+        "s010"
+      ],
+      "observation": "The dye analogy's sequence—dyers selecting (ἐκλέγονται) white wool, preparing it, dyeing it to receive the color (ἄνθος)—is explicitly mapped onto the city's action: selecting (ἐξελεγόμεθα) soldiers, educating them with music and gymnastics (ἐπαιδεύομεν μουσικῇ καὶ γυμναστικῇ) so they receive the laws (νόμους) like a dye (ὥσπερ βαφήν). The structural parallel makes visible how παιδεία corresponds to the dyers' preparation, and how the νόμοι are to be received as wool receives color."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s008"
+      ],
+      "observation": "The fourfold list λύπη, ἡδονή, ἐπιθυμία, φόβος appears first at 429c–d as conditions through which opinion must be preserved (ἔν τε λύπαις... ἐν ἡδοναῖς... ἐν ἐπιθυμίαις... ἐν φόβοις), then returns at 430a–b recast as ῥύμματα—detergents that wash out the dye of opinion. The recurrence transforms passive circumstances (ἐν + dative) into active agents of erasure, making visible how the same four items function both as the environment of courage and as its destroyers."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "δεινός first appears repeatedly as the object of right opinion (τῶν δεινῶν δόξαν, περὶ τῶν δεινῶν ἅ τέ ἐστι καὶ οἷα), then at 430a returns as a qualifier of the ῥύμματα themselves (δεινὰ ὄντα ἐκκλύζειν) and in the comparative form describing pleasure (παντὸς χαλεστραίου δεινοτέρα). The shift makes visible how the very term naming what courage must preserve right opinion about also names the power that threatens to wash that opinion away."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s011"
+      ],
+      "observation": "The σῴζω/σωτηρία cluster is concentrated with διὰ παντός three times (429b σώσει... διὰ παντὸς τὴν δόξαν, 429c διὰ παντὸς δὲ ἔλεγον αὐτῆς σωτηρίαν, 430b σωτηρίαν διὰ παντὸς δόξης). The repeated phrase διὰ παντός binds together the definition's core elements: the power (δύναμιν) that will preserve, the preservation itself, and the completeness of that preservation through all circumstances enumerated in s006."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013"
+      ],
+      "observation": "The dye analogy introduces washing terms (πλύσις, ἔκπλυτα) to describe what cannot happen to properly dyed wool, then these washing words return in intensified forms (ἐκπλύναι, ἐκκλύζειν) when applied to the ῥύμματα threatening opinion. The shift from πλύσις (washing, neutral process) to ἐκπλύναι and ἐκκλύζειν (washing out, removing) makes visible how the technical success of the dye (resisting washing) becomes the model for courage's preservation against forces that actively wash away."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "παιδεία appears four times establishing the educated origin of right opinion (ἐν τῇ παιδείᾳ, διὰ τῆς παιδείας, ἐπαιδεύομεν μουσικῇ καὶ γυμναστικῇ), then at 430b the phrase ἄνευ παιδείας marks opinion as θηριώδη καὶ ἀνδραποδώδη and explicitly not νόμιμον or ἀνδρείαν. The negation ἄνευ makes visible the boundary: only opinion formed διὰ παιδείας counts as courage, while uneducated right opinion, though correct, remains bestial and slavish."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "ἀνδρεία/ἀνδρεῖος recurs nine times while δειλός appears only twice, both times in explicit pairing (δειλὴν ἢ ἀνδρείαν, δειλοὶ ἢ ἀνδρεῖοι). After these two contrasts at 429b, δειλός disappears while ἀνδρεία continues through the entire section. The asymmetry makes visible how the definition proceeds not by contrasting courage with cowardice but by elaborating courage alone, as though the initial contrast serves only to isolate the term, after which cowardice is no longer in view."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s001"
+      ],
+      "observation": "μέρος appears twice at 429b locating courage in the part of the city that fights (τὸ μέρος ὃ προπολεμεῖ, μέρει τινὶ ἑαυτῆς), while the repeated ἀνδρεία πόλις formulation ascribes courage to the whole city. The juxtaposition makes visible the claim that the city is courageous through a part of itself (μέρει τινὶ ἑαυτῆς), preserving both the location in a part and the attribution to the whole."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s001"
+      ],
+      "observation": "Socrates proposes an analogy (ἐθέλω ἀπεικάσαι), receives consent (ἀλλὰ βούλομαι), completes the analogy through 429d–430a, and then explicitly names and defines courage (ἀνδρείαν ἔγωγε καλῶ καὶ τίθεμαι) at 430b. The sequence makes visible how the dense recurrence of ἀνδρεία/ἀνδρεῖος (nine times) frames the dye analogy as a detour or preparation, with the term appearing before the analogy (three times), absent during the analogy itself, then returning after it to receive its full definition."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s007"
+      ],
+      "observation": "δόξα recurs five times as the object to be preserved, while the dye analogy elaborates the receiving of color (δέξεται ὅτι μάλιστα τὸ ἄνθος) and its permanence (δευσοποιὸν γίγνεται). When the analogy is applied at 430a, the soldiers are said to receive the laws like a dye (δέξοιντο ὥσπερ βαφήν) so that their opinion becomes fast (δευσοποιὸς αὐτῶν ἡ δόξα γίγνοιτο). The conjunction makes visible how δόξα is treated not as an abstract judgment but as a receptive surface that can be dyed, washed, or kept fast."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s001"
+      ],
+      "observation": "The section closes with δικαιοσύνην named as the actual object of search (νῦν γὰρ οὐ τοῦτο ἐζητοῦμεν, ἀλλὰ δικαιοσύνην), explicitly subordinating the nine-fold recurrence of ἀνδρεία to a search for something else. The closure makes visible how the density and elaboration of courage (the dye analogy, the fourfold list of threats, the repeated σωτηρία) is simultaneously presented as sufficient for the present purpose (ἱκανῶς ἔχει) and as not the thing actually being sought."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s013"
+      ],
+      "observation": "The fourfold list λύπη, ἡδονή, ἐπιθυμία, φόβος first appears as conditions (ἔν + dative), then returns as washing agents (ῥύμματα) paired with the washing verbs ἐκκλύζειν, ἐκπλύναι. The recurrence makes visible how the same four items shift from the circumstances through which courage must preserve opinion to active powers that erase it, transforming the spatial or conditional frame (being in pains, pleasures, desires, fears) into agents that wash away what courage is defined to keep fast."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s007"
+      ],
+      "observation": "The dyers' preparation (προπαρασκευάζουσιν, οὐκ ὀλίγῃ παρασκευῇ θεραπεύσαντες) is mirrored by the negative case of those who do not pre-treat (μὴ προθεραπεύσας), resulting in dye that is ἔκπλυτα καὶ γελοῖα. The parallel makes visible how the entire analogy turns on prior preparation: the contrast between wool prepared to receive color permanently and wool dyed without preparation corresponds to soldiers educated to hold opinion fast versus those who form right opinion ἄνευ παιδείας."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "καλεῖς",
+          "lemma": "καλέω",
+          "location": "429c",
+          "context": "ἢ οὐ τοῦτο ἀνδρείαν καλεῖς"
+        },
+        {
+          "form": "καλῶ",
+          "lemma": "καλέω",
+          "location": "430b",
+          "context": "ἀνδρείαν ἔγωγε καλῶ καὶ τίθεμαι"
+        },
+        {
+          "form": "καλεῖν",
+          "lemma": "καλέω",
+          "location": "430b",
+          "context": "ἄλλο τέ τι ἢ ἀνδρείαν καλεῖν"
+        }
+      ],
+      "observation": "καλέω appears three times in close proximity, shifting from question (καλεῖς) to Socratic assertion (καλῶ καὶ τίθεμαι) to the interlocutor's description of what Socrates does not call courage (ἄλλο τέ τι ἢ ἀνδρείαν καλεῖν). The variation in person and syntactic role makes visible how the act of naming courage is distributed across speakers and grammatical positions."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πολιτικήν γε",
+          "lemma": null,
+          "location": "430c",
+          "context": "ἀποδέχου, πολιτικήν γε, καὶ ὀρθῶς ἀποδέξῃ"
+        }
+      ],
+      "observation": "The acceptance of courage as πολιτικήν qualifies the definition just completed: it is civic courage being identified, distinguished by the limiting particle γε. The qualification makes visible that the elaborate definition through dye, preservation, and education names one kind of courage, not courage as such."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἱκανῶς ἔχει",
+          "lemma": null,
+          "location": "430c",
+          "context": "πρὸς οὖν τὴν ἐκείνου ζήτησιν, ὡς ἐγᾦμαι, ἱκανῶς ἔχει"
+        },
+        {
+          "form": "καλῶς λέγεις",
+          "lemma": null,
+          "location": "430c",
+          "context": "ἀλλὰ καλῶς, ἔφη, λέγεις"
+        }
+      ],
+      "observation": "The section closes with two phrases of sufficiency and correctness: Socrates judges the account sufficient for the search (ἱκανῶς ἔχει), and the interlocutor affirms he speaks well (καλῶς λέγεις). The doubled closure marks both adequacy for a limited purpose and acceptance, making visible how the dialogue moves forward by provisional completions rather than final definitions."
+    }
+  ]
+}
