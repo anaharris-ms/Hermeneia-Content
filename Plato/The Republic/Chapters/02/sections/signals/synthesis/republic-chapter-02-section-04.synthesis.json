@@ -1,0 +1,149 @@
+{
+  "section_id": "republic-chapter-02-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s011"
+      ],
+      "observation": "The five recurrences of βοηθέω frame Socrates' obligation to help (s001), and δικαιοσύνῃ κακηγορουμένῃ personifies justice as the one requiring that help (s011). Held together, the repeated helping-vocabulary and the personified victim make visible that the section enacts a forensic scenario: Socrates must decide whether to defend a maligned person still present."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s017"
+      ],
+      "observation": "s002 traces persuasion and trust across πέπεισθε, πεπεῖσθαι, ἠπίστουν, and πιστεύω; s017 contrasts λόγοι (ground for distrust) with τρόπος (ground for trust). Together they make visible that Socrates' confidence in the brothers rests not on their arguments but on a visible pattern of character that their words alone would contradict."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s016"
+      ],
+      "observation": "θεῖον shifts from quoted lineage (θεῖον γένος) to present condition (θεῖον πεπόνθατε) in s003, while s016 anchors παῖδες in both Socrates' address and the elegiac citation naming Ariston. Held together, the two signals make visible that the brothers' present divine condition is grounded in and yet distinct from their named ancestry."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s015"
+      ],
+      "observation": "s004 sustains the μείζω/ἐλάττω pair from letters to city-soul; s015 restates the letters' sameness-check (τὰ αὐτὰ ὄντα) as the city-soul method's ὁμοιότητα. Together they make visible that the analogy's logic of same-forms-in-different-sizes is enacted as the method's core claim: similarity between larger and smaller instances of justice."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s009"
+      ],
+      "observation": "s005 links ὀξὺ βλέπω to the inquiry's difficulty and to those who cannot read small letters; s009 clusters reading (ἀναγνῶναι, ἀναγνόντας) with seeing-down (καθορᾷς). Held together, sharpness of vision, literacy, and discernment become three aspects of a single perceptual demand that the proposed method is designed to meet."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s012"
+      ],
+      "observation": "s008 sequences the group's request (ἐδέοντο … διερευνήσασθαι) through Socrates' proposal (ζητήσωμεν) to Adeimantus' acceptance (ἔσκεπται); s012 moves the ζητ- family from nouns of problem (ζήτημα, ζήτησις) to verbs of action (ζητήσωμεν, ζητοῦμεν). Together they make visible that the section enacts the conversion of a named difficulty into a consented procedure."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "s010 pairs ἐμπνέοντα (still breathing) with φθέγγεσθαι (able to speak) as conditions for helping; s011 personifies δικαιοσύνη as κακηγορουμένῃ (being maligned) and frames abandonment as ἀπαγορεύειν. Held together, breath, speech, and the refusal to give up configure Socrates' obligation as requiring continued vocal presence alongside a personified justice."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "s013 sequences θεασαίμεθα (watching the city come into being) into ἴδοιμεν and ἰδεῖν (seeing justice); s014 traces γιγνομένην (city coming into being) to γιγνομένην (justice coming into being) to γενομένου (completed coming-into-being enabling sight). Together, watching and coming-into-being are held in a double sequence: the city's genesis makes justice's genesis visible, and completed genesis makes what is sought easier to see."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s012"
+      ],
+      "observation": "s006 traces δοκέω across Socrates' narration and dialogue exchanges; s012 moves the ζητ- family from problem-nouns to action-verbs. Held together, the recurrence of seeming (δοκέω) and the shift from ζήτημα to ζητήσωμεν make visible that the section moves from what seems to Socrates through what seems to the interlocutors into a shared proposal for inquiry, converting individual opinion into collective search."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s004"
+      ],
+      "observation": "s007 locates δικαιοσύνη explicitly in both ἀνδρὸς ἑνός and ὅλης πόλεως; s004 sustains μείζω/ἐλάττω from the letters analogy into the city-soul method. Held together, the parallel sites (individual/city) and the size-pair (larger/smaller) make visible that the method's advantage is not merely pedagogical but ontological: justice exists at two scales, and the larger may reveal what the smaller obscures."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρῶτον",
+          "lemma": "πρῶτος",
+          "location": "368d",
+          "context": "ἐκεῖνα πρῶτον ἀναγνόντας"
+        },
+        {
+          "form": "πρῶτον",
+          "lemma": "πρῶτος",
+          "location": "369a",
+          "context": "πρῶτον ἐν ταῖς πόλεσι ζητήσωμεν"
+        },
+        {
+          "form": "ἔπειτα",
+          "lemma": "ἔπειτα",
+          "location": "368d",
+          "context": "ἔπειτά τις ἐνενόησεν"
+        },
+        {
+          "form": "ἔπειτα",
+          "lemma": "ἔπειτα",
+          "location": "369a",
+          "context": "ἔπειτα οὕτως ἐπισκεψώμεθα"
+        }
+      ],
+      "observation": "πρῶτον … ἔπειτα appears in both the letters analogy and the city-soul method proposal, marking the same two-step sequence: read the larger first, then examine the smaller."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπισκοπεῖν",
+          "lemma": "ἐπισκοπέω",
+          "location": "368d",
+          "context": "οὕτως ἐπισκοπεῖν τὰ ἐλάττω"
+        },
+        {
+          "form": "ἐπισκεψώμεθα",
+          "lemma": "ἐπισκοπέω",
+          "location": "369a",
+          "context": "ἔπειτα οὕτως ἐπισκεψώμεθα καὶ ἐν ἑνὶ ἑκάστῳ"
+        },
+        {
+          "form": "ἐπισκοποῦντες",
+          "lemma": "ἐπισκοπέω",
+          "location": "369a",
+          "context": "τὴν τοῦ μείζονος ὁμοιότητα … ἐπισκοποῦντες"
+        }
+      ],
+      "observation": "ἐπισκοπέω recurs three times across the analogy and method, naming the examining action to be performed on the smaller letters and on the individual soul."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λόγῳ",
+          "lemma": "λόγος",
+          "location": "369a",
+          "context": "γιγνομένην πόλιν θεασαίμεθα λόγῳ"
+        }
+      ],
+      "observation": "λόγῳ specifies that the city's coming-into-being will be watched in speech, marking the proposed procedure as verbal construction rather than empirical observation."
+    }
+  ]
+}
