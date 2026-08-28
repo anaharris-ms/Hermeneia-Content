@@ -1,0 +1,140 @@
+{
+  "section_id": "republic-chapter-05-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "The numeric cluster `s001` defines kinship reckoning by the tenth and seventh months from the wedding day; `s013` shows that διαγνώσονται (recognize) receives no answer—recognition is replaced by προσερεῖ (they shall address/name) based on those months. The precise temporal markers in `s001` make visible that kinship becomes a naming convention grounded in counted time rather than biological knowledge."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s010"
+      ],
+      "observation": "`s003` contrasts sanctioned birth under θυσιῶν and εὐχῶν with unsanctioned birth ὑπὸ σκότου; `s010` returns σκότος as the origin and contrasts it with φῶς as what the resulting κύημα must not be brought into. Together these make visible that darkness names both the illicit conception and the destiny of its offspring—what begins ὑπὸ σκότου is forbidden εἰς φῶς."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "`s005` traces ἅπτω through three prohibited touchings; `s008` enumerates the kinship terms defining the third prohibition (ἀλλήλων μὴ ἅπτεσθαι). Held together, they show that the abstract μὴ ἅπτεσθαι at 461e becomes concrete through the catalog of named relations—daughter, mother, son, father, grandparents, siblings—each a specific forbidden touching made visible by its name."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s012"
+      ],
+      "observation": "`s002` shows γεννάω recurring across varied grammatical forms and contexts; `s012` shows τῇ πόλει recurring as the dative recipient of τίκτειν, γεννᾶν, and καθιστάναι. Together they make visible that every inflection of begetting is grammatically oriented toward the city as recipient—begetting is never merely an act but an act given to the πόλις."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s014"
+      ],
+      "observation": "`s006` clusters sacred language—ὅσιον, ἱέρειαι, ἱερεῖς, ἀνίερον, Πυθία; `s014` shows that sibling marriage requires both κλῆρος and the Πυθία's additional sanction. Held together, they reveal that the Pythia appears only once in the section, not to authorize the entire system of regulated begetting but to sanction the single exception where siblings may marry—the sacred enters precisely at the boundary of the prohibition."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s016"
+      ],
+      "observation": "`s011` shows ἀκμή recurring three times with expanding scope; `s016` identifies τὴν ὀξυτάτην δρόμου ἀκμὴν as the male starting point. Together they make visible that the athletic peak (δρόμος, ὀξυτάτη) names the moment men pass through and leave behind, whereas women's ἀκμή is defined by a twenty-year span they remain within—the section maps two different temporal relations to peak."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s007"
+      ],
+      "observation": "`s004` shows two parallel comparative constructions (ἐξ ἀγαθῶν ἀμείνους, ἐξ ὠφελίμων ὠφελιμωτέρους) describing sanctioned prayers; `s007` shows three alpha-privative/negative adjectives (νόθον, ἀνέγγυον, ἀνίερον) in asyndeton describing the unsanctioned child. The positive movement from good to better in sanctioned begetting is answered by the triple negation marking illegitimacy—form mirrors the contrast between prayer's generative aim and transgression's privative result."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` enumerates kinship terms densely; `s009` maps prohibitions as ἄνω and κάτω. Together they show that the catalog of named relations—θυγατρί, μητρί, ὑεῖ, πατρί, πάππους, τηθάς—is simultaneously organized as spatial orientation, with mothers and their ascendants ἄνω, sons and their descendants κάτω. The section makes kinship visible as both a list of names and a vertical spatial field."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s002"
+      ],
+      "observation": "`s002` shows γεννάω forms recurring throughout regulated begetting; `s015` names those past begetting age ἐλεύθερος. The contrast makes visible that freedom (ἐλεύθερος) is defined negatively by the cessation of γεννᾶν—liberty to associate as one wishes appears only when begetting for the πόλις has ended."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "`s001` marks precise numerical spans (20, 30, 40, 55 years; tenth and seventh months); `s009` maps kinship spatially as ἄνω and κάτω. Held together, they reveal that the section employs two simultaneous ordering systems—chronological numbers define age-based permissions and violations, while vertical spatial terms organize generational prohibitions. Both systems make relations visible without reference to biological recognition."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s012"
+      ],
+      "observation": "`s012` shows τῇ πόλει recurring as dative recipient within the regulatory detail; `s017` shows κοινός appearing first as εἰς τὸ κοινὸν (into the common stock) and returning as κοινωνία (the community/sharing) in Socrates' summarizing statement. Together they make visible that the regulations orient begetting toward the πόλις and the κοινόν, and the closing frame names the entire arrangement κοινωνία—the detail and the summary share the root κοιν- as the system's defining orientation."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἂν λάθῃ",
+          "lemma": "λανθάνω",
+          "location": "461a",
+          "context": "ὃς, ἂν λάθῃ, γεννήσεται"
+        }
+      ],
+      "observation": "The child conceived outside regulations γεννήσεται 'if it escape notice' (ἂν λάθῃ)—the conditional makes visible that the offense's completion depends on concealment, not merely the act."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βιάσηται",
+          "lemma": "βιάζω",
+          "location": "461c",
+          "context": "ἐὰν δέ τι βιάσηται"
+        }
+      ],
+      "observation": "Post-reproductive couples are commanded to prevent conception; if something 'forces its way' (βιάσηται), they are to expose it—the verb makes the κύημα itself the active subject forcing its way into existence against their effort."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "συνέρξαντος ἄρχοντος",
+          "lemma": null,
+          "location": "461b",
+          "context": "μὴ συνέρξαντος ἄρχοντος"
+        }
+      ],
+      "observation": "Sexual union during the reproductive years requires the ruler 'to join together' (συνέρξαντος) the couple—the ἄρχων's action grammatically precedes and enables the union, making the ruler's συν- the condition for legitimate συγγίγνεσθαι."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "οὐκ οὔσης τροφῆς",
+          "lemma": null,
+          "location": "461c",
+          "context": "οὕτω τιθέναι, ὡς οὐκ οὔσης τροφῆς τῷ τοιούτῳ"
+        }
+      ],
+      "observation": "Exposure is commanded 'on the grounds that there is no τροφή' for such offspring—the genitive absolute gives a reason (lack of nourishment) that makes the exposure appear as necessity rather than prohibition."
+    }
+  ]
+}
