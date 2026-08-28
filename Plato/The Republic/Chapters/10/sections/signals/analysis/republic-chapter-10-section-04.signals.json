@@ -1,0 +1,1406 @@
+{
+  "section_id": "republic-chapter-10-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μιμητικὴ",
+          "lemma": "μιμητικός",
+          "location": "603c",
+          "context": "ἡ τῆς ποιήσεως μιμητική"
+        },
+        {
+          "form": "μιμητικὴ",
+          "lemma": "μιμητικός",
+          "location": "603c",
+          "context": "μιμεῖται ἡ μιμητικὴ βιαίους ἢ ἑκουσίας πράξεις"
+        },
+        {
+          "form": "μιμητικὸς",
+          "lemma": "μιμητικός",
+          "location": "605a",
+          "context": "ὁ δὴ μιμητικὸς ποιητὴς"
+        },
+        {
+          "form": "μιμητικὸν",
+          "lemma": "μιμητικός",
+          "location": "605b",
+          "context": "τὸν μιμητικὸν ποιητὴν"
+        }
+      ],
+      "observation": "Forms of μιμητικός recur throughout the section, identifying the object under examination as mimetic poetry and the mimetic poet."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μιμεῖται",
+          "lemma": "μιμέομαι",
+          "location": "603c",
+          "context": "μιμεῖται ἡ μιμητικὴ βιαίους ἢ ἑκουσίας πράξεις"
+        },
+        {
+          "form": "μίμησιν",
+          "lemma": "μίμησις",
+          "location": "604e",
+          "context": "τὸ μὲν πολλὴν μίμησιν καὶ ποικίλην ἔχει"
+        },
+        {
+          "form": "μιμήσασθαι",
+          "lemma": "μιμέομαι",
+          "location": "604e",
+          "context": "οὔτε ῥᾴδιον μιμήσασθαι"
+        },
+        {
+          "form": "μιμουμένου",
+          "lemma": "μιμέομαι",
+          "location": "604e",
+          "context": "οὔτε μιμουμένου εὐπετὲς καταμαθεῖν"
+        },
+        {
+          "form": "μίμησις",
+          "lemma": "μίμησις",
+          "location": "604e",
+          "context": "ἀλλοτρίου γάρ που πάθους ἡ μίμησις αὐτοῖς γίγνεται"
+        },
+        {
+          "form": "μιμουμένου",
+          "lemma": "μιμέομαι",
+          "location": "605c",
+          "context": "ἄλλου τινὸς τῶν τραγῳδοποιῶν μιμουμένου"
+        },
+        {
+          "form": "μιμήσει",
+          "lemma": "μίμησις",
+          "location": "606c",
+          "context": "ἐν μιμήσει δὲ κωμῳδικῇ"
+        },
+        {
+          "form": "μίμησις",
+          "lemma": "μίμησις",
+          "location": "606d",
+          "context": "ἡ ποιητικὴ μίμησις"
+        }
+      ],
+      "observation": "Forms of μιμέομαι and μίμησις recur densely throughout, establishing the action and product of imitation as the subject under sustained examination."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "βιαίους ἢ ἑκουσίας",
+          "lemma": null,
+          "location": "603c",
+          "context": "πράττοντας, φαμέν, ἀνθρώπους μιμεῖται ἡ μιμητικὴ βιαίους ἢ ἑκουσίας πράξεις"
+        }
+      ],
+      "observation": "Mimetic poetry is said to imitate people performing actions that are either forced or voluntary."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "εὖ οἰομένους ἢ κακῶς πεπραγέναι",
+          "lemma": null,
+          "location": "603c",
+          "context": "ἐκ τοῦ πράττειν ἢ εὖ οἰομένους ἢ κακῶς πεπραγέναι"
+        }
+      ],
+      "observation": "Those performing actions think they have fared either well or badly."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λυπουμένους",
+          "lemma": "λυπέω",
+          "location": "603c",
+          "context": "πᾶσιν ἢ λυπουμένους ἢ χαίροντας"
+        },
+        {
+          "form": "χαίροντας",
+          "lemma": "χαίρω",
+          "location": "603c",
+          "context": "πᾶσιν ἢ λυπουμένους ἢ χαίροντας"
+        }
+      ],
+      "observation": "In all these actions people are either grieving or rejoicing."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "exact_repetition",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὁμονοητικῶς",
+          "lemma": "ὁμονοητικός",
+          "location": "603c",
+          "context": "ἆρʼ οὖν ἐν ἅπασι τούτοις ὁμονοητικῶς ἄνθρωπος διάκειται"
+        }
+      ],
+      "observation": "Socrates asks whether in all these matters a person is disposed in accord with himself."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐστασίαζεν",
+          "lemma": "στασιάζω",
+          "location": "603d",
+          "context": "κατὰ τὴν ὄψιν ἐστασίαζεν"
+        },
+        {
+          "form": "στασιάζει",
+          "lemma": "στασιάζω",
+          "location": "603d",
+          "context": "οὕτω καὶ ἐν ταῖς πράξεσι στασιάζει"
+        }
+      ],
+      "observation": "Forms of στασιάζω recur: first describing the conflict in vision, then the conflict in action."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐναντίας",
+          "lemma": "ἐναντίος",
+          "location": "603d",
+          "context": "ἐναντίας εἶχεν ἐν ἑαυτῷ δόξας"
+        },
+        {
+          "form": "ἐναντιωμάτων",
+          "lemma": "ἐναντίωμα",
+          "location": "603d",
+          "context": "μυρίων τοιούτων ἐναντιωμάτων ἅμα γιγνομένων"
+        },
+        {
+          "form": "ἐναντίας",
+          "lemma": "ἐναντίος",
+          "location": "604b",
+          "context": "ἐναντίας δὲ ἀγωγῆς γιγνομένης"
+        }
+      ],
+      "observation": "Forms of ἐναντίος recur: contrary opinions, innumerable contraries occurring simultaneously in the soul, and contrary pulls in a person."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "μυρίων",
+          "lemma": "μυρίοι",
+          "location": "603d",
+          "context": "μυρίων τοιούτων ἐναντιωμάτων"
+        }
+      ],
+      "observation": "The soul is said to be full of innumerable such contraries occurring simultaneously."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀπελίπομεν",
+          "lemma": "ἀπολείπω",
+          "location": "603d",
+          "context": "ἀλλʼ ὃ τότε ἀπελίπομεν"
+        },
+        {
+          "form": "διεξελθεῖν",
+          "lemma": "διέρχομαι",
+          "location": "603e",
+          "context": "νῦν μοι δοκεῖ ἀναγκαῖον εἶναι διεξελθεῖν"
+        }
+      ],
+      "observation": "What was left aside earlier is now said to be necessary to go through."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνήρ",
+          "lemma": "ἀνήρ",
+          "location": "603e",
+          "context": "ἀνὴρ ... ἐπιεικὴς"
+        },
+        {
+          "form": "ὑὸν ἀπολέσας",
+          "lemma": null,
+          "location": "603e",
+          "context": "ὑὸν ἀπολέσας ἤ τι ἄλλο ὧν περὶ πλείστου ποιεῖται"
+        }
+      ],
+      "observation": "A decent man is described as having suffered such a misfortune as losing a son or something else he values most highly."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οὐδὲν ἀχθέσεται",
+          "lemma": null,
+          "location": "603e",
+          "context": "πότερον οὐδὲν ἀχθέσεται"
+        },
+        {
+          "form": "μετριάσει δέ πως πρὸς λύπην",
+          "lemma": null,
+          "location": "603e",
+          "context": "ἢ τοῦτο μὲν ἀδύνατον, μετριάσει δέ πως πρὸς λύπην"
+        }
+      ],
+      "observation": "Socrates asks whether such a man will feel no grief at all or whether that is impossible and he will instead moderate his grief somehow."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶται ὑπὸ τῶν ὁμοίων",
+          "lemma": null,
+          "location": "604a",
+          "context": "ὅταν ὁρᾶται ὑπὸ τῶν ὁμοίων"
+        },
+        {
+          "form": "ἐν ἐρημίᾳ μόνος αὐτὸς καθʼ αὑτὸν",
+          "lemma": null,
+          "location": "604a",
+          "context": "ἢ ὅταν ἐν ἐρημίᾳ μόνος αὐτὸς καθʼ αὑτὸν γίγνηται"
+        }
+      ],
+      "observation": "The man will struggle more against grief when seen by his peers than when in solitude alone by himself."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φθέγξασθαι",
+          "lemma": "φθέγγομαι",
+          "location": "604a",
+          "context": "πολλὰ μὲν τολμήσει φθέγξασθαι"
+        },
+        {
+          "form": "αἰσχύνοιτʼ ἄν",
+          "lemma": "αἰσχύνω",
+          "location": "604a",
+          "context": "ἃ εἴ τις αὐτοῦ ἀκούοι αἰσχύνοιτʼ ἄν"
+        },
+        {
+          "form": "ποιήσει",
+          "lemma": "ποιέω",
+          "location": "604a",
+          "context": "πολλὰ δὲ ποιήσει"
+        },
+        {
+          "form": "ἰδεῖν δρῶντα",
+          "lemma": null,
+          "location": "604a",
+          "context": "ἃ οὐκ ἂν δέξαιτό τινα ἰδεῖν δρῶντα"
+        }
+      ],
+      "observation": "When alone, the man will dare to utter many things he would be ashamed if anyone heard, and will do many things he would not accept anyone seeing him doing."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λόγος καὶ νόμος",
+          "lemma": null,
+          "location": "604a",
+          "context": "τὸ μὲν ἀντιτείνειν διακελευόμενον λόγος καὶ νόμος ἐστίν"
+        },
+        {
+          "form": "αὐτὸ τὸ πάθος",
+          "lemma": null,
+          "location": "604b",
+          "context": "τὸ δὲ ἕλκον ἐπὶ τὰς λύπας αὐτὸ τὸ πάθος"
+        }
+      ],
+      "observation": "What urges resistance is reason and law, while what pulls toward grief is the suffering itself."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀγωγῆς",
+          "lemma": "ἀγωγή",
+          "location": "604b",
+          "context": "ἐναντίας δὲ ἀγωγῆς γιγνομένης ἐν τῷ ἀνθρώπῳ"
+        }
+      ],
+      "observation": "Contrary pulls occur in the person at the same time concerning the same thing."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δύο",
+          "lemma": "δύο",
+          "location": "604b",
+          "context": "δύο φαμὲν αὐτὼ ἀναγκαῖον εἶναι"
+        },
+        {
+          "form": "ἐναντίας δὲ ἀγωγῆς",
+          "lemma": null,
+          "location": "604b",
+          "context": "ἐναντίας δὲ ἀγωγῆς γιγνομένης"
+        }
+      ],
+      "observation": "When contrary pulls occur in a person, there must necessarily be two things in him."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "νόμος",
+          "lemma": "νόμος",
+          "location": "604a",
+          "context": "λόγος καὶ νόμος ἐστίν"
+        },
+        {
+          "form": "νόμῳ",
+          "lemma": "νόμος",
+          "location": "604b",
+          "context": "τὸ μὲν ἕτερον τῷ νόμῳ ἕτοιμον πείθεσθαι"
+        },
+        {
+          "form": "νόμος",
+          "lemma": "νόμος",
+          "location": "604b",
+          "context": "ᾗ ὁ νόμος ἐξηγεῖται"
+        },
+        {
+          "form": "νόμος",
+          "lemma": "νόμος",
+          "location": "604b",
+          "context": "λέγει που ὁ νόμος"
+        }
+      ],
+      "observation": "Forms of νόμος recur densely: one part is ready to obey law, and law prescribes keeping quiet in misfortunes."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἡσυχίαν ἄγειν",
+          "lemma": null,
+          "location": "604b",
+          "context": "κάλλιστον ὅτι μάλιστα ἡσυχίαν ἄγειν ἐν ταῖς συμφοραῖς"
+        },
+        {
+          "form": "μὴ ἀγανακτεῖν",
+          "lemma": "ἀγανακτέω",
+          "location": "604b",
+          "context": "καὶ μὴ ἀγανακτεῖν"
+        }
+      ],
+      "observation": "Law says it is best to keep quiet as much as possible in misfortunes and not to be irritated."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "βουλεύεσθαι",
+          "lemma": "βουλεύω",
+          "location": "604c",
+          "context": "τῷ βουλεύεσθαι ... περὶ τὸ γεγονὸς"
+        },
+        {
+          "form": "τίθεσθαι τὰ αὑτοῦ πράγματα",
+          "lemma": null,
+          "location": "604c",
+          "context": "πρὸς τὰ πεπτωκότα τίθεσθαι τὰ αὑτοῦ πράγματα"
+        },
+        {
+          "form": "ὅπῃ ὁ λόγος αἱρεῖ βέλτιστʼ ἂν ἔχειν",
+          "lemma": null,
+          "location": "604c",
+          "context": "ὅπῃ ὁ λόγος αἱρεῖ βέλτιστʼ ἂν ἔχειν"
+        }
+      ],
+      "observation": "What is needed is to deliberate about what has happened and arrange one's affairs according to how reason chooses would be best."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ἐν πτώσει κύβων",
+          "lemma": null,
+          "location": "604c",
+          "context": "ὥσπερ ἐν πτώσει κύβων πρὸς τὰ πεπτωκότα τίθεσθαι τὰ αὑτοῦ πράγματα"
+        },
+        {
+          "form": "καθάπερ παῖδας",
+          "lemma": null,
+          "location": "604c",
+          "context": "μὴ προσπταίσαντας καθάπερ παῖδας"
+        }
+      ],
+      "observation": "One should arrange affairs as in a throw of dice according to what has fallen, not like children who hold the hurt place and spend time crying."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἰᾶσθαί",
+          "lemma": "ἰάομαι",
+          "location": "604d",
+          "context": "πρὸς τὸ ἰᾶσθαί τε καὶ ἐπανορθοῦν"
+        },
+        {
+          "form": "νοσῆσαν",
+          "lemma": "νοσέω",
+          "location": "604d",
+          "context": "τὸ πεσόν τε καὶ νοσῆσαν"
+        },
+        {
+          "form": "ἰατρικῇ",
+          "lemma": "ἰατρική",
+          "location": "604d",
+          "context": "ἰατρικῇ θρηνῳδίαν ἀφανίζοντα"
+        }
+      ],
+      "observation": "The soul should be accustomed to healing and setting right what has fallen and become diseased, by medicine making lamentation disappear."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὸ μὲν βέλτιστον",
+          "lemma": null,
+          "location": "604d",
+          "context": "τὸ μὲν βέλτιστον τούτῳ τῷ λογισμῷ ἐθέλει ἕπεσθαι"
+        },
+        {
+          "form": "τὸ δὲ πρὸς τὰς ἀναμνήσεις τε τοῦ πάθους καὶ πρὸς τοὺς ὀδυρμοὺς ἄγον",
+          "lemma": null,
+          "location": "604d",
+          "context": "τὸ δὲ πρὸς τὰς ἀναμνήσεις τε τοῦ πάθους καὶ πρὸς τοὺς ὀδυρμοὺς ἄγον"
+        }
+      ],
+      "observation": "The best part is willing to follow this reasoning, while the part leading toward recollections of suffering and lamentations is contrasted with it."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀλόγιστόν",
+          "lemma": "ἀλόγιστος",
+          "location": "604d",
+          "context": "ἆρʼ οὐκ ἀλόγιστόν τε φήσομεν εἶναι"
+        },
+        {
+          "form": "ἀργὸν",
+          "lemma": "ἀργός",
+          "location": "604d",
+          "context": "καὶ ἀργὸν"
+        },
+        {
+          "form": "δειλίας φίλον",
+          "lemma": null,
+          "location": "604d",
+          "context": "καὶ δειλίας φίλον"
+        }
+      ],
+      "observation": "The lamenting part is called unreasoning, idle, and a friend of cowardice."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὸ μὲν πολλὴν μίμησιν καὶ ποικίλην ἔχει, τὸ ἀγανακτητικόν",
+          "lemma": null,
+          "location": "604e",
+          "context": "τὸ μὲν πολλὴν μίμησιν καὶ ποικίλην ἔχει, τὸ ἀγανακτητικόν"
+        },
+        {
+          "form": "τὸ δὲ φρόνιμόν τε καὶ ἡσύχιον ἦθος",
+          "lemma": null,
+          "location": "604e",
+          "context": "τὸ δὲ φρόνιμόν τε καὶ ἡσύχιον ἦθος"
+        }
+      ],
+      "observation": "The irritable part admits much varied imitation, while the prudent and quiet character is contrasted with it."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παραπλήσιον ὂν ἀεὶ αὐτὸ αὑτῷ",
+          "lemma": null,
+          "location": "604e",
+          "context": "παραπλήσιον ὂν ἀεὶ αὐτὸ αὑτῷ"
+        },
+        {
+          "form": "οὔτε ῥᾴδιον μιμήσασθαι οὔτε μιμουμένου εὐπετὲς καταμαθεῖν",
+          "lemma": null,
+          "location": "604e",
+          "context": "οὔτε ῥᾴδιον μιμήσασθαι οὔτε μιμουμένου εὐπετὲς καταμαθεῖν"
+        }
+      ],
+      "observation": "The prudent and quiet character is always nearly the same as itself, neither easy to imitate nor easy to understand when imitated."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πανηγύρει",
+          "lemma": "πανήγυρις",
+          "location": "604e",
+          "context": "ἄλλως τε καὶ πανηγύρει"
+        },
+        {
+          "form": "παντοδαποῖς ἀνθρώποις",
+          "lemma": null,
+          "location": "604e",
+          "context": "καὶ παντοδαποῖς ἀνθρώποις"
+        },
+        {
+          "form": "εἰς θέατρα συλλεγομένοις",
+          "lemma": null,
+          "location": "604e",
+          "context": "εἰς θέατρα συλλεγομένοις"
+        }
+      ],
+      "observation": "At a festival all kinds of people are gathered into theaters."
+    },
+    {
+      "signal_id": "s028",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "604e",
+          "context": "ἀλλοτρίου γάρ που πάθους ἡ μίμησις αὐτοῖς γίγνεται"
+        }
+      ],
+      "observation": "The imitation becomes of an alien suffering for the audience."
+    },
+    {
+      "signal_id": "s029",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "πέφυκέ",
+          "lemma": "φύω",
+          "location": "605a",
+          "context": "οὐ πρὸς τὸ τοιοῦτον τῆς ψυχῆς πέφυκέ"
+        },
+        {
+          "form": "πέπηγεν",
+          "lemma": "πήγνυμι",
+          "location": "605a",
+          "context": "καὶ ἡ σοφία αὐτοῦ τούτῳ ἀρέσκειν πέπηγεν"
+        }
+      ],
+      "observation": "The mimetic poet is not by nature directed toward the prudent part of soul, and his wisdom is fixed to please the irritable character."
+    },
+    {
+      "signal_id": "s030",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "εἰ μέλλει εὐδοκιμήσειν ἐν τοῖς πολλοῖς",
+          "lemma": null,
+          "location": "605a",
+          "context": "εἰ μέλλει εὐδοκιμήσειν ἐν τοῖς πολλοῖς"
+        },
+        {
+          "form": "διὰ τὸ εὐμίμητον εἶναι",
+          "lemma": null,
+          "location": "605a",
+          "context": "διὰ τὸ εὐμίμητον εἶναι"
+        }
+      ],
+      "observation": "The poet aims at the multitude because the irritable character is easy to imitate."
+    },
+    {
+      "signal_id": "s031",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ζωγράφῳ",
+          "lemma": "ζωγράφος",
+          "location": "605a",
+          "context": "τιθεῖμεν ἀντίστροφον αὐτὸν τῷ ζωγράφῳ"
+        },
+        {
+          "form": "κατὰ τὴν ὄψιν",
+          "lemma": null,
+          "location": "603b",
+          "context": "πότερον, ἦν δʼ ἐγώ, ἡ κατὰ τὴν ὄψιν μόνον"
+        }
+      ],
+      "observation": "The mimetic poet is now set as counterpart to the painter, recalling the earlier reference to vision."
+    },
+    {
+      "signal_id": "s032",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φαῦλα ποιεῖν πρὸς ἀλήθειαν",
+          "lemma": null,
+          "location": "605a",
+          "context": "τῷ φαῦλα ποιεῖν πρὸς ἀλήθειαν"
+        },
+        {
+          "form": "πρὸς ἕτερον τοιοῦτον ὁμιλεῖν τῆς ψυχῆς ἀλλὰ μὴ πρὸς τὸ βέλτιστον",
+          "lemma": null,
+          "location": "605b",
+          "context": "καὶ τῷ πρὸς ἕτερον τοιοῦτον ὁμιλεῖν τῆς ψυχῆς ἀλλὰ μὴ πρὸς τὸ βέλτιστον"
+        }
+      ],
+      "observation": "The poet resembles the painter in making base things in relation to truth and in associating with such a part of soul rather than the best."
+    },
+    {
+      "signal_id": "s033",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰς μέλλουσαν εὐνομεῖσθαι πόλιν",
+          "lemma": null,
+          "location": "605b",
+          "context": "ἐν δίκῃ οὐ παραδεχοίμεθα εἰς μέλλουσαν εὐνομεῖσθαι πόλιν"
+        }
+      ],
+      "observation": "The mimetic poet would justly not be admitted into a city about to be well-governed."
+    },
+    {
+      "signal_id": "s034",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐγείρει",
+          "lemma": "ἐγείρω",
+          "location": "605b",
+          "context": "ὅτι τοῦτο ἐγείρει τῆς ψυχῆς"
+        },
+        {
+          "form": "τρέφει",
+          "lemma": "τρέφω",
+          "location": "605b",
+          "context": "καὶ τρέφει"
+        },
+        {
+          "form": "ἰσχυρὸν ποιῶν",
+          "lemma": null,
+          "location": "605b",
+          "context": "καὶ ἰσχυρὸν ποιῶν"
+        },
+        {
+          "form": "ἀπόλλυσι",
+          "lemma": "ἀπόλλυμι",
+          "location": "605b",
+          "context": "ἀπόλλυσι τὸ λογιστικόν"
+        }
+      ],
+      "observation": "Poetry wakens, nourishes, and makes strong the inferior part of soul, and thereby destroys the rational part."
+    },
+    {
+      "signal_id": "s035",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ἐν πόλει",
+          "lemma": null,
+          "location": "605b",
+          "context": "ὥσπερ ἐν πόλει ὅταν τις μοχθηροὺς ἐγκρατεῖς ποιῶν παραδιδῷ τὴν πόλιν"
+        },
+        {
+          "form": "κακὴν πολιτείαν ἰδίᾳ ἑκάστου τῇ ψυχῇ ἐμποιεῖν",
+          "lemma": null,
+          "location": "605b",
+          "context": "κακὴν πολιτείαν ἰδίᾳ ἑκάστου τῇ ψυχῇ ἐμποιεῖν"
+        }
+      ],
+      "observation": "Just as in a city making base people powerful hands over the city, so the mimetic poet establishes a bad regime in each person's soul."
+    },
+    {
+      "signal_id": "s036",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τῷ ἀνοήτῳ αὐτῆς χαριζόμενον",
+          "lemma": null,
+          "location": "605c",
+          "context": "τῷ ἀνοήτῳ αὐτῆς χαριζόμενον"
+        },
+        {
+          "form": "οὔτε τὰ μείζω οὔτε τὰ ἐλάττω διαγιγνώσκοντι",
+          "lemma": null,
+          "location": "605c",
+          "context": "καὶ οὔτε τὰ μείζω οὔτε τὰ ἐλάττω διαγιγνώσκοντι"
+        },
+        {
+          "form": "τὰ αὐτὰ τοτὲ μὲν μεγάλα ἡγουμένῳ, τοτὲ δὲ σμικρά",
+          "lemma": null,
+          "location": "605c",
+          "context": "ἀλλὰ τὰ αὐτὰ τοτὲ μὲν μεγάλα ἡγουμένῳ, τοτὲ δὲ σμικρά"
+        }
+      ],
+      "observation": "The poet gratifies the mindless part of soul that does not distinguish greater and lesser but sometimes judges the same things great and sometimes small."
+    },
+    {
+      "signal_id": "s037",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἴδωλα εἰδωλοποιοῦντα",
+          "lemma": null,
+          "location": "605c",
+          "context": "εἴδωλα εἰδωλοποιοῦντα"
+        },
+        {
+          "form": "τοῦ δὲ ἀληθοῦς πόρρω πάνυ ἀφεστῶτα",
+          "lemma": null,
+          "location": "605c",
+          "context": "τοῦ δὲ ἀληθοῦς πόρρω πάνυ ἀφεστῶτα"
+        }
+      ],
+      "observation": "The poet makes images and stands very far from truth."
+    },
+    {
+      "signal_id": "s038",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "οὐ μέντοι πω τό γε μέγιστον κατηγορήκαμεν αὐτῆς",
+          "lemma": null,
+          "location": "605c",
+          "context": "οὐ μέντοι πω τό γε μέγιστον κατηγορήκαμεν αὐτῆς"
+        }
+      ],
+      "observation": "Socrates announces they have not yet stated the greatest charge against poetry."
+    },
+    {
+      "signal_id": "s039",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τοὺς ἐπιεικεῖς",
+          "lemma": "ἐπιεικής",
+          "location": "605c",
+          "context": "τὸ γὰρ καὶ τοὺς ἐπιεικεῖς ἱκανὴν εἶναι λωβᾶσθαι"
+        },
+        {
+          "form": "ἐκτὸς πάνυ τινῶν ὀλίγων",
+          "lemma": null,
+          "location": "605c",
+          "context": "ἐκτὸς πάνυ τινῶν ὀλίγων"
+        }
+      ],
+      "observation": "Poetry is able to corrupt even the decent, except for very few."
+    },
+    {
+      "signal_id": "s040",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "Ὁμήρου",
+          "lemma": "Ὅμηρος",
+          "location": "605c",
+          "context": "ἀκροώμενοι Ὁμήρου"
+        },
+        {
+          "form": "ἄλλου τινὸς τῶν τραγῳδοποιῶν",
+          "lemma": null,
+          "location": "605c",
+          "context": "ἢ ἄλλου τινὸς τῶν τραγῳδοποιῶν"
+        }
+      ],
+      "observation": "Homer and the other tragic poets are named as examples."
+    },
+    {
+      "signal_id": "s041",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐν πένθει ὄντα",
+          "lemma": null,
+          "location": "605d",
+          "context": "μιμουμένου τινὰ τῶν ἡρώων ἐν πένθει ὄντα"
+        },
+        {
+          "form": "μακρὰν ῥῆσιν ἀποτείνοντα ἐν τοῖς ὀδυρμοῖς",
+          "lemma": null,
+          "location": "605d",
+          "context": "καὶ μακρὰν ῥῆσιν ἀποτείνοντα ἐν τοῖς ὀδυρμοῖς"
+        },
+        {
+          "form": "ᾄδοντάς τε καὶ κοπτομένους",
+          "lemma": null,
+          "location": "605d",
+          "context": "ἢ καὶ ᾄδοντάς τε καὶ κοπτομένους"
+        }
+      ],
+      "observation": "The poets imitate one of the heroes in grief, delivering a long speech in lamentations, or singing and beating themselves."
+    },
+    {
+      "signal_id": "s042",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χαίρομέν",
+          "lemma": "χαίρω",
+          "location": "605d",
+          "context": "οἶσθʼ ὅτι χαίρομέν τε"
+        },
+        {
+          "form": "ἐνδόντες ἡμᾶς αὐτοὺς ἑπόμεθα συμπάσχοντες",
+          "lemma": null,
+          "location": "605d",
+          "context": "καὶ ἐνδόντες ἡμᾶς αὐτοὺς ἑπόμεθα συμπάσχοντες"
+        },
+        {
+          "form": "σπουδάζοντες ἐπαινοῦμεν",
+          "lemma": null,
+          "location": "605d",
+          "context": "καὶ σπουδάζοντες ἐπαινοῦμεν"
+        }
+      ],
+      "observation": "The best listeners rejoice, give themselves over, follow along suffering together, and earnestly praise the poet."
+    },
+    {
+      "signal_id": "s043",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὅταν δὲ οἰκεῖόν τινι ἡμῶν κῆδος γένηται",
+          "lemma": null,
+          "location": "605d",
+          "context": "ὅταν δὲ οἰκεῖόν τινι ἡμῶν κῆδος γένηται"
+        },
+        {
+          "form": "ἐπὶ τῷ ἐναντίῳ καλλωπιζόμεθα",
+          "lemma": null,
+          "location": "605d",
+          "context": "ἐννοεῖς αὖ ὅτι ἐπὶ τῷ ἐναντίῳ καλλωπιζόμεθα"
+        }
+      ],
+      "observation": "When our own grief occurs, we pride ourselves on the opposite behavior."
+    },
+    {
+      "signal_id": "s044",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἡσυχίαν ἄγειν καὶ καρτερεῖν",
+          "lemma": null,
+          "location": "605e",
+          "context": "ἂν δυνώμεθα ἡσυχίαν ἄγειν καὶ καρτερεῖν"
+        },
+        {
+          "form": "τοῦτο μὲν ἀνδρὸς ὄν, ἐκεῖνο δὲ γυναικός",
+          "lemma": null,
+          "location": "605e",
+          "context": "ὡς τοῦτο μὲν ἀνδρὸς ὄν, ἐκεῖνο δὲ γυναικός"
+        }
+      ],
+      "observation": "Keeping quiet and enduring is considered belonging to a man, while the earlier praised behavior is considered belonging to a woman."
+    },
+    {
+      "signal_id": "s045",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁρῶντα τοιοῦτον ἄνδρα, οἷον ἑαυτόν τις μὴ ἀξιοῖ εἶναι ἀλλʼ αἰσχύνοιτο ἄν",
+          "lemma": null,
+          "location": "605e",
+          "context": "τὸ ὁρῶντα τοιοῦτον ἄνδρα, οἷον ἑαυτόν τις μὴ ἀξιοῖ εἶναι ἀλλʼ αἰσχύνοιτο ἄν"
+        },
+        {
+          "form": "μὴ βδελύττεσθαι ἀλλὰ χαίρειν τε καὶ ἐπαινεῖν",
+          "lemma": null,
+          "location": "605e",
+          "context": "μὴ βδελύττεσθαι ἀλλὰ χαίρειν τε καὶ ἐπαινεῖν"
+        }
+      ],
+      "observation": "Socrates questions the propriety of seeing such a man (whom one would not consider oneself to be but would be ashamed) and not being disgusted but rejoicing and praising."
+    },
+    {
+      "signal_id": "s046",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τὸ βίᾳ κατεχόμενον",
+          "lemma": null,
+          "location": "606a",
+          "context": "τὸ βίᾳ κατεχόμενον τότε ἐν ταῖς οἰκείαις συμφοραῖς"
+        },
+        {
+          "form": "πεπεινηκὸς τοῦ δακρῦσαί τε καὶ ἀποδύρασθαι ἱκανῶς καὶ ἀποπλησθῆναι",
+          "lemma": null,
+          "location": "606a",
+          "context": "καὶ πεπεινηκὸς τοῦ δακρῦσαί τε καὶ ἀποδύρασθαι ἱκανῶς καὶ ἀποπλησθῆναι"
+        },
+        {
+          "form": "φύσει ὂν τοιοῦτον οἷον τούτων ἐπιθυμεῖν",
+          "lemma": null,
+          "location": "606a",
+          "context": "φύσει ὂν τοιοῦτον οἷον τούτων ἐπιθυμεῖν"
+        }
+      ],
+      "observation": "What is forcibly held back in our own misfortunes, hungering to weep and lament sufficiently and be filled, is by nature such as to desire these things."
+    },
+    {
+      "signal_id": "s047",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ὑπὸ τῶν ποιητῶν πιμπλάμενον καὶ χαῖρον",
+          "lemma": null,
+          "location": "606a",
+          "context": "τότʼ ἐστὶν τοῦτο τὸ ὑπὸ τῶν ποιητῶν πιμπλάμενον καὶ χαῖρον"
+        }
+      ],
+      "observation": "This hungering part is what is filled by the poets and rejoices."
+    },
+    {
+      "signal_id": "s048",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τὸ δὲ φύσει βέλτιστον ἡμῶν",
+          "lemma": null,
+          "location": "606a",
+          "context": "τὸ δὲ φύσει βέλτιστον ἡμῶν"
+        },
+        {
+          "form": "οὐχ ἱκανῶς πεπαιδευμένον λόγῳ οὐδὲ ἔθει",
+          "lemma": null,
+          "location": "606a",
+          "context": "ἅτε οὐχ ἱκανῶς πεπαιδευμένον λόγῳ οὐδὲ ἔθει"
+        },
+        {
+          "form": "ἀνίησιν τὴν φυλακὴν τοῦ θρηνώδους τούτου",
+          "lemma": null,
+          "location": "606b",
+          "context": "ἀνίησιν τὴν φυλακὴν τοῦ θρηνώδους τούτου"
+        }
+      ],
+      "observation": "The naturally best part of us, not having been sufficiently educated by reason or habit, relaxes its guard over this lamenting part."
+    },
+    {
+      "signal_id": "s049",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀλλότρια πάθη",
+          "lemma": null,
+          "location": "606b",
+          "context": "ἅτε ἀλλότρια πάθη θεωροῦν"
+        },
+        {
+          "form": "ἀλλοτρίου",
+          "lemma": "ἀλλότριος",
+          "location": "604e",
+          "context": "ἀλλοτρίου γάρ που πάθους ἡ μίμησις αὐτοῖς γίγνεται"
+        }
+      ],
+      "observation": "Forms of ἀλλότριος recur: the guard relaxes because it is viewing alien sufferings, recalling the earlier statement about alien suffering."
+    },
+    {
+      "signal_id": "s050",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἑαυτῷ οὐδὲν αἰσχρὸν ὄν",
+          "lemma": null,
+          "location": "606b",
+          "context": "καὶ ἑαυτῷ οὐδὲν αἰσχρὸν ὂν"
+        },
+        {
+          "form": "εἰ ἄλλος ἀνὴρ ἀγαθὸς φάσκων εἶναι ἀκαίρως πενθεῖ, τοῦτον ἐπαινεῖν καὶ ἐλεεῖν",
+          "lemma": null,
+          "location": "606b",
+          "context": "εἰ ἄλλος ἀνὴρ ἀγαθὸς φάσκων εἶναι ἀκαίρως πενθεῖ, τοῦτον ἐπαινεῖν καὶ ἐλεεῖν"
+        }
+      ],
+      "observation": "It is nothing shameful for oneself if another man claiming to be good grieves unseasonably, to praise and pity him."
+    },
+    {
+      "signal_id": "s051",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐκεῖνο κερδαίνειν ἡγεῖται, τὴν ἡδονήν",
+          "lemma": null,
+          "location": "606b",
+          "context": "ἀλλʼ ἐκεῖνο κερδαίνειν ἡγεῖται, τὴν ἡδονήν"
+        },
+        {
+          "form": "οὐκ ἂν δέξαιτο αὐτῆς στερηθῆναι",
+          "lemma": null,
+          "location": "606b",
+          "context": "καὶ οὐκ ἂν δέξαιτο αὐτῆς στερηθῆναι"
+        }
+      ],
+      "observation": "The best part considers it gains the pleasure and would not accept being deprived of it by despising the whole poem."
+    },
+    {
+      "signal_id": "s052",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λογίζεσθαι γὰρ οἶμαι ὀλίγοις τισὶν μέτεστιν",
+          "lemma": null,
+          "location": "606b",
+          "context": "λογίζεσθαι γὰρ οἶμαι ὀλίγοις τισὶν μέτεστιν"
+        }
+      ],
+      "observation": "Socrates says few people have a share in reasoning about this."
+    },
+    {
+      "signal_id": "s053",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπολαύειν ἀνάγκη ἀπὸ τῶν ἀλλοτρίων εἰς τὰ οἰκεῖα",
+          "lemma": null,
+          "location": "606b",
+          "context": "ὅτι ἀπολαύειν ἀνάγκη ἀπὸ τῶν ἀλλοτρίων εἰς τὰ οἰκεῖα"
+        },
+        {
+          "form": "θρέψαντα γὰρ ἐν ἐκείνοις ἰσχυρὸν τὸ ἐλεινὸν",
+          "lemma": null,
+          "location": "606b",
+          "context": "θρέψαντα γὰρ ἐν ἐκείνοις ἰσχυρὸν τὸ ἐλεινὸν"
+        },
+        {
+          "form": "οὐ ῥᾴδιον ἐν τοῖς αὑτοῦ πάθεσι κατέχειν",
+          "lemma": null,
+          "location": "606b",
+          "context": "οὐ ῥᾴδιον ἐν τοῖς αὑτοῦ πάθεσι κατέχειν"
+        }
+      ],
+      "observation": "There is necessity to profit from alien sufferings into one's own; having nourished the pitiable strong in those cases, it is not easy to restrain in one's own sufferings."
+    },
+    {
+      "signal_id": "s054",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὁ αὐτὸς λόγος καὶ περὶ τοῦ γελοίου",
+          "lemma": null,
+          "location": "606c",
+          "context": "ἆρʼ οὖν οὐχ ὁ αὐτὸς λόγος καὶ περὶ τοῦ γελοίου"
+        }
+      ],
+      "observation": "The same argument applies concerning the laughable."
+    },
+    {
+      "signal_id": "s055",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἃν αὐτὸς αἰσχύνοιο γελωτοποιῶν",
+          "lemma": null,
+          "location": "606c",
+          "context": "ἃν αὐτὸς αἰσχύνοιο γελωτοποιῶν"
+        },
+        {
+          "form": "ἐν μιμήσει δὲ κωμῳδικῇ ἢ καὶ ἰδίᾳ ἀκούων σφόδρα χαρῇς",
+          "lemma": null,
+          "location": "606c",
+          "context": "ἐν μιμήσει δὲ κωμῳδικῇ ἢ καὶ ἰδίᾳ ἀκούων σφόδρα χαρῇς"
+        }
+      ],
+      "observation": "What you yourself would be ashamed to make laughable, in comic imitation or privately hearing you rejoice greatly."
+    },
+    {
+      "signal_id": "s056",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὃ γὰρ τῷ λόγῳ αὖ κατεῖχες ἐν σαυτῷ βουλόμενον γελωτοποιεῖν",
+          "lemma": null,
+          "location": "606c",
+          "context": "ὃ γὰρ τῷ λόγῳ αὖ κατεῖχες ἐν σαυτῷ βουλόμενον γελωτοποιεῖν"
+        },
+        {
+          "form": "φοβούμενος δόξαν βωμολοχίας",
+          "lemma": null,
+          "location": "606c",
+          "context": "φοβούμενος δόξαν βωμολοχίας"
+        },
+        {
+          "form": "τότʼ αὖ ἀνιεῖς",
+          "lemma": "ἀνίημι",
+          "location": "606c",
+          "context": "τότʼ αὖ ἀνιεῖς"
+        }
+      ],
+      "observation": "What you held back by reason in yourself wanting to make laughter, fearing a reputation for buffoonery, you then release."
+    },
+    {
+      "signal_id": "s057",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐκεῖ νεανικὸν ποιήσας",
+          "lemma": null,
+          "location": "606c",
+          "context": "καὶ ἐκεῖ νεανικὸν ποιήσας"
+        },
+        {
+          "form": "ἔλαθες πολλάκις ἐν τοῖς οἰκείοις ἐξενεχθεὶς ὥστε κωμῳδοποιὸς γενέσθαι",
+          "lemma": null,
+          "location": "606c",
+          "context": "ἔλαθες πολλάκις ἐν τοῖς οἰκείοις ἐξενεχθεὶς ὥστε κωμῳδοποιὸς γενέσθαι"
+        }
+      ],
+      "observation": "Having made it vigorous there, you often escaped notice being carried away in your own affairs so as to become a comic poet."
+    },
+    {
+      "signal_id": "s058",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "περὶ ἀφροδισίων",
+          "lemma": "ἀφροδίσιος",
+          "location": "606d",
+          "context": "καὶ περὶ ἀφροδισίων δὴ"
+        },
+        {
+          "form": "καὶ θυμοῦ",
+          "lemma": "θυμός",
+          "location": "606d",
+          "context": "καὶ θυμοῦ"
+        },
+        {
+          "form": "καὶ περὶ πάντων τῶν ἐπιθυμητικῶν τε καὶ λυπηρῶν καὶ ἡδέων ἐν τῇ ψυχῇ",
+          "lemma": null,
+          "location": "606d",
+          "context": "καὶ περὶ πάντων τῶν ἐπιθυμητικῶν τε καὶ λυπηρῶν καὶ ἡδέων ἐν τῇ ψυχῇ"
+        }
+      ],
+      "observation": "The same applies concerning aphrodisiac matters, spiritedness, and all desirous, painful, and pleasant things in the soul."
+    },
+    {
+      "signal_id": "s059",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἃ δή φαμεν πάσῃ πράξει ἡμῖν ἕπεσθαι",
+          "lemma": null,
+          "location": "606d",
+          "context": "ἃ δή φαμεν πάσῃ πράξει ἡμῖν ἕπεσθαι"
+        }
+      ],
+      "observation": "These things are said to accompany every action of ours."
+    },
+    {
+      "signal_id": "s060",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τρέφει γὰρ ταῦτα ἄρδουσα",
+          "lemma": null,
+          "location": "606d",
+          "context": "τρέφει γὰρ ταῦτα ἄρδουσα"
+        },
+        {
+          "form": "δέον αὐχμεῖν",
+          "lemma": "αὐχμέω",
+          "location": "606d",
+          "context": "δέον αὐχμεῖν"
+        }
+      ],
+      "observation": "Poetic imitation nourishes these things by watering them when they ought to be parched."
+    },
+    {
+      "signal_id": "s061",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχοντα ἡμῖν καθίστησιν",
+          "lemma": null,
+          "location": "606d",
+          "context": "καὶ ἄρχοντα ἡμῖν καθίστησιν"
+        },
+        {
+          "form": "δέον ἄρχεσθαι αὐτὰ",
+          "lemma": null,
+          "location": "606d",
+          "context": "δέον ἄρχεσθαι αὐτὰ"
+        }
+      ],
+      "observation": "Poetic imitation establishes them as ruler over us when they ought to be ruled."
+    },
+    {
+      "signal_id": "s062",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἵνα βελτίους τε καὶ εὐδαιμονέστεροι",
+          "lemma": null,
+          "location": "606d",
+          "context": "ἵνα βελτίους τε καὶ εὐδαιμονέστεροι ... γιγνώμεθα"
+        },
+        {
+          "form": "ἀντὶ χειρόνων καὶ ἀθλιωτέρων",
+          "lemma": null,
+          "location": "606d",
+          "context": "ἀντὶ χειρόνων καὶ ἀθλιωτέρων γιγνώμεθα"
+        }
+      ],
+      "observation": "These things ought to be ruled so that we become better and happier instead of worse and more wretched."
+    }
+  ]
+}
