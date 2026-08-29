@@ -1,0 +1,198 @@
+{
+  "section_id": "republic-chapter-04-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s012"
+      ],
+      "observation": "`s001` records Leontius ascending out of the Piraeus; `s012` places corpses beside the public executioner. The upward movement passes the execution site, grounding the spatial configuration of the conflict."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s007"
+      ],
+      "observation": "`s002` clusters seeing terms through the Leontius episode; `s007` records Leontius addressing his eyes as κακοδαίμονες. The command to look occurs after forcibly opening the eyes, completing the sequence of resistance and surrender documented in the visual cluster."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "`s006` records simultaneous desire and aversion resolved by desire's victory; `s007` preserves Leontius's self-address. The ironic command 'be filled with the fine spectacle' follows immediately upon being overpowered, speaking as if to another agent."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s009"
+      ],
+      "observation": "`s005` clusters military terms applied to intra-psychic conflict; `s009` contrasts active and passive forms of ἀδικέω. The military vocabulary (ally, war, faction) accompanies the paired scenarios where thumos fights alongside or against different parts depending on the justice of the situation."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s016"
+      ],
+      "observation": "`s009` contrasts believing oneself to act unjustly with believing oneself wronged; `s016` names three outcomes for spirited endurance. When one believes oneself wronged, thumos endures hunger, cold, and suffering until accomplishing, dying, or being recalled—outcomes absent from the first scenario."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s010"
+      ],
+      "observation": "`s008` records the dog-shepherd simile stated for soul then mapped to city; `s010` places city's three classes beside soul's three parts. Both passages move from psychic structure to political structure, with ἐπίκουρον naming both the auxiliary class and thumos's role."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s015"
+      ],
+      "observation": "`s013` traces the λόγος family including ἀναλογισάμενον and ἀλογίστως; `s015` quotes Homer's verse where one part rebukes another. The Homeric τὸ ἀναλογισάμενον names the faculty that struck the heart, opposed to τῷ ἀλογίστως θυμουμένῳ."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s014"
+      ],
+      "observation": "`s011` moves ἀκούω from hearsay about Leontius to Glaucon's confirmation, and αἰσθάνομαι from physical perception to inner perception; `s014` cites children and beasts as visible evidence. The section moves from reported anecdote through introspective confirmation to observable external evidence."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "`s003` traces ἐπιθυμία from Leontius's concrete desire through the force that overcomes him to the faculty under discussion; `s004` traces θυμός through parallel stages. Both word families move from narrative exemplification to abstract partition of soul."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s015"
+      ],
+      "observation": "`s007` records Leontius addressing his eyes as separate agents; `s015` cites Odysseus striking his breast and rebuking his heart. Both passages enact internal division through speech directed at a body part."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s013"
+      ],
+      "observation": "`s002` clusters seeing vocabulary culminating in θεάματος; `s013` includes λογισμός and ἀλογίστως. Leontius's episode demonstrates desire acting παρὰ τὸν λογισμόν through the forced opening of eyes for a θέαμα, concretizing the opposition later formulated abstractly."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "`s005` clusters military terms including σύμμαχον and ὅπλα; `s008` presents thumos recalled by logos like a dog by a shepherd. The military alliance vocabulary (thumos as σύμμαχον taking up ὅπλα) is juxtaposed with the pastoral image of recall and calming."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s014"
+      ],
+      "observation": "`s010` aligns city's three classes with soul's three parts; `s014` cites children and beasts. The tripartite division supported by political analogy is then supported by developmental and cross-species observation—children full of thumos from birth, some never partaking of λογισμός."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τέως μὲν μάχοιτό τε καὶ παρακαλύπτοιτο",
+          "lemma": null,
+          "location": "439e",
+          "context": "Leontius's initial resistance"
+        },
+        {
+          "form": "κρατούμενος δʼ οὖν",
+          "lemma": null,
+          "location": "440a",
+          "context": "being overpowered"
+        },
+        {
+          "form": "προσδραμὼν",
+          "lemma": "προστρέχω",
+          "location": "440a",
+          "context": "running toward the corpses"
+        }
+      ],
+      "observation": "The sequence τέως μέν (for a while), κρατούμενος δʼ οὖν (but then being overpowered), προσδραμών (running forward) marks temporal stages of the conflict's resolution."
+    },
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "οἴηται",
+          "lemma": "οἴομαι",
+          "location": "440c",
+          "context": "ὅταν τις οἴηται ἀδικεῖν"
+        },
+        {
+          "form": "ἡγῆται",
+          "lemma": "ἡγέομαι",
+          "location": "440c",
+          "context": "ὅταν ἀδικεῖσθαί τις ἡγῆται"
+        }
+      ],
+      "observation": "οἴηται introduces the first scenario (believing oneself to be acting unjustly); ἡγῆται introduces the second (believing oneself wronged). Both verbs of belief govern the contrasted responses of thumos."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γενναιότερος",
+          "lemma": "γενναῖος",
+          "location": "440c",
+          "context": "ὅσῳ ἂν γενναιότερος ᾖ"
+        },
+        {
+          "form": "τῶν γενναίων",
+          "lemma": "γενναῖος",
+          "location": "440d",
+          "context": "οὐ λήγει τῶν γενναίων"
+        }
+      ],
+      "observation": "γενναῖος appears first as a comparative qualifying resistance to anger when one believes oneself acting unjustly, then as a substantive naming the noble actions thumos sustains when one believes oneself wronged."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "πεινῆν καὶ…ῥιγοῦν",
+          "lemma": null,
+          "location": "440c-d",
+          "context": "enduring hunger and cold appears in both scenarios"
+        }
+      ],
+      "observation": "The pair πεινῆν καὶ ῥιγοῦν (and variants πεινῶν καὶ ῥιγῶν) recurs across both the scenario where thumos does not arise against just suffering and where it fights alongside what seems just despite suffering."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐθὺς γενόμενα",
+          "lemma": null,
+          "location": "441a",
+          "context": "θυμοῦ μὲν εὐθὺς γενόμενα μεστά ἐστι"
+        },
+        {
+          "form": "ὀψέ ποτε",
+          "lemma": null,
+          "location": "441b",
+          "context": "οἱ δὲ πολλοὶ ὀψέ ποτε (of λογισμός)"
+        }
+      ],
+      "observation": "εὐθὺς γενόμενα (immediately upon birth) contrasts with ὀψέ ποτε (late, if ever) in the developmental claim: children are full of thumos from the start, but partake of logos only late or not at all."
+    }
+  ]
+}
