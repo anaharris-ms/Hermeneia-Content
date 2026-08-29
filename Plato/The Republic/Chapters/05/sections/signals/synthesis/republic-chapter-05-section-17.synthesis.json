@@ -1,0 +1,196 @@
+{
+  "section_id": "republic-chapter-05-section-17",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s014"
+      ],
+      "observation": "`s001` records μεταξύ recurring six times, framing the spatial placement of δόξα. `s014` marks ζητητέον at 477a (what must be sought between) and πέφανται at 478d (it has appeared). The dense recurrence of μεταξύ holds open the space that ζητητέον names as missing and πέφανται declares filled."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s016"
+      ],
+      "observation": "`s002` records the δύναμις word-family recurring seven times. `s016` records ἀπεργάζομαι recurring three times as part of the criterion distinguishing δυνάμεις: what a power is set over and what it accomplishes. The two recurrences together articulate the double criterion by which ἐπιστήμη and δόξα are separated."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s006",
+        "s007"
+      ],
+      "observation": "`s003` records the triadic contrast among ἐπιστήμη, δόξα, and ἄγνοια. `s006` characterizes δόξα as darker than γνῶσις and brighter than ἄγνοια. `s007` denies that δόξα exceeds γνῶσις in clarity or ἄγνοια in obscurity. The three signals place δόξα between the other two by a double negation of boundary-crossing paired with a double comparative of light."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s015"
+      ],
+      "observation": "`s004` names sight and hearing as examples of δυνάμεις, then names color and shape as visible features that δύναμις lacks. `s015` records three seeing-verbs in the same passage: ὁρῶ (δύναμις has no visible χρόα), ἀποβλέπων (looking toward visible features to distinguish other things), βλέπω (looking only at what a power is set over). The cluster of sensory terms and seeing-verbs occurs in denying that δύναμις can be identified by visible form."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s017"
+      ],
+      "observation": "`s005` contrasts ἀναμάρτητον (ἐπιστήμη) and μὴ ἀναμαρτήτῳ (δόξα) in immediate juxtaposition. `s017` calls ἐπιστήμη ἐρρωμενεστάτην, the strongest of all δυνάμεις. Both signals characterize ἐπιστήμη by a superlative or absolute qualifier that δόξα is denied."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s010"
+      ],
+      "observation": "`s008` records the γιγνώσκω/γνῶσις family across five forms linked to τὸ ὄν. `s009` records the δοξάζω/δόξα family across four forms. `s010` records the verbal adjectives γνωστόν and δοξαστόν placed in direct syntactic parallel at 478a, then immediately denied identity. The two lexical families run in parallel morphological variation, meet in a paired verbal-adjective construction, and are separated there."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s012"
+      ],
+      "observation": "`s001` records μεταξύ recurring six times. `s012` records spatial-placement verbs and prepositions: κέοιτο, τέτακται, κεῖται, ἐκτός, ἐντός. The two signals articulate δόξα's position by repeated naming of the between-space and by verbs and prepositions of lying, being stationed, inside, and outside."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s014"
+      ],
+      "observation": "`s011` records πέφυκε twice for the natural assignment of each δύναμις to its object, then πέφανται at 478d for the appearance of δόξα. `s014` records ζητητέον at the opening and πέφανται at the close. Both πέφυκε (natural placement) and πέφανται (having appeared) are perfect forms; the shift from φύω to φαίνω accompanies the shift from the criterion (natural assignment) to the conclusion (the sought-for item has appeared)."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s001"
+      ],
+      "observation": "`s013` records εἰλικρινῶς ὄντος appearing at 477a and returning at 478d, while its opposite shifts from μηδαμῇ ὄντος to πάντως μὴ ὄντος. `s001` records μεταξύ framing both passages. The phrase naming one boundary recurs exactly; the phrase naming the other boundary varies; μεταξύ recurs in both, holding the position constant while one term of the contrast shifts."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s015"
+      ],
+      "observation": "`s006` contrasts σκοτωδέστερον (darker than knowledge) and φανότερον (brighter than ignorance). `s015` records three seeing-verbs (ὁρῶ, ἀποβλέπων, βλέπω) clustered in the account of how δύναμις is identified. The light/dark contrast characterizing δόξα and the cluster of seeing-verbs both occur in passages defining epistemic relations, but the seeing-verbs deny visible identification while the light/dark terms affirm a comparative placement."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὄντος",
+          "lemma": "εἰμί",
+          "location": "477a",
+          "context": "τοῦ εἰλικρινῶς ὄντος"
+        },
+        {
+          "form": "ὄντος",
+          "lemma": "εἰμί",
+          "location": "477a",
+          "context": "τοῦ αὖ μηδαμῇ ὄντος"
+        },
+        {
+          "form": "ὄντι",
+          "lemma": "εἰμί",
+          "location": "477a",
+          "context": "ἐπὶ μὲν τῷ ὄντι γνῶσις ἦν"
+        },
+        {
+          "form": "ὂν",
+          "lemma": "εἰμί",
+          "location": "477b",
+          "context": "γνῶναι ὡς ἔστι τὸ ὄν"
+        },
+        {
+          "form": "ὄντος",
+          "lemma": "εἰμί",
+          "location": "478d",
+          "context": "τοῦ εἰλικρινῶς ὄντος"
+        },
+        {
+          "form": "ὄντος",
+          "lemma": "εἰμί",
+          "location": "478d",
+          "context": "τοῦ πάντως μὴ ὄντος"
+        }
+      ],
+      "observation": "τὸ ὄν recurs in multiple cases as the object of γνῶσις/ἐπιστήμη, paired throughout with negated forms (μὴ ὄν, μηδαμῇ ὄντος, πάντως μὴ ὄντος) marking the opposite boundary."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἐφʼ ᾧ τε ἔστι",
+          "lemma": null,
+          "location": "477d",
+          "context": "εἰς ἐκεῖνο μόνον βλέπω ἐφʼ ᾧ τε ἔστι καὶ ὃ ἀπεργάζεται"
+        },
+        {
+          "form": "ὃ ἀπεργάζεται",
+          "lemma": null,
+          "location": "477d",
+          "context": null
+        }
+      ],
+      "observation": "ἐφʼ ᾧ τε ἔστι καὶ ὃ ἀπεργάζεται pairs two relative clauses in τε...καί construction, naming the double criterion for distinguishing δυνάμεις: what a power is set over and what it accomplishes."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "478a",
+          "context": "ἢ ἀδύνατον"
+        },
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "478a",
+          "context": "ἀδύνατον, ἔφη, ἐκ τῶν ὡμολογημένων"
+        },
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "478b",
+          "context": "ἢ ἀδύνατον καὶ δοξάσαι τό γε μὴ ὄν"
+        },
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "478b",
+          "context": "ἀδύνατον"
+        }
+      ],
+      "observation": "ἀδύνατον recurs four times in close sequence at 478a-b, denying that γνωστόν and δοξαστόν are the same, denying that δόξα is over τὸ μὴ ὄν, and denying that one can δοξάζειν without δοξάζειν something."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἐπʼ ἄλλῳ ἄλλη δύναμις πέφυκεν",
+          "lemma": null,
+          "location": "478a",
+          "context": "εἴπερ ἐπʼ ἄλλῳ ἄλλη δύναμις πέφυκεν"
+        },
+        {
+          "form": "ἐπʼ ἄλλῳ ἄρα τέτακται δόξα καὶ ἐπʼ ἄλλῳ ἐπιστήμη",
+          "lemma": null,
+          "location": "477b",
+          "context": null
+        }
+      ],
+      "observation": "ἐπʼ ἄλλῳ ἄλλη δύναμις recurs as the principle that each power is naturally set over a different object, first stated at 477b as ἐπʼ ἄλλῳ...ἐπʼ ἄλλῳ for δόξα and ἐπιστήμη, then restated at 478a as a conditional premise in the final argument."
+    }
+  ]
+}
