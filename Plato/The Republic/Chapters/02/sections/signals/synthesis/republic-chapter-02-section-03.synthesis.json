@@ -1,0 +1,186 @@
+{
+  "section_id": "republic-chapter-02-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s014"
+      ],
+      "observation": "δόξα and δοκεῖν recur densely across the section (`s001`), always in proximity to the contrast between justice itself and its external consequences (`s014`): fathers praise not αὐτὸ δικαιοσύνην but τὰς ἀπʼ αὐτῆς εὐδοκιμήσεις (363a), the young man reasons from τὸ δοκεῖν (365c), and Adeimantus demands that Socrates remove δόξας and praise what justice does αὐτὴ διʼ αὑτήν (367b–d)."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s015"
+      ],
+      "observation": "πείθω recurs across changing agents (`s002`) and is locally paired with βιάζομαι as alternatives (`s003`). Begging priests πείθουσι the gods to serve them (364b–c), the young man plans τὰ μὲν πείσομεν, τὰ δὲ βιασόμεθα (365d), and the same pair (θυσίαις τε καὶ εὐχωλαῖς) that Homer says παρατρωπῶσι the gods (`s015`, 364d–e) recurs as the means by which priests claim the gods παράγεσθαι (365e)."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s014"
+      ],
+      "observation": "λανθάνω recurs as the practical problem of escaping notice (`s004`), and the final two occurrences (366e, 367e) appear in Adeimantus' demand that Socrates show what justice does αὐτὴ διʼ αὑτήν whether or not it escapes notice of gods and humans—bringing the λανθάνειν problem into direct relation with the αὐτό / consequences contrast (`s014`)."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s014"
+      ],
+      "observation": "μισθός appears for the rewards poets promise (363d, twice) and returns at 367d where Adeimantus tells Socrates to leave μισθούς and δόξας to others and praise what justice does αὐτὴ διʼ αὑτήν—placing μισθούς on the same side as δόξας in the contrast with justice itself."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "The Hesiod and Homer quotations concentrate concrete natural abundance—acorns, bees, sheep, grain, fruit, fish (`s007`, 363b–c)—and this earthly catalogue is immediately followed by Musaeus' otherworldly rewards and punishments (`s008`): eternal drunkenness versus mud and sieve."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s008",
+        "s016"
+      ],
+      "observation": "Hades appears three times (`s006`): the just banquet (363c), the unjust buried in mud (363d), and paying penalty (366a). The τελεταί (`s016`) that purify the dead (365a) return as the young man's answer to the Hades penalty (366a), completing a sequence in which initiation rites displace the earlier punishments and rewards."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s017"
+      ],
+      "observation": "Two roads from Hesiod (`s009`)—the smooth nearby path to vice, the long uphill road to virtue preceded by sweat—are answered by the young man's architectural and animal plan (`s017`): a painted facade (σκιαγραφία ἀρετῆς) as the visible entrance and Archilochus' crafty fox dragged behind. The road imagery is transferred from destination to deceptive surface."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s019"
+      ],
+      "observation": "πείθω recurs in descriptions of priests persuading the gods and the young man persuading or forcing others (`s002`), then returns in the counterfactual at 367a: if elders had ἐπείθετε the young from childhood about justice itself, each would be his own best φύλαξ rather than guarding one another externally (`s019`)—the failure of persuasion produces the need for external surveillance."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s014"
+      ],
+      "observation": "ἐπαινέω recurs throughout: others ἐπαινοῦσιν justice but οὐκ αὐτὸ δικαιοσύνην (362e, 363a), no one has ever ἐπῄνεσεν justice except for reputation (366e), and Adeimantus commands Socrates ἐπαίνεσον what justice does αὐτὴ διʼ αὑτήν (367d). The verb for praising tracks the same contrast between justice itself and its external results."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s015"
+      ],
+      "observation": "Six poets are named as authorities (`s013`), and five of them (Hesiod, Homer, Musaeus, Orpheus in 363a–364e, plus the genealogical poets at 365e) are cited for their accounts of divine rewards, punishments, or persuasion through θυσίαι (`s015`). Pindar and Archilochus (365b–c) appear only in the young man's monologue, not in the fathers' or priests' speech."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s018"
+      ],
+      "observation": "Socrates invokes the proverb ἀδελφὸς ἀνδρὶ παρείη immediately after naming Adeimantus as Glaucon's ἀδελφός (`s010`, 362d), and Adeimantus responds by announcing that the most essential point has not been stated and must be traversed (`s018`). The proverb introduces the brother who will supply what was ἐλλείπει."
+    },
+    {
+      "signal_ids": [
+        "s020",
+        "s016"
+      ],
+      "observation": "The pair ζῶντες / τελευτήσαντες appears twice (`s020`): τελεταί avail both living and dead (365a), and the unjust life with reputation succeeds both living and dead (366b). Both occurrences place initiation rites or reputational strategy on both sides of death."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "τὸ δοκεῖν βιᾶται truth (365c), and immediately after, the young man reasons about λανθάνειν: if escaping notice is difficult, we will nonetheless πείσομεν or βιασόμεθα (365d). The force that appearance exerts on truth becomes the force the young man plans to exert on others, with persuasion as the alternative to both."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s011"
+      ],
+      "observation": "Socrates describes Glaucon's argument as sufficient to καταπαλαῖσαι him and render him ἀδύνατον to defend justice (`s011`, 362d). Adeimantus then supplies the missing λόγοι about δόξα (`s001`), and the section ends with Adeimantus demanding Socrates show what justice does whether or not it escapes notice—the wrestling defeat is answered by an extension that intensifies the δόξα / reality problem rather than withdrawing it."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s022"
+      ],
+      "observation": "Adeimantus lists seeing, hearing, thinking, and being healthy as goods valuable τῇ αὑτῶν φύσει (`s021`, 367c–d), and earlier he named θεία φύσις as one of only two reasons someone would avoid injustice (`s022`, 366c). φύσις appears both for the class of intrinsic goods to which justice should belong and for the divine exception that makes someone just."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νέων",
+          "lemma": "νέος",
+          "location": "365a",
+          "context": "τί οἰόμεθα ἀκουούσας νέων ψυχὰς ποιεῖν"
+        },
+        {
+          "form": "ἐκ νέων",
+          "lemma": "νέος",
+          "location": "367a",
+          "context": "ἐκ νέων ἡμᾶς ἐπείθετε"
+        }
+      ],
+      "observation": "νέων appears twice in Adeimantus' speech: first asking what young souls do when they hear all these accounts (365a), then in the counterfactual saying that if elders had persuaded ἐκ νέων, each would guard himself (367a)."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἰδίᾳ",
+          "lemma": "ἴδιος",
+          "location": "363e",
+          "context": "ἄλλο αὖ εἶδος λόγων... ἰδίᾳ τε λεγόμενον"
+        },
+        {
+          "form": "δημοσίᾳ τε καὶ ἰδίᾳ",
+          "lemma": null,
+          "location": "364a",
+          "context": "εὐχερῶς ἐθέλουσιν δημοσίᾳ τε καὶ ἰδίᾳ"
+        },
+        {
+          "form": "ἰδιώτας",
+          "lemma": "ἰδιώτης",
+          "location": "364e",
+          "context": "πείθοντες οὐ μόνον ἰδιώτας ἀλλὰ καὶ πόλεις"
+        },
+        {
+          "form": "ἰδίοις λόγοις",
+          "lemma": "ἴδιος",
+          "location": "366e",
+          "context": "οὔτʼ ἐν ποιήσει οὔτʼ ἐν ἰδίοις λόγοις"
+        }
+      ],
+      "observation": "ἴδιος and its cognates appear four times: the λόγοι are spoken ἰδίᾳ as well as by poets (363e), the wicked rich are honored δημοσίᾳ τε καὶ ἰδίᾳ (364a), begging priests persuade ἰδιώτας and πόλεις (364e), and no one has treated justice adequately ἐν ποιήσει or ἐν ἰδίοις λόγοις (366e)."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "οὐδέν",
+          "lemma": null,
+          "location": "362e",
+          "context": "οὐδέν, ἔφη, λέγεις"
+        },
+        {
+          "form": "οὐδέν",
+          "lemma": null,
+          "location": "367b",
+          "context": "οὐδὲν γάρ σε δέομαι ἀποκρύπτεσθαι"
+        }
+      ],
+      "observation": "Adeimantus twice says οὐδέν to Socrates: first dismissing Socrates' claim that Glaucon's speech was sufficient (362e), then explaining he need not hide anything because Adeimantus desires to hear the opposite (367b)."
+    }
+  ]
+}
