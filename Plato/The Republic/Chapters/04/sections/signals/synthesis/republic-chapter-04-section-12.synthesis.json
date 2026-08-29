@@ -1,0 +1,166 @@
+{
+  "section_id": "republic-chapter-04-section-12",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The cluster of disorder terms in `s001` (στάσιν, πολυπραγμοσύνην, ἀλλοτριοπραγμοσύνην, ἐπανάστασιν) articulates the same inversion named in `s002`: what should δουλεύειν attempts to ἄρχῃ. The cluster expands the single contrast into multiple names for the same reversal."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s003"
+      ],
+      "observation": "`s001` defines ἀδικία as στάσις and ἐπανάστασις of a part against the whole; `s003` lists ἀδικίαν first among four vices, then gathers all four under πᾶσαν κακίαν with συλλήβδην. The gathering movement mirrors the movement from ἐπανάστασιν μέρους to τῷ ὅλῳ."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s006",
+        "s007"
+      ],
+      "observation": "The body/soul analogy (`s004`) is enacted through repeated syntactic transfers: ἐμποιεῖ moves from body to soul (`s005`), κατὰ φύσιν / παρὰ φύσιν is stated twice (`s006`), and the reciprocal mastery formula κρατεῖν τε καὶ κρατεῖσθαι ὑπʼ ἀλλήλων / ἄρχειν τε καὶ ἄρχεσθαι ἄλλο ὑπʼ ἄλλου shifts from body to soul (`s007`). The analogy is not stated once but performed through four parallel moves."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s002"
+      ],
+      "observation": "`s007` contrasts reciprocal mastery (ὑπʼ ἀλλήλων) with alien rule (ἄλλο ὑπʼ ἄλλου) in the health/disease analogy; `s002` contrasts what should ἄρχῃ with what should δουλεύειν in the definition of injustice. Both contrast appropriate and inappropriate relations of ruling and being ruled."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` identifies ἀρετή with a triad including κάλλος and κακία with a triad including αἶσχος. `s009` then states that καλὰ ἐπιτηδεύματα lead to ἀρετή and αἰσχρά to κακία, transferring the opposition from the condition to the practices that produce it."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s010"
+      ],
+      "observation": "Glaucon calls the inquiry γελοῖον because bodily corruption makes life unlivable; Socrates accepts γελοῖον yet insists on continuing. The exchange occurs just after `s010` frames the question with two concealment conditions (λανθάνῃ, μὴ διδῷ δίκην), which Glaucon dismisses as absurd given the soul's demonstrated corruption."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013",
+        "s014"
+      ],
+      "observation": "`s012` lists bodily and worldly goods (σιτίων, ποτῶν, πλούτου, ἀρχῆς) as insufficient when the body is destroyed. After this dismissal, `s013` positions the argument at a σκοπιά reached by ἀναβεβήκαμεν, and `s014` clusters vocabulary of seeing (ἴδῃς, θέας, φαίνεται, κατιδεῖν). The ascent from bodily goods to visual inspection marks a shift in register."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "`s015` announces ἓν εἶδος of virtue, ἄπειρα of vice, but τέτταρα worth mentioning. `s016` then states πέντε constitutions and πέντε soul-types. The numerical sequence moves from one to unlimited (narrowed to four) to five, without reconciling the count."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s015"
+      ],
+      "observation": "`s017` names the good constitution βασιλεία or ἀριστοκρατία depending on whether one or several rulers emerge, yet counts it as ἓν εἶδος. `s015` already stated virtue has ἓν εἶδος. The doubling of names for the single form of virtue in constitution echoes the single form of virtue in soul."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s017"
+      ],
+      "observation": "`s002` contrasts ἄρχῃ and δουλεύειν as inappropriate and appropriate relations; `s017` names the good constitution βασιλεία when one ἀνδρὸς ἑνὸς rules or ἀριστοκρατία when πλειόνων rule. Both passages articulate distinctions within ruling, but `s017` applies the distinction to number of rulers rather than appropriateness."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s017"
+      ],
+      "observation": "`s018` closes with τροφῇ τε καὶ παιδείᾳ as the guarantee that rulers would not disturb worthy laws. `s017` specifies that whether one or several rulers emerge, the constitution remains ἓν εἶδος. The closing appeal to τροφή and παιδεία grounds the unity named in `s017`."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s008"
+      ],
+      "observation": "`s003` lists four vices (ἀδικίαν, ἀκολασίαν, δειλίαν, ἀμαθίαν) gathered under πᾶσαν κακίαν. `s008` identifies κακία with a triad (νόσος, αἶσχος, ἀσθένεια). The four vices and the three names for vice both stand under κακία, but the relation between the enumeration and the triad is not articulated."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "διεληλύθαμεν",
+          "lemma": "διέρχομαι",
+          "location": "445b",
+          "context": "ὄντα ἑκάτερα οἷα ἡμεῖς διεληλύθαμεν"
+        },
+        {
+          "form": "διεληλύθαμεν",
+          "lemma": "διέρχομαι",
+          "location": "445d",
+          "context": "οὗτος ὃν ἡμεῖς διεληλύθαμεν"
+        },
+        {
+          "form": "διήλθομεν",
+          "lemma": "διέρχομαι",
+          "location": "445e",
+          "context": "παιδείᾳ χρησάμενος ᾗ διήλθομεν"
+        }
+      ],
+      "observation": "The verb διέρχομαι recurs three times, twice in perfect (διεληλύθαμεν) and once in aorist (διήλθομεν), marking the argument's traversal as already completed."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐνταῦθα",
+          "lemma": null,
+          "location": "445b",
+          "context": "ἐπείπερ ἐνταῦθα ἐληλύθαμεν"
+        },
+        {
+          "form": "ἐνταῦθα",
+          "lemma": null,
+          "location": "445c",
+          "context": "ἐπειδὴ ἐνταῦθα ἀναβεβήκαμεν τοῦ λόγου"
+        }
+      ],
+      "observation": "ἐνταῦθα names the argumentative position twice: first with ἐληλύθαμεν (arrival), then with ἀναβεβήκαμεν (ascent). The shift from horizontal to vertical movement renames the same place."
+    },
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "βιωτὸν",
+          "lemma": "βιωτός",
+          "location": "445a",
+          "context": "οὐ βιωτὸν εἶναι"
+        },
+        {
+          "form": "βιωτὸν",
+          "lemma": "βιωτός",
+          "location": "445b",
+          "context": "βιωτὸν ἄρα ἔσται"
+        },
+        {
+          "form": "ζῶμεν",
+          "lemma": "ζάω",
+          "location": "445a",
+          "context": "αὐτοῦ τούτου ᾧ ζῶμεν"
+        }
+      ],
+      "observation": "βιωτόν appears twice in contrasting clauses (not livable / will be livable), and ζῶμεν names the activity (that by which we live) whose nature is at stake. The verbal adjective and finite verb mark life as both activity and condition."
+    }
+  ]
+}
