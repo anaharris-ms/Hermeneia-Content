@@ -1,0 +1,248 @@
+{
+  "section_id": "republic-chapter-04-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The εὐδαίμων recurrence (s001) moves through the part-whole opposition (s002): Adeimantus asks if the guardians are εὐδαίμονας (419a), Socrates replies that making one ἔθνος εὔδαιμον is not the aim but rather ὅλη ἡ πόλις (420b), and the question returns as whether ὅλη ἡ πόλις will εὐδαιμονῇ (420e) versus ὅτι πλείστη αὐτοῖς εὐδαιμονία (421b). The happiness-terms track the disputed locus of εὐδαιμονία across the whole-part contrast."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s011"
+      ],
+      "observation": "χρυσός occurs in both the possession-cluster denied to guardians (s003, 419a: χρυσόν τε καὶ ἄργυρον κεκτημένοι) and in the absurd hypothetical where farmers are adorned with χρυσόν (s011, 420e: χρυσὸν περιθέντες). The possession named as lacking returns as the corrupting ornament."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s013"
+      ],
+      "observation": "The parallel luxury-hypotheticals (s005: farmers in fine robes, potters reclining and feasting) lead to the doubling formula (s013: ὁ γεωργὸς γεωργὸς ἔσται, ὁ κεραμεὺς κεραμεύς). The craftsmen imagined adorned and at leisure will no longer be what their names state."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s002"
+      ],
+      "observation": "The statue analogy (s006) presents τὸ ὅλον καλὸν ποιοῦμεν by giving τὰ προσήκοντα ἑκάστοις, matching the city argument where ὅλη ἡ πόλις (s002) is the aim rather than individual ἔθνη. Eyes painted with ὄστρειον would be individually beautiful but ruin the whole figure, as individual group-happiness would ruin the whole city."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009"
+      ],
+      "observation": "ἐπίκουροι μισθωτοί (s009, 419a-420a) names the guardians as if they were hired mercenaries; at 421b ἐπικούρους returns alongside φύλακας (s007), and at 421e φυλακτέον appears so that φύλαξιν must guard. The mercenary comparison is answered by restating the guardians as auxiliaries who must guard against corruption entering."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s016"
+      ],
+      "observation": "πλοῦτος and πενία are named as the pair to be guarded against (s008, 421d and 422a). The vice-cluster (s016) specifies what each produces: πλοῦτος yields τρυφήν, ἀργίαν, νεωτερισμόν; πενία yields ἀνελευθερίαν, κακοεργίαν, and again νεωτερισμόν. The twin corruptors are defined by the vices they generate, with νεωτερισμός appearing as the consequence of both."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s013"
+      ],
+      "observation": "δημιουργός (s010) recurs: guardians and auxiliaries are to be ἄριστοι δημιουργοὶ τοῦ ἑαυτῶν ἔργου (421c), then the argument turns to τοὺς ἄλλους δημιουργούς (421d). The doubling (s013: ὁ γεωργὸς γεωργός, ὁ κεραμεὺς κεραμεύς) states that craftsmen given luxury cease to be craftsmen. The guardians-as-craftsmen of their own work contrasts with other craftsmen corrupted in their crafts."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s002"
+      ],
+      "observation": "βλέπω (s012) marks the directing of attention: οὐ πρὸς τοῦτο βλέποντες (420b) states the founding aim is not individual ἔθνος happiness, then at 421b the question is πρὸς τοῦτο βλέποντες (toward guardian happiness) or εἰς τὴν πόλιν ὅλην βλέποντας. The verb βλέπω positions the choice between part and ὅλην πόλιν (s002) as a choice of where to direct sight."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s007"
+      ],
+      "observation": "The being/seeming contrast (s014) applies to νευρορράφοι (προσποιησάμενοι εἶναι μὴ ὄντες, 421a) and φύλακες νόμων τε καὶ πόλεως μὴ ὄντες ἀλλὰ δοκοῦντες. False cobblers harm the city οὐδὲν δεινόν, but false φύλακες (s007) πᾶσαν ἄρδην πόλιν ἀπολλύασιν. The same formula of falsity produces trivial versus total consequences."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s006"
+      ],
+      "observation": "The ἀπολογέομαι sequence (s015) moves from Adeimantus's challenge (ἀπολογήσῃ, 419a) to Socrates' response plan (ἀπολογησόμεθα, 420b) to the statue analogy's hypothetical defense (ἀπολογεῖσθαι, 420d). The painter analogy (s006) is introduced as an instance of μετρίως ἀπολογεῖσθαι, so the defense-movement culminates in the figured answer about painting the whole beautifully."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "μακάριος (s004) first appears for those conventionally expected to be μακαρίοις (419a), then returns in the luxury-hypothetical (s005) where all craftsmen are made μακαρίους τοιούτῳ τρόπῳ (420e). The term moves from describing conventional expectation to naming the absurd result of misplaced happiness-distribution."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "εὐδαίμων and μακάριος occur in proximity at 419a (εὐδαίμονας, μακαρίοις) naming expected happiness, then μακάριους reappears at 420e in the failed-happiness scenario while εὐδαιμονία continues through 421c. The two happiness-terms are initially paired, then separate: μακάριος drops out after the luxury-collapse argument."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s018"
+      ],
+      "observation": "The possession-cluster (s003) includes θυσίας θεοῖς ἰδίας θύοντες and ξενοδοκοῦντες at 419a. The ἴδιος recurrence (s018) marks both private sacrifices and private travel (ἀποδημῆσαι ἰδίᾳ, 420a). Private religious and social activity joins private movement in the list of what guardians lack."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s017"
+      ],
+      "observation": "The wealth-poverty pair (s008, 421d) is introduced via the question πλουτήσας χυτρεὺς δοκεῖ σοι ἔτʼ ἐθελήσειν ἐπιμελεῖσθαι τῆς τέχνης. The potter-term shifts (s017): κεραμεύς in the luxury-hypothetical and doubling-formula, χυτρεύς in the wealth-corruption question. The wealth-corruption argument uses the alternate potter-name."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκίζομεν",
+          "lemma": "οἰκίζω",
+          "location": "420b",
+          "context": "οὐ μὴν πρὸς τοῦτο βλέποντες τὴν πόλιν οἰκίζομεν"
+        },
+        {
+          "form": "οἰκουμένῃ",
+          "lemma": "οἰκέω",
+          "location": "420b",
+          "context": "ἐν τῇ κάκιστα οἰκουμένῃ"
+        },
+        {
+          "form": "οἰκιζομένης",
+          "lemma": "οἰκίζω",
+          "location": "421c",
+          "context": "συμπάσης τῆς πόλεως αὐξανομένης καὶ καλῶς οἰκιζομένης"
+        },
+        {
+          "form": "οἰκεῖν",
+          "lemma": "οἰκέω",
+          "location": "421a",
+          "context": "τοῦ εὖ οἰκεῖν καὶ εὐδαιμονεῖν"
+        }
+      ],
+      "observation": "Forms of οἰκίζω (found, settle) and οἰκέω (dwell, manage) recur: the city is being founded (οἰκίζομεν, 420b), badly or well managed (οἰκουμένῃ, 420c; οἰκεῖν, 421a), and well-founded as a whole (οἰκιζομένης, 421c). Founding and dwelling-well appear as related verbal actions throughout the argument."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κάλλιστον",
+          "lemma": "καλός",
+          "location": "420c",
+          "context": "οἱ γὰρ ὀφθαλμοὶ κάλλιστον ὄν"
+        },
+        {
+          "form": "καλὰς",
+          "lemma": "καλός",
+          "location": "419a",
+          "context": "οἰκίας οἰκοδομούμενοι καλὰς καὶ μεγάλας"
+        },
+        {
+          "form": "καλοὺς",
+          "lemma": "καλός",
+          "location": "420d",
+          "context": "οὕτω καλοὺς ὀφθαλμοὺς γράφειν"
+        },
+        {
+          "form": "καλὸν",
+          "lemma": "καλός",
+          "location": "420d",
+          "context": "τὸ ὅλον καλὸν ποιοῦμεν"
+        },
+        {
+          "form": "καλῶς",
+          "lemma": "καλός",
+          "location": "421c",
+          "context": "συμπάσης τῆς πόλεως αὐξανομένης καὶ καλῶς οἰκιζομένης"
+        }
+      ],
+      "observation": "καλός recurs in multiple forms: beautiful houses denied to guardians (καλὰς, 419a), the most beautiful part in the statue analogy (κάλλιστον, 420c), beautiful eyes not to be painted wrongly (καλοὺς, 420d), the beautiful whole (τὸ ὅλον καλὸν, 420d), and the city founded beautifully (καλῶς, 421c). Beauty moves from private possession through the analogy's part-whole relation to the whole city's beauty."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέχνης",
+          "lemma": "τέχνη",
+          "location": "421d",
+          "context": "ἐπιμελεῖσθαι τῆς τέχνης"
+        },
+        {
+          "form": "τέχνην",
+          "lemma": "τέχνη",
+          "location": "421d",
+          "context": "ὄργανά γε μὴ ἔχων παρέχεσθαι ὑπὸ πενίας ἤ τι ἄλλο τῶν εἰς τὴν τέχνην"
+        },
+        {
+          "form": "τεχνῶν",
+          "lemma": "τέχνη",
+          "location": "421e",
+          "context": "χείρω μὲν τὰ τῶν τεχνῶν ἔργα"
+        }
+      ],
+      "observation": "τέχνη appears in the wealth-poverty argument: the wealthy potter neglects τῆς τέχνης (421d), the poor potter lacks tools εἰς τὴν τέχνην (421d), and both produce χείρω τὰ τῶν τεχνῶν ἔργα (421e). Craft as such is named as what wealth and poverty together corrupt."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀργός",
+          "lemma": "ἀργός",
+          "location": "421d",
+          "context": "Ἀργὸς δὲ καὶ ἀμελὴς γενήσεται"
+        },
+        {
+          "form": "ἀργίαν",
+          "lemma": "ἀργία",
+          "location": "422a",
+          "context": "τοῦ μὲν τρυφὴν καὶ ἀργίαν καὶ νεωτερισμὸν ἐμποιοῦντος"
+        }
+      ],
+      "observation": "ἀργός (idle) describes the wealthy potter who becomes ἀργὸς καὶ ἀμελής (421d), then ἀργία appears as one of wealth's products alongside τρυφή and νεωτερισμός (422a). The adjective describing the corrupted individual becomes the abstract noun naming what wealth produces."
+    },
+    {
+      "signal_ids": [],
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔργου",
+          "lemma": "�ἔργον",
+          "location": "421c",
+          "context": "ἄριστοι δημιουργοὶ τοῦ ἑαυτῶν ἔργου"
+        },
+        {
+          "form": "ἔργα",
+          "lemma": "ἔργον",
+          "location": "421d",
+          "context": "τά τε ἔργα πονηρότερα ἐργάσεται"
+        },
+        {
+          "form": "ἔργα",
+          "lemma": "ἔργον",
+          "location": "421e",
+          "context": "χείρω μὲν τὰ τῶν τεχνῶν ἔργα"
+        }
+      ],
+      "observation": "ἔργον recurs: guardians are to be best craftsmen τοῦ ἑαυτῶν ἔργου (421c, singular), then poverty makes τά τε ἔργα πονηρότερα (421d, plural), and wealth and poverty together produce χείρω τὰ τῶν τεχνῶν ἔργα (421e, plural). The singular work of guardianship contrasts with the plural degraded products of corrupted crafts."
+    }
+  ]
+}
