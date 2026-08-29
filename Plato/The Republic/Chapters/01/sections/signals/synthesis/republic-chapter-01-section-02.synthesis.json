@@ -1,0 +1,193 @@
+{
+  "section_id": "republic-chapter-01-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "`s001` records Socrates' downward movement (καταβαίνων) to the Piraeus. `s004` cites Socrates' image of old age as a road (ὁδόν) already traveled, asking whether it is rough or easy. The spatial descent is followed immediately by a metaphorical path whose character is unknown."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005",
+        "s006"
+      ],
+      "observation": "`s003` contrasts withering bodily pleasures with growing desires for λόγοι. `s005` names the specific bodily pleasures most old men long for: sex, drinking, feasting. `s006` records their lament that they were truly living then but not now. The withering described in `s003` is enacted in `s006` as a reported judgment of non-life."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s018"
+      ],
+      "observation": "`s007` presents Sophocles' image of escaping a raging, mad master (λυττῶντά τινα καὶ ἄγριον δεσπότην) and generalizes it to many mad masters (δεσποτῶν μαινομένων). `s018` uses μανείς (mad) for the friend who demands weapons back. The madness attributed to erotic desire in `s007` recurs in the counterexample testing justice."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` records the dense clustering of αἰτία/αἴτιον as Cephalus refutes the accusation that old age causes misery. `s009` names the true single cause as τρόπος (character), not γῆρας. The concentration of cause-language in `s008` resolves into the explicit contrast of `s009`."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s015"
+      ],
+      "observation": "`s010` traces three generations of inheritance: grandfather, father, Cephalus—each παραλαμβάνων and either increasing, decreasing, or preserving. `s015` names Polemarchus κληρονόμος and records Cephalus παραδίδωμι τὸν λόγον. The wealth passed through generations in `s010` is paralleled by the argument handed over to the heir."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s015"
+      ],
+      "observation": "`s011` presents the triple analogy: poets love poems, fathers love children, money-makers love money—each as their own ἔργον. `s015` shows Cephalus handing over the λόγος to Polemarchus, named κληρονόμος. The analogy of fathers and children loving their creations is enacted when the father hands both wealth-succession and argument-succession to his son."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "`s012` introduces μῦθοι about Hades that demand δίκη be paid there (ἐκεῖ). `s013` states these myths were previously laughed at (καταγελώμενοι τέως) but now twist the soul (στρέφουσιν τὴν ψυχήν). The myths cited in `s012` undergo the temporal reversal described in `s013`."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s014"
+      ],
+      "observation": "`s012` cites myths of Hades and judgment (δίκην διδόναι ἐκεῖ). `s014` contrasts κακῆς ἐλπίδος for the unjust with ἡδεῖα ἐλπίς for the just. The afterlife punishment in `s012` is the ground of the opposed hopes in `s014`."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s016"
+      ],
+      "observation": "`s013` records that the myths now twist the soul (στρέφουσιν τὴν ψυχήν) of the one who fears. `s016` shows Cephalus laughing (γελάσας) as he departs. The fear and twisting in `s013` is absent from Cephalus' own departure; his laugh occurs where another might experience στρέφειν."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s017"
+      ],
+      "observation": "`s002` records ἰέναι twice with δεῦρο: first a counterfactual negation, then an imperative for frequency. `s017` records ἀποδιδόναι appearing three times in the proposed definition and its counterexample. Both sequences use exact repetition within a short span to test and revise a condition."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s019"
+      ],
+      "observation": "`s010` cites παραλαμβάνω and καταλείπω across three generations of wealth. `s019` shows οὐσία recurring with forms of κτάομαι at each mention. The verbs of receiving and leaving in `s010` frame the substantive (οὐσία) that is moved."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "`s015` records Cephalus handing over the λόγος (παραδίδωμι) and departing for the ἱερά. `s016` shows this departure enacted: he laughs (γελάσας) and goes toward the sacrifices (ᾔει πρὸς τὰ ἱερά). The stated intention in `s015` is completed in `s016`."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νέοι",
+          "lemma": "νέος",
+          "location": "328d",
+          "context": "τοῖσδέ τε τοῖς νεανίσκοις"
+        },
+        {
+          "form": "νεότης",
+          "lemma": "νεότης",
+          "location": "329a",
+          "context": "τὰς ἐν τῇ νεότητι ἡδονὰς"
+        },
+        {
+          "form": "νεότης",
+          "lemma": "νεότης",
+          "location": "329d",
+          "context": "καὶ γῆρας, ὦ Σώκρατες, καὶ νεότης"
+        }
+      ],
+      "observation": "Forms of νέος/νεότης recur as youth is named explicitly in contrast to old age, and as the site of pleasures now lost."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἰρήνη",
+          "lemma": "εἰρήνη",
+          "location": "329c",
+          "context": "ἐν τῷ γήρᾳ πολλὴ εἰρήνη γίγνεται καὶ ἐλευθερία"
+        }
+      ],
+      "observation": "εἰρήνη and ἐλευθερία are named together as what comes to be in old age when desires relax."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κόσμιοι",
+          "lemma": "κόσμιος",
+          "location": "329d",
+          "context": "ἂν μὲν γὰρ κόσμιοι καὶ εὔκολοι ὦσιν"
+        },
+        {
+          "form": "κοσμίῳ",
+          "lemma": "κόσμιος",
+          "location": "331b",
+          "context": "ἀλλὰ τῷ ἐπιεικεῖ καὶ κοσμίῳ"
+        }
+      ],
+      "observation": "κόσμιος appears first describing the character that makes old age moderate, then describing the man for whom wealth is most useful."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διαλεγόμενος",
+          "lemma": "διαλέγομαι",
+          "location": "328d",
+          "context": "χαίρω γε διαλεγόμενος τοῖς σφόδρα πρεσβύταις"
+        },
+        {
+          "form": "Σιμωνίδῃ πείθεσθαι",
+          "lemma": null,
+          "location": "331d",
+          "context": "εἴπερ γέ τι χρὴ Σιμωνίδῃ πείθεσθαι"
+        }
+      ],
+      "observation": "Socrates states his pleasure in διαλέγεσθαι with the very old; at the close Polemarchus questions whether one should πείθεσθαι Simonides. The mode shifts from dialogue to persuasion/trust."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Πίνδαρος",
+          "lemma": "Πίνδαρος",
+          "location": "331a",
+          "context": "ὡς καὶ Πίνδαρος λέγει"
+        },
+        {
+          "form": "Σιμωνίδης",
+          "lemma": "Σιμωνίδης",
+          "location": "331d",
+          "context": "εἴπερ γέ τι χρὴ Σιμωνίδῃ πείθεσθαι"
+        }
+      ],
+      "observation": "Cephalus cites Pindar approvingly; Polemarchus questions whether to trust Simonides. Two named poets frame the close of Cephalus' speech."
+    }
+  ]
+}
