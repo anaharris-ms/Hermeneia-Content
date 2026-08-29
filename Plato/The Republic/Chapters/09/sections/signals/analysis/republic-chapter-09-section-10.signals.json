@@ -1,0 +1,329 @@
+{
+  "section_id": "republic-chapter-09-section-10",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἁρμονίαν",
+          "lemma": "ἁρμονία",
+          "location": "591d",
+          "context": "τὴν ἐν τῷ σώματι ἁρμονίαν"
+        },
+        {
+          "form": "συμφωνίας",
+          "lemma": "συμφωνία",
+          "location": "591d",
+          "context": "τῆς ἐν τῇ ψυχῇ ἕνεκα συμφωνίας"
+        },
+        {
+          "form": "ἁρμοττόμενος",
+          "lemma": "ἁρμόττω",
+          "location": "591d",
+          "context": null
+        },
+        {
+          "form": "συμφωνίαν",
+          "lemma": "συμφωνία",
+          "location": "591d",
+          "context": "τὴν ἐν τῇ τῶν χρημάτων κτήσει σύνταξίν τε καὶ συμφωνίαν"
+        },
+        {
+          "form": "μουσικὸς",
+          "lemma": "μουσικός",
+          "location": "591d",
+          "context": "τῇ ἀληθείᾳ μουσικὸς εἶναι"
+        }
+      ],
+      "observation": "A cluster of musical/harmonic terms—ἁρμονία, συμφωνία, ἁρμόττω, μουσικός—concentrates locally, applied first to body-soul relation and then extended to possessions."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τιμῶν",
+          "lemma": "τιμάω",
+          "location": "591c",
+          "context": "τὰ μαθήματα τιμῶν"
+        },
+        {
+          "form": "ἀτιμάζων",
+          "lemma": "ἀτιμάζω",
+          "location": "591c",
+          "context": "τὰ δὲ ἄλλα ἀτιμάζων"
+        },
+        {
+          "form": "τιμάς",
+          "lemma": "τιμή",
+          "location": "592a",
+          "context": "ἀλλὰ μὴν καὶ τιμάς γε"
+        }
+      ],
+      "observation": "The τιμ- root appears first as valuing/dishonoring learning, then returns as civic honours to be selectively accepted or refused."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποβλέπων",
+          "lemma": "ἀποβλέπω",
+          "location": "591e",
+          "context": "ἀποβλέπων γε πρὸς τὴν ἐν αὑτῷ πολιτείαν"
+        },
+        {
+          "form": "ἀποβλέπων",
+          "lemma": "ἀποβλέπω",
+          "location": "592a",
+          "context": "εἰς ταὐτὸν ἀποβλέπων"
+        }
+      ],
+      "observation": "ἀποβλέπων recurs: first looking toward the constitution within oneself, then again ('εἰς ταὐτὸν') regarding honours."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πρὸς ὑγίειαν βλέπων",
+          "lemma": null,
+          "location": "591c",
+          "context": null
+        },
+        {
+          "form": "ἀποβλέπων γε πρὸς τὴν ἐν αὑτῷ πολιτείαν",
+          "lemma": null,
+          "location": "591e",
+          "context": null
+        }
+      ],
+      "observation": "βλέπω/ἀποβλέπω contrasts looking toward health (denied as ultimate aim) with looking toward the inner polity (affirmed)."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γῆς γε οὐδαμοῦ",
+          "lemma": null,
+          "location": "592a",
+          "context": "ἐπεὶ γῆς γε οὐδαμοῦ οἶμαι αὐτὴν εἶναι"
+        },
+        {
+          "form": "ἐν οὐρανῷ",
+          "lemma": "οὐρανός",
+          "location": "592b",
+          "context": "ἐν οὐρανῷ ἴσως παράδειγμα ἀνάκειται"
+        }
+      ],
+      "observation": "The city is placed nowhere on earth and then located as a paradigm set up in heaven—an explicit earth/heaven spatial contrast."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πολιτείαν",
+          "lemma": "πολιτεία",
+          "location": "591e",
+          "context": "τὴν ἐν αὑτῷ πολιτείαν"
+        },
+        {
+          "form": "πολιτικὰ",
+          "lemma": "πολιτικός",
+          "location": "592a",
+          "context": "τά γε πολιτικὰ ἐθελήσει πράττειν"
+        },
+        {
+          "form": "πόλει",
+          "lemma": "πόλις",
+          "location": "592a",
+          "context": "ἔν γε τῇ ἑαυτοῦ πόλει"
+        },
+        {
+          "form": "πόλει",
+          "lemma": "πόλις",
+          "location": "592a",
+          "context": "οἰκίζοντες πόλει"
+        }
+      ],
+      "observation": "πολιτεία/πολιτικός/πόλις recur across the passage, shifting from inner constitution to external politics to the city in speech."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παράδειγμα",
+          "lemma": "παράδειγμα",
+          "location": "592b",
+          "context": "ἐν οὐρανῷ ἴσως παράδειγμα ἀνάκειται"
+        },
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "592b",
+          "context": "τῷ βουλομένῳ ὁρᾶν"
+        },
+        {
+          "form": "ὁρῶντι",
+          "lemma": "ὁράω",
+          "location": "592b",
+          "context": "καὶ ὁρῶντι ἑαυτὸν κατοικίζειν"
+        }
+      ],
+      "observation": "The paradigm is for one wishing to see and, seeing, to settle himself—ὁράω appears twice linking vision to self-founding."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὰ μαθήματα",
+          "lemma": "μάθημα",
+          "location": "591c",
+          "context": null
+        },
+        {
+          "form": "τοῦ σώματος ἕξιν καὶ τροφὴν",
+          "lemma": null,
+          "location": "591c",
+          "context": null
+        },
+        {
+          "form": "χρημάτων κτήσει",
+          "lemma": null,
+          "location": "591d",
+          "context": null
+        },
+        {
+          "form": "τιμάς",
+          "lemma": "τιμή",
+          "location": "592a",
+          "context": null
+        }
+      ],
+      "observation": "The wise man's ordering proceeds in sequence: learning, bodily condition and nourishment, acquisition of money, then honours."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐν αὑτῷ",
+          "lemma": null,
+          "location": "591e",
+          "context": "τὴν ἐν αὑτῷ πολιτείαν"
+        },
+        {
+          "form": "ἐν τῇ ἑαυτοῦ πόλει",
+          "lemma": null,
+          "location": "592a",
+          "context": null
+        },
+        {
+          "form": "ἐν τῇ πατρίδι",
+          "lemma": null,
+          "location": "592a",
+          "context": null
+        }
+      ],
+      "observation": "Three nested loci are distinguished: the constitution within oneself, one's own city, and the fatherland—with political action affirmed in the first and conditional in the others."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κυβερνῶν",
+          "lemma": "κυβερνάω",
+          "location": "591e",
+          "context": "οὕτως κυβερνῶν προσθήσει καὶ ἀναλώσει τῆς οὐσίας"
+        }
+      ],
+      "observation": "The wise man is described as piloting (κυβερνῶν) his additions and expenditures of property."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θηριώδει καὶ ἀλόγῳ ἡδονῇ",
+          "lemma": null,
+          "location": "591c",
+          "context": null
+        },
+        {
+          "form": "σωφρονήσειν",
+          "lemma": "σωφρονέω",
+          "location": "591d",
+          "context": null
+        }
+      ],
+      "observation": "Beastly irrational pleasure is contrasted with the condition of becoming σώφρων as the criterion for bodily care."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεία τις συμβῇ τύχη",
+          "lemma": null,
+          "location": "592a",
+          "context": "ἐὰν μὴ θεία τις συμβῇ τύχη"
+        }
+      ],
+      "observation": "Political action in the fatherland is conditioned on divine chance (θεία τύχη)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κατοικίζειν",
+          "lemma": "κατοικίζω",
+          "location": "592b",
+          "context": "ὁρῶντι ἑαυτὸν κατοικίζειν"
+        },
+        {
+          "form": "οἰκίζοντες",
+          "lemma": "οἰκίζω",
+          "location": "592a",
+          "context": "νῦν διήλθομεν οἰκίζοντες πόλει"
+        }
+      ],
+      "observation": "οἰκίζω recurs: first as founding the city in speech, then as κατοικίζειν—settling oneself by seeing the paradigm."
+    }
+  ]
+}

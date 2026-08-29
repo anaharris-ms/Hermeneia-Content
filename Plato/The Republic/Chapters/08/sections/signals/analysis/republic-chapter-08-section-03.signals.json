@@ -1,0 +1,520 @@
+{
+  "section_id": "republic-chapter-08-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φιλονικίας",
+          "lemma": "φιλονικία",
+          "location": "548d",
+          "context": "ἕνεκά γε φιλονικίας"
+        },
+        {
+          "form": "φιλόμουσον",
+          "lemma": "φιλόμουσος",
+          "location": "548e",
+          "context": null
+        },
+        {
+          "form": "φιλήκοον",
+          "lemma": "φιλήκοος",
+          "location": "548e",
+          "context": null
+        },
+        {
+          "form": "φίλαρχος",
+          "lemma": "φίλαρχος",
+          "location": "549a",
+          "context": null
+        },
+        {
+          "form": "φιλότιμος",
+          "lemma": "φιλότιμος",
+          "location": "549a",
+          "context": null
+        },
+        {
+          "form": "φιλογυμναστής",
+          "lemma": "φιλογυμναστής",
+          "location": "549a",
+          "context": null
+        },
+        {
+          "form": "φιλόθηρος",
+          "lemma": "φιλόθηρος",
+          "location": "549a",
+          "context": null
+        },
+        {
+          "form": "φιλοχρημάτου",
+          "lemma": "φιλοχρήματος",
+          "location": "549b",
+          "context": "τῆς τοῦ φιλοχρημάτου φύσεως"
+        },
+        {
+          "form": "φιλονίκῳ",
+          "lemma": "φιλόνικος",
+          "location": "550b",
+          "context": null
+        },
+        {
+          "form": "φιλότιμος",
+          "lemma": "φιλότιμος",
+          "location": "550b",
+          "context": "ὑψηλόφρων τε καὶ φιλότιμος ἀνήρ"
+        }
+      ],
+      "observation": "A dense concentration of φιλο- compounds characterizes the timocratic man, accumulating across the section from φιλονικία through φιλόμουσον, φιλήκοον, φίλαρχος, φιλότιμος, φιλογυμναστής, φιλόθηρος, φιλοχρήματος, and returning to φιλόνικος and φιλότιμος at the conclusion."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δούλοις",
+          "lemma": "δοῦλος",
+          "location": "549a",
+          "context": "δούλοις μέν τις ἂν ἄγριος εἴη"
+        },
+        {
+          "form": "ἐλευθέροις",
+          "lemma": "ἐλεύθερος",
+          "location": "549a",
+          "context": "ἐλευθέροις δὲ ἥμερος"
+        },
+        {
+          "form": "ἄγριος",
+          "lemma": "ἄγριος",
+          "location": "549a",
+          "context": null
+        },
+        {
+          "form": "ἥμερος",
+          "lemma": "ἥμερος",
+          "location": "549a",
+          "context": null
+        }
+      ],
+      "observation": "ἄγριος toward slaves is set against ἥμερος toward free men, a local contrast pairing wildness/tameness with slave/free."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λέγειν",
+          "lemma": "λέγω",
+          "location": "549a",
+          "context": "οὐκ ἀπὸ τοῦ λέγειν ἀξιῶν ἄρχειν"
+        },
+        {
+          "form": "ἔργων",
+          "lemma": "ἔργον",
+          "location": "549a",
+          "context": "ἀλλʼ ἀπὸ ἔργων τῶν τε πολεμικῶν"
+        },
+        {
+          "form": "ῥητορικὸν",
+          "lemma": "ῥητορικός",
+          "location": "548e",
+          "context": "ῥητορικὸν δʼ οὐδαμῶς"
+        }
+      ],
+      "observation": "The timocratic man's claim to rule is explicitly grounded not in λέγειν or ῥητορική but in ἔργα and πολεμικά."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νέος",
+          "lemma": "νέος",
+          "location": "549b",
+          "context": "νέος μὲν ὢν καταφρονοῖ ἄν"
+        },
+        {
+          "form": "πρεσβύτερος",
+          "lemma": "πρεσβύτερος",
+          "location": "549b",
+          "context": "ὅσῳ δὲ πρεσβύτερος γίγνοιτο, μᾶλλον ἀεὶ ἀσπάζοιτο"
+        },
+        {
+          "form": "χρημάτων",
+          "lemma": "χρῆμα",
+          "location": "549a",
+          "context": "χρημάτων... καταφρονοῖ ἄν"
+        }
+      ],
+      "observation": "χρήματα are scorned when the man is νέος but increasingly embraced as he becomes πρεσβύτερος—the same object in a changed temporal context."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λόγου",
+          "lemma": "λόγος",
+          "location": "549b",
+          "context": "λόγου... μουσικῇ κεκραμένου"
+        },
+        {
+          "form": "μουσικῇ",
+          "lemma": "μουσική",
+          "location": "549b",
+          "context": null
+        },
+        {
+          "form": "σωτὴρ ἀρετῆς",
+          "lemma": null,
+          "location": "549b",
+          "context": "ὃς μόνος ἐγγενόμενος σωτὴρ ἀρετῆς διὰ βίου"
+        }
+      ],
+      "observation": "λόγος mixed with μουσική is called the sole σωτὴρ ἀρετῆς through life—identified as the ἄριστος φύλαξ whose absence explains the timocratic man's lack of purity toward ἀρετή."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "sequence_configuration",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκούῃ",
+          "lemma": "ἀκούω",
+          "location": "549c",
+          "context": "τῆς μητρὸς ἀκούῃ ἀχθομένης"
+        },
+        {
+          "form": "ἀκούει",
+          "lemma": "ἀκούω",
+          "location": "550a",
+          "context": "ἐξιὼν ἕτερα τοιαῦτα ἀκούει"
+        },
+        {
+          "form": "ἀκούων",
+          "lemma": "ἀκούω",
+          "location": "550a",
+          "context": "πάντα τὰ τοιαῦτα ἀκούων τε καὶ ὁρῶν"
+        },
+        {
+          "form": "ἀκούων",
+          "lemma": "ἀκούω",
+          "location": "550a",
+          "context": "τοὺς τοῦ πατρὸς λόγους ἀκούων"
+        }
+      ],
+      "observation": "ἀκούω recurs across the narrative of the young man's formation: he hears the mother, hears servants, hears the city, and hears the father's λόγοι—a sequence of hearing from different sources."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τιμὰς",
+          "lemma": "τιμή",
+          "location": "549c",
+          "context": "φεύγοντος τάς τε τιμὰς καὶ ἀρχάς"
+        },
+        {
+          "form": "τιμῶντα",
+          "lemma": "τιμάω",
+          "location": "549d",
+          "context": "μήτε πάνυ τιμῶντα μήτε ἀτιμάζοντα"
+        },
+        {
+          "form": "ἀτιμάζοντα",
+          "lemma": "ἀτιμάζω",
+          "location": "549d",
+          "context": null
+        },
+        {
+          "form": "τιμωμένους",
+          "lemma": "τιμάω",
+          "location": "550a",
+          "context": "τοὺς δὲ μὴ τὰ αὑτῶν τιμωμένους"
+        },
+        {
+          "form": "τιμωρήσεται",
+          "lemma": "τιμωρέω",
+          "location": "549e",
+          "context": null
+        },
+        {
+          "form": "φιλότιμος",
+          "lemma": "φιλότιμος",
+          "location": "550b",
+          "context": null
+        }
+      ],
+      "observation": "The τιμ- root recurs across the section: the father flees τιμαί, neither τιμᾷ nor ἀτιμάζει his wife; others in the city are τιμώμενοι; the son is urged to τιμωρήσεται; he becomes φιλότιμος."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰς τὸ μέσον",
+          "lemma": "μέσος",
+          "location": "550b",
+          "context": "εἰς τὸ μέσον ἑλκόμενος ὑπʼ ἀμφοτέρων τούτων ἦλθε"
+        },
+        {
+          "form": "τῷ μέσῳ",
+          "lemma": "μέσος",
+          "location": "550b",
+          "context": "τὴν ἐν ἑαυτῷ ἀρχὴν παρέδωκε τῷ μέσῳ τε καὶ φιλονίκῳ"
+        }
+      ],
+      "observation": "The young man is pulled εἰς τὸ μέσον by both sides and hands over rule to τὸ μέσον—the middle as both spatial destination and recipient of internal authority."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "exact_repetition",
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἑλκόμενος ὑπʼ ἀμφοτέρων",
+          "lemma": null,
+          "location": "550b",
+          "context": "ἑλκόμενος ὑπʼ ἀμφοτέρων τούτων"
+        },
+        {
+          "form": "ἑλκόμενος ὑπʼ ἀμφοτέρων",
+          "lemma": null,
+          "location": "550b",
+          "context": "εἰς τὸ μέσον ἑλκόμενος ὑπʼ ἀμφοτέρων τούτων ἦλθε"
+        }
+      ],
+      "observation": "The phrase ἑλκόμενος ὑπʼ ἀμφοτέρων τούτων is repeated exactly, framing the account of the two pulls on the young man."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄρδοντός",
+          "lemma": "ἄρδω",
+          "location": "550b",
+          "context": "τὸ λογιστικὸν ἐν τῇ ψυχῇ ἄρδοντός τε καὶ αὔξοντος"
+        },
+        {
+          "form": "αὔξοντος",
+          "lemma": "αὐξάνω",
+          "location": "550b",
+          "context": null
+        }
+      ],
+      "observation": "The father's nurturing of τὸ λογιστικόν is described with ἄρδω (water, irrigate) and αὐξάνω (grow)—a vegetal or agricultural cluster applied to soul-parts."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐπειδὰν ἀνὴρ γένηται",
+          "lemma": null,
+          "location": "549e",
+          "context": "ὅπως, ἐπειδὰν ἀνὴρ γένηται, τιμωρήσεται"
+        },
+        {
+          "form": "ἀνὴρ μᾶλλον ἔσται τοῦ πατρός",
+          "lemma": null,
+          "location": "550a",
+          "context": null
+        },
+        {
+          "form": "φιλότιμος ἀνήρ",
+          "lemma": null,
+          "location": "550b",
+          "context": "ἐγένετο ὑψηλόφρων τε καὶ φιλότιμος ἀνήρ"
+        }
+      ],
+      "observation": "The servants urge the son to become ἀνήρ and be more of an ἀνήρ than his father; at the section's end he ἐγένετο... φιλότιμος ἀνήρ—the projected becoming is completed."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄνανδρος",
+          "lemma": "ἄνανδρος",
+          "location": "549d",
+          "context": "ὡς ἄνανδρός τε αὐτῷ ὁ πατήρ"
+        },
+        {
+          "form": "ἀνὴρ μᾶλλον ἔσται τοῦ πατρός",
+          "lemma": null,
+          "location": "550a",
+          "context": null
+        },
+        {
+          "form": "ἀνήρ",
+          "lemma": "ἀνήρ",
+          "location": "550b",
+          "context": "φιλότιμος ἀνήρ"
+        }
+      ],
+      "observation": "The mother calls the father ἄνανδρος (unmanly); the servants urge the son to be ἀνὴρ μᾶλλον τοῦ πατρός; the son becomes ἀνήρ—ἀνήρ/ἄνανδρος forms a contrast across the generational narrative."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παρέδωκε",
+          "lemma": "παραδίδωμι",
+          "location": "550b",
+          "context": "τὴν ἐν ἑαυτῷ ἀρχὴν παρέδωκε τῷ μέσῳ τε καὶ φιλονίκῳ καὶ θυμοειδεῖ"
+        }
+      ],
+      "observation": "The young man hands over (παρέδωκε) the ἀρχή within himself to the θυμοειδές—an internal transfer of rule."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὁρώσης",
+          "lemma": "ὁράω",
+          "location": "549d",
+          "context": "ἔπειτα ὁρώσης μὴ σφόδρα περὶ χρήματα σπουδάζοντα"
+        },
+        {
+          "form": "ὁρᾷ",
+          "lemma": "ὁράω",
+          "location": "550a",
+          "context": "ἕτερα τοιαῦτα ἀκούει καὶ ὁρᾷ"
+        },
+        {
+          "form": "ὁρῶν",
+          "lemma": "ὁράω",
+          "location": "550a",
+          "context": "ἀκούων τε καὶ ὁρῶν"
+        }
+      ],
+      "observation": "ὁράω moves from the mother (ὁρώσης, seeing the father's indifference) to the son (ὁρᾷ, ὁρῶν, seeing the city and the father's practices), paralleling the transfer of discontent across generations."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὰ αὑτῶν πράττοντας",
+          "lemma": null,
+          "location": "550a",
+          "context": "τοὺς μὲν τὰ αὑτῶν πράττοντας... ἠλιθίους τε καλουμένους"
+        },
+        {
+          "form": "τοὺς δὲ μὴ τὰ αὑτῶν",
+          "lemma": null,
+          "location": "550a",
+          "context": "τοὺς δὲ μὴ τὰ αὑτῶν τιμωμένους τε καὶ ἐπαινουμένους"
+        }
+      ],
+      "observation": "Those minding their own business (τὰ αὑτῶν πράττοντας) are called foolish; those not minding their own are honored—a contrast where τὰ αὑτῶν πράττειν is devalued."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Γλαύκωνος τουτουὶ",
+          "lemma": "Γλαύκων",
+          "location": "548d",
+          "context": "ἐγγύς τι αὐτὸν Γλαύκωνος τουτουὶ τείνειν ἕνεκά γε φιλονικίας"
+        }
+      ],
+      "observation": "Adeimantus compares the timocratic man to his brother Glaucon, who is present (τουτουί), specifically with respect to φιλονικία."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ τοῦ Αἰσχύλου",
+          "lemma": null,
+          "location": "550c",
+          "context": "ἄλλον ἄλλῃ πρὸς πόλει τεταγμένον"
+        }
+      ],
+      "observation": "Socrates invokes Aeschylus (Seven against Thebes) with the phrase ἄλλον ἄλλῃ πρὸς πόλει τεταγμένον to mark the transition to the next constitution."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀρχὰς",
+          "lemma": "ἀρχή",
+          "location": "549c",
+          "context": "φεύγοντος τάς τε τιμὰς καὶ ἀρχάς"
+        },
+        {
+          "form": "ἀρχόντων",
+          "lemma": "ἄρχων",
+          "location": "549a",
+          "context": "ἀρχόντων δὲ σφόδρα ὑπήκοος"
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "549a",
+          "context": "ἀξιῶν ἄρχειν"
+        },
+        {
+          "form": "ἀρχόντων",
+          "lemma": "ἄρχων",
+          "location": "549c",
+          "context": "οὐ τῶν ἀρχόντων αὐτῇ ὁ ἀνήρ"
+        },
+        {
+          "form": "ἀρχὴν",
+          "lemma": "ἀρχή",
+          "location": "550b",
+          "context": "τὴν ἐν ἑαυτῷ ἀρχὴν παρέδωκε"
+        }
+      ],
+      "observation": "Forms of ἀρχ- recur: the timocratic type is ὑπήκοος to rulers and claims to ἄρχειν from deeds; the father flees ἀρχαί; the mother complains he is not among the ἄρχοντες; the son surrenders the ἀρχή within himself."
+    }
+  ]
+}

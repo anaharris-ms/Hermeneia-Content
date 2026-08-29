@@ -1,0 +1,595 @@
+{
+  "section_id": "republic-chapter-05-section-15",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φιλόπαιδα",
+          "lemma": "φιλόπαις",
+          "location": "474d",
+          "context": null
+        },
+        {
+          "form": "φιλοίνους",
+          "lemma": "φίλοινος",
+          "location": "475a",
+          "context": null
+        },
+        {
+          "form": "φιλοτίμους",
+          "lemma": "φιλότιμος",
+          "location": "475a",
+          "context": null
+        },
+        {
+          "form": "φιλομαθῆ",
+          "lemma": "φιλομαθής",
+          "location": "475c",
+          "context": null
+        },
+        {
+          "form": "φιλόσοφον",
+          "lemma": "φιλόσοφος",
+          "location": "475b",
+          "context": null
+        },
+        {
+          "form": "φιλόσιτον",
+          "lemma": "φιλόσιτος",
+          "location": "475c",
+          "context": null
+        },
+        {
+          "form": "φιλοθεάμονες",
+          "lemma": "φιλοθεάμων",
+          "location": "475d",
+          "context": null
+        },
+        {
+          "form": "φιλήκοοι",
+          "lemma": "φιλήκοος",
+          "location": "475d",
+          "context": null
+        },
+        {
+          "form": "φιλοτέχνους",
+          "lemma": "φιλότεχνος",
+          "location": "476a",
+          "context": null
+        }
+      ],
+      "observation": "A dense concentration of φιλο- compounds accumulates across the section, each naming a different object of desire: boys, wine, honor, learning, food, wisdom, spectacles, listening, craft."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "exact_repetition",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πᾶν",
+          "lemma": "πᾶς",
+          "location": "474c",
+          "context": "ἀλλὰ πᾶν στέργοντα"
+        },
+        {
+          "form": "πάντες",
+          "lemma": "πᾶς",
+          "location": "474d",
+          "context": "πάντες οἱ ἐν ὥρᾳ"
+        },
+        {
+          "form": "πάσας προφάσεις",
+          "lemma": "πᾶς",
+          "location": "474e",
+          "context": null
+        },
+        {
+          "form": "πάσας φωνάς",
+          "lemma": "πᾶς",
+          "location": "475a",
+          "context": null
+        },
+        {
+          "form": "πάντα οἶνον ἐπὶ πάσης προφάσεως",
+          "lemma": "πᾶς",
+          "location": "475a",
+          "context": null
+        },
+        {
+          "form": "παντός",
+          "lemma": "πᾶς",
+          "location": "475b",
+          "context": "παντὸς τοῦ εἴδους τούτου"
+        },
+        {
+          "form": "πάσης",
+          "lemma": "πᾶς",
+          "location": "475b",
+          "context": "ἀλλὰ πάσης"
+        },
+        {
+          "form": "παντὸς μαθήματος",
+          "lemma": "πᾶς",
+          "location": "475c",
+          "context": null
+        },
+        {
+          "form": "πάντων χορῶν",
+          "lemma": "πᾶς",
+          "location": "475d",
+          "context": null
+        },
+        {
+          "form": "πάντων τῶν εἰδῶν",
+          "lemma": "πᾶς",
+          "location": "476a",
+          "context": null
+        }
+      ],
+      "observation": "Forms of πᾶς recur with high density, each time insisting on totality of the relevant object—the lover must embrace all of whatever is loved."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὸ μὲν φιλοῦντα ἐκείνου, τὸ δὲ μή",
+          "lemma": null,
+          "location": "474c",
+          "context": null
+        },
+        {
+          "form": "τῆς μέν, τῆς δʼ οὔ",
+          "lemma": null,
+          "location": "475b",
+          "context": null
+        },
+        {
+          "form": "τοῦ μέν, τοῦ δὲ οὔ",
+          "lemma": null,
+          "location": "475b",
+          "context": null
+        }
+      ],
+      "observation": "A μέν … δέ structure expressing partial desire (loving some but not all) recurs and is each time denied."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἅπτεσθαι",
+          "lemma": "ἅπτω",
+          "location": "474c",
+          "context": "ἅπτεσθαί τε φιλοσοφίας ἡγεμονεύειν τʼ ἐν πόλει"
+        },
+        {
+          "form": "μήτε ἅπτεσθαι ἀκολουθεῖν τε τῷ ἡγουμένῳ",
+          "lemma": "ἅπτω",
+          "location": "474c",
+          "context": null
+        }
+      ],
+      "observation": "ἅπτεσθαι and ἡγεμονεύειν/ἀκολουθεῖν are distributed in a contrast: some are to touch philosophy and lead, others are not to touch it and must follow."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμηταί",
+          "lemma": "ἐπιθυμητής",
+          "location": "475b",
+          "context": "ὅλως τιμῆς ἐπιθυμηταὶ ὄντες"
+        },
+        {
+          "form": "ἐπιθυμητικόν",
+          "lemma": "ἐπιθυμητικός",
+          "location": "475b",
+          "context": "ὃν ἄν τινος ἐπιθυμητικὸν λέγωμεν"
+        },
+        {
+          "form": "ἐπιθυμεῖν",
+          "lemma": "ἐπιθυμέω",
+          "location": "475b",
+          "context": "παντὸς τοῦ εἴδους τούτου"
+        },
+        {
+          "form": "ἐπιθυμεῖν σιτίων",
+          "lemma": "ἐπιθυμέω",
+          "location": "475c",
+          "context": null
+        }
+      ],
+      "observation": "ἐπιθυμ- forms move from honor-lovers to a general principle about desiring the whole of a kind, then to food as analogy."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σιμός",
+          "lemma": "σιμός",
+          "location": "474d",
+          "context": null
+        },
+        {
+          "form": "γρυπόν",
+          "lemma": "γρυπός",
+          "location": "474d",
+          "context": "τὸ γρυπὸν βασιλικόν"
+        },
+        {
+          "form": "ἐμμετρώτατα",
+          "lemma": "ἔμμετρος",
+          "location": "474e",
+          "context": "διὰ μέσου τούτων"
+        },
+        {
+          "form": "μέλανας",
+          "lemma": "μέλας",
+          "location": "474e",
+          "context": "μέλανας δὲ ἀνδρικοὺς ἰδεῖν"
+        },
+        {
+          "form": "λευκούς",
+          "lemma": "λευκός",
+          "location": "474e",
+          "context": "λευκοὺς δὲ θεῶν παῖδας"
+        },
+        {
+          "form": "μελιχλώρους",
+          "lemma": "μελίχλωρος",
+          "location": "474e",
+          "context": null
+        }
+      ],
+      "observation": "A catalogue of physical features—snub nose, hooked nose, in-between, dark, pale, honey-colored—illustrates how the lover renames every appearance to make it attractive."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lexical_family",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐραστοῦ",
+          "lemma": "ἐραστής",
+          "location": "474e",
+          "context": "ἐραστοῦ ὑποκοριζομένου"
+        },
+        {
+          "form": "ἐρωτικῷ",
+          "lemma": "ἐρωτικός",
+          "location": "474d",
+          "context": "ἀνδρὶ δʼ ἐρωτικῷ"
+        },
+        {
+          "form": "ἐρωτικόν",
+          "lemma": "ἐρωτικός",
+          "location": "474d",
+          "context": "τὸν φιλόπαιδα καὶ ἐρωτικόν"
+        },
+        {
+          "form": "ἐρωτικῶν",
+          "lemma": "ἐρωτικός",
+          "location": "475a",
+          "context": "περὶ τῶν ἐρωτικῶν"
+        }
+      ],
+      "observation": "ἐρωτικός/ἐραστής forms cluster around the lover analogy, with Glaucon addressed as ἀνδρὶ ἐρωτικῷ and the term then applied to the class of lovers generally."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "sound_form_echo",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "δυσχεραίνοντα",
+          "lemma": "δυσχεραίνω",
+          "location": "475b",
+          "context": "περὶ τὰ μαθήματα δυσχεραίνοντα"
+        },
+        {
+          "form": "δυσχερῆ",
+          "lemma": "δυσχερής",
+          "location": "475c",
+          "context": "τὸν περὶ τὰ σιτία δυσχερῆ"
+        },
+        {
+          "form": "εὐχερῶς",
+          "lemma": "εὐχερῶς",
+          "location": "475c",
+          "context": "τὸν δὲ δὴ εὐχερῶς ἐθέλοντα παντὸς μαθήματος γεύεσθαι"
+        },
+        {
+          "form": "εὐχερῶς",
+          "lemma": "εὐχερῶς",
+          "location": "474e",
+          "context": "εὐχερῶς φέροντος τὴν ὠχρότητα"
+        }
+      ],
+      "observation": "δυσχερ- (difficulty/disgust) and εὐχερῶς (ease/readiness) appear as a contrasting pair; εὐχερῶς first describes the lover's easy tolerance of pallor, then returns to describe the philosopher's willing tasting of every learning."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "γεύεσθαι",
+          "lemma": "γεύομαι",
+          "location": "475c",
+          "context": "παντὸς μαθήματος γεύεσθαι"
+        },
+        {
+          "form": "σιτία",
+          "lemma": "σιτίον",
+          "location": "475c",
+          "context": "τὸν περὶ τὰ σιτία δυσχερῆ"
+        },
+        {
+          "form": "πεινῆν",
+          "lemma": "πεινάω",
+          "location": "475c",
+          "context": null
+        },
+        {
+          "form": "φιλόσιτον",
+          "lemma": "φιλόσιτος",
+          "location": "475c",
+          "context": null
+        },
+        {
+          "form": "κακόσιτον",
+          "lemma": "κακόσιτος",
+          "location": "475c",
+          "context": null
+        },
+        {
+          "form": "ἀπλήστως",
+          "lemma": "ἄπληστος",
+          "location": "475c",
+          "context": "ἀπλήστως ἔχοντα"
+        }
+      ],
+      "observation": "A food/appetite vocabulary—tasting, hunger, insatiability, food-loving vs. food-averse—is applied to learning in a sustained analogy."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φιλοθεάμονες",
+          "lemma": "φιλοθεάμων",
+          "location": "475d",
+          "context": "οἵ τε γὰρ φιλοθεάμονες"
+        },
+        {
+          "form": "φιλήκοοι",
+          "lemma": "φιλήκοος",
+          "location": "475d",
+          "context": null
+        },
+        {
+          "form": "φιλοσόφους",
+          "lemma": "φιλόσοφος",
+          "location": "475e",
+          "context": "ὁμοίους μὲν φιλοσόφοις"
+        },
+        {
+          "form": "τοὺς τῆς ἀληθείας φιλοθεάμονας",
+          "lemma": "φιλοθεάμων",
+          "location": "475e",
+          "context": null
+        }
+      ],
+      "observation": "φιλοθεάμονες first names spectacle-lovers whom Glaucon would awkwardly class as philosophers; Socrates then reclaims the term for true philosophers as τῆς ἀληθείας φιλοθεάμονας."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀπομεμισθωκότες τὰ ὦτα",
+          "lemma": null,
+          "location": "475d",
+          "context": "ὥσπερ δὲ ἀπομεμισθωκότες τὰ ὦτα ἐπακοῦσαι πάντων χορῶν"
+        },
+        {
+          "form": "περιθέουσι τοῖς Διονυσίοις",
+          "lemma": "περιτρέχω",
+          "location": "475d",
+          "context": null
+        }
+      ],
+      "observation": "Glaucon describes the φιλήκοοι as having 'hired out their ears' and running around at the Dionysia to hear every chorus, a concrete image of indiscriminate sensory pursuit."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἓν ἕκαστον εἶναι",
+          "lemma": null,
+          "location": "476a",
+          "context": "αὐτὸ μὲν ἓν ἕκαστον εἶναι"
+        },
+        {
+          "form": "πολλὰ φαίνεσθαι ἕκαστον",
+          "lemma": null,
+          "location": "476a",
+          "context": "πανταχοῦ φανταζόμενα πολλὰ φαίνεσθαι ἕκαστον"
+        }
+      ],
+      "observation": "ἕκαστον appears in two parallel clauses: each form is one in itself, yet each appears many through participation in actions, bodies, and mutual association."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκολούθησόν μοι",
+          "lemma": "ἀκολουθέω",
+          "location": "474c",
+          "context": "ἴθι δή, ἀκολούθησόν μοι τῇδε"
+        },
+        {
+          "form": "ἀκολουθεῖν τε τῷ ἡγουμένῳ",
+          "lemma": "ἀκολουθέω",
+          "location": "474c",
+          "context": null
+        }
+      ],
+      "observation": "ἀκολουθέω appears first as the role assigned to non-philosophers (following the leader in the city), then immediately as Socrates' imperative to Glaucon to follow his argument."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἡγεμονεύειν",
+          "lemma": "ἡγεμονεύω",
+          "location": "474c",
+          "context": "ἡγεμονεύειν τʼ ἐν πόλει"
+        },
+        {
+          "form": "ἡγουμένῳ",
+          "lemma": "ἡγέομαι",
+          "location": "474c",
+          "context": "ἀκολουθεῖν τε τῷ ἡγουμένῳ"
+        }
+      ],
+      "observation": "ἡγεμονεύειν and ἡγουμένῳ from the same root appear in close succession, the first naming the philosopher's political role, the second naming the person others follow."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀναμιμνῄσκειν",
+          "lemma": "ἀναμιμνῄσκω",
+          "location": "474c",
+          "context": "ἀναμιμνῄσκειν οὖν σε … δεήσει, ἢ μέμνησαι"
+        },
+        {
+          "form": "ἀναμιμνῄσκειν … δεῖ",
+          "lemma": "ἀναμιμνῄσκω",
+          "location": "474d",
+          "context": "ἀναμιμνῄσκειν, ἔφη, ὡς ἔοικεν, δεῖ"
+        }
+      ],
+      "observation": "Socrates asks whether reminding will be necessary or Glaucon remembers; Glaucon immediately concedes that reminding is indeed necessary, completing the proposed action."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὁρίζεσθαι",
+          "lemma": "ὁρίζω",
+          "location": "474c",
+          "context": "ὥρα ἂν εἴη ὁρίζεσθαι"
+        },
+        {
+          "form": "διορίσασθαι",
+          "lemma": "διορίζω",
+          "location": "474b",
+          "context": "διορίσασθαι πρὸς αὐτοὺς τοὺς φιλοσόφους"
+        },
+        {
+          "form": "διαιρῶ",
+          "lemma": "διαιρέω",
+          "location": "476a",
+          "context": "ταύτῃ τοίνυν διαιρῶ"
+        }
+      ],
+      "observation": "The section moves from the need to define/distinguish (διορίσασθαι, ὁρίζεσθαι) to the act of dividing (διαιρῶ) at its close."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μειζόνων καὶ σεμνοτέρων",
+          "lemma": null,
+          "location": "475a-b",
+          "context": null
+        },
+        {
+          "form": "σμικροτέρων καὶ φαυλοτέρων",
+          "lemma": null,
+          "location": "475b",
+          "context": null
+        }
+      ],
+      "observation": "Paired comparatives set greater/more dignified against smaller/more trivial in describing the honor-lovers' willingness to accept any source of honor."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐναντίον καλὸν αἰσχρῷ",
+          "lemma": null,
+          "location": "475e",
+          "context": null
+        },
+        {
+          "form": "δικαίου καὶ ἀδίκου",
+          "lemma": null,
+          "location": "476a",
+          "context": null
+        },
+        {
+          "form": "ἀγαθοῦ καὶ κακοῦ",
+          "lemma": null,
+          "location": "476a",
+          "context": null
+        }
+      ],
+      "observation": "Three pairings of opposites—beautiful/ugly, just/unjust, good/bad—are listed as instances of each form being one yet appearing many."
+    }
+  ]
+}

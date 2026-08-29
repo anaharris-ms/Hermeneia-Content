@@ -1,0 +1,822 @@
+{
+  "section_id": "republic-chapter-02-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "χρείᾳ",
+          "lemma": "χρεία",
+          "location": "369c",
+          "context": "ἐπʼ ἄλλου χρείᾳ"
+        },
+        {
+          "form": "χρεία",
+          "lemma": "χρεία",
+          "location": "369c",
+          "context": "ἡ ἡμετέρα χρεία"
+        },
+        {
+          "form": "χρειῶν",
+          "lemma": "χρεία",
+          "location": "369d",
+          "context": "πρώτη γε καὶ μεγίστη τῶν χρειῶν"
+        },
+        {
+          "form": "χρεία",
+          "lemma": "χρεία",
+          "location": "371a",
+          "context": "ὧν ἂν αὐτοῖς χρεία"
+        },
+        {
+          "form": "χρείαν",
+          "lemma": "χρεία",
+          "location": "371e",
+          "context": "πωλοῦντες τὴν τῆς ἰσχύος χρείαν"
+        },
+        {
+          "form": "χρείᾳ",
+          "lemma": "χρεία",
+          "location": "372a",
+          "context": "ἐν αὐτῶν τούτων χρείᾳ τινὶ τῇ πρὸς ἀλλήλους"
+        },
+        {
+          "form": "χρεία",
+          "lemma": "χρεία",
+          "location": "371d",
+          "context": "αὕτη ἄρα ἡ χρεία καπήλων ἡμῖν γένεσιν ἐμποιεῖ"
+        }
+      ],
+      "observation": "χρεία recurs densely throughout the section, named as the force that generates the city, ranks needs, drives trade, and is proposed as the possible locus of justice."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐνδεής",
+          "lemma": "ἐνδεής",
+          "location": "369b",
+          "context": "πολλῶν ὢν ἐνδεής"
+        },
+        {
+          "form": "δεόμενοι",
+          "lemma": "δέομαι",
+          "location": "369c",
+          "context": "πολλῶν δεόμενοι"
+        },
+        {
+          "form": "δεῖ",
+          "lemma": "δεῖ",
+          "location": "369e",
+          "context": "ἕνα ἕκαστον τούτων δεῖ"
+        },
+        {
+          "form": "δεήσεται",
+          "lemma": "δέομαι",
+          "location": "370e",
+          "context": "ἐπεισαγωγίμων μὴ δεήσεται"
+        },
+        {
+          "form": "προσδεήσει",
+          "lemma": "προσδέομαι",
+          "location": "370e",
+          "context": null
+        },
+        {
+          "form": "δέονται",
+          "lemma": "δέομαι",
+          "location": "371a",
+          "context": null
+        },
+        {
+          "form": "δεομένοις",
+          "lemma": "δέομαι",
+          "location": "371c",
+          "context": null
+        },
+        {
+          "form": "δεομένοις",
+          "lemma": "δέομαι",
+          "location": "371d",
+          "context": null
+        }
+      ],
+      "observation": "Forms of δέομαι/δεῖ recur throughout, from the founding premise of human neediness through the expanding catalogue of what the city requires."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "exact_repetition",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἄλλος ἄλλον",
+          "lemma": "ἄλλος",
+          "location": "369c",
+          "context": "παραλαμβάνων ἄλλος ἄλλον, ἐπʼ ἄλλου, τὸν δʼ ἐπʼ ἄλλου"
+        },
+        {
+          "form": "ἄλλος ἄλλῳ",
+          "lemma": "ἄλλος",
+          "location": "369c",
+          "context": "μεταδίδωσι δὴ ἄλλος ἄλλῳ"
+        },
+        {
+          "form": "ἄλλος ἐπʼ ἄλλου ἔργου",
+          "lemma": "ἄλλος",
+          "location": "370b",
+          "context": "διαφέρων τὴν φύσιν, ἄλλος ἐπʼ ἄλλου ἔργου"
+        }
+      ],
+      "observation": "The reciprocal ἄλλος ἄλλον/ἄλλῳ construction recurs, each time articulating mutual exchange or differentiation among persons."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τροφῆς",
+          "lemma": "τροφή",
+          "location": "369d",
+          "context": "πρώτη γε καὶ μεγίστη τῶν χρειῶν ἡ τῆς τροφῆς παρασκευή"
+        },
+        {
+          "form": "οἰκήσεως",
+          "lemma": "οἴκησις",
+          "location": "369d",
+          "context": "δευτέρα δὴ οἰκήσεως"
+        },
+        {
+          "form": "ἐσθῆτος",
+          "lemma": "ἐσθής",
+          "location": "369d",
+          "context": "τρίτη δὲ ἐσθῆτος"
+        }
+      ],
+      "observation": "The three primary needs are enumerated in explicit ordinal sequence: πρώτη (food), δευτέρα (shelter), τρίτη (clothing)."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "γεωργός",
+          "lemma": "γεωργός",
+          "location": "370c",
+          "context": null
+        },
+        {
+          "form": "οἰκοδόμος",
+          "lemma": "οἰκοδόμος",
+          "location": "369d",
+          "context": null
+        },
+        {
+          "form": "ὑφάντης",
+          "lemma": "ὑφάντης",
+          "location": "369d",
+          "context": null
+        },
+        {
+          "form": "σκυτοτόμον",
+          "lemma": "σκυτοτόμος",
+          "location": "369d",
+          "context": null
+        }
+      ],
+      "observation": "Four craftsmen are listed as corresponding to the basic needs; the fourth (σκυτοτόμος) is added with hesitation (ἢ καί... προσθήσομεν), yielding the τεττάρων ἢ πέντε ἀνδρῶν count."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "αὐτάρκης",
+          "lemma": "αὐτάρκης",
+          "location": "369b",
+          "context": "ἡμῶν ἕκαστος οὐκ αὐτάρκης"
+        },
+        {
+          "form": "ἀρκέσει",
+          "lemma": "ἀρκέω",
+          "location": "369d",
+          "context": "πῶς ἡ πόλις ἀρκέσει ἐπὶ τοσαύτην παρασκευήν"
+        }
+      ],
+      "observation": "The individual is declared οὐκ αὐτάρκης; the question then becomes whether the πόλις will ἀρκέσει — sufficiency transfers from person to city."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κοινωνούς",
+          "lemma": "κοινωνός",
+          "location": "369c",
+          "context": "κοινωνούς τε καὶ βοηθούς"
+        },
+        {
+          "form": "κοινωνεῖν",
+          "lemma": "κοινωνέω",
+          "location": "369e",
+          "context": "ἄλλοις κοινωνεῖν"
+        },
+        {
+          "form": "κοινωνοῦντα",
+          "lemma": "κοινωνέω",
+          "location": "370a",
+          "context": "μὴ ἄλλοις κοινωνοῦντα"
+        },
+        {
+          "form": "κοινωνοί",
+          "lemma": "κοινωνός",
+          "location": "370d",
+          "context": "κοινωνοὶ ἡμῖν τοῦ πολιχνίου"
+        },
+        {
+          "form": "κοινωνίαν",
+          "lemma": "κοινωνία",
+          "location": "371b",
+          "context": "κοινωνίαν ποιησάμενοι πόλιν ᾠκίσαμεν"
+        }
+      ],
+      "observation": "Forms of κοινωνός/κοινωνέω recur, first naming the partners who found the city, then the question of sharing labor versus self-sufficiency, then artisan-partners, then the κοινωνία as the city's purpose."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εἷς ὢν πολλὰς τέχνας",
+          "lemma": null,
+          "location": "370b",
+          "context": "πότερον κάλλιον πράττοι ἄν τις εἷς ὢν πολλὰς τέχνας ἐργαζόμενος"
+        },
+        {
+          "form": "μίαν εἷς",
+          "lemma": null,
+          "location": "370b",
+          "context": "ὅταν μίαν εἷς"
+        },
+        {
+          "form": "εἷς ἓν κατὰ φύσιν",
+          "lemma": null,
+          "location": "370c",
+          "context": null
+        }
+      ],
+      "observation": "A contrast between one person doing many crafts and one person doing one is articulated with repeated εἷς, resolved in the formula εἷς ἓν κατὰ φύσιν."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεταδίδωσι",
+          "lemma": "μεταδίδωμι",
+          "location": "369c",
+          "context": "μεταδίδωσι δὴ ἄλλος ἄλλῳ, εἴ τι μεταδίδωσιν"
+        },
+        {
+          "form": "μεταλαμβάνει",
+          "lemma": "μεταλαμβάνω",
+          "location": "369c",
+          "context": null
+        },
+        {
+          "form": "μεταδώσουσιν",
+          "lemma": "μεταδίδωμι",
+          "location": "371b",
+          "context": "πῶς ἀλλήλοις μεταδώσουσιν"
+        }
+      ],
+      "observation": "μεταδίδωμι appears early in a general formulation of sharing and returns when the question of intra-city exchange is posed; μεταλαμβάνω sits beside it as the receiving counterpart."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἔμποροι",
+          "lemma": "ἔμπορος",
+          "location": "371a",
+          "context": null
+        },
+        {
+          "form": "ἐμπόρων",
+          "lemma": "ἔμπορος",
+          "location": "371a",
+          "context": null
+        },
+        {
+          "form": "ἐμπορία",
+          "lemma": "ἐμπορία",
+          "location": "371a",
+          "context": "κατὰ θάλατταν ἡ ἐμπορία"
+        },
+        {
+          "form": "καπήλων",
+          "lemma": "κάπηλος",
+          "location": "371d",
+          "context": null
+        },
+        {
+          "form": "καπήλους",
+          "lemma": "κάπηλος",
+          "location": "371d",
+          "context": null
+        },
+        {
+          "form": "μισθωτοί",
+          "lemma": "μισθωτός",
+          "location": "371e",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of exchange-role terms: ἔμποροι (traveling merchants), κάπηλοι (stationary retailers), and μισθωτοί (wage-earners) are distinguished and named in sequence as the city expands."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κενὸς ἂν ἴῃ",
+          "lemma": null,
+          "location": "370e",
+          "context": "κενὸς ἂν ἴῃ ὁ διάκονος"
+        },
+        {
+          "form": "κενὸς ἄπεισιν",
+          "lemma": null,
+          "location": "371a",
+          "context": null
+        }
+      ],
+      "observation": "κενός appears twice in immediate succession: the servant goes empty and comes back empty, framing the necessity of surplus production for trade."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πλανήτας ἐπὶ τὰς πόλεις",
+          "lemma": "πλανήτης",
+          "location": "371d",
+          "context": "τοὺς δὲ πλανήτας ἐπὶ τὰς πόλεις ἐμπόρους"
+        },
+        {
+          "form": "ἱδρυμένους ἐν ἀγορᾷ",
+          "lemma": "ἱδρύω",
+          "location": "371d",
+          "context": "τοὺς πρὸς ὠνήν τε καὶ πρᾶσιν διακονοῦντας ἱδρυμένους ἐν ἀγορᾷ"
+        }
+      ],
+      "observation": "Retailers (κάπηλοι) are distinguished from merchants (ἔμποροι) by spatial contrast: ἱδρυμένους (settled in the agora) versus πλανήτας (wandering to cities)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὰ μὲν τῆς διανοίας μὴ πάνυ ἀξιοκοινώνητοι",
+          "lemma": null,
+          "location": "371e",
+          "context": null
+        },
+        {
+          "form": "τὴν δὲ τοῦ σώματος ἰσχὺν ἱκανήν",
+          "lemma": null,
+          "location": "371e",
+          "context": null
+        },
+        {
+          "form": "πωλοῦντες τὴν τῆς ἰσχύος χρείαν",
+          "lemma": "πωλέω",
+          "location": "371e",
+          "context": null
+        }
+      ],
+      "observation": "Wage-earners are defined by a mind/body split: unfit for intellectual partnership but possessing bodily strength, which they sell — their ἰσχύς becomes a commodity."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παρασκευήν",
+          "lemma": "παρασκευή",
+          "location": "369d",
+          "context": "ἐπὶ τοσαύτην παρασκευήν"
+        },
+        {
+          "form": "παρασκευάζειν",
+          "lemma": "παρασκευάζω",
+          "location": "369e",
+          "context": null
+        },
+        {
+          "form": "παρασκευῇ",
+          "lemma": "παρασκευή",
+          "location": "369e",
+          "context": "ἐπὶ σίτου παρασκευῇ"
+        },
+        {
+          "form": "παρασκευῇ",
+          "lemma": "παρασκευή",
+          "location": "370a",
+          "context": "τῆς οἰκίας παρασκευῇ"
+        },
+        {
+          "form": "παρασκευάς",
+          "lemma": "παρασκευή",
+          "location": "370c",
+          "context": null
+        },
+        {
+          "form": "παρεσκευασμένοι",
+          "lemma": "παρασκευάζω",
+          "location": "372a",
+          "context": "οἱ οὕτω παρεσκευασμένοι"
+        }
+      ],
+      "observation": "παρασκευή/παρασκευάζω recurs from the question of how the city will supply needs through to the description of citizens as 'so equipped.'"
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "τῷ λόγῳ ἐξ ἀρχῆς ποιῶμεν πόλιν",
+          "lemma": null,
+          "location": "369c",
+          "context": null
+        },
+        {
+          "form": "ηὔξηται ἡ πόλις, ὥστʼ εἶναι τελέα",
+          "lemma": null,
+          "location": "371e",
+          "context": null
+        }
+      ],
+      "observation": "The proposal to make a city in speech (ποιῶμεν πόλιν) is answered by the question whether the city has now grown to be τελέα."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δικαιοσύνη",
+          "lemma": "δικαιοσύνη",
+          "location": "371e",
+          "context": "ποῦ οὖν ἄν ποτε ἐν αὐτῇ εἴη ἥ τε δικαιοσύνη καὶ ἡ ἀδικία"
+        },
+        {
+          "form": "ἀδικία",
+          "lemma": "ἀδικία",
+          "location": "371e",
+          "context": null
+        }
+      ],
+      "observation": "δικαιοσύνη and ἀδικία appear together for the first time in the section only after the city is declared potentially complete, posed as a locative question (ποῦ... ἐν αὐτῇ)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σῖτόν",
+          "lemma": "σῖτος",
+          "location": "372a",
+          "context": null
+        },
+        {
+          "form": "οἶνον",
+          "lemma": "οἶνος",
+          "location": "372a",
+          "context": null
+        },
+        {
+          "form": "ἱμάτια",
+          "lemma": "ἱμάτιον",
+          "location": "372a",
+          "context": null
+        },
+        {
+          "form": "ὑποδήματα",
+          "lemma": "ὑπόδημα",
+          "location": "372a",
+          "context": null
+        },
+        {
+          "form": "οἰκίας",
+          "lemma": "οἰκία",
+          "location": "372a",
+          "context": "οἰκοδομησάμενοι οἰκίας"
+        },
+        {
+          "form": "κριθῶν",
+          "lemma": "κριθή",
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "πυρῶν",
+          "lemma": "πυρός",
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "μάζας",
+          "lemma": "μᾶζα",
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "ἄρτους",
+          "lemma": "ἄρτος",
+          "location": "372b",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of concrete foodstuffs and material goods fills the description of how the city's inhabitants will live, corresponding to the earlier abstract enumeration of needs."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γυμνοί τε καὶ ἀνυπόδητοι",
+          "lemma": null,
+          "location": "372a",
+          "context": "θέρους μὲν τὰ πολλὰ γυμνοί τε καὶ ἀνυπόδητοι"
+        },
+        {
+          "form": "ἠμφιεσμένοι τε καὶ ὑποδεδεμένοι",
+          "lemma": null,
+          "location": "372b",
+          "context": "τοῦ δὲ χειμῶνος ἠμφιεσμένοι τε καὶ ὑποδεδεμένοι"
+        }
+      ],
+      "observation": "Summer and winter are contrasted through paired participles: naked and unshod versus clothed and shod."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "στιβάδων ἐστρωμένων μίλακί τε καὶ μυρρίναις",
+          "lemma": null,
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "εὐωχήσονται",
+          "lemma": "εὐωχέω",
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "ἐπιπίνοντες τοῦ οἴνου",
+          "lemma": null,
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "ἐστεφανωμένοι",
+          "lemma": "στεφανόω",
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "ὑμνοῦντες τοὺς θεούς",
+          "lemma": "ὑμνέω",
+          "location": "372b",
+          "context": null
+        }
+      ],
+      "observation": "The scene of communal feasting gathers reclining on beds of smilax and myrtle, feasting, drinking wine, wearing garlands, and hymning the gods."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "οὐχ ὑπὲρ τὴν οὐσίαν ποιούμενοι τοὺς παῖδας",
+          "lemma": null,
+          "location": "372b-c",
+          "context": null
+        },
+        {
+          "form": "εὐλαβούμενοι πενίαν ἢ πόλεμον",
+          "lemma": null,
+          "location": "372c",
+          "context": null
+        }
+      ],
+      "observation": "The section closes with two negative restraints: not begetting children beyond their means, guarding against πενία and πόλεμος — the first mention of war in the section."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἴκησιν",
+          "lemma": "οἴκησις",
+          "location": "369c",
+          "context": "εἰς μίαν οἴκησιν ἀγείραντες"
+        },
+        {
+          "form": "συνοικίᾳ",
+          "lemma": "συνοικία",
+          "location": "369c",
+          "context": "ταύτῃ τῇ συνοικίᾳ ἐθέμεθα πόλιν ὄνομα"
+        },
+        {
+          "form": "οἰκήσεως",
+          "lemma": "οἴκησις",
+          "location": "369d",
+          "context": "δευτέρα δὴ οἰκήσεως"
+        },
+        {
+          "form": "οἰκοδόμος",
+          "lemma": "οἰκοδόμος",
+          "location": "369d",
+          "context": null
+        },
+        {
+          "form": "οἰκίας",
+          "lemma": "οἰκία",
+          "location": "370a",
+          "context": "τῆς οἰκίας παρασκευῇ"
+        },
+        {
+          "form": "κατοικίσαι",
+          "lemma": "κατοικίζω",
+          "location": "370e",
+          "context": "κατοικίσαι γε αὐτὴν τὴν πόλιν εἰς τοιοῦτον τόπον"
+        },
+        {
+          "form": "οἰκουμέναις",
+          "lemma": "οἰκέω",
+          "location": "371c",
+          "context": "ταῖς ὀρθῶς οἰκουμέναις πόλεσι"
+        },
+        {
+          "form": "ᾠκίσαμεν",
+          "lemma": "οἰκίζω",
+          "location": "371b",
+          "context": "πόλιν ᾠκίσαμεν"
+        },
+        {
+          "form": "οἰκοδομησάμενοι",
+          "lemma": "οἰκοδομέω",
+          "location": "372a",
+          "context": null
+        }
+      ],
+      "observation": "The οἰκ- root recurs across multiple forms — dwelling, co-dwelling, building, settling, founding — threading through the section from the naming of the city as συνοικία to the building of houses in the simple-city description."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σχολήν",
+          "lemma": "σχολή",
+          "location": "370b",
+          "context": "τὴν τοῦ πράττοντος σχολὴν περιμένειν"
+        },
+        {
+          "form": "σχολὴν τῶν ἄλλων ἄγων",
+          "lemma": "σχολή",
+          "location": "370c",
+          "context": null
+        }
+      ],
+      "observation": "σχολή appears first as something the work (τὸ πραττόμενον) will not wait for, then as what the specialized worker enjoys — leisure from other tasks."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διάκονος",
+          "lemma": "διάκονος",
+          "location": "370e",
+          "context": "κενὸς ἂν ἴῃ ὁ διάκονος"
+        },
+        {
+          "form": "διακόνων",
+          "lemma": "διάκονος",
+          "location": "371a",
+          "context": "τῶν ἄλλων διακόνων"
+        },
+        {
+          "form": "διακονίαν",
+          "lemma": "διακονία",
+          "location": "371c",
+          "context": "ἑαυτοὺς ἐπὶ τὴν διακονίαν τάττουσιν"
+        },
+        {
+          "form": "διακονοῦντας",
+          "lemma": "διακονέω",
+          "location": "371d",
+          "context": null
+        },
+        {
+          "form": "διάκονοι",
+          "lemma": "διάκονος",
+          "location": "371e",
+          "context": null
+        }
+      ],
+      "observation": "διάκονος and cognates recur five times as the concept of service/intermediation expands from a single agent to importers/exporters, retailers, and wage-earners."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀγορά",
+          "lemma": "ἀγορά",
+          "location": "371b",
+          "context": "ἀγορὰ δὴ ἡμῖν"
+        },
+        {
+          "form": "νόμισμα",
+          "lemma": "νόμισμα",
+          "location": "371b",
+          "context": "νόμισμα σύμβολον τῆς ἀλλαγῆς ἕνεκα"
+        },
+        {
+          "form": "πωλοῦντες καὶ ὠνούμενοι",
+          "lemma": null,
+          "location": "371b",
+          "context": null
+        },
+        {
+          "form": "ἀργυρίου",
+          "lemma": "ἀργύριον",
+          "location": "371d",
+          "context": "ἀντʼ ἀργυρίου ἀλλάξασθαι"
+        }
+      ],
+      "observation": "A cluster of exchange terms: marketplace, coinage as σύμβολον, buying/selling, and silver, introduced together as institutions arising from the city's needs."
+    }
+  ]
+}

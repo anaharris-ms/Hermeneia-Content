@@ -1,0 +1,766 @@
+{
+  "section_id": "republic-chapter-07-section-11",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νόθους",
+          "lemma": "νόθος",
+          "location": "535c",
+          "context": "οὐ γὰρ νόθους ἔδει ἅπτεσθαι, ἀλλὰ γνησίους"
+        },
+        {
+          "form": "γνησίους",
+          "lemma": "γνήσιος",
+          "location": "535c",
+          "context": null
+        },
+        {
+          "form": "νόθον",
+          "lemma": "νόθος",
+          "location": "536a",
+          "context": "φυλάττειν τὸν νόθον τε καὶ τὸν γνήσιον"
+        },
+        {
+          "form": "γνήσιον",
+          "lemma": "γνήσιος",
+          "location": "536a",
+          "context": null
+        }
+      ],
+      "observation": "νόθος and γνήσιος (bastard/legitimate) recur as a contrasted pair, first applied to those who touch philosophy, then to discerning virtue."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χωλὸν",
+          "lemma": "χωλός",
+          "location": "535d",
+          "context": "φιλοπονίᾳ οὐ χωλὸν δεῖ εἶναι τὸν ἁψόμενον"
+        },
+        {
+          "form": "χωλὸς",
+          "lemma": "χωλός",
+          "location": "535d",
+          "context": "χωλὸς δὲ καὶ ὁ τἀναντία τούτου"
+        },
+        {
+          "form": "ἀνάπηρον",
+          "lemma": "ἀνάπηρος",
+          "location": "535d",
+          "context": "ταὐτὸν τοῦτο ἀνάπηρον ψυχὴν θήσομεν"
+        },
+        {
+          "form": "χωλοῖς",
+          "lemma": "χωλός",
+          "location": "536a",
+          "context": "λανθάνουσι χωλοῖς τε καὶ νόθοις χρώμενοι"
+        },
+        {
+          "form": "ἀρτιμελεῖς",
+          "lemma": "ἀρτιμελής",
+          "location": "536b",
+          "context": null
+        },
+        {
+          "form": "ἀρτίφρονας",
+          "lemma": "ἀρτίφρων",
+          "location": "536b",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of bodily disability terms (χωλός, ἀνάπηρος) applied to the soul is answered by ἀρτιμελεῖς and ἀρτίφρονας (sound in limb and mind), linking physical wholeness and intellectual fitness."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φιλόπονον",
+          "lemma": "φιλόπονος",
+          "location": "535c",
+          "context": "πάντῃ φιλόπονον ζητητέον"
+        },
+        {
+          "form": "φιλόπονον",
+          "lemma": "φιλόπονος",
+          "location": "535d",
+          "context": "τὰ μὲν ἡμίσεα φιλόπονον ὄντα"
+        },
+        {
+          "form": "ἄπονον",
+          "lemma": "ἄπονος",
+          "location": "535d",
+          "context": "τὰ δʼ ἡμίσεα ἄπονον"
+        },
+        {
+          "form": "φιλοπονῇ",
+          "lemma": "φιλοπονέω",
+          "location": "535d",
+          "context": null
+        },
+        {
+          "form": "μισοπονῇ",
+          "lemma": "μισοπονέω",
+          "location": "535d",
+          "context": null
+        },
+        {
+          "form": "φιλοπονίαν",
+          "lemma": "φιλοπονία",
+          "location": "535d",
+          "context": "μεταβεβληκὼς τὴν φιλοπονίαν"
+        }
+      ],
+      "observation": "The πόνος family proliferates in 535c-d with φιλόπονος, ἄπονος, φιλοπονέω, μισοπονέω set in contrast around the half-lame soul."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἅπτονται",
+          "lemma": "ἅπτω",
+          "location": "535c",
+          "context": "οὐ κατʼ ἀξίαν αὐτῆς ἅπτονται"
+        },
+        {
+          "form": "ἅπτεσθαι",
+          "lemma": "ἅπτω",
+          "location": "535c",
+          "context": "οὐ γὰρ νόθους ἔδει ἅπτεσθαι"
+        },
+        {
+          "form": "ἁψόμενον",
+          "lemma": "ἅπτω",
+          "location": "535d",
+          "context": null
+        },
+        {
+          "form": "ἁπτομένους",
+          "lemma": "ἅπτω",
+          "location": "538c",
+          "context": "τοὺς ἁπτομένους τῶν λόγων"
+        },
+        {
+          "form": "ἁπτομένων",
+          "lemma": "ἅπτω",
+          "location": "539a",
+          "context": "τῶν οὕτω λόγων ἁπτομένων"
+        },
+        {
+          "form": "ἁπτέον",
+          "lemma": "ἅπτω",
+          "location": "539a",
+          "context": "τῶν λόγων ἁπτέον"
+        }
+      ],
+      "observation": "ἅπτομαι recurs throughout, first of touching philosophy, then of touching λόγοι, marking who may and how one should take hold of these pursuits."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ὑποβολιμαῖος",
+          "lemma": "ὑποβολιμαῖος",
+          "location": "537e",
+          "context": "εἴ τις ὑποβολιμαῖος τραφείη"
+        },
+        {
+          "form": "γονέων",
+          "lemma": "γονεύς",
+          "location": "538a",
+          "context": "τῶν φασκόντων γονέων"
+        },
+        {
+          "form": "γεννήσαντας",
+          "lemma": "γεννάω",
+          "location": "538a",
+          "context": "τοὺς δὲ τῷ ὄντι γεννήσαντας"
+        },
+        {
+          "form": "ὑποβαλομένους",
+          "lemma": "ὑποβάλλω",
+          "location": "538a",
+          "context": null
+        },
+        {
+          "form": "ὑποβολῆς",
+          "lemma": "ὑποβολή",
+          "location": "538a",
+          "context": null
+        },
+        {
+          "form": "πατέρα",
+          "lemma": "πατήρ",
+          "location": "538b",
+          "context": null
+        },
+        {
+          "form": "μητέρα",
+          "lemma": "μήτηρ",
+          "location": "538b",
+          "context": null
+        },
+        {
+          "form": "γονεῦσι",
+          "lemma": "γονεύς",
+          "location": "538c",
+          "context": "ὥσπερ ὑπὸ γονεῦσι"
+        }
+      ],
+      "observation": "The supposititious child analogy generates a dense family-kinship cluster: ὑποβολιμαῖος, γονεύς, γεννάω, πατήρ, μητήρ, returning γονεῦσι when the analogy is applied to moral beliefs."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κόλαξι",
+          "lemma": "κόλαξ",
+          "location": "538a",
+          "context": "κόλαξι πολλοῖς"
+        },
+        {
+          "form": "κολακεύοντας",
+          "lemma": "κολακεύω",
+          "location": "538b",
+          "context": "τοὺς κολακεύοντας"
+        },
+        {
+          "form": "κόλακας",
+          "lemma": "κόλαξ",
+          "location": "538b",
+          "context": "περὶ δὲ τοὺς κόλακας ἐπιτεῖναι"
+        },
+        {
+          "form": "κολακεύει",
+          "lemma": "κολακεύω",
+          "location": "538d",
+          "context": "ἃ κολακεύει μὲν ἡμῶν τὴν ψυχὴν"
+        },
+        {
+          "form": "κολακεύοντα",
+          "lemma": "κολακεύω",
+          "location": "539a",
+          "context": "τὸν κολακεύοντα"
+        }
+      ],
+      "observation": "κόλαξ/κολακεύω moves from literal flatterers in the analogy to pleasures that flatter the soul and finally to the flattering life the young philosopher joins."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τιμᾶν",
+          "lemma": "τιμάω",
+          "location": "538b",
+          "context": "μᾶλλον αὐτὸν τιμᾶν ἂν τὸν πατέρα"
+        },
+        {
+          "form": "τιμῆς",
+          "lemma": "τιμή",
+          "location": "538e",
+          "context": "πρὸς αὐτὰ τιμῆς τε πέρι"
+        },
+        {
+          "form": "τιμᾶν",
+          "lemma": "τιμάω",
+          "location": "538e",
+          "context": "μήτε τιμᾶν ἔτι ὁμοίως"
+        },
+        {
+          "form": "τίμια",
+          "lemma": "τίμιος",
+          "location": "538e",
+          "context": "μήτε ταῦτα ἡγῆται τίμια"
+        },
+        {
+          "form": "τιμιώτερον",
+          "lemma": "τίμιος",
+          "location": "539d",
+          "context": "τὸ ἐπιτήδευμα τιμιώτερον"
+        },
+        {
+          "form": "ἀτιμοτέρου",
+          "lemma": "ἄτιμος",
+          "location": "539d",
+          "context": "ἀντὶ ἀτιμοτέρου"
+        },
+        {
+          "form": "ἀτιμία",
+          "lemma": "ἀτιμία",
+          "location": "535c",
+          "context": "ἡ ἀτιμία φιλοσοφίᾳ"
+        }
+      ],
+      "observation": "τιμή/τιμάω/ἄτιμος recurs across the section: philosophy's dishonor (535c), the supposititious child's shifting honor toward parents then flatterers, loss of honor for beliefs after refutation, and the older person making the pursuit more honored."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παίζοντας",
+          "lemma": "παίζω",
+          "location": "537a",
+          "context": "ἀλλὰ παίζοντας τρέφε"
+        },
+        {
+          "form": "παιδιᾷ",
+          "lemma": "παιδιά",
+          "location": "539b",
+          "context": "ὡς παιδιᾷ αὐτοῖς καταχρῶνται"
+        },
+        {
+          "form": "παίζοντα",
+          "lemma": "παίζω",
+          "location": "539c",
+          "context": "τὸν παιδιᾶς χάριν παίζοντα καὶ ἀντιλέγοντα"
+        }
+      ],
+      "observation": "παίζω appears first positively (children should learn through play) and returns negatively (youths misuse arguments as play), with the older person contrasted against the one who plays."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκύλακας",
+          "lemma": "σκύλαξ",
+          "location": "537a",
+          "context": "γευστέον αἵματος, ὥσπερ τοὺς σκύλακας"
+        },
+        {
+          "form": "σκυλάκια",
+          "lemma": "σκυλάκιον",
+          "location": "539b",
+          "context": "χαίροντες ὥσπερ σκυλάκια τῷ ἕλκειν τε καὶ σπαράττειν"
+        }
+      ],
+      "observation": "σκύλαξ appears for children tasting blood in war; σκυλάκιον (diminutive) returns for youths tearing arguments apart—both are similes, but the activities and valuations differ."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δουλείας",
+          "lemma": "δουλεία",
+          "location": "536e",
+          "context": "μετὰ δουλείας"
+        },
+        {
+          "form": "ἐλεύθερον",
+          "lemma": "ἐλεύθερος",
+          "location": "536e",
+          "context": "τὸν ἐλεύθερον χρὴ μανθάνειν"
+        },
+        {
+          "form": "βίᾳ",
+          "lemma": "βία",
+          "location": "536e",
+          "context": "οἱ μὲν γὰρ τοῦ σώματος πόνοι βίᾳ πονούμενοι"
+        },
+        {
+          "form": "βίαιον",
+          "lemma": "βίαιος",
+          "location": "536e",
+          "context": "ψυχῇ δὲ βίαιον οὐδὲν ἔμμονον μάθημα"
+        }
+      ],
+      "observation": "δουλεία and ἐλεύθερος are set in direct opposition regarding learning; βία is then distinguished between body (where force does no harm) and soul (where forced learning does not remain)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐκλογὴν",
+          "lemma": "ἐκλογή",
+          "location": "535a",
+          "context": "τὴν προτέραν ἐκλογὴν τῶν ἀρχόντων"
+        },
+        {
+          "form": "ἐξελέξαμεν",
+          "lemma": "ἐκλέγω",
+          "location": "535a",
+          "context": "οἵους ἐξελέξαμεν"
+        },
+        {
+          "form": "ἐκλεκτέας",
+          "lemma": "ἐκλεκτέος",
+          "location": "535a",
+          "context": "ἐκείνας τὰς φύσεις οἴου δεῖν ἐκλεκτέας εἶναι"
+        },
+        {
+          "form": "ἐκλογῇ",
+          "lemma": "ἐκλογή",
+          "location": "536c",
+          "context": "ἐν μὲν τῇ προτέρᾳ ἐκλογῇ"
+        },
+        {
+          "form": "ἐξελέγομεν",
+          "lemma": "ἐκλέγω",
+          "location": "536c",
+          "context": "πρεσβύτας ἐξελέγομεν"
+        }
+      ],
+      "observation": "ἐκλογή and ἐκλέγω cluster at 535a and return at 536c, framing the section's concern with selection. The second occurrence contrasts with the first by distinguishing age groups."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πρεσβύτας",
+          "lemma": "πρεσβύτης",
+          "location": "536c",
+          "context": "πρεσβύτας ἐξελέγομεν"
+        },
+        {
+          "form": "νέων",
+          "lemma": "νέος",
+          "location": "536d",
+          "context": "νέων δὲ πάντες οἱ μεγάλοι καὶ οἱ πολλοὶ πόνοι"
+        },
+        {
+          "form": "παισὶν",
+          "lemma": "παῖς",
+          "location": "536d",
+          "context": "παισὶν οὖσι χρὴ προβάλλειν"
+        },
+        {
+          "form": "παῖδας",
+          "lemma": "παῖς",
+          "location": "536e",
+          "context": "τοὺς παῖδας"
+        },
+        {
+          "form": "νέους",
+          "lemma": "νέος",
+          "location": "539b",
+          "context": "τὸ μὴ νέους ὄντας αὐτῶν γεύεσθαι"
+        },
+        {
+          "form": "μειρακίσκοι",
+          "lemma": "μειρακίσκος",
+          "location": "539b",
+          "context": null
+        },
+        {
+          "form": "πρεσβύτερος",
+          "lemma": "πρεσβύτερος",
+          "location": "539c",
+          "context": "ὁ δὲ δὴ πρεσβύτερος"
+        }
+      ],
+      "observation": "Age terms recur and are contrasted: πρεσβύτης vs. νέος, παῖς, μειρακίσκος, and finally πρεσβύτερος, each associated with different capacities and dangers in learning."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐλέγχων",
+          "lemma": "ἐλέγχω",
+          "location": "538d",
+          "context": "πολλάκις καὶ πολλαχῇ ἐλέγχων"
+        },
+        {
+          "form": "ἐξελέγχῃ",
+          "lemma": "ἐξελέγχω",
+          "location": "538d",
+          "context": "ἐξελέγχῃ ὁ λόγος"
+        },
+        {
+          "form": "ἐξελέγχοντας",
+          "lemma": "ἐξελέγχω",
+          "location": "539b",
+          "context": "μιμούμενοι τοὺς ἐξελέγχοντας"
+        },
+        {
+          "form": "ἐλέγχουσι",
+          "lemma": "ἐλέγχω",
+          "location": "539b",
+          "context": "αὐτοὶ ἄλλους ἐλέγχουσι"
+        },
+        {
+          "form": "ἐλέγξωσιν",
+          "lemma": "ἐλέγχω",
+          "location": "539b",
+          "context": "πολλοὺς μὲν αὐτοὶ ἐλέγξωσιν"
+        },
+        {
+          "form": "ἐλεγχθῶσι",
+          "lemma": "ἐλέγχω",
+          "location": "539c",
+          "context": "ὑπὸ πολλῶν δὲ ἐλεγχθῶσι"
+        }
+      ],
+      "observation": "ἐλέγχω/ἐξελέγχω recurs densely: first λόγος refutes the young person's beliefs, then youths imitate refuters, refute others, and are themselves refuted—active and passive forms accumulate."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παρανομίας",
+          "lemma": "παρανομία",
+          "location": "537e",
+          "context": "παρανομίας που ἐμπίμπλανται"
+        },
+        {
+          "form": "παράνομόν",
+          "lemma": "παράνομος",
+          "location": "538b",
+          "context": "ἧττον δὲ παράνομόν τι δρᾶσαι"
+        },
+        {
+          "form": "παράνομος",
+          "lemma": "παράνομος",
+          "location": "539a",
+          "context": "παράνομος δὴ οἶμαι δόξει γεγονέναι ἐκ νομίμου"
+        },
+        {
+          "form": "νομίμου",
+          "lemma": "νόμιμος",
+          "location": "539a",
+          "context": null
+        }
+      ],
+      "observation": "παρανομία/παράνομος appears first as what dialectic practitioners are filled with, then within the analogy (the child would not act lawlessly), and finally as the outcome: the young person seems to have become παράνομος from νόμιμος."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γεύεσθαι",
+          "lemma": "γεύω",
+          "location": "539b",
+          "context": "τὸ μὴ νέους ὄντας αὐτῶν γεύεσθαι"
+        },
+        {
+          "form": "γεύωνται",
+          "lemma": "γεύω",
+          "location": "539b",
+          "context": "ὅταν τὸ πρῶτον λόγων γεύωνται"
+        },
+        {
+          "form": "γευστέον",
+          "lemma": "γεύω",
+          "location": "537a",
+          "context": "γευστέον αἵματος"
+        }
+      ],
+      "observation": "γεύω appears for tasting blood (children in war) and twice for tasting arguments (youths in dialectic), linking two kinds of early exposure."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "536e",
+          "context": "οἱ μὲν γὰρ τοῦ σώματος πόνοι βίᾳ πονούμενοι"
+        },
+        {
+          "form": "ψυχαὶ",
+          "lemma": "ψυχή",
+          "location": "535b",
+          "context": "πολὺ γάρ τοι μᾶλλον ἀποδειλιῶσι ψυχαὶ ἐν ἰσχυροῖς μαθήμασιν"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "536e",
+          "context": "τοῦ σώματος πόνοι βίᾳ πονούμενοι"
+        },
+        {
+          "form": "ψυχῇ",
+          "lemma": "ψυχή",
+          "location": "536e",
+          "context": "ψυχῇ δὲ βίαιον οὐδὲν ἔμμονον μάθημα"
+        }
+      ],
+      "observation": "σῶμα and ψυχή are explicitly contrasted twice: souls shrink more than bodies from toil (535b), and forced bodily toil harms nothing but forced learning does not remain in the soul (536e)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπελαθόμην",
+          "lemma": "ἐπιλανθάνομαι",
+          "location": "536c",
+          "context": "ἐπελαθόμην ὅτι ἐπαίζομεν"
+        },
+        {
+          "form": "ἔβλεψα πρὸς φιλοσοφίαν",
+          "lemma": null,
+          "location": "536c",
+          "context": "λέγων γὰρ ἅμα ἔβλεψα πρὸς φιλοσοφίαν"
+        },
+        {
+          "form": "προπεπηλακισμένην",
+          "lemma": "προπηλακίζω",
+          "location": "536c",
+          "context": "ἰδὼν προπεπηλακισμένην ἀναξίως"
+        },
+        {
+          "form": "θυμωθεὶς",
+          "lemma": "θυμόω",
+          "location": "536c",
+          "context": "ὥσπερ θυμωθεὶς τοῖς αἰτίοις"
+        },
+        {
+          "form": "ῥήτορι",
+          "lemma": "ῥήτωρ",
+          "location": "536c",
+          "context": "ἀλλʼ ὡς ἐμοί ῥήτορι"
+        }
+      ],
+      "observation": "Socrates interrupts himself: he forgot they were playing, looked toward philosophy as if seeing it besmirched, grew angry, spoke too earnestly, and calls himself a ῥήτωρ rather than accepting Glaucon's praise as listener."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἰκοσιετῶν",
+          "lemma": "εἰκοσιέτης",
+          "location": "537b",
+          "context": "ἐκ τῶν εἰκοσιετῶν οἱ προκριθέντες"
+        },
+        {
+          "form": "τριάκοντα ἔτη",
+          "lemma": null,
+          "location": "537d",
+          "context": "ἐπειδὰν τὰ τριάκοντα ἔτη ἐκβαίνωσιν"
+        },
+        {
+          "form": "τριακοντούτας",
+          "lemma": "τριακοντούτης",
+          "location": "539a",
+          "context": "τοὺς τριακοντούτας σοι"
+        }
+      ],
+      "observation": "A temporal sequence of ages is specified: twenty for first selection, thirty for advancement to dialectic, and thirty again as the threshold for safe engagement with arguments."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βασάνων",
+          "lemma": "βάσανος",
+          "location": "537b",
+          "context": "μία καὶ αὕτη τῶν βασάνων οὐκ ἐλαχίστη"
+        },
+        {
+          "form": "βασανίζοντα",
+          "lemma": "βασανίζω",
+          "location": "537d",
+          "context": "τῇ τοῦ διαλέγεσθαι δυνάμει βασανίζοντα"
+        }
+      ],
+      "observation": "βάσανος appears for the test of gymnastic endurance and βασανίζω for testing by dialectical capacity."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀμμάτων",
+          "lemma": "ὄμμα",
+          "location": "537d",
+          "context": "τίς ὀμμάτων καὶ τῆς ἄλλης αἰσθήσεως δυνατὸς μεθιέμενος"
+        },
+        {
+          "form": "αὐτὸ τὸ ὂν",
+          "lemma": null,
+          "location": "537d",
+          "context": "ἐπʼ αὐτὸ τὸ ὂν μετʼ ἀληθείας ἰέναι"
+        }
+      ],
+      "observation": "The one who can release eyes and other sense perception to go toward being itself with truth—μεθίημι applied to sense organs, with ἰέναι toward τὸ ὄν."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συνοπτικὸς",
+          "lemma": "συνοπτικός",
+          "location": "537c",
+          "context": "ὁ μὲν γὰρ συνοπτικὸς διαλεκτικός"
+        },
+        {
+          "form": "σύνοψιν",
+          "lemma": "σύνοψις",
+          "location": "537c",
+          "context": "συνακτέον εἰς σύνοψιν οἰκειότητός τε ἀλλήλων τῶν μαθημάτων"
+        }
+      ],
+      "observation": "σύνοψις and συνοπτικός appear in close succession: scattered studies must be brought together into a σύνοψις, and the one capable of this overview is the dialectical nature."
+    }
+  ]
+}

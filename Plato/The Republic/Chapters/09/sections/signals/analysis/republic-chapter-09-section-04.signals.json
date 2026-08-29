@@ -1,0 +1,423 @@
+{
+  "section_id": "republic-chapter-09-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κλέπτουσι",
+          "lemma": "κλέπτω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "τοιχωρυχοῦσι",
+          "lemma": "τοιχωρυχέω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "βαλλαντιοτομοῦσι",
+          "lemma": "βαλλαντιοτομέω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "λωποδυτοῦσιν",
+          "lemma": "λωποδυτέω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "ἱεροσυλοῦσιν",
+          "lemma": "ἱεροσυλέω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "ἀνδραποδίζονται",
+          "lemma": "ἀνδραποδίζω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "συκοφαντοῦσιν",
+          "lemma": "συκοφαντέω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "ψευδομαρτυροῦσι",
+          "lemma": "ψευδομαρτυρέω",
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "δωροδοκοῦσιν",
+          "lemma": "δωροδοκέω",
+          "location": "575b",
+          "context": null
+        }
+      ],
+      "observation": "A dense catalogue of nine criminal actions in asyndetic sequence, all in third-person plural present, moving from theft of property to temple-robbery to enslavement to corruption of legal process."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σμικρὰ πολλά",
+          "lemma": null,
+          "location": "575b",
+          "context": "κακὰ δρῶσι σμικρὰ πολλά"
+        },
+        {
+          "form": "σμικρά",
+          "lemma": "σμικρός",
+          "location": "575c",
+          "context": "σμικρά γʼ … κακὰ λέγεις"
+        },
+        {
+          "form": "σμικρά",
+          "lemma": "σμικρός",
+          "location": "575c",
+          "context": "τὰ γὰρ σμικρά πρὸς τὰ μεγάλα σμικρά ἐστιν"
+        }
+      ],
+      "observation": "σμικρός recurs three times across speaker and respondent; the interlocutor echoes Socrates' word back, and Socrates then sets σμικρά against μεγάλα in an explicit contrast."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀλίγοι",
+          "lemma": "ὀλίγος",
+          "location": "575a",
+          "context": "ὀλίγοι οἱ τοιοῦτοι ἐν πόλει ὦσι"
+        },
+        {
+          "form": "πολλοί",
+          "lemma": "πολύς",
+          "location": "575c",
+          "context": "ὅταν γὰρ δὴ πολλοὶ ἐν πόλει γένωνται"
+        }
+      ],
+      "observation": "The conditional scenario pivots from ὀλίγοι to πολλοί in the city, marking the threshold at which tyranny is generated."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "μητέρα καὶ πατέρα ἐκόλαζεν",
+          "lemma": null,
+          "location": "575d",
+          "context": null
+        },
+        {
+          "form": "πατρίδα … κολάσεται",
+          "lemma": "κολάζω",
+          "location": "575d",
+          "context": "τὴν πατρίδα … κολάσεται"
+        },
+        {
+          "form": "μητρίδα",
+          "lemma": "μητρίς",
+          "location": "575d",
+          "context": "τὴν πάλαι φίλην μητρίδα τε … καὶ πατρίδα"
+        }
+      ],
+      "observation": "Punishment of mother and father returns as punishment of the fatherland; πατρίδα and the rare μητρίδα echo μητέρα καὶ πατέρα, transferring familial κολάζω to the city."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δεσπόζοντες",
+          "lemma": "δεσπόζω",
+          "location": "576a",
+          "context": null
+        },
+        {
+          "form": "δουλεύοντες",
+          "lemma": "δουλεύω",
+          "location": "576a",
+          "context": "ἀεὶ δέ του δεσπόζοντες ἢ δουλεύοντες ἄλλῳ"
+        }
+      ],
+      "observation": "Mastering and slaving are set as the only two relational modes, with φίλοι μὲν οὐδέποτε οὐδενί excluding friendship entirely."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὡς οἰκεῖοι",
+          "lemma": "οἰκεῖος",
+          "location": "576a",
+          "context": null
+        },
+        {
+          "form": "ἀλλότριοι",
+          "lemma": "ἀλλότριος",
+          "location": "576a",
+          "context": "διαπραξάμενοι δὲ ἀλλότριοι"
+        }
+      ],
+      "observation": "οἰκεῖοι and ἀλλότριοι are juxtaposed: the tyrannical men perform intimacy (ὡς οἰκεῖοι) then become strangers (ἀλλότριοι) once their purpose is achieved."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δουλεύουσαν",
+          "lemma": "δουλεύω",
+          "location": "575d",
+          "context": "ὑπὸ τούτοις δὴ δουλεύουσαν τὴν … πατρίδα"
+        },
+        {
+          "form": "δουλεύοντες",
+          "lemma": "δουλεύω",
+          "location": "576a",
+          "context": "δεσπόζοντες ἢ δουλεύοντες ἄλλῳ"
+        }
+      ],
+      "observation": "δουλεύω applies first to the enslaved fatherland and then to the tyrannical man himself."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "576b",
+          "context": "οἷον ὄναρ διήλθομεν"
+        },
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "576b",
+          "context": "ὃς ἂν ὕπαρ τοιοῦτος ᾖ"
+        }
+      ],
+      "observation": "The worst man is defined as one who is in waking life (ὕπαρ) what was previously described as in dream (ὄναρ)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύραννον",
+          "lemma": "τύραννος",
+          "location": "575b",
+          "context": "ἄλλον τινὰ δορυφοροῦσι τύραννον"
+        },
+        {
+          "form": "τύραννον",
+          "lemma": "τύραννος",
+          "location": "575c",
+          "context": "τὸν τύραννον γεννῶντες"
+        },
+        {
+          "form": "τύραννον",
+          "lemma": "τύραννος",
+          "location": "575d",
+          "context": "ἐν τῇ ψυχῇ τύραννον ἔχῃ"
+        },
+        {
+          "form": "τυραννικώτατος",
+          "lemma": "τυραννικός",
+          "location": "575d",
+          "context": null
+        },
+        {
+          "form": "τυραννικὴ φύσις",
+          "lemma": "τυραννικός",
+          "location": "576a",
+          "context": null
+        },
+        {
+          "form": "τυραννικώτατος",
+          "lemma": "τυραννικός",
+          "location": "576b",
+          "context": null
+        },
+        {
+          "form": "τυραννίδι",
+          "lemma": "τυραννίς",
+          "location": "576b",
+          "context": null
+        }
+      ],
+      "observation": "The τύραννος word-family recurs throughout, shifting from an external political figure bodyguarded by others, to a tyrant generated by the many, to a tyrant within the soul, to a superlative τυραννικώτατος nature, to living in τυραννίς."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὑποπεσόντες",
+          "lemma": "ὑποπίπτω",
+          "location": "576a",
+          "context": "αὐτοὶ ὑποπεσόντες"
+        },
+        {
+          "form": "διαπραξάμενοι",
+          "lemma": "διαπράττω",
+          "location": "576a",
+          "context": "διαπραξάμενοι δὲ ἀλλότριοι"
+        }
+      ],
+      "observation": "A two-stage sequence: first abasing themselves (ὑποπεσόντες), then once they have accomplished their aim (διαπραξάμενοι), becoming estranged."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐλευθερίας",
+          "lemma": "ἐλευθερία",
+          "location": "576a",
+          "context": null
+        },
+        {
+          "form": "φιλίας ἀληθοῦς",
+          "lemma": null,
+          "location": "576a",
+          "context": null
+        },
+        {
+          "form": "ἄγευστος",
+          "lemma": "ἄγευστος",
+          "location": "576a",
+          "context": "τυραννικὴ φύσις ἀεὶ ἄγευστος"
+        }
+      ],
+      "observation": "ἄγευστος (without taste of) governs both ἐλευθερία and ἀληθὴς φιλία, a concrete sensory privation applied to the tyrannical nature."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "κεφαλαιωσώμεθα",
+          "lemma": "κεφαλαιόω",
+          "location": "576b",
+          "context": "κεφαλαιωσώμεθα τοίνυν … τὸν κάκιστον"
+        },
+        {
+          "form": "τοιοῦτος",
+          "lemma": "τοιοῦτος",
+          "location": "576b",
+          "context": "ὃς ἂν ὕπαρ τοιοῦτος ᾖ"
+        }
+      ],
+      "observation": "Socrates proposes to sum up (κεφαλαιωσώμεθα) the worst man and immediately provides the summary definition."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "διαδεξάμενος τὸν λόγον ὁ Γλαύκων",
+          "lemma": null,
+          "location": "576b",
+          "context": null
+        }
+      ],
+      "observation": "Glaucon is named as taking over the argument (διαδεξάμενος τὸν λόγον), a narrative notation of speaker succession at the section's close."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εἰρήνῃ τε καὶ ἡσυχίᾳ",
+          "lemma": null,
+          "location": "575b",
+          "context": null
+        },
+        {
+          "form": "πόλεμος",
+          "lemma": "πόλεμος",
+          "location": "575b",
+          "context": "ἐάν που πόλεμος ᾖ"
+        }
+      ],
+      "observation": "War and peace/quiet are set as alternative conditions determining whether tyrannical men serve abroad or commit crimes at home."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "οὐδʼ ἵκταρ βάλλει",
+          "lemma": null,
+          "location": "575c",
+          "context": "τὸ λεγόμενον, οὐδʼ ἵκταρ βάλλει"
+        }
+      ],
+      "observation": "A proverbial expression (τὸ λεγόμενον) marked as such: 'does not come near the mark.'"
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἐκόλαζεν",
+          "lemma": "κολάζω",
+          "location": "575d",
+          "context": "μητέρα καὶ πατέρα ἐκόλαζεν"
+        },
+        {
+          "form": "κολάσεται",
+          "lemma": "κολάζω",
+          "location": "575d",
+          "context": "τὴν πατρίδα … κολάσεται"
+        }
+      ],
+      "observation": "κολάζω shifts from imperfect (punishing parents) to future middle (punishing the fatherland), the same verb applied to an expanded object."
+    }
+  ]
+}

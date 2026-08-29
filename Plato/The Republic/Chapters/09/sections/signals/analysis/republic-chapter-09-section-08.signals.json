@@ -1,0 +1,641 @@
+{
+  "section_id": "republic-chapter-09-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "sequence_configuration",
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "δύʼ ἐφεξῆς",
+          "lemma": null,
+          "location": "583b",
+          "context": "δύʼ ἐφεξῆς ἂν εἴη καὶ δὶς νενικηκὼς ὁ δίκαιος τὸν ἄδικον"
+        },
+        {
+          "form": "τρίτον",
+          "lemma": "τρίτος",
+          "location": "583b",
+          "context": "τὸ δὲ τρίτον Ὀλυμπικῶς τῷ σωτῆρί τε καὶ τῷ Ὀλυμπίῳ Διί"
+        }
+      ],
+      "observation": "The section opens with a count of two prior victories and introduces a third, framed as an Olympic dedication to Zeus the Savior."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "584d",
+          "context": "τὸ μὲν ἄνω, τὸ δὲ κάτω, τὸ δὲ μέσον"
+        },
+        {
+          "form": "κάτω",
+          "lemma": "κάτω",
+          "location": "584d",
+          "context": null
+        },
+        {
+          "form": "μέσον",
+          "lemma": "μέσος",
+          "location": "584d",
+          "context": null
+        },
+        {
+          "form": "κάτω",
+          "lemma": "κάτω",
+          "location": "586a",
+          "context": "κάτω, ὡς ἔοικεν, καὶ μέχρι πάλιν πρὸς τὸ μεταξὺ φέρονταί"
+        },
+        {
+          "form": "ἀληθῶς ἄνω",
+          "lemma": null,
+          "location": "586a",
+          "context": "πρὸς τὸ ἀληθῶς ἄνω οὔτε ἀνέβλεψαν πώποτε"
+        }
+      ],
+      "observation": "A tripartite vertical scheme (ἄνω, κάτω, μέσον) is introduced at 584d and reapplied at 586a to describe the movement of those ignorant of true pleasure, who travel only between κάτω and μεταξύ without reaching τὸ ἀληθῶς ἄνω."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πληρώσει",
+          "lemma": "πλήρωσις",
+          "location": "585a",
+          "context": "πρὸς πληρώσει τε καὶ ἡδονῇ γίγνεσθαι"
+        },
+        {
+          "form": "κενώσεις",
+          "lemma": "κένωσις",
+          "location": "585b",
+          "context": "κενώσεις τινές εἰσιν τῆς περὶ τὸ σῶμα ἕξεως"
+        },
+        {
+          "form": "κενότης",
+          "lemma": "κενότης",
+          "location": "585b",
+          "context": "κενότης ἐστὶ γῆς περὶ ψυχὴν αὖ ἕξεως"
+        },
+        {
+          "form": "πληροῖτʼ",
+          "lemma": "πληρόω",
+          "location": "585b",
+          "context": null
+        },
+        {
+          "form": "πλήρωσις",
+          "lemma": "πλήρωσις",
+          "location": "585b",
+          "context": "πλήρωσις δὲ ἀληθεστέρα τοῦ ἧττον ἢ τοῦ μᾶλλον ὄντος"
+        },
+        {
+          "form": "ἐπληρώθησαν",
+          "lemma": "πληρόω",
+          "location": "586a",
+          "context": "οὐδὲ τοῦ ὄντος τῷ ὄντι ἐπληρώθησαν"
+        },
+        {
+          "form": "πλησμονὴν",
+          "lemma": "πλησμονή",
+          "location": "586d",
+          "context": "πλησμονὴν τιμῆς τε καὶ νίκης καὶ θυμοῦ διώκων"
+        },
+        {
+          "form": "πιμπλάντες",
+          "lemma": "πίμπλημι",
+          "location": "586b",
+          "context": "οὐχὶ τοῖς οὖσιν οὐδὲ τὸ ὂν οὐδὲ τὸ στέγον ἑαυτῶν πιμπλάντες"
+        }
+      ],
+      "observation": "Filling and emptying (πληρόω, κένωσις, κενότης, πλησμονή, πίμπλημι) recur densely as the central vocabulary for the ontological account of pleasure, applied to both body and soul."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "exact_repetition",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐσκιαγραφημένη",
+          "lemma": "σκιαγραφέω",
+          "location": "583b",
+          "context": "ἀλλʼ ἐσκιαγραφημένη τις"
+        },
+        {
+          "form": "ἐσκιαγραφημέναις",
+          "lemma": "σκιαγραφέω",
+          "location": "586b",
+          "context": "εἰδώλοις τῆς ἀληθοῦς ἡδονῆς καὶ ἐσκιαγραφημέναις"
+        }
+      ],
+      "observation": "ἐσκιαγραφημένη describes the pleasures of the non-wise at the section's opening and returns at 586c in the same application, framing the entire argument."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἡσυχίαν",
+          "lemma": "ἡσυχία",
+          "location": "583c",
+          "context": "μεταξὺ τούτοιν ἀμφοῖν ἐν μέσῳ ὂν ἡσυχίαν τινὰ περὶ ταῦτα τῆς ψυχῆς"
+        },
+        {
+          "form": "κίνησίς",
+          "lemma": "κίνησις",
+          "location": "583e",
+          "context": "τό γε ἡδὺ ἐν ψυχῇ γιγνόμενον καὶ τὸ λυπηρὸν κίνησίς τις ἀμφοτέρω ἐστόν"
+        }
+      ],
+      "observation": "The middle state is characterized as ἡσυχία (rest) while pleasure and pain are characterized as κίνησις (motion), establishing a local contrast."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γοητεία",
+          "lemma": "γοητεία",
+          "location": "584a",
+          "context": "οὐδὲν ὑγιὲς τούτων τῶν φαντασμάτων πρὸς ἡδονῆς ἀλήθειαν, ἀλλὰ γοητεία τις"
+        }
+      ],
+      "observation": "The illusory appearances of pleasure are called γοητεία (sorcery), a striking singleton characterizing the epistemic status of false pleasures."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὀσμὰς",
+          "lemma": "ὀσμή",
+          "location": "584b",
+          "context": "τὰς περὶ τὰς ὀσμὰς ἡδονάς"
+        },
+        {
+          "form": "προλυπηθέντι",
+          "lemma": "προλυπέω",
+          "location": "584b",
+          "context": "οὐ προλυπηθέντι ἐξαίφνης ἀμήχανοι τὸ μέγεθος γίγνονται"
+        },
+        {
+          "form": "λύπην οὐδεμίαν καταλείπουσιν",
+          "lemma": null,
+          "location": "584b",
+          "context": null
+        }
+      ],
+      "observation": "Pleasures of smell are cited as a counterexample: they arise without prior pain and leave no pain on ceasing, demonstrating pleasures independent of the pain-pleasure cycle."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σίτου τε καὶ ποτοῦ καὶ ὄψου καὶ συμπάσης τροφῆς",
+          "lemma": null,
+          "location": "585b",
+          "context": null
+        },
+        {
+          "form": "δόξης τε ἀληθοῦς εἶδος καὶ ἐπιστήμης καὶ νοῦ",
+          "lemma": null,
+          "location": "585b",
+          "context": null
+        },
+        {
+          "form": "πάσης ἀρετῆς",
+          "lemma": null,
+          "location": "585c",
+          "context": null
+        }
+      ],
+      "observation": "Two classes of filling are contrasted: bodily (food, drink, relish) versus soul's (true opinion, knowledge, mind, virtue), to determine which participates more in being."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "βοσκημάτων δίκην",
+          "lemma": "βόσκημα",
+          "location": "586a",
+          "context": null
+        },
+        {
+          "form": "βόσκονται",
+          "lemma": "βόσκω",
+          "location": "586a",
+          "context": null
+        },
+        {
+          "form": "χορταζόμενοι",
+          "lemma": "χορτάζω",
+          "location": "586a",
+          "context": null
+        },
+        {
+          "form": "ὀχεύοντες",
+          "lemma": "ὀχεύω",
+          "location": "586a",
+          "context": null
+        },
+        {
+          "form": "λακτίζοντες",
+          "lemma": "λακτίζω",
+          "location": "586b",
+          "context": null
+        },
+        {
+          "form": "κυρίττοντες",
+          "lemma": "κυρίττω",
+          "location": "586b",
+          "context": null
+        },
+        {
+          "form": "σιδηροῖς κέρασί τε καὶ ὁπλαῖς",
+          "lemma": null,
+          "location": "586b",
+          "context": null
+        }
+      ],
+      "observation": "A dense animal imagery cluster: those ignorant of virtue are likened to cattle—grazing, mating, kicking, butting with iron horns and hooves—killing each other from insatiability."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ τῆς Ἑλένης εἴδωλον",
+          "lemma": null,
+          "location": "586c",
+          "context": "ὥσπερ τὸ τῆς Ἑλένης εἴδωλον ὑπὸ τῶν ἐν Τροίᾳ Στησίχορός φησι γενέσθαι περιμάχητον ἀγνοίᾳ τοῦ ἀληθοῦς"
+        }
+      ],
+      "observation": "The phantom of Helen (from Stesichorus) is cited as an analogy for illusory pleasures fought over in ignorance of the true."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἰδώλοις",
+          "lemma": "εἴδωλον",
+          "location": "586b",
+          "context": "εἰδώλοις τῆς ἀληθοῦς ἡδονῆς"
+        },
+        {
+          "form": "εἴδωλον",
+          "lemma": "εἴδωλον",
+          "location": "586c",
+          "context": "τὸ τῆς Ἑλένης εἴδωλον"
+        },
+        {
+          "form": "εἰδώλῳ",
+          "lemma": "εἴδωλον",
+          "location": "587c",
+          "context": "τρίτῳ εἰδώλῳ πρὸς ἀλήθειαν"
+        }
+      ],
+      "observation": "εἴδωλον recurs three times: pleasures as phantoms of true pleasure, Helen's phantom, and the tyrant's third-remove phantom of pleasure."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθοῦς",
+          "lemma": "ἀληθής",
+          "location": "586b",
+          "context": "εἰδώλοις τῆς ἀληθοῦς ἡδονῆς"
+        },
+        {
+          "form": "ἀληθεστάτας",
+          "lemma": "ἀληθής",
+          "location": "586d",
+          "context": "τὰς ἀληθεστάτας τε λήψονται"
+        },
+        {
+          "form": "ἀληθοῦς ἡδονῆς",
+          "lemma": null,
+          "location": "587b",
+          "context": "πλεῖστον δὴ οἶμαι ἀληθοῦς ἡδονῆς"
+        },
+        {
+          "form": "ἀληθείᾳ ἡδονῆς",
+          "lemma": null,
+          "location": "587d",
+          "context": "μεταστρέψας ἀληθείᾳ ἡδονῆς"
+        }
+      ],
+      "observation": "Forms of ἀληθής recur densely throughout the section in connection with ἡδονή, establishing a persistent pairing of truth with pleasure."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "sequence_configuration",
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τρίτος",
+          "lemma": "τρίτος",
+          "location": "587c",
+          "context": "ἀπὸ τοῦ ὀλιγαρχικοῦ τρίτος που ὁ τύραννος ἀφειστήκει"
+        },
+        {
+          "form": "τρίτος",
+          "lemma": "τρίτος",
+          "location": "587c",
+          "context": "ὁ δέ γε ὀλιγαρχικὸς ἀπὸ τοῦ βασιλικοῦ αὖ τρίτος"
+        },
+        {
+          "form": "τριπλασίου…τριπλάσιον",
+          "lemma": "τριπλάσιος",
+          "location": "587d",
+          "context": "τριπλασίου ἄρα τριπλάσιον ἀριθμῷ ἀληθοῦς ἡδονῆς ἀφέστηκεν τύραννος"
+        },
+        {
+          "form": "ἐπίπεδον",
+          "lemma": "ἐπίπεδος",
+          "location": "587d",
+          "context": "ἐπίπεδον ἄρʼ…τὸ εἴδωλον κατὰ τὸν τοῦ μήκους ἀριθμόν"
+        },
+        {
+          "form": "δύναμιν καὶ τρίτην αὔξην",
+          "lemma": null,
+          "location": "587d",
+          "context": null
+        },
+        {
+          "form": "ἐννεακαιεικοσικαιεπτακοσιοπλασιάκις",
+          "lemma": null,
+          "location": "587e",
+          "context": null
+        }
+      ],
+      "observation": "A numerical calculation proceeds: the tyrant is third from the oligarch, who is third from the king; triple of triple gives 9; this is squared (ἐπίπεδον) and then cubed (τρίτη αὔξη), yielding 729 (ἐννεακαιεικοσικαιεπτακοσιοπλασιάκις)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τύραννος",
+          "lemma": "τύραννος",
+          "location": "587b",
+          "context": "ἀηδέστατα ἄρα…ὁ τύραννος βιώσεται"
+        },
+        {
+          "form": "βασιλεὺς",
+          "lemma": "βασιλεύς",
+          "location": "587b",
+          "context": "ὁ δὲ βασιλεὺς ἥδιστα"
+        }
+      ],
+      "observation": "Tyrant and king are set as polar opposites: the tyrant lives most unpleasantly, the king most pleasantly."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "φιλοκερδὲς",
+          "lemma": "φιλοκερδής",
+          "location": "586d",
+          "context": null
+        },
+        {
+          "form": "φιλόνικον",
+          "lemma": "φιλόνικος",
+          "location": "586d",
+          "context": null
+        },
+        {
+          "form": "φιλοτιμίαν",
+          "lemma": "φιλοτιμία",
+          "location": "586c",
+          "context": null
+        },
+        {
+          "form": "φιλονικίαν",
+          "lemma": "φιλονικία",
+          "location": "586c",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of φιλο- compounds names the motivations of the spirited and appetitive parts: love of gain, love of victory, love of honor."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄπειροι",
+          "lemma": "ἄπειρος",
+          "location": "584e",
+          "context": "οἱ ἄπειροι ἀληθείας"
+        },
+        {
+          "form": "ἀπειρίᾳ λευκοῦ",
+          "lemma": "ἀπειρία",
+          "location": "585a",
+          "context": null
+        },
+        {
+          "form": "ἀπειρίᾳ ἡδονῆς",
+          "lemma": "ἀπειρία",
+          "location": "585a",
+          "context": null
+        },
+        {
+          "form": "ἄπειροι",
+          "lemma": "ἄπειρος",
+          "location": "586a",
+          "context": "οἱ ἄρα φρονήσεως καὶ ἀρετῆς ἄπειροι"
+        }
+      ],
+      "observation": "ἄπειρος/ἀπειρία recurs: inexperience of truth, of white, of pleasure, and of wisdom—each time characterizing the epistemic deficit that produces illusory pleasure."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρὸς μέλαν φαιὸν ἀποσκοποῦντες ἀπειρίᾳ λευκοῦ",
+          "lemma": null,
+          "location": "585a",
+          "context": null
+        }
+      ],
+      "observation": "A color analogy (grey seen against black appears white to those ignorant of white) illustrates the relativistic illusion of pleasure."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lexical_family",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δούλαις",
+          "lemma": "δοῦλος",
+          "location": "587c",
+          "context": "δούλαις τισὶ δορυφόροις ἡδοναῖς συνοικεῖ"
+        },
+        {
+          "form": "δορυφόροις",
+          "lemma": "δορυφόρος",
+          "location": "587c",
+          "context": null
+        }
+      ],
+      "observation": "The tyrant's pleasures are called slave bodyguard pleasures (δούλαις δορυφόροις ἡδοναῖς), combining servitude and armed attendance."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νενικηκὼς",
+          "lemma": "νικάω",
+          "location": "583b",
+          "context": "δὶς νενικηκὼς ὁ δίκαιος τὸν ἄδικον"
+        },
+        {
+          "form": "νικᾷ",
+          "lemma": "νικάω",
+          "location": "588a",
+          "context": "τοσοῦτον ἡδονῇ νικᾷ ὁ ἀγαθός τε καὶ δίκαιος τὸν κακόν τε καὶ ἄδικον"
+        },
+        {
+          "form": "νικήσει",
+          "lemma": "νικάω",
+          "location": "588a",
+          "context": "ἀμηχάνῳ δὴ ὅσῳ πλείονι νικήσει εὐσχημοσύνῃ τε βίου καὶ κάλλει καὶ ἀρετῇ"
+        }
+      ],
+      "observation": "νικάω frames the section: the just man has twice defeated the unjust at the opening, and at the close defeats him in pleasure and further in beauty and virtue."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γνησίας",
+          "lemma": "γνήσιος",
+          "location": "587b",
+          "context": "τριῶν ἡδονῶν…μιᾶς μὲν γνησίας"
+        },
+        {
+          "form": "νόθαιν",
+          "lemma": "νόθος",
+          "location": "587c",
+          "context": "δυοῖν δὲ νόθαιν"
+        }
+      ],
+      "observation": "The three pleasures are divided into one legitimate (γνησία) and two bastard (νόθαι), applying birth-legitimacy language to pleasure."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀφέστηκεν",
+          "lemma": "ἀφίστημι",
+          "location": "587a",
+          "context": "ἃ πλεῖστον φιλοσοφίας τε καὶ λόγου ἀφέστηκεν"
+        },
+        {
+          "form": "ἀφίσταται",
+          "lemma": "ἀφίστημι",
+          "location": "587a",
+          "context": "πλεῖστον δὲ λόγου ἀφίσταται"
+        },
+        {
+          "form": "ἀφεστῶσαι",
+          "lemma": "ἀφίστημι",
+          "location": "587a",
+          "context": null
+        },
+        {
+          "form": "ἀφεστήξει",
+          "lemma": "ἀφίστημι",
+          "location": "587b",
+          "context": null
+        },
+        {
+          "form": "ἀφειστήκει",
+          "lemma": "ἀφίστημι",
+          "location": "587c",
+          "context": null
+        },
+        {
+          "form": "ἀφέστηκεν",
+          "lemma": "ἀφίστημι",
+          "location": "587d",
+          "context": null
+        },
+        {
+          "form": "ἀφεστηκὼς",
+          "lemma": "ἀφίστημι",
+          "location": "587d",
+          "context": null
+        },
+        {
+          "form": "ἀφεστηκότα",
+          "lemma": "ἀφίστημι",
+          "location": "587e",
+          "context": null
+        }
+      ],
+      "observation": "ἀφίστημι recurs with remarkable density from 587a to 587e, measuring the tyrant's distance from true pleasure in progressively quantified terms."
+    }
+  ]
+}

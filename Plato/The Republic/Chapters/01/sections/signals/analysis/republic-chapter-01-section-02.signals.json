@@ -1,0 +1,451 @@
+{
+  "section_id": "republic-chapter-01-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "καταβαίνων",
+          "lemma": "καταβαίνω",
+          "location": "328c",
+          "context": "οὐδὲ θαμίζεις ἡμῖν καταβαίνων εἰς τὸν Πειραιᾶ"
+        }
+      ],
+      "observation": "Cephalus uses καταβαίνων to describe Socrates' movement down to the Piraeus, framing the visit as infrequent descent."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἰέναι",
+          "lemma": "εἶμι",
+          "location": "328c",
+          "context": "οὐδέν ἄν σε ἔδει δεῦρο ἰέναι"
+        },
+        {
+          "form": "ἰέναι",
+          "lemma": "εἶμι",
+          "location": "328d",
+          "context": "σε χρὴ πυκνότερον δεῦρο ἰέναι"
+        }
+      ],
+      "observation": "Cephalus uses ἰέναι twice with δεῦρο: first in a counterfactual where Socrates would not need to come, then in an imperative that he should come more often."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἡδοναὶ",
+          "lemma": "ἡδονή",
+          "location": "328d",
+          "context": "αἱ κατὰ τὸ σῶμα ἡδοναὶ ἀπομαραίνονται"
+        },
+        {
+          "form": "ἐπιθυμίαι",
+          "lemma": "ἐπιθυμία",
+          "location": "328d",
+          "context": "αὔξονται αἱ περὶ τοὺς λόγους ἐπιθυμίαι τε καὶ ἡδοναί"
+        }
+      ],
+      "observation": "Bodily pleasures (ἡδοναί) wither (ἀπομαραίνονται) while desires and pleasures concerning λόγοι increase (αὔξονται)—an inverse relation."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁδὸν",
+          "lemma": "ὁδός",
+          "location": "328e",
+          "context": "ὥσπερ τινὰ ὁδὸν προεληλυθότων"
+        },
+        {
+          "form": "τραχεῖα καὶ χαλεπή",
+          "lemma": null,
+          "location": "328e",
+          "context": "ποία τίς ἐστιν, τραχεῖα καὶ χαλεπή, ἢ ῥᾳδία καὶ εὔπορος"
+        }
+      ],
+      "observation": "Socrates describes old age as a road (ὁδόν) already traveled by the elderly, asking whether it is rough and difficult or easy and passable."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τἀφροδίσια",
+          "lemma": "ἀφροδίσια",
+          "location": "329a",
+          "context": "ἀναμιμνῃσκόμενοι περί τε τἀφροδίσια"
+        },
+        {
+          "form": "πότους",
+          "lemma": "πότος",
+          "location": "329a",
+          "context": "περὶ πότους τε καὶ εὐωχίας"
+        }
+      ],
+      "observation": "Cephalus reports that most old men gather and long for youthful pleasures: sex, drinking, and feasting."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τότε μὲν εὖ ζῶντες",
+          "lemma": null,
+          "location": "329a",
+          "context": null
+        },
+        {
+          "form": "νῦν δὲ οὐδὲ ζῶντες",
+          "lemma": null,
+          "location": "329a",
+          "context": null
+        }
+      ],
+      "observation": "The lamenting old men contrast τότε (then truly living) with νῦν (now not even living)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λυττῶντά τινα καὶ ἄγριον δεσπότην",
+          "lemma": null,
+          "location": "329c",
+          "context": "ὥσπερ λυττῶντά τινα καὶ ἄγριον δεσπότην ἀποδράς"
+        },
+        {
+          "form": "δεσποτῶν",
+          "lemma": "δεσπότης",
+          "location": "329d",
+          "context": "δεσποτῶν πάνυ πολλῶν ἐστι καὶ μαινομένων ἀπηλλάχθαι"
+        }
+      ],
+      "observation": "Sophocles' image of escaping a raging master (δεσπότην) returns as Cephalus generalizes: old age means release from many mad masters (δεσποτῶν μαινομένων)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "αἰτίαν",
+          "lemma": "αἰτία",
+          "location": "329b",
+          "context": "ὅσων κακῶν σφίσιν αἴτιον"
+        },
+        {
+          "form": "τὸ αἴτιον",
+          "lemma": "αἴτιον",
+          "location": "329b",
+          "context": "οὗτοι οὐ τὸ αἴτιον αἰτιᾶσθαι"
+        },
+        {
+          "form": "αἴτιον",
+          "lemma": "αἴτιον",
+          "location": "329b",
+          "context": "εἰ γὰρ ἦν τοῦτ᾽ αἴτιον"
+        }
+      ],
+      "observation": "Forms of αἰτία/αἴτιον cluster densely as Cephalus argues that old age is blamed as cause (αἴτιον) but the real cause (αἰτία) is character (τρόπος)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τρόπος",
+          "lemma": "τρόπος",
+          "location": "329d",
+          "context": "ἀλλ᾽ ὁ τρόπος τῶν ἀνθρώπων"
+        },
+        {
+          "form": "γῆρας",
+          "lemma": "γῆρας",
+          "location": "329d",
+          "context": "οὐ τὸ γῆρας"
+        }
+      ],
+      "observation": "Cephalus explicitly contrasts τρόπος (character) against γῆρας (old age) as the true single cause."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "παρέλαβες",
+          "lemma": "παραλαμβάνω",
+          "location": "330a",
+          "context": "ὧν κέκτησαι τὰ πλείω παρέλαβες ἢ ἐπεκτήσω"
+        },
+        {
+          "form": "παραλαβὼν",
+          "lemma": "παραλαμβάνω",
+          "location": "330b",
+          "context": "ὁσίαν ἐμοὶ κέκτημαι παραλαβὼν πολλάκις τοσαύτην ἐποίησεν"
+        },
+        {
+          "form": "καταλίπω",
+          "lemma": "καταλείπω",
+          "location": "330b",
+          "context": "ἀγαπῶ ἐὰν μὴ ἐλάττω καταλίπω τούτοισιν"
+        },
+        {
+          "form": "παρέλαβον",
+          "lemma": "παραλαμβάνω",
+          "location": "330b",
+          "context": "πλείω ἢ παρέλαβον"
+        }
+      ],
+      "observation": "A three-generation pattern of inheriting (παραλαμβάνω) and leaving behind (καταλείπω): grandfather multiplied, father diminished, Cephalus hopes to leave slightly more than he received."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ποιηταὶ τὰ αὑτῶν ποιήματα",
+          "lemma": null,
+          "location": "330c",
+          "context": null
+        },
+        {
+          "form": "πατέρες τοὺς παῖδας",
+          "lemma": null,
+          "location": "330c",
+          "context": null
+        },
+        {
+          "form": "χρηματισάμενοι περὶ τὰ χρήματα",
+          "lemma": null,
+          "location": "330c",
+          "context": "ὡς ἔργον ἑαυτῶν"
+        }
+      ],
+      "observation": "Triple analogy: poets love their poems, fathers their children, money-makers their money—each as their own ἔργον."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μῦθοι",
+          "lemma": "μῦθος",
+          "location": "330d",
+          "context": "οἵ τε γὰρ λεγόμενοι μῦθοι περὶ τῶν ἐν Ἅιδου"
+        },
+        {
+          "form": "δίκην",
+          "lemma": "δίκη",
+          "location": "330e",
+          "context": "τὸν ἐνθάδε ἀδικήσαντα δεῖ ἐκεῖ διδόναι δίκην"
+        },
+        {
+          "form": "ἐκεῖ",
+          "lemma": "ἐκεῖ",
+          "location": "330d-e",
+          "context": null
+        }
+      ],
+      "observation": "Cephalus introduces μῦθοι about Hades (ἐν Ἅιδου) and paying δίκη there (ἐκεῖ), linking afterlife punishment to present fear."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καταγελώμενοι τέως",
+          "lemma": null,
+          "location": "330e",
+          "context": null
+        },
+        {
+          "form": "στρέφουσιν αὐτοῦ τὴν ψυχήν",
+          "lemma": "στρέφω",
+          "location": "330e",
+          "context": "τότε δὴ στρέφουσιν αὐτοῦ τὴν ψυχήν"
+        }
+      ],
+      "observation": "The myths previously laughed at (καταγελώμενοι) now twist the soul (στρέφουσιν τὴν ψυχήν)—a reversal from dismissal to torment."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κακῆς ἐλπίδος",
+          "lemma": "ἐλπίς",
+          "location": "331a",
+          "context": "ζῇ μετὰ κακῆς ἐλπίδος"
+        },
+        {
+          "form": "ἡδεῖα ἐλπὶς",
+          "lemma": "ἐλπίς",
+          "location": "331a",
+          "context": "ἡδεῖα ἐλπὶς ἀεὶ πάρεστι καὶ ἀγαθὴ γηροτρόφος"
+        }
+      ],
+      "observation": "ἐλπίς appears as κακή for the unjust and ἡδεῖα/ἀγαθή for the just, directly contrasted."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παραδίδωμι ὑμῖν τὸν λόγον",
+          "lemma": "παραδίδωμι",
+          "location": "331d",
+          "context": null
+        },
+        {
+          "form": "κληρονόμος",
+          "lemma": "κληρονόμος",
+          "location": "331d",
+          "context": "τῶν γε σῶν κληρονόμος"
+        },
+        {
+          "form": "ἱερά",
+          "lemma": "ἱερόν",
+          "location": "331d",
+          "context": "δεῖ γάρ με ἤδη τῶν ἱερῶν ἐπιμεληθῆναι"
+        }
+      ],
+      "observation": "Cephalus hands over (παραδίδωμι) the λόγος and departs for the ἱερά; Polemarchus is named κληρονόμος of both argument and (implicitly) wealth."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γελάσας",
+          "lemma": "γελάω",
+          "location": "331d",
+          "context": "ἦ δ᾽ ὃς γελάσας"
+        },
+        {
+          "form": "ᾔει πρὸς τὰ ἱερά",
+          "lemma": null,
+          "location": "331d",
+          "context": null
+        }
+      ],
+      "observation": "Cephalus laughs (γελάσας) and simultaneously departs toward the sacrifices (ᾔει πρὸς τὰ ἱερά)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδιδόναι",
+          "lemma": "ἀποδίδωμι",
+          "location": "331c",
+          "context": "τὸ ἀποδιδόναι ἄν τίς τι παρά του λάβῃ"
+        },
+        {
+          "form": "ἀποδιδούς",
+          "lemma": "ἀποδίδωμι",
+          "location": "331c",
+          "context": "οὔτε δίκαιος ἂν εἴη ὁ ἀποδιδούς"
+        },
+        {
+          "form": "ἀποδιδόναι",
+          "lemma": "ἀποδίδωμι",
+          "location": "331d",
+          "context": "ἃ ἂν λάβῃ τις ἀποδιδόναι"
+        }
+      ],
+      "observation": "ἀποδίδωμι recurs densely in the weapons counterexample and its conclusion, central to the proposed definition of justice as returning what one has received."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὅπλα",
+          "lemma": "ὅπλον",
+          "location": "331c",
+          "context": "λάβοι παρὰ φίλου ἀνδρὸς σωφρονοῦντος ὅπλα"
+        },
+        {
+          "form": "μανείς",
+          "lemma": "μαίνομαι",
+          "location": "331c",
+          "context": "εἰ μανεὶς ἀπαιτοῖ"
+        }
+      ],
+      "observation": "The counterexample pairs weapons (ὅπλα) received from a sane friend with madness (μανείς) upon reclaiming—echoing the earlier δεσπότης μαινόμενος language."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "οὐσίαν",
+          "lemma": "οὐσία",
+          "location": "329e",
+          "context": "διὰ τὸ πολλὴν οὐσίαν κεκτῆσθαι"
+        },
+        {
+          "form": "οὐσίαν",
+          "lemma": "οὐσία",
+          "location": "330b",
+          "context": "ὁσίαν ἐμοὶ κέκτημαι"
+        },
+        {
+          "form": "οὐσίαν",
+          "lemma": "οὐσία",
+          "location": "330d",
+          "context": "πολλὴν οὐσίαν κεκτῆσθαι"
+        }
+      ],
+      "observation": "οὐσία recurs across the discussion of wealth, each time paired with κτάομαι forms."
+    }
+  ]
+}

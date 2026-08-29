@@ -1,0 +1,443 @@
+{
+  "section_id": "republic-chapter-05-section-11",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θεῶνται",
+          "lemma": "θεάομαι",
+          "location": "466e",
+          "context": "ὥσπερ οἱ τῶν ἄλλων δημιουργῶν θεῶνται ταῦτα"
+        },
+        {
+          "form": "θέᾳ",
+          "lemma": "θέα",
+          "location": "467a",
+          "context": "πρὸς δὲ τῇ θέᾳ διακονεῖν"
+        },
+        {
+          "form": "θεωροῦσι",
+          "lemma": "θεωρέω",
+          "location": "467a",
+          "context": "πολὺν χρόνον διακονοῦντες θεωροῦσι"
+        },
+        {
+          "form": "θέᾳ",
+          "lemma": "θέα",
+          "location": "467a",
+          "context": "ἐμπειρίᾳ τε καὶ θέᾳ τῶν προσηκόντων"
+        },
+        {
+          "form": "θεωρεῖν",
+          "lemma": "θεωρέω",
+          "location": "467c",
+          "context": "ἄξιον κινδύνου θεωρεῖν ἢ μὴ τὰ περὶ τὸν πόλεμον"
+        },
+        {
+          "form": "θεωροὺς",
+          "lemma": "θεωρός",
+          "location": "467c",
+          "context": "θεωροὺς πολέμου τοὺς παῖδας ποιεῖν"
+        },
+        {
+          "form": "θέαν",
+          "lemma": "θέα",
+          "location": "467e",
+          "context": "ἐφʼ ἵππων ἀκτέον ἐπὶ τὴν θέαν"
+        },
+        {
+          "form": "θεάσονται",
+          "lemma": "θεάομαι",
+          "location": "467e",
+          "context": "κάλλιστά τε θεάσονται τὸ αὑτῶν ἔργον"
+        }
+      ],
+      "observation": "Forms of θεάομαι, θεωρέω, θέα, and θεωρός recur densely throughout the section, constituting the central lexical family for the children's relation to war."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργῶν",
+          "lemma": "δημιουργός",
+          "location": "466e",
+          "context": "οἱ τῶν ἄλλων δημιουργῶν"
+        },
+        {
+          "form": "δημιουργεῖν",
+          "lemma": "δημιουργέω",
+          "location": "466e",
+          "context": "τελεωθέντας δεήσει δημιουργεῖν"
+        },
+        {
+          "form": "δημιουργόν",
+          "lemma": "δημιουργός",
+          "location": "468a",
+          "context": "δημιουργόν τινα δεῖ καθιστάναι ἢ γεωργόν"
+        }
+      ],
+      "observation": "δημιουργός/δημιουργέω appears first as the craftsman analogy for children learning by watching, then returns as the demotion punishment for cowardly soldiers."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργῶν",
+          "lemma": "δημιουργός",
+          "location": "466e",
+          "context": "ὥσπερ οἱ τῶν ἄλλων δημιουργῶν θεῶνται"
+        },
+        {
+          "form": "δημιουργόν",
+          "lemma": "δημιουργός",
+          "location": "468a",
+          "context": "δημιουργόν τινα δεῖ καθιστάναι"
+        }
+      ],
+      "observation": "δημιουργός first names the craftsman whose children watch and learn; it returns as the status to which a cowardly guardian is demoted."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κινδυνεῦσαι",
+          "lemma": "κινδυνεύω",
+          "location": "467b",
+          "context": "τὸ μή ποτε κινδυνεῦσαι"
+        },
+        {
+          "form": "κινδυνευτέον",
+          "lemma": "κινδυνεύω",
+          "location": "467b",
+          "context": "εἴ που κινδυνευτέον"
+        },
+        {
+          "form": "κινδύνου",
+          "lemma": "κίνδυνος",
+          "location": "467c",
+          "context": "ἄξιον κινδύνου θεωρεῖν"
+        },
+        {
+          "form": "ἐπικίνδυνοι",
+          "lemma": "ἐπικίνδυνος",
+          "location": "467d",
+          "context": "ὅσαι τε καὶ μὴ ἐπικίνδυνοι"
+        },
+        {
+          "form": "κίνδυνος",
+          "lemma": "κίνδυνος",
+          "location": "467b",
+          "context": "κίνδυνος δέ, ὦ Σώκρατες, οὐ σμικρὸς"
+        }
+      ],
+      "observation": "κίνδυνος and related forms cluster densely in the exchange about whether children should be exposed to war."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "διακονεῖν",
+          "lemma": "διακονέω",
+          "location": "467a",
+          "context": "πρὸς δὲ τῇ θέᾳ διακονεῖν καὶ ὑπηρετεῖν"
+        },
+        {
+          "form": "ὑπηρετεῖν",
+          "lemma": "ὑπηρετέω",
+          "location": "467a",
+          "context": "διακονεῖν καὶ ὑπηρετεῖν πάντα τὰ περὶ τὸν πόλεμον"
+        },
+        {
+          "form": "θεραπεύειν",
+          "lemma": "θεραπεύω",
+          "location": "467a",
+          "context": "θεραπεύειν πατέρας τε καὶ μητέρας"
+        },
+        {
+          "form": "διακονοῦντες",
+          "lemma": "διακονέω",
+          "location": "467a",
+          "context": "πολὺν χρόνον διακονοῦντες θεωροῦσι"
+        }
+      ],
+      "observation": "A cluster of service-words (διακονεῖν, ὑπηρετεῖν, θεραπεύειν) describes the children's role alongside watching."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πτεροῦν",
+          "lemma": "πτερόω",
+          "location": "467d",
+          "context": "πτεροῦν χρὴ παιδία ὄντα εὐθύς"
+        },
+        {
+          "form": "πετόμενοι",
+          "lemma": "πέτομαι",
+          "location": "467d",
+          "context": "πετόμενοι ἀποφεύγωσιν"
+        }
+      ],
+      "observation": "The metaphor of 'winging' children so they can 'fly away' is then literalized as mounting them on horses."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "πτεροῦν",
+          "lemma": "πτερόω",
+          "location": "467d",
+          "context": "πτεροῦν χρὴ παιδία ὄντα εὐθύς"
+        },
+        {
+          "form": "ἀναβιβαστέον",
+          "lemma": "ἀναβιβάζω",
+          "location": "467e",
+          "context": "ἐπὶ τοὺς ἵππους ἀναβιβαστέον ὡς νεωτάτους"
+        }
+      ],
+      "observation": "The figurative proposal to 'wing' the children is immediately answered by the concrete prescription to mount them on horses."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἁδροί",
+          "lemma": "ἁδρός",
+          "location": "466e",
+          "context": "ὅσοι ἁδροί"
+        },
+        {
+          "form": "τελεωθέντας",
+          "lemma": "τελειόω",
+          "location": "466e",
+          "context": "τελεωθέντας δεήσει δημιουργεῖν"
+        },
+        {
+          "form": "νεωτάτους",
+          "lemma": "νέος",
+          "location": "467e",
+          "context": "ἀναβιβαστέον ὡς νεωτάτους"
+        },
+        {
+          "form": "παιδία",
+          "lemma": "παιδίον",
+          "location": "467d",
+          "context": "πτεροῦν χρὴ παιδία ὄντα"
+        },
+        {
+          "form": "παῖδας",
+          "lemma": "παῖς",
+          "location": "466e",
+          "context": "ἄξουσι τῶν παίδων εἰς τὸν πόλεμον"
+        }
+      ],
+      "observation": "Terms for the children's age and maturity (ἁδροί, παῖδας, παιδία, νεωτάτους, τελεωθέντας) recur throughout, marking stages of readiness."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄξουσιν",
+          "lemma": "ἄγω",
+          "location": "467d",
+          "context": "εἰς μὲν ἄρα τὰς ἄξουσιν"
+        },
+        {
+          "form": "εὐλαβήσονται",
+          "lemma": "εὐλαβέομαι",
+          "location": "467d",
+          "context": "εἰς δὲ τὰς εὐλαβήσονται"
+        }
+      ],
+      "observation": "A concise contrast: into some campaigns they will lead the children, from others they will hold back."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "κεραμέων",
+          "lemma": "κεραμεύς",
+          "location": "467a",
+          "context": "τοὺς τῶν κεραμέων παῖδας"
+        },
+        {
+          "form": "κεραμεύειν",
+          "lemma": "κεραμεύω",
+          "location": "467a",
+          "context": "πρὶν ἅπτεσθαι τοῦ κεραμεύειν"
+        }
+      ],
+      "observation": "The potter analogy is specified: potters' children serve and watch for a long time before touching the craft, offered as a parallel to guardians' children watching war."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ζῷον",
+          "lemma": "ζῷον",
+          "location": "467a",
+          "context": "μαχεῖταί γε πᾶν ζῷον διαφερόντως"
+        },
+        {
+          "form": "ζῴοις",
+          "lemma": "ζῷον",
+          "location": "466d",
+          "context": "ὥσπερ ἐν ἄλλοις ζῴοις"
+        },
+        {
+          "form": "τέκῃ",
+          "lemma": "τίκτω",
+          "location": "467b",
+          "context": "παρόντων ὧν ἂν τέκῃ"
+        }
+      ],
+      "observation": "ζῷον appears first in the question whether the community is possible as in other animals, then returns in the claim that every animal fights better in the presence of its offspring."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ποδωκεστάτων",
+          "lemma": "ποδωκής",
+          "location": "467e",
+          "context": "ὅτι ποδωκεστάτων καὶ εὐηνιωτάτων"
+        },
+        {
+          "form": "εὐηνιωτάτων",
+          "lemma": "εὐήνιος",
+          "location": "467e",
+          "context": null
+        },
+        {
+          "form": "θυμοειδῶν",
+          "lemma": "θυμοειδής",
+          "location": "467e",
+          "context": "μὴ θυμοειδῶν μηδὲ μαχητικῶν"
+        },
+        {
+          "form": "μαχητικῶν",
+          "lemma": "μαχητικός",
+          "location": "467e",
+          "context": null
+        }
+      ],
+      "observation": "The horses' qualities are specified by contrast: not spirited or combative, but swift and easy to rein—qualities selected for escape rather than battle."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λιπόντα τάξιν",
+          "lemma": null,
+          "location": "468a",
+          "context": "τὸν λιπόντα τάξιν ἢ ὅπλα ἀποβαλόντα"
+        },
+        {
+          "form": "ζῶντα εἰς τοὺς πολεμίους ἁλόντα",
+          "lemma": null,
+          "location": "468a",
+          "context": "τὸν δὲ ζῶντα εἰς τοὺς πολεμίους ἁλόντα"
+        }
+      ],
+      "observation": "Two cases of military failure are distinguished: desertion/cowardice and capture alive, each receiving a different prescribed consequence."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δωρεὰν διδόναι",
+          "lemma": null,
+          "location": "468a",
+          "context": "ἆρʼ οὐ δωρεὰν διδόναι τοῖς ἑλοῦσι"
+        },
+        {
+          "form": "ἄγρᾳ",
+          "lemma": "ἄγρα",
+          "location": "468a",
+          "context": "χρῆσθαι τῇ ἄγρᾳ ὅτι ἂν βούλωνται"
+        }
+      ],
+      "observation": "The captured soldier is described as a 'gift' (δωρεάν) and a 'catch' (ἄγρα), applying hunting/gift language to the fate of the prisoner."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "παρασκευαστέον",
+          "lemma": "παρασκευάζω",
+          "location": "467b",
+          "context": null
+        },
+        {
+          "form": "κινδυνευτέον",
+          "lemma": "κινδυνεύω",
+          "location": "467b",
+          "context": null
+        },
+        {
+          "form": "ἀναβιβαστέον",
+          "lemma": "ἀναβιβάζω",
+          "location": "467e",
+          "context": null
+        },
+        {
+          "form": "ἀκτέον",
+          "lemma": "ἄγω",
+          "location": "467e",
+          "context": null
+        }
+      ],
+      "observation": "A sequence of verbal adjectives in -τέον marks prescriptive necessities across the passage."
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "section_id": "republic-chapter-07-section-12",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "καταβιβαστέοι",
+          "lemma": "καταβιβάζω",
+          "location": "539e",
+          "context": "καταβιβαστέοι ἔσονταί σοι εἰς τὸ σπήλαιον πάλιν ἐκεῖνο"
+        }
+      ],
+      "observation": "A compelled downward movement back into the cave, using a verbal adjective of necessity with εἰς τὸ σπήλαιον πάλιν ἐκεῖνο."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "διπλάσια",
+          "lemma": "διπλάσιος",
+          "location": "539d",
+          "context": null
+        },
+        {
+          "form": "πέντε",
+          "lemma": "πέντε",
+          "location": "539e",
+          "context": "πέντε θές"
+        },
+        {
+          "form": "πεντεκαίδεκα ἔτη",
+          "lemma": null,
+          "location": "540a",
+          "context": null
+        },
+        {
+          "form": "πεντηκοντουτῶν",
+          "lemma": "πεντηκοντούτης",
+          "location": "540a",
+          "context": "γενομένων δὲ πεντηκοντουτῶν"
+        },
+        {
+          "form": "δεκετῶν",
+          "lemma": "δεκέτης",
+          "location": "540e",
+          "context": "πρεσβύτεροι τυγχάνωσι δεκετῶν"
+        }
+      ],
+      "observation": "A sequence of numerical terms marking durations and ages structures the passage: double the earlier period, five years, fifteen years, age fifty, age ten."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγκαστέοι",
+          "lemma": "ἀναγκάζω",
+          "location": "539e",
+          "context": "ἀναγκαστέοι ἄρχειν"
+        },
+        {
+          "form": "ἀναγκαστέον",
+          "lemma": "ἀναγκάζω",
+          "location": "540a",
+          "context": "ἀναγκαστέον ἀνακλίναντας"
+        },
+        {
+          "form": "ἀναγκαῖον",
+          "lemma": "ἀναγκαῖος",
+          "location": "540b",
+          "context": "οὐχ ὡς καλόν τι ἀλλʼ ὡς ἀναγκαῖον"
+        },
+        {
+          "form": "ἀναγκαιότατον",
+          "lemma": "ἀναγκαῖος",
+          "location": "540e",
+          "context": "μέγιστον δὲ καὶ ἀναγκαιότατον τὸ δίκαιον"
+        }
+      ],
+      "observation": "The ἀναγκ- root recurs four times: twice as verbal adjectives of compulsion (to rule, to look upward), once describing ruling as necessary rather than fine, and once in superlative for justice."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καλόν",
+          "lemma": "καλός",
+          "location": "540b",
+          "context": "οὐχ ὡς καλόν τι ἀλλʼ ὡς ἀναγκαῖον"
+        }
+      ],
+      "observation": "Ruling is explicitly contrasted as not καλόν but ἀναγκαῖον."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "539e",
+          "context": "ἀναγκαστέοι ἄρχειν"
+        },
+        {
+          "form": "ἀρχαί",
+          "lemma": "ἀρχή",
+          "location": "539e",
+          "context": "ὅσαι νέων ἀρχαί"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχω",
+          "location": "540b",
+          "context": "ἄρχοντας ἑκάστους τῆς πόλεως ἕνεκα"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "540c",
+          "context": "παγκάλους τοὺς ἄρχοντας"
+        },
+        {
+          "form": "ἀρχούσας",
+          "lemma": "ἄρχω",
+          "location": "540c",
+          "context": "καὶ τὰς ἀρχούσας γε"
+        }
+      ],
+      "observation": "Forms of ἄρχω recur throughout, culminating in the shift from masculine ἄρχοντας to feminine ἀρχούσας."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "αὐγὴν",
+          "lemma": "αὐγή",
+          "location": "540a",
+          "context": "τὴν τῆς ψυχῆς αὐγήν"
+        },
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "540a",
+          "context": "τὸ πᾶσι φῶς παρέχον"
+        },
+        {
+          "form": "ἀποβλέψαι",
+          "lemma": "ἀποβλέπω",
+          "location": "540a",
+          "context": null
+        },
+        {
+          "form": "ἰδόντας",
+          "lemma": "ὁράω",
+          "location": "540a",
+          "context": "ἰδόντας τὸ ἀγαθὸν αὐτό"
+        }
+      ],
+      "observation": "A local cluster of light and vision: the soul's radiance is tilted upward to look at the light that provides for all, and they see the good itself."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνακλίναντας",
+          "lemma": "ἀνακλίνω",
+          "location": "540a",
+          "context": "ἀνακλίναντας τὴν τῆς ψυχῆς αὐγήν"
+        },
+        {
+          "form": "καταβιβαστέοι",
+          "lemma": "καταβιβάζω",
+          "location": "539e",
+          "context": "καταβιβαστέοι ἔσονταί σοι εἰς τὸ σπήλαιον"
+        },
+        {
+          "form": "ἐκπέμψωσιν εἰς τοὺς ἀγρούς",
+          "lemma": null,
+          "location": "541a",
+          "context": null
+        }
+      ],
+      "observation": "Three directional movements: downward into the cave, upward tilting of the soul's light, and outward sending to the countryside."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δαίμοσιν",
+          "lemma": "δαίμων",
+          "location": "540c",
+          "context": "ὡς δαίμοσιν"
+        },
+        {
+          "form": "εὐδαίμοσί",
+          "lemma": "εὐδαίμων",
+          "location": "540c",
+          "context": "ὡς εὐδαίμοσί τε καὶ θείοις"
+        }
+      ],
+      "observation": "δαίμοσιν and εὐδαίμοσί appear adjacent as alternatives for honoring the departed guardians, sharing the δαιμον- root."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μακάρων νήσους",
+          "lemma": null,
+          "location": "540b",
+          "context": "εἰς μακάρων νήσους ἀπιόντας οἰκεῖν"
+        },
+        {
+          "form": "μνημεῖα",
+          "lemma": "μνημεῖον",
+          "location": "540b",
+          "context": "μνημεῖα δʼ αὐτοῖς καὶ θυσίας"
+        },
+        {
+          "form": "Πυθία",
+          "lemma": "Πυθία",
+          "location": "540c",
+          "context": "ἐὰν καὶ ἡ Πυθία συναναιρῇ"
+        }
+      ],
+      "observation": "The guardians' afterlife is described with Isles of the Blessed, memorials and sacrifices, and the Pythia's endorsement."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδριαντοποιός",
+          "lemma": "ἀνδριαντοποιός",
+          "location": "540c",
+          "context": "ὥσπερ ἀνδριαντοποιὸς ἀπείργασαι"
+        }
+      ],
+      "observation": "Glaucon compares Socrates to a sculptor who has finished crafting the rulers."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρῶν",
+          "lemma": "ἀνήρ",
+          "location": "540c",
+          "context": "περὶ ἀνδρῶν εἰρηκέναι"
+        },
+        {
+          "form": "γυναικῶν",
+          "lemma": "γυνή",
+          "location": "540c",
+          "context": "ἢ περὶ γυναικῶν"
+        }
+      ],
+      "observation": "Socrates corrects Glaucon: what has been said applies no more to men than to women with adequate natures."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὐχάς",
+          "lemma": "εὐχή",
+          "location": "540d",
+          "context": "μὴ παντάπασιν ἡμᾶς εὐχὰς εἰρηκέναι"
+        },
+        {
+          "form": "δυνατὰ",
+          "lemma": "δυνατός",
+          "location": "540d",
+          "context": "χαλεπὰ μέν, δυνατὰ δέ πῃ"
+        }
+      ],
+      "observation": "The proposals are contrasted as not mere wishes but difficult yet somehow possible."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "540a",
+          "context": "πρὸς τέλος ἤδη ἀκτέον"
+        },
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "541b",
+          "context": "δοκεῖ μοι τέλος ἔχειν"
+        }
+      ],
+      "observation": "τέλος appears first for the educational endpoint (leading them toward the end) and again as the closing word confirming the discussion has reached its end."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "βασανιστέοι",
+          "lemma": "βασανίζω",
+          "location": "540a",
+          "context": "βασανιστέοι εἰ ἐμμενοῦσιν ἑλκόμενοι πανταχόσε"
+        },
+        {
+          "form": "διασωθέντας",
+          "lemma": "διασῴζω",
+          "location": "540a",
+          "context": "τοὺς διασωθέντας καὶ ἀριστεύσαντας"
+        }
+      ],
+      "observation": "Testing (βασανιστέοι) whether they remain steadfast is answered by the identification of those who have survived through (διασωθέντας)."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "καταβιβαστέοι",
+          "lemma": "καταβιβάζω",
+          "location": "539e",
+          "context": null
+        },
+        {
+          "form": "ἀναγκαστέοι",
+          "lemma": "ἀναγκάζω",
+          "location": "539e",
+          "context": null
+        },
+        {
+          "form": "βασανιστέοι",
+          "lemma": "βασανίζω",
+          "location": "540a",
+          "context": null
+        },
+        {
+          "form": "ἀκτέον",
+          "lemma": "ἄγω",
+          "location": "540a",
+          "context": null
+        },
+        {
+          "form": "ἀναγκαστέον",
+          "lemma": "ἀναγκάζω",
+          "location": "540a",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster of verbal adjectives of necessity (-τέος) marks the entire educational program as obligatory."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γυμναζομένῳ",
+          "lemma": "γυμνάζω",
+          "location": "539d",
+          "context": "ἀντιστρόφως γυμναζομένῳ"
+        },
+        {
+          "form": "γυμνασίοις",
+          "lemma": "γυμνάσιον",
+          "location": "539d",
+          "context": "τοῖς περὶ τὸ σῶμα γυμνασίοις"
+        }
+      ],
+      "observation": "The dialectical training is described as exercising in a manner inversely corresponding to bodily exercises, with γυμνάζω and γυμνάσιον in immediate proximity."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παραδείγματι",
+          "lemma": "παράδειγμα",
+          "location": "540a",
+          "context": "παραδείγματι χρωμένους ἐκείνῳ"
+        },
+        {
+          "form": "τὸ ἀγαθὸν αὐτό",
+          "lemma": null,
+          "location": "540a",
+          "context": "ἰδόντας τὸ ἀγαθὸν αὐτό"
+        }
+      ],
+      "observation": "The good itself is to be used as a paradigm (παράδειγμα) for ordering city, individuals, and selves."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "εὐδαιμονήσειν",
+          "lemma": "εὐδαιμονέω",
+          "location": "541a",
+          "context": "αὐτήν τε εὐδαιμονήσειν"
+        },
+        {
+          "form": "εὐδαίμοσί",
+          "lemma": "εὐδαίμων",
+          "location": "540c",
+          "context": "ὡς εὐδαίμοσί τε καὶ θείοις"
+        }
+      ],
+      "observation": "εὐδαίμων applied to the departed guardians and εὐδαιμονέω applied to the city that will flourish share the same root."
+    }
+  ]
+}

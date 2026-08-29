@@ -1,0 +1,559 @@
+{
+  "section_id": "republic-chapter-04-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μίαν",
+          "lemma": "εἷς",
+          "location": "422a",
+          "context": "πρὸς μὲν μίαν χαλεπώτερον"
+        },
+        {
+          "form": "δύο",
+          "lemma": "δύο",
+          "location": "422b",
+          "context": "πρὸς δὲ δύο τοιαύτας ῥᾷον"
+        }
+      ],
+      "observation": "Fighting one large city is harder, fighting two is easier—a paradox that opens the argument."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πύκτης",
+          "lemma": "πύκτης",
+          "location": "422b",
+          "context": "εἷς πύκτης ὡς οἷόν τε κάλλιστα παρεσκευασμένος"
+        },
+        {
+          "form": "πύκταιν",
+          "lemma": "πύκτης",
+          "location": "422b",
+          "context": "δυοῖν μὴ πύκταιν πλουσίοιν δὲ καὶ πιόνοιν"
+        },
+        {
+          "form": "πυκτικῆς",
+          "lemma": "πυκτική",
+          "location": "422c",
+          "context": "πυκτικῆς πλέον μετέχειν"
+        },
+        {
+          "form": "ἀθληταί",
+          "lemma": "ἀθλητής",
+          "location": "422c",
+          "context": "οἱ ἀθληταὶ ἐκ τῶν εἰκότων"
+        },
+        {
+          "form": "ἀθληταί",
+          "lemma": "ἀθλητής",
+          "location": "422b",
+          "context": "αὐτοὶ ὄντες πολέμου ἀθληταί"
+        }
+      ],
+      "observation": "Boxing and athletic training form a sustained analogy for warfare; the guardians are πολέμου ἀθληταί, and the analogy is elaborated through the πύκτης scenario."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πιόνοιν",
+          "lemma": "πίων",
+          "location": "422b",
+          "context": "πλουσίοιν δὲ καὶ πιόνοιν"
+        },
+        {
+          "form": "πίοσί",
+          "lemma": "πίων",
+          "location": "422d",
+          "context": "προβάτοις πίοσί τε καὶ ἁπαλοῖς"
+        },
+        {
+          "form": "ἰσχνοῖς",
+          "lemma": "ἰσχνός",
+          "location": "422d",
+          "context": "κυσὶ στερεοῖς τε καὶ ἰσχνοῖς"
+        },
+        {
+          "form": "στερεοῖς",
+          "lemma": "στερεός",
+          "location": "422d",
+          "context": "κυσὶ στερεοῖς τε καὶ ἰσχνοῖς"
+        }
+      ],
+      "observation": "πίων recurs applied first to fat non-boxers and then to fat sheep; lean/hard (στερεός, ἰσχνός) dogs are contrasted with fat/soft (πίων, ἁπαλός) sheep."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κυσὶ",
+          "lemma": "κύων",
+          "location": "422d",
+          "context": "κυσὶ πολεμεῖν στερεοῖς τε καὶ ἰσχνοῖς"
+        },
+        {
+          "form": "προβάτοις",
+          "lemma": "πρόβατον",
+          "location": "422d",
+          "context": "μετὰ κυνῶν προβάτοις πίοσί τε καὶ ἁπαλοῖς"
+        }
+      ],
+      "observation": "The guardians are figured as dogs and the wealthy enemy as sheep in the diplomatic scenario."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μία",
+          "lemma": "εἷς",
+          "location": "423a",
+          "context": "ἐὰν μὲν ὡς μιᾷ προσφέρῃ"
+        },
+        {
+          "form": "πολλαῖς",
+          "lemma": "πολύς",
+          "location": "423a",
+          "context": "ἐὰν δὲ ὡς πολλαῖς"
+        },
+        {
+          "form": "μία",
+          "lemma": "εἷς",
+          "location": "423d",
+          "context": "σύμπασα ἡ πόλις μία φύηται ἀλλὰ μὴ πολλαί"
+        },
+        {
+          "form": "εἷς",
+          "lemma": "εἷς",
+          "location": "423d",
+          "context": "μὴ πολλοὶ ἀλλʼ εἷς γίγνηται"
+        },
+        {
+          "form": "πολλαί",
+          "lemma": "πολύς",
+          "location": "422e",
+          "context": "πόλεις εἰσὶ πάμπολλαι ἀλλʼ οὐ πόλις"
+        }
+      ],
+      "observation": "The one/many contrast (εἷς–πολύς) recurs insistently: each rival city is many cities not one; treating it as one is error; the just city must remain one; each citizen must be one not many."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πόλις",
+          "lemma": "πόλις",
+          "location": "422a",
+          "context": "ἡ πόλις οἵα τʼ ἔσται πολεμεῖν"
+        },
+        {
+          "form": "πόλιν",
+          "lemma": "πόλις",
+          "location": "422d",
+          "context": "πρεσβείαν πέμψαντες εἰς τὴν ἑτέραν πόλιν"
+        },
+        {
+          "form": "πόλεις",
+          "lemma": "πόλις",
+          "location": "422e",
+          "context": "πόλεις εἰσὶ πάμπολλαι ἀλλʼ οὐ πόλις"
+        },
+        {
+          "form": "πόλιν",
+          "lemma": "πόλις",
+          "location": "423b",
+          "context": "τὸ μέγεθος τὴν πόλιν ποιεῖσθαι"
+        },
+        {
+          "form": "πόλις",
+          "lemma": "πόλις",
+          "location": "423c",
+          "context": "μήτε σμικρὰ ἡ πόλις ἔσται μήτε μεγάλη δοκοῦσα"
+        },
+        {
+          "form": "πόλις",
+          "lemma": "πόλις",
+          "location": "423d",
+          "context": "σύμπασα ἡ πόλις μία φύηται"
+        }
+      ],
+      "observation": "πόλις recurs densely through the section, shifting between the just city, rival cities, and the claim that other cities are not truly πόλις at all."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πενήτων",
+          "lemma": "πένης",
+          "location": "423a",
+          "context": "ἡ μὲν πενήτων"
+        },
+        {
+          "form": "πλουσίων",
+          "lemma": "πλούσιος",
+          "location": "423a",
+          "context": "ἡ δὲ πλουσίων"
+        }
+      ],
+      "observation": "Every non-ideal city is said to contain at minimum two cities at war with each other: one of the poor, one of the rich."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεγάλην",
+          "lemma": "μέγας",
+          "location": "422a",
+          "context": "πρὸς μεγάλην τε καὶ πλουσίαν"
+        },
+        {
+          "form": "μεγίστη",
+          "lemma": "μέγας",
+          "location": "423a",
+          "context": "μεγίστη ἔσται, οὐ τῷ εὐδοκιμεῖν λέγω, ἀλλʼ ὡς ἀληθῶς μεγίστη"
+        },
+        {
+          "form": "μεγάλη",
+          "lemma": "μέγας",
+          "location": "423c",
+          "context": "μήτε μεγάλη δοκοῦσα"
+        },
+        {
+          "form": "μέγα",
+          "lemma": "μέγας",
+          "location": "423e",
+          "context": "ἓν μέγα φυλάττωσι, μᾶλλον δʼ ἀντὶ μεγάλου ἱκανόν"
+        }
+      ],
+      "observation": "μέγας shifts context: from the threatening size of a rival city, to true greatness of the just city, to mere apparent largeness, to the one great thing (then corrected to ἱκανόν)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δοκούσας",
+          "lemma": "δοκέω",
+          "location": "423b",
+          "context": "δοκούσας δὲ πολλὰς καὶ πολλαπλασίας"
+        },
+        {
+          "form": "ἀληθῶς",
+          "lemma": "ἀληθής",
+          "location": "423a",
+          "context": "ἀλλʼ ὡς ἀληθῶς μεγίστη"
+        },
+        {
+          "form": "δοκοῦσα",
+          "lemma": "δοκέω",
+          "location": "423c",
+          "context": "μεγάλη δοκοῦσα"
+        }
+      ],
+      "observation": "A contrast between seeming (δοκέω) and truth (ἀληθῶς) runs through the discussion of city size."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φυλάττειν",
+          "lemma": "φυλάττω",
+          "location": "423c",
+          "context": "φυλάττειν παντὶ τρόπῳ"
+        },
+        {
+          "form": "φυλάττωσι",
+          "lemma": "φυλάττω",
+          "location": "423e",
+          "context": "ἓν μέγα φυλάττωσι"
+        },
+        {
+          "form": "φυλάττειν",
+          "lemma": "φυλάττω",
+          "location": "424b",
+          "context": "ὡς οἷόν τε μάλιστα φυλάττειν"
+        },
+        {
+          "form": "φύλαξι",
+          "lemma": "φύλαξ",
+          "location": "423c",
+          "context": "τοῖς φύλαξι προστάξομεν"
+        },
+        {
+          "form": "φυλάκων",
+          "lemma": "φύλαξ",
+          "location": "423c",
+          "context": "τῶν φυλάκων τις φαῦλος ἔκγονος"
+        }
+      ],
+      "observation": "φυλάττω and φύλαξ recur densely: the guardians are to guard city size, guard unity, and above all guard education."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φαῦλόν",
+          "lemma": "φαῦλος",
+          "location": "423c",
+          "context": "καὶ φαῦλόν γʼ ἴσως αὐτοῖς προστάξομεν"
+        },
+        {
+          "form": "φαυλότερον",
+          "lemma": "φαῦλος",
+          "location": "423c",
+          "context": "ἔτι φαυλότερον τόδε"
+        },
+        {
+          "form": "φαῦλος",
+          "lemma": "φαῦλος",
+          "location": "423c",
+          "context": "τῶν φυλάκων τις φαῦλος ἔκγονος"
+        },
+        {
+          "form": "φαῦλα",
+          "lemma": "φαῦλος",
+          "location": "423e",
+          "context": "πάντα φαῦλα"
+        }
+      ],
+      "observation": "φαῦλος recurs four times in close proximity, shifting between 'trivial' (the commands) and 'inferior' (the guardian offspring)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὑποφεύγοντι",
+          "lemma": "ὑποφεύγω",
+          "location": "422b",
+          "context": "ὑποφεύγοντι τὸν πρότερον ἀεὶ προσφερόμενον"
+        },
+        {
+          "form": "ἀναστρέφοντα",
+          "lemma": "ἀναστρέφω",
+          "location": "422c",
+          "context": "ἀναστρέφοντα κρούειν"
+        },
+        {
+          "form": "κρούειν",
+          "lemma": "κρούω",
+          "location": "422c",
+          "context": null
+        }
+      ],
+      "observation": "A tactical sequence: retreating, turning back, striking—described as repeatable (πολλάκις) under sun and heat."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἓν μέγα",
+          "lemma": null,
+          "location": "423e",
+          "context": "ἓν μέγα φυλάττωσι"
+        },
+        {
+          "form": "ἱκανόν",
+          "lemma": "ἱκανός",
+          "location": "423e",
+          "context": "μᾶλλον δʼ ἀντὶ μεγάλου ἱκανόν"
+        },
+        {
+          "form": "παιδείαν",
+          "lemma": "παιδεία",
+          "location": "423e",
+          "context": "τὴν παιδείαν καὶ τροφήν"
+        }
+      ],
+      "observation": "The 'one great thing' is immediately corrected to 'sufficient rather than great' and then identified as παιδεία καὶ τροφή."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κύκλος",
+          "lemma": "κύκλος",
+          "location": "424a",
+          "context": "ἔρχεται ὥσπερ κύκλος αὐξανομένη"
+        },
+        {
+          "form": "τροφὴ",
+          "lemma": "τροφή",
+          "location": "424a",
+          "context": "τροφὴ γὰρ καὶ παίδευσις χρηστὴ σῳζομένη φύσεις ἀγαθὰς ἐμποιεῖ"
+        },
+        {
+          "form": "φύονται",
+          "lemma": "φύω",
+          "location": "424a",
+          "context": "ἔτι βελτίους τῶν προτέρων φύονται"
+        }
+      ],
+      "observation": "The πολιτεία is compared to a κύκλος: good nurture produces good natures which in turn grasp good education and grow still better—a circular, self-reinforcing process."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χρυσίῳ",
+          "lemma": "χρυσίον",
+          "location": "422d",
+          "context": "οὐδὲν χρυσίῳ οὐδʼ ἀργυρίῳ χρώμεθα"
+        },
+        {
+          "form": "ἀργυρίῳ",
+          "lemma": "ἀργύριον",
+          "location": "422d",
+          "context": null
+        },
+        {
+          "form": "θέμις",
+          "lemma": "θέμις",
+          "location": "422d",
+          "context": "οὐδʼ ἡμῖν θέμις"
+        }
+      ],
+      "observation": "The city's abstention from gold and silver is stated as θέμις—a matter of divine law, not merely policy—and proposed as a diplomatic argument to allies."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πείθομαι",
+          "lemma": "πείθω",
+          "location": "424c",
+          "context": "ὥς φησί τε Δάμων καὶ ἐγὼ πείθομαι"
+        },
+        {
+          "form": "πεπεισμένων",
+          "lemma": "πείθω",
+          "location": "424c",
+          "context": "θὲς τῶν πεπεισμένων"
+        }
+      ],
+      "observation": "Socrates says he is persuaded by Damon; Adeimantus immediately asks to be placed among the persuaded—πείθω passes from Socrates to interlocutor."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μουσικῆς τρόποι",
+          "lemma": null,
+          "location": "424c",
+          "context": "κινοῦνται μουσικῆς τρόποι ἄνευ πολιτικῶν νόμων τῶν μεγίστων"
+        },
+        {
+          "form": "νόμων",
+          "lemma": "νόμος",
+          "location": "424c",
+          "context": null
+        },
+        {
+          "form": "Δάμων",
+          "lemma": "Δάμων",
+          "location": "424c",
+          "context": "ὥς φησί τε Δάμων"
+        }
+      ],
+      "observation": "Musical modes (μουσικῆς τρόποι) are said never to change without change in the greatest political laws (πολιτικῶν νόμων); the claim is attributed to Damon."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ τῶν παιζόντων",
+          "lemma": "παίζω",
+          "location": "422e",
+          "context": "πόλεις εἰσὶ πάμπολλαι ἀλλʼ οὐ πόλις, τὸ τῶν παιζόντων"
+        },
+        {
+          "form": "παροιμίαν",
+          "lemma": "παροιμία",
+          "location": "424a",
+          "context": "κατὰ τὴν παροιμίαν πάντα ὅτι μάλιστα κοινὰ τὰ φίλων"
+        }
+      ],
+      "observation": "Two appeals to common parlance: the claim about many-cities-not-one is marked as 'the gamers' phrase' (τὸ τῶν παιζόντων), and the sharing of women and children invokes a proverb (κοινὰ τὰ φίλων)."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐν ἡλίῳ",
+          "lemma": "ἥλιος",
+          "location": "422c",
+          "context": "ἐν ἡλίῳ τε καὶ πνίγει"
+        },
+        {
+          "form": "πνίγει",
+          "lemma": "πνῖγος",
+          "location": "422c",
+          "context": null
+        }
+      ],
+      "observation": "Sun and stifling heat are specified as conditions under which the trained boxer defeats multiple opponents—concrete physical detail in the athletic analogy."
+    }
+  ]
+}

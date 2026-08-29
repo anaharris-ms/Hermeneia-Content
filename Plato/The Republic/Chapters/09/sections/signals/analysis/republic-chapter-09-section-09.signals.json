@@ -1,0 +1,679 @@
+{
+  "section_id": "republic-chapter-09-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πλάσαντες",
+          "lemma": "πλάσσω",
+          "location": "588b",
+          "context": "εἰκόνα πλάσαντες τῆς ψυχῆς λόγῳ"
+        },
+        {
+          "form": "πλάττε",
+          "lemma": "πλάσσω",
+          "location": "588c",
+          "context": "πλάττε τοίνυν μίαν μὲν ἰδέαν θηρίου ποικίλου"
+        },
+        {
+          "form": "πλάστου",
+          "lemma": "πλάστης",
+          "location": "588d",
+          "context": "δεινοῦ πλάστου τὸ ἔργον"
+        },
+        {
+          "form": "εὐπλαστότερον",
+          "lemma": "εὔπλαστος",
+          "location": "588d",
+          "context": "εὐπλαστότερον κηροῦ καὶ τῶν τοιούτων λόγος"
+        },
+        {
+          "form": "πεπλάσθω",
+          "lemma": "πλάσσω",
+          "location": "588d",
+          "context": null
+        },
+        {
+          "form": "πέπλασται",
+          "lemma": "πλάσσω",
+          "location": "588d",
+          "context": null
+        },
+        {
+          "form": "περίπλασον",
+          "lemma": "περιπλάσσω",
+          "location": "588d",
+          "context": "περίπλασον δὴ αὐτοῖς ἔξωθεν ἑνὸς εἰκόνα"
+        },
+        {
+          "form": "περιπέπλασται",
+          "lemma": "περιπλάσσω",
+          "location": "588e",
+          "context": null
+        }
+      ],
+      "observation": "The πλάσσω family recurs densely across 588b–588e, moving from the initial proposal to mold an image through the act of molding, the craftsman who molds, the plasticity of λόγος compared to wax, and the final encasing (περιπλάσσω) of the composite in a human exterior."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἥμερα",
+          "lemma": "ἥμερος",
+          "location": "589b",
+          "context": "τὰ μὲν ἥμερα τρέφων καὶ τιθασεύων"
+        },
+        {
+          "form": "ἀγρίων",
+          "lemma": "ἄγριος",
+          "location": "589b",
+          "context": "τὰ δὲ ἄγρια ἀποκωλύων φύεσθαι"
+        },
+        {
+          "form": "ἡμέρων",
+          "lemma": "ἥμερος",
+          "location": "588c",
+          "context": "ἡμέρων δὲ θηρίων ἔχοντος κεφαλὰς"
+        },
+        {
+          "form": "ἀγρίων",
+          "lemma": "ἄγριος",
+          "location": "588c",
+          "context": "καὶ ἀγρίων"
+        },
+        {
+          "form": "ἥμερον",
+          "lemma": "ἥμερος",
+          "location": "589d",
+          "context": "τὸ ἥμερον δουλούμενα"
+        },
+        {
+          "form": "ἀγρίῳ",
+          "lemma": "ἄγριος",
+          "location": "589d",
+          "context": "ὑπὸ τῷ ἀγρίῳ"
+        },
+        {
+          "form": "ἥμερον",
+          "lemma": "ἥμερος",
+          "location": "591b",
+          "context": "τὸ δὲ ἥμερον ἐλευθεροῦται"
+        },
+        {
+          "form": "ἡμεροῦται",
+          "lemma": "ἡμερόω",
+          "location": "591b",
+          "context": "τὸ μὲν θηριῶδες κοιμίζεται καὶ ἡμεροῦται"
+        }
+      ],
+      "observation": "ἥμερος and ἄγριος recur as a paired contrast throughout, applied first to the many-headed beast's heads, then to the just person's cultivation, then to the enslaving of the tame by the wild, and finally to punishment taming the beastly and freeing the tame."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λυσιτελεῖν",
+          "lemma": "λυσιτελέω",
+          "location": "588b",
+          "context": "λυσιτελεῖν ἀδικεῖν τῷ τελέως μὲν ἀδίκῳ"
+        },
+        {
+          "form": "λυσιτελεῖ",
+          "lemma": "λυσιτελέω",
+          "location": "588e",
+          "context": "λυσιτελεῖ τούτῳ ἀδικεῖν τῷ ἀνθρώπῳ"
+        },
+        {
+          "form": "λυσιτελεῖ",
+          "lemma": "λυσιτελέω",
+          "location": "589d",
+          "context": "ἔστιν οὖν ὅτῳ λυσιτελεῖ ἐκ τούτου τοῦ λόγου χρυσίον λαμβάνειν ἀδίκως"
+        },
+        {
+          "form": "ἐλυσιτέλει",
+          "lemma": "λυσιτελέω",
+          "location": "589e",
+          "context": "οὐκ ἂν αὐτῷ ἐλυσιτέλει"
+        },
+        {
+          "form": "λυσιτελεῖν",
+          "lemma": "λυσιτελέω",
+          "location": "591a",
+          "context": "κατὰ τίνα λόγον λυσιτελεῖν ἀδικεῖν"
+        },
+        {
+          "form": "λυσιτελεῖν",
+          "lemma": "λυσιτελέω",
+          "location": "591a",
+          "context": "ἀδικοῦντα λανθάνειν καὶ μὴ διδόναι δίκην λυσιτελεῖν"
+        }
+      ],
+      "observation": "λυσιτελέω recurs six times, framing the section: it states the original claim, is applied to the image, questioned with gold, and finally denied in the concluding questions."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δουλούμενα",
+          "lemma": "δουλόω",
+          "location": "589d",
+          "context": "ὑπὸ τῷ ἀγρίῳ τὸ ἥμερον δουλούμενα"
+        },
+        {
+          "form": "καταδουλοῦται",
+          "lemma": "καταδουλόω",
+          "location": "589d",
+          "context": "λαμβάνων τὸ χρυσίον ἅμα καταδουλοῦται τὸ βέλτιστον ἑαυτοῦ"
+        },
+        {
+          "form": "ἐδουλοῦτο",
+          "lemma": "δουλόω",
+          "location": "589e",
+          "context": "ὑὸν ἢ θυγατέρα ἐδουλοῦτο"
+        },
+        {
+          "form": "δουλοῦται",
+          "lemma": "δουλόω",
+          "location": "589e",
+          "context": "τὸ ἑαυτοῦ θειότατον ὑπὸ τῷ ἀθεωτάτῳ τε καὶ μιαρωτάτῳ δουλοῦται"
+        },
+        {
+          "form": "δοῦλον",
+          "lemma": "δοῦλος",
+          "location": "590c",
+          "context": "δοῦλον αὐτόν φαμεν δεῖν εἶναι"
+        },
+        {
+          "form": "δούλου",
+          "lemma": "δοῦλος",
+          "location": "590d",
+          "context": "οὐκ ἐπὶ βλάβῃ τῇ τοῦ δούλου"
+        }
+      ],
+      "observation": "The δουλ- family recurs across shifting contexts: enslavement of the tame by the wild, self-enslavement through gold, enslavement of son or daughter, enslavement of the divine part, and finally beneficial slavery under the best ruler."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἔξωθεν",
+          "lemma": "ἔξωθεν",
+          "location": "588d",
+          "context": "περίπλασον δὴ αὐτοῖς ἔξωθεν ἑνὸς εἰκόνα"
+        },
+        {
+          "form": "ἐντὸς",
+          "lemma": "ἐντός",
+          "location": "588d",
+          "context": "τῷ μὴ δυναμένῳ τὰ ἐντὸς ὁρᾶν"
+        },
+        {
+          "form": "ἔξω",
+          "lemma": "ἔξω",
+          "location": "588e",
+          "context": "τὸ ἔξω μόνον ἔλυτρον ὁρῶντι"
+        },
+        {
+          "form": "ἐντὸς",
+          "lemma": "ἐντός",
+          "location": "589a",
+          "context": "τοῦ ἀνθρώπου ὁ ἐντὸς ἄνθρωπος"
+        },
+        {
+          "form": "ἔξωθεν",
+          "lemma": "ἔξωθεν",
+          "location": "590d",
+          "context": "εἰ δὲ μή, ἔξωθεν ἐφεστῶτος"
+        }
+      ],
+      "observation": "An inside/outside contrast structures the image: the exterior human shell conceals the interior composite, and ὁ ἐντὸς ἄνθρωπος names the inner human who must rule; ἔξωθεν returns at 590d for external governance."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θηρίου",
+          "lemma": "θηρίον",
+          "location": "588c",
+          "context": "ἰδέαν θηρίου ποικίλου καὶ πολυκεφάλου"
+        },
+        {
+          "form": "θηρίων",
+          "lemma": "θηρίον",
+          "location": "588c",
+          "context": "ἡμέρων δὲ θηρίων"
+        },
+        {
+          "form": "θηρίον",
+          "lemma": "θηρίον",
+          "location": "588e",
+          "context": "τὸ παντοδαπὸν θηρίον εὐωχοῦντι"
+        },
+        {
+          "form": "θρέμματος",
+          "lemma": "θρέμμα",
+          "location": "589b",
+          "context": "τοῦ πολυκεφάλου θρέμματος"
+        },
+        {
+          "form": "θρέμμα",
+          "lemma": "θρέμμα",
+          "location": "590a",
+          "context": "τὸ μέγα ἐκεῖνο καὶ πολυειδὲς θρέμμα"
+        },
+        {
+          "form": "θηρίῳ",
+          "lemma": "θηρίον",
+          "location": "590b",
+          "context": "ὑπὸ τῷ ὀχλώδει θηρίῳ"
+        },
+        {
+          "form": "θρεμμάτων",
+          "lemma": "θρέμμα",
+          "location": "590c",
+          "context": "ἄρχειν τῶν ἐν αὑτῷ θρεμμάτων"
+        },
+        {
+          "form": "θηριῶδες",
+          "lemma": "θηριώδης",
+          "location": "589d",
+          "context": "τὰ θηριώδη ποιοῦντα τῆς φύσεως"
+        },
+        {
+          "form": "θηριῶδες",
+          "lemma": "θηριώδης",
+          "location": "591b",
+          "context": "τὸ μὲν θηριῶδες κοιμίζεται"
+        }
+      ],
+      "observation": "θηρίον and θρέμμα recur throughout, naming the many-headed creature alternately as wild beast and as nursling/creature to be tended, with θηριώδης as the adjective for the beastly element."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄνθρωπον",
+          "lemma": "ἄνθρωπος",
+          "location": "588d",
+          "context": "μίαν δὲ ἀνθρώπου"
+        },
+        {
+          "form": "ἄνθρωπον",
+          "lemma": "ἄνθρωπος",
+          "location": "588e",
+          "context": "ἓν ζῷον φαίνεσθαι, ἄνθρωπον"
+        },
+        {
+          "form": "ἀνθρώπῳ",
+          "lemma": "ἄνθρωπος",
+          "location": "588e",
+          "context": "λυσιτελεῖ τούτῳ ἀδικεῖν τῷ ἀνθρώπῳ"
+        },
+        {
+          "form": "ἄνθρωπον",
+          "lemma": "ἄνθρωπος",
+          "location": "589a",
+          "context": "τὸν δὲ ἄνθρωπον λιμοκτονεῖν"
+        },
+        {
+          "form": "ἄνθρωπος",
+          "lemma": "ἄνθρωπος",
+          "location": "589b",
+          "context": "τοῦ ἀνθρώπου ὁ ἐντὸς ἄνθρωπος"
+        }
+      ],
+      "observation": "ἄνθρωπος operates at multiple levels: as one of the three inner forms (588d), as the outer appearance (588e), as the whole composite person (588e), as the inner form being starved (589a), and as ὁ ἐντὸς ἄνθρωπος who must rule (589b)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τρέφων",
+          "lemma": "τρέφω",
+          "location": "589b",
+          "context": "τὰ μὲν ἥμερα τρέφων καὶ τιθασεύων"
+        },
+        {
+          "form": "θρέψει",
+          "lemma": "τρέφω",
+          "location": "589b",
+          "context": "οὕτω θρέψει"
+        },
+        {
+          "form": "γεωργός",
+          "lemma": "γεωργός",
+          "location": "589b",
+          "context": "ἐπιμελήσεται ὥσπερ γεωργός"
+        },
+        {
+          "form": "φύειν",
+          "lemma": "φύω",
+          "location": "588c",
+          "context": "δυνατοῦ μεταβάλλειν καὶ φύειν ἐξ αὑτοῦ"
+        },
+        {
+          "form": "φύεσθαι",
+          "lemma": "φύω",
+          "location": "589b",
+          "context": "τὰ δὲ ἄγρια ἀποκωλύων φύεσθαι"
+        }
+      ],
+      "observation": "A cultivation/agriculture cluster: the just person tends the soul like a γεωργός, nourishing (τρέφων/θρέψει) tame growths and preventing wild ones from growing (φύεσθαι), while the beast itself can grow (φύειν) from itself."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἰσχυρὸν",
+          "lemma": "ἰσχυρός",
+          "location": "588e",
+          "context": "τὸ παντοδαπὸν θηρίον εὐωχοῦντι ποιεῖν ἰσχυρὸν"
+        },
+        {
+          "form": "ἀσθενῆ",
+          "lemma": "ἀσθενής",
+          "location": "589a",
+          "context": "τὸν δὲ ἄνθρωπον λιμοκτονεῖν καὶ ποιεῖν ἀσθενῆ"
+        },
+        {
+          "form": "ἀσθενὲς",
+          "lemma": "ἀσθενής",
+          "location": "590c",
+          "context": "ἀσθενὲς φύσει ἔχῃ τὸ τοῦ βελτίστου εἶδος"
+        }
+      ],
+      "observation": "ἰσχυρός and ἀσθενής are set in direct contrast: injustice makes the beast strong and the inner human weak; the artisan's nature has the best part weak by nature."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φίλον",
+          "lemma": "φίλος",
+          "location": "589a",
+          "context": "μηδὲ φίλον ποιεῖν"
+        },
+        {
+          "form": "φίλα",
+          "lemma": "φίλος",
+          "location": "589b",
+          "context": "φίλα ποιησάμενος ἀλλήλοις τε καὶ αὑτῷ"
+        },
+        {
+          "form": "φίλοι",
+          "lemma": "φίλος",
+          "location": "590d",
+          "context": "ἵνα εἰς δύναμιν πάντες ὅμοιοι ὦμεν καὶ φίλοι"
+        }
+      ],
+      "observation": "φίλος appears three times: the unjust soul makes nothing friendly to anything else; the just soul makes all parts friends to each other and to itself; governance aims at making all people friends."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ἐριφύλη",
+          "lemma": "Ἐριφύλη",
+          "location": "590a",
+          "context": "ἢ Ἐριφύλη ἐπὶ τῇ τοῦ ἀνδρὸς ψυχῇ τὸν ὅρμον δεξαμένη"
+        }
+      ],
+      "observation": "The mythological exemplum of Eriphyle, who accepted the necklace (ὅρμον) in exchange for her husband's life (ψυχῇ), is introduced as a comparison for self-enslavement through gold."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θείῳ",
+          "lemma": "θεῖος",
+          "location": "589d",
+          "context": "τὰ ὑπὸ τῷ θείῳ"
+        },
+        {
+          "form": "θειότατον",
+          "lemma": "θεῖος",
+          "location": "589e",
+          "context": "τὸ ἑαυτοῦ θειότατον"
+        },
+        {
+          "form": "ἀθεωτάτῳ",
+          "lemma": "ἄθεος",
+          "location": "589e",
+          "context": "ὑπὸ τῷ ἀθεωτάτῳ τε καὶ μιαρωτάτῳ"
+        },
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "590d",
+          "context": "τὸ θεῖον ἄρχον"
+        },
+        {
+          "form": "θείου",
+          "lemma": "θεῖος",
+          "location": "590d",
+          "context": "ὑπὸ θείου καὶ φρονίμου ἄρχεσθαι"
+        }
+      ],
+      "observation": "θεῖος recurs and is set against ἀθεώτατος in superlative contrast (589e); the divine element is identified with the ruling part within and with the external ruler."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐν αὑτῷ",
+          "lemma": null,
+          "location": "590d",
+          "context": "οἰκεῖον ἔχοντος ἐν αὑτῷ"
+        },
+        {
+          "form": "ἔξωθεν ἐφεστῶτος",
+          "lemma": null,
+          "location": "590d",
+          "context": "εἰ δὲ μή, ἔξωθεν ἐφεστῶτος"
+        },
+        {
+          "form": "ἐν αὐτοῖς",
+          "lemma": null,
+          "location": "590e",
+          "context": "ἕως ἂν ἐν αὐτοῖς ὥσπερ ἐν πόλει πολιτείαν καταστήσωμεν"
+        },
+        {
+          "form": "ἐν αὐτῷ",
+          "lemma": null,
+          "location": "591a",
+          "context": "ἀντικαταστήσωμεν φύλακα ὅμοιον καὶ ἄρχοντα ἐν αὐτῷ"
+        }
+      ],
+      "observation": "The phrase ἐν αὑτῷ/ἐν αὐτῷ recurs to locate governance within the soul, paired with the alternative of external rule (ἔξωθεν), and the analogy of establishing a constitution within children as within a city."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Χιμαίρας",
+          "lemma": "Χίμαιρα",
+          "location": "588c",
+          "context": null
+        },
+        {
+          "form": "Σκύλλης",
+          "lemma": "Σκύλλα",
+          "location": "588c",
+          "context": null
+        },
+        {
+          "form": "Κερβέρου",
+          "lemma": "Κέρβερος",
+          "location": "588c",
+          "context": null
+        }
+      ],
+      "observation": "Three mythological composite creatures are named in sequence as precedents for the soul-image: Chimaera, Scylla, Cerberus."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐλευθέρους",
+          "lemma": "ἐλεύθερος",
+          "location": "590e",
+          "context": "τὸ μὴ ἐᾶν ἐλευθέρους εἶναι"
+        },
+        {
+          "form": "ἐλεύθερον",
+          "lemma": "ἐλεύθερος",
+          "location": "591a",
+          "context": "καὶ τότε δὴ ἐλεύθερον ἀφίεμεν"
+        },
+        {
+          "form": "ἐλευθεροῦται",
+          "lemma": "ἐλευθερόω",
+          "location": "591b",
+          "context": "τὸ δὲ ἥμερον ἐλευθεροῦται"
+        }
+      ],
+      "observation": "Freedom is first withheld from children (μὴ ἐᾶν ἐλευθέρους), then granted once the inner guardian is established (ἐλεύθερον ἀφίεμεν), and the tame part of the punished soul is freed (ἐλευθεροῦται)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "λέοντος",
+          "lemma": "λέων",
+          "location": "588d",
+          "context": "ἄλλην ἰδέαν λέοντος"
+        },
+        {
+          "form": "λέοντα",
+          "lemma": "λέων",
+          "location": "588e",
+          "context": "καὶ τὸν λέοντα καὶ τὰ περὶ τὸν λέοντα"
+        },
+        {
+          "form": "λέοντος",
+          "lemma": "λέων",
+          "location": "589b",
+          "context": "σύμμαχον ποιησάμενος τὴν τοῦ λέοντος φύσιν"
+        },
+        {
+          "form": "λεοντῶδές",
+          "lemma": "λεοντώδης",
+          "location": "590a",
+          "context": "τὸ λεοντῶδές τε καὶ ὀφεῶδες"
+        },
+        {
+          "form": "λέοντος",
+          "lemma": "λέων",
+          "location": "590b",
+          "context": "ἀντὶ λέοντος πίθηκον γίγνεσθαι"
+        }
+      ],
+      "observation": "The lion recurs as the middle element: fed alongside the beast in injustice, made an ally in justice, liable to disproportionate growth (αὐθάδεια), and degraded from lion to ape (πίθηκον) through flattery."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πίθηκον",
+          "lemma": "πίθηκος",
+          "location": "590b",
+          "context": "ἐκ νέου ἀντὶ λέοντος πίθηκον γίγνεσθαι"
+        }
+      ],
+      "observation": "The ape appears as a degraded substitute for the lion: flattery and servility turn the spirited part from lion into ape."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ἐν πόλει πολιτείαν καταστήσωμεν",
+          "lemma": null,
+          "location": "590e",
+          "context": null
+        },
+        {
+          "form": "φύλακα ὅμοιον καὶ ἄρχοντα ἐν αὐτῷ",
+          "lemma": null,
+          "location": "591a",
+          "context": null
+        },
+        {
+          "form": "κυβερνώμενοι",
+          "lemma": "κυβερνάω",
+          "location": "590d",
+          "context": "τῷ αὐτῷ κυβερνώμενοι"
+        },
+        {
+          "form": "σύμμαχος",
+          "lemma": "σύμμαχος",
+          "location": "590e",
+          "context": "πᾶσι τοῖς ἐν τῇ πόλει σύμμαχος ὤν"
+        }
+      ],
+      "observation": "Political vocabulary (πολιτεία, φύλαξ, ἄρχων, σύμμαχος, κυβερνάω) is applied to the soul's internal ordering and to the law's role, establishing a soul-city correspondence within this section."
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "section_id": "republic-chapter-09-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὕδῃ",
+          "lemma": "εὕδω",
+          "location": "571c",
+          "context": "τὸ μὲν ἄλλο τῆς ψυχῆς εὕδῃ"
+        },
+        {
+          "form": "ἐγειρομένας",
+          "lemma": "ἐγείρω",
+          "location": "571c",
+          "context": "τὰς περὶ τὸν ὕπνον ἐγειρομένας"
+        },
+        {
+          "form": "ὕπνον",
+          "lemma": "ὕπνος",
+          "location": "571c",
+          "context": "ἀπωσάμενον τὸν ὕπνον"
+        },
+        {
+          "form": "ὕπνον",
+          "lemma": "ὕπνος",
+          "location": "571d",
+          "context": "εἰς τὸν ὕπνον ἴῃ"
+        },
+        {
+          "form": "κοιμηθῇ",
+          "lemma": "κοιμάω",
+          "location": "571e",
+          "context": null
+        },
+        {
+          "form": "καθεύδῃ",
+          "lemma": "καθεύδω",
+          "location": "572a",
+          "context": null
+        },
+        {
+          "form": "ἀναπαύηται",
+          "lemma": "ἀναπαύω",
+          "location": "572a",
+          "context": null
+        },
+        {
+          "form": "ὕπνοις",
+          "lemma": "ὕπνος",
+          "location": "572b",
+          "context": "ἐν τοῖς ὕπνοις"
+        },
+        {
+          "form": "ἐνυπνίων",
+          "lemma": "ἐνύπνιον",
+          "location": "572b",
+          "context": null
+        }
+      ],
+      "observation": "Sleep-related vocabulary recurs densely throughout: ὕπνος appears four times, supplemented by εὕδω, κοιμάω, καθεύδω, ἀναπαύω, and ἐνύπνιον. Waking (ἐγείρω) and pushing away sleep (ἀπωσάμενον τὸν ὕπνον) are set against these."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θηριῶδές τε καὶ ἄγριον",
+          "lemma": null,
+          "location": "571c",
+          "context": null
+        },
+        {
+          "form": "λογιστικὸν καὶ ἥμερον καὶ ἄρχον",
+          "lemma": null,
+          "location": "571c",
+          "context": null
+        }
+      ],
+      "observation": "The soul's two parts are named with contrasting paired adjectives: λογιστικόν/ἥμερον/ἄρχον versus θηριῶδες/ἄγριον."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐγειρομένας",
+          "lemma": "ἐγείρω",
+          "location": "571c",
+          "context": "τὰς περὶ τὸν ὕπνον ἐγειρομένας"
+        },
+        {
+          "form": "ἐγείρας",
+          "lemma": "ἐγείρω",
+          "location": "571d",
+          "context": "τὸ λογιστικὸν μὲν ἐγείρας ἑαυτοῦ"
+        }
+      ],
+      "observation": "ἐγείρω first describes lawless desires awakening during sleep, then describes the temperate person deliberately awakening the rational part before sleep."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πλησθέν",
+          "lemma": "πίμπλημι",
+          "location": "571c",
+          "context": "σίτων ἢ μέθης πλησθέν"
+        },
+        {
+          "form": "ἀποπιμπλάναι",
+          "lemma": "ἀποπίμπλημι",
+          "location": "571c",
+          "context": "ἀποπιμπλάναι τὰ αὑτοῦ ἤθη"
+        },
+        {
+          "form": "πλησμονῇ",
+          "lemma": "πλησμονή",
+          "location": "571e",
+          "context": "μήτε ἐνδείᾳ δοὺς μήτε πλησμονῇ"
+        }
+      ],
+      "observation": "The root πλη-/πιμπλ- recurs: the beast-part is filled with food or drink, seeks to fill its habits, and the temperate person avoids giving the desiring part either lack or fullness."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παράνομοι",
+          "lemma": "παράνομος",
+          "location": "571b",
+          "context": null
+        },
+        {
+          "form": "παράνομοι",
+          "lemma": "παράνομος",
+          "location": "572a",
+          "context": "ἥκιστα παράνομοι τότε αἱ ὄψεις"
+        }
+      ],
+      "observation": "παράνομος appears first to characterize the unnecessary desires and returns to describe dream-visions that are least παράνομοι in the temperate sleeper."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μητρί τε γὰρ ἐπιχειρεῖν μείγνυσθαι",
+          "lemma": null,
+          "location": "571c-d",
+          "context": null
+        },
+        {
+          "form": "μιαιφονεῖν",
+          "lemma": "μιαιφονέω",
+          "location": "571d",
+          "context": null
+        },
+        {
+          "form": "βρώματός τε ἀπέχεσθαι μηδενός",
+          "lemma": null,
+          "location": "571d",
+          "context": null
+        }
+      ],
+      "observation": "Three transgressive acts are listed as what the beast-part dares in sleep: incest with the mother, blood-pollution murder, and eating anything without restriction."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σίτων ἢ μέθης πλησθέν",
+          "lemma": null,
+          "location": "571c",
+          "context": null
+        },
+        {
+          "form": "ἑστιάσας λόγων καλῶν καὶ σκέψεων",
+          "lemma": null,
+          "location": "571d",
+          "context": null
+        }
+      ],
+      "observation": "Filling appears in contrasting contexts: the beast-part is filled with food and drink, while the rational part is feasted (ἑστιάσας) on fine arguments and inquiries."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "571a",
+          "context": "τὸ τῶν ἐπιθυμιῶν"
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "571b",
+          "context": "ἡδονῶν τε καὶ ἐπιθυμιῶν"
+        },
+        {
+          "form": "ἐπιθυμητικὸν",
+          "lemma": "ἐπιθυμητικός",
+          "location": "571e",
+          "context": "τὸ ἐπιθυμητικὸν δέ"
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "572b",
+          "context": "ἐπιθυμιῶν εἶδος ἑκάστῳ ἔνεστι"
+        }
+      ],
+      "observation": "ἐπιθυμία/ἐπιθυμητικός appears four times across the section, framing both the initial question and the concluding summary."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ζητῇ",
+          "lemma": "ζητέω",
+          "location": "571c",
+          "context": "ζητῇ ἰέναι καὶ ἀποπιμπλάναι"
+        },
+        {
+          "form": "ζήτησις",
+          "lemma": "ζήτησις",
+          "location": "571b",
+          "context": "ἀσαφεστέρα ἔσται ἡ ζήτησις"
+        },
+        {
+          "form": "ζητοῦμεν",
+          "lemma": "ζητέω",
+          "location": "571b",
+          "context": "ζήτησις οὗ ζητοῦμεν"
+        }
+      ],
+      "observation": "ζητέω/ζήτησις appears for the philosophical inquiry (ζήτησις οὗ ζητοῦμεν) and for the beast-part's seeking to go and satisfy itself (ζητῇ ἰέναι)."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἡσυχάσας μὲν τὼ δύο εἴδη",
+          "lemma": null,
+          "location": "572a",
+          "context": null
+        },
+        {
+          "form": "τὸ τρίτον δὲ κινήσας",
+          "lemma": null,
+          "location": "572a",
+          "context": "τὸ τρίτον δὲ κινήσας ἐν ᾧ τὸ φρονεῖν ἐγγίγνεται"
+        }
+      ],
+      "observation": "The temperate person's preparation for sleep involves quieting two parts (τὼ δύο εἴδη) and stirring the third (τὸ τρίτον), a numbered sequence of stilling and activating."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐνδείᾳ",
+          "lemma": "ἔνδεια",
+          "location": "571e",
+          "context": "μήτε ἐνδείᾳ δοὺς μήτε πλησμονῇ"
+        },
+        {
+          "form": "πλησμονῇ",
+          "lemma": "πλησμονή",
+          "location": "571e",
+          "context": null
+        }
+      ],
+      "observation": "ἔνδεια and πλησμονή are set as the two extremes to be avoided in the desiring part, a μήτε…μήτε pairing."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄγριον",
+          "lemma": "ἄγριος",
+          "location": "571c",
+          "context": "τὸ δὲ θηριῶδές τε καὶ ἄγριον"
+        },
+        {
+          "form": "ἄγριον",
+          "lemma": "ἄγριος",
+          "location": "572b",
+          "context": "δεινόν τι καὶ ἄγριον καὶ ἄνομον"
+        }
+      ],
+      "observation": "ἄγριον appears in the initial description of the beast-part and returns in the concluding summary characterizing the species of desires present in everyone."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "λελυμένον τε καὶ ἀπηλλαγμένον αἰσχύνης καὶ φρονήσεως",
+          "lemma": null,
+          "location": "571c",
+          "context": null
+        }
+      ],
+      "observation": "The beast-part in sleep is described as released and freed from both shame (αἰσχύνη) and intelligence (φρόνησις), a pair of perfect passive participles governing two abstract genitives."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ποθῶ",
+          "lemma": "ποθέω",
+          "location": "571a",
+          "context": "ὃ ποθῶ ἔτι"
+        },
+        {
+          "form": "διῃρῆσθαι",
+          "lemma": "διαιρέω",
+          "location": "571a",
+          "context": "οὔ μοι δοκοῦμεν ἱκανῶς διῃρῆσθαι"
+        },
+        {
+          "form": "ὃ δὲ βουλόμεθα γνῶναι τόδʼ ἐστίν",
+          "lemma": null,
+          "location": "572b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates opens by stating what he still desires (ποθῶ) and what has not been sufficiently divided (διῃρῆσθαι); the section closes by restating what we wish to know (βουλόμεθα γνῶναι), framing the sleep-discussion as fulfilling that stated need."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "572a",
+          "context": "τῆς τʼ ἀληθείας μάλιστα ἅπτεται"
+        },
+        {
+          "form": "ὄψεις",
+          "lemma": "ὄψις",
+          "location": "572a",
+          "context": "αἱ ὄψεις φαντάζονται τῶν ἐνυπνίων"
+        }
+      ],
+      "observation": "The temperate sleeper's rational part touches truth (ἀληθείας ἅπτεται) and the dream-visions (ὄψεις ἐνυπνίων) that appear are least lawless—truth-contact and lawful vision correspond."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄθλιον ἢ μακάριον",
+          "lemma": null,
+          "location": "571a",
+          "context": "τίνα τρόπον ζῇ, ἄθλιον ἢ μακάριον"
+        }
+      ],
+      "observation": "The tyrannical man's life is framed at the outset as a question between two extremes: wretched (ἄθλιον) or blessed (μακάριον)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κολαζόμεναι",
+          "lemma": "κολάζω",
+          "location": "571b",
+          "context": "κολαζόμεναι δὲ ὑπό τε τῶν νόμων"
+        },
+        {
+          "form": "νόμων",
+          "lemma": "νόμος",
+          "location": "571b",
+          "context": null
+        },
+        {
+          "form": "παράνομοι",
+          "lemma": "παράνομος",
+          "location": "571b",
+          "context": null
+        },
+        {
+          "form": "ἄνομον",
+          "lemma": "ἄνομος",
+          "location": "572b",
+          "context": null
+        }
+      ],
+      "observation": "νόμος and its negations cluster: lawless desires (παράνομοι) are punished by laws (νόμων), and the concluding summary uses ἄνομον."
+    }
+  ]
+}

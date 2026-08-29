@@ -1,0 +1,699 @@
+{
+  "section_id": "republic-chapter-04-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φυλακτήριον",
+          "lemma": "φυλακτήριον",
+          "location": "424d",
+          "context": "τὸ δὴ φυλακτήριον … ἐνταῦθά που οἰκοδομητέον τοῖς φύλαξιν, ἐν μουσικῇ"
+        },
+        {
+          "form": "οἰκοδομητέον",
+          "lemma": "οἰκοδομέω",
+          "location": "424d",
+          "context": null
+        }
+      ],
+      "observation": "A fortress (φυλακτήριον) is to be built (οἰκοδομητέον) for the guardians in music, applying architectural vocabulary to μουσική."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "παρανομία",
+          "lemma": "παρανομία",
+          "location": "424d",
+          "context": "ἡ γοῦν παρανομία … ῥᾳδίως αὕτη λανθάνει παραδυομένη"
+        },
+        {
+          "form": "παρανόμου",
+          "lemma": "παράνομος",
+          "location": "424e",
+          "context": "παρανόμου γιγνομένης αὐτῆς"
+        },
+        {
+          "form": "ἐννομωτέρου",
+          "lemma": "ἔννομος",
+          "location": "424e",
+          "context": "ἐννομωτέρου εὐθὺς παιδιᾶς μεθεκτέον"
+        },
+        {
+          "form": "ἐννόμους",
+          "lemma": "ἔννομος",
+          "location": "424e",
+          "context": "ἐννόμους τε καὶ σπουδαίους … ἄνδρας"
+        },
+        {
+          "form": "εὐνομίαν",
+          "lemma": "εὐνομία",
+          "location": "425a",
+          "context": "εὐνομίαν διὰ τῆς μουσικῆς εἰσδέξωνται"
+        }
+      ],
+      "observation": "παρανομία/παράνομος and ἔννομος/εὐνομία recur in direct contrast: lawlessness slips in unnoticed while lawful play and good order are the counter-requirement."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδιᾶς",
+          "lemma": "παιδιά",
+          "location": "424d",
+          "context": "ἐν παιδιᾶς γε μέρει"
+        },
+        {
+          "form": "παιδιᾶς",
+          "lemma": "παιδιά",
+          "location": "424e",
+          "context": "ἐννομωτέρου εὐθὺς παιδιᾶς μεθεκτέον"
+        },
+        {
+          "form": "παίζειν",
+          "lemma": "παίζω",
+          "location": "425a",
+          "context": "καλῶς ἀρξάμενοι παῖδες παίζειν"
+        },
+        {
+          "form": "παισὶν",
+          "lemma": "παῖς",
+          "location": "424e",
+          "context": "τοῖς ἡμετέροις παισὶν"
+        },
+        {
+          "form": "παίδων",
+          "lemma": "παῖς",
+          "location": "424e",
+          "context": "παρανόμου γιγνομένης αὐτῆς καὶ παίδων τοιούτων"
+        },
+        {
+          "form": "παῖδες",
+          "lemma": "παῖς",
+          "location": "425a",
+          "context": "καλῶς ἀρξάμενοι παῖδες παίζειν"
+        }
+      ],
+      "observation": "παιδιά (play) and παῖς/παῖδες (children) cluster together with παίζειν; play first appears as harmless disguise for lawlessness, then as the medium through which children receive εὐνομία."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "sequence_configuration",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "παραδυομένη",
+          "lemma": "παραδύομαι",
+          "location": "424d",
+          "context": "ῥᾳδίως αὕτη λανθάνει παραδυομένη"
+        },
+        {
+          "form": "εἰσοικισαμένη",
+          "lemma": "εἰσοικίζομαι",
+          "location": "424d",
+          "context": "κατὰ σμικρὸν εἰσοικισαμένη"
+        },
+        {
+          "form": "ὑπορρεῖ",
+          "lemma": "ὑπορρέω",
+          "location": "424d",
+          "context": "ἠρέμα ὑπορρεῖ πρὸς τὰ ἤθη τε καὶ τὰ ἐπιτηδεύματα"
+        },
+        {
+          "form": "ἐκβαίνει",
+          "lemma": "ἐκβαίνω",
+          "location": "424d",
+          "context": "μείζων ἐκβαίνει"
+        },
+        {
+          "form": "ἔρχεται",
+          "lemma": "ἔρχομαι",
+          "location": "424d",
+          "context": "ἔρχεται ἐπὶ τοὺς νόμους καὶ πολιτείας"
+        },
+        {
+          "form": "ἀνατρέψῃ",
+          "lemma": "ἀνατρέπω",
+          "location": "424e",
+          "context": "πάντα ἰδίᾳ καὶ δημοσίᾳ ἀνατρέψῃ"
+        }
+      ],
+      "observation": "A sequence of movement verbs traces παρανομία's progressive infiltration: slipping in (παραδυομένη), settling (εἰσοικισαμένη), flowing underneath (ὑπορρεῖ), stepping out larger (ἐκβαίνει), advancing (ἔρχεται), and finally overturning everything (ἀνατρέψῃ)."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συμβόλαια",
+          "lemma": "συμβόλαιον",
+          "location": "424d",
+          "context": "εἰς τὰ πρὸς ἀλλήλους συμβόλαια"
+        },
+        {
+          "form": "συμβολαίων",
+          "lemma": "συμβόλαιον",
+          "location": "425c",
+          "context": "συμβολαίων τε πέρι κατʼ ἀγοράν"
+        },
+        {
+          "form": "συμβάλλουσιν",
+          "lemma": "συμβάλλω",
+          "location": "425c",
+          "context": "ἃ πρὸς ἀλλήλους συμβάλλουσιν"
+        },
+        {
+          "form": "συμβολαίων",
+          "lemma": "συμβόλαιον",
+          "location": "425d",
+          "context": "χειροτεχνικῶν περὶ συμβολαίων"
+        },
+        {
+          "form": "συμβολαίοις",
+          "lemma": "συμβόλαιον",
+          "location": "426e",
+          "context": "περὶ τὰ ἐν τοῖς συμβολαίοις κακουργήματα"
+        }
+      ],
+      "observation": "συμβόλαιον recurs across the section: first as where lawlessness emerges, then as the marketplace dealings Socrates declines to legislate, and finally as the site of wrongdoing that futile legislators try to cure."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νομοθετεῖν",
+          "lemma": "νομοθετέω",
+          "location": "425b",
+          "context": "νομοθετεῖν δʼ αὐτὰ οἶμαι εὔηθες"
+        },
+        {
+          "form": "νομοθετεῖν",
+          "lemma": "νομοθετέω",
+          "location": "425c",
+          "context": "οὐκ ἂν ἔτι τὰ τοιαῦτα ἐπιχειρήσαιμι νομοθετεῖν"
+        },
+        {
+          "form": "νομοθετεῖν",
+          "lemma": "νομοθετέω",
+          "location": "425d",
+          "context": "τούτων τολμήσομέν τι νομοθετεῖν"
+        },
+        {
+          "form": "νομοθετοῦντες",
+          "lemma": "νομοθετέω",
+          "location": "426e",
+          "context": "νομοθετοῦντές τε οἷα ἄρτι διήλθομεν καὶ ἐπανορθοῦντες"
+        },
+        {
+          "form": "νομοθέτην",
+          "lemma": "νομοθέτης",
+          "location": "427a",
+          "context": "τὸν ἀληθινὸν νομοθέτην"
+        },
+        {
+          "form": "νομοθεσίας",
+          "lemma": "νομοθεσία",
+          "location": "427b",
+          "context": "τί οὖν … ἔτι ἂν ἡμῖν λοιπὸν τῆς νομοθεσίας εἴη"
+        },
+        {
+          "form": "νομοθετημάτων",
+          "lemma": "νομοθέτημα",
+          "location": "427b",
+          "context": "τά γε μέγιστα καὶ κάλλιστα καὶ πρῶτα τῶν νομοθετημάτων"
+        }
+      ],
+      "observation": "The νομοθετ- family recurs throughout: legislating is called foolish, repeatedly declined by Socrates, attributed to misguided reformers, and finally reserved—as νομοθετήματα—for Apollo."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπανορθοῦσα",
+          "lemma": "ἐπανορθόω",
+          "location": "425a",
+          "context": "ἐπανορθοῦσα εἴ τι καὶ πρότερον τῆς πόλεως ἔκειτο"
+        },
+        {
+          "form": "ἐπανορθούμενοι",
+          "lemma": "ἐπανορθόω",
+          "location": "425e",
+          "context": "πολλὰ τοιαῦτα τιθέμενοι ἀεὶ καὶ ἐπανορθούμενοι τὸν βίον διατελοῦσιν"
+        },
+        {
+          "form": "ἐπανορθοῦντες",
+          "lemma": "ἐπανορθόω",
+          "location": "426e",
+          "context": "νομοθετοῦντές τε οἷα ἄρτι διήλθομεν καὶ ἐπανορθοῦντες"
+        }
+      ],
+      "observation": "ἐπανορθόω appears three times: once for εὐνομία genuinely correcting the city, twice for futile correctors who endlessly patch without effect."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κάμνοντας",
+          "lemma": "κάμνω",
+          "location": "425e",
+          "context": "τοὺς κάμνοντάς τε καὶ οὐκ ἐθέλοντας … ἐκβῆναι πονηρᾶς διαίτης"
+        },
+        {
+          "form": "ἰατρευόμενοι",
+          "lemma": "ἰατρεύω",
+          "location": "426a",
+          "context": "ἰατρευόμενοι γὰρ οὐδὲν περαίνουσιν"
+        },
+        {
+          "form": "νοσήματα",
+          "lemma": "νόσημα",
+          "location": "426a",
+          "context": "ποικιλώτερα καὶ μείζω ποιοῦσι τὰ νοσήματα"
+        },
+        {
+          "form": "φάρμακον",
+          "lemma": "φάρμακον",
+          "location": "426a",
+          "context": "ἐάν τις φάρμακον συμβουλεύσῃ"
+        },
+        {
+          "form": "ὑγιεῖς",
+          "lemma": "ὑγιής",
+          "location": "426a",
+          "context": "ὑπὸ τούτου ἔσεσθαι ὑγιεῖς"
+        },
+        {
+          "form": "φάρμακα",
+          "lemma": "φάρμακον",
+          "location": "426b",
+          "context": "οὔτε φάρμακα οὔτε καύσεις οὔτε τομαί"
+        },
+        {
+          "form": "καύσεις",
+          "lemma": "καῦσις",
+          "location": "426b",
+          "context": null
+        },
+        {
+          "form": "τομαί",
+          "lemma": "τομή",
+          "location": "426b",
+          "context": null
+        },
+        {
+          "form": "ἐπῳδαί",
+          "lemma": "ἐπῳδή",
+          "location": "426b",
+          "context": null
+        },
+        {
+          "form": "περίαπτα",
+          "lemma": "περίαπτον",
+          "location": "426b",
+          "context": null
+        }
+      ],
+      "observation": "A medical semantic cluster: sick people, doctoring, diseases, drugs, health, cautery, surgery, incantations, and amulets are gathered to characterize cities that refuse to change their regimen."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χαριέντως",
+          "lemma": "χαρίεις",
+          "location": "426a",
+          "context": "οὗτοί γε χαριέντως διατελοῦσιν"
+        },
+        {
+          "form": "χαρίεν",
+          "lemma": "χαρίεις",
+          "location": "426a",
+          "context": "τόδε αὐτῶν οὐ χαρίεν"
+        },
+        {
+          "form": "χαρίεν",
+          "lemma": "χαρίεις",
+          "location": "426b",
+          "context": "οὐ πάνυ χαρίεν"
+        },
+        {
+          "form": "χάριν",
+          "lemma": "χάρις",
+          "location": "426b",
+          "context": "οὐκ ἔχει χάριν"
+        },
+        {
+          "form": "χαρίζηται",
+          "lemma": "χαρίζομαι",
+          "location": "426c",
+          "context": "ἥδιστα θεραπεύῃ καὶ χαρίζηται"
+        },
+        {
+          "form": "χαριέστατοι",
+          "lemma": "χαρίεις",
+          "location": "426e",
+          "context": "πάντων χαριέστατοι οἱ τοιοῦτοι"
+        }
+      ],
+      "observation": "χαρίεις/χάρις/χαρίζομαι recur with shifting ironic force: χαριέντως describes futile doctoring, χαρίεν is denied, χάριν is absent from truth-telling, χαρίζηται names flattery of badly governed cities, and χαριέστατοι is applied ironically to futile legislators."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θεραπείας",
+          "lemma": "θεραπεία",
+          "location": "425b",
+          "context": "γονέων θεραπείας"
+        },
+        {
+          "form": "θεραπεύῃ",
+          "lemma": "θεραπεύω",
+          "location": "426c",
+          "context": "ἥδιστα θεραπεύῃ καὶ χαρίζηται"
+        },
+        {
+          "form": "θεραπεύειν",
+          "lemma": "θεραπεύω",
+          "location": "426d",
+          "context": "τοὺς ἐθέλοντας θεραπεύειν τὰς τοιαύτας πόλεις"
+        },
+        {
+          "form": "θεραπεῖαι",
+          "lemma": "θεραπεία",
+          "location": "427b",
+          "context": "θεῶν τε καὶ δαιμόνων καὶ ἡρώων θεραπεῖαι"
+        }
+      ],
+      "observation": "θεραπεία/θεραπεύω shifts context: care of parents (a small custom), flattering service to a badly governed city, willingness to serve such cities, and finally ritual service to gods, daimones, and heroes reserved for Apollo."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ὕδραν",
+          "lemma": "Ὕδρα",
+          "location": "426e",
+          "context": "ὥσπερ Ὕδραν τέμνουσιν"
+        }
+      ],
+      "observation": "The Hydra appears as a comparison for endlessly cutting at wrongdoing in contracts—cutting that produces no cure."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ σμικρὸν",
+          "lemma": null,
+          "location": "424d",
+          "context": "κατὰ σμικρὸν εἰσοικισαμένη"
+        },
+        {
+          "form": "μείζων",
+          "lemma": "μέγας",
+          "location": "424d",
+          "context": "μείζων ἐκβαίνει"
+        },
+        {
+          "form": "τὰ σμικρὰ",
+          "lemma": "σμικρός",
+          "location": "425a",
+          "context": "καὶ τὰ σμικρὰ ἄρα … δοκοῦντα εἶναι νόμιμα"
+        },
+        {
+          "form": "μείζω",
+          "lemma": "μέγας",
+          "location": "426a",
+          "context": "ποικιλώτερα καὶ μείζω ποιοῦσι τὰ νοσήματα"
+        },
+        {
+          "form": "μέγιστα",
+          "lemma": "μέγας",
+          "location": "427b",
+          "context": "τά γε μέγιστα καὶ κάλλιστα καὶ πρῶτα τῶν νομοθετημάτων"
+        }
+      ],
+      "observation": "σμικρός and μέγας recur in contrast: lawlessness enters small and grows larger; small customs are discovered by the rightly educated; diseases become greater; and the greatest legislation belongs to Apollo."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ἀπόλλωνι τῷ ἐν Δελφοῖς",
+          "lemma": null,
+          "location": "427b",
+          "context": "τῷ μέντοι Ἀπόλλωνι τῷ ἐν Δελφοῖς τά γε μέγιστα καὶ κάλλιστα καὶ πρῶτα τῶν νομοθετημάτων"
+        },
+        {
+          "form": "πατρίῳ",
+          "lemma": "πάτριος",
+          "location": "427c",
+          "context": "οὐδὲ χρησόμεθα ἐξηγητῇ ἀλλʼ ἢ τῷ πατρίῳ"
+        },
+        {
+          "form": "πάτριος ἐξηγητής",
+          "lemma": null,
+          "location": "427c",
+          "context": "ὁ θεὸς … πάτριος ἐξηγητὴς ἐν μέσῳ τῆς γῆς ἐπὶ τοῦ ὀμφαλοῦ καθήμενος ἐξηγεῖται"
+        },
+        {
+          "form": "ὀμφαλοῦ",
+          "lemma": "ὀμφαλός",
+          "location": "427c",
+          "context": "ἐν μέσῳ τῆς γῆς ἐπὶ τοῦ ὀμφαλοῦ καθήμενος"
+        }
+      ],
+      "observation": "Apollo at Delphi is named as the ancestral interpreter (πάτριος ἐξηγητής) sitting at the navel of the earth; the greatest, finest, and first legislation is deferred to him. πάτριος appears twice in close succession."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἱερῶν τε ἱδρύσεις",
+          "lemma": null,
+          "location": "427b",
+          "context": null
+        },
+        {
+          "form": "θυσίαι",
+          "lemma": "θυσία",
+          "location": "427b",
+          "context": null
+        },
+        {
+          "form": "θεῶν τε καὶ δαιμόνων καὶ ἡρώων",
+          "lemma": null,
+          "location": "427b",
+          "context": null
+        },
+        {
+          "form": "τελευτησάντων",
+          "lemma": "τελευτάω",
+          "location": "427b",
+          "context": "τελευτησάντων τε αὖ θῆκαι"
+        },
+        {
+          "form": "θῆκαι",
+          "lemma": "θήκη",
+          "location": "427b",
+          "context": null
+        },
+        {
+          "form": "τοῖς ἐκεῖ",
+          "lemma": null,
+          "location": "427b",
+          "context": "ὅσα τοῖς ἐκεῖ δεῖ ὑπηρετοῦντας ἵλεως αὐτοὺς ἔχειν"
+        }
+      ],
+      "observation": "A cluster of religious and funerary items—temple foundations, sacrifices, gods, daimones, heroes, burials, and service to those in the beyond—gathered as what belongs to Apollo's legislation."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σιγάς",
+          "lemma": "σιγή",
+          "location": "425b",
+          "context": "σιγάς τε τῶν νεωτέρων παρὰ πρεσβυτέροις"
+        },
+        {
+          "form": "κατακλίσεις",
+          "lemma": "κατάκλισις",
+          "location": "425b",
+          "context": null
+        },
+        {
+          "form": "ὑπαναστάσεις",
+          "lemma": "ὑπανάστασις",
+          "location": "425b",
+          "context": null
+        },
+        {
+          "form": "γονέων θεραπείας",
+          "lemma": null,
+          "location": "425b",
+          "context": null
+        },
+        {
+          "form": "κουράς",
+          "lemma": "κουρά",
+          "location": "425b",
+          "context": null
+        },
+        {
+          "form": "ἀμπεχόνας",
+          "lemma": "ἀμπεχόνη",
+          "location": "425b",
+          "context": null
+        },
+        {
+          "form": "ὑποδέσεις",
+          "lemma": "ὑπόδεσις",
+          "location": "425b",
+          "context": null
+        },
+        {
+          "form": "τοῦ σώματος σχηματισμόν",
+          "lemma": null,
+          "location": "425b",
+          "context": "ὅλον τὸν τοῦ σώματος σχηματισμόν"
+        }
+      ],
+      "observation": "A dense list of small customs: silence of the young before elders, reclining, rising, care of parents, haircuts, cloaks, shoes, and the whole bearing of the body—presented as things discovered by the rightly educated rather than legislated."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὅμοιον … ὅμοιον",
+          "lemma": "ὅμοιος",
+          "location": "425c",
+          "context": "τὸ ὅμοιον ὂν ὅμοιον παρακαλεῖ"
+        }
+      ],
+      "observation": "ὅμοιον is doubled: like calls to like, stated as a general principle about education's consequences."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τελευτῶσα",
+          "lemma": "τελευτάω",
+          "location": "424e",
+          "context": "ἕως ἂν τελευτῶσα πάντα … ἀνατρέψῃ"
+        },
+        {
+          "form": "τελευτῶν",
+          "lemma": "τελευτάω",
+          "location": "425c",
+          "context": "τελευτῶν δὴ οἶμαι φαῖμεν ἂν εἰς ἕν τι τέλεον … ἀποβαίνειν"
+        },
+        {
+          "form": "τελευτησάντων",
+          "lemma": "τελευτάω",
+          "location": "427b",
+          "context": "τελευτησάντων τε αὖ θῆκαι"
+        }
+      ],
+      "observation": "τελευτάω recurs: lawlessness finally overturns everything; education finally issues in something complete (τέλεον); and the dead (τελευτησάντων) require burial rites—the word shifting from figurative culmination to literal death."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μεθύων καὶ ἐμπιμπλάμενος καὶ ἀφροδισιάζων καὶ ἀργῶν",
+          "lemma": null,
+          "location": "426a",
+          "context": "πρὶν ἂν μεθύων καὶ ἐμπιμπλάμενος καὶ ἀφροδισιάζων καὶ ἀργῶν παύσηται"
+        },
+        {
+          "form": "τἀληθῆ λέγοντα",
+          "lemma": null,
+          "location": "426a",
+          "context": "τὸ πάντων ἔχθιστον ἡγεῖσθαι τὸν τἀληθῆ λέγοντα"
+        }
+      ],
+      "observation": "The one who speaks the truth is considered most hateful by those who will not cease drinking, gorging, sexual indulgence, and idleness—a fourfold list of intemperate behaviors contrasted with truth-telling."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μὴ ἐπισταμένῳ μετρεῖν",
+          "lemma": null,
+          "location": "426d",
+          "context": "ἀνδρὶ μὴ ἐπισταμένῳ μετρεῖν"
+        },
+        {
+          "form": "τετράπηχύς",
+          "lemma": "τετράπηχυς",
+          "location": "426e",
+          "context": "ἑτέρων τοιούτων πολλῶν λεγόντων ὅτι τετράπηχύς ἐστιν"
+        }
+      ],
+      "observation": "A man who cannot measure is told by many others that he is four cubits tall and believes them—a concrete illustration of those who think themselves political because the many praise them."
+    }
+  ]
+}

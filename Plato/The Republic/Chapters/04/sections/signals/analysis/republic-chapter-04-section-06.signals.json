@@ -1,0 +1,462 @@
+{
+  "section_id": "republic-chapter-04-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "sequence_configuration",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "λοιπὰ",
+          "lemma": "λοιπός",
+          "location": "430c",
+          "context": "δύο μήν … ἔτι λοιπὰ ἃ δεῖ κατιδεῖν"
+        },
+        {
+          "form": "λοιπὸν",
+          "lemma": "λοιπός",
+          "location": "432b",
+          "context": "τὸ δὲ δὴ λοιπὸν εἶδος"
+        }
+      ],
+      "observation": "λοιπά opens the section naming two remaining virtues; λοιπόν closes it naming one remaining, marking the completed examination of σωφροσύνη."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κρείττω",
+          "lemma": "κρείττων",
+          "location": "430e",
+          "context": "κρείττω δὴ αὑτοῦ"
+        },
+        {
+          "form": "κρείττων",
+          "lemma": "κρείττων",
+          "location": "430e",
+          "context": "ὁ γὰρ ἑαυτοῦ κρείττων"
+        },
+        {
+          "form": "κρείττων",
+          "lemma": "κρείττων",
+          "location": "430e",
+          "context": null
+        },
+        {
+          "form": "κρείττω",
+          "lemma": "κρείττων",
+          "location": "431b",
+          "context": "κρείττω γὰρ αὐτὴν αὑτῆς"
+        },
+        {
+          "form": "κρεῖττον",
+          "lemma": "κρείττων",
+          "location": "431b",
+          "context": "κρεῖττον αὑτοῦ"
+        },
+        {
+          "form": "κρείττω",
+          "lemma": "κρείττων",
+          "location": "431d",
+          "context": "κρείττω ἡδονῶν τε καὶ ἐπιθυμιῶν"
+        }
+      ],
+      "observation": "κρείττων recurs densely, first in the paradox of being 'stronger than oneself,' then transferred to the city's self-mastery."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κρείττων",
+          "lemma": "κρείττων",
+          "location": "430e",
+          "context": "ὁ γὰρ ἑαυτοῦ κρείττων"
+        },
+        {
+          "form": "ἥττων",
+          "lemma": "ἥττων",
+          "location": "430e",
+          "context": "καὶ ἥττων δήπου ἂν αὑτοῦ εἴη"
+        },
+        {
+          "form": "ἥττω",
+          "lemma": "ἥττων",
+          "location": "431b",
+          "context": "καλεῖν ἥττω ἑαυτοῦ καὶ ἀκόλαστον"
+        }
+      ],
+      "observation": "κρείττων and ἥττων are set in explicit paradoxical opposition: the one stronger than himself is also weaker than himself."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βέλτιον",
+          "lemma": "βέλτιον",
+          "location": "431a",
+          "context": "τὸ μὲν βέλτιον ἔνι"
+        },
+        {
+          "form": "χεῖρον",
+          "lemma": "χείρων",
+          "location": "431a",
+          "context": "τὸ δὲ χεῖρον"
+        },
+        {
+          "form": "ἄμεινον",
+          "lemma": "ἀμείνων",
+          "location": "431b",
+          "context": "τὸ ἄμεινον τοῦ χείρονος ἄρχει"
+        },
+        {
+          "form": "ἀμείνονος",
+          "lemma": "ἀμείνων",
+          "location": "432a",
+          "context": "χείρονός τε καὶ ἀμείνονος κατὰ φύσιν συμφωνίαν"
+        }
+      ],
+      "observation": "The better/worse pair (βέλτιον/χεῖρον, then ἄμεινον/χεῖρον) moves from the soul of a single human to the city's natural consonance."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "συμφωνίᾳ",
+          "lemma": "συμφωνία",
+          "location": "430e",
+          "context": "συμφωνίᾳ τινὶ καὶ ἁρμονίᾳ προσέοικεν"
+        },
+        {
+          "form": "ἁρμονίᾳ",
+          "lemma": "ἁρμονία",
+          "location": "430e",
+          "context": null
+        },
+        {
+          "form": "ἁρμονίᾳ",
+          "lemma": "ἁρμονία",
+          "location": "431e",
+          "context": "ἁρμονίᾳ τινὶ ἡ σωφροσύνη ὡμοίωται"
+        },
+        {
+          "form": "συνᾴδοντας",
+          "lemma": "συνᾴδω",
+          "location": "432a",
+          "context": "παρεχομένη συνᾴδοντας"
+        },
+        {
+          "form": "συμφωνίαν",
+          "lemma": "συμφωνία",
+          "location": "432a",
+          "context": "χείρονός τε καὶ ἀμείνονος κατὰ φύσιν συμφωνίαν"
+        },
+        {
+          "form": "ὁμόνοιαν",
+          "lemma": "ὁμόνοια",
+          "location": "432a",
+          "context": "ταύτην τὴν ὁμόνοιαν σωφροσύνην εἶναι"
+        }
+      ],
+      "observation": "A cluster of musical/harmonic terms—συμφωνία, ἁρμονία, συνᾴδω—accumulates across the section, joined at its close by ὁμόνοια."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "430e",
+          "context": "ἡδονῶν τινων καὶ ἐπιθυμιῶν ἐγκράτεια"
+        },
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "431b",
+          "context": "τὰς πολλὰς καὶ παντοδαπὰς ἐπιθυμίας"
+        },
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "431c",
+          "context": "κρατουμένας … τὰς ἐπιθυμίας"
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "431d",
+          "context": "κρείττω ἡδονῶν τε καὶ ἐπιθυμιῶν"
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "431d",
+          "context": "ὑπό τε τῶν ἐπιθυμιῶν καὶ τῆς φρονήσεως"
+        }
+      ],
+      "observation": "ἐπιθυμία recurs throughout, shifting from individual self-mastery to the city's desires being mastered by the few."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐγκράτεια",
+          "lemma": "ἐγκράτεια",
+          "location": "430e",
+          "context": "ἡδονῶν τινων καὶ ἐπιθυμιῶν ἐγκράτεια"
+        },
+        {
+          "form": "ἐγκρατὲς",
+          "lemma": "ἐγκρατής",
+          "location": "431a",
+          "context": "τὸ βέλτιον φύσει τοῦ χείρονος ἐγκρατὲς ᾖ"
+        },
+        {
+          "form": "κρατηθῇ",
+          "lemma": "κρατέω",
+          "location": "431a",
+          "context": "κρατηθῇ ὑπὸ πλήθους τοῦ χείρονος"
+        },
+        {
+          "form": "κρατουμένας",
+          "lemma": "κρατέω",
+          "location": "431c",
+          "context": "κρατουμένας αὐτόθι τὰς ἐπιθυμίας"
+        }
+      ],
+      "observation": "The κρατ- family (ἐγκράτεια, ἐγκρατής, κρατέω) recurs densely, naming mastery in both active and passive forms."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχει",
+          "lemma": "ἄρχω",
+          "location": "431b",
+          "context": "τὸ ἄμεινον τοῦ χείρονος ἄρχει"
+        },
+        {
+          "form": "ἄρχουσι",
+          "lemma": "ἄρχω",
+          "location": "431e",
+          "context": "τοῖς τε ἄρχουσι καὶ ἀρχομένοις"
+        },
+        {
+          "form": "ἀρχομένοις",
+          "lemma": "ἄρχω",
+          "location": "431e",
+          "context": null
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "431e",
+          "context": "περὶ τοῦ οὕστινας δεῖ ἄρχειν"
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "432a",
+          "context": "ὁπότερον δεῖ ἄρχειν"
+        }
+      ],
+      "observation": "ἄρχω recurs, moving from the better part ruling the worse within, to rulers and ruled sharing a δόξα about who should rule."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐν μέρει",
+          "lemma": null,
+          "location": "431e",
+          "context": "ἐν μέρει τινὶ ἑκατέρα ἐνοῦσα"
+        },
+        {
+          "form": "διʼ ὅλης",
+          "lemma": null,
+          "location": "432a",
+          "context": "διʼ ὅλης ἀτεχνῶς τέταται διὰ πασῶν"
+        }
+      ],
+      "observation": "σωφροσύνη is contrasted with ἀνδρεία and σοφία: those reside ἐν μέρει, while σωφροσύνη stretches διʼ ὅλης … διὰ πασῶν."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τέταται",
+          "lemma": "τείνω",
+          "location": "432a",
+          "context": "διʼ ὅλης ἀτεχνῶς τέταται διὰ πασῶν"
+        }
+      ],
+      "observation": "τέταται is a striking perfect passive describing σωφροσύνη as stretched through the entire city, a spatial-musical image."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀσθενεστάτους",
+          "lemma": "ἀσθενής",
+          "location": "432a",
+          "context": "τούς τε ἀσθενεστάτους"
+        },
+        {
+          "form": "ἰσχυροτάτους",
+          "lemma": "ἰσχυρός",
+          "location": "432a",
+          "context": "τοὺς ἰσχυροτάτους"
+        },
+        {
+          "form": "μέσους",
+          "lemma": "μέσος",
+          "location": "432a",
+          "context": "καὶ τοὺς μέσους"
+        }
+      ],
+      "observation": "A three-part superlative grouping—weakest, strongest, middle—names those who sing in unison, paralleling musical string terminology."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἴχνη",
+          "lemma": "ἴχνος",
+          "location": "430e",
+          "context": "ὥσπερ ἴχνη αὐτῆς λέγεται"
+        }
+      ],
+      "observation": "The common expression κρείττω αὑτοῦ is called an ἴχνος (trace/track) of σωφροσύνη, a tracking metaphor."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σωφροσύνη",
+          "lemma": "σωφροσύνη",
+          "location": "430d",
+          "context": null
+        },
+        {
+          "form": "δικαιοσύνη",
+          "lemma": "δικαιοσύνη",
+          "location": "430d",
+          "context": "οὗ δὴ ἕνεκα πάντα ζητοῦμεν, δικαιοσύνη"
+        },
+        {
+          "form": "δικαιοσύνη",
+          "lemma": "δικαιοσύνη",
+          "location": "432b",
+          "context": "δῆλον γὰρ ὅτι τοῦτʼ ἐστὶν ἡ δικαιοσύνη"
+        }
+      ],
+      "observation": "δικαιοσύνη frames the section—named as the ultimate object of search at the opening and as the remaining εἶδος at the close—while σωφροσύνη is the subject examined between."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κατιδεῖν",
+          "lemma": "κατοράω",
+          "location": "430c",
+          "context": "ἃ δεῖ κατιδεῖν ἐν τῇ πόλει"
+        },
+        {
+          "form": "κατῶπται",
+          "lemma": "κατοράω",
+          "location": "432b",
+          "context": "τὰ μὲν τρία ἡμῖν ἐν τῇ πόλει κατῶπται"
+        }
+      ],
+      "observation": "κατιδεῖν at the opening and κατῶπται at the close mark the seeing-task as proposed and then completed for three virtues."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "βέλτιστα … φῦσιν",
+          "lemma": null,
+          "location": "431c",
+          "context": "τοῖς βέλτιστα μὲν φῦσιν"
+        },
+        {
+          "form": "βέλτιστα … παιδευθεῖσιν",
+          "lemma": null,
+          "location": "431c",
+          "context": "βέλτιστα δὲ παιδευθεῖσιν"
+        }
+      ],
+      "observation": "βέλτιστα is repeated in parallel with two different participles—φῦσιν and παιδευθεῖσιν—pairing nature and education."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐν ἀμφοτέροις",
+          "lemma": null,
+          "location": "431e",
+          "context": "ἐν ἀμφοτέροις που"
+        },
+        {
+          "form": "ἐν τοῖς ἄρχουσιν ἢ ἐν τοῖς ἀρχομένοις",
+          "lemma": null,
+          "location": "431e",
+          "context": null
+        }
+      ],
+      "observation": "Socrates asks whether σωφρονεῖν belongs to rulers or ruled; the answer ἐν ἀμφοτέροις refuses the disjunction, consistent with the 'through the whole' characterization."
+    }
+  ]
+}

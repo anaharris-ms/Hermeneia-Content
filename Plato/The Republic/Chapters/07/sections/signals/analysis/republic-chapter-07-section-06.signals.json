@@ -1,0 +1,477 @@
+{
+  "section_id": "republic-chapter-07-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προσήκει",
+          "lemma": "προσήκω",
+          "location": "526d",
+          "context": "πρὸς τὰ πολεμικὰ αὐτοῦ τείνει, δῆλον ὅτι προσήκει"
+        },
+        {
+          "form": "προσήκει",
+          "lemma": "προσήκω",
+          "location": "526e",
+          "context": "εἰ μὲν οὐσίαν ἀναγκάζει θεάσασθαι, προσήκει"
+        },
+        {
+          "form": "οὐ προσήκει",
+          "lemma": "προσήκω",
+          "location": "526e",
+          "context": "εἰ δὲ γένεσιν, οὐ προσήκει"
+        },
+        {
+          "form": "προσήκει",
+          "lemma": "προσήκω",
+          "location": "527d",
+          "context": "ἀλλὰ καὶ στρατηγίᾳ οὐχ ἧττον"
+        }
+      ],
+      "observation": "προσήκει recurs across the section: first affirming geometry's relevance to war, then making relevance depend on whether a study compels contemplation of οὐσία or γένεσις, then reappearing in Glaucon's practical defense of astronomy."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τείνει",
+          "lemma": "τείνω",
+          "location": "526d",
+          "context": "πρὸς τὰ πολεμικὰ αὐτοῦ τείνει"
+        },
+        {
+          "form": "τείνει",
+          "lemma": "τείνω",
+          "location": "526e",
+          "context": "εἴ τι πρὸς ἐκεῖνο τείνει"
+        },
+        {
+          "form": "τείνει δέ",
+          "lemma": "τείνω",
+          "location": "526e",
+          "context": "τείνει δέ, φαμέν, πάντα αὐτόσε"
+        }
+      ],
+      "observation": "τείνει appears three times, first directed πρὸς τὰ πολεμικά, then redirected πρὸς τὸ ποιεῖν κατιδεῖν τὴν τοῦ ἀγαθοῦ ἰδέαν, then generalized to everything that compels the soul toward that place."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οὐσίαν",
+          "lemma": "οὐσία",
+          "location": "526e",
+          "context": "εἰ μὲν οὐσίαν ἀναγκάζει θεάσασθαι"
+        },
+        {
+          "form": "γένεσιν",
+          "lemma": "γένεσις",
+          "location": "526e",
+          "context": "εἰ δὲ γένεσιν, οὐ προσήκει"
+        }
+      ],
+      "observation": "οὐσία and γένεσις are set in direct contrast as the criterion for whether a study is fitting."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "527b",
+          "context": "πρὸς τὸ ἄνω σχεῖν"
+        },
+        {
+          "form": "κάτω",
+          "lemma": "κάτω",
+          "location": "527b",
+          "context": "ἃ νῦν κάτω οὐ δέον ἔχομεν"
+        }
+      ],
+      "observation": "ἄνω and κάτω are juxtaposed: geometry should turn upward what we now wrongly hold downward."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁλκόν",
+          "lemma": "ὁλκός",
+          "location": "527b",
+          "context": "ὁλκὸν ἄρα, ὦ γενναῖε, ψυχῆς πρὸς ἀλήθειαν"
+        },
+        {
+          "form": "μεταστρέφεσθαι",
+          "lemma": "μεταστρέφω",
+          "location": "526e",
+          "context": "ἀναγκάζει ψυχὴν εἰς ἐκεῖνον τὸν τόπον μεταστρέφεσθαι"
+        },
+        {
+          "form": "ἀναγκάζει",
+          "lemma": "ἀναγκάζω",
+          "location": "526e",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of compulsion and drawing: the soul is forced (ἀναγκάζει) to turn around (μεταστρέφεσθαι) and is drawn (ὁλκόν) toward truth."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πράττοντές τε καὶ πράξεως ἕνεκα",
+          "lemma": "πράττω",
+          "location": "527a",
+          "context": "ὡς γὰρ πράττοντές τε καὶ πράξεως ἕνεκα πάντας τοὺς λόγους ποιούμενοι"
+        },
+        {
+          "form": "γνώσεως ἕνεκα",
+          "lemma": "γνῶσις",
+          "location": "527b",
+          "context": "πᾶν τὸ μάθημα γνώσεως ἕνεκα ἐπιτηδευόμενον"
+        }
+      ],
+      "observation": "Geometers speak as if acting (πράξεως ἕνεκα), but the whole study is pursued for the sake of knowing (γνώσεως ἕνεκα)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τετραγωνίζειν",
+          "lemma": "τετραγωνίζω",
+          "location": "527a",
+          "context": null
+        },
+        {
+          "form": "παρατείνειν",
+          "lemma": "παρατείνω",
+          "location": "527a",
+          "context": null
+        },
+        {
+          "form": "προστιθέναι",
+          "lemma": "προστίθημι",
+          "location": "527a",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of geometric operations (squaring, extending, adding) cited as examples of the practical language geometers use, described as γελοίως τε καὶ ἀναγκαίως."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ ἀεὶ ὄντος",
+          "lemma": "εἰμί",
+          "location": "527b",
+          "context": "τοῦ ἀεὶ ὄντος γνώσεως"
+        },
+        {
+          "form": "γιγνομένου καὶ ἀπολλυμένου",
+          "lemma": null,
+          "location": "527b",
+          "context": "τοῦ ποτέ τι γιγνομένου καὶ ἀπολλυμένου"
+        }
+      ],
+      "observation": "τοῦ ἀεὶ ὄντος is contrasted with τοῦ ποτέ τι γιγνομένου καὶ ἀπολλυμένου as the proper object of geometric knowledge."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster",
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὄργανόν τι ψυχῆς",
+          "lemma": null,
+          "location": "527d",
+          "context": null
+        },
+        {
+          "form": "ἐκκαθαίρεταί",
+          "lemma": "ἐκκαθαίρω",
+          "location": "527d",
+          "context": null
+        },
+        {
+          "form": "ἀναζωπυρεῖται",
+          "lemma": "ἀναζωπυρέω",
+          "location": "527e",
+          "context": null
+        },
+        {
+          "form": "ἀπολλύμενον καὶ τυφλούμενον",
+          "lemma": null,
+          "location": "527e",
+          "context": "ἀπολλύμενον καὶ τυφλούμενον ὑπὸ τῶν ἄλλων ἐπιτηδευμάτων"
+        },
+        {
+          "form": "μυρίων ὀμμάτων",
+          "lemma": null,
+          "location": "527e",
+          "context": "κρεῖττον ὂν σωθῆναι μυρίων ὀμμάτων"
+        }
+      ],
+      "observation": "An instrument of the soul is described as being purified and rekindled after being destroyed and blinded, and declared more worth saving than ten thousand eyes."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γεωμετρίαν",
+          "lemma": "γεωμετρία",
+          "location": "526c",
+          "context": null
+        },
+        {
+          "form": "γεωμετρίας",
+          "lemma": "γεωμετρία",
+          "location": "526d",
+          "context": "βραχύ τι ἂν ἐξαρκοῖ γεωμετρίας τε καὶ λογισμῶν μόριον"
+        },
+        {
+          "form": "γεωμετρίας",
+          "lemma": "γεωμετρία",
+          "location": "527a",
+          "context": "ὅσοι καὶ σμικρὰ γεωμετρίας ἔμπειροι"
+        },
+        {
+          "form": "γεωμετρίας",
+          "lemma": "γεωμετρία",
+          "location": "527c",
+          "context": "μηδενὶ τρόπῳ γεωμετρίας ἀφέξονται"
+        },
+        {
+          "form": "γεωμετρίας",
+          "lemma": "γεωμετρία",
+          "location": "527c",
+          "context": "ἡμμένος τε γεωμετρίας καὶ μή"
+        }
+      ],
+      "observation": "γεωμετρία recurs throughout the section, named by Glaucon at the outset and then appearing in both its limited military application and its larger philosophical purpose."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "βραχύ τι",
+          "lemma": null,
+          "location": "526d",
+          "context": "βραχύ τι ἂν ἐξαρκοῖ γεωμετρίας τε καὶ λογισμῶν μόριον"
+        },
+        {
+          "form": "τὸ δὲ πολὺ αὐτῆς καὶ πορρωτέρω προϊόν",
+          "lemma": null,
+          "location": "526d",
+          "context": null
+        }
+      ],
+      "observation": "A small portion (βραχύ τι … μόριον) suffices for military use; the greater part advancing further (τὸ πολὺ … πορρωτέρω προϊόν) must be examined for its higher aim."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γελοίως",
+          "lemma": "γελοῖος",
+          "location": "527a",
+          "context": "μάλα γελοίως τε καὶ ἀναγκαίως"
+        },
+        {
+          "form": "ἀναγκαίως",
+          "lemma": "ἀναγκαῖος",
+          "location": "527a",
+          "context": null
+        }
+      ],
+      "observation": "The geometers' practical language is described as simultaneously laughable and necessary."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δεύτερον",
+          "lemma": "δεύτερος",
+          "location": "526c",
+          "context": "δεύτερον δὲ τὸ ἐχόμενον τούτου σκεψώμεθα"
+        },
+        {
+          "form": "δεύτερον",
+          "lemma": "δεύτερος",
+          "location": "527c",
+          "context": "δεύτερον δὴ τοῦτο τιθῶμεν μάθημα τοῖς νέοις"
+        },
+        {
+          "form": "τρίτον",
+          "lemma": "τρίτος",
+          "location": "527d",
+          "context": "τί δέ; τρίτον θῶμεν ἀστρονομίαν"
+        }
+      ],
+      "observation": "The section opens proposing a second study, confirms geometry as the second μάθημα, and immediately proposes a third, marking an ordinal sequence of studies."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶται",
+          "lemma": "ὁράω",
+          "location": "527e",
+          "context": "μόνῳ γὰρ αὐτῷ ἀλήθεια ὁρᾶται"
+        },
+        {
+          "form": "ὀμμάτων",
+          "lemma": "ὄμμα",
+          "location": "527e",
+          "context": "κρεῖττον ὂν σωθῆναι μυρίων ὀμμάτων"
+        },
+        {
+          "form": "τυφλούμενον",
+          "lemma": "τυφλόω",
+          "location": "527e",
+          "context": null
+        },
+        {
+          "form": "ὁρῶσιν",
+          "lemma": "ὁράω",
+          "location": "527e",
+          "context": "ἄλλην γὰρ ἀπʼ αὐτῶν οὐχ ὁρῶσιν ἀξίαν λόγου ὠφελίαν"
+        }
+      ],
+      "observation": "A dense cluster of seeing and blindness: the soul's instrument is blinded, yet only through it is truth seen; it surpasses ten thousand eyes; those unaware of it see no worthy benefit."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "narration_dialogue_recurrence",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "δεδιότι τοὺς πολλούς",
+          "lemma": null,
+          "location": "527d",
+          "context": "ἔοικας δεδιότι τοὺς πολλούς, μὴ δοκῇς ἄχρηστα μαθήματα προστάττειν"
+        },
+        {
+          "form": "στρατοπεδεύσεις καὶ καταλήψεις χωρίων",
+          "lemma": null,
+          "location": "526d",
+          "context": null
+        },
+        {
+          "form": "ὥρας … μηνῶν … ἐνιαυτῶν",
+          "lemma": null,
+          "location": "527d",
+          "context": "τὸ γὰρ περὶ ὥρας εὐαισθητοτέρως ἔχειν καὶ μηνῶν καὶ ἐνιαυτῶν"
+        }
+      ],
+      "observation": "Glaucon twice defends a study by citing practical-military benefits; Socrates diagnoses this pattern as fear of seeming to prescribe useless studies."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐμαυτοῦ ἕνεκα",
+          "lemma": null,
+          "location": "528a",
+          "context": "ἐμαυτοῦ ἕνεκα τὸ πλεῖστον λέγειν τε καὶ ἐρωτᾶν καὶ ἀποκρίνεσθαι"
+        },
+        {
+          "form": "σαυτοῦ ἕνεκα",
+          "lemma": null,
+          "location": "528a",
+          "context": "σαυτοῦ ἕνεκα τὸ μέγιστον ποιῇ τοὺς λόγους"
+        }
+      ],
+      "observation": "Socrates suggests Glaucon speaks mostly for his own sake; Glaucon accepts this, echoing σαυτοῦ ἕνεκα with ἐμαυτοῦ ἕνεκα."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "καλλιπόλει",
+          "lemma": "καλλίπολις",
+          "location": "527c",
+          "context": "οἱ ἐν τῇ καλλιπόλει σοι"
+        }
+      ],
+      "observation": "The city is named καλλίπολις and assigned to Glaucon (σοι)."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κατιδεῖν",
+          "lemma": "καθοράω",
+          "location": "526e",
+          "context": "πρὸς τὸ ποιεῖν κατιδεῖν ῥᾷον τὴν τοῦ ἀγαθοῦ ἰδέαν"
+        },
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "526e",
+          "context": "ὃ δεῖ αὐτὴν παντὶ τρόπῳ ἰδεῖν"
+        },
+        {
+          "form": "θεάσασθαι",
+          "lemma": "θεάομαι",
+          "location": "526e",
+          "context": "οὐσίαν ἀναγκάζει θεάσασθαι"
+        }
+      ],
+      "observation": "Three verbs of seeing (κατιδεῖν, ἰδεῖν, θεάσασθαι) cluster at 526e, each directed at an intelligible object: the idea of the good, the happiest region of being, and οὐσία."
+    }
+  ]
+}

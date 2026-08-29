@@ -1,0 +1,499 @@
+{
+  "section_id": "republic-chapter-05-section-17",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "477a",
+          "context": "οὐ μεταξὺ ἂν κέοιτο"
+        },
+        {
+          "form": "μεταξύ",
+          "lemma": "μεταξύ",
+          "location": "477a",
+          "context": null
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "477a",
+          "context": "ἐπὶ δὲ τῷ μεταξὺ τούτῳ μεταξύ τι καὶ ζητητέον"
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "478d",
+          "context": "μεταξὺ ἄρα ἂν εἴη τούτοιν δόξα"
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "478d",
+          "context": "τὸ μεταξὺ αὖ φανὲν ἀγνοίας καὶ ἐπιστήμης"
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "478d",
+          "context": "πέφανται μεταξὺ τούτοιν"
+        }
+      ],
+      "observation": "μεταξύ recurs densely throughout, framing the section's spatial placement of δόξα between knowledge and ignorance, appearing at both the opening hypothesis and the closing conclusion."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "477b",
+          "context": "ἄλλην δύναμιν ἐπιστήμης ἢ τὴν αὐτήν"
+        },
+        {
+          "form": "δυνάμεις",
+          "lemma": "δύναμις",
+          "location": "477c",
+          "context": "φήσομεν δυνάμεις εἶναι γένος τι τῶν ὄντων"
+        },
+        {
+          "form": "δυνάμεθα",
+          "lemma": "δύναμαι",
+          "location": "477c",
+          "context": "αἷς δὴ καὶ ἡμεῖς δυνάμεθα ἃ δυνάμεθα"
+        },
+        {
+          "form": "δυνάμεων",
+          "lemma": "δύναμις",
+          "location": "477c",
+          "context": "ὄψιν καὶ ἀκοὴν τῶν δυνάμεων"
+        },
+        {
+          "form": "δυνάμεως",
+          "lemma": "δύναμις",
+          "location": "477c",
+          "context": "δυνάμεως γὰρ ἐγὼ οὔτε τινὰ χρόαν ὁρῶ"
+        },
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "477d",
+          "context": "ἑκάστην αὐτῶν δύναμιν ἐκάλεσα"
+        },
+        {
+          "form": "δυνάμεις",
+          "lemma": "δύναμις",
+          "location": "478a",
+          "context": "δυνάμεις δὲ ἀμφότεραί ἐστον"
+        }
+      ],
+      "observation": "The δύναμις word-family recurs with high density, including the verb δύναμαι doubled in the same clause (δυνάμεθα ἃ δυνάμεθα), establishing the criterion by which ἐπιστήμη and δόξα are distinguished."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιστήμης",
+          "lemma": "ἐπιστήμη",
+          "location": "477b",
+          "context": "ἀγνοίας τε καὶ ἐπιστήμης"
+        },
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "477b",
+          "context": "λέγομέν τι δόξαν εἶναι"
+        },
+        {
+          "form": "ἄγνοιαν",
+          "lemma": "ἄγνοια",
+          "location": "478c",
+          "context": "μὴ ὄντι μὴν ἄγνοιαν ἐξ ἀνάγκης ἀπέδομεν"
+        }
+      ],
+      "observation": "Three terms—ἐπιστήμη, δόξα, ἄγνοια—are repeatedly set in contrast and arranged in a triadic structure throughout the section."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὄψιν",
+          "lemma": "ὄψις",
+          "location": "477c",
+          "context": "ὄψιν καὶ ἀκοὴν τῶν δυνάμεων"
+        },
+        {
+          "form": "ἀκοὴν",
+          "lemma": "ἀκοή",
+          "location": "477c",
+          "context": null
+        },
+        {
+          "form": "χρόαν",
+          "lemma": "χρόα",
+          "location": "477c",
+          "context": "οὔτε τινὰ χρόαν ὁρῶ"
+        },
+        {
+          "form": "σχῆμα",
+          "lemma": "σχῆμα",
+          "location": "477c",
+          "context": "οὔτε σχῆμα"
+        }
+      ],
+      "observation": "Sight and hearing are named as examples of δυνάμεις, while color and shape are named as perceptible features that δύναμις lacks—a cluster of sensory and visible-form terms."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "ἀναμάρτητον",
+          "lemma": "ἀναμάρτητος",
+          "location": "477e",
+          "context": "τό γε ἀναμάρτητον"
+        },
+        {
+          "form": "ἀναμαρτήτῳ",
+          "lemma": "ἀναμάρτητος",
+          "location": "477e",
+          "context": "τῷ μὴ ἀναμαρτήτῳ"
+        }
+      ],
+      "observation": "ἀναμάρτητον and μὴ ἀναμαρτήτῳ are set in immediate contrast, distinguishing ἐπιστήμη (unerring) from δόξα (not unerring)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σκοτωδέστερον",
+          "lemma": "σκοτώδης",
+          "location": "478c",
+          "context": "γνώσεως μέν σοι φαίνεται δόξα σκοτωδέστερον"
+        },
+        {
+          "form": "φανότερον",
+          "lemma": "φανός",
+          "location": "478c",
+          "context": "ἀγνοίας δὲ φανότερον"
+        }
+      ],
+      "observation": "δόξα is characterized as darker than knowledge and brighter than ignorance—a light/dark contrast pair."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σαφηνείᾳ",
+          "lemma": "σαφήνεια",
+          "location": "478c",
+          "context": "ὑπερβαίνουσα ἢ γνῶσιν σαφηνείᾳ"
+        },
+        {
+          "form": "ἀσαφείᾳ",
+          "lemma": "ἀσάφεια",
+          "location": "478c",
+          "context": "ἢ ἄγνοιαν ἀσαφείᾳ"
+        }
+      ],
+      "observation": "σαφήνεια and ἀσάφεια are paired as the two directions in which δόξα might exceed its boundaries, both denied."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "γνῶσις",
+          "lemma": "γνῶσις",
+          "location": "477a",
+          "context": "ἐπὶ μὲν τῷ ὄντι γνῶσις ἦν"
+        },
+        {
+          "form": "γνῶναι",
+          "lemma": "γιγνώσκω",
+          "location": "477b",
+          "context": "τὸ ὂν γνῶναι ὡς ἔστι"
+        },
+        {
+          "form": "γιγνώσκει",
+          "lemma": "γιγνώσκω",
+          "location": "478a",
+          "context": "ταὐτὸν ὅπερ ἐπιστήμη γιγνώσκει"
+        },
+        {
+          "form": "γνωστόν",
+          "lemma": "γνωστός",
+          "location": "478a",
+          "context": "ἔσται γνωστόν τε καὶ δοξαστὸν τὸ αὐτό"
+        },
+        {
+          "form": "γνῶσιν",
+          "lemma": "γνῶσις",
+          "location": "478c",
+          "context": "ὄντι δὲ γνῶσιν"
+        }
+      ],
+      "observation": "The γιγνώσκω/γνῶσις family recurs across noun, infinitive, finite verb, and verbal adjective forms, consistently linked to τὸ ὄν."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "δοξάζειν",
+          "lemma": "δοξάζω",
+          "location": "477e",
+          "context": "ᾧ γὰρ δοξάζειν δυνάμεθα"
+        },
+        {
+          "form": "δοξάζει",
+          "lemma": "δοξάζω",
+          "location": "478b",
+          "context": "ἆρʼ οὖν τὸ μὴ ὂν δοξάζει"
+        },
+        {
+          "form": "δοξαστὸν",
+          "lemma": "δοξαστός",
+          "location": "478a",
+          "context": "γνωστόν τε καὶ δοξαστὸν τὸ αὐτό"
+        },
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "478b",
+          "context": "ἐπὶ τὶ φέρει τὴν δόξαν"
+        }
+      ],
+      "observation": "δόξα/δοξάζω/δοξαστόν recur across noun, verb, and verbal adjective, paralleling the γνῶσις family."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "γνωστὸν",
+          "lemma": "γνωστός",
+          "location": "478b",
+          "context": null
+        },
+        {
+          "form": "δοξαστὸν",
+          "lemma": "δοξαστός",
+          "location": "478a",
+          "context": "γνωστόν τε καὶ δοξαστὸν τὸ αὐτό"
+        }
+      ],
+      "observation": "The verbal adjectives γνωστόν and δοξαστόν are placed in direct syntactic parallel, forming a pair that is then denied identity."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πέφυκε",
+          "lemma": "φύω",
+          "location": "477b",
+          "context": "ἐπιστήμη μὲν ἐπὶ τῷ ὄντι πέφυκε"
+        },
+        {
+          "form": "πέφυκεν",
+          "lemma": "φύω",
+          "location": "478a",
+          "context": "ἐπʼ ἄλλῳ ἄλλη δύναμις πέφυκεν"
+        },
+        {
+          "form": "πέφανται",
+          "lemma": "φαίνω",
+          "location": "478d",
+          "context": "πέφανται μεταξὺ τούτοιν"
+        }
+      ],
+      "observation": "πέφυκε recurs to express the natural assignment of each δύναμις; πέφανται closes the section with a perfect of appearing rather than natural assignment."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κέοιτο",
+          "lemma": "κεῖμαι",
+          "location": "477a",
+          "context": "μεταξὺ ἂν κέοιτο"
+        },
+        {
+          "form": "τέτακται",
+          "lemma": "τάσσω",
+          "location": "477b",
+          "context": "ἐπʼ ἄλλῳ ἄρα τέτακται δόξα"
+        },
+        {
+          "form": "κεῖται",
+          "lemma": "κεῖμαι",
+          "location": "478d",
+          "context": "ἐντὸς δʼ ἀμφοῖν κεῖται"
+        },
+        {
+          "form": "ἐκτὸς",
+          "lemma": "ἐκτός",
+          "location": "478c",
+          "context": "ἐκτὸς τούτων ἐστίν"
+        },
+        {
+          "form": "ἐντὸς",
+          "lemma": "ἐντός",
+          "location": "478d",
+          "context": "ἐντὸς δʼ ἀμφοῖν κεῖται"
+        }
+      ],
+      "observation": "Spatial placement language—lying between, being stationed upon, inside, outside—locates δόξα positionally relative to knowledge and ignorance."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἰλικρινῶς ὄντος",
+          "lemma": null,
+          "location": "477a",
+          "context": "τοῦ εἰλικρινῶς ὄντος καὶ τοῦ αὖ μηδαμῇ ὄντος"
+        },
+        {
+          "form": "εἰλικρινῶς ὄντος",
+          "lemma": null,
+          "location": "478d",
+          "context": "μεταξὺ κεῖσθαι τοῦ εἰλικρινῶς ὄντος τε καὶ τοῦ πάντως μὴ ὄντος"
+        }
+      ],
+      "observation": "The phrase εἰλικρινῶς ὄντος appears at 477a and returns at 478d in the recapitulation, while its opposite shifts from μηδαμῇ ὄντος to πάντως μὴ ὄντος."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ζητητέον",
+          "lemma": "ζητέω",
+          "location": "477a",
+          "context": "μεταξύ τι καὶ ζητητέον"
+        },
+        {
+          "form": "πέφανται",
+          "lemma": "φαίνω",
+          "location": "478d",
+          "context": "νῦν δέ γε πέφανται μεταξὺ τούτοιν ὃ δὴ καλοῦμεν δόξαν"
+        }
+      ],
+      "observation": "The section opens with ζητητέον (something must be sought between ignorance and knowledge) and closes with πέφανται (it has now appeared), completing the search."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁρῶ",
+          "lemma": "ὁράω",
+          "location": "477c",
+          "context": "δυνάμεως γὰρ ἐγὼ οὔτε τινὰ χρόαν ὁρῶ"
+        },
+        {
+          "form": "ἀποβλέπων",
+          "lemma": "ἀποβλέπω",
+          "location": "477c",
+          "context": "πρὸς ἃ ἀποβλέπων ἔνια διορίζομαι"
+        },
+        {
+          "form": "βλέπω",
+          "lemma": "βλέπω",
+          "location": "477d",
+          "context": "εἰς ἐκεῖνο μόνον βλέπω"
+        }
+      ],
+      "observation": "Three verbs of seeing cluster in the account of δύναμις: ὁρῶ (what one cannot see of a power), ἀποβλέπων (looking toward visible features of other things), βλέπω (looking only at what a power is set over)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπεργάζεται",
+          "lemma": "ἀπεργάζομαι",
+          "location": "477d",
+          "context": "ἐφʼ ᾧ τε ἔστι καὶ ὃ ἀπεργάζεται"
+        },
+        {
+          "form": "ἀπεργαζομένην",
+          "lemma": "ἀπεργάζομαι",
+          "location": "477d",
+          "context": "τὸ αὐτὸ ἀπεργαζομένην τὴν αὐτὴν καλῶ"
+        },
+        {
+          "form": "ἀπεργαζομένην",
+          "lemma": "ἀπεργάζομαι",
+          "location": "477d",
+          "context": "ἐπὶ ἑτέρῳ καὶ ἕτερον ἀπεργαζομένην ἄλλην"
+        }
+      ],
+      "observation": "ἀπεργάζομαι recurs three times in the criterion for distinguishing δυνάμεις: what a power accomplishes is one of two identifying marks."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐρρωμενεστάτην",
+          "lemma": "ἔρρωμαι",
+          "location": "477d",
+          "context": "πασῶν γε δυνάμεων ἐρρωμενεστάτην"
+        }
+      ],
+      "observation": "ἐπιστήμη is called the strongest (ἐρρωμενεστάτην) of all δυνάμεις—a superlative that singles it out within the class just defined."
+    }
+  ]
+}

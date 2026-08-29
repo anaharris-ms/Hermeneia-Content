@@ -1,0 +1,767 @@
+{
+  "section_id": "republic-chapter-02-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀδικεῖν",
+          "lemma": "ἀδικέω",
+          "location": "358e",
+          "context": "τὸ μὲν ἀδικεῖν ἀγαθόν"
+        },
+        {
+          "form": "ἀδικεῖσθαι",
+          "lemma": "ἀδικέω",
+          "location": "358e",
+          "context": "τὸ δὲ ἀδικεῖσθαι κακόν"
+        },
+        {
+          "form": "ἀδικῶσί",
+          "lemma": "ἀδικέω",
+          "location": "358e",
+          "context": "ἀλλήλους ἀδικῶσί τε καὶ ἀδικῶνται"
+        },
+        {
+          "form": "ἀδικεῖν",
+          "lemma": "ἀδικέω",
+          "location": "359a",
+          "context": "μήτʼ ἀδικεῖν μήτʼ ἀδικεῖσθαι"
+        },
+        {
+          "form": "ἀδικεῖν",
+          "lemma": "ἀδικέω",
+          "location": "359b",
+          "context": "ἀρρωστίᾳ τοῦ ἀδικεῖν"
+        },
+        {
+          "form": "ἀδικεῖν",
+          "lemma": "ἀδικέω",
+          "location": "360c",
+          "context": "οἷός τε ἔσεσθαι ἀδικεῖν, ἀδικεῖν"
+        }
+      ],
+      "observation": "Forms of ἀδικέω saturate the account of justice's origin and the ring thought-experiment, with the active ἀδικεῖν and passive ἀδικεῖσθαι repeatedly paired and contrasted."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "361a",
+          "context": "δοκεῖν δίκαιον εἶναι μὴ ὄντα"
+        },
+        {
+          "form": "εἶναι",
+          "lemma": "εἰμί",
+          "location": "361b",
+          "context": "οὐ δοκεῖν ἀλλʼ εἶναι ἀγαθὸν ἐθέλοντα"
+        },
+        {
+          "form": "δοκῶν",
+          "lemma": "δοκέω",
+          "location": "361d",
+          "context": "δοκῶν μὲν εἶναι ἄδικος διὰ βίου, ὢν δὲ δίκαιος"
+        },
+        {
+          "form": "δοκεῖν",
+          "lemma": "δοκέω",
+          "location": "362a",
+          "context": "οὐκ εἶναι δίκαιον ἀλλὰ δοκεῖν δεῖ ἐθέλειν"
+        }
+      ],
+      "observation": "The contrast between δοκεῖν and εἶναι recurs through the construction of the two lives: the unjust man achieves the appearance of justice while being unjust, and the just man has the appearance of injustice while being just. The pairing inverts between the two figures."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μαστιγώσεται",
+          "lemma": "μαστιγόω",
+          "location": "361e",
+          "context": null
+        },
+        {
+          "form": "στρεβλώσεται",
+          "lemma": "στρεβλόω",
+          "location": "361e",
+          "context": null
+        },
+        {
+          "form": "δεδήσεται",
+          "lemma": "δέω",
+          "location": "361e",
+          "context": null
+        },
+        {
+          "form": "ἐκκαυθήσεται τὠφθαλμώ",
+          "lemma": null,
+          "location": "362a",
+          "context": null
+        },
+        {
+          "form": "ἀνασχινδυλευθήσεται",
+          "lemma": "ἀνασχινδυλεύω",
+          "location": "362a",
+          "context": null
+        }
+      ],
+      "observation": "A sequence of five future passives catalogues escalating tortures inflicted on the just man, culminating in impalement. The series moves from whipping through binding and eye-burning to a final extreme."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "καταβῆναι",
+          "lemma": "καταβαίνω",
+          "location": "359d",
+          "context": "θαυμάσαντα καταβῆναι"
+        },
+        {
+          "form": "χάσμα",
+          "lemma": "χάσμα",
+          "location": "359d",
+          "context": "γενέσθαι χάσμα κατὰ τὸν τόπον"
+        },
+        {
+          "form": "ἐκβῆναι",
+          "lemma": "ἐκβαίνω",
+          "location": "359e",
+          "context": "περιελόμενον ἐκβῆναι"
+        }
+      ],
+      "observation": "In the Gyges narrative, the ancestor descends (καταβῆναι) into a chasm and later exits (ἐκβῆναι), framing the underground encounter as a descent-and-return movement."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀφανῆ",
+          "lemma": "ἀφανής",
+          "location": "360a",
+          "context": "ἀφανῆ αὐτὸν γενέσθαι τοῖς παρακαθημένοις"
+        },
+        {
+          "form": "φανερὸν",
+          "lemma": "φανερός",
+          "location": "360a",
+          "context": "στρέψαντα φανερὸν γενέσθαι"
+        },
+        {
+          "form": "ἀδήλῳ",
+          "lemma": "ἄδηλος",
+          "location": "360a",
+          "context": "στρέφοντι μὲν εἴσω τὴν σφενδόνην ἀδήλῳ"
+        },
+        {
+          "form": "δήλῳ",
+          "lemma": "δῆλος",
+          "location": "360a",
+          "context": "ἔξω δὲ δήλῳ"
+        }
+      ],
+      "observation": "Visibility toggles with the ring: ἀφανής/φανερός and ἄδηλος/δῆλος pair as contrasts, each correlated with the inward/outward turning of the bezel."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εἴσω",
+          "lemma": "εἴσω",
+          "location": "359e",
+          "context": "πρὸς ἑαυτὸν εἰς τὸ εἴσω τῆς χειρός"
+        },
+        {
+          "form": "ἔξω",
+          "lemma": "ἔξω",
+          "location": "360a",
+          "context": "στρέψαι ἔξω τὴν σφενδόνην"
+        },
+        {
+          "form": "εἴσω",
+          "lemma": "εἴσω",
+          "location": "360a",
+          "context": "στρέφοντι μὲν εἴσω τὴν σφενδόνην"
+        },
+        {
+          "form": "ἔξω",
+          "lemma": "ἔξω",
+          "location": "360a",
+          "context": "ἔξω δὲ δήλῳ"
+        }
+      ],
+      "observation": "The εἴσω/ἔξω pair recurs in the ring-turning, with inward turning producing invisibility and outward turning producing visibility."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "358b",
+          "context": "τίνα ἔχει δύναμιν αὐτὸ καθʼ αὑτὸ"
+        },
+        {
+          "form": "δυναμένοις",
+          "lemma": "δύναμαι",
+          "location": "358e",
+          "context": "τοῖς μὴ δυναμένοις"
+        },
+        {
+          "form": "δυνάμενον",
+          "lemma": "δύναμαι",
+          "location": "359b",
+          "context": "τὸν δυνάμενον αὐτὸ ποιεῖν"
+        },
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "359d",
+          "context": "φασιν δύναμιν τῷ Γύγου τοῦ Λυδοῦ προγόνῳ"
+        },
+        {
+          "form": "δύναμιν",
+          "lemma": "δύναμις",
+          "location": "360a",
+          "context": "εἰ ταύτην ἔχοι τὴν δύναμιν"
+        },
+        {
+          "form": "δυνατῷ",
+          "lemma": "δυνατός",
+          "location": "361b",
+          "context": "ἐπανορθοῦσθαι δυνατῷ εἶναι"
+        },
+        {
+          "form": "ἀδυναμίᾳ",
+          "lemma": "ἀδυναμία",
+          "location": "359b",
+          "context": "ἀδυναμίᾳ τοῦ ἀδικεῖν"
+        }
+      ],
+      "observation": "The δύναμις family pervades the section: Glaucon opens asking about the δύναμις of justice itself, the social-contract account turns on inability (μὴ δυναμένοις, ἀδυναμίᾳ), and the ring narrative centres on a specific δύναμις granted to its possessor."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "exact_repetition",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "αὐτὸ καθʼ αὑτὸ",
+          "lemma": null,
+          "location": "358b",
+          "context": "τίνα ἔχει δύναμιν αὐτὸ καθʼ αὑτὸ ἐνὸν ἐν τῇ ψυχῇ"
+        },
+        {
+          "form": "αὐτὸ καθʼ αὑτὸ",
+          "lemma": null,
+          "location": "358d",
+          "context": "βούλομαι δὲ αὐτὸ καθʼ αὑτὸ ἐγκωμιαζόμενον ἀκοῦσαι"
+        }
+      ],
+      "observation": "The phrase αὐτὸ καθʼ αὑτό appears twice in Glaucon's framing, specifying that justice is to be considered in itself, apart from rewards."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κηληθῆναι",
+          "lemma": "κηλέω",
+          "location": "358b",
+          "context": "ὥσπερ ὄφις κηληθῆναι"
+        },
+        {
+          "form": "πείθειν",
+          "lemma": "πείθω",
+          "location": "361b",
+          "context": "λέγειν τε ἱκανῷ ὄντι πρὸς τὸ πείθειν"
+        },
+        {
+          "form": "βιάσασθαι",
+          "lemma": "βιάζω",
+          "location": "361b",
+          "context": "καὶ βιάσασθαι ὅσα ἂν βίας δέηται"
+        }
+      ],
+      "observation": "Thrasymachus is said to have been charmed (κηληθῆναι) like a snake; the perfectly unjust man is equipped both to persuade (πείθειν) and to use force (βιάσασθαι), combining verbal and physical compulsion."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ποιμένα",
+          "lemma": "ποιμήν",
+          "location": "359d",
+          "context": "εἶναι μὲν γὰρ αὐτὸν ποιμένα θητεύοντα"
+        },
+        {
+          "form": "ἔνεμεν",
+          "lemma": "νέμω",
+          "location": "359d",
+          "context": "κατὰ τὸν τόπον ᾗ ἔνεμεν"
+        },
+        {
+          "form": "ποιμέσιν",
+          "lemma": "ποιμήν",
+          "location": "359e",
+          "context": "συλλόγου δὲ γενομένου τοῖς ποιμέσιν"
+        },
+        {
+          "form": "ποίμνια",
+          "lemma": "ποίμνιον",
+          "location": "359e",
+          "context": "τὰ περὶ τὰ ποίμνια"
+        }
+      ],
+      "observation": "A pastoral cluster—ποιμήν, νέμω, ποίμνιον—establishes the ancestor's position as a shepherd before his transformation into a political agent."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "sequence_configuration",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀγγέλων γενέσθαι",
+          "lemma": null,
+          "location": "360a",
+          "context": "διαπράξασθαι τῶν ἀγγέλων γενέσθαι τῶν παρὰ τὸν βασιλέα"
+        },
+        {
+          "form": "τὴν γυναῖκα αὐτοῦ μοιχεύσαντα",
+          "lemma": "μοιχεύω",
+          "location": "360b",
+          "context": null
+        },
+        {
+          "form": "ἀποκτεῖναι",
+          "lemma": "ἀποκτείνω",
+          "location": "360b",
+          "context": "ἐπιθέμενον τῷ βασιλεῖ ἀποκτεῖναι"
+        },
+        {
+          "form": "τὴν ἀρχὴν κατασχεῖν",
+          "lemma": null,
+          "location": "360b",
+          "context": "τὴν ἀρχὴν οὕτω κατασχεῖν"
+        }
+      ],
+      "observation": "The ancestor's actions form a completed sequence: becoming a messenger, seducing the queen, killing the king, and seizing the ἀρχή."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτηδεύοντες",
+          "lemma": "ἐπιτηδεύω",
+          "location": "358c",
+          "context": "πάντες αὐτὸ οἱ ἐπιτηδεύοντες ἄκοντες ἐπιτηδεύουσιν"
+        },
+        {
+          "form": "ἐπιτηδεύουσιν",
+          "lemma": "ἐπιτηδεύω",
+          "location": "358c",
+          "context": null
+        },
+        {
+          "form": "ἐπιτηδεύοντες",
+          "lemma": "ἐπιτηδεύω",
+          "location": "359b",
+          "context": "οἱ ἐπιτηδεύοντες ἀδυναμίᾳ τοῦ ἀδικεῖν ἄκοντες αὐτὸ ἐπιτηδεύουσι"
+        },
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "360e",
+          "context": "τέλεον ἑκάτερον εἰς τὸ ἑαυτοῦ ἐπιτήδευμα"
+        },
+        {
+          "form": "ἐπιτηδεύοντα",
+          "lemma": "ἐπιτηδεύω",
+          "location": "362a",
+          "context": "ἅτε ἐπιτηδεύοντα πρᾶγμα ἀληθείας ἐχόμενον"
+        }
+      ],
+      "observation": "Forms of ἐπιτηδεύω recur across all three parts of Glaucon's speech: first paired with ἄκοντες for practitioners of justice, then as ἐπιτήδευμα for the perfected pursuit of each life, then applied to the unjust man's practice."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἑκὼν",
+          "lemma": "ἑκών",
+          "location": "360c",
+          "context": "οὐδεὶς ἑκὼν δίκαιος ἀλλʼ ἀναγκαζόμενος"
+        },
+        {
+          "form": "ἄκοντες",
+          "lemma": "ἄκων",
+          "location": "358c",
+          "context": "ἄκοντες ἐπιτηδεύουσιν ὡς ἀναγκαῖον"
+        }
+      ],
+      "observation": "The willing/unwilling contrast appears: practitioners of justice do so ἄκοντες, and no one is ἑκών δίκαιος—both paired with compulsion (ἀναγκαῖον, ἀναγκαζόμενος)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ὄφις",
+          "lemma": "ὄφις",
+          "location": "358b",
+          "context": "ὥσπερ ὄφις κηληθῆναι"
+        },
+        {
+          "form": "ὥσπερ ἀνδριάντα",
+          "lemma": "ἀνδριάς",
+          "location": "361d",
+          "context": "ὥσπερ ἀνδριάντα εἰς τὴν κρίσιν ἐκκαθαίρεις"
+        }
+      ],
+      "observation": "Two similes bracket Glaucon's speech: Thrasymachus charmed like a snake (ὄφις), and the two men cleaned like statues (ἀνδριάντα) for judgment."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βούλομαι",
+          "lemma": "βούλομαι",
+          "location": "358d",
+          "context": "οὐδενός πω ἀκήκοα ὡς βούλομαι"
+        },
+        {
+          "form": "βούλομαι",
+          "lemma": "βούλομαι",
+          "location": "358d",
+          "context": "βούλομαι δὲ αὐτὸ καθʼ αὑτὸ ἐγκωμιαζόμενον ἀκοῦσαι"
+        },
+        {
+          "form": "βούλομαι",
+          "lemma": "βούλομαι",
+          "location": "358d",
+          "context": "ὃν τρόπον αὖ βούλομαι καὶ σοῦ ἀκούειν"
+        },
+        {
+          "form": "βούληται",
+          "lemma": "βούλομαι",
+          "location": "359c",
+          "context": "ποιεῖν ὅτι ἂν βούληται"
+        },
+        {
+          "form": "βούλοιτο",
+          "lemma": "βούλομαι",
+          "location": "360b",
+          "context": "ὅτι βούλοιτο λαμβάνειν"
+        },
+        {
+          "form": "βούλοιτο",
+          "lemma": "βούλομαι",
+          "location": "360c",
+          "context": "συγγίγνεσθαι ὅτῳ βούλοιτο"
+        },
+        {
+          "form": "βούληται",
+          "lemma": "βούλομαι",
+          "location": "362b",
+          "context": "γαμεῖν ὁπόθεν ἂν βούληται"
+        }
+      ],
+      "observation": "βούλομαι recurs densely: Glaucon's desire to hear a specific kind of praise shifts into the ring scenario where unlimited wanting (ὅτι ἂν βούληται) defines the power granted, and reappears in the unjust man's freedom to marry and associate as he wishes."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γυμνωτέος",
+          "lemma": "γυμνόω",
+          "location": "361c",
+          "context": "γυμνωτέος δὴ πάντων πλὴν δικαιοσύνης"
+        },
+        {
+          "form": "βεβασανισμένος",
+          "lemma": "βασανίζω",
+          "location": "361c",
+          "context": "ἵνα ᾖ βεβασανισμένος εἰς δικαιοσύνην"
+        },
+        {
+          "form": "ἐκκαθαίρεις",
+          "lemma": "ἐκκαθαίρω",
+          "location": "361d",
+          "context": "ὥσπερ ἀνδριάντα εἰς τὴν κρίσιν ἐκκαθαίρεις"
+        }
+      ],
+      "observation": "The just man is stripped (γυμνωτέος), tested (βεβασανισμένος), and cleaned (ἐκκαθαίρεις)—a cluster of purgative actions applied to isolate justice from all external goods."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κρίσιν",
+          "lemma": "κρίσις",
+          "location": "360e",
+          "context": "τὴν δὲ κρίσιν αὐτὴν τοῦ βίου"
+        },
+        {
+          "form": "κρῖναι",
+          "lemma": "κρίνω",
+          "location": "360e",
+          "context": "οἷοί τʼ ἐσόμεθα κρῖναι ὀρθῶς"
+        },
+        {
+          "form": "κρίνωνται",
+          "lemma": "κρίνω",
+          "location": "361d",
+          "context": "κρίνωνται ὁπότερος αὐτοῖν εὐδαιμονέστερος"
+        },
+        {
+          "form": "κρίσιν",
+          "lemma": "κρίσις",
+          "location": "361d",
+          "context": "ὥσπερ ἀνδριάντα εἰς τὴν κρίσιν"
+        }
+      ],
+      "observation": "κρίσις/κρίνω recurs as the explicit frame for comparing the two lives: judgment is named, the capacity to judge correctly is raised, and the two men are set before this judgment."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κατʼ Αἰσχύλον",
+          "lemma": null,
+          "location": "361b",
+          "context": "κατʼ Αἰσχύλον οὐ δοκεῖν ἀλλʼ εἶναι ἀγαθὸν ἐθέλοντα"
+        },
+        {
+          "form": "τὸ δὲ τοῦ Αἰσχύλου",
+          "lemma": null,
+          "location": "362a",
+          "context": "τὸ δὲ τοῦ Αἰσχύλου πολὺ ἦν ἄρα ὀρθότερον λέγειν κατὰ τοῦ ἀδίκου"
+        }
+      ],
+      "observation": "Aeschylus is cited twice: first the phrase 'not to seem but to be good' is applied to the just man, then it is redirected as more properly describing the unjust man."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θυσίας",
+          "lemma": "θυσία",
+          "location": "362c",
+          "context": null
+        },
+        {
+          "form": "ἀναθήματα",
+          "lemma": "ἀνάθημα",
+          "location": "362c",
+          "context": null
+        },
+        {
+          "form": "θύειν",
+          "lemma": "θύω",
+          "location": "362c",
+          "context": null
+        },
+        {
+          "form": "ἀνατιθέναι",
+          "lemma": "ἀνατίθημι",
+          "location": "362c",
+          "context": null
+        },
+        {
+          "form": "θεραπεύειν",
+          "lemma": "θεραπεύω",
+          "location": "362c",
+          "context": "θεραπεύειν τοῦ δικαίου πολὺ ἄμεινον τοὺς θεούς"
+        },
+        {
+          "form": "θεοφιλέστερον",
+          "lemma": "θεοφιλής",
+          "location": "362c",
+          "context": null
+        }
+      ],
+      "observation": "A cultic cluster closes the unjust man's advantages: sacrifices, dedications, and service to the gods, culminating in the claim that he is more θεοφιλής than the just man."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πρῶτον μὲν",
+          "lemma": null,
+          "location": "358c",
+          "context": "πρῶτον μὲν ἐρῶ δικαιοσύνην οἷον εἶναί φασιν"
+        },
+        {
+          "form": "δεύτερον δὲ",
+          "lemma": null,
+          "location": "358c",
+          "context": "δεύτερον δὲ ὅτι πάντες αὐτὸ οἱ ἐπιτηδεύοντες ἄκοντες"
+        },
+        {
+          "form": "τρίτον δὲ",
+          "lemma": null,
+          "location": "358c",
+          "context": "τρίτον δὲ ὅτι εἰκότως αὐτὸ δρῶσι"
+        }
+      ],
+      "observation": "Glaucon announces a three-part programme (πρῶτον/δεύτερον/τρίτον) that organises the remainder of his speech."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "359a",
+          "context": "μεταξὺ οὖσαν τοῦ μὲν ἀρίστου ὄντος… τοῦ δὲ κακίστου"
+        },
+        {
+          "form": "ἐν μέσῳ",
+          "lemma": null,
+          "location": "359a",
+          "context": "τὸ δὲ δίκαιον ἐν μέσῳ ὂν τούτων ἀμφοτέρων"
+        }
+      ],
+      "observation": "Justice is placed μεταξύ and ἐν μέσῳ between the best (unpunished injustice) and the worst (suffering injustice without recourse)—a spatial middle position."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἰσόθεον",
+          "lemma": "ἰσόθεος",
+          "location": "360c",
+          "context": "τἆλλα πράττειν ἐν τοῖς ἀνθρώποις ἰσόθεον ὄντα"
+        }
+      ],
+      "observation": "The ring-bearer is called ἰσόθεος—equal to a god—among humans, a striking singleton characterising the power of invisibility."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκοῦσαι",
+          "lemma": "ἀκούω",
+          "location": "358b",
+          "context": "ἄκουσον καὶ ἐμοῦ"
+        },
+        {
+          "form": "ἀκοῦσαι",
+          "lemma": "ἀκούω",
+          "location": "358b",
+          "context": "ἐπιθυμῶ γὰρ ἀκοῦσαι"
+        },
+        {
+          "form": "ἀκούων",
+          "lemma": "ἀκούω",
+          "location": "358c",
+          "context": "διατεθρυλημένος τὰ ὦτα ἀκούων"
+        },
+        {
+          "form": "ἀκήκοα",
+          "lemma": "ἀκούω",
+          "location": "358d",
+          "context": "οὐδενός πω ἀκήκοα ὡς βούλομαι"
+        },
+        {
+          "form": "ἀκοῦσαι",
+          "lemma": "ἀκούω",
+          "location": "358d",
+          "context": "αὐτὸ καθʼ αὑτὸ ἐγκωμιαζόμενον ἀκοῦσαι"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "358d",
+          "context": "βούλομαι καὶ σοῦ ἀκούειν"
+        },
+        {
+          "form": "ἀκούων",
+          "lemma": "ἀκούω",
+          "location": "358d",
+          "context": "χαίροι λέγων καὶ ἀκούων"
+        },
+        {
+          "form": "ἄκουε",
+          "lemma": "ἀκούω",
+          "location": "358e",
+          "context": "περὶ τούτου ἄκουε"
+        }
+      ],
+      "observation": "ἀκούω appears densely in the framing exchange (358b–e), marking Glaucon's demand to hear and his dissatisfaction with what he has heard so far."
+    }
+  ]
+}

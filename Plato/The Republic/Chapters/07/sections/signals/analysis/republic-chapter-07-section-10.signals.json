@@ -1,0 +1,672 @@
+{
+  "section_id": "republic-chapter-07-section-10",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προοιμίου",
+          "lemma": "προοίμιον",
+          "location": "531d",
+          "context": "τοῦ προοιμίου ἢ τίνος λέγεις"
+        },
+        {
+          "form": "προοίμιά",
+          "lemma": "προοίμιον",
+          "location": "531d",
+          "context": "πάντα ταῦτα προοίμιά ἐστιν αὐτοῦ τοῦ νόμου"
+        },
+        {
+          "form": "προοίμιον",
+          "lemma": "προοίμιον",
+          "location": "532d",
+          "context": "ὥσπερ τὸ προοίμιον διήλθομεν"
+        }
+      ],
+      "observation": "προοίμιον recurs three times: Socrates reframes the interlocutor's complaint by calling all prior studies προοίμια to the νόμος, and Glaucon later echoes the term when proposing to move from the προοίμιον to the νόμος itself."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νόμου",
+          "lemma": "νόμος",
+          "location": "531d",
+          "context": "αὐτοῦ τοῦ νόμου ὃν δεῖ μαθεῖν"
+        },
+        {
+          "form": "νόμος",
+          "lemma": "νόμος",
+          "location": "532a",
+          "context": "οὗτος ἤδη αὐτός ἐστιν ὁ νόμος ὃν τὸ διαλέγεσθαι περαίνει"
+        },
+        {
+          "form": "νόμον",
+          "lemma": "νόμος",
+          "location": "532d",
+          "context": "ἐπʼ αὐτὸν δὴ τὸν νόμον ἴωμεν"
+        }
+      ],
+      "observation": "νόμος recurs in contrast with προοίμιον: the prior studies are the prelude, dialectic accomplishes the νόμος itself."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "διαλεκτικοί",
+          "lemma": "διαλεκτικός",
+          "location": "531d",
+          "context": null
+        },
+        {
+          "form": "διαλέγεσθαι",
+          "lemma": "διαλέγεσθαι",
+          "location": "532a",
+          "context": "ὃν τὸ διαλέγεσθαι περαίνει"
+        },
+        {
+          "form": "διαλεκτικήν",
+          "lemma": "διαλεκτικός",
+          "location": "532b",
+          "context": "διαλεκτικὴν ταύτην τὴν πορείαν καλεῖς"
+        },
+        {
+          "form": "διαλέγεσθαι",
+          "lemma": "διαλέγεσθαι",
+          "location": "532a",
+          "context": "ὅταν τις τῷ διαλέγεσθαι ἐπιχειρῇ"
+        },
+        {
+          "form": "διαλέγεσθαι",
+          "lemma": "διαλέγεσθαι",
+          "location": "533a",
+          "context": "ἡ τοῦ διαλέγεσθαι δύναμις"
+        },
+        {
+          "form": "διαλεκτικὴ",
+          "lemma": "διαλεκτικός",
+          "location": "533c",
+          "context": "ἡ διαλεκτικὴ μέθοδος μόνη"
+        },
+        {
+          "form": "διαλεκτικόν",
+          "lemma": "διαλεκτικός",
+          "location": "534b",
+          "context": "διαλεκτικὸν καλεῖς τὸν λόγον ἑκάστου λαμβάνοντα"
+        },
+        {
+          "form": "διαλεκτική",
+          "lemma": "διαλεκτικός",
+          "location": "534e",
+          "context": "θριγκὸς τοῖς μαθήμασιν ἡ διαλεκτική"
+        }
+      ],
+      "observation": "Forms of διαλέγεσθαι/διαλεκτικός are densely distributed throughout the section."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δοῦναί",
+          "lemma": "δίδωμι",
+          "location": "531e",
+          "context": "δοῦναί τε καὶ ἀποδέξασθαι λόγον"
+        },
+        {
+          "form": "λόγον διδόναι",
+          "lemma": "δίδωμι",
+          "location": "533c",
+          "context": "μὴ δυνάμεναι λόγον διδόναι αὐτῶν"
+        },
+        {
+          "form": "λόγον … διδόναι",
+          "lemma": "δίδωμι",
+          "location": "534b",
+          "context": "μὴ ἔχῃ λόγον αὑτῷ τε καὶ ἄλλῳ διδόναι"
+        }
+      ],
+      "observation": "The phrase λόγον διδόναι recurs: first as giving and receiving λόγος as a criterion of knowledge, then as what mathematical sciences cannot do, then again as the dialectician's defining capacity."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "λύσις",
+          "lemma": "λύσις",
+          "location": "532b",
+          "context": "λύσις τε ἀπὸ τῶν δεσμῶν"
+        },
+        {
+          "form": "μεταστροφή",
+          "lemma": "μεταστροφή",
+          "location": "532b",
+          "context": "μεταστροφὴ ἀπὸ τῶν σκιῶν"
+        },
+        {
+          "form": "ἐπάνοδος",
+          "lemma": "ἐπάνοδος",
+          "location": "532b",
+          "context": "ἐκ τοῦ καταγείου εἰς τὸν ἥλιον ἐπάνοδος"
+        },
+        {
+          "form": "ἕλκει καὶ ἀνάγει ἄνω",
+          "lemma": null,
+          "location": "533d",
+          "context": "τὸ τῆς ψυχῆς ὄμμα … ἠρέμα ἕλκει καὶ ἀνάγει ἄνω"
+        },
+        {
+          "form": "ἐπαναγωγήν",
+          "lemma": "ἐπαναγωγή",
+          "location": "532c",
+          "context": "ἐπαναγωγὴν τοῦ βελτίστου ἐν ψυχῇ"
+        }
+      ],
+      "observation": "A cluster of upward-movement terms: λύσις from bonds, μεταστροφή from shadows, ἐπάνοδος to the sun, ἐπαναγωγή of the best in the soul, and ἕλκει καὶ ἀνάγει ἄνω."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀνειρώττουσι",
+          "lemma": "ὀνειρώσσω",
+          "location": "533b",
+          "context": "ὀνειρώττουσι μὲν περὶ τὸ ὄν, ὕπαρ δὲ ἀδύνατον αὐταῖς ἰδεῖν"
+        },
+        {
+          "form": "ὀνειροπολοῦντα",
+          "lemma": "ὀνειροπολέω",
+          "location": "534c",
+          "context": "τὸν νῦν βίον ὀνειροπολοῦντα καὶ ὑπνώττοντα"
+        }
+      ],
+      "observation": "Dreaming language appears twice: the mathematical sciences ὀνειρώττουσι about being, and the person without dialectic is ὀνειροπολοῦντα καὶ ὑπνώττοντα through life."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "533c",
+          "context": "ὕπαρ δὲ ἀδύνατον αὐταῖς ἰδεῖν"
+        },
+        {
+          "form": "ἐξεγρέσθαι",
+          "lemma": "ἐξεγείρω",
+          "location": "534c",
+          "context": "πρὶν ἐνθάδʼ ἐξεγρέσθαι"
+        },
+        {
+          "form": "ἐπικαταδαρθεῖν",
+          "lemma": "ἐπικαταδαρθάνω",
+          "location": "534d",
+          "context": "εἰς Ἅιδου πρότερον ἀφικόμενον τελέως ἐπικαταδαρθεῖν"
+        }
+      ],
+      "observation": "Sleep and waking are contrasted: ὕπαρ is what the sciences cannot achieve; the undialectical person fails to ἐξεγρέσθαι and instead ἐπικαταδαρθεῖν in Hades."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "532a",
+          "context": "ἡ τῆς ὄψεως δύναμις"
+        },
+        {
+          "form": "ἀποβλέπειν",
+          "lemma": "ἀποβλέπω",
+          "location": "532a",
+          "context": "πρὸς αὐτὰ ἤδη τὰ ζῷα ἐπιχειρεῖν ἀποβλέπειν"
+        },
+        {
+          "form": "βλέπειν",
+          "lemma": "βλέπω",
+          "location": "532c",
+          "context": "πρὸς … τὸ τοῦ ἡλίου φῶς ἔτι ἀδυναμία βλέπειν"
+        },
+        {
+          "form": "θέαν",
+          "lemma": "θέα",
+          "location": "532c",
+          "context": "πρὸς τὴν τοῦ ἀρίστου ἐν τοῖς οὖσι θέαν"
+        },
+        {
+          "form": "ὄμμα",
+          "lemma": "ὄμμα",
+          "location": "533d",
+          "context": "τὸ τῆς ψυχῆς ὄμμα"
+        },
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "533a",
+          "context": "τοιοῦτόν τι ἰδεῖν"
+        },
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "533c",
+          "context": "ὕπαρ δὲ ἀδύνατον αὐταῖς ἰδεῖν"
+        }
+      ],
+      "observation": "A dense cluster of seeing/vision terms spans the section, moving between bodily sight (ὄψις, βλέπειν, ἀποβλέπειν) and intellectual seeing (θέα, τὸ τῆς ψυχῆς ὄμμα, ἰδεῖν)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέλει",
+          "lemma": "τέλος",
+          "location": "532b",
+          "context": "ἐπʼ αὐτῷ γίγνεται τῷ τοῦ νοητοῦ τέλει"
+        },
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "532e",
+          "context": "τέλος τῆς πορείας"
+        },
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "535a",
+          "context": "ἔχειν ἤδη τέλος τὰ τῶν μαθημάτων"
+        }
+      ],
+      "observation": "τέλος recurs three times: end of the intelligible, end of the journey, end of the studies."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πορείαν",
+          "lemma": "πορεία",
+          "location": "532b",
+          "context": "διαλεκτικὴν ταύτην τὴν πορείαν καλεῖς"
+        },
+        {
+          "form": "πορείας",
+          "lemma": "πορεία",
+          "location": "532e",
+          "context": "τέλος τῆς πορείας"
+        },
+        {
+          "form": "πορεύεται",
+          "lemma": "πορεύω",
+          "location": "533c",
+          "context": "ἡ διαλεκτικὴ μέθοδος μόνη ταύτῃ πορεύεται"
+        }
+      ],
+      "observation": "πορεία/πορεύεται recurs: dialectic is named a πορεία, the journey has a τέλος, and dialectic alone πορεύεται by removing hypotheses."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑποθέσεσι",
+          "lemma": "ὑπόθεσις",
+          "location": "533c",
+          "context": "ἕως ἂν ὑποθέσεσι χρώμεναι ταύτας ἀκινήτους ἐῶσι"
+        },
+        {
+          "form": "ὑποθέσεις",
+          "lemma": "ὑπόθεσις",
+          "location": "533c",
+          "context": "τὰς ὑποθέσεις ἀναιροῦσα"
+        }
+      ],
+      "observation": "ὑποθέσεις appears twice in close succession: the sciences leave them unmoved, dialectic removes them."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀκινήτους ἐῶσι",
+          "lemma": null,
+          "location": "533c",
+          "context": "ὑποθέσεσι χρώμεναι ταύτας ἀκινήτους ἐῶσι"
+        },
+        {
+          "form": "ἀναιροῦσα",
+          "lemma": "ἀναιρέω",
+          "location": "533c",
+          "context": "τὰς ὑποθέσεις ἀναιροῦσα"
+        }
+      ],
+      "observation": "Direct contrast: the sciences leave hypotheses ἀκινήτους, dialectic ἀναιρεῖ them."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σκιῶν",
+          "lemma": "σκιά",
+          "location": "532b",
+          "context": "μεταστροφὴ ἀπὸ τῶν σκιῶν"
+        },
+        {
+          "form": "εἴδωλα",
+          "lemma": "εἴδωλον",
+          "location": "532b",
+          "context": "ἐπὶ τὰ εἴδωλα καὶ τὸ φῶς"
+        },
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "532b",
+          "context": null
+        },
+        {
+          "form": "ἥλιον",
+          "lemma": "ἥλιος",
+          "location": "532a",
+          "context": "πρὸς αὐτὸν τὸν ἥλιον"
+        },
+        {
+          "form": "σκιάς",
+          "lemma": "σκιά",
+          "location": "532c",
+          "context": "σκιὰς τῶν ὄντων, ἀλλʼ οὐκ εἰδώλων σκιὰς"
+        },
+        {
+          "form": "εἰδώλου",
+          "lemma": "εἴδωλον",
+          "location": "534c",
+          "context": "εἰδώλου τινὸς ἐφάπτεται"
+        }
+      ],
+      "observation": "σκιά, εἴδωλον, φῶς, and ἥλιος form a cluster drawn from the cave analogy; σκιάς is then distinguished—shadows of beings vs. shadows of εἴδωλα—and εἴδωλον returns at 534c for the undialectical person's contact."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βορβόρῳ βαρβαρικῷ",
+          "lemma": null,
+          "location": "533d",
+          "context": "ἐν βορβόρῳ βαρβαρικῷ τινι τὸ τῆς ψυχῆς ὄμμα κατορωρυγμένον"
+        }
+      ],
+      "observation": "The striking phrase βορβόρῳ βαρβαρικῷ describes where the soul's eye is buried; the sound echo between βορβόρῳ and βαρβαρικῷ is locally noticeable."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "βορβόρῳ",
+          "lemma": "βόρβορος",
+          "location": "533d",
+          "context": null
+        },
+        {
+          "form": "βαρβαρικῷ",
+          "lemma": "βαρβαρικός",
+          "location": "533d",
+          "context": null
+        }
+      ],
+      "observation": "βορβόρῳ βαρβαρικῷ: adjacent words share a βαρβ-/βορβ- sound pattern."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρώτην μοῖραν ἐπιστήμην",
+          "lemma": null,
+          "location": "533e",
+          "context": null
+        },
+        {
+          "form": "δευτέραν δὲ διάνοιαν",
+          "lemma": null,
+          "location": "533e",
+          "context": null
+        },
+        {
+          "form": "τρίτην δὲ πίστιν",
+          "lemma": null,
+          "location": "534a",
+          "context": null
+        },
+        {
+          "form": "εἰκασίαν τετάρτην",
+          "lemma": null,
+          "location": "534a",
+          "context": null
+        }
+      ],
+      "observation": "A fourfold sequence: ἐπιστήμη, διάνοια, πίστις, εἰκασία, ordered first through fourth."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "534a",
+          "context": "συναμφότερα μὲν ταῦτα δόξαν"
+        },
+        {
+          "form": "νόησιν",
+          "lemma": "νόησις",
+          "location": "534a",
+          "context": "συναμφότερα δʼ ἐκεῖνα νόησιν"
+        },
+        {
+          "form": "γένεσιν",
+          "lemma": "γένεσις",
+          "location": "534a",
+          "context": "δόξαν μὲν περὶ γένεσιν"
+        },
+        {
+          "form": "οὐσίαν",
+          "lemma": "οὐσία",
+          "location": "534a",
+          "context": "νόησιν δὲ περὶ οὐσίαν"
+        }
+      ],
+      "observation": "Proportional correspondences: δόξα paired with γένεσις, νόησις with οὐσία; and the ratio οὐσία:γένεσις :: νόησις:δόξα is stated."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ἐν μάχῃ",
+          "lemma": null,
+          "location": "534c",
+          "context": "ὥσπερ ἐν μάχῃ διὰ πάντων ἐλέγχων διεξιών"
+        },
+        {
+          "form": "ἀπτῶτι τῷ λόγῳ",
+          "lemma": null,
+          "location": "534c",
+          "context": "ἀπτῶτι τῷ λόγῳ διαπορεύηται"
+        }
+      ],
+      "observation": "Dialectical testing is compared to battle (ἐν μάχῃ) with the λόγος that must pass through all refutations ἀπτῶτι (without falling)."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θριγκός",
+          "lemma": "θριγκός",
+          "location": "534e",
+          "context": "ὥσπερ θριγκὸς τοῖς μαθήμασιν ἡ διαλεκτικὴ ἡμῖν ἐπάνω κεῖσθαι"
+        },
+        {
+          "form": "ἀνωτέρω",
+          "lemma": null,
+          "location": "534e",
+          "context": "οὐκέτʼ ἄλλο τούτου μάθημα ἀνωτέρω"
+        }
+      ],
+      "observation": "Dialectic is called a θριγκός (coping-stone) placed ἐπάνω on the studies, with nothing ἀνωτέρω—an architectural image of height and completion."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀλόγους ὄντας ὥσπερ γραμμάς",
+          "lemma": null,
+          "location": "534d",
+          "context": "ἀλόγους ὄντας ὥσπερ γραμμάς, ἄρχοντας ἐν τῇ πόλει"
+        }
+      ],
+      "observation": "Those without λόγος are compared to irrational lines (γραμμαί ἄλογοι); ἄλογος carries both 'without reason/account' and 'irrational' (mathematical sense)."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιχειρεῖν",
+          "lemma": "ἐπιχειρέω",
+          "location": "532a",
+          "context": "πρὸς αὐτὰ ἤδη τὰ ζῷα ἐπιχειρεῖν ἀποβλέπειν"
+        },
+        {
+          "form": "ἐπιχειρῇ",
+          "lemma": "ἐπιχειρέω",
+          "location": "532a",
+          "context": "ὅταν τις τῷ διαλέγεσθαι ἐπιχειρῇ"
+        },
+        {
+          "form": "ἐπιχειρεῖ",
+          "lemma": "ἐπιχειρέω",
+          "location": "533b",
+          "context": "ἄλλη τις ἐπιχειρεῖ μέθοδος"
+        }
+      ],
+      "observation": "ἐπιχειρέω recurs: attempting to look at things themselves, attempting dialectic, and the claim that no other method ἐπιχειρεῖ to grasp each thing as it is."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδέξασθαι",
+          "lemma": "ἀποδέχομαι",
+          "location": "531e",
+          "context": "δοῦναί τε καὶ ἀποδέξασθαι λόγον"
+        },
+        {
+          "form": "ἀποδέχομαι",
+          "lemma": "ἀποδέχομαι",
+          "location": "532d",
+          "context": "ἐγὼ μέν, ἔφη, ἀποδέχομαι οὕτω"
+        },
+        {
+          "form": "ἀποδέχεσθαι",
+          "lemma": "ἀποδέχομαι",
+          "location": "532d",
+          "context": "χαλεπὰ μὲν ἀποδέχεσθαι … χαλεπὰ μὴ ἀποδέχεσθαι"
+        }
+      ],
+      "observation": "ἀποδέχομαι first appears as the dialectician's capacity to receive λόγος, then Glaucon uses it for his own acceptance of Socrates' account, noting it is both hard to accept and hard not to accept."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὁδῷ",
+          "lemma": "ὁδός",
+          "location": "533b",
+          "context": "ἄλλη τις ἐπιχειρεῖ μέθοδος ὁδῷ περὶ παντὸς λαμβάνειν"
+        },
+        {
+          "form": "ὁδοί",
+          "lemma": "ὁδός",
+          "location": "532e",
+          "context": "τίνες αὖ ὁδοί"
+        },
+        {
+          "form": "ὁδοῦ",
+          "lemma": "ὁδός",
+          "location": "532e",
+          "context": "ὥσπερ ὁδοῦ ἀνάπαυλα"
+        }
+      ],
+      "observation": "ὁδός recurs: Glaucon asks about the roads of dialectic and imagines a resting-place as from a road; Socrates uses ὁδῷ for the methodical path of inquiry."
+    }
+  ]
+}

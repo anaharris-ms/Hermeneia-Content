@@ -1,0 +1,369 @@
+{
+  "section_id": "republic-chapter-07-section-04",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάξει",
+          "lemma": "ἀνάγω",
+          "location": "521c",
+          "context": "πῶς τις ἀνάξει αὐτοὺς εἰς φῶς"
+        },
+        {
+          "form": "ἀνελθεῖν",
+          "lemma": "ἀνέρχομαι",
+          "location": "521c",
+          "context": "εἰς θεοὺς ἀνελθεῖν"
+        },
+        {
+          "form": "ἐπάνοδον",
+          "lemma": "ἐπάνοδος",
+          "location": "521c",
+          "context": "τοῦ ὄντος οὖσαν ἐπάνοδον"
+        }
+      ],
+      "observation": "Three distinct upward-movement terms cluster together: ἀνάξει (leading up), ἀνελθεῖν (ascending), and ἐπάνοδον (a way back up), all directed toward light, gods, or τὸ ὄν."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὀστράκου",
+          "lemma": "ὄστρακον",
+          "location": "521c",
+          "context": "οὐκ ὀστράκου ἂν εἴη περιστροφή"
+        },
+        {
+          "form": "ψυχῆς περιαγωγή",
+          "lemma": null,
+          "location": "521c",
+          "context": "ἀλλὰ ψυχῆς περιαγωγή"
+        }
+      ],
+      "observation": "A shell's flip (περιστροφή) is explicitly contrasted with a soul's turning-around (περιαγωγή)."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "νυκτερινῆς τινος ἡμέρας",
+          "lemma": null,
+          "location": "521c",
+          "context": null
+        },
+        {
+          "form": "ἀληθινήν",
+          "lemma": "ἀληθινός",
+          "location": "521c",
+          "context": "εἰς ἀληθινήν"
+        }
+      ],
+      "observation": "A 'nocturnal day' is contrasted with a 'true' day; day-language is split between false and true."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εἰς φῶς",
+          "lemma": "φῶς",
+          "location": "521c",
+          "context": "ἀνάξει αὐτοὺς εἰς φῶς"
+        },
+        {
+          "form": "ἐξ Ἅιδου",
+          "lemma": "Ἅιδης",
+          "location": "521c",
+          "context": "ὥσπερ ἐξ Ἅιδου"
+        }
+      ],
+      "observation": "Movement from Hades into light frames the ascent as a departure from darkness toward visibility."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "521d",
+          "context": "τί ἂν οὖν εἴη … μάθημα ψυχῆς ὁλκόν"
+        },
+        {
+          "form": "μαθημάτων",
+          "lemma": "μάθημα",
+          "location": "521c",
+          "context": "τί τῶν μαθημάτων ἔχει τοιαύτην δύναμιν"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "521e",
+          "context": "τοῦτο μὲν δὴ οὐκ ἂν εἴη ὃ ζητοῦμεν μάθημα"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "522a",
+          "context": "μάθημα δὲ πρὸς τοιοῦτόν τι ἄγον"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "522b",
+          "context": "τί ἔτʼ ἄλλο λείπεται μάθημα"
+        }
+      ],
+      "observation": "μάθημα recurs throughout the section as successive candidates are proposed and eliminated."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁλκόν",
+          "lemma": "ὁλκός",
+          "location": "521d",
+          "context": "μάθημα ψυχῆς ὁλκὸν ἀπὸ τοῦ γιγνομένου ἐπὶ τὸ ὄν"
+        },
+        {
+          "form": "ἄγον",
+          "lemma": "ἄγω",
+          "location": "522b",
+          "context": "μάθημα δὲ πρὸς τοιοῦτόν τι ἄγον"
+        }
+      ],
+      "observation": "The desired μάθημα is characterized by pulling (ὁλκόν) and leading (ἄγον), both directed toward τὸ ὄν."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γιγνόμενον καὶ ἀπολλύμενον",
+          "lemma": null,
+          "location": "521e",
+          "context": "γυμναστικὴ μέν που περὶ γιγνόμενον καὶ ἀπολλύμενον τετεύτακεν"
+        },
+        {
+          "form": "τὸ ὄν",
+          "lemma": "ὄν",
+          "location": "521d",
+          "context": "ἀπὸ τοῦ γιγνομένου ἐπὶ τὸ ὄν"
+        }
+      ],
+      "observation": "γιγνόμενον appears both as what the soul must be drawn away from and as the domain of gymnastics; τὸ ὄν stands as its opposite."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀντίστροφος τῆς γυμναστικῆς",
+          "lemma": null,
+          "location": "522a",
+          "context": null
+        },
+        {
+          "form": "ἔθεσι παιδεύουσα",
+          "lemma": null,
+          "location": "522a",
+          "context": null
+        },
+        {
+          "form": "οὐκ ἐπιστήμην",
+          "lemma": "ἐπιστήμη",
+          "location": "522a",
+          "context": "εὐαρμοστίαν τινά, οὐκ ἐπιστήμην, παραδιδοῦσα"
+        }
+      ],
+      "observation": "Mousikē is characterized as counterpart (ἀντίστροφος) to gymnastics, educating by habits (ἔθη) and delivering not knowledge (ἐπιστήμη) but attunement."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἁρμονίαν",
+          "lemma": "ἁρμονία",
+          "location": "522a",
+          "context": null
+        },
+        {
+          "form": "εὐαρμοστίαν",
+          "lemma": "εὐαρμοστία",
+          "location": "522a",
+          "context": null
+        },
+        {
+          "form": "ῥυθμόν",
+          "lemma": "ῥυθμός",
+          "location": "522a",
+          "context": null
+        },
+        {
+          "form": "εὐρυθμίαν",
+          "lemma": "εὐρυθμία",
+          "location": "522a",
+          "context": null
+        }
+      ],
+      "observation": "ἁρμονία/εὐαρμοστία and ῥυθμός/εὐρυθμία pair technical terms with their εὐ- qualities, distinguishing the form from the good disposition it produces."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "μυθώδεις",
+          "lemma": "μυθώδης",
+          "location": "522a",
+          "context": "ὅσοι μυθώδεις τῶν λόγων"
+        },
+        {
+          "form": "ἀληθινώτεροι",
+          "lemma": "ἀληθινός",
+          "location": "522a",
+          "context": "ὅσοι ἀληθινώτεροι ἦσαν"
+        }
+      ],
+      "observation": "Within λόγοι, a contrast between mythic (μυθώδεις) and truer (ἀληθινώτεροι) kinds."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθινήν",
+          "lemma": "ἀληθινός",
+          "location": "521c",
+          "context": "εἰς ἀληθινήν"
+        },
+        {
+          "form": "φιλοσοφίαν ἀληθῆ",
+          "lemma": "ἀληθής",
+          "location": "521c",
+          "context": null
+        },
+        {
+          "form": "ἀληθινώτεροι",
+          "lemma": "ἀληθινός",
+          "location": "522a",
+          "context": null
+        }
+      ],
+      "observation": "The ἀληθ- root recurs: the true day, true philosophy, and the truer λόγοι."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "αὔξης",
+          "lemma": "αὔξη",
+          "location": "521e",
+          "context": "σώματος γὰρ αὔξης καὶ φθίσεως ἐπιστατεῖ"
+        },
+        {
+          "form": "φθίσεως",
+          "lemma": "φθίσις",
+          "location": "521e",
+          "context": null
+        },
+        {
+          "form": "γιγνόμενον καὶ ἀπολλύμενον",
+          "lemma": null,
+          "location": "521e",
+          "context": null
+        }
+      ],
+      "observation": "Gymnastics is doubly characterized by paired coming-into-being/perishing terms: γιγνόμενον/ἀπολλύμενον and αὔξη/φθίσις."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βάναυσοι",
+          "lemma": "βάναυσος",
+          "location": "522b",
+          "context": "αἵ τε γὰρ τέχναι βάναυσοί που ἅπασαι ἔδοξαν εἶναι"
+        }
+      ],
+      "observation": "All τέχναι are dismissed as βάναυσοι (vulgar/mechanical), a striking categorical rejection."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γυμναστικῇ",
+          "lemma": "γυμναστική",
+          "location": "521d",
+          "context": null
+        },
+        {
+          "form": "μουσικῇ",
+          "lemma": "μουσική",
+          "location": "521d",
+          "context": null
+        },
+        {
+          "form": "τεχνῶν",
+          "lemma": "τέχνη",
+          "location": "522b",
+          "context": null
+        }
+      ],
+      "observation": "Three candidate categories—gymnastics, mousikē, and the crafts—are tested and eliminated in sequence, leaving the question open."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀθλητὰς μέντοι πολέμου",
+          "lemma": null,
+          "location": "521d",
+          "context": "οὐκ ἀθλητὰς μέντοι πολέμου ἔφαμεν τούτους ἀναγκαῖον εἶναι νέους ὄντας"
+        }
+      ],
+      "observation": "The guardians are recalled as 'athletes of war,' introducing a requirement that the sought μάθημα must also be useful for warriors (πολεμικοῖς ἀνδράσιν)."
+    }
+  ]
+}

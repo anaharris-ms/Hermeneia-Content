@@ -1,0 +1,785 @@
+{
+  "section_id": "republic-chapter-06-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χαλεπωτάτῳ",
+          "lemma": "χαλεπός",
+          "location": "498a",
+          "context": "αὐτοῦ τῷ χαλεπωτάτῳ ἀπαλλάττονται"
+        },
+        {
+          "form": "χαλεπώτατον",
+          "lemma": "χαλεπός",
+          "location": "498a",
+          "context": "λέγω δὲ χαλεπώτατον τὸ περὶ τοὺς λόγους"
+        },
+        {
+          "form": "χαλεπὴν",
+          "lemma": "χαλεπός",
+          "location": "497d",
+          "context": "μακρὰν καὶ χαλεπὴν αὐτοῦ τὴν ἀπόδειξιν"
+        },
+        {
+          "form": "χαλεπά",
+          "lemma": "χαλεπός",
+          "location": "497d",
+          "context": "τὰ καλὰ τῷ ὄντι χαλεπά"
+        },
+        {
+          "form": "χαλεπαίνειν",
+          "lemma": "χαλεπαίνω",
+          "location": "500a",
+          "context": "οἴει τινὰ χαλεπαίνειν τῷ μὴ χαλεπῷ"
+        },
+        {
+          "form": "χαλεπῷ",
+          "lemma": "χαλεπός",
+          "location": "500a",
+          "context": null
+        },
+        {
+          "form": "χαλεπὴν",
+          "lemma": "χαλεπός",
+          "location": "500a",
+          "context": "χαλεπὴν οὕτω φύσιν γίγνεσθαι"
+        },
+        {
+          "form": "ἐχαλέπαινον",
+          "lemma": "χαλεπαίνω",
+          "location": "501c",
+          "context": null
+        },
+        {
+          "form": "χαλεπὸν",
+          "lemma": "χαλεπός",
+          "location": "502a",
+          "context": "χαλεπὸν σωθῆναι"
+        },
+        {
+          "form": "χαλεπὰ",
+          "lemma": "χαλεπός",
+          "location": "502c",
+          "context": "χαλεπὰ δὲ γενέσθαι, οὐ μέντοι ἀδύνατά γε"
+        }
+      ],
+      "observation": "Forms of χαλεπός and χαλεπαίνω recur densely throughout the section, shifting between difficulty of proof (497d), difficulty of philosophy (498a), anger toward philosophers (500a, 501c), difficulty of preservation (502a), and the final formulation where χαλεπά is distinguished from ἀδύνατα (502c)."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "499c",
+          "context": "ὡς ἄρα ἐστὶν ἀδύνατον"
+        },
+        {
+          "form": "ἀδύνατος",
+          "lemma": "ἀδύνατος",
+          "location": "499d",
+          "context": "οὐ γὰρ ἀδύνατος γενέσθαι"
+        },
+        {
+          "form": "ἀδύνατα",
+          "lemma": "ἀδύνατος",
+          "location": "499d",
+          "context": "οὐδʼ ἡμεῖς ἀδύνατα λέγομεν"
+        },
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "502b",
+          "context": "οὐ δήπου ἀδύνατον ἐθέλειν ποιεῖν"
+        },
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "502b",
+          "context": "θαυμαστόν τι καὶ ἀδύνατον"
+        },
+        {
+          "form": "ἀδύνατά",
+          "lemma": "ἀδύνατος",
+          "location": "502c",
+          "context": "χαλεπὰ δὲ γενέσθαι, οὐ μέντοι ἀδύνατά γε"
+        }
+      ],
+      "observation": "ἀδύνατος recurs as the section repeatedly negotiates whether the proposed constitution is impossible, culminating in the closing distinction: χαλεπά but not ἀδύνατα."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ζωγράφοι",
+          "lemma": "ζωγράφος",
+          "location": "500e",
+          "context": "οἱ τῷ θείῳ παραδείγματι χρώμενοι ζωγράφοι"
+        },
+        {
+          "form": "διαγράψειαν",
+          "lemma": "διαγράφω",
+          "location": "500e",
+          "context": null
+        },
+        {
+          "form": "διαγραφῆς",
+          "lemma": "διαγραφή",
+          "location": "501a",
+          "context": null
+        },
+        {
+          "form": "πίνακα",
+          "lemma": "πίναξ",
+          "location": "501a",
+          "context": "ὥσπερ πίνακα πόλιν τε καὶ ἤθη ἀνθρώπων"
+        },
+        {
+          "form": "γράφειν",
+          "lemma": "γράφω",
+          "location": "501a",
+          "context": "μηδὲ γράφειν νόμους"
+        },
+        {
+          "form": "ὑπογράψασθαι",
+          "lemma": "ὑπογράφω",
+          "location": "501a",
+          "context": "ὑπογράψασθαι ἂν τὸ σχῆμα τῆς πολιτείας"
+        },
+        {
+          "form": "ἐξαλείφοιεν",
+          "lemma": "ἐξαλείφω",
+          "location": "501b",
+          "context": null
+        },
+        {
+          "form": "ἐγγράφοιεν",
+          "lemma": "ἐγγράφω",
+          "location": "501b",
+          "context": "τὸ δὲ πάλιν ἐγγράφοιεν"
+        },
+        {
+          "form": "γραφὴ",
+          "lemma": "γραφή",
+          "location": "501c",
+          "context": "καλλίστη γοῦν ἄν ἡ γραφὴ γένοιτο"
+        },
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "501c",
+          "context": "πολιτειῶν ζωγράφος"
+        }
+      ],
+      "observation": "A sustained painting/drawing cluster: the philosopher-ruler is cast as ζωγράφος working on a πίναξ, sketching (ὑπογράψασθαι), erasing (ἐξαλείφοιεν), inscribing (ἐγγράφοιεν), producing a γραφή of the constitution."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ξενικὸν σπέρμα",
+          "lemma": null,
+          "location": "497b",
+          "context": "ὥσπερ ξενικὸν σπέρμα ἐν γῇ ἄλλῃ σπειρόμενον"
+        },
+        {
+          "form": "ἐξίτηλον",
+          "lemma": "ἐξίτηλος",
+          "location": "497b",
+          "context": "ἐξίτηλον εἰς τὸ ἐπιχώριον"
+        },
+        {
+          "form": "κρατούμενον",
+          "lemma": "κρατέω",
+          "location": "497b",
+          "context": null
+        },
+        {
+          "form": "βλαστάνει",
+          "lemma": "βλαστάνω",
+          "location": "498b",
+          "context": "ἐν ᾧ βλαστάνει τε καὶ ἀνδροῦται"
+        }
+      ],
+      "observation": "Agricultural/growth language: the foreign seed (ξενικὸν σπέρμα) overpowered in alien soil at 497b, and the body that sprouts (βλαστάνει) and matures at 498b."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "διαβολὴν",
+          "lemma": "διαβολή",
+          "location": "497a",
+          "context": "τῆς φιλοσοφίας ὧν ἕνεκα διαβολὴν εἴληφεν"
+        },
+        {
+          "form": "διαβολὴν",
+          "lemma": "διαβολή",
+          "location": "499e",
+          "context": "ἀπολυόμενος τὴν τῆς φιλομαθείας διαβολήν"
+        },
+        {
+          "form": "διαβολὴ",
+          "lemma": "διαβολή",
+          "location": "500d",
+          "context": "διαβολὴ δʼ ἐν πᾶσι πολλή"
+        },
+        {
+          "form": "διάβαλλε",
+          "lemma": "διαβάλλω",
+          "location": "498c",
+          "context": "μὴ διάβαλλε ἐμὲ καὶ Θρασύμαχον"
+        }
+      ],
+      "observation": "διαβολή/διαβάλλω recurs: philosophy's slander (497a), the imperative not to slander Socrates and Thrasymachus' new friendship (498c), releasing philosophy from slander (499e), and the philosopher's persistent exposure to slander (500d)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πείσωμεν",
+          "lemma": "πείθω",
+          "location": "498d",
+          "context": "ἕως ἂν ἢ πείσωμεν καὶ τοῦτον καὶ τοὺς ἄλλους"
+        },
+        {
+          "form": "πείθεσθαι",
+          "lemma": "πείθω",
+          "location": "498d",
+          "context": "τὸ μέντοι μὴ πείθεσθαι τοῖς λεγομένοις τοὺς πολλούς"
+        },
+        {
+          "form": "πεισομένους",
+          "lemma": "πείθω",
+          "location": "498c",
+          "context": "οὐδʼ ὁπωστιοῦν πεισομένους"
+        },
+        {
+          "form": "πείθομέν",
+          "lemma": "πείθω",
+          "location": "501c",
+          "context": "πείθομέν πῃ ἐκείνους"
+        },
+        {
+          "form": "πεπεῖσθαι",
+          "lemma": "πείθω",
+          "location": "502a",
+          "context": "πρᾴους γεγονέναι καὶ πεπεῖσθαι"
+        },
+        {
+          "form": "πεπεισμένοι",
+          "lemma": "πείθω",
+          "location": "502a",
+          "context": "τοῦτο πεπεισμένοι ἔστων"
+        },
+        {
+          "form": "πειθομένην",
+          "lemma": "πείθω",
+          "location": "502b",
+          "context": "πόλιν ἔχων πειθομένην"
+        }
+      ],
+      "observation": "Forms of πείθω recur across the section, moving from the many's refusal to be persuaded (498c-d), through the project of persuading opponents (501c), to the achieved state of being persuaded (502a) and a city that obeys (502b)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θεῖον",
+          "lemma": "θεῖος",
+          "location": "497c",
+          "context": "τοῦτο μὲν τῷ ὄντι θεῖον ἦν"
+        },
+        {
+          "form": "ἀνθρώπινα",
+          "lemma": "ἀνθρώπινος",
+          "location": "497c",
+          "context": "τὰ δὲ ἄλλα ἀνθρώπινα"
+        },
+        {
+          "form": "θείῳ",
+          "lemma": "θεῖος",
+          "location": "500e",
+          "context": "τῷ θείῳ παραδείγματι χρώμενοι"
+        },
+        {
+          "form": "θείῳ",
+          "lemma": "θεῖος",
+          "location": "500c",
+          "context": "θείῳ δὴ καὶ κοσμίῳ ὅ γε φιλόσοφος ὁμιλῶν"
+        },
+        {
+          "form": "θεῖος",
+          "lemma": "θεῖος",
+          "location": "500d",
+          "context": "κόσμιός τε καὶ θεῖος εἰς τὸ δυνατὸν ἀνθρώπῳ γίγνεται"
+        },
+        {
+          "form": "θεοειδές",
+          "lemma": "θεοειδής",
+          "location": "501b",
+          "context": null
+        },
+        {
+          "form": "θεοείκελον",
+          "lemma": "θεοείκελος",
+          "location": "501b",
+          "context": null
+        },
+        {
+          "form": "θεοφιλῆ",
+          "lemma": "θεοφιλής",
+          "location": "501c",
+          "context": "ἀνθρώπεια ἤθη εἰς ὅσον ἐνδέχεται θεοφιλῆ ποιήσειαν"
+        }
+      ],
+      "observation": "A divine/human contrast runs through the section: θεῖον vs. ἀνθρώπινα (497c), the philosopher becoming θεῖος to the extent possible for a human (500d), the Homeric θεοειδές/θεοείκελον (501b), and making human characters θεοφιλῆ (501c)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lexical_family",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὡμοιωμένα",
+          "lemma": "ὁμοιόω",
+          "location": "498e",
+          "context": "ῥήματα ἐξεπίτηδες ἀλλήλοις ὡμοιωμένα"
+        },
+        {
+          "form": "ὡμοιωμένον",
+          "lemma": "ὁμοιόω",
+          "location": "498e",
+          "context": "ἀρετῇ παρισωμένον καὶ ὡμοιωμένον"
+        },
+        {
+          "form": "ἀφομοιοῦσθαι",
+          "lemma": "ἀφομοιόω",
+          "location": "500c",
+          "context": "ταῦτα μιμεῖσθαί τε καὶ ὅτι μάλιστα ἀφομοιοῦσθαι"
+        },
+        {
+          "form": "μιμεῖσθαι",
+          "lemma": "μιμέομαι",
+          "location": "500c",
+          "context": null
+        },
+        {
+          "form": "μιμεῖσθαι",
+          "lemma": "μιμέομαι",
+          "location": "500c",
+          "context": "ὅτῳ τις ὁμιλεῖ ἀγάμενος, μὴ μιμεῖσθαι ἐκεῖνο"
+        }
+      ],
+      "observation": "Likening and imitation cluster: ὡμοιωμένα (words made deliberately alike) is contrasted with ὡμοιωμένον (a man made like virtue), and the philosopher's activity is described as μιμεῖσθαι and ἀφομοιοῦσθαι toward the divine and ordered."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐγκρατὴς",
+          "lemma": "ἐγκρατής",
+          "location": "499d",
+          "context": "αὕτη ἡ Μοῦσα πόλεως ἐγκρατὴς γένηται"
+        },
+        {
+          "form": "ἐγκρατὲς",
+          "lemma": "ἐγκρατής",
+          "location": "501e",
+          "context": "πόλεως τὸ φιλόσοφον γένος ἐγκρατὲς γένηται"
+        }
+      ],
+      "observation": "ἐγκρατής appears twice for mastery over the city: first with ἡ Μοῦσα as subject (499d), then with τὸ φιλόσοφον γένος (501e)."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κάτω βλέπειν",
+          "lemma": null,
+          "location": "500b",
+          "context": "κάτω βλέπειν εἰς ἀνθρώπων πραγματείας"
+        },
+        {
+          "form": "εἰς τεταγμένα ἄττα",
+          "lemma": null,
+          "location": "500c",
+          "context": "εἰς τεταγμένα ἄττα καὶ κατὰ ταὐτὰ ἀεὶ ἔχοντα ὁρῶντας"
+        },
+        {
+          "form": "ἑκατέρωσʼ ἀποβλέποιεν",
+          "lemma": null,
+          "location": "501b",
+          "context": "πυκνὰ ἂν ἑκατέρωσʼ ἀποβλέποιεν"
+        }
+      ],
+      "observation": "Directional looking: the true philosopher does not look downward (κάτω βλέπειν) at human affairs but gazes at ordered beings (500c); the painter-legislators look in both directions (ἑκατέρωσε) between the naturally just and the human copy (501b)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μειράκια ὄντα",
+          "lemma": null,
+          "location": "497e",
+          "context": "οἱ καὶ ἁπτόμενοι μειράκια ὄντα"
+        },
+        {
+          "form": "ἐν δὲ τῷ ἔπειτα",
+          "lemma": null,
+          "location": "498a",
+          "context": "ἀκροαταὶ γίγνεσθαι, μεγάλα ἡγοῦνται"
+        },
+        {
+          "form": "πρὸς δὲ τὸ γῆρας",
+          "lemma": null,
+          "location": "498a",
+          "context": "ἀποσβέννυνται πολὺ μᾶλλον τοῦ Ἡρακλειτείου ἡλίου"
+        }
+      ],
+      "observation": "A three-stage life sequence describes the current wrong order: youth (μειράκια) engaging philosophy's hardest part then departing, middle age treating it as πάρεργον, old age where the philosophical flame is extinguished."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πᾶν τοὐναντίον",
+          "lemma": null,
+          "location": "498b",
+          "context": null
+        },
+        {
+          "form": "μειράκια μὲν ὄντα καὶ παῖδας",
+          "lemma": null,
+          "location": "498b",
+          "context": "μειρακιώδη παιδείαν καὶ φιλοσοφίαν μεταχειρίζεσθαι"
+        },
+        {
+          "form": "προϊούσης δὲ τῆς ἡλικίας",
+          "lemma": null,
+          "location": "498b",
+          "context": "ἐπιτείνειν τὰ ἐκείνης γυμνάσια"
+        },
+        {
+          "form": "ὅταν δὲ λήγῃ μὲν ἡ ῥώμη",
+          "lemma": null,
+          "location": "498c",
+          "context": "ἀφέτους νέμεσθαι"
+        }
+      ],
+      "observation": "The proposed correct sequence reverses the current one (πᾶν τοὐναντίον): youth for bodily care as service to philosophy, advancing age for intensified soul-training, and decline of strength for being released to graze freely in philosophy."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ἡρακλειτείου ἡλίου",
+          "lemma": null,
+          "location": "498b",
+          "context": "ἀποσβέννυνται πολὺ μᾶλλον τοῦ Ἡρακλειτείου ἡλίου, ὅσον αὖθις οὐκ ἐξάπτονται"
+        }
+      ],
+      "observation": "The Heraclitean sun is invoked as a comparand: the philosophical flame in old age is extinguished more than Heraclitus' sun and is not rekindled."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προθυμίαν",
+          "lemma": "προθυμία",
+          "location": "497e",
+          "context": "τήν γʼ ἐμὴν προθυμίαν εἴσῃ"
+        },
+        {
+          "form": "προθύμως",
+          "lemma": "προθύμως",
+          "location": "497e",
+          "context": "ὡς προθύμως καὶ παρακινδυνευτικῶς μέλλω λέγειν"
+        },
+        {
+          "form": "προθύμως",
+          "lemma": "προθύμως",
+          "location": "498c",
+          "context": "λέγειν γε προθύμως"
+        },
+        {
+          "form": "προθυμότερον",
+          "lemma": "προθύμως",
+          "location": "498c",
+          "context": "τοὺς πολλοὺς τῶν ἀκουόντων προθυμότερον ἔτι ἀντιτείνειν"
+        }
+      ],
+      "observation": "προθυμία/προθύμως clusters: Socrates' eagerness to speak (497e) is mirrored back by Adeimantus (498c), then immediately turned into the many's even greater eagerness (προθυμότερον) to resist."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φίλους γεγονότας",
+          "lemma": null,
+          "location": "498d",
+          "context": "ἐμὲ καὶ Θρασύμαχον ἄρτι φίλους γεγονότας"
+        },
+        {
+          "form": "οὐδὲ πρὸ τοῦ ἐχθροὺς ὄντας",
+          "lemma": null,
+          "location": "498d",
+          "context": null
+        }
+      ],
+      "observation": "Socrates declares that he and Thrasymachus have just become friends and were not enemies before—a striking claim given their earlier exchange."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "497e",
+          "context": "λαβέτω τέλος ἡ ἀπόδειξις"
+        },
+        {
+          "form": "τελέως",
+          "lemma": "τελέως",
+          "location": "498e",
+          "context": "ὡμοιωμένον μέχρι τοῦ δυνατοῦ τελέως"
+        },
+        {
+          "form": "τελεοῦσθαι",
+          "lemma": "τελειόω",
+          "location": "498b",
+          "context": "ἡ ψυχὴ τελεοῦσθαι ἄρχεται"
+        },
+        {
+          "form": "τέλεος",
+          "lemma": "τέλειος",
+          "location": "499b",
+          "context": "μή ποτε γένηται τέλεος"
+        },
+        {
+          "form": "τελέως",
+          "lemma": "τελέως",
+          "location": "501d",
+          "context": "ἀγαθὴν τελέως ἔσεσθαι καὶ φιλόσοφον"
+        },
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "location": "501e",
+          "context": "ἔργῳ τέλος λήψεται"
+        }
+      ],
+      "observation": "τέλος/τέλειος/τελειόω recurs: the proof reaching its end (497e), the soul beginning to be perfected (498b), the man fully likened in virtue (498e), city/man never becoming perfect without philosopher-rule (499b), and the constitution reaching completion in deed (501e)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Μοῦσα",
+          "lemma": "Μοῦσα",
+          "location": "499d",
+          "context": "ὅταν αὕτη ἡ Μοῦσα πόλεως ἐγκρατὴς γένηται"
+        }
+      ],
+      "observation": "Philosophy is called ἡ Μοῦσα, personified as gaining mastery over a city."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θείας ἐπιπνοίας",
+          "lemma": null,
+          "location": "499c",
+          "context": "ἔκ τινος θείας ἐπιπνοίας ἀληθινῆς φιλοσοφίας ἀληθινὸς ἔρως ἐμπέσῃ"
+        }
+      ],
+      "observation": "Divine inspiration (θεία ἐπίπνοια) is named as the mechanism by which a true love (ἀληθινὸς ἔρως) of true philosophy might fall upon sons of kings or dynasts."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κόσμῳ",
+          "lemma": "κόσμος",
+          "location": "500c",
+          "context": "κόσμῳ δὲ πάντα καὶ κατὰ λόγον ἔχοντα"
+        },
+        {
+          "form": "κοσμίῳ",
+          "lemma": "κόσμιος",
+          "location": "500c",
+          "context": "θείῳ δὴ καὶ κοσμίῳ ὅ γε φιλόσοφος ὁμιλῶν"
+        },
+        {
+          "form": "κόσμιός",
+          "lemma": "κόσμιος",
+          "location": "500c",
+          "context": "κόσμιός τε καὶ θεῖος"
+        }
+      ],
+      "observation": "κόσμος/κόσμιος cluster: the objects of contemplation possess κόσμος (500c), the philosopher associates with what is κόσμιον, and thereby becomes κόσμιος himself (500d)."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀπὸ τοῦ αὐτομάτου",
+          "lemma": null,
+          "location": "498e",
+          "context": "ἀλλʼ οὐκ ἀπὸ τοῦ αὐτομάτου ὥσπερ νῦν συμπεσόντα"
+        },
+        {
+          "form": "ἐξεπίτηδες ἀλλήλοις ὡμοιωμένα",
+          "lemma": null,
+          "location": "498e",
+          "context": null
+        }
+      ],
+      "observation": "A contrast between deliberate verbal matching (ἐξεπίτηδες ὡμοιωμένα) and the natural coincidence (ἀπὸ τοῦ αὐτομάτου συμπεσόντα) of word and deed in a virtuous man."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πάρεργον",
+          "lemma": "πάρεργον",
+          "location": "498a",
+          "context": "πάρεργον οἰόμενοι αὐτὸ δεῖν πράττειν"
+        },
+        {
+          "form": "πάρεργον",
+          "lemma": "πάρεργον",
+          "location": "498c",
+          "context": "μηδὲν ἄλλο πράττειν, ὅτι μὴ πάρεργον"
+        }
+      ],
+      "observation": "πάρεργον appears in both the wrong and right orders: currently philosophy is treated as a side-work; in the corrected sequence, everything else becomes the side-work."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ὅμηρος",
+          "lemma": "Ὅμηρος",
+          "location": "501b",
+          "context": "ὃ δὴ καὶ Ὅμηρος ἐκάλεσεν ἐν τοῖς ἀνθρώποις ἐγγιγνόμενον θεοειδές τε καὶ θεοείκελον"
+        }
+      ],
+      "observation": "Homer is cited as authority for the compound terms θεοειδές and θεοείκελον applied to what arises in human beings, within the painting analogy."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτηδεύματος",
+          "lemma": "ἐπιτήδευμα",
+          "location": "497e",
+          "context": "τοὐναντίον ἢ νῦν δεῖ τοῦ ἐπιτηδεύματος τούτου πόλιν ἅπτεσθαι"
+        },
+        {
+          "form": "ἐπιτηδευμάτων",
+          "lemma": "ἐπιτήδευμα",
+          "location": "497c",
+          "context": "τῶν φύσεων καὶ τῶν ἐπιτηδευμάτων"
+        },
+        {
+          "form": "ἐπιτηδευμάτων",
+          "lemma": "ἐπιτήδευμα",
+          "location": "501b",
+          "context": "ἐκ τῶν ἐπιτηδευμάτων τὸ ἀνδρείκελον"
+        },
+        {
+          "form": "ἐπιτηδεύματα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "502b",
+          "context": "τοὺς νόμους καὶ τὰ ἐπιτηδεύματα ἃ διεληλύθαμεν"
+        },
+        {
+          "form": "ἐπιτήδευσιν",
+          "lemma": "ἐπιτήδευσις",
+          "location": "500a",
+          "context": "τήν τε φύσιν αὐτῶν καὶ τὴν ἐπιτήδευσιν"
+        }
+      ],
+      "observation": "ἐπιτήδευμα/ἐπιτήδευσις recurs throughout, consistently paired with φύσις (497c, 500a) and with νόμοι (502b), as the practices that either corrupt or perfect the philosophical nature."
+    }
+  ]
+}

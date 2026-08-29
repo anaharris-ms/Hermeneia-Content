@@ -1,0 +1,502 @@
+{
+  "section_id": "republic-chapter-04-section-12",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "στάσιν",
+          "lemma": "στάσις",
+          "location": "444b",
+          "context": "στάσιν τινὰ αὖ τριῶν ὄντων τούτων"
+        },
+        {
+          "form": "πολυπραγμοσύνην",
+          "lemma": "πολυπραγμοσύνη",
+          "location": "444b",
+          "context": null
+        },
+        {
+          "form": "ἀλλοτριοπραγμοσύνην",
+          "lemma": "ἀλλοτριοπραγμοσύνη",
+          "location": "444b",
+          "context": null
+        },
+        {
+          "form": "ἐπανάστασιν",
+          "lemma": "ἐπανάστασις",
+          "location": "444b",
+          "context": "ἐπανάστασιν μέρους τινὸς τῷ ὅλῳ τῆς ψυχῆς"
+        }
+      ],
+      "observation": "Injustice is defined through a cluster of four nouns naming internal disorder: faction, meddling, doing others' business, and uprising of a part against the whole of the soul."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχῃ",
+          "lemma": "ἄρχω",
+          "location": "444b",
+          "context": "ἵνʼ ἄρχῃ ἐν αὐτῇ οὐ προσῆκον"
+        },
+        {
+          "form": "δουλεύειν",
+          "lemma": "δουλεύω",
+          "location": "444b",
+          "context": "πρέπειν αὐτῷ δουλεύειν"
+        }
+      ],
+      "observation": "Ruling and being enslaved are contrasted: what should by nature serve attempts to rule, and what is of the ruling kind is not served."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀδικίαν",
+          "lemma": "ἀδικία",
+          "location": "444b",
+          "context": null
+        },
+        {
+          "form": "ἀκολασίαν",
+          "lemma": "ἀκολασία",
+          "location": "444b",
+          "context": null
+        },
+        {
+          "form": "δειλίαν",
+          "lemma": "δειλία",
+          "location": "444b",
+          "context": null
+        },
+        {
+          "form": "ἀμαθίαν",
+          "lemma": "ἀμαθία",
+          "location": "444b",
+          "context": null
+        },
+        {
+          "form": "κακίαν",
+          "lemma": "κακία",
+          "location": "444b",
+          "context": "συλλήβδην πᾶσαν κακίαν"
+        }
+      ],
+      "observation": "Four specific vices are listed and then gathered under πᾶσαν κακίαν with συλλήβδην."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "syntactic_parallel",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὑγιεινῶν",
+          "lemma": "ὑγιεινός",
+          "location": "444c",
+          "context": "τῶν ὑγιεινῶν τε καὶ νοσωδῶν"
+        },
+        {
+          "form": "νοσωδῶν",
+          "lemma": "νοσώδης",
+          "location": "444c",
+          "context": null
+        },
+        {
+          "form": "ἐν σώματι",
+          "lemma": null,
+          "location": "444c",
+          "context": "ὡς ἐκεῖνα ἐν σώματι"
+        },
+        {
+          "form": "ἐν ψυχῇ",
+          "lemma": null,
+          "location": "444c",
+          "context": "ταῦτα ἐν ψυχῇ"
+        }
+      ],
+      "observation": "The body/soul analogy is articulated through a syntactic parallel: healthy and diseased things in body correspond to just and unjust things in soul."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐμποιεῖ",
+          "lemma": "ἐμποιέω",
+          "location": "444c",
+          "context": "ὑγίειαν ἐμποιεῖ"
+        },
+        {
+          "form": "ἐμποιεῖ",
+          "lemma": "ἐμποιέω",
+          "location": "444c",
+          "context": "δικαιοσύνην ἐμποιεῖ"
+        },
+        {
+          "form": "ἐμποιεῖν",
+          "lemma": "ἐμποιέω",
+          "location": "444d",
+          "context": "τὸ δικαιοσύνην ἐμποιεῖν"
+        }
+      ],
+      "observation": "ἐμποιέω recurs three times, transferring the verb from health-production in the body to justice-production in the soul."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "syntactic_parallel",
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "κατὰ φύσιν",
+          "lemma": null,
+          "location": "444d",
+          "context": "τὰ ἐν τῷ σώματι κατὰ φύσιν καθιστάναι"
+        },
+        {
+          "form": "παρὰ φύσιν",
+          "lemma": null,
+          "location": "444d",
+          "context": "τὸ δὲ νόσον παρὰ φύσιν"
+        },
+        {
+          "form": "κατὰ φύσιν",
+          "lemma": null,
+          "location": "444d",
+          "context": "τὰ ἐν τῇ ψυχῇ κατὰ φύσιν καθιστάναι"
+        },
+        {
+          "form": "παρὰ φύσιν",
+          "lemma": null,
+          "location": "444d",
+          "context": "τὸ δὲ ἀδικίαν παρὰ φύσιν"
+        }
+      ],
+      "observation": "The phrase pair κατὰ φύσιν / παρὰ φύσιν is stated for body then repeated exactly for soul, structuring the parallel."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "syntactic_parallel",
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "κρατεῖν τε καὶ κρατεῖσθαι ὑπʼ ἀλλήλων",
+          "lemma": "κρατέω",
+          "location": "444d",
+          "context": "τὰ ἐν τῷ σώματι κατὰ φύσιν καθιστάναι κρατεῖν τε καὶ κρατεῖσθαι"
+        },
+        {
+          "form": "ἄρχειν τε καὶ ἄρχεσθαι ἄλλο ὑπʼ ἄλλου",
+          "lemma": "ἄρχω",
+          "location": "444d",
+          "context": "παρὰ φύσιν ἄρχειν τε καὶ ἄρχεσθαι ἄλλο ὑπʼ ἄλλου"
+        }
+      ],
+      "observation": "Health is κρατεῖν τε καὶ κρατεῖσθαι ὑπʼ ἀλλήλων (reciprocal mastery); disease is ἄρχειν τε καὶ ἄρχεσθαι ἄλλο ὑπʼ ἄλλου (alien rule). The shift from ὑπʼ ἀλλήλων to ἄλλο ὑπʼ ἄλλου marks the contrast."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὑγίειά",
+          "lemma": "ὑγίεια",
+          "location": "444d",
+          "context": "ὑγίειά τέ τις ἂν εἴη"
+        },
+        {
+          "form": "κάλλος",
+          "lemma": "κάλλος",
+          "location": "444e",
+          "context": null
+        },
+        {
+          "form": "εὐεξία",
+          "lemma": "εὐεξία",
+          "location": "444e",
+          "context": "εὐεξία ψυχῆς"
+        },
+        {
+          "form": "νόσος",
+          "lemma": "νόσος",
+          "location": "444e",
+          "context": null
+        },
+        {
+          "form": "αἶσχος",
+          "lemma": "αἶσχος",
+          "location": "444e",
+          "context": null
+        },
+        {
+          "form": "ἀσθένεια",
+          "lemma": "ἀσθένεια",
+          "location": "444e",
+          "context": null
+        }
+      ],
+      "observation": "Virtue is identified with a triad (health, beauty, good condition of soul); vice with a contrasting triad (disease, ugliness, weakness)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καλὰ ἐπιτηδεύματα",
+          "lemma": null,
+          "location": "444e",
+          "context": "εἰς ἀρετῆς κτῆσιν φέρει"
+        },
+        {
+          "form": "αἰσχρὰ",
+          "lemma": "αἰσχρός",
+          "location": "444e",
+          "context": "εἰς κακίας"
+        }
+      ],
+      "observation": "καλὰ ἐπιτηδεύματα lead to acquiring virtue; αἰσχρά lead to vice."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνῃ",
+          "lemma": "λανθάνω",
+          "location": "445a",
+          "context": "ἐάντε λανθάνῃ ἐάντε μή"
+        },
+        {
+          "form": "μὴ διδῷ δίκην",
+          "lemma": null,
+          "location": "445a",
+          "context": "ἐάνπερ μὴ διδῷ δίκην μηδὲ βελτίων γίγνηται κολαζόμενος"
+        }
+      ],
+      "observation": "The remaining question is framed with two conditions of concealment: whether the just person escapes notice, and whether the unjust person escapes punishment."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "445a",
+          "context": "γελοῖον ἔμοιγε φαίνεται τὸ σκέμμα"
+        },
+        {
+          "form": "γελοῖον",
+          "lemma": "γελοῖος",
+          "location": "445b",
+          "context": "γελοῖον γάρ, ἦν δʼ ἐγώ"
+        }
+      ],
+      "observation": "Glaucon calls the inquiry γελοῖον and Socrates immediately echoes the word back, accepting it."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σιτίων",
+          "lemma": "σιτίον",
+          "location": "445a",
+          "context": null
+        },
+        {
+          "form": "ποτῶν",
+          "lemma": "ποτόν",
+          "location": "445a",
+          "context": null
+        },
+        {
+          "form": "πλούτου",
+          "lemma": "πλοῦτος",
+          "location": "445a",
+          "context": null
+        },
+        {
+          "form": "ἀρχῆς",
+          "lemma": "ἀρχή",
+          "location": "445a",
+          "context": "παντὸς πλούτου καὶ πάσης ἀρχῆς"
+        }
+      ],
+      "observation": "A cluster of bodily and worldly goods—food, drink, wealth, rule—is cited as insufficient when the body's nature is destroyed."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπὸ σκοπιᾶς",
+          "lemma": "σκοπιά",
+          "location": "445c",
+          "context": "ὥσπερ ἀπὸ σκοπιᾶς μοι φαίνεται"
+        },
+        {
+          "form": "ἀναβεβήκαμεν",
+          "lemma": "ἀναβαίνω",
+          "location": "445c",
+          "context": "ἐπειδὴ ἐνταῦθα ἀναβεβήκαμεν τοῦ λόγου"
+        }
+      ],
+      "observation": "Socrates describes the argument as an ascent (ἀναβεβήκαμεν) to a lookout point (σκοπιά) from which he can see the forms of vice."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἴδῃς",
+          "lemma": "ὁράω",
+          "location": "445c",
+          "context": "ἵνα καὶ ἴδῃς ὅσα καὶ εἴδη ἔχει ἡ κακία"
+        },
+        {
+          "form": "θέας",
+          "lemma": "θέα",
+          "location": "445c",
+          "context": "ἅ γε δὴ καὶ ἄξια θέας"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "445c",
+          "context": "ἀπὸ σκοπιᾶς μοι φαίνεται"
+        },
+        {
+          "form": "κατιδεῖν",
+          "lemma": "καθοράω",
+          "location": "445b",
+          "context": "σαφέστατα κατιδεῖν"
+        }
+      ],
+      "observation": "Vocabulary of seeing clusters: ἴδῃς, θέας, φαίνεται, κατιδεῖν—the transition to the five constitutions is framed as visual inspection."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἓν μὲν εἶναι εἶδος τῆς ἀρετῆς",
+          "lemma": null,
+          "location": "445c",
+          "context": null
+        },
+        {
+          "form": "ἄπειρα δὲ τῆς κακίας",
+          "lemma": null,
+          "location": "445c",
+          "context": null
+        },
+        {
+          "form": "τέτταρα",
+          "lemma": null,
+          "location": "445c",
+          "context": "τέτταρα δʼ ἐν αὐτοῖς"
+        }
+      ],
+      "observation": "Virtue has one form; vice is unlimited but four kinds are singled out as worth mentioning—a numerical asymmetry (1 vs. ἄπειρα, narrowed to 4)."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "πέντε",
+          "lemma": null,
+          "location": "445d",
+          "context": "πέντε μέν … πολιτειῶν, πέντε δὲ ψυχῆς"
+        },
+        {
+          "form": "τοσοῦτοι",
+          "lemma": "τοσοῦτος",
+          "location": "445c",
+          "context": "ὅσοι … πολιτειῶν τρόποι … τοσοῦτοι … ψυχῆς τρόποι"
+        }
+      ],
+      "observation": "The number five is applied to both constitutions and soul-types; the correspondence is stated with ὅσοι … τοσοῦτοι."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "βασιλεία",
+          "lemma": "βασιλεία",
+          "location": "445d",
+          "context": "ἐγγενομένου μὲν γὰρ ἀνδρὸς ἑνὸς … βασιλεία"
+        },
+        {
+          "form": "ἀριστοκρατία",
+          "lemma": "ἀριστοκρατία",
+          "location": "445d",
+          "context": "πλειόνων δὲ ἀριστοκρατία"
+        }
+      ],
+      "observation": "The good constitution receives two names depending on whether one or several rulers emerge, yet is counted as ἓν εἶδος."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "τροφῇ",
+          "lemma": "τροφή",
+          "location": "445e",
+          "context": "τροφῇ τε καὶ παιδείᾳ χρησάμενος ᾗ διήλθομεν"
+        },
+        {
+          "form": "παιδείᾳ",
+          "lemma": "παιδεία",
+          "location": "445e",
+          "context": null
+        }
+      ],
+      "observation": "The section closes with τροφή and παιδεία as the guarantee that rulers formed this way would not disturb worthy laws."
+    }
+  ]
+}

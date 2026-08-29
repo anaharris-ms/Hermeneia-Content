@@ -1,0 +1,466 @@
+{
+  "section_id": "republic-chapter-09-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "structural_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "τεθραμμένος",
+          "lemma": "τρέφω",
+          "location": "572c",
+          "context": "ὑπὸ φειδωλῷ πατρὶ τεθραμμένος"
+        },
+        {
+          "form": "τεθραμμένον",
+          "lemma": "τρέφω",
+          "location": "572d",
+          "context": "ἐν τοῖς τούτου αὖ ἤθεσιν τεθραμμένον"
+        },
+        {
+          "form": "τρέφουσαι",
+          "lemma": "τρέφω",
+          "location": "573a",
+          "context": "αὔξουσαί τε καὶ τρέφουσαι πόθου κέντρον"
+        }
+      ],
+      "observation": "τρέφω appears three times: the democratic man reared by his father, the son reared in the father's habits, and the desires that nourish the sting of longing in the drone. The agent of rearing shifts from father to father to desires."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "572c",
+          "context": "τὰς χρηματιστικὰς ἐπιθυμίας τιμῶντι"
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "572c",
+          "context": "μεστοῖς … ἐπιθυμιῶν"
+        },
+        {
+          "form": "ἐπιθυμίαις",
+          "lemma": "ἐπιθυμία",
+          "location": "572e",
+          "context": "ταῖς ἐν μέσῳ ταύταις ἐπιθυμίαις"
+        },
+        {
+          "form": "ἐπιθυμιῶν",
+          "lemma": "ἐπιθυμία",
+          "location": "573a",
+          "context": "τῶν ἀργῶν … ἐπιθυμιῶν"
+        },
+        {
+          "form": "ἐπιθυμίαι",
+          "lemma": "ἐπιθυμία",
+          "location": "573a",
+          "context": "αἱ ἄλλαι ἐπιθυμίαι"
+        },
+        {
+          "form": "ἐπιθυμίας",
+          "lemma": "ἐπιθυμία",
+          "location": "573b",
+          "context": "δόξας ἢ ἐπιθυμίας … χρηστάς"
+        }
+      ],
+      "observation": "ἐπιθυμία recurs six times across the section, shifting from money-making desires honored by the father, to the desires of sophisticated men, to middle desires, to idle desires needing a champion, to buzzing desires, to good desires that are killed."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τιμῶντι",
+          "lemma": "τιμάω",
+          "location": "572c",
+          "context": "τὰς χρηματιστικὰς ἐπιθυμίας τιμῶντι"
+        },
+        {
+          "form": "ἀτιμάζοντι",
+          "lemma": "ἀτιμάζω",
+          "location": "572c",
+          "context": "τὰς δὲ μὴ ἀναγκαίους … ἀτιμάζοντι"
+        }
+      ],
+      "observation": "τιμῶντι and ἀτιμάζοντι are set in direct contrast describing the father's honoring of money-making desires and dishonoring of unnecessary ones."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀμφοτέρωσε",
+          "lemma": "ἀμφοτέρωσε",
+          "location": "572c",
+          "context": "ἀγόμενος ἀμφοτέρωσε"
+        },
+        {
+          "form": "εἰς μέσον",
+          "lemma": null,
+          "location": "572d",
+          "context": "κατέστη εἰς μέσον ἀμφοῖν τοῖν τρόποιν"
+        },
+        {
+          "form": "ἐν μέσῳ",
+          "lemma": "μέσος",
+          "location": "572e",
+          "context": "ταῖς ἐν μέσῳ ταύταις ἐπιθυμίαις"
+        }
+      ],
+      "observation": "The democratic man is pulled in both directions and settles into the middle between the two ways; the middle desires later receive aid from his son's father."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀγόμενος",
+          "lemma": "ἄγω",
+          "location": "572c",
+          "context": "ἀγόμενος ἀμφοτέρωσε"
+        },
+        {
+          "form": "ἀγόμενόν",
+          "lemma": "ἄγω",
+          "location": "572d",
+          "context": "ἀγόμενόν τε εἰς πᾶσαν παρανομίαν"
+        },
+        {
+          "form": "ἀγόντων",
+          "lemma": "ἄγω",
+          "location": "572e",
+          "context": "ὀνομαζομένην δʼ ὑπὸ τῶν ἀγόντων ἐλευθερίαν"
+        }
+      ],
+      "observation": "ἄγω recurs three times: the democratic father is led in both directions; his son is led into lawlessness; and those who lead rename lawlessness as freedom."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "παρανομίαν",
+          "lemma": "παρανομία",
+          "location": "572e",
+          "context": "ἀγόμενόν τε εἰς πᾶσαν παρανομίαν"
+        },
+        {
+          "form": "ἐλευθερίαν",
+          "lemma": "ἐλευθερία",
+          "location": "572e",
+          "context": "ὀνομαζομένην δʼ ὑπὸ τῶν ἀγόντων ἐλευθερίαν ἅπασαν"
+        }
+      ],
+      "observation": "What is παρανομία is renamed ἐλευθερία by those who lead the youth; the two terms are set in explicit contrast through the act of naming."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μάγοι",
+          "lemma": "μάγος",
+          "location": "572e",
+          "context": "οἱ δεινοὶ μάγοι τε καὶ τυραννοποιοί"
+        },
+        {
+          "form": "τυραννοποιοί",
+          "lemma": "τυραννοποιός",
+          "location": "572e",
+          "context": null
+        },
+        {
+          "form": "μηχανωμένους",
+          "lemma": "μηχανάομαι",
+          "location": "572e",
+          "context": "ἔρωτά τινα αὐτῷ μηχανωμένους ἐμποιῆσαι"
+        }
+      ],
+      "observation": "The corrupters are called δεινοὶ μάγοι and τυραννοποιοί; their action is μηχανάομαι—they contrive to implant an eros. A cluster of craft and artifice surrounds the production of tyranny."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κηφῆνά",
+          "lemma": "κηφήν",
+          "location": "573a",
+          "context": "ὑπόπτερον καὶ μέγαν κηφῆνά τινα"
+        },
+        {
+          "form": "βομβοῦσαι",
+          "lemma": "βομβέω",
+          "location": "573a",
+          "context": "περὶ αὐτὸν βομβοῦσαι αἱ ἄλλαι ἐπιθυμίαι"
+        },
+        {
+          "form": "κέντρον",
+          "lemma": "κέντρον",
+          "location": "573a",
+          "context": "πόθου κέντρον ἐμποιήσωσι τῷ κηφῆνι"
+        }
+      ],
+      "observation": "A bee/drone cluster: eros is a winged great drone; other desires buzz around it; they implant a sting of longing in the drone."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "θυμιαμάτων",
+          "lemma": "θυμίαμα",
+          "location": "573a",
+          "context": null
+        },
+        {
+          "form": "μύρων",
+          "lemma": "μύρον",
+          "location": "573a",
+          "context": null
+        },
+        {
+          "form": "στεφάνων",
+          "lemma": "στέφανος",
+          "location": "573a",
+          "context": null
+        },
+        {
+          "form": "οἴνων",
+          "lemma": "οἶνος",
+          "location": "573a",
+          "context": null
+        },
+        {
+          "form": "ἡδονῶν ἀνειμένων",
+          "lemma": null,
+          "location": "573a",
+          "context": "τῶν ἐν ταῖς τοιαύταις συνουσίαις ἡδονῶν ἀνειμένων"
+        }
+      ],
+      "observation": "A dense cluster of sensory-luxury items—incense, perfumes, garlands, wines, and loosened pleasures—characterizes the atmosphere surrounding the desires that nourish eros."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προστάτην",
+          "lemma": "προστάτης",
+          "location": "572e",
+          "context": "ἔρωτά τινα … προστάτην τῶν ἀργῶν … ἐπιθυμιῶν"
+        },
+        {
+          "form": "προστάτης",
+          "lemma": "προστάτης",
+          "location": "573b",
+          "context": "οὗτος ὁ προστάτης τῆς ψυχῆς"
+        }
+      ],
+      "observation": "προστάτης first names the role eros is contrived to fill—champion of idle desires—and returns as the title of the maddened leader of the soul."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σωφροσύνης",
+          "lemma": "σωφροσύνη",
+          "location": "573b",
+          "context": "ἕως ἂν καθήρῃ σωφροσύνης"
+        },
+        {
+          "form": "μανίας",
+          "lemma": "μανία",
+          "location": "573b",
+          "context": "μανίας δὲ πληρώσῃ ἐπακτοῦ"
+        }
+      ],
+      "observation": "σωφροσύνη is purged out while imported μανία is filled in; the two are set in explicit opposition through the verbs καθαίρω and πληρόω."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μανίας",
+          "lemma": "μανία",
+          "location": "573a",
+          "context": "δορυφορεῖταί τε ὑπὸ μανίας"
+        },
+        {
+          "form": "μανίας",
+          "lemma": "μανία",
+          "location": "573b",
+          "context": "μανίας δὲ πληρώσῃ ἐπακτοῦ"
+        }
+      ],
+      "observation": "μανία appears twice in close succession: first as the bodyguard of eros, then as imported madness that fills the soul after temperance is purged."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀποκτείνει",
+          "lemma": "ἀποκτείνω",
+          "location": "573b",
+          "context": null
+        },
+        {
+          "form": "ἔξω ὠθεῖ",
+          "lemma": null,
+          "location": "573b",
+          "context": "ἔξω ὠθεῖ παρʼ αὑτοῦ"
+        }
+      ],
+      "observation": "The tyrannical eros kills and thrusts out good opinions and desires—violent expulsion actions applied to internal psychic contents."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐμποιῆσαι",
+          "lemma": "ἐμποιέω",
+          "location": "572e",
+          "context": "ἔρωτά τινα αὐτῷ μηχανωμένους ἐμποιῆσαι"
+        },
+        {
+          "form": "ἐμποιήσωσι",
+          "lemma": "ἐμποιέω",
+          "location": "573a",
+          "context": "πόθου κέντρον ἐμποιήσωσι τῷ κηφῆνι"
+        }
+      ],
+      "observation": "ἐμποιέω recurs: the tyrant-makers contrive to implant an eros, then the buzzing desires implant a sting of longing in the drone."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θές",
+          "lemma": "τίθημι",
+          "location": "572d",
+          "context": "θὲς τοίνυν … νέον ὑὸν"
+        },
+        {
+          "form": "τίθημι",
+          "lemma": "τίθημι",
+          "location": "572d",
+          "context": null
+        },
+        {
+          "form": "τίθει",
+          "lemma": "τίθημι",
+          "location": "572d",
+          "context": "τίθει τοίνυν καὶ τὰ αὐτὰ ἐκεῖνα"
+        }
+      ],
+      "observation": "A rapid three-step exchange: Socrates commands θές, the interlocutor accepts with τίθημι, and Socrates immediately issues τίθει again—a sequence of hypothesis-setting."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δορυφορεῖται",
+          "lemma": "δορυφορέω",
+          "location": "573a",
+          "context": "δορυφορεῖταί τε ὑπὸ μανίας"
+        },
+        {
+          "form": "οἰστρᾷ",
+          "lemma": "οἰστράω",
+          "location": "573b",
+          "context": "οἰστρᾷ οὗτος ὁ προστάτης τῆς ψυχῆς"
+        }
+      ],
+      "observation": "The eros-champion is both bodyguarded by madness and stung into frenzy—two striking verbs applied to the same figure in immediate succession."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "γένεσιν",
+          "lemma": "γένεσις",
+          "location": "573b",
+          "context": "τυραννικοῦ ἀνδρὸς λέγεις γένεσιν"
+        },
+        {
+          "form": "γεγονώς",
+          "lemma": "γίγνομαι",
+          "location": "572d",
+          "context": "δημοτικὸς ἐξ ὀλιγαρχικοῦ γεγονώς"
+        }
+      ],
+      "observation": "The section begins with the democratic man having come-to-be (γεγονώς) from oligarchic origins and closes with the interlocutor naming what has been described as the γένεσις of the tyrannical man."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "παράνομον",
+          "lemma": "παράνομος",
+          "location": "572d",
+          "context": "οὔτε ἀνελεύθερον οὔτε παράνομον βίον ζῇ"
+        },
+        {
+          "form": "παρανομίαν",
+          "lemma": "παρανομία",
+          "location": "572e",
+          "context": "ἀγόμενόν τε εἰς πᾶσαν παρανομίαν"
+        }
+      ],
+      "observation": "The democratic father lives a life that is not παράνομος; his son is led into total παρανομία."
+    }
+  ]
+}

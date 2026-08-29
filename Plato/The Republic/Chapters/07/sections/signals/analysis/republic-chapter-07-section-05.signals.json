@@ -1,0 +1,1113 @@
+{
+  "section_id": "republic-chapter-07-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀριθμόν",
+          "lemma": "ἀριθμός",
+          "location": "522c",
+          "context": "ἀριθμόν τε καὶ λογισμόν"
+        },
+        {
+          "form": "ἀριθμὸν",
+          "lemma": "ἀριθμός",
+          "location": "522d",
+          "context": "ἀριθμὸν εὑρών"
+        },
+        {
+          "form": "ἐξαριθμῆσαι",
+          "lemma": "ἐξαριθμέω",
+          "location": "522d",
+          "context": null
+        },
+        {
+          "form": "ἀναριθμήτων",
+          "lemma": "ἀνάριθμητος",
+          "location": "522d",
+          "context": null
+        },
+        {
+          "form": "ἀριθμεῖν",
+          "lemma": "ἀριθμέω",
+          "location": "522d",
+          "context": "εἴπερ ἀριθμεῖν μὴ ἠπίστατο"
+        },
+        {
+          "form": "ἀριθμεῖν",
+          "lemma": "ἀριθμέω",
+          "location": "522e",
+          "context": "λογίζεσθαί τε καὶ ἀριθμεῖν δύνασθαι"
+        },
+        {
+          "form": "ἀριθμός",
+          "lemma": "ἀριθμός",
+          "location": "524d",
+          "context": "ἀριθμός τε καὶ τὸ ἕν"
+        },
+        {
+          "form": "ἀριθμὸν",
+          "lemma": "ἀριθμός",
+          "location": "525a",
+          "context": "σύμπας ἀριθμὸς"
+        },
+        {
+          "form": "ἀριθμητικὴ",
+          "lemma": "ἀριθμητική",
+          "location": "525a",
+          "context": null
+        },
+        {
+          "form": "ἀριθμῶν",
+          "lemma": "ἀριθμός",
+          "location": "525c",
+          "context": "θέαν τῆς τῶν ἀριθμῶν φύσεως"
+        },
+        {
+          "form": "ἀριθμῶν",
+          "lemma": "ἀριθμός",
+          "location": "525d",
+          "context": "περὶ αὐτῶν τῶν ἀριθμῶν"
+        },
+        {
+          "form": "ἀριθμοὺς",
+          "lemma": "ἀριθμός",
+          "location": "525d",
+          "context": "ὁρατὰ ἢ ἁπτὰ σώματα ἔχοντας ἀριθμοὺς"
+        },
+        {
+          "form": "ἀριθμῶν",
+          "lemma": "ἀριθμός",
+          "location": "526a",
+          "context": "περὶ ποίων ἀριθμῶν διαλέγεσθε"
+        }
+      ],
+      "observation": "The ἀριθμός word-family saturates the section, including noun, verb, compound verb (ἐξαριθμέω), and privative adjective (ἀνάριθμητος), moving from the Palamedes anecdote through to the question of purely intelligible numbers."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἕν",
+          "lemma": "εἷς",
+          "location": "522c",
+          "context": "τὸ ἕν τε καὶ τὰ δύο καὶ τὰ τρία"
+        },
+        {
+          "form": "ἓν",
+          "lemma": "εἷς",
+          "location": "524b",
+          "context": "εἴτε ἓν εἴτε δύο"
+        },
+        {
+          "form": "ἓν",
+          "lemma": "εἷς",
+          "location": "524b",
+          "context": "ἕτερόν τε καὶ ἓν ἑκάτερον"
+        },
+        {
+          "form": "ἕν",
+          "lemma": "εἷς",
+          "location": "524c",
+          "context": "ἀχώριστά γε δύο ἐνόει, ἀλλʼ ἕν"
+        },
+        {
+          "form": "τὸ ἕν",
+          "lemma": "εἷς",
+          "location": "524d",
+          "context": "ἀριθμός τε καὶ τὸ ἕν"
+        },
+        {
+          "form": "τὸ ἕν",
+          "lemma": "εἷς",
+          "location": "524e",
+          "context": "τὸ ἕν, οὐκ ἂν ὁλκὸν εἴη"
+        },
+        {
+          "form": "ἓν",
+          "lemma": "εἷς",
+          "location": "524e",
+          "context": "μηδὲν μᾶλλον ἓν ἢ καὶ τοὐναντίον"
+        },
+        {
+          "form": "τὸ ἕν",
+          "lemma": "εἷς",
+          "location": "524e",
+          "context": "τί ποτέ ἐστιν αὐτὸ τὸ ἕν"
+        },
+        {
+          "form": "τὸ ἓν",
+          "lemma": "εἷς",
+          "location": "525a",
+          "context": "ὡς ἕν τε ὁρῶμεν καὶ ὡς ἄπειρα τὸ πλῆθος"
+        },
+        {
+          "form": "τὸ ἕν",
+          "lemma": "εἷς",
+          "location": "525a",
+          "context": "εἴπερ τὸ ἕν"
+        },
+        {
+          "form": "τὸ ἓν",
+          "lemma": "εἷς",
+          "location": "525e",
+          "context": "αὐτὸ τὸ ἓν ἐπιχειρῇ τῷ λόγῳ τέμνειν"
+        },
+        {
+          "form": "τὸ ἓν",
+          "lemma": "εἷς",
+          "location": "525e",
+          "context": "μή ποτε φανῇ τὸ ἓν μὴ ἓν ἀλλὰ πολλὰ μόρια"
+        },
+        {
+          "form": "τὸ ἓν",
+          "lemma": "εἷς",
+          "location": "526a",
+          "context": "ἐν οἷς τὸ ἓν οἷον ὑμεῖς ἀξιοῦτέ ἐστιν"
+        }
+      ],
+      "observation": "τὸ ἕν recurs with exceptional density, moving from a simple counting element (one, two, three) to the object of an aporetic question (τί ποτέ ἐστιν αὐτὸ τὸ ἕν) to what must not be cut (τέμνειν) into parts."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "αἴσθησιν",
+          "lemma": "αἴσθησις",
+          "location": "523a",
+          "context": "τὰ μὲν ἐν ταῖς αἰσθήσεσιν"
+        },
+        {
+          "form": "νόησιν",
+          "lemma": "νόησις",
+          "location": "523b",
+          "context": "οὐ παρακαλοῦντα τὴν νόησιν"
+        },
+        {
+          "form": "αἰσθήσεως",
+          "lemma": "αἴσθησις",
+          "location": "523b",
+          "context": "ὑπὸ τῆς αἰσθήσεως κρινόμενα"
+        },
+        {
+          "form": "νόησιν",
+          "lemma": "νόησις",
+          "location": "523d",
+          "context": "ἀναγκάζεται τῶν πολλῶν ἡ ψυχὴ τὴν νόησιν ἐπερέσθαι"
+        },
+        {
+          "form": "νοήσεως",
+          "lemma": "νόησις",
+          "location": "523d",
+          "context": "νοήσεως οὐκ ἂν παρακλητικὸν"
+        },
+        {
+          "form": "νόησιν",
+          "lemma": "νόησις",
+          "location": "524b",
+          "context": "λογισμόν τε καὶ νόησιν ψυχὴ παρακαλοῦσα"
+        },
+        {
+          "form": "νοητόν",
+          "lemma": "νοητός",
+          "location": "524c",
+          "context": "τὸ μὲν νοητόν, τὸ δʼ ὁρατόν"
+        },
+        {
+          "form": "νοήσει",
+          "lemma": "νόησις",
+          "location": "525c",
+          "context": "τῇ νοήσει αὐτῇ"
+        },
+        {
+          "form": "νοήσει",
+          "lemma": "νόησις",
+          "location": "526b",
+          "context": "αὐτῇ τῇ νοήσει χρῆσθαι τὴν ψυχήν"
+        }
+      ],
+      "observation": "αἴσθησις and νόησις are set in sustained contrast: sensation either suffices or fails, and when it fails it 'summons' (παρακαλεῖ) νόησις. The contrast culminates in the pair νοητόν / ὁρατόν at 524c."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παρακαλοῦντα",
+          "lemma": "παρακαλέω",
+          "location": "523b",
+          "context": "οὐ παρακαλοῦντα τὴν νόησιν"
+        },
+        {
+          "form": "παρακαλοῦντα",
+          "lemma": "παρακαλέω",
+          "location": "523c",
+          "context": "τὰ δʼ ἐκβαίνοντα ὡς παρακαλοῦντα τίθημι"
+        },
+        {
+          "form": "παρακλητικὸν",
+          "lemma": "παρακλητικός",
+          "location": "523e",
+          "context": "νοήσεως οὐκ ἂν παρακλητικὸν οὐδʼ ἐγερτικὸν"
+        },
+        {
+          "form": "παρακαλοῦσα",
+          "lemma": "παρακαλέω",
+          "location": "524b",
+          "context": "λογισμόν τε καὶ νόησιν ψυχὴ παρακαλοῦσα"
+        },
+        {
+          "form": "παρακλητικὰ",
+          "lemma": "παρακλητικός",
+          "location": "524d",
+          "context": "τὰ μὲν παρακλητικὰ τῆς διανοίας"
+        }
+      ],
+      "observation": "παρακαλέω and its adjective παρακλητικός recur as a technical term for what summons thought; the negative (οὐ παρακαλοῦντα) and positive (παρακαλοῦντα, παρακαλοῦσα) uses articulate the division between sense-sufficient and sense-insufficient perceptions."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐναντίαν",
+          "lemma": "ἐναντίος",
+          "location": "523c",
+          "context": "ἐκβαίνει εἰς ἐναντίαν αἴσθησιν"
+        },
+        {
+          "form": "τὸ ἐναντίον",
+          "lemma": "ἐναντίος",
+          "location": "523c",
+          "context": "μηδὲν μᾶλλον τοῦτο ἢ τὸ ἐναντίον"
+        },
+        {
+          "form": "τοὐναντίον",
+          "lemma": "ἐναντίος",
+          "location": "523d",
+          "context": "τὸ δάκτυλον τοὐναντίον ἢ δάκτυλον εἶναι"
+        },
+        {
+          "form": "ἐναντίωμα",
+          "lemma": "ἐναντίωμα",
+          "location": "524e",
+          "context": "ἀεί τι αὐτῷ ἅμα ὁρᾶται ἐναντίωμα"
+        },
+        {
+          "form": "τοὐναντίον",
+          "lemma": "ἐναντίος",
+          "location": "524e",
+          "context": "μηδὲν μᾶλλον ἓν ἢ καὶ τοὐναντίον"
+        },
+        {
+          "form": "ἐναντίοις",
+          "lemma": "ἐναντίος",
+          "location": "524d",
+          "context": "ἅμα τοῖς ἐναντίοις ἑαυτοῖς ἐμπίπτει"
+        }
+      ],
+      "observation": "ἐναντίος/ἐναντίωμα recurs as the criterion distinguishing what summons thought from what does not: perception that simultaneously delivers a thing and its opposite provokes inquiry."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δάκτυλοι",
+          "lemma": "δάκτυλος",
+          "location": "523c",
+          "context": "τρεῖς ἂν εἶεν δάκτυλοι"
+        },
+        {
+          "form": "σμικρότατος",
+          "lemma": "σμικρός",
+          "location": "523c",
+          "context": "ὅ τε σμικρότατος"
+        },
+        {
+          "form": "δεύτερος",
+          "lemma": "δεύτερος",
+          "location": "523c",
+          "context": "ὁ δεύτερος"
+        },
+        {
+          "form": "μέσος",
+          "lemma": "μέσος",
+          "location": "523c",
+          "context": "ὁ μέσος"
+        },
+        {
+          "form": "δάκτυλος",
+          "lemma": "δάκτυλος",
+          "location": "523c",
+          "context": "δάκτυλος μέν που αὐτῶν φαίνεται ὁμοίως ἕκαστος"
+        },
+        {
+          "form": "δάκτυλον",
+          "lemma": "δάκτυλος",
+          "location": "523d",
+          "context": "τί ποτʼ ἐστὶ δάκτυλος"
+        },
+        {
+          "form": "δακτύλου",
+          "lemma": "δάκτυλος",
+          "location": "524e",
+          "context": "ὥσπερ ἐπὶ τοῦ δακτύλου ἐλέγομεν"
+        }
+      ],
+      "observation": "Three fingers are introduced as a concrete example: the smallest, the second, and the middle. The finger is established as something sensation adequately identifies (it never signals non-finger), then recalled at 524e as the paradigm of the non-provocative."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "syntactic_parallel"
+      ],
+      "elements": [
+        {
+          "form": "σκληρόν",
+          "lemma": "σκληρός",
+          "location": "524a",
+          "context": "ταὐτὸν σκληρόν τε καὶ μαλακὸν αἰσθανομένη"
+        },
+        {
+          "form": "μαλακὸν",
+          "lemma": "μαλακός",
+          "location": "524a",
+          "context": null
+        },
+        {
+          "form": "κούφου",
+          "lemma": "κοῦφος",
+          "location": "524a",
+          "context": "ἡ τοῦ κούφου καὶ ἡ τοῦ βαρέος"
+        },
+        {
+          "form": "βαρέος",
+          "lemma": "βαρύς",
+          "location": "524a",
+          "context": null
+        },
+        {
+          "form": "μέγα",
+          "lemma": "μέγας",
+          "location": "524c",
+          "context": "μέγα μὴν καὶ ὄψις καὶ σμικρὸν ἑώρα"
+        },
+        {
+          "form": "σμικρὸν",
+          "lemma": "σμικρός",
+          "location": "524c",
+          "context": null
+        },
+        {
+          "form": "λευκὸς",
+          "lemma": "λευκός",
+          "location": "523d",
+          "context": "ἐάντε λευκὸς ἐάντε μέλας"
+        },
+        {
+          "form": "μέλας",
+          "lemma": "μέλας",
+          "location": "523d",
+          "context": null
+        },
+        {
+          "form": "παχὺς",
+          "lemma": "παχύς",
+          "location": "523d",
+          "context": "ἐάντε παχὺς ἐάντε λεπτός"
+        },
+        {
+          "form": "λεπτός",
+          "lemma": "λεπτός",
+          "location": "523d",
+          "context": null
+        }
+      ],
+      "observation": "Pairs of contraries accumulate: white/black and thick/thin (listed as qualities of the finger that do not disturb its identity), then hard/soft, light/heavy, and great/small as qualities whose simultaneous presence in one perception provokes thought."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "523d",
+          "context": "οὐκ ἀναγκάζεται τῶν πολλῶν ἡ ψυχὴ τὴν νόησιν ἐπερέσθαι"
+        },
+        {
+          "form": "ψυχῇ",
+          "lemma": "ψυχή",
+          "location": "524a",
+          "context": "παραγγέλλει τῇ ψυχῇ"
+        },
+        {
+          "form": "ψυχῇ",
+          "lemma": "ψυχή",
+          "location": "524b",
+          "context": "ἄτοποι τῇ ψυχῇ αἱ ἑρμηνεῖαι"
+        },
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "524b",
+          "context": "λογισμόν τε καὶ νόησιν ψυχὴ παρακαλοῦσα"
+        },
+        {
+          "form": "ψυχὴ",
+          "lemma": "ψυχή",
+          "location": "524e",
+          "context": "ἀναγκάζοιτʼ ἂν ἐν αὐτῷ ψυχὴ ἀπορεῖν καὶ ζητεῖν"
+        },
+        {
+          "form": "ψυχῆς",
+          "lemma": "ψυχή",
+          "location": "525c",
+          "context": "αὐτῆς τῆς ψυχῆς ῥᾳστώνης μεταστροφῆς"
+        },
+        {
+          "form": "ψυχήν",
+          "lemma": "ψυχή",
+          "location": "526b",
+          "context": "αὐτῇ τῇ νοήσει χρῆσθαι τὴν ψυχήν"
+        }
+      ],
+      "observation": "ψυχή recurs as the subject that is compelled, puzzled, and turned: sensation reports to it (παραγγέλλει), it is forced to inquire, and finally it must use νόησις itself toward truth."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγκάζεται",
+          "lemma": "ἀναγκάζω",
+          "location": "522c",
+          "context": "πᾶσα τέχνη τε καὶ ἐπιστήμη ἀναγκάζεται"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "522c",
+          "context": "παντὶ ἐν πρώτοις ἀνάγκη μανθάνειν"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "522c",
+          "context": "πολλή ἀνάγκη"
+        },
+        {
+          "form": "ἀναγκαῖον",
+          "lemma": "ἀναγκαῖος",
+          "location": "522e",
+          "context": "μάθημα ἀναγκαῖον πολεμικῷ ἀνδρί"
+        },
+        {
+          "form": "ἀναγκάζεται",
+          "lemma": "ἀναγκάζω",
+          "location": "523d",
+          "context": "οὐκ ἀναγκάζεται τῶν πολλῶν ἡ ψυχή"
+        },
+        {
+          "form": "ἠνάγκασται",
+          "lemma": "ἀναγκάζω",
+          "location": "524a",
+          "context": "ἡ ἐπὶ τῷ σκληρῷ τεταγμένη αἴσθησις ἠνάγκασται καὶ ἐπὶ τῷ μαλακῷ τετάχθαι"
+        },
+        {
+          "form": "ἀναγκαῖον",
+          "lemma": "ἀναγκαῖος",
+          "location": "524a",
+          "context": "ἀναγκαῖον ἔν γε τοῖς τοιούτοις αὖ τὴν ψυχὴν ἀπορεῖν"
+        },
+        {
+          "form": "ἠναγκάσθη",
+          "lemma": "ἀναγκάζω",
+          "location": "524c",
+          "context": "ἡ νόησις ἠναγκάσθη ἰδεῖν"
+        },
+        {
+          "form": "ἀναγκάζοιτʼ",
+          "lemma": "ἀναγκάζω",
+          "location": "524e",
+          "context": "ἀναγκάζοιτʼ ἂν ἐν αὐτῷ ψυχὴ ἀπορεῖν"
+        },
+        {
+          "form": "ἀναγκάζει",
+          "lemma": "ἀναγκάζω",
+          "location": "525d",
+          "context": "ἀναγκάζει διαλέγεσθαι"
+        },
+        {
+          "form": "ἀναγκαῖον",
+          "lemma": "ἀναγκαῖος",
+          "location": "526a",
+          "context": "ἀναγκαῖον ἡμῖν κινδυνεύει εἶναι τὸ μάθημα"
+        },
+        {
+          "form": "προσαναγκάζον",
+          "lemma": "προσαναγκάζω",
+          "location": "526b",
+          "context": "προσαναγκάζον αὐτῇ τῇ νοήσει χρῆσθαι"
+        }
+      ],
+      "observation": "ἀνάγκη/ἀναγκάζω saturates the section: first as practical necessity (every art must share in number), then as epistemic compulsion (the soul is forced to inquire when senses deliver contraries), culminating in προσαναγκάζον—the study compels the soul toward νόησις."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τάξεις",
+          "lemma": "τάξις",
+          "location": "522d",
+          "context": "τάς τε τάξεις τῷ στρατοπέδῳ καταστῆσαι"
+        },
+        {
+          "form": "τάξεων",
+          "lemma": "τάξις",
+          "location": "522e",
+          "context": "εἰ καὶ ὁτιοῦν μέλλει τάξεων ἐπαΐειν"
+        },
+        {
+          "form": "τάξεις",
+          "lemma": "τάξις",
+          "location": "525b",
+          "context": "πολεμικῷ μὲν γὰρ διὰ τὰς τάξεις ἀναγκαῖον"
+        },
+        {
+          "form": "τεταγμένη",
+          "lemma": "τάσσω",
+          "location": "524a",
+          "context": "ἡ ἐπὶ τῷ σκληρῷ τεταγμένη αἴσθησις"
+        },
+        {
+          "form": "τετάχθαι",
+          "lemma": "τάσσω",
+          "location": "524a",
+          "context": "ἐπὶ τῷ μαλακῷ τετάχθαι"
+        }
+      ],
+      "observation": "τάξις appears first as military formations (Palamedes establishing τάξεις at Ilium, the warrior needing knowledge of τάξεων), then τάσσω appears of sensation being 'stationed' upon hard and soft simultaneously; at 525b τάξεις returns in the military context. The same root moves between military ordering and perceptual assignment."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄνω ποι",
+          "lemma": null,
+          "location": "525d",
+          "context": "σφόδρα ἄνω ποι ἄγει τὴν ψυχήν"
+        },
+        {
+          "form": "ἑλκτικῷ",
+          "lemma": "ἑλκτικός",
+          "location": "523a",
+          "context": "ἑλκτικῷ ὄντι παντάπασι πρὸς οὐσίαν"
+        },
+        {
+          "form": "ὁλκὸν",
+          "lemma": "ὁλκός",
+          "location": "524e",
+          "context": "οὐκ ἂν ὁλκὸν εἴη ἐπὶ τὴν οὐσίαν"
+        },
+        {
+          "form": "ἀγόντων",
+          "lemma": "ἄγω",
+          "location": "523a",
+          "context": "τῶν πρὸς τὴν νόησιν ἀγόντων"
+        },
+        {
+          "form": "ἀγωγά",
+          "lemma": "ἀγωγός",
+          "location": "523a",
+          "context": "ἀγωγά τε εἶναι οἷ λέγομεν"
+        },
+        {
+          "form": "ἀγωγῶν",
+          "lemma": "ἀγωγός",
+          "location": "525a",
+          "context": "τῶν ἀγωγῶν ἂν εἴη καὶ μεταστρεπτικῶν"
+        },
+        {
+          "form": "ἀγωγὰ",
+          "lemma": "ἀγωγός",
+          "location": "525b",
+          "context": "φαίνεται ἀγωγὰ πρὸς ἀλήθειαν"
+        },
+        {
+          "form": "μεταστρεπτικῶν",
+          "lemma": "μεταστρεπτικός",
+          "location": "525a",
+          "context": "μεταστρεπτικῶν ἐπὶ τὴν τοῦ ὄντος θέαν"
+        },
+        {
+          "form": "μεταστροφῆς",
+          "lemma": "μεταστροφή",
+          "location": "525c",
+          "context": "μεταστροφῆς ἀπὸ γενέσεως ἐπʼ ἀλήθειάν τε καὶ οὐσίαν"
+        }
+      ],
+      "observation": "A cluster of pulling/leading/turning language: ἑλκτικός and ὁλκός (drawing toward οὐσία), ἄγω/ἀγωγός (leading toward νόησις and ἀλήθεια), μεταστρεπτικός/μεταστροφή (turning from γένεσις), and ἄνω ποι ἄγει (leading the soul upward)."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γενέσεως",
+          "lemma": "γένεσις",
+          "location": "525b",
+          "context": "γενέσεως ἐξαναδύντι"
+        },
+        {
+          "form": "οὐσίας",
+          "lemma": "οὐσία",
+          "location": "525b",
+          "context": "τῆς οὐσίας ἁπτέον εἶναι"
+        },
+        {
+          "form": "γενέσεως",
+          "lemma": "γένεσις",
+          "location": "525c",
+          "context": "μεταστροφῆς ἀπὸ γενέσεως ἐπʼ ἀλήθειάν τε καὶ οὐσίαν"
+        },
+        {
+          "form": "οὐσίαν",
+          "lemma": "οὐσία",
+          "location": "523a",
+          "context": "ἑλκτικῷ ὄντι παντάπασι πρὸς οὐσίαν"
+        },
+        {
+          "form": "οὐσίαν",
+          "lemma": "οὐσία",
+          "location": "524e",
+          "context": "οὐκ ἂν ὁλκὸν εἴη ἐπὶ τὴν οὐσίαν"
+        },
+        {
+          "form": "ἀλήθειαν",
+          "lemma": "ἀλήθεια",
+          "location": "525b",
+          "context": "ἀγωγὰ πρὸς ἀλήθειαν"
+        },
+        {
+          "form": "ἀλήθειαν",
+          "lemma": "ἀλήθεια",
+          "location": "526b",
+          "context": "ἐπʼ αὐτὴν τὴν ἀλήθειαν"
+        }
+      ],
+      "observation": "γένεσις and οὐσία are paired as termini of a movement: the philosopher must 'surface from' (ἐξαναδύντι) γένεσις to 'lay hold of' (ἁπτέον) οὐσία; the same contrast recurs with ἀλήθεια aligned with οὐσία."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lexical_family",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "κεχωρισμένα",
+          "lemma": "χωρίζω",
+          "location": "524b",
+          "context": "τά γε δύο κεχωρισμένα νοήσει"
+        },
+        {
+          "form": "ἀχώριστά",
+          "lemma": "ἀχώριστος",
+          "location": "524c",
+          "context": "οὐ γὰρ ἂν ἀχώριστά γε δύο ἐνόει"
+        },
+        {
+          "form": "συγκεχυμένον",
+          "lemma": "συγχέω",
+          "location": "524c",
+          "context": "οὐ κεχωρισμένον ἀλλὰ συγκεχυμένον"
+        },
+        {
+          "form": "διωρισμένα",
+          "lemma": "διορίζω",
+          "location": "524c",
+          "context": "οὐ συγκεχυμένα ἀλλὰ διωρισμένα"
+        }
+      ],
+      "observation": "At 524b-c, separated/inseparable (κεχωρισμένα / ἀχώριστα) and confused/distinguished (συγκεχυμένον / διωρισμένα) form two contrasting pairs that differentiate how sight and νόησις respectively apprehend great and small."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὠνῆς",
+          "lemma": "ὠνή",
+          "location": "525c",
+          "context": "οὐκ ὠνῆς οὐδὲ πράσεως χάριν"
+        },
+        {
+          "form": "πράσεως",
+          "lemma": "πρᾶσις",
+          "location": "525c",
+          "context": null
+        },
+        {
+          "form": "ἐμπόρους",
+          "lemma": "ἔμπορος",
+          "location": "525c",
+          "context": "ὡς ἐμπόρους ἢ καπήλους"
+        },
+        {
+          "form": "καπήλους",
+          "lemma": "κάπηλος",
+          "location": "525c",
+          "context": null
+        },
+        {
+          "form": "καπηλεύειν",
+          "lemma": "καπηλεύω",
+          "location": "525d",
+          "context": "ἀλλὰ μὴ τοῦ καπηλεύειν"
+        }
+      ],
+      "observation": "Commercial vocabulary (buying, selling, merchants, retailers) is introduced as the wrong purpose for studying arithmetic, contrasted with the purpose of war and the soul's turning toward truth. καπηλεύειν returns shortly after."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τέμνειν",
+          "lemma": "τέμνω",
+          "location": "525e",
+          "context": "αὐτὸ τὸ ἓν ἐπιχειρῇ τῷ λόγῳ τέμνειν"
+        },
+        {
+          "form": "κερματίζῃς",
+          "lemma": "κερματίζω",
+          "location": "525e",
+          "context": "ἐὰν σὺ κερματίζῃς αὐτό"
+        },
+        {
+          "form": "πολλαπλασιοῦσιν",
+          "lemma": "πολλαπλασιόω",
+          "location": "525e",
+          "context": "ἐκεῖνοι πολλαπλασιοῦσιν"
+        },
+        {
+          "form": "μόρια",
+          "lemma": "μόριον",
+          "location": "525e",
+          "context": "μὴ ἓν ἀλλὰ πολλὰ μόρια"
+        }
+      ],
+      "observation": "The expert arithmeticians' practice is described through cutting (τέμνειν), making small change (κερματίζειν), and multiplying (πολλαπλασιοῦσιν): they refuse to let the one appear as many parts (μόρια), guarding the unity of τὸ ἕν."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Παλαμήδης",
+          "lemma": "Παλαμήδης",
+          "location": "522d",
+          "context": "Παλαμήδης ἑκάστοτε ἀποφαίνει"
+        },
+        {
+          "form": "Ἀγαμέμνονα",
+          "lemma": "Ἀγαμέμνων",
+          "location": "522d",
+          "context": "στρατηγὸν Ἀγαμέμνονα ἐν ταῖς τραγῳδίαις"
+        },
+        {
+          "form": "ἐν Ἰλίῳ",
+          "lemma": null,
+          "location": "522d",
+          "context": "τάς τε τάξεις τῷ στρατοπέδῳ καταστῆσαι ἐν Ἰλίῳ"
+        },
+        {
+          "form": "πόδας",
+          "lemma": "πούς",
+          "location": "522d",
+          "context": "οὐδʼ ὅσους πόδας εἶχεν εἰδότος"
+        }
+      ],
+      "observation": "Palamedes and Agamemnon at Ilium are cited from tragedy: Palamedes claims to have invented number and thereby established military order, while Agamemnon is made absurd—not even knowing how many feet he had. πόδας as a unit of counting is a strikingly bodily detail."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "522e",
+          "context": "μάθημα ἀναγκαῖον πολεμικῷ ἀνδρί"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "522e",
+          "context": "ἐννοεῖς οὖν περὶ τοῦτο τὸ μάθημα"
+        },
+        {
+          "form": "μάθησις",
+          "lemma": "μάθησις",
+          "location": "525a",
+          "context": "ἡ περὶ τὸ ἓν μάθησις"
+        },
+        {
+          "form": "μαθημάτων",
+          "lemma": "μάθημα",
+          "location": "525b",
+          "context": "ὧν ζητοῦμεν μαθημάτων"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "525b",
+          "context": "προσῆκον δὴ τὸ μάθημα"
+        },
+        {
+          "form": "μαθήματος",
+          "lemma": "μάθημα",
+          "location": "525d",
+          "context": "τοῦ περὶ τοὺς λογισμοὺς μαθήματος"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "526a",
+          "context": "ἀναγκαῖον ἡμῖν κινδυνεύει εἶναι τὸ μάθημα"
+        },
+        {
+          "form": "μαθήματα",
+          "lemma": "μάθημα",
+          "location": "526b",
+          "context": "εἰς πάντα τὰ μαθήματα"
+        },
+        {
+          "form": "μάθημα",
+          "lemma": "μάθημα",
+          "location": "526c",
+          "context": "οὐκ ἀφετέον τὸ μάθημα"
+        }
+      ],
+      "observation": "μάθημα recurs throughout, framing the entire section as an inquiry into which μάθημα belongs in the curriculum; it appears at or near both the section's beginning and its closing sentence."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πολεμικῷ",
+          "lemma": "πολεμικός",
+          "location": "522e",
+          "context": "μάθημα ἀναγκαῖον πολεμικῷ ἀνδρί"
+        },
+        {
+          "form": "φιλοσόφῳ",
+          "lemma": "φιλόσοφος",
+          "location": "525b",
+          "context": "φιλοσόφῳ δὲ διὰ τὸ τῆς οὐσίας ἁπτέον"
+        },
+        {
+          "form": "πολεμικός",
+          "lemma": "πολεμικός",
+          "location": "525b",
+          "context": "ὁ δέ γε ἡμέτερος φύλαξ πολεμικός τε καὶ φιλόσοφος"
+        },
+        {
+          "form": "φιλόσοφος",
+          "lemma": "φιλόσοφος",
+          "location": "525b",
+          "context": null
+        }
+      ],
+      "observation": "The warrior and the philosopher each need arithmetic for different reasons (τάξεις vs. οὐσία); the guardian is then identified as both πολεμικός and φιλόσοφος, collapsing the distinction."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φαῦλον",
+          "lemma": "φαῦλος",
+          "location": "522c",
+          "context": "τὸ φαῦλον τοῦτο"
+        },
+        {
+          "form": "κομψόν",
+          "lemma": "κομψός",
+          "location": "525d",
+          "context": "ὡς κομψόν ἐστι"
+        }
+      ],
+      "observation": "Arithmetic is first called τὸ φαῦλον ('this trivial thing') and later κομψόν ('elegant/clever')—a local reversal of evaluation within the section."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "συνθεατὴς",
+          "lemma": "συνθεατής",
+          "location": "523a",
+          "context": "συνθεατὴς γενόμενος σύμφαθι ἢ ἄπειπε"
+        },
+        {
+          "form": "θέαν",
+          "lemma": "θέα",
+          "location": "525a",
+          "context": "μεταστρεπτικῶν ἐπὶ τὴν τοῦ ὄντος θέαν"
+        },
+        {
+          "form": "θέαν",
+          "lemma": "θέα",
+          "location": "525c",
+          "context": "ἐπὶ θέαν τῆς τῶν ἀριθμῶν φύσεως"
+        }
+      ],
+      "observation": "Glaucon is invited to become a συνθεατής ('co-viewer') of the distinction Socrates is making; θέα then recurs as what the study leads toward—viewing the nature of being, viewing the nature of numbers."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαναδύντι",
+          "lemma": "ἐξαναδύω",
+          "location": "525b",
+          "context": "γενέσεως ἐξαναδύντι"
+        }
+      ],
+      "observation": "ἐξαναδύντι ('having surfaced from') describes the philosopher's relation to γένεσις as emergence from submersion—a striking hapax-like spatial verb in this section."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἄτοπόν",
+          "lemma": "ἄτοπος",
+          "location": "522d",
+          "context": "ἄτοπόν τινʼ, ἔφη, ἔγωγε, εἰ ἦν τοῦτʼ ἀληθές"
+        },
+        {
+          "form": "ἄτοποι",
+          "lemma": "ἄτοπος",
+          "location": "524b",
+          "context": "ἄτοποι τῇ ψυχῇ αἱ ἑρμηνεῖαι"
+        }
+      ],
+      "observation": "ἄτοπος first describes Agamemnon as a general who cannot count, then describes the 'reports' (ἑρμηνεῖαι) that sensation delivers to the soul when it signals contraries simultaneously—strangeness applied first to a person, then to perceptual experience."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ποῖον",
+          "lemma": null,
+          "location": "522b",
+          "context": null
+        },
+        {
+          "form": "τὸ ποῖον",
+          "lemma": null,
+          "location": "522c",
+          "context": null
+        },
+        {
+          "form": "τὸ ποῖον",
+          "lemma": null,
+          "location": "522e",
+          "context": null
+        },
+        {
+          "form": "τὸ ποῖον",
+          "lemma": null,
+          "location": "523c",
+          "context": null
+        }
+      ],
+      "observation": "The interlocutor's response τὸ ποῖον; recurs four times as a request for specification, punctuating stages of the argument."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁρατὰ ἢ ἁπτὰ σώματα",
+          "lemma": null,
+          "location": "525d",
+          "context": "ὁρατὰ ἢ ἁπτὰ σώματα ἔχοντας ἀριθμούς"
+        },
+        {
+          "form": "διανοηθῆναι μόνον",
+          "lemma": null,
+          "location": "526a",
+          "context": "ὧν διανοηθῆναι μόνον ἐγχωρεῖ, ἄλλως δʼ οὐδαμῶς μεταχειρίζεσθαι δυνατόν"
+        }
+      ],
+      "observation": "Numbers with visible or tangible bodies are rejected; the arithmeticians themselves say their numbers can only be grasped by thought (διανοηθῆναι μόνον) and cannot be handled (μεταχειρίζεσθαι) in any other way."
+    }
+  ]
+}

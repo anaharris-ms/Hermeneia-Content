@@ -1,0 +1,459 @@
+{
+  "section_id": "republic-chapter-01-section-07",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "πλεονεκτεῖν",
+          "lemma": "πλεονεκτέω",
+          "location": "349b",
+          "context": "τοῦ δὲ ἀδίκου πότερον ἀξιοῖ ἂν πλεονεκτεῖν"
+        },
+        {
+          "form": "πλέον ἔχειν",
+          "lemma": null,
+          "location": "349b",
+          "context": "πλέον ἔχειν"
+        },
+        {
+          "form": "πλεονεκτεῖ",
+          "lemma": "πλεονεκτέω",
+          "location": "349c",
+          "context": "ὁ δίκαιος τοῦ μὲν ὁμοίου οὐ πλεονεκτεῖ"
+        },
+        {
+          "form": "πλεονεκτήσει",
+          "lemma": "πλεονεκτέω",
+          "location": "349c",
+          "context": "ἀδίκου ἀνθρώπου τε καὶ πράξεως ὁ ἄδικος πλεονεκτήσει"
+        },
+        {
+          "form": "πλεονεκτεῖν",
+          "lemma": "πλεονεκτέω",
+          "location": "350b",
+          "context": "τοῦ μὲν ὁμοίου οὐκ ἐθελήσει πλεονεκτεῖν"
+        },
+        {
+          "form": "πλεονεκτεῖ",
+          "lemma": "πλεονεκτέω",
+          "location": "350b",
+          "context": "τοῦ ἀνομοίου τε καὶ ὁμοίου πλεονεκτεῖ"
+        }
+      ],
+      "observation": "Forms of πλεονεκτέω and the phrase πλέον ἔχειν accumulate densely through 349b–350b, distributed across the just person (who does not seek to overreach the like) and the unjust person (who overreaches both like and unlike)."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁμοίου",
+          "lemma": "ὅμοιος",
+          "location": "349c",
+          "context": "τοῦ μὲν ὁμοίου οὐ πλεονεκτεῖ"
+        },
+        {
+          "form": "ἀνομοίου",
+          "lemma": "ἀνόμοιος",
+          "location": "349c",
+          "context": "τοῦ δὲ ἀνομοίου"
+        }
+      ],
+      "observation": "The ὅμοιος/ἀνόμοιος contrast structures the entire pleonexia argument: the just person overreaches only the unlike, the unjust overreaches both."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εὐήθειαν",
+          "lemma": "εὐήθεια",
+          "location": "348c",
+          "context": "πάνυ γενναίαν εὐήθειαν"
+        },
+        {
+          "form": "εὐβουλίαν",
+          "lemma": "εὐβουλία",
+          "location": "348d",
+          "context": "ἀλλ᾽ εὐβουλίαν"
+        }
+      ],
+      "observation": "Thrasymachus calls justice γενναία εὐήθεια and injustice εὐβουλία—both εὐ- compounds applied to opposite evaluations."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετήν",
+          "lemma": "ἀρετή",
+          "location": "348c",
+          "context": "τὴν μὲν δικαιοσύνην ἀρετήν"
+        },
+        {
+          "form": "κακίαν",
+          "lemma": "κακία",
+          "location": "348c",
+          "context": "τὴν δὲ ἀδικίαν κακίαν"
+        },
+        {
+          "form": "εἰκός",
+          "lemma": "εἰκός",
+          "location": "348c",
+          "context": "εἰκός γ᾽, ἔφη, ὦ ἥδιστε"
+        }
+      ],
+      "observation": "Socrates proposes justice=ἀρετή, injustice=κακία; Thrasymachus refuses this expected mapping, calling it εἰκός sarcastically."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "348e",
+          "context": "ἐν ἀρετῆς καὶ σοφίας τιθεῖς μέρει τὴν ἀδικίαν"
+        },
+        {
+          "form": "σοφίας",
+          "lemma": "σοφία",
+          "location": "348e",
+          "context": null
+        },
+        {
+          "form": "σοφίαν",
+          "lemma": "σοφία",
+          "location": "350d",
+          "context": "τὴν δικαιοσύνην ἀρετὴν εἶναι καὶ σοφίαν"
+        },
+        {
+          "form": "ἀμαθίαν",
+          "lemma": "ἀμαθία",
+          "location": "350d",
+          "context": "τὴν δὲ ἀδικίαν κακίαν τε καὶ ἀμαθίαν"
+        }
+      ],
+      "observation": "Thrasymachus places ἀδικία in the class of ἀρετή and σοφία; the conclusion reverses this, aligning δικαιοσύνη with ἀρετή/σοφία and ἀδικία with κακία/ἀμαθία."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μουσικὸν",
+          "lemma": "μουσικός",
+          "location": "349d",
+          "context": "μουσικόν δέ τινα λέγεις"
+        },
+        {
+          "form": "ἄμουσον",
+          "lemma": "ἄμουσος",
+          "location": "349e",
+          "context": null
+        },
+        {
+          "form": "ἰατρικόν",
+          "lemma": "ἰατρικός",
+          "location": "349e",
+          "context": "τί δὲ ἰατρικόν"
+        },
+        {
+          "form": "ἐπιστήμης",
+          "lemma": "ἐπιστήμη",
+          "location": "350a",
+          "context": "περὶ πάσης δὴ ὅρα ἐπιστήμης τε καὶ ἀνεπιστημοσύνης"
+        }
+      ],
+      "observation": "The musician and doctor serve as parallel craft-examples, then are generalized to πᾶσα ἐπιστήμη: the knower does not seek to overreach the knower."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐρυθριῶντα",
+          "lemma": "ἐρυθριάω",
+          "location": "350d",
+          "context": "Θρασύμαχον ἐρυθριῶντα"
+        },
+        {
+          "form": "ἱδρῶτος",
+          "lemma": "ἱδρώς",
+          "location": "350d",
+          "context": "μετὰ ἱδρῶτος θαυμαστοῦ ὅσου"
+        },
+        {
+          "form": "θέρους",
+          "lemma": "θέρος",
+          "location": "350d",
+          "context": "ἅτε καὶ θέρους ὄντος"
+        }
+      ],
+      "observation": "Thrasymachus blushes (ἐρυθριῶντα)—said to be the first time Socrates has seen this—accompanied by extraordinary sweat (ἱδρῶτος θαυμαστοῦ) in summer (θέρους ὄντος). A bodily cluster marking the moment of concession."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δικασταί",
+          "lemma": "δικαστής",
+          "location": "348b",
+          "context": "ἅμα αὐτοί τε δικασταὶ καὶ ῥήτορες ἐσόμεθα"
+        },
+        {
+          "form": "δικαστῶν",
+          "lemma": "δικαστής",
+          "location": "348b",
+          "context": "δικαστῶν τινων τῶν διακρινόντων δεησόμεθα"
+        }
+      ],
+      "observation": "Socrates contrasts two procedures: one requiring external δικασταί to count and measure, another where the interlocutors are simultaneously δικασταί and ῥήτορες themselves."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "στάσεις",
+          "lemma": "στάσις",
+          "location": "351d",
+          "context": "στάσεις γάρ που, ὦ Θρασύμαχε, ἥ γε ἀδικία καὶ μίση καὶ μάχας ἐν ἀλλήλοις παρέχει"
+        },
+        {
+          "form": "στασιάζειν",
+          "lemma": "στασιάζω",
+          "location": "351e",
+          "context": "μισεῖν ποιήσει ἀλλήλους καὶ στασιάζειν"
+        },
+        {
+          "form": "στασιάζειν",
+          "lemma": "στασιάζω",
+          "location": "352a",
+          "context": "διὰ τὸ στασιάζειν καὶ διαφέρεσθαι"
+        },
+        {
+          "form": "στασιάζοντα",
+          "lemma": "στασιάζω",
+          "location": "352a",
+          "context": "στασιάζοντα καὶ οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ"
+        }
+      ],
+      "observation": "στάσις/στασιάζω recurs across the descent from group to individual: injustice produces faction in cities, in pairs, and within a single person at war with himself."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πόλιν",
+          "lemma": "πόλις",
+          "location": "351b",
+          "context": "πόλιν φαίης ἂν ἄδικον εἶναι"
+        },
+        {
+          "form": "δυοῖν",
+          "lemma": "δύο",
+          "location": "351e",
+          "context": "τί δὲ ἂν ἐν δυοῖν ἐγγένηται"
+        },
+        {
+          "form": "ἐν ἑνὶ",
+          "lemma": null,
+          "location": "351e",
+          "context": "ἐὰν δὲ δή, ὦ θαυμάσιε, ἐν ἑνὶ ἐγγένηται ἀδικία"
+        }
+      ],
+      "observation": "The argument scales injustice's effects through a descending sequence: πόλις → στρατόπεδον/ἔθνος → δυοῖν → ἐν ἑνί."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ὁμόνοιαν",
+          "lemma": "ὁμόνοια",
+          "location": "351d",
+          "context": "ἡ δὲ δικαιοσύνη ὁμόνοιαν καὶ φιλίαν"
+        },
+        {
+          "form": "φιλίαν",
+          "lemma": "φιλία",
+          "location": "351d",
+          "context": null
+        },
+        {
+          "form": "μίση",
+          "lemma": "μῖσος",
+          "location": "351d",
+          "context": "ἀδικία καὶ μίση καὶ μάχας"
+        },
+        {
+          "form": "μάχας",
+          "lemma": "μάχη",
+          "location": "351d",
+          "context": null
+        }
+      ],
+      "observation": "Injustice produces μίση and μάχαι; justice produces ὁμόνοια and φιλία—a paired contrast of what each generates."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐχθρὸν",
+          "lemma": "ἐχθρός",
+          "location": "352a",
+          "context": "ἐχθρὸν εἶναι ἑαυτῷ τε καὶ τῷ ἐναντίῳ παντὶ καὶ τῷ δικαίῳ"
+        },
+        {
+          "form": "θεοῖς",
+          "lemma": "θεός",
+          "location": "352a",
+          "context": "δίκαιοι δέ γ᾽ εἰσίν, ὦ φίλε, καὶ οἱ θεοί"
+        },
+        {
+          "form": "ἐχθρὸς",
+          "lemma": "ἐχθρός",
+          "location": "352b",
+          "context": "καὶ θεοῖς ἄρα ἐχθρὸς ἔσται ὁ ἄδικος"
+        },
+        {
+          "form": "φίλος",
+          "lemma": "φίλος",
+          "location": "352b",
+          "context": "ὁ δὲ δίκαιος φίλος"
+        }
+      ],
+      "observation": "The unjust person is declared ἐχθρός to self, to the just, and to the gods; the just person is φίλος to the gods. The gods are introduced as δίκαιοι."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τελέαν",
+          "lemma": "τέλειος",
+          "location": "348b",
+          "context": "τὴν τελέαν ἀδικίαν τελέας οὔσης δικαιοσύνης λυσιτελεστέραν"
+        },
+        {
+          "form": "τελέως",
+          "lemma": "τελέως",
+          "location": "348d",
+          "context": "οἵ γε τελέως οἷοί τε ἀδικεῖν"
+        },
+        {
+          "form": "τελέως",
+          "lemma": "τελέως",
+          "location": "352c",
+          "context": "παμπόνηροι καὶ τελέως ἄδικοι τελέως εἰσὶ καὶ πράττειν ἀδύνατοι"
+        }
+      ],
+      "observation": "τέλειος/τελέως appears first in Thrasymachus's claim about complete injustice being more profitable, then in his qualification about complete wrongdoers, and finally in the conclusion that the completely unjust are completely unable to act."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γραυσὶν",
+          "lemma": "γραῦς",
+          "location": "350e",
+          "context": "ὥσπερ ταῖς γραυσὶν ταῖς τοὺς μύθους λεγούσαις"
+        },
+        {
+          "form": "κατανεύσομαι",
+          "lemma": "κατανεύω",
+          "location": "350e",
+          "context": "εἶεν ἐρῶ καὶ κατανεύσομαι καὶ ἀνανεύσομαι"
+        }
+      ],
+      "observation": "Thrasymachus compares Socrates' method to old women telling stories (γραυσίν τοὺς μύθους λεγούσαις) and says he will nod and shake his head—reducing his participation to silent gesture."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἑστιάσεως",
+          "lemma": "ἑστίασις",
+          "location": "352b",
+          "context": "τὰ λοιπά μοι τῆς ἑστιάσεως ἀποπλήρωσον"
+        },
+        {
+          "form": "δημηγορεῖν",
+          "lemma": "δημηγορέω",
+          "location": "350e",
+          "context": "δημηγορεῖν ἄν με φαίης"
+        }
+      ],
+      "observation": "Socrates uses ἑστίασις (feast) for the remainder of the argument, asking Thrasymachus to fill out the banquet by answering; Thrasymachus had earlier threatened to δημηγορεῖν—two competing metaphors for discourse."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄμεινον ζῶσιν",
+          "lemma": null,
+          "location": "352d",
+          "context": "εἰ δὲ καὶ ἄμεινον ζῶσιν οἱ δίκαιοι τῶν ἀδίκων"
+        },
+        {
+          "form": "εὐδαιμονέστεροί",
+          "lemma": "εὐδαίμων",
+          "location": "352d",
+          "context": "καὶ εὐδαιμονέστεροί εἰσιν"
+        },
+        {
+          "form": "ὅντινα τρόπον χρὴ ζῆν",
+          "lemma": null,
+          "location": "352d",
+          "context": "ἀλλὰ περὶ τοῦ ὅντινα τρόπον χρὴ ζῆν"
+        }
+      ],
+      "observation": "The section closes by framing the remaining question as περὶ τοῦ ὅντινα τρόπον χρὴ ζῆν—how one must live—and notes this concerns no trivial matter (οὐ περὶ τοῦ ἐπιτυχόντος)."
+    }
+  ]
+}

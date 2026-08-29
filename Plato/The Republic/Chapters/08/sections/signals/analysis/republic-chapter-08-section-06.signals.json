@@ -1,0 +1,603 @@
+{
+  "section_id": "republic-chapter-08-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πλουσιώτατον",
+          "lemma": "πλούσιος",
+          "location": "555b",
+          "context": "τοῦ ὡς πλουσιώτατον δεῖν γίγνεσθαι"
+        },
+        {
+          "form": "πλουσιώτεροι",
+          "lemma": "πλούσιος",
+          "location": "555c",
+          "context": "ἔτι πλουσιώτεροι καὶ ἐντιμότεροι γίγνωνται"
+        },
+        {
+          "form": "πλοῦτον",
+          "lemma": "πλοῦτος",
+          "location": "555c",
+          "context": "πλοῦτον τιμᾶν καὶ σωφροσύνην"
+        },
+        {
+          "form": "πλουσίων",
+          "lemma": "πλούσιος",
+          "location": "556d",
+          "context": "καταφρονῶνται οἱ πένητες ὑπὸ τῶν πλουσίων"
+        },
+        {
+          "form": "πλουσίῳ",
+          "lemma": "πλούσιος",
+          "location": "556d",
+          "context": "παραταχθεὶς ἐν μάχῃ πλουσίῳ ἐσκιατροφηκότι"
+        },
+        {
+          "form": "πλουτεῖν",
+          "lemma": "πλουτέω",
+          "location": "556d",
+          "context": "κακίᾳ τῇ σφετέρᾳ πλουτεῖν τοὺς τοιούτους"
+        }
+      ],
+      "observation": "The πλοῦτος/πλούσιος family recurs densely through the oligarchic description, appearing in comparative, superlative, noun, and verb forms."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πένητας",
+          "lemma": "πένης",
+          "location": "555d",
+          "context": "οὐκ ἀγεννεῖς ἐνίοτε ἀνθρώπους πένητας ἠνάγκασαν γενέσθαι"
+        },
+        {
+          "form": "πένητες",
+          "lemma": "πένης",
+          "location": "556d",
+          "context": "μηδαμῇ ταύτῃ καταφρονῶνται οἱ πένητες ὑπὸ τῶν πλουσίων"
+        },
+        {
+          "form": "πένης",
+          "lemma": "πένης",
+          "location": "556d",
+          "context": "ἰσχνὸς ἀνὴρ πένης, ἡλιωμένος"
+        },
+        {
+          "form": "πένητας",
+          "lemma": "πένης",
+          "location": "556c",
+          "context": "οὐδὲν πλείω ἐπιμέλειαν πεποιημένους ἀρετῆς ἢ τοὺς πένητας"
+        },
+        {
+          "form": "πένητες",
+          "lemma": "πένης",
+          "location": "557a",
+          "context": "ὅταν οἱ πένητες νικήσαντες"
+        }
+      ],
+      "observation": "πένης recurs across the section, marking those forced into poverty, then set against the rich in battle, then victorious in revolution."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πλοῦτον τιμᾶν",
+          "lemma": null,
+          "location": "555c",
+          "context": "πλοῦτον τιμᾶν καὶ σωφροσύνην ἅμα ἱκανῶς κτᾶσθαι"
+        },
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "555d",
+          "context": null
+        }
+      ],
+      "observation": "Honoring wealth and acquiring σωφροσύνη simultaneously are declared ἀδύνατον—an explicit impossibility."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κεκεντρωμένοι",
+          "lemma": "κεντρόω",
+          "location": "555d",
+          "context": null
+        },
+        {
+          "form": "ἐξωπλισμένοι",
+          "lemma": "ἐξοπλίζω",
+          "location": "555d",
+          "context": null
+        },
+        {
+          "form": "ὀφείλοντες χρέα",
+          "lemma": null,
+          "location": "555d",
+          "context": null
+        },
+        {
+          "form": "ἄτιμοι",
+          "lemma": "ἄτιμος",
+          "location": "555d",
+          "context": null
+        },
+        {
+          "form": "μισοῦντές",
+          "lemma": "μισέω",
+          "location": "555d",
+          "context": null
+        },
+        {
+          "form": "ἐπιβουλεύοντες",
+          "lemma": "ἐπιβουλεύω",
+          "location": "555d",
+          "context": null
+        },
+        {
+          "form": "νεωτερισμοῦ ἐρῶντες",
+          "lemma": null,
+          "location": "555d-e",
+          "context": null
+        }
+      ],
+      "observation": "A dense cluster describes the impoverished: stung, armed, in debt, disenfranchised, hating, plotting, and desiring revolution."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τιτρώσκοντες",
+          "lemma": "τιτρώσκω",
+          "location": "555e",
+          "context": "ἐνιέντες ἀργύριον τιτρώσκοντες"
+        },
+        {
+          "form": "τοῦ πατρὸς ἐκγόνους τόκους",
+          "lemma": null,
+          "location": "555e",
+          "context": null
+        },
+        {
+          "form": "κηφῆνα",
+          "lemma": "κηφήν",
+          "location": "556a",
+          "context": "πολὺν τὸν κηφῆνα καὶ πτωχὸν ἐμποιοῦσι τῇ πόλει"
+        }
+      ],
+      "observation": "Money-lending is described through wounding (τιτρώσκοντες) and biological generation (πατρός, ἐκγόνους, τόκους), producing drones and beggars in the city."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τόκους",
+          "lemma": "τόκος",
+          "location": "555e",
+          "context": "τοῦ πατρὸς ἐκγόνους τόκους πολλαπλασίους κομιζόμενοι"
+        }
+      ],
+      "observation": "τόκους carries the double sense of 'interest' and 'offspring,' placed alongside πατρός and ἐκγόνους so that financial and biological generation overlap."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "νοσῶδες",
+          "lemma": "νοσώδης",
+          "location": "556e",
+          "context": "σῶμα νοσῶδες μικρᾶς ῥοπῆς ἔξωθεν δεῖται"
+        },
+        {
+          "form": "στασιάζει αὐτὸ αὑτῷ",
+          "lemma": null,
+          "location": "556e",
+          "context": null
+        },
+        {
+          "form": "νοσεῖ",
+          "lemma": "νοσέω",
+          "location": "556e",
+          "context": "νοσεῖ τε καὶ αὐτὴ αὑτῇ μάχεται"
+        },
+        {
+          "form": "στασιάζει",
+          "lemma": "στασιάζω",
+          "location": "556e",
+          "context": null
+        }
+      ],
+      "observation": "Body and city are set in explicit parallel: each is diseased (νοσῶδες/νοσεῖ), each experiences internal faction (στασιάζει αὐτὸ αὑτῷ / αὐτὴ αὑτῇ μάχεται)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποικίλον",
+          "lemma": "ποικίλος",
+          "location": "557c",
+          "context": "ὥσπερ ἱμάτιον ποικίλον πᾶσιν ἄνθεσι πεποικιλμένον"
+        },
+        {
+          "form": "πεποικιλμένον",
+          "lemma": "ποικίλλω",
+          "location": "557c",
+          "context": null
+        },
+        {
+          "form": "πεποικιλμένη",
+          "lemma": "ποικίλλω",
+          "location": "557c",
+          "context": "πᾶσιν ἤθεσιν πεποικιλμένη"
+        },
+        {
+          "form": "ποικίλα",
+          "lemma": "ποικίλος",
+          "location": "557c",
+          "context": "οἱ παῖδές τε καὶ αἱ γυναῖκες τὰ ποικίλα θεώμενοι"
+        },
+        {
+          "form": "ποικίλη",
+          "lemma": "ποικίλος",
+          "location": "558c",
+          "context": "ἡδεῖα πολιτεία καὶ ἄναρχος καὶ ποικίλη"
+        }
+      ],
+      "observation": "ποικίλος/ποικίλλω clusters around the garment simile then returns at the section's close, applied first to a garment with flowers, then to the city with characters, then to those who admire variegated things."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἰσχνὸς",
+          "lemma": "ἰσχνός",
+          "location": "556d",
+          "context": "ἰσχνὸς ἀνὴρ πένης, ἡλιωμένος"
+        },
+        {
+          "form": "ἐσκιατροφηκότι",
+          "lemma": "σκιατροφέω",
+          "location": "556d",
+          "context": "πλουσίῳ ἐσκιατροφηκότι"
+        },
+        {
+          "form": "ἡλιωμένος",
+          "lemma": "ἡλιόω",
+          "location": "556d",
+          "context": null
+        },
+        {
+          "form": "πολλὰς ἔχοντι σάρκας ἀλλοτρίας",
+          "lemma": null,
+          "location": "556d",
+          "context": null
+        }
+      ],
+      "observation": "The poor man is lean and sun-burnt; the rich man is shade-reared with abundant alien flesh—a bodily contrast set side by side in battle."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχοντες",
+          "lemma": "ἄρχω",
+          "location": "555c",
+          "context": "ἅτε οἶμαι ἄρχοντες ἐν αὐτῇ οἱ ἄρχοντες"
+        },
+        {
+          "form": "ἀρχομένους",
+          "lemma": "ἄρχω",
+          "location": "556b",
+          "context": "τοὺς μὲν δὴ ἀρχομένους οὕτω διατιθέασιν ἐν τῇ πόλει οἱ ἄρχοντες"
+        },
+        {
+          "form": "ἄρχοντες",
+          "lemma": "ἄρχω",
+          "location": "556c",
+          "context": "οἵ τε ἄρχοντες καὶ οἱ ἀρχόμενοι"
+        },
+        {
+          "form": "ἀρχόμενοι",
+          "lemma": "ἄρχω",
+          "location": "556c",
+          "context": null
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "557e",
+          "context": "μηδεμίαν ἀνάγκην εἶναι ἄρχειν"
+        },
+        {
+          "form": "ἄρχεσθαι",
+          "lemma": "ἄρχω",
+          "location": "557e",
+          "context": "μηδὲ αὖ ἄρχεσθαι"
+        },
+        {
+          "form": "ἄναρχος",
+          "lemma": "ἄναρχος",
+          "location": "558c",
+          "context": "ἡδεῖα πολιτεία καὶ ἄναρχος καὶ ποικίλη"
+        }
+      ],
+      "observation": "Forms of ἄρχω recur from oligarchy's rulers through the democratic section, where ruling and being ruled become optional, culminating in ἄναρχος—without rule."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐλεύθεροι",
+          "lemma": "ἐλεύθερος",
+          "location": "557b",
+          "context": null
+        },
+        {
+          "form": "ἐλευθερίας",
+          "lemma": "ἐλευθερία",
+          "location": "557b",
+          "context": "ἐλευθερίας ἡ πόλις μεστὴ καὶ παρρησίας"
+        },
+        {
+          "form": "ἐξουσία",
+          "lemma": "ἐξουσία",
+          "location": "557b",
+          "context": "ἐξουσία ἐν αὐτῇ ποιεῖν ὅτι τις βούλεται"
+        },
+        {
+          "form": "ἐξουσία",
+          "lemma": "ἐξουσία",
+          "location": "557b",
+          "context": "ὅπου δέ γε ἐξουσία"
+        },
+        {
+          "form": "ἐξουσίαν",
+          "lemma": "ἐξουσία",
+          "location": "557d",
+          "context": "πάντα γένη πολιτειῶν ἔχει διὰ τὴν ἐξουσίαν"
+        }
+      ],
+      "observation": "ἐλεύθερος/ἐλευθερία and ἐξουσία cluster in the characterization of democracy, with ἐξουσία recurring as the ground for containing all constitutions."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "παντοπώλιον",
+          "lemma": "παντοπώλιον",
+          "location": "557d",
+          "context": "ὥσπερ εἰς παντοπώλιον ἀφικομένῳ πολιτειῶν"
+        }
+      ],
+      "observation": "Democracy is compared to a παντοπώλιον (general store) of constitutions—a striking singular image."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀποκτείνωσι",
+          "lemma": "ἀποκτείνω",
+          "location": "557a",
+          "context": null
+        },
+        {
+          "form": "ἐκβάλωσι",
+          "lemma": "ἐκβάλλω",
+          "location": "557a",
+          "context": null
+        },
+        {
+          "form": "ἐξ ἴσου μεταδῶσι",
+          "lemma": null,
+          "location": "557a",
+          "context": "τοῖς δὲ λοιποῖς ἐξ ἴσου μεταδῶσι πολιτείας τε καὶ ἀρχῶν"
+        }
+      ],
+      "observation": "The founding of democracy is given as a three-step sequence: kill some, expel others, share constitution equally with the rest."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ἥρως",
+          "lemma": "ἥρως",
+          "location": "558a",
+          "context": "περινοστεῖ ὥσπερ ἥρως"
+        }
+      ],
+      "observation": "A man condemned to death or exile who remains and walks about is compared to a hero (ἥρως)—a striking simile."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "καλλίστη",
+          "lemma": "καλός",
+          "location": "557c",
+          "context": "καλλίστη αὕτη τῶν πολιτειῶν εἶναι"
+        },
+        {
+          "form": "καλλίστη",
+          "lemma": "καλός",
+          "location": "557c",
+          "context": "πᾶσιν ἤθεσιν πεποικιλμένη καλλίστη ἂν φαίνοιτο"
+        },
+        {
+          "form": "καλλίστην",
+          "lemma": "καλός",
+          "location": "557c",
+          "context": "καλλίστην ἂν πολλοὶ κρίνειαν"
+        },
+        {
+          "form": "καλοῖς",
+          "lemma": "καλός",
+          "location": "558b",
+          "context": "παῖς ὢν εὐθὺς παίζοι ἐν καλοῖς"
+        }
+      ],
+      "observation": "καλλίστη appears three times in close succession describing democracy's apparent beauty, then καλοῖς appears in the recalled principle about good upbringing that democracy tramples."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐξ ἴσου",
+          "lemma": null,
+          "location": "557a",
+          "context": "ἐξ ἴσου μεταδῶσι πολιτείας"
+        },
+        {
+          "form": "ἰσότητά τινα ὁμοίως ἴσοις τε καὶ ἀνίσοις διανέμουσα",
+          "lemma": null,
+          "location": "558c",
+          "context": null
+        }
+      ],
+      "observation": "Equal sharing (ἐξ ἴσου) describes democracy's founding; the section closes with democracy distributing a certain equality to equals and unequals alike (ἴσοις τε καὶ ἀνίσοις)."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θεωρίας",
+          "lemma": "θεωρία",
+          "location": "556c",
+          "context": "ἢ κατὰ θεωρίας ἢ κατὰ στρατείας"
+        },
+        {
+          "form": "θεώμενοι",
+          "lemma": "θεάομαι",
+          "location": "556d",
+          "context": "ἐν αὐτοῖς τοῖς κινδύνοις ἀλλήλους θεώμενοι"
+        },
+        {
+          "form": "θεώμενοι",
+          "lemma": "θεάομαι",
+          "location": "557c",
+          "context": "τὰ ποικίλα θεώμενοι"
+        }
+      ],
+      "observation": "θεωρία appears among occasions where rulers and ruled meet; θεάομαι then appears for observing each other in danger, and again for children and women gazing at variegated things."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐκκαόμενον",
+          "lemma": "ἐκκαίω",
+          "location": "556a",
+          "context": "τὸ τοιοῦτον κακὸν ἐκκαόμενον"
+        },
+        {
+          "form": "ἀποσβεννύναι",
+          "lemma": "ἀποσβέννυμι",
+          "location": "556a",
+          "context": "ἐθέλουσιν ἀποσβεννύναι"
+        }
+      ],
+      "observation": "The social evil is described as burning (ἐκκαόμενον) that the rulers refuse to extinguish (ἀποσβεννύναι)—a fire image."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "556a",
+          "context": "ἀναγκάζων ἀρετῆς ἐπιμελεῖσθαι τοὺς πολίτας"
+        },
+        {
+          "form": "ἀρετῆς",
+          "lemma": "ἀρετή",
+          "location": "556c",
+          "context": "οὐδὲν πλείω ἐπιμέλειαν πεποιημένους ἀρετῆς ἢ τοὺς πένητας"
+        }
+      ],
+      "observation": "ἀρετή appears first in the law that would compel citizens to care for it, then in the observation that rulers have cared for it no more than the poor."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κρίσιν",
+          "lemma": "κρίσις",
+          "location": "555b",
+          "context": "παραστησώμεθʼ αὐτὸν εἰς κρίσιν"
+        },
+        {
+          "form": "κρίνειαν",
+          "lemma": "κρίνω",
+          "location": "557c",
+          "context": "καλλίστην ἂν πολλοὶ κρίνειαν"
+        }
+      ],
+      "observation": "κρίσις opens the section as the judgment to which the democratic man will be brought; κρίνω later names the many's judgment that democracy is most beautiful."
+    }
+  ]
+}

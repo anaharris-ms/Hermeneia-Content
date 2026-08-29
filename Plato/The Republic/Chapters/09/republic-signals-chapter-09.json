@@ -1,0 +1,5394 @@
+{
+  "text_id": "urn:cts:greekLit:tlg0059.tlg030.perseus-grc2",
+  "author": "Plato",
+  "title": "The Republic",
+  "source": "republic.xml",
+  "chapter": 9,
+  "sections": [
+    {
+      "section_id": "republic-chapter-09-section-01",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "εὕδῃ",
+              "lemma": "εὕδω",
+              "location": "571c",
+              "context": "τὸ μὲν ἄλλο τῆς ψυχῆς εὕδῃ"
+            },
+            {
+              "form": "ἐγειρομένας",
+              "lemma": "ἐγείρω",
+              "location": "571c",
+              "context": "τὰς περὶ τὸν ὕπνον ἐγειρομένας"
+            },
+            {
+              "form": "ὕπνον",
+              "lemma": "ὕπνος",
+              "location": "571c",
+              "context": "ἀπωσάμενον τὸν ὕπνον"
+            },
+            {
+              "form": "ὕπνον",
+              "lemma": "ὕπνος",
+              "location": "571d",
+              "context": "εἰς τὸν ὕπνον ἴῃ"
+            },
+            {
+              "form": "κοιμηθῇ",
+              "lemma": "κοιμάω",
+              "location": "571e",
+              "context": null
+            },
+            {
+              "form": "καθεύδῃ",
+              "lemma": "καθεύδω",
+              "location": "572a",
+              "context": null
+            },
+            {
+              "form": "ἀναπαύηται",
+              "lemma": "ἀναπαύω",
+              "location": "572a",
+              "context": null
+            },
+            {
+              "form": "ὕπνοις",
+              "lemma": "ὕπνος",
+              "location": "572b",
+              "context": "ἐν τοῖς ὕπνοις"
+            },
+            {
+              "form": "ἐνυπνίων",
+              "lemma": "ἐνύπνιον",
+              "location": "572b",
+              "context": null
+            }
+          ],
+          "observation": "Sleep-related vocabulary recurs densely throughout: ὕπνος appears four times, supplemented by εὕδω, κοιμάω, καθεύδω, ἀναπαύω, and ἐνύπνιον. Waking (ἐγείρω) and pushing away sleep (ἀπωσάμενον τὸν ὕπνον) are set against these."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "θηριῶδές τε καὶ ἄγριον",
+              "lemma": null,
+              "location": "571c",
+              "context": null
+            },
+            {
+              "form": "λογιστικὸν καὶ ἥμερον καὶ ἄρχον",
+              "lemma": null,
+              "location": "571c",
+              "context": null
+            }
+          ],
+          "observation": "The soul's two parts are named with contrasting paired adjectives: λογιστικόν/ἥμερον/ἄρχον versus θηριῶδες/ἄγριον."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐγειρομένας",
+              "lemma": "ἐγείρω",
+              "location": "571c",
+              "context": "τὰς περὶ τὸν ὕπνον ἐγειρομένας"
+            },
+            {
+              "form": "ἐγείρας",
+              "lemma": "ἐγείρω",
+              "location": "571d",
+              "context": "τὸ λογιστικὸν μὲν ἐγείρας ἑαυτοῦ"
+            }
+          ],
+          "observation": "ἐγείρω first describes lawless desires awakening during sleep, then describes the temperate person deliberately awakening the rational part before sleep."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "πλησθέν",
+              "lemma": "πίμπλημι",
+              "location": "571c",
+              "context": "σίτων ἢ μέθης πλησθέν"
+            },
+            {
+              "form": "ἀποπιμπλάναι",
+              "lemma": "ἀποπίμπλημι",
+              "location": "571c",
+              "context": "ἀποπιμπλάναι τὰ αὑτοῦ ἤθη"
+            },
+            {
+              "form": "πλησμονῇ",
+              "lemma": "πλησμονή",
+              "location": "571e",
+              "context": "μήτε ἐνδείᾳ δοὺς μήτε πλησμονῇ"
+            }
+          ],
+          "observation": "The root πλη-/πιμπλ- recurs: the beast-part is filled with food or drink, seeks to fill its habits, and the temperate person avoids giving the desiring part either lack or fullness."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "παράνομοι",
+              "lemma": "παράνομος",
+              "location": "571b",
+              "context": null
+            },
+            {
+              "form": "παράνομοι",
+              "lemma": "παράνομος",
+              "location": "572a",
+              "context": "ἥκιστα παράνομοι τότε αἱ ὄψεις"
+            }
+          ],
+          "observation": "παράνομος appears first to characterize the unnecessary desires and returns to describe dream-visions that are least παράνομοι in the temperate sleeper."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "μητρί τε γὰρ ἐπιχειρεῖν μείγνυσθαι",
+              "lemma": null,
+              "location": "571c-d",
+              "context": null
+            },
+            {
+              "form": "μιαιφονεῖν",
+              "lemma": "μιαιφονέω",
+              "location": "571d",
+              "context": null
+            },
+            {
+              "form": "βρώματός τε ἀπέχεσθαι μηδενός",
+              "lemma": null,
+              "location": "571d",
+              "context": null
+            }
+          ],
+          "observation": "Three transgressive acts are listed as what the beast-part dares in sleep: incest with the mother, blood-pollution murder, and eating anything without restriction."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "local_contrast",
+            "structural_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "σίτων ἢ μέθης πλησθέν",
+              "lemma": null,
+              "location": "571c",
+              "context": null
+            },
+            {
+              "form": "ἑστιάσας λόγων καλῶν καὶ σκέψεων",
+              "lemma": null,
+              "location": "571d",
+              "context": null
+            }
+          ],
+          "observation": "Filling appears in contrasting contexts: the beast-part is filled with food and drink, while the rational part is feasted (ἑστιάσας) on fine arguments and inquiries."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "lexical_family",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "571a",
+              "context": "τὸ τῶν ἐπιθυμιῶν"
+            },
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "571b",
+              "context": "ἡδονῶν τε καὶ ἐπιθυμιῶν"
+            },
+            {
+              "form": "ἐπιθυμητικὸν",
+              "lemma": "ἐπιθυμητικός",
+              "location": "571e",
+              "context": "τὸ ἐπιθυμητικὸν δέ"
+            },
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "572b",
+              "context": "ἐπιθυμιῶν εἶδος ἑκάστῳ ἔνεστι"
+            }
+          ],
+          "observation": "ἐπιθυμία/ἐπιθυμητικός appears four times across the section, framing both the initial question and the concluding summary."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ζητῇ",
+              "lemma": "ζητέω",
+              "location": "571c",
+              "context": "ζητῇ ἰέναι καὶ ἀποπιμπλάναι"
+            },
+            {
+              "form": "ζήτησις",
+              "lemma": "ζήτησις",
+              "location": "571b",
+              "context": "ἀσαφεστέρα ἔσται ἡ ζήτησις"
+            },
+            {
+              "form": "ζητοῦμεν",
+              "lemma": "ζητέω",
+              "location": "571b",
+              "context": "ζήτησις οὗ ζητοῦμεν"
+            }
+          ],
+          "observation": "ζητέω/ζήτησις appears for the philosophical inquiry (ζήτησις οὗ ζητοῦμεν) and for the beast-part's seeking to go and satisfy itself (ζητῇ ἰέναι)."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ἡσυχάσας μὲν τὼ δύο εἴδη",
+              "lemma": null,
+              "location": "572a",
+              "context": null
+            },
+            {
+              "form": "τὸ τρίτον δὲ κινήσας",
+              "lemma": null,
+              "location": "572a",
+              "context": "τὸ τρίτον δὲ κινήσας ἐν ᾧ τὸ φρονεῖν ἐγγίγνεται"
+            }
+          ],
+          "observation": "The temperate person's preparation for sleep involves quieting two parts (τὼ δύο εἴδη) and stirring the third (τὸ τρίτον), a numbered sequence of stilling and activating."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐνδείᾳ",
+              "lemma": "ἔνδεια",
+              "location": "571e",
+              "context": "μήτε ἐνδείᾳ δοὺς μήτε πλησμονῇ"
+            },
+            {
+              "form": "πλησμονῇ",
+              "lemma": "πλησμονή",
+              "location": "571e",
+              "context": null
+            }
+          ],
+          "observation": "ἔνδεια and πλησμονή are set as the two extremes to be avoided in the desiring part, a μήτε…μήτε pairing."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἄγριον",
+              "lemma": "ἄγριος",
+              "location": "571c",
+              "context": "τὸ δὲ θηριῶδές τε καὶ ἄγριον"
+            },
+            {
+              "form": "ἄγριον",
+              "lemma": "ἄγριος",
+              "location": "572b",
+              "context": "δεινόν τι καὶ ἄγριον καὶ ἄνομον"
+            }
+          ],
+          "observation": "ἄγριον appears in the initial description of the beast-part and returns in the concluding summary characterizing the species of desires present in everyone."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "λελυμένον τε καὶ ἀπηλλαγμένον αἰσχύνης καὶ φρονήσεως",
+              "lemma": null,
+              "location": "571c",
+              "context": null
+            }
+          ],
+          "observation": "The beast-part in sleep is described as released and freed from both shame (αἰσχύνη) and intelligence (φρόνησις), a pair of perfect passive participles governing two abstract genitives."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "ποθῶ",
+              "lemma": "ποθέω",
+              "location": "571a",
+              "context": "ὃ ποθῶ ἔτι"
+            },
+            {
+              "form": "διῃρῆσθαι",
+              "lemma": "διαιρέω",
+              "location": "571a",
+              "context": "οὔ μοι δοκοῦμεν ἱκανῶς διῃρῆσθαι"
+            },
+            {
+              "form": "ὃ δὲ βουλόμεθα γνῶναι τόδʼ ἐστίν",
+              "lemma": null,
+              "location": "572b",
+              "context": null
+            }
+          ],
+          "observation": "Socrates opens by stating what he still desires (ποθῶ) and what has not been sufficiently divided (διῃρῆσθαι); the section closes by restating what we wish to know (βουλόμεθα γνῶναι), framing the sleep-discussion as fulfilling that stated need."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἀληθείας",
+              "lemma": "ἀλήθεια",
+              "location": "572a",
+              "context": "τῆς τʼ ἀληθείας μάλιστα ἅπτεται"
+            },
+            {
+              "form": "ὄψεις",
+              "lemma": "ὄψις",
+              "location": "572a",
+              "context": "αἱ ὄψεις φαντάζονται τῶν ἐνυπνίων"
+            }
+          ],
+          "observation": "The temperate sleeper's rational part touches truth (ἀληθείας ἅπτεται) and the dream-visions (ὄψεις ἐνυπνίων) that appear are least lawless—truth-contact and lawful vision correspond."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ἄθλιον ἢ μακάριον",
+              "lemma": null,
+              "location": "571a",
+              "context": "τίνα τρόπον ζῇ, ἄθλιον ἢ μακάριον"
+            }
+          ],
+          "observation": "The tyrannical man's life is framed at the outset as a question between two extremes: wretched (ἄθλιον) or blessed (μακάριον)."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "κολαζόμεναι",
+              "lemma": "κολάζω",
+              "location": "571b",
+              "context": "κολαζόμεναι δὲ ὑπό τε τῶν νόμων"
+            },
+            {
+              "form": "νόμων",
+              "lemma": "νόμος",
+              "location": "571b",
+              "context": null
+            },
+            {
+              "form": "παράνομοι",
+              "lemma": "παράνομος",
+              "location": "571b",
+              "context": null
+            },
+            {
+              "form": "ἄνομον",
+              "lemma": "ἄνομος",
+              "location": "572b",
+              "context": null
+            }
+          ],
+          "observation": "νόμος and its negations cluster: lawless desires (παράνομοι) are punished by laws (νόμων), and the concluding summary uses ἄνομον."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-02",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "structural_recurrence",
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "τεθραμμένος",
+              "lemma": "τρέφω",
+              "location": "572c",
+              "context": "ὑπὸ φειδωλῷ πατρὶ τεθραμμένος"
+            },
+            {
+              "form": "τεθραμμένον",
+              "lemma": "τρέφω",
+              "location": "572d",
+              "context": "ἐν τοῖς τούτου αὖ ἤθεσιν τεθραμμένον"
+            },
+            {
+              "form": "τρέφουσαι",
+              "lemma": "τρέφω",
+              "location": "573a",
+              "context": "αὔξουσαί τε καὶ τρέφουσαι πόθου κέντρον"
+            }
+          ],
+          "observation": "τρέφω appears three times: the democratic man reared by his father, the son reared in the father's habits, and the desires that nourish the sting of longing in the drone. The agent of rearing shifts from father to father to desires."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιθυμίας",
+              "lemma": "ἐπιθυμία",
+              "location": "572c",
+              "context": "τὰς χρηματιστικὰς ἐπιθυμίας τιμῶντι"
+            },
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "572c",
+              "context": "μεστοῖς … ἐπιθυμιῶν"
+            },
+            {
+              "form": "ἐπιθυμίαις",
+              "lemma": "ἐπιθυμία",
+              "location": "572e",
+              "context": "ταῖς ἐν μέσῳ ταύταις ἐπιθυμίαις"
+            },
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "573a",
+              "context": "τῶν ἀργῶν … ἐπιθυμιῶν"
+            },
+            {
+              "form": "ἐπιθυμίαι",
+              "lemma": "ἐπιθυμία",
+              "location": "573a",
+              "context": "αἱ ἄλλαι ἐπιθυμίαι"
+            },
+            {
+              "form": "ἐπιθυμίας",
+              "lemma": "ἐπιθυμία",
+              "location": "573b",
+              "context": "δόξας ἢ ἐπιθυμίας … χρηστάς"
+            }
+          ],
+          "observation": "ἐπιθυμία recurs six times across the section, shifting from money-making desires honored by the father, to the desires of sophisticated men, to middle desires, to idle desires needing a champion, to buzzing desires, to good desires that are killed."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τιμῶντι",
+              "lemma": "τιμάω",
+              "location": "572c",
+              "context": "τὰς χρηματιστικὰς ἐπιθυμίας τιμῶντι"
+            },
+            {
+              "form": "ἀτιμάζοντι",
+              "lemma": "ἀτιμάζω",
+              "location": "572c",
+              "context": "τὰς δὲ μὴ ἀναγκαίους … ἀτιμάζοντι"
+            }
+          ],
+          "observation": "τιμῶντι and ἀτιμάζοντι are set in direct contrast describing the father's honoring of money-making desires and dishonoring of unnecessary ones."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἀμφοτέρωσε",
+              "lemma": "ἀμφοτέρωσε",
+              "location": "572c",
+              "context": "ἀγόμενος ἀμφοτέρωσε"
+            },
+            {
+              "form": "εἰς μέσον",
+              "lemma": null,
+              "location": "572d",
+              "context": "κατέστη εἰς μέσον ἀμφοῖν τοῖν τρόποιν"
+            },
+            {
+              "form": "ἐν μέσῳ",
+              "lemma": "μέσος",
+              "location": "572e",
+              "context": "ταῖς ἐν μέσῳ ταύταις ἐπιθυμίαις"
+            }
+          ],
+          "observation": "The democratic man is pulled in both directions and settles into the middle between the two ways; the middle desires later receive aid from his son's father."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀγόμενος",
+              "lemma": "ἄγω",
+              "location": "572c",
+              "context": "ἀγόμενος ἀμφοτέρωσε"
+            },
+            {
+              "form": "ἀγόμενόν",
+              "lemma": "ἄγω",
+              "location": "572d",
+              "context": "ἀγόμενόν τε εἰς πᾶσαν παρανομίαν"
+            },
+            {
+              "form": "ἀγόντων",
+              "lemma": "ἄγω",
+              "location": "572e",
+              "context": "ὀνομαζομένην δʼ ὑπὸ τῶν ἀγόντων ἐλευθερίαν"
+            }
+          ],
+          "observation": "ἄγω recurs three times: the democratic father is led in both directions; his son is led into lawlessness; and those who lead rename lawlessness as freedom."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "παρανομίαν",
+              "lemma": "παρανομία",
+              "location": "572e",
+              "context": "ἀγόμενόν τε εἰς πᾶσαν παρανομίαν"
+            },
+            {
+              "form": "ἐλευθερίαν",
+              "lemma": "ἐλευθερία",
+              "location": "572e",
+              "context": "ὀνομαζομένην δʼ ὑπὸ τῶν ἀγόντων ἐλευθερίαν ἅπασαν"
+            }
+          ],
+          "observation": "What is παρανομία is renamed ἐλευθερία by those who lead the youth; the two terms are set in explicit contrast through the act of naming."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "μάγοι",
+              "lemma": "μάγος",
+              "location": "572e",
+              "context": "οἱ δεινοὶ μάγοι τε καὶ τυραννοποιοί"
+            },
+            {
+              "form": "τυραννοποιοί",
+              "lemma": "τυραννοποιός",
+              "location": "572e",
+              "context": null
+            },
+            {
+              "form": "μηχανωμένους",
+              "lemma": "μηχανάομαι",
+              "location": "572e",
+              "context": "ἔρωτά τινα αὐτῷ μηχανωμένους ἐμποιῆσαι"
+            }
+          ],
+          "observation": "The corrupters are called δεινοὶ μάγοι and τυραννοποιοί; their action is μηχανάομαι—they contrive to implant an eros. A cluster of craft and artifice surrounds the production of tyranny."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "κηφῆνά",
+              "lemma": "κηφήν",
+              "location": "573a",
+              "context": "ὑπόπτερον καὶ μέγαν κηφῆνά τινα"
+            },
+            {
+              "form": "βομβοῦσαι",
+              "lemma": "βομβέω",
+              "location": "573a",
+              "context": "περὶ αὐτὸν βομβοῦσαι αἱ ἄλλαι ἐπιθυμίαι"
+            },
+            {
+              "form": "κέντρον",
+              "lemma": "κέντρον",
+              "location": "573a",
+              "context": "πόθου κέντρον ἐμποιήσωσι τῷ κηφῆνι"
+            }
+          ],
+          "observation": "A bee/drone cluster: eros is a winged great drone; other desires buzz around it; they implant a sting of longing in the drone."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "θυμιαμάτων",
+              "lemma": "θυμίαμα",
+              "location": "573a",
+              "context": null
+            },
+            {
+              "form": "μύρων",
+              "lemma": "μύρον",
+              "location": "573a",
+              "context": null
+            },
+            {
+              "form": "στεφάνων",
+              "lemma": "στέφανος",
+              "location": "573a",
+              "context": null
+            },
+            {
+              "form": "οἴνων",
+              "lemma": "οἶνος",
+              "location": "573a",
+              "context": null
+            },
+            {
+              "form": "ἡδονῶν ἀνειμένων",
+              "lemma": null,
+              "location": "573a",
+              "context": "τῶν ἐν ταῖς τοιαύταις συνουσίαις ἡδονῶν ἀνειμένων"
+            }
+          ],
+          "observation": "A dense cluster of sensory-luxury items—incense, perfumes, garlands, wines, and loosened pleasures—characterizes the atmosphere surrounding the desires that nourish eros."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "προστάτην",
+              "lemma": "προστάτης",
+              "location": "572e",
+              "context": "ἔρωτά τινα … προστάτην τῶν ἀργῶν … ἐπιθυμιῶν"
+            },
+            {
+              "form": "προστάτης",
+              "lemma": "προστάτης",
+              "location": "573b",
+              "context": "οὗτος ὁ προστάτης τῆς ψυχῆς"
+            }
+          ],
+          "observation": "προστάτης first names the role eros is contrived to fill—champion of idle desires—and returns as the title of the maddened leader of the soul."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "σωφροσύνης",
+              "lemma": "σωφροσύνη",
+              "location": "573b",
+              "context": "ἕως ἂν καθήρῃ σωφροσύνης"
+            },
+            {
+              "form": "μανίας",
+              "lemma": "μανία",
+              "location": "573b",
+              "context": "μανίας δὲ πληρώσῃ ἐπακτοῦ"
+            }
+          ],
+          "observation": "σωφροσύνη is purged out while imported μανία is filled in; the two are set in explicit opposition through the verbs καθαίρω and πληρόω."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "μανίας",
+              "lemma": "μανία",
+              "location": "573a",
+              "context": "δορυφορεῖταί τε ὑπὸ μανίας"
+            },
+            {
+              "form": "μανίας",
+              "lemma": "μανία",
+              "location": "573b",
+              "context": "μανίας δὲ πληρώσῃ ἐπακτοῦ"
+            }
+          ],
+          "observation": "μανία appears twice in close succession: first as the bodyguard of eros, then as imported madness that fills the soul after temperance is purged."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ἀποκτείνει",
+              "lemma": "ἀποκτείνω",
+              "location": "573b",
+              "context": null
+            },
+            {
+              "form": "ἔξω ὠθεῖ",
+              "lemma": null,
+              "location": "573b",
+              "context": "ἔξω ὠθεῖ παρʼ αὑτοῦ"
+            }
+          ],
+          "observation": "The tyrannical eros kills and thrusts out good opinions and desires—violent expulsion actions applied to internal psychic contents."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἐμποιῆσαι",
+              "lemma": "ἐμποιέω",
+              "location": "572e",
+              "context": "ἔρωτά τινα αὐτῷ μηχανωμένους ἐμποιῆσαι"
+            },
+            {
+              "form": "ἐμποιήσωσι",
+              "lemma": "ἐμποιέω",
+              "location": "573a",
+              "context": "πόθου κέντρον ἐμποιήσωσι τῷ κηφῆνι"
+            }
+          ],
+          "observation": "ἐμποιέω recurs: the tyrant-makers contrive to implant an eros, then the buzzing desires implant a sting of longing in the drone."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "θές",
+              "lemma": "τίθημι",
+              "location": "572d",
+              "context": "θὲς τοίνυν … νέον ὑὸν"
+            },
+            {
+              "form": "τίθημι",
+              "lemma": "τίθημι",
+              "location": "572d",
+              "context": null
+            },
+            {
+              "form": "τίθει",
+              "lemma": "τίθημι",
+              "location": "572d",
+              "context": "τίθει τοίνυν καὶ τὰ αὐτὰ ἐκεῖνα"
+            }
+          ],
+          "observation": "A rapid three-step exchange: Socrates commands θές, the interlocutor accepts with τίθημι, and Socrates immediately issues τίθει again—a sequence of hypothesis-setting."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "δορυφορεῖται",
+              "lemma": "δορυφορέω",
+              "location": "573a",
+              "context": "δορυφορεῖταί τε ὑπὸ μανίας"
+            },
+            {
+              "form": "οἰστρᾷ",
+              "lemma": "οἰστράω",
+              "location": "573b",
+              "context": "οἰστρᾷ οὗτος ὁ προστάτης τῆς ψυχῆς"
+            }
+          ],
+          "observation": "The eros-champion is both bodyguarded by madness and stung into frenzy—two striking verbs applied to the same figure in immediate succession."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "γένεσιν",
+              "lemma": "γένεσις",
+              "location": "573b",
+              "context": "τυραννικοῦ ἀνδρὸς λέγεις γένεσιν"
+            },
+            {
+              "form": "γεγονώς",
+              "lemma": "γίγνομαι",
+              "location": "572d",
+              "context": "δημοτικὸς ἐξ ὀλιγαρχικοῦ γεγονώς"
+            }
+          ],
+          "observation": "The section begins with the democratic man having come-to-be (γεγονώς) from oligarchic origins and closes with the interlocutor naming what has been described as the γένεσις of the tyrannical man."
+        },
+        {
+          "signal_id": "s018",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "παράνομον",
+              "lemma": "παράνομος",
+              "location": "572d",
+              "context": "οὔτε ἀνελεύθερον οὔτε παράνομον βίον ζῇ"
+            },
+            {
+              "form": "παρανομίαν",
+              "lemma": "παρανομία",
+              "location": "572e",
+              "context": "ἀγόμενόν τε εἰς πᾶσαν παρανομίαν"
+            }
+          ],
+          "observation": "The democratic father lives a life that is not παράνομος; his son is led into total παρανομία."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-03",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "exact_repetition",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "τύραννος",
+              "lemma": "τύραννος",
+              "location": "573b",
+              "context": "τύραννος ὁ Ἔρως λέγεται"
+            },
+            {
+              "form": "τύραννος",
+              "lemma": "τύραννος",
+              "location": "573d",
+              "context": "Ἔρως τύραννος ἔνδον οἰκῶν"
+            }
+          ],
+          "observation": "Eros is twice called τύραννος, first as a traditional saying, then as an indwelling ruler of the soul."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "τυραννικόν",
+              "lemma": "τυραννικός",
+              "location": "573b",
+              "context": "μεθυσθεὶς ἀνὴρ τυραννικόν τι φρόνημα"
+            },
+            {
+              "form": "τυραννικός",
+              "lemma": "τυραννικός",
+              "location": "573c",
+              "context": "τυραννικὸς δέ … ἀνὴρ ἀκριβῶς γίγνεται"
+            },
+            {
+              "form": "τυραννικῶν",
+              "lemma": "τυραννικός",
+              "location": "574b",
+              "context": "μή τι δρᾶσαι τῶν τυραννικῶν"
+            },
+            {
+              "form": "τυραννικὸν",
+              "lemma": "τυραννικός",
+              "location": "574c",
+              "context": "τὸ τυραννικὸν ὑὸν τεκεῖν"
+            },
+            {
+              "form": "τυραννικῶς",
+              "lemma": "τυραννικός",
+              "location": "575a",
+              "context": "τυραννικῶς ἐν αὐτῷ ὁ Ἔρως"
+            }
+          ],
+          "observation": "τυραννικός recurs across the section, applied successively to a disposition, a man, actions toward parents, begetting a son, and Eros's mode of dwelling."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "Ἔρως",
+              "lemma": "Ἔρως",
+              "location": "573b",
+              "context": "τύραννος ὁ Ἔρως"
+            },
+            {
+              "form": "ἐρωτικός",
+              "lemma": "ἐρωτικός",
+              "location": "573c",
+              "context": "ἐρωτικὸς καὶ μελαγχολικός"
+            },
+            {
+              "form": "Ἔρως",
+              "lemma": "Ἔρως",
+              "location": "573d",
+              "context": "Ἔρως τύραννος ἔνδον οἰκῶν"
+            },
+            {
+              "form": "Ἔρωτος",
+              "lemma": "Ἔρως",
+              "location": "573e",
+              "context": "ὑπʼ αὐτοῦ τοῦ Ἔρωτος"
+            },
+            {
+              "form": "ἔρωτα",
+              "lemma": "ἔρως",
+              "location": "574d",
+              "context": "δορυφοροῦσαι τὸν ἔρωτα"
+            },
+            {
+              "form": "Ἔρωτος",
+              "lemma": "Ἔρως",
+              "location": "574e",
+              "context": "τυραννευθεὶς δὲ ὑπὸ Ἔρωτος"
+            },
+            {
+              "form": "Ἔρως",
+              "lemma": "Ἔρως",
+              "location": "575a",
+              "context": "ὁ Ἔρως ἐν πάσῃ ἀναρχίᾳ καὶ ἀνομίᾳ ζῶν"
+            }
+          ],
+          "observation": "Eros recurs throughout the section as agent, ruler, and object of service, accumulating political predicates."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "δορυφόροις",
+              "lemma": "δορυφόρος",
+              "location": "573e",
+              "context": "πάσαις ταῖς ἄλλαις ὥσπερ δορυφόροις ἡγουμένου"
+            },
+            {
+              "form": "δορυφοροῦσαι",
+              "lemma": "δορυφορέω",
+              "location": "574d",
+              "context": "δορυφοροῦσαι τὸν ἔρωτα"
+            }
+          ],
+          "observation": "The bodyguard image (δορυφόρος/δορυφορέω) appears twice: first the other desires serve as bodyguards to Eros, then the newly freed opinions act as bodyguards to eros."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "νεωστὶ φίλης",
+              "lemma": null,
+              "location": "574b",
+              "context": "νεωστὶ φίλης καὶ οὐκ ἀναγκαίας ἑταίρας"
+            },
+            {
+              "form": "πάλαι φίλην καὶ ἀναγκαίαν",
+              "lemma": null,
+              "location": "574b",
+              "context": "τὴν πάλαι φίλην καὶ ἀναγκαίαν μητέρα"
+            },
+            {
+              "form": "νεωστὶ φίλου … οὐκ ἀναγκαίου",
+              "lemma": null,
+              "location": "574c",
+              "context": "νεωστὶ φίλου γεγονότος οὐκ ἀναγκαίου"
+            },
+            {
+              "form": "ἀναγκαῖον πρεσβύτην πατέρα",
+              "lemma": null,
+              "location": "574c",
+              "context": "τὸν ἄωρόν τε καὶ ἀναγκαῖον πρεσβύτην πατέρα"
+            }
+          ],
+          "observation": "νεωστί/πάλαι and ἀναγκαῖος/οὐκ ἀναγκαῖος are set in parallel contrast twice: new-not-necessary companion vs. old-necessary parent, for both mother and father."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ὡραίου",
+              "lemma": "ὡραῖος",
+              "location": "574c",
+              "context": "ὡραίου νεωστὶ φίλου"
+            },
+            {
+              "form": "ἄωρον",
+              "lemma": "ἄωρος",
+              "location": "574c",
+              "context": "τὸν ἄωρόν τε καὶ ἀναγκαῖον πρεσβύτην πατέρα"
+            }
+          ],
+          "observation": "ὡραῖος and ἄωρος are placed in direct opposition: the 'ripe' new beloved against the 'unripe/untimely' old father."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "sequence_configuration",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἑορταί",
+              "lemma": "ἑορτή",
+              "location": "573d",
+              "context": null
+            },
+            {
+              "form": "κῶμοι",
+              "lemma": "κῶμος",
+              "location": "573d",
+              "context": null
+            },
+            {
+              "form": "θάλειαι",
+              "lemma": "θάλεια",
+              "location": "573d",
+              "context": null
+            },
+            {
+              "form": "ἑταῖραι",
+              "lemma": "ἑταίρα",
+              "location": "573d",
+              "context": null
+            }
+          ],
+          "observation": "A four-item list of feasting and revelry (festivals, revels, banquets, courtesans) names the life governed by Eros as tyrant."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "lemma_recurrence",
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ἀναλίσκονται",
+              "lemma": "ἀναλίσκω",
+              "location": "573d",
+              "context": "ταχὺ ἄρα ἀναλίσκονται"
+            },
+            {
+              "form": "δανεισμοί",
+              "lemma": "δανεισμός",
+              "location": "573e",
+              "context": null
+            },
+            {
+              "form": "παραιρέσεις",
+              "lemma": "παραίρεσις",
+              "location": "573e",
+              "context": "τῆς οὐσίας παραιρέσεις"
+            },
+            {
+              "form": "ἐπιλείπῃ",
+              "lemma": "ἐπιλείπω",
+              "location": "573e",
+              "context": "ὅταν δὲ δὴ πάντʼ ἐπιλείπῃ"
+            },
+            {
+              "form": "ἀναλώσῃ",
+              "lemma": "ἀναλίσκω",
+              "location": "574a",
+              "context": "ἐὰν τὸ αὑτοῦ μέρος ἀναλώσῃ"
+            }
+          ],
+          "observation": "A sequence of economic exhaustion: spending, borrowing, diminishing property, resources giving out, consuming one's share—tracing progressive financial ruin."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "sequence_configuration",
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "κλέπτειν καὶ ἀπατᾶν",
+              "lemma": null,
+              "location": "574b",
+              "context": "τὸ μὲν πρῶτον ἐπιχειροῖ ἂν κλέπτειν καὶ ἀπατᾶν τοὺς γονέας"
+            },
+            {
+              "form": "ἁρπάζοι ἂν καὶ βιάζοιτο",
+              "lemma": null,
+              "location": "574b",
+              "context": null
+            },
+            {
+              "form": "πληγαῖς τε δοῦναι καὶ καταδουλώσασθαι",
+              "lemma": null,
+              "location": "574c",
+              "context": null
+            }
+          ],
+          "observation": "Violence against parents escalates in a three-step sequence: first stealing and deceiving, then seizing and using force, then beating and enslaving."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "local_contrast",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ὄναρ",
+              "lemma": "ὄναρ",
+              "location": "574d",
+              "context": "πρότερον μὲν ὄναρ ἐλύοντο ἐν ὕπνῳ"
+            },
+            {
+              "form": "ὕπαρ",
+              "lemma": "ὕπαρ",
+              "location": "574e",
+              "context": "ὕπαρ τοιοῦτος ἀεὶ γενόμενος"
+            },
+            {
+              "form": "ὄναρ",
+              "lemma": "ὄναρ",
+              "location": "574e",
+              "context": "οἷος ὀλιγάκις ἐγίγνετο ὄναρ"
+            }
+          ],
+          "observation": "The ὄναρ/ὕπαρ contrast: what formerly occurred only in dream now becomes the waking permanent condition under Eros's tyranny."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "μεθυσθείς",
+              "lemma": "μεθύσκω",
+              "location": "573b",
+              "context": null
+            },
+            {
+              "form": "μαινόμενος",
+              "lemma": "μαίνομαι",
+              "location": "573c",
+              "context": null
+            },
+            {
+              "form": "ὑποκεκινηκώς",
+              "lemma": "ὑποκινέω",
+              "location": "573c",
+              "context": null
+            },
+            {
+              "form": "μεθυστικός",
+              "lemma": "μεθυστικός",
+              "location": "573c",
+              "context": null
+            },
+            {
+              "form": "μελαγχολικός",
+              "lemma": "μελαγχολικός",
+              "location": "573c",
+              "context": null
+            }
+          ],
+          "observation": "A cluster of intoxication and madness terms: drunkenness, madness, derangement, and melancholy characterize the tyrannical man's constitution."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "κέντρων",
+              "lemma": "κέντρον",
+              "location": "573e",
+              "context": "ὥσπερ ὑπὸ κέντρων ἐλαυνομένους"
+            },
+            {
+              "form": "οἰστρᾶν",
+              "lemma": "οἰστράω",
+              "location": "573e",
+              "context": null
+            },
+            {
+              "form": "σμῆνος",
+              "lemma": "σμῆνος",
+              "location": "574d",
+              "context": "τὸ τῶν ἡδονῶν σμῆνος"
+            },
+            {
+              "form": "ἐννενεοττευμένας",
+              "lemma": "ἐννεοττεύω",
+              "location": "573e",
+              "context": "ἐπιθυμίας … ἐννενεοττευμένας"
+            }
+          ],
+          "observation": "An insect/animal cluster: goads, gadfly-frenzy, a swarm of pleasures, desires nested like chicks—animal imagery for the appetites."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "local_contrast",
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἔνδον",
+              "lemma": "ἔνδον",
+              "location": "573d",
+              "context": "Ἔρως τύραννος ἔνδον οἰκῶν"
+            },
+            {
+              "form": "ἔξωθεν",
+              "lemma": "ἔξωθεν",
+              "location": "575a",
+              "context": "τὸν μὲν ἔξωθεν εἰσεληλυθότα"
+            },
+            {
+              "form": "ἔνδοθεν",
+              "lemma": "ἔνδοθεν",
+              "location": "575a",
+              "context": "τὸν δʼ ἔνδοθεν"
+            }
+          ],
+          "observation": "Inside/outside spatial terms: Eros dwells ἔνδον; the closing sentence distinguishes θόρυβος that has entered from ἔξωθεν and that released from ἔνδοθεν."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιλείπῃ",
+              "lemma": "ἐπιλείπω",
+              "location": "573e",
+              "context": "ὅταν δὲ δὴ πάντʼ ἐπιλείπῃ"
+            },
+            {
+              "form": "ἐπιλείπῃ",
+              "lemma": "ἐπιλείπω",
+              "location": "574d",
+              "context": "ὅταν δὴ τὰ πατρὸς καὶ μητρὸς ἐπιλείπῃ"
+            }
+          ],
+          "observation": "ἐπιλείπω recurs at two stages of exhaustion: first all resources give out, then specifically parental resources give out, marking escalation."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "semantic_cluster",
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἀνεθέντα",
+              "lemma": "ἀνίημι",
+              "location": "575a",
+              "context": null
+            },
+            {
+              "form": "ἐλευθερωθέντα",
+              "lemma": "ἐλευθερόω",
+              "location": "575a",
+              "context": null
+            },
+            {
+              "form": "λελυμέναι",
+              "lemma": "λύω",
+              "location": "574d",
+              "context": "ἐκ δουλείας λελυμέναι"
+            },
+            {
+              "form": "δουλείας",
+              "lemma": "δουλεία",
+              "location": "574d",
+              "context": null
+            },
+            {
+              "form": "καταδουλώσασθαι",
+              "lemma": "καταδουλόω",
+              "location": "574c",
+              "context": null
+            }
+          ],
+          "observation": "A freedom/slavery cluster: desires are released from slavery, the son enslaves his parents, and the inner turmoil is let loose and freed—liberty language applied to appetites while enslavement is applied to kin."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "μόναρχος",
+              "lemma": "μόναρχος",
+              "location": "575a",
+              "context": "αὐτὸς ὢν μόναρχος"
+            },
+            {
+              "form": "ἀναρχίᾳ",
+              "lemma": "ἀναρχία",
+              "location": "575a",
+              "context": "ἐν πάσῃ ἀναρχίᾳ καὶ ἀνομίᾳ"
+            },
+            {
+              "form": "ἀνομίᾳ",
+              "lemma": "ἀνομία",
+              "location": "575a",
+              "context": null
+            }
+          ],
+          "observation": "μόναρχος is juxtaposed with ἀναρχία and ἀνομία: sole rule coincides with total lawlessness and absence of rule."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ζῇ δὲ δὴ πῶς",
+              "lemma": null,
+              "location": "573c",
+              "context": null
+            },
+            {
+              "form": "ἢ οὐχ οὗτος ὁ βίος τοῦ τοιούτου",
+              "lemma": null,
+              "location": "575a",
+              "context": null
+            }
+          ],
+          "observation": "The section's descriptive core is framed by a question about how such a man lives and a closing confirmation that this is indeed his βίος."
+        },
+        {
+          "signal_id": "s018",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἄρχειν",
+              "lemma": "ἄρχω",
+              "location": "573c",
+              "context": "ἐλπίζει δυνατὸς εἶναι ἄρχειν"
+            },
+            {
+              "form": "δημοκρατούμενος",
+              "lemma": "δημοκρατέω",
+              "location": "574e",
+              "context": "ὑπὸ νόμοις τε καὶ πατρὶ δημοκρατούμενος ἐν ἑαυτῷ"
+            },
+            {
+              "form": "τυραννευθείς",
+              "lemma": "τυραννεύω",
+              "location": "574e",
+              "context": "τυραννευθεὶς δὲ ὑπὸ Ἔρωτος"
+            }
+          ],
+          "observation": "Political regime terms applied to the inner soul: the madman expects to rule (ἄρχειν), was formerly democratically governed within himself, and is now tyrannized by Eros."
+        },
+        {
+          "signal_id": "s019",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "φόνου",
+              "lemma": "φόνος",
+              "location": "574e",
+              "context": "οὔτε τινὸς φόνου δεινοῦ ἀφέξεται"
+            },
+            {
+              "form": "βρώματος",
+              "lemma": "βρῶμα",
+              "location": "574e",
+              "context": "οὔτε βρώματος"
+            },
+            {
+              "form": "ἔργου",
+              "lemma": "ἔργον",
+              "location": "574e",
+              "context": "οὔτʼ ἔργου"
+            }
+          ],
+          "observation": "A tricolon of things from which the tyrannized man will not abstain: murder, food, deed—escalating from terrible killing to an open-ended 'any deed.'"
+        },
+        {
+          "signal_id": "s020",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ὥσπερ πόλιν",
+              "lemma": "πόλις",
+              "location": "575a",
+              "context": "τὸν ἔχοντά τε αὐτὸν ὥσπερ πόλιν ἄξει ἐπὶ πᾶσαν τόλμαν"
+            }
+          ],
+          "observation": "The man possessed by Eros is explicitly compared to a city (ὥσπερ πόλιν), making the soul-city analogy locally explicit."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-04",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "κλέπτουσι",
+              "lemma": "κλέπτω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "τοιχωρυχοῦσι",
+              "lemma": "τοιχωρυχέω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "βαλλαντιοτομοῦσι",
+              "lemma": "βαλλαντιοτομέω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "λωποδυτοῦσιν",
+              "lemma": "λωποδυτέω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "ἱεροσυλοῦσιν",
+              "lemma": "ἱεροσυλέω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "ἀνδραποδίζονται",
+              "lemma": "ἀνδραποδίζω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "συκοφαντοῦσιν",
+              "lemma": "συκοφαντέω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "ψευδομαρτυροῦσι",
+              "lemma": "ψευδομαρτυρέω",
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "δωροδοκοῦσιν",
+              "lemma": "δωροδοκέω",
+              "location": "575b",
+              "context": null
+            }
+          ],
+          "observation": "A dense catalogue of nine criminal actions in asyndetic sequence, all in third-person plural present, moving from theft of property to temple-robbery to enslavement to corruption of legal process."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "local_contrast",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "σμικρὰ πολλά",
+              "lemma": null,
+              "location": "575b",
+              "context": "κακὰ δρῶσι σμικρὰ πολλά"
+            },
+            {
+              "form": "σμικρά",
+              "lemma": "σμικρός",
+              "location": "575c",
+              "context": "σμικρά γʼ … κακὰ λέγεις"
+            },
+            {
+              "form": "σμικρά",
+              "lemma": "σμικρός",
+              "location": "575c",
+              "context": "τὰ γὰρ σμικρά πρὸς τὰ μεγάλα σμικρά ἐστιν"
+            }
+          ],
+          "observation": "σμικρός recurs three times across speaker and respondent; the interlocutor echoes Socrates' word back, and Socrates then sets σμικρά against μεγάλα in an explicit contrast."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ὀλίγοι",
+              "lemma": "ὀλίγος",
+              "location": "575a",
+              "context": "ὀλίγοι οἱ τοιοῦτοι ἐν πόλει ὦσι"
+            },
+            {
+              "form": "πολλοί",
+              "lemma": "πολύς",
+              "location": "575c",
+              "context": "ὅταν γὰρ δὴ πολλοὶ ἐν πόλει γένωνται"
+            }
+          ],
+          "observation": "The conditional scenario pivots from ὀλίγοι to πολλοί in the city, marking the threshold at which tyranny is generated."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "μητέρα καὶ πατέρα ἐκόλαζεν",
+              "lemma": null,
+              "location": "575d",
+              "context": null
+            },
+            {
+              "form": "πατρίδα … κολάσεται",
+              "lemma": "κολάζω",
+              "location": "575d",
+              "context": "τὴν πατρίδα … κολάσεται"
+            },
+            {
+              "form": "μητρίδα",
+              "lemma": "μητρίς",
+              "location": "575d",
+              "context": "τὴν πάλαι φίλην μητρίδα τε … καὶ πατρίδα"
+            }
+          ],
+          "observation": "Punishment of mother and father returns as punishment of the fatherland; πατρίδα and the rare μητρίδα echo μητέρα καὶ πατέρα, transferring familial κολάζω to the city."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "δεσπόζοντες",
+              "lemma": "δεσπόζω",
+              "location": "576a",
+              "context": null
+            },
+            {
+              "form": "δουλεύοντες",
+              "lemma": "δουλεύω",
+              "location": "576a",
+              "context": "ἀεὶ δέ του δεσπόζοντες ἢ δουλεύοντες ἄλλῳ"
+            }
+          ],
+          "observation": "Mastering and slaving are set as the only two relational modes, with φίλοι μὲν οὐδέποτε οὐδενί excluding friendship entirely."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "local_contrast",
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ὡς οἰκεῖοι",
+              "lemma": "οἰκεῖος",
+              "location": "576a",
+              "context": null
+            },
+            {
+              "form": "ἀλλότριοι",
+              "lemma": "ἀλλότριος",
+              "location": "576a",
+              "context": "διαπραξάμενοι δὲ ἀλλότριοι"
+            }
+          ],
+          "observation": "οἰκεῖοι and ἀλλότριοι are juxtaposed: the tyrannical men perform intimacy (ὡς οἰκεῖοι) then become strangers (ἀλλότριοι) once their purpose is achieved."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "δουλεύουσαν",
+              "lemma": "δουλεύω",
+              "location": "575d",
+              "context": "ὑπὸ τούτοις δὴ δουλεύουσαν τὴν … πατρίδα"
+            },
+            {
+              "form": "δουλεύοντες",
+              "lemma": "δουλεύω",
+              "location": "576a",
+              "context": "δεσπόζοντες ἢ δουλεύοντες ἄλλῳ"
+            }
+          ],
+          "observation": "δουλεύω applies first to the enslaved fatherland and then to the tyrannical man himself."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ὄναρ",
+              "lemma": "ὄναρ",
+              "location": "576b",
+              "context": "οἷον ὄναρ διήλθομεν"
+            },
+            {
+              "form": "ὕπαρ",
+              "lemma": "ὕπαρ",
+              "location": "576b",
+              "context": "ὃς ἂν ὕπαρ τοιοῦτος ᾖ"
+            }
+          ],
+          "observation": "The worst man is defined as one who is in waking life (ὕπαρ) what was previously described as in dream (ὄναρ)."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "τύραννον",
+              "lemma": "τύραννος",
+              "location": "575b",
+              "context": "ἄλλον τινὰ δορυφοροῦσι τύραννον"
+            },
+            {
+              "form": "τύραννον",
+              "lemma": "τύραννος",
+              "location": "575c",
+              "context": "τὸν τύραννον γεννῶντες"
+            },
+            {
+              "form": "τύραννον",
+              "lemma": "τύραννος",
+              "location": "575d",
+              "context": "ἐν τῇ ψυχῇ τύραννον ἔχῃ"
+            },
+            {
+              "form": "τυραννικώτατος",
+              "lemma": "τυραννικός",
+              "location": "575d",
+              "context": null
+            },
+            {
+              "form": "τυραννικὴ φύσις",
+              "lemma": "τυραννικός",
+              "location": "576a",
+              "context": null
+            },
+            {
+              "form": "τυραννικώτατος",
+              "lemma": "τυραννικός",
+              "location": "576b",
+              "context": null
+            },
+            {
+              "form": "τυραννίδι",
+              "lemma": "τυραννίς",
+              "location": "576b",
+              "context": null
+            }
+          ],
+          "observation": "The τύραννος word-family recurs throughout, shifting from an external political figure bodyguarded by others, to a tyrant generated by the many, to a tyrant within the soul, to a superlative τυραννικώτατος nature, to living in τυραννίς."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ὑποπεσόντες",
+              "lemma": "ὑποπίπτω",
+              "location": "576a",
+              "context": "αὐτοὶ ὑποπεσόντες"
+            },
+            {
+              "form": "διαπραξάμενοι",
+              "lemma": "διαπράττω",
+              "location": "576a",
+              "context": "διαπραξάμενοι δὲ ἀλλότριοι"
+            }
+          ],
+          "observation": "A two-stage sequence: first abasing themselves (ὑποπεσόντες), then once they have accomplished their aim (διαπραξάμενοι), becoming estranged."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἐλευθερίας",
+              "lemma": "ἐλευθερία",
+              "location": "576a",
+              "context": null
+            },
+            {
+              "form": "φιλίας ἀληθοῦς",
+              "lemma": null,
+              "location": "576a",
+              "context": null
+            },
+            {
+              "form": "ἄγευστος",
+              "lemma": "ἄγευστος",
+              "location": "576a",
+              "context": "τυραννικὴ φύσις ἀεὶ ἄγευστος"
+            }
+          ],
+          "observation": "ἄγευστος (without taste of) governs both ἐλευθερία and ἀληθὴς φιλία, a concrete sensory privation applied to the tyrannical nature."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "κεφαλαιωσώμεθα",
+              "lemma": "κεφαλαιόω",
+              "location": "576b",
+              "context": "κεφαλαιωσώμεθα τοίνυν … τὸν κάκιστον"
+            },
+            {
+              "form": "τοιοῦτος",
+              "lemma": "τοιοῦτος",
+              "location": "576b",
+              "context": "ὃς ἂν ὕπαρ τοιοῦτος ᾖ"
+            }
+          ],
+          "observation": "Socrates proposes to sum up (κεφαλαιωσώμεθα) the worst man and immediately provides the summary definition."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "διαδεξάμενος τὸν λόγον ὁ Γλαύκων",
+              "lemma": null,
+              "location": "576b",
+              "context": null
+            }
+          ],
+          "observation": "Glaucon is named as taking over the argument (διαδεξάμενος τὸν λόγον), a narrative notation of speaker succession at the section's close."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "εἰρήνῃ τε καὶ ἡσυχίᾳ",
+              "lemma": null,
+              "location": "575b",
+              "context": null
+            },
+            {
+              "form": "πόλεμος",
+              "lemma": "πόλεμος",
+              "location": "575b",
+              "context": "ἐάν που πόλεμος ᾖ"
+            }
+          ],
+          "observation": "War and peace/quiet are set as alternative conditions determining whether tyrannical men serve abroad or commit crimes at home."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "οὐδʼ ἵκταρ βάλλει",
+              "lemma": null,
+              "location": "575c",
+              "context": "τὸ λεγόμενον, οὐδʼ ἵκταρ βάλλει"
+            }
+          ],
+          "observation": "A proverbial expression (τὸ λεγόμενον) marked as such: 'does not come near the mark.'"
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "ἐκόλαζεν",
+              "lemma": "κολάζω",
+              "location": "575d",
+              "context": "μητέρα καὶ πατέρα ἐκόλαζεν"
+            },
+            {
+              "form": "κολάσεται",
+              "lemma": "κολάζω",
+              "location": "575d",
+              "context": "τὴν πατρίδα … κολάσεται"
+            }
+          ],
+          "observation": "κολάζω shifts from imperfect (punishing parents) to future middle (punishing the fatherland), the same verb applied to an expanded object."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-05",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "lemma_recurrence",
+            "structural_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "τυραννουμένην",
+              "lemma": "τυραννεύω",
+              "location": "576c",
+              "context": "κατὰ τὴν τυραννουμένην πόλιν"
+            },
+            {
+              "form": "τυραννουμένη",
+              "lemma": "τυραννεύω",
+              "location": "576d",
+              "context": "τυραννουμένη πόλις πρὸς βασιλευομένην"
+            },
+            {
+              "form": "τυραννουμένης",
+              "lemma": "τυραννεύω",
+              "location": "576e",
+              "context": "τυραννουμένης μὲν οὐκ ἔστιν ἀθλιωτέρα"
+            },
+            {
+              "form": "τυραννουμένην",
+              "lemma": "τυραννεύω",
+              "location": "577c",
+              "context": "δούλην τὴν τυραννουμένην ἐρεῖς"
+            },
+            {
+              "form": "τυραννουμένη",
+              "lemma": "τυραννεύω",
+              "location": "577d",
+              "context": "δούλη καὶ τυραννουμένη πόλις"
+            },
+            {
+              "form": "τυραννουμένη",
+              "lemma": "τυραννεύω",
+              "location": "577e",
+              "context": "τυραννουμένη ἄρα ψυχὴ"
+            },
+            {
+              "form": "τυραννουμένην",
+              "lemma": "τυραννεύω",
+              "location": "577e",
+              "context": "τυραννουμένην πόλιν"
+            },
+            {
+              "form": "τυραννικῷ",
+              "lemma": "τυραννικός",
+              "location": "578a",
+              "context": "τούτῳ τῷ τυραννικῷ"
+            }
+          ],
+          "observation": "Forms of τυραννεύω and τυραννικός recur densely throughout, applied alternately to πόλις and ψυχή/ἀνήρ in a sustained parallel transfer."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἀθλιώτατος",
+              "lemma": "ἄθλιος",
+              "location": "576c",
+              "context": null
+            },
+            {
+              "form": "ἀθλιωτέρα",
+              "lemma": "ἄθλιος",
+              "location": "576e",
+              "context": "τυραννουμένης μὲν οὐκ ἔστιν ἀθλιωτέρα"
+            },
+            {
+              "form": "ἀθλιότητος",
+              "lemma": "ἀθλιότης",
+              "location": "576d",
+              "context": "εὐδαιμονίας τε αὖ καὶ ἀθλιότητος"
+            },
+            {
+              "form": "ἀθλιότητος",
+              "lemma": "ἀθλιότης",
+              "location": "577b",
+              "context": "πῶς ἔχει εὐδαιμονίας καὶ ἀθλιότητος"
+            },
+            {
+              "form": "ἀθλίως",
+              "lemma": "ἀθλίως",
+              "location": "577c",
+              "context": "ἀτίμως τε καὶ ἀθλίως δοῦλον"
+            },
+            {
+              "form": "ἀθλιωτάτην",
+              "lemma": "ἄθλιος",
+              "location": "578b",
+              "context": "τὴν πόλιν τῶν πόλεων ἀθλιωτάτην"
+            },
+            {
+              "form": "ἀθλιώτατον",
+              "lemma": "ἄθλιος",
+              "location": "578b",
+              "context": "μακρῷ ἀθλιώτατον εἶναι τῶν ἄλλων"
+            }
+          ],
+          "observation": "The ἄθλιος word family recurs across the section, applied to city and man, intensifying from comparative to superlative."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "local_contrast",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "δούλην",
+              "lemma": "δοῦλος",
+              "location": "577c",
+              "context": "ἐλευθέραν ἢ δούλην τὴν τυραννουμένην"
+            },
+            {
+              "form": "ἐλευθέραν",
+              "lemma": "ἐλεύθερος",
+              "location": "577c",
+              "context": null
+            },
+            {
+              "form": "δεσπότας",
+              "lemma": "δεσπότης",
+              "location": "577c",
+              "context": "ὁρᾷς γε ἐν αὐτῇ δεσπότας καὶ ἐλευθέρους"
+            },
+            {
+              "form": "ἐλευθέρους",
+              "lemma": "ἐλεύθερος",
+              "location": "577c",
+              "context": null
+            },
+            {
+              "form": "δοῦλον",
+              "lemma": "δοῦλος",
+              "location": "577c",
+              "context": "τὸ ἐπιεικέστατον ἀτίμως τε καὶ ἀθλίως δοῦλον"
+            },
+            {
+              "form": "δουλείας",
+              "lemma": "δουλεία",
+              "location": "577d",
+              "context": "πολλῆς μὲν δουλείας τε καὶ ἀνελευθερίας"
+            },
+            {
+              "form": "ἀνελευθερίας",
+              "lemma": "ἀνελευθερία",
+              "location": "577d",
+              "context": null
+            },
+            {
+              "form": "δουλεύειν",
+              "lemma": "δουλεύω",
+              "location": "577d",
+              "context": "τὰ μέρη δουλεύειν"
+            },
+            {
+              "form": "δεσπόζειν",
+              "lemma": "δεσπόζω",
+              "location": "577d",
+              "context": "τὸ μοχθηρότατον καὶ μανικώτατον δεσπόζειν"
+            },
+            {
+              "form": "δούλην",
+              "lemma": "δοῦλος",
+              "location": "577d",
+              "context": "δούλην ἢ ἐλευθέραν τὴν τοιαύτην ψυχήν"
+            },
+            {
+              "form": "δούλη",
+              "lemma": "δοῦλος",
+              "location": "577d",
+              "context": "ἥ γε αὖ δούλη καὶ τυραννουμένη πόλις"
+            }
+          ],
+          "observation": "A dense cluster of δοῦλος/δουλεία/δεσπότης/ἐλεύθερος/ἀνελευθερία, with slavery and freedom explicitly contrasted and transferred from city to soul."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "structural_recurrence",
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "πόλιν",
+              "lemma": "πόλις",
+              "location": "576c",
+              "context": "κατὰ τὴν τυραννουμένην πόλιν"
+            },
+            {
+              "form": "ἀνήρ",
+              "lemma": "ἀνήρ",
+              "location": "576c",
+              "context": "τοῦτο καὶ ἀνὴρ πρὸς ἄνδρα"
+            },
+            {
+              "form": "ὁμοιότητα",
+              "lemma": "ὁμοιότης",
+              "location": "577c",
+              "context": "τὴν ὁμοιότητα ἀναμιμνῃσκόμενος τῆς τε πόλεως καὶ τοῦ ἀνδρός"
+            }
+          ],
+          "observation": "The city-man analogy is explicitly named via ὁμοιότης and structurally enacted: each claim about the tyrannized city is followed by a corresponding claim about the tyrannical man/soul."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "semantic_cluster",
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "εἰσελθόντας",
+              "lemma": "εἰσέρχομαι",
+              "location": "576e",
+              "context": "ὅλην τὴν πόλιν εἰσελθόντας θεάσασθαι"
+            },
+            {
+              "form": "καταδύντες",
+              "lemma": "καταδύνω",
+              "location": "576e",
+              "context": "καταδύντες εἰς ἅπασαν"
+            },
+            {
+              "form": "ἐνδύς",
+              "lemma": "ἐνδύνω",
+              "location": "577a",
+              "context": "εἰς ἀνδρὸς ἦθος ἐνδὺς διιδεῖν"
+            },
+            {
+              "form": "ἔξωθεν",
+              "lemma": "ἔξωθεν",
+              "location": "577a",
+              "context": "καθάπερ παῖς ἔξωθεν ὁρῶν"
+            }
+          ],
+          "observation": "Entering-in and diving-down language (εἰσελθόντας, καταδύντες, ἐνδύς) describes proper investigation of both city and soul, contrasted with seeing from outside (ἔξωθεν)."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "semantic_cluster",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "θεάσασθαι",
+              "lemma": "θεάομαι",
+              "location": "576e",
+              "context": "ὅλην τὴν πόλιν εἰσελθόντας θεάσασθαι"
+            },
+            {
+              "form": "ἰδόντες",
+              "lemma": "ὁράω",
+              "location": "576e",
+              "context": null
+            },
+            {
+              "form": "ὁρῶν",
+              "lemma": "ὁράω",
+              "location": "577a",
+              "context": "παῖς ἔξωθεν ὁρῶν"
+            },
+            {
+              "form": "διορᾷ",
+              "lemma": "διοράω",
+              "location": "577a",
+              "context": "ἱκανῶς διορᾷ"
+            },
+            {
+              "form": "ὁρᾷς",
+              "lemma": "ὁράω",
+              "location": "577c",
+              "context": "ὁρᾷς γε ἐν αὐτῇ δεσπότας"
+            },
+            {
+              "form": "ὀφθείη",
+              "lemma": "ὁράω",
+              "location": "577b",
+              "context": "γυμνὸς ἂν ὀφθείη τῆς τραγικῆς σκευῆς"
+            },
+            {
+              "form": "ἀποβλέψας",
+              "lemma": "ἀποβλέπω",
+              "location": "578b",
+              "context": null
+            },
+            {
+              "form": "ἀποβλέπων",
+              "lemma": "ἀποβλέπω",
+              "location": "578b",
+              "context": null
+            },
+            {
+              "form": "βλέποντες",
+              "lemma": "βλέπω",
+              "location": "576d",
+              "context": "πρὸς τὸν τύραννον ἕνα ὄντα βλέποντες"
+            }
+          ],
+          "observation": "Verbs of seeing cluster throughout: θεάομαι, ὁράω, διοράω, βλέπω, ἀποβλέπω—distinguishing superficial from penetrating observation."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἔξωθεν",
+              "lemma": "ἔξωθεν",
+              "location": "577a",
+              "context": "παῖς ἔξωθεν ὁρῶν"
+            },
+            {
+              "form": "τῆς τραγικῆς σκευῆς",
+              "lemma": null,
+              "location": "577b",
+              "context": "γυμνὸς ἂν ὀφθείη τῆς τραγικῆς σκευῆς"
+            },
+            {
+              "form": "γυμνός",
+              "lemma": "γυμνός",
+              "location": "577b",
+              "context": null
+            },
+            {
+              "form": "προστάσεως",
+              "lemma": "πρόστασις",
+              "location": "577a",
+              "context": "τῆς τῶν τυραννικῶν προστάσεως"
+            },
+            {
+              "form": "σχηματίζονται",
+              "lemma": "σχηματίζω",
+              "location": "577a",
+              "context": "ἣν πρὸς τοὺς ἔξω σχηματίζονται"
+            }
+          ],
+          "observation": "Outward appearance (προστάσεως, σχηματίζονται, τραγικῆς σκευῆς) is contrasted with being stripped bare (γυμνός), distinguishing false display from true condition."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "κατʼ οἰκίαν πράξεσιν",
+              "lemma": null,
+              "location": "577a",
+              "context": null
+            },
+            {
+              "form": "οἰκείους",
+              "lemma": "οἰκεῖος",
+              "location": "577a",
+              "context": "πρὸς ἑκάστους τοὺς οἰκείους"
+            },
+            {
+              "form": "δημοσίοις κινδύνοις",
+              "lemma": null,
+              "location": "577b",
+              "context": "ἐν αὖ τοῖς δημοσίοις κινδύνοις"
+            }
+          ],
+          "observation": "The domestic sphere (κατʼ οἰκίαν, οἰκείους) is set beside the public sphere (δημοσίοις κινδύνοις) as two domains in which the tyrant must be observed."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "κρίνεις",
+              "lemma": "κρίνω",
+              "location": "576d",
+              "context": null
+            },
+            {
+              "form": "κρῖναι",
+              "lemma": "κρίνω",
+              "location": "577a",
+              "context": "ἀξιῶν κρίνειν περὶ αὐτῶν ἐκεῖνον"
+            },
+            {
+              "form": "κρῖναι",
+              "lemma": "κρίνω",
+              "location": "577b",
+              "context": "τῶν δυνατῶν ἂν κρῖναι"
+            },
+            {
+              "form": "ἔκρινας",
+              "lemma": "κρίνω",
+              "location": "578b",
+              "context": "τὴν πόλιν τῶν πόλεων ἀθλιωτάτην ἔκρινας"
+            }
+          ],
+          "observation": "κρίνω recurs as the act of judging is specified: who is qualified to judge, and the judgment itself is rendered at the section's end."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "local_contrast",
+            "morphological_parallel"
+          ],
+          "elements": [
+            {
+              "form": "ἀρίστη",
+              "lemma": "ἄριστος",
+              "location": "576d",
+              "context": "ἡ μὲν γὰρ ἀρίστη"
+            },
+            {
+              "form": "κακίστη",
+              "lemma": "κακός",
+              "location": "576d",
+              "context": "ἡ δὲ κακίστη"
+            }
+          ],
+          "observation": "Superlative ἀρίστη and κακίστη are set in direct opposition via μέν/δέ to characterize the kingly versus tyrannized city."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ὀδυρμούς",
+              "lemma": "ὀδυρμός",
+              "location": "578a",
+              "context": null
+            },
+            {
+              "form": "στεναγμούς",
+              "lemma": "στεναγμός",
+              "location": "578a",
+              "context": null
+            },
+            {
+              "form": "θρήνους",
+              "lemma": "θρῆνος",
+              "location": "578a",
+              "context": null
+            },
+            {
+              "form": "ἀλγηδόνας",
+              "lemma": "ἀλγηδών",
+              "location": "578a",
+              "context": null
+            }
+          ],
+          "observation": "A four-term cluster of suffering (ὀδυρμούς, στεναγμούς, θρήνους, ἀλγηδόνας) accumulates to characterize the tyrannized city."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "εὐδαιμονίᾳ",
+              "lemma": "εὐδαιμονία",
+              "location": "576c",
+              "context": "ἀρετῇ καὶ εὐδαιμονίᾳ"
+            },
+            {
+              "form": "εὐδαιμονίας",
+              "lemma": "εὐδαιμονία",
+              "location": "576d",
+              "context": "εὐδαιμονίας τε αὖ καὶ ἀθλιότητος"
+            },
+            {
+              "form": "εὐδαιμονεστέρα",
+              "lemma": "εὐδαίμων",
+              "location": "576e",
+              "context": "βασιλευομένης δὲ οὐκ εὐδαιμονεστέρα"
+            },
+            {
+              "form": "εὐδαιμονίας",
+              "lemma": "εὐδαιμονία",
+              "location": "577b",
+              "context": "πῶς ἔχει εὐδαιμονίας καὶ ἀθλιότητος"
+            }
+          ],
+          "observation": "εὐδαιμονία recurs paired each time with its opposite (ἀθλιότης or ἀρετή), maintaining a consistent contrastive frame."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ἐκπληττώμεθα",
+              "lemma": "ἐκπλήττω",
+              "location": "576d",
+              "context": "μὴ ἐκπληττώμεθα πρὸς τὸν τύραννον ἕνα ὄντα βλέποντες"
+            },
+            {
+              "form": "ἐκπλήττεται",
+              "lemma": "ἐκπλήττω",
+              "location": "577a",
+              "context": "καθάπερ παῖς ἔξωθεν ὁρῶν ἐκπλήττεται"
+            }
+          ],
+          "observation": "ἐκπλήττω appears first as a warning against being dazzled by the tyrant's singularity, then returns describing a child dazzled by outward display—linking the two cautions."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ἐπιεικέστατον",
+              "lemma": "ἐπιεικής",
+              "location": "577c",
+              "context": "τὸ ἐπιεικέστατον ἀτίμως τε καὶ ἀθλίως δοῦλον"
+            },
+            {
+              "form": "ἐπιεικέστατα",
+              "lemma": "ἐπιεικής",
+              "location": "577d",
+              "context": "ταῦτα αὐτῆς τὰ μέρη δουλεύειν, ἅπερ ἦν ἐπιεικέστατα"
+            }
+          ],
+          "observation": "ἐπιεικέστατον describes the most decent element first in the city (577c), then the corresponding parts of the soul (577d), both enslaved."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "οἴστρου",
+              "lemma": "οἶστρος",
+              "location": "577e",
+              "context": "ὑπὸ δὲ οἴστρου ἀεὶ ἑλκομένη βίᾳ"
+            },
+            {
+              "form": "μαινομένῳ",
+              "lemma": "μαίνομαι",
+              "location": "578a",
+              "context": "ἐν τῷ μαινομένῳ ὑπὸ ἐπιθυμιῶν τε καὶ ἐρώτων"
+            },
+            {
+              "form": "μανικώτατον",
+              "lemma": "μανικός",
+              "location": "577d",
+              "context": "τὸ μοχθηρότατον καὶ μανικώτατον δεσπόζειν"
+            },
+            {
+              "form": "ἐπιθυμιῶν",
+              "lemma": "ἐπιθυμία",
+              "location": "578a",
+              "context": null
+            },
+            {
+              "form": "ἐρώτων",
+              "lemma": "ἔρως",
+              "location": "578a",
+              "context": null
+            }
+          ],
+          "observation": "Madness and compulsion cluster: οἶστρος, μαίνομαι/μανικός, ἐπιθυμία, ἔρως characterize the tyrannical soul as driven by ungovernable force."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "βούλεται",
+              "lemma": "βούλομαι",
+              "location": "577d",
+              "context": "ἥκιστα ποιεῖ ἃ βούλεται"
+            },
+            {
+              "form": "βουληθῇ",
+              "lemma": "βούλομαι",
+              "location": "577e",
+              "context": "ἥκιστα ποιήσει ἃ ἂν βουληθῇ"
+            }
+          ],
+          "observation": "βούλομαι appears in parallel constructions about city then soul: both do least what they wish, the intended action remaining unfulfilled (ἥκιστα ποιεῖ/ποιήσει)."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "πλουσίαν",
+              "lemma": "πλούσιος",
+              "location": "577e",
+              "context": "πλουσίαν δὲ ἢ πενομένην"
+            },
+            {
+              "form": "πενομένην",
+              "lemma": "πένομαι",
+              "location": "577e",
+              "context": null
+            },
+            {
+              "form": "πενιχράν",
+              "lemma": "πενιχρός",
+              "location": "578a",
+              "context": "ψυχὴν τυραννικὴν πενιχρὰν καὶ ἄπληστον"
+            },
+            {
+              "form": "ἄπληστον",
+              "lemma": "ἄπληστος",
+              "location": "578a",
+              "context": null
+            }
+          ],
+          "observation": "Rich/poor contrast (πλουσίαν/πενομένην) is posed for the city, then resolved as poverty for both city and soul, with ἄπληστον added for the soul."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-06",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τύραννος",
+              "lemma": "τύραννος",
+              "location": "579d",
+              "context": null
+            },
+            {
+              "form": "δοῦλος",
+              "lemma": "δοῦλος",
+              "location": "579d",
+              "context": "ὁ τῷ ὄντι τύραννος τῷ ὄντι δοῦλος"
+            }
+          ],
+          "observation": "The tyrant is identified as being in truth a slave; τύραννος and δοῦλος are set in direct opposition within a single phrase."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἰδιώτην",
+              "lemma": "ἰδιώτης",
+              "location": "578c",
+              "context": "μὴ ἰδιώτην βίον καταβιῷ"
+            },
+            {
+              "form": "ἰδιωτῶν",
+              "lemma": "ἰδιώτης",
+              "location": "578d",
+              "context": "ἑνὸς ἑκάστου τῶν ἰδιωτῶν"
+            },
+            {
+              "form": "ἰδιώτης",
+              "lemma": "ἰδιώτης",
+              "location": "579c",
+              "context": "ὡς μὴ ἰδιώτης καταβιῷ"
+            },
+            {
+              "form": "ἰδιωτεύων",
+              "lemma": "ἰδιωτεύω",
+              "location": "579c",
+              "context": "μὴ ἰδιωτεύων ἀλλʼ ἀγωνιζόμενος"
+            }
+          ],
+          "observation": "ἰδιώτης recurs across the section, naming the private life the tyrannical man fails to live, the private slaveholders used as analogy, and the private condition contrasted with public contest."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "φόβῳ",
+              "lemma": "φόβος",
+              "location": "578e",
+              "context": "ἐν ποίῳ ἄν τινι καὶ ὁπόσῳ φόβῳ"
+            },
+            {
+              "form": "φοβοῦνται",
+              "lemma": "φοβέω",
+              "location": "578d",
+              "context": "οὐ φοβοῦνται τοὺς οἰκέτας"
+            },
+            {
+              "form": "φοβοῖντο",
+              "lemma": "φοβέω",
+              "location": "578d",
+              "context": "τί γὰρ ἂν φοβοῖντο"
+            },
+            {
+              "form": "φόβων",
+              "lemma": "φόβος",
+              "location": "579b",
+              "context": "πολλῶν καὶ παντοδαπῶν φόβων"
+            },
+            {
+              "form": "φόβου",
+              "lemma": "φόβος",
+              "location": "579e",
+              "context": "φόβου γέμων διὰ παντὸς τοῦ βίου"
+            }
+          ],
+          "observation": "Fear vocabulary is dense throughout: slaveholders do not fear, but the hypothetical isolated master and the tyrant are saturated with fear."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀθλιώτερος",
+              "lemma": "ἄθλιος",
+              "location": "578b",
+              "context": "τούτου ἀθλιώτερος"
+            },
+            {
+              "form": "ἀθλιώτατον",
+              "lemma": "ἄθλιος",
+              "location": "579c",
+              "context": "ὃν νυνδὴ σὺ ἀθλιώτατον ἔκρινας"
+            },
+            {
+              "form": "ἄθλιον",
+              "lemma": "ἄθλιος",
+              "location": "579d",
+              "context": "παντελῶς τὸ πάθος ἄθλιον"
+            },
+            {
+              "form": "ἀθλιώτατον",
+              "lemma": "ἄθλιος",
+              "location": "580c",
+              "context": "τὸν δὲ κάκιστόν τε καὶ ἀδικώτατον ἀθλιώτατον"
+            }
+          ],
+          "observation": "ἄθλιος recurs in escalating comparative and superlative forms across the section."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "θωπεύειν",
+              "lemma": "θωπεύω",
+              "location": "579a",
+              "context": null
+            },
+            {
+              "form": "κόλαξ",
+              "lemma": "κόλαξ",
+              "location": "579a",
+              "context": "κόλαξ αὐτὸς ἂν θεραπόντων ἀναφανείη"
+            },
+            {
+              "form": "θωπείας",
+              "lemma": "θωπεία",
+              "location": "579d",
+              "context": "τὰς μεγίστας θωπείας καὶ δουλείας"
+            },
+            {
+              "form": "κόλαξ",
+              "lemma": "κόλαξ",
+              "location": "579e",
+              "context": "κόλαξ τῶν πονηροτάτων"
+            }
+          ],
+          "observation": "Flattery vocabulary (θωπεύειν/θωπεία, κόλαξ) clusters: the master forced to flatter slaves in the analogy returns as the tyrant described as flatterer of the worst."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἄρας ἐκ τῆς πόλεως",
+              "lemma": null,
+              "location": "578e",
+              "context": "ἄρας ἐκ τῆς πόλεως αὐτόν τε καὶ γυναῖκα καὶ παῖδας θείη εἰς ἐρημίαν"
+            },
+            {
+              "form": "κύκλῳ",
+              "lemma": "κύκλος",
+              "location": "579a",
+              "context": "κύκλῳ κατοικίσειεν γείτονας πολλοὺς αὐτῷ"
+            },
+            {
+              "form": "κύκλῳ φρουρούμενος",
+              "lemma": null,
+              "location": "579b",
+              "context": "κύκλῳ φρουρούμενος ὑπὸ πάντων πολεμίων"
+            },
+            {
+              "form": "δεσμωτηρίῳ",
+              "lemma": "δεσμωτήριον",
+              "location": "579b",
+              "context": "ἐν τοιούτῳ μὲν δεσμωτηρίῳ δέδεται ὁ τύραννος"
+            },
+            {
+              "form": "καταδεδυκὼς δὲ ἐν τῇ οἰκίᾳ",
+              "lemma": null,
+              "location": "579b",
+              "context": null
+            }
+          ],
+          "observation": "A spatial sequence: lifted out of the city into isolation, then surrounded in a circle by hostile neighbors, then bound in a prison, then sunk down inside the house. Enclosure tightens progressively."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἀνδράποδα",
+              "lemma": "ἀνδράποδον",
+              "location": "578d",
+              "context": "ἀνδράποδα πολλὰ κέκτηνται"
+            },
+            {
+              "form": "δούλων",
+              "lemma": "δοῦλος",
+              "location": "579a",
+              "context": "αὐτῶν τῶν δούλων"
+            },
+            {
+              "form": "οἰκετῶν",
+              "lemma": "οἰκέτης",
+              "location": "578e",
+              "context": "μὴ ἀπόλοιντο ὑπὸ τῶν οἰκετῶν"
+            },
+            {
+              "form": "ἐλευθεροῦν",
+              "lemma": "ἐλευθερόω",
+              "location": "579a",
+              "context": "ἐλευθεροῦν οὐδὲν δεόμενος"
+            },
+            {
+              "form": "ἐλευθέρων",
+              "lemma": "ἐλεύθερος",
+              "location": "578e",
+              "context": "μηδεὶς τῶν ἐλευθέρων μέλλοι βοηθήσειν"
+            },
+            {
+              "form": "ἐλεύθεροι",
+              "lemma": "ἐλεύθερος",
+              "location": "579b",
+              "context": "οἱ ἄλλοι ἐλεύθεροι ἐπιθυμηταί"
+            }
+          ],
+          "observation": "Slave/free terminology recurs densely: ἀνδράποδα, δοῦλοι, οἰκέται against ἐλεύθεροι/ἐλευθεροῦν, with the master-slave relation inverting as the slaveholder becomes flatterer of his own slaves."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "θεῶν",
+              "lemma": "θεός",
+              "location": "578e",
+              "context": "εἴ τις θεῶν ἄνδρα ἕνα … ἄρας"
+            },
+            {
+              "form": "ὁ θεὸς",
+              "lemma": "θεός",
+              "location": "579a",
+              "context": "ὁ θεὸς κύκλῳ κατοικίσειεν γείτονας"
+            },
+            {
+              "form": "θεούς",
+              "lemma": "θεός",
+              "location": "580c",
+              "context": "πάντας ἀνθρώπους τε καὶ θεούς"
+            }
+          ],
+          "observation": "A god appears as agent of the thought-experiment (lifting the man, settling hostile neighbors), then θεοί return as audience of the final proclamation."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "lemma_recurrence",
+            "morphological_variation"
+          ],
+          "elements": [
+            {
+              "form": "κρῖνε",
+              "lemma": "κρίνω",
+              "location": "580b",
+              "context": "τοὺς ἄλλους ἑξῆς πέντε ὄντας κρῖνε"
+            },
+            {
+              "form": "ἔκρινας",
+              "lemma": "κρίνω",
+              "location": "579c",
+              "context": "ὃν νυνδὴ σὺ ἀθλιώτατον ἔκρινας"
+            },
+            {
+              "form": "κριθέντος",
+              "lemma": "κρίνω",
+              "location": "579d",
+              "context": "τοῦ ὑπὸ σοῦ κριθέντος χαλεπώτατα ζῆν"
+            },
+            {
+              "form": "κριτὴς",
+              "lemma": "κριτής",
+              "location": "580b",
+              "context": "ὁ διὰ πάντων κριτὴς ἀποφαίνεται"
+            },
+            {
+              "form": "κρίσις",
+              "lemma": "κρίσις",
+              "location": "580b",
+              "context": "ῥᾳδία ἡ κρίσις"
+            },
+            {
+              "form": "ἔκρινε",
+              "lemma": "κρίνω",
+              "location": "580c",
+              "context": "εὐδαιμονέστατον ἔκρινε"
+            },
+            {
+              "form": "κρίνω",
+              "lemma": "κρίνω",
+              "location": "580b",
+              "context": "ὥσπερ χοροὺς κρίνω"
+            }
+          ],
+          "observation": "κρίνω and its derivatives accumulate at the section's close: judging, judge, judgment—applied to Glaucon's verdict and to the analogy of a judge who decides among all contestants."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ὥσπερ χοροὺς κρίνω",
+              "lemma": null,
+              "location": "580b",
+              "context": null
+            },
+            {
+              "form": "κήρυκα",
+              "lemma": "κῆρυξ",
+              "location": "580b",
+              "context": "μισθωσώμεθα οὖν κήρυκα"
+            },
+            {
+              "form": "ἀνείπω",
+              "lemma": "ἀναγορεύω",
+              "location": "580b",
+              "context": "ἢ αὐτὸς ἀνείπω"
+            },
+            {
+              "form": "ἀνειρήσθω",
+              "lemma": "ἀναγορεύω",
+              "location": "580c",
+              "context": null
+            },
+            {
+              "form": "προσαναγορεύω",
+              "lemma": "προσαναγορεύω",
+              "location": "580c",
+              "context": null
+            }
+          ],
+          "observation": "A performance/contest frame: judging choruses, hiring a herald, and publicly proclaiming the verdict—vocabulary of public competition and announcement clusters at the proof's conclusion."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "σκοπεῖν",
+              "lemma": "σκοπέω",
+              "location": "578c",
+              "context": "εὖ μάλα τῷ τοιούτῳ λόγῳ σκοπεῖν"
+            },
+            {
+              "form": "σκέψις",
+              "lemma": "σκέψις",
+              "location": "578c",
+              "context": "περὶ γάρ τοι τοῦ μεγίστου ἡ σκέψις"
+            },
+            {
+              "form": "σκόπει",
+              "lemma": "σκοπέω",
+              "location": "578c",
+              "context": "σκόπει δὴ εἰ ἄρα τι λέγω"
+            },
+            {
+              "form": "σκοποῦντας",
+              "lemma": "σκοπέω",
+              "location": "578d",
+              "context": "περὶ αὐτοῦ σκοποῦντας"
+            }
+          ],
+          "observation": "σκοπέω/σκέψις occurs four times in quick succession as Socrates insists on careful examination rather than mere opinion."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "βασιλικώτατον καὶ βασιλεύοντα αὑτοῦ",
+              "lemma": null,
+              "location": "580c",
+              "context": null
+            },
+            {
+              "form": "τυραννικώτατος ὢν ἑαυτοῦ τε ὅτι μάλιστα τυραννῇ καὶ τῆς πόλεως",
+              "lemma": null,
+              "location": "580c",
+              "context": null
+            }
+          ],
+          "observation": "The final proclamation sets the most kingly man who rules himself against the most tyrannical man who tyrannizes himself and his city—parallel superlative constructions in direct contrast."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "φθονερῷ",
+              "lemma": "φθονερός",
+              "location": "580a",
+              "context": null
+            },
+            {
+              "form": "ἀπίστῳ",
+              "lemma": "ἄπιστος",
+              "location": "580a",
+              "context": null
+            },
+            {
+              "form": "ἀδίκῳ",
+              "lemma": "ἄδικος",
+              "location": "580a",
+              "context": null
+            },
+            {
+              "form": "ἀφίλῳ",
+              "lemma": "ἄφιλος",
+              "location": "580a",
+              "context": null
+            },
+            {
+              "form": "ἀνοσίῳ",
+              "lemma": "ἀνόσιος",
+              "location": "580a",
+              "context": null
+            },
+            {
+              "form": "πανδοκεῖ",
+              "lemma": "πανδοκεύς",
+              "location": "580a",
+              "context": "πάσης κακίας πανδοκεῖ τε καὶ τροφεῖ"
+            }
+          ],
+          "observation": "A concentrated list of alpha-privative adjectives (ἄπιστος, ἄδικος, ἄφιλος, ἀνόσιος) plus φθονερός culminates in πανδοκεῖ καὶ τροφεῖ—the tyrant as host and nurse of all vice."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ὡς γυνὴ ζῇ",
+              "lemma": null,
+              "location": "579b",
+              "context": "καταδεδυκὼς δὲ ἐν τῇ οἰκίᾳ τὰ πολλὰ ὡς γυνὴ ζῇ"
+            }
+          ],
+          "observation": "The tyrant is said to live like a woman, sunk inside his house—a striking simile linking confinement to a gendered domestic image."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀκράτωρ",
+              "lemma": "ἀκράτωρ",
+              "location": "579c",
+              "context": "ἑαυτοῦ ὢν ἀκράτωρ"
+            },
+            {
+              "form": "ἀκράτορι",
+              "lemma": "ἀκράτωρ",
+              "location": "579c",
+              "context": "κάμνοντι σώματι καὶ ἀκράτορι ἑαυτοῦ"
+            }
+          ],
+          "observation": "ἀκράτωρ appears twice in close succession: the tyrannical soul lacking mastery of itself is paralleled by a sick body lacking mastery of itself."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "Ἀρίστωνος ὑὸς",
+              "lemma": null,
+              "location": "580b",
+              "context": "ὁ Ἀρίστωνος ὑὸς τὸν ἄριστόν τε καὶ δικαιότατον εὐδαιμονέστατον ἔκρινε"
+            }
+          ],
+          "observation": "Glaucon is named as 'son of Ariston,' and his verdict concerns τὸν ἄριστον—the patronymic and the superlative adjective share the same root."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "πέντε",
+              "lemma": "πέντε",
+              "location": "580b",
+              "context": "τοὺς ἄλλους ἑξῆς πέντε ὄντας κρῖνε"
+            },
+            {
+              "form": "βασιλικόν",
+              "lemma": "βασιλικός",
+              "location": "580b",
+              "context": null
+            },
+            {
+              "form": "τιμοκρατικόν",
+              "lemma": "τιμοκρατικός",
+              "location": "580b",
+              "context": null
+            },
+            {
+              "form": "ὀλιγαρχικόν",
+              "lemma": "ὀλιγαρχικός",
+              "location": "580b",
+              "context": null
+            },
+            {
+              "form": "δημοκρατικόν",
+              "lemma": "δημοκρατικός",
+              "location": "580b",
+              "context": null
+            },
+            {
+              "form": "τυραννικόν",
+              "lemma": "τυραννικός",
+              "location": "580b",
+              "context": null
+            }
+          ],
+          "observation": "The five character types are listed in explicit ranked sequence for judgment."
+        },
+        {
+          "signal_id": "s018",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "θεάσασθαι",
+              "lemma": "θεάομαι",
+              "location": "579e",
+              "context": "ἐάν τις ὅλην ψυχὴν ἐπίστηται θεάσασθαι"
+            },
+            {
+              "form": "θεωρῆσαι",
+              "lemma": "θεωρέω",
+              "location": "579b",
+              "context": "οὔτε θεωρῆσαι ὅσων δὴ καὶ οἱ ἄλλοι ἐλεύθεροι ἐπιθυμηταί εἰσιν"
+            }
+          ],
+          "observation": "θεωρῆσαι names what the tyrant cannot do (travel to see spectacles), while θεάσασθαι names what is needed to see the whole soul truly—two cognate seeing-verbs in contrasting applications."
+        },
+        {
+          "signal_id": "s019",
+          "signal_types": [
+            "exact_repetition"
+          ],
+          "elements": [
+            {
+              "form": "τῇ ἀληθείᾳ",
+              "lemma": "ἀλήθεια",
+              "location": "579d",
+              "context": "ἔστιν ἄρα τῇ ἀληθείᾳ"
+            },
+            {
+              "form": "τῇ ἀληθείᾳ",
+              "lemma": "ἀλήθεια",
+              "location": "579e",
+              "context": "πένης τῇ ἀληθείᾳ φαίνεται"
+            }
+          ],
+          "observation": "τῇ ἀληθείᾳ appears twice in close proximity, framing the tyrant's true condition as slave and as truly poor."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-07",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "structural_recurrence",
+            "exact_repetition"
+          ],
+          "elements": [
+            {
+              "form": "τριττά",
+              "lemma": "τριττός",
+              "location": "581c",
+              "context": "τριττὰ γένη εἶναι"
+            },
+            {
+              "form": "τριχῇ",
+              "lemma": "τριχῇ",
+              "location": "580d",
+              "context": "ψυχὴ ἑνὸς ἑκάστου τριχῇ"
+            },
+            {
+              "form": "τριῶν",
+              "lemma": "τρεῖς",
+              "location": "580d",
+              "context": "τριῶν ὄντων τριτταὶ καὶ ἡδοναί"
+            },
+            {
+              "form": "τρεῖς",
+              "lemma": "τρεῖς",
+              "location": "581c",
+              "context": "τρεῖς τοιούτους ἀνθρώπους"
+            },
+            {
+              "form": "τριῶν",
+              "lemma": "τρεῖς",
+              "location": "583a",
+              "context": "τριῶν ἄρʼ οὐσῶν τῶν ἡδονῶν"
+            }
+          ],
+          "observation": "Forms of three (τριχῇ, τριῶν, τριτταί, τρεῖς, τριττά) recur densely throughout the section, structuring the division of soul, pleasures, desires, human types, and lives."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lexical_family",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "φιλόσοφον",
+              "lemma": "φιλόσοφος",
+              "location": "581c",
+              "context": null
+            },
+            {
+              "form": "φιλόνικον",
+              "lemma": "φιλόνικος",
+              "location": "581b",
+              "context": null
+            },
+            {
+              "form": "φιλοκερδές",
+              "lemma": "φιλοκερδής",
+              "location": "581c",
+              "context": null
+            },
+            {
+              "form": "φιλοχρήματον",
+              "lemma": "φιλοχρήματος",
+              "location": "580e",
+              "context": null
+            },
+            {
+              "form": "φιλότιμον",
+              "lemma": "φιλότιμος",
+              "location": "581b",
+              "context": null
+            },
+            {
+              "form": "φιλομαθές",
+              "lemma": "φιλομαθής",
+              "location": "581b",
+              "context": null
+            },
+            {
+              "form": "φιλόλογος",
+              "lemma": "φιλόλογος",
+              "location": "582e",
+              "context": null
+            }
+          ],
+          "observation": "A dense cluster of φιλο- compounds names the soul-parts and human types: φιλοχρήματον, φιλοκερδές, φιλότιμον, φιλόνικον, φιλομαθές, φιλόσοφον, φιλόλογος."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "semantic_cluster",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "μανθάνει",
+              "lemma": "μανθάνω",
+              "location": "580d",
+              "context": "ᾧ μανθάνει ἄνθρωπος"
+            },
+            {
+              "form": "μανθάνομεν",
+              "lemma": "μανθάνω",
+              "location": "581b",
+              "context": "ᾧ γε μανθάνομεν"
+            },
+            {
+              "form": "μανθάνειν",
+              "lemma": "μανθάνω",
+              "location": "581d",
+              "context": "τὴν ἀπὸ τοῦ μανθάνειν"
+            },
+            {
+              "form": "μανθάνοντα",
+              "lemma": "μανθάνω",
+              "location": "581e",
+              "context": "ἀεὶ εἶναι μανθάνοντα"
+            },
+            {
+              "form": "μανθάνοντι",
+              "lemma": "μανθάνω",
+              "location": "582b",
+              "context": "τὰ ὄντα μανθάνοντι"
+            },
+            {
+              "form": "μανθάνομεν",
+              "lemma": "μανθάνω",
+              "location": "583a",
+              "context": "ᾧ μανθάνομεν"
+            }
+          ],
+          "observation": "μανθάνω recurs throughout, defining the learning part of the soul, its pleasure, and the philosopher's activity."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "κρίνεσθαι",
+              "lemma": "κρίνω",
+              "location": "582a",
+              "context": "τίνι χρὴ κρίνεσθαι"
+            },
+            {
+              "form": "κριθήσεσθαι",
+              "lemma": "κρίνω",
+              "location": "582a",
+              "context": "καλῶς κριθήσεσθαι"
+            },
+            {
+              "form": "κρίνει",
+              "lemma": "κρίνω",
+              "location": "582d",
+              "context": "κάλλιστα τῶν ἀνδρῶν κρίνει"
+            },
+            {
+              "form": "κρίνεσθαι",
+              "lemma": "κρίνω",
+              "location": "582d",
+              "context": "διʼ οὗ γε δεῖ ὀργάνου κρίνεσθαι"
+            },
+            {
+              "form": "ἐκρίνετο",
+              "lemma": "κρίνω",
+              "location": "582d",
+              "context": "πλούτῳ καὶ κέρδει ἄριστα ἐκρίνετο"
+            },
+            {
+              "form": "κριτήριον",
+              "lemma": "κριτήριον",
+              "location": "582a",
+              "context": "βέλτιον κριτήριον"
+            },
+            {
+              "form": "κριτής",
+              "lemma": "κριτής",
+              "location": "583a",
+              "context": "φησιν ὁ κριτής"
+            }
+          ],
+          "observation": "κρίνω and related forms (κριτήριον, κριτής) accumulate densely from 582a onward as judging becomes the central action."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἐμπειρίᾳ",
+              "lemma": "ἐμπειρία",
+              "location": "582a",
+              "context": "ἐμπειρίᾳ τε καὶ φρονήσει καὶ λόγῳ"
+            },
+            {
+              "form": "φρονήσει",
+              "lemma": "φρόνησις",
+              "location": "582a",
+              "context": null
+            },
+            {
+              "form": "λόγῳ",
+              "lemma": "λόγος",
+              "location": "582a",
+              "context": null
+            }
+          ],
+          "observation": "The three criteria for judging—ἐμπειρία, φρόνησις, λόγος—are introduced together at 582a and each is then argued to belong to the philosopher."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "γεύεσθαι",
+              "lemma": "γεύω",
+              "location": "582b",
+              "context": "ἀνάγκη γεύεσθαι τῶν ἑτέρων"
+            },
+            {
+              "form": "γεύεσθαι",
+              "lemma": "γεύω",
+              "location": "582b",
+              "context": "οὐκ ἀνάγκη γεύεσθαι"
+            },
+            {
+              "form": "γεγεῦσθαι",
+              "lemma": "γεύω",
+              "location": "582c",
+              "context": "ἀδύνατον ἄλλῳ γεγεῦσθαι"
+            },
+            {
+              "form": "γλυκεῖά",
+              "lemma": "γλυκύς",
+              "location": "582b",
+              "context": "ὡς γλυκεῖά ἐστιν"
+            }
+          ],
+          "observation": "γεύεσθαι/γεγεῦσθαι recurs to describe tasting pleasures, with γλυκεῖα adding a concrete sensory detail to the philosopher's pleasure of knowing."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "πολυειδίαν",
+              "lemma": "πολυειδία",
+              "location": "580d",
+              "context": "διὰ πολυειδίαν ἑνὶ οὐκ ἔσχομεν ὀνόματι προσειπεῖν"
+            },
+            {
+              "form": "μέγιστον καὶ ἰσχυρότατον",
+              "lemma": null,
+              "location": "580e",
+              "context": "ὃ μέγιστον καὶ ἰσχυρότατον εἶχεν ἐν αὑτῷ"
+            }
+          ],
+          "observation": "The appetitive part is said to resist a single name due to its πολυειδία; it is named by what is μέγιστον καὶ ἰσχυρότατον in it—a naming procedure explicitly described."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἐδωδήν",
+              "lemma": "ἐδωδή",
+              "location": "580e",
+              "context": "περὶ τὴν ἐδωδὴν ἐπιθυμιῶν"
+            },
+            {
+              "form": "πόσιν",
+              "lemma": "πόσις",
+              "location": "580e",
+              "context": "καὶ πόσιν"
+            },
+            {
+              "form": "ἀφροδίσια",
+              "lemma": "ἀφροδίσιος",
+              "location": "580e",
+              "context": "καὶ ἀφροδίσια"
+            }
+          ],
+          "observation": "Eating, drinking, and sex are listed as the concrete appetites that give the ἐπιθυμητικόν its name."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "καπνόν",
+              "lemma": "καπνός",
+              "location": "581d",
+              "context": "καπνὸν καὶ φλυαρίαν"
+            },
+            {
+              "form": "φορτικήν",
+              "lemma": "φορτικός",
+              "location": "581d",
+              "context": "φορτικήν τινα ἡγεῖται"
+            }
+          ],
+          "observation": "The φιλότιμος dismisses the pleasure of learning as καπνός καὶ φλυαρία and the pleasure of money as φορτική—concrete terms of contempt."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀνάγκη",
+              "lemma": "ἀνάγκη",
+              "location": "581e",
+              "context": "εἰ μὴ ἀνάγκη ἦν"
+            },
+            {
+              "form": "ἀνάγκη",
+              "lemma": "ἀνάγκη",
+              "location": "582b",
+              "context": "ἀνάγκη γεύεσθαι"
+            },
+            {
+              "form": "ἀναγκαίας",
+              "lemma": "ἀναγκαῖος",
+              "location": "581e",
+              "context": "καλεῖν τῷ ὄντι ἀναγκαίας"
+            },
+            {
+              "form": "ἀνάγκη",
+              "lemma": "ἀνάγκη",
+              "location": "582e",
+              "context": "ἀνάγκη … ἀληθέστατα εἶναι"
+            }
+          ],
+          "observation": "ἀνάγκη shifts context: the philosopher calls other pleasures ἀναγκαίας (581e), then necessity describes the philosopher's compulsory tasting of lower pleasures (582b), then necessity marks the conclusion of the argument (582e)."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐμπειρότατος",
+              "lemma": "ἔμπειρος",
+              "location": "582a",
+              "context": null
+            },
+            {
+              "form": "ἐμπειρότερος",
+              "lemma": "ἔμπειρος",
+              "location": "582a",
+              "context": null
+            },
+            {
+              "form": "ἔμπειροι",
+              "lemma": "ἔμπειρος",
+              "location": "582c",
+              "context": "πάντες τῆς ἡδονῆς ἔμπειροι"
+            },
+            {
+              "form": "ἔμπειρος",
+              "lemma": "ἔμπειρος",
+              "location": "582d",
+              "context": "μόνος ἔμπειρος γεγονώς"
+            },
+            {
+              "form": "ἐμπείρῳ",
+              "lemma": "ἔμπειρος",
+              "location": "582b",
+              "context": "οὐδʼ ἐμπείρῳ γίγνεσθαι"
+            },
+            {
+              "form": "ἄπειρος",
+              "lemma": "ἄπειρος",
+              "location": "582c",
+              "context": "μᾶλλον ἄπειρός ἐστι"
+            }
+          ],
+          "observation": "ἔμπειρος and its forms (including the negation ἄπειρος) recur densely as the argument turns on who has experience of all pleasures."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ὄργανον",
+              "lemma": "ὄργανον",
+              "location": "582d",
+              "context": "διʼ οὗ γε δεῖ ὀργάνου κρίνεσθαι"
+            },
+            {
+              "form": "ὄργανον",
+              "lemma": "ὄργανον",
+              "location": "582d",
+              "context": "λόγοι δὲ τούτου μάλιστα ὄργανον"
+            }
+          ],
+          "observation": "λόγοι are identified as the ὄργανον of judgment, and this ὄργανον is said to belong to the philosopher."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "θέας",
+              "lemma": "θέα",
+              "location": "582c",
+              "context": "τῆς δὲ τοῦ ὄντος θέας"
+            },
+            {
+              "form": "εἰδέναι",
+              "lemma": "οἶδα",
+              "location": "581b",
+              "context": "πρὸς τὸ εἰδέναι τὴν ἀλήθειαν"
+            },
+            {
+              "form": "εἰδέναι",
+              "lemma": "οἶδα",
+              "location": "581e",
+              "context": "τοῦ εἰδέναι τἀληθές"
+            }
+          ],
+          "observation": "The philosopher's pleasure is described both as εἰδέναι τὴν ἀλήθειαν (581b, 581e) and as τοῦ ὄντος θέα (582c)—knowing and seeing τὸ ὄν correspond."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ἥδιστος",
+              "lemma": "ἡδύς",
+              "location": "581c",
+              "context": "τίς τούτων τῶν βίων ἥδιστος"
+            },
+            {
+              "form": "ἐγκωμιάσεται",
+              "lemma": "ἐγκωμιάζω",
+              "location": "581c",
+              "context": "τὸν ἑαυτοῦ ἕκαστος μάλιστα ἐγκωμιάσεται"
+            },
+            {
+              "form": "ἀμφισβητοῦνται",
+              "lemma": "ἀμφισβητέω",
+              "location": "581e",
+              "context": "ἀμφισβητοῦνται ἑκάστου τοῦ εἴδους αἱ ἡδοναί"
+            }
+          ],
+          "observation": "Each type praises (ἐγκωμιάσεται) his own life as ἥδιστος, producing a dispute (ἀμφισβητοῦνται) that requires a judge."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "κύριος",
+              "lemma": "κύριος",
+              "location": "583a",
+              "context": "κύριος γοῦν ἐπαινέτης ὤν"
+            },
+            {
+              "form": "ἐπαινέτης",
+              "lemma": "ἐπαινέτης",
+              "location": "583a",
+              "context": null
+            },
+            {
+              "form": "ἐπαινεῖ",
+              "lemma": "ἐπαινέω",
+              "location": "582e",
+              "context": "ὁ φιλόσοφός τε καὶ ὁ φιλόλογος ἐπαινεῖ"
+            }
+          ],
+          "observation": "The philosopher is called κύριος ἐπαινέτης—an authoritative praiser—summarizing the argument that his praise (ἐπαινεῖ) is truest."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "ἡδίστη",
+              "lemma": "ἡδύς",
+              "location": "583a",
+              "context": "ἡδίστη ἂν εἴη"
+            },
+            {
+              "form": "δευτέραν",
+              "lemma": "δεύτερος",
+              "location": "583a",
+              "context": "τίνα δὲ δεύτερον … βίον"
+            },
+            {
+              "form": "ὑστάτην",
+              "lemma": "ὕστατος",
+              "location": "583a",
+              "context": "ὑστάτην δὴ τὴν τοῦ φιλοκερδοῦς"
+            }
+          ],
+          "observation": "The section closes with an explicit ranking: ἡδίστη (philosopher), δευτέραν (warrior), ὑστάτην (money-lover)."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "morphological_parallel"
+          ],
+          "elements": [
+            {
+              "form": "ἀληθέστατα",
+              "lemma": "ἀληθής",
+              "location": "582e",
+              "context": "ἀληθέστατα εἶναι"
+            },
+            {
+              "form": "ἀληθέστατα",
+              "lemma": "ἀληθής",
+              "location": "582a",
+              "context": "τίς αὐτῶν ἀληθέστατα λέγει"
+            }
+          ],
+          "observation": "ἀληθέστατα frames the judging sequence: the question (who speaks most truly, 582a) is answered with the same superlative at 582e."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-08",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "sequence_configuration",
+            "exact_repetition"
+          ],
+          "elements": [
+            {
+              "form": "δύʼ ἐφεξῆς",
+              "lemma": null,
+              "location": "583b",
+              "context": "δύʼ ἐφεξῆς ἂν εἴη καὶ δὶς νενικηκὼς ὁ δίκαιος τὸν ἄδικον"
+            },
+            {
+              "form": "τρίτον",
+              "lemma": "τρίτος",
+              "location": "583b",
+              "context": "τὸ δὲ τρίτον Ὀλυμπικῶς τῷ σωτῆρί τε καὶ τῷ Ὀλυμπίῳ Διί"
+            }
+          ],
+          "observation": "The section opens with a count of two prior victories and introduces a third, framed as an Olympic dedication to Zeus the Savior."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lemma_recurrence",
+            "directional_spatial_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἄνω",
+              "lemma": "ἄνω",
+              "location": "584d",
+              "context": "τὸ μὲν ἄνω, τὸ δὲ κάτω, τὸ δὲ μέσον"
+            },
+            {
+              "form": "κάτω",
+              "lemma": "κάτω",
+              "location": "584d",
+              "context": null
+            },
+            {
+              "form": "μέσον",
+              "lemma": "μέσος",
+              "location": "584d",
+              "context": null
+            },
+            {
+              "form": "κάτω",
+              "lemma": "κάτω",
+              "location": "586a",
+              "context": "κάτω, ὡς ἔοικεν, καὶ μέχρι πάλιν πρὸς τὸ μεταξὺ φέρονταί"
+            },
+            {
+              "form": "ἀληθῶς ἄνω",
+              "lemma": null,
+              "location": "586a",
+              "context": "πρὸς τὸ ἀληθῶς ἄνω οὔτε ἀνέβλεψαν πώποτε"
+            }
+          ],
+          "observation": "A tripartite vertical scheme (ἄνω, κάτω, μέσον) is introduced at 584d and reapplied at 586a to describe the movement of those ignorant of true pleasure, who travel only between κάτω and μεταξύ without reaching τὸ ἀληθῶς ἄνω."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "πληρώσει",
+              "lemma": "πλήρωσις",
+              "location": "585a",
+              "context": "πρὸς πληρώσει τε καὶ ἡδονῇ γίγνεσθαι"
+            },
+            {
+              "form": "κενώσεις",
+              "lemma": "κένωσις",
+              "location": "585b",
+              "context": "κενώσεις τινές εἰσιν τῆς περὶ τὸ σῶμα ἕξεως"
+            },
+            {
+              "form": "κενότης",
+              "lemma": "κενότης",
+              "location": "585b",
+              "context": "κενότης ἐστὶ γῆς περὶ ψυχὴν αὖ ἕξεως"
+            },
+            {
+              "form": "πληροῖτʼ",
+              "lemma": "πληρόω",
+              "location": "585b",
+              "context": null
+            },
+            {
+              "form": "πλήρωσις",
+              "lemma": "πλήρωσις",
+              "location": "585b",
+              "context": "πλήρωσις δὲ ἀληθεστέρα τοῦ ἧττον ἢ τοῦ μᾶλλον ὄντος"
+            },
+            {
+              "form": "ἐπληρώθησαν",
+              "lemma": "πληρόω",
+              "location": "586a",
+              "context": "οὐδὲ τοῦ ὄντος τῷ ὄντι ἐπληρώθησαν"
+            },
+            {
+              "form": "πλησμονὴν",
+              "lemma": "πλησμονή",
+              "location": "586d",
+              "context": "πλησμονὴν τιμῆς τε καὶ νίκης καὶ θυμοῦ διώκων"
+            },
+            {
+              "form": "πιμπλάντες",
+              "lemma": "πίμπλημι",
+              "location": "586b",
+              "context": "οὐχὶ τοῖς οὖσιν οὐδὲ τὸ ὂν οὐδὲ τὸ στέγον ἑαυτῶν πιμπλάντες"
+            }
+          ],
+          "observation": "Filling and emptying (πληρόω, κένωσις, κενότης, πλησμονή, πίμπλημι) recur densely as the central vocabulary for the ontological account of pleasure, applied to both body and soul."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "exact_repetition",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐσκιαγραφημένη",
+              "lemma": "σκιαγραφέω",
+              "location": "583b",
+              "context": "ἀλλʼ ἐσκιαγραφημένη τις"
+            },
+            {
+              "form": "ἐσκιαγραφημέναις",
+              "lemma": "σκιαγραφέω",
+              "location": "586b",
+              "context": "εἰδώλοις τῆς ἀληθοῦς ἡδονῆς καὶ ἐσκιαγραφημέναις"
+            }
+          ],
+          "observation": "ἐσκιαγραφημένη describes the pleasures of the non-wise at the section's opening and returns at 586c in the same application, framing the entire argument."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "local_contrast",
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἡσυχίαν",
+              "lemma": "ἡσυχία",
+              "location": "583c",
+              "context": "μεταξὺ τούτοιν ἀμφοῖν ἐν μέσῳ ὂν ἡσυχίαν τινὰ περὶ ταῦτα τῆς ψυχῆς"
+            },
+            {
+              "form": "κίνησίς",
+              "lemma": "κίνησις",
+              "location": "583e",
+              "context": "τό γε ἡδὺ ἐν ψυχῇ γιγνόμενον καὶ τὸ λυπηρὸν κίνησίς τις ἀμφοτέρω ἐστόν"
+            }
+          ],
+          "observation": "The middle state is characterized as ἡσυχία (rest) while pleasure and pain are characterized as κίνησις (motion), establishing a local contrast."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "γοητεία",
+              "lemma": "γοητεία",
+              "location": "584a",
+              "context": "οὐδὲν ὑγιὲς τούτων τῶν φαντασμάτων πρὸς ἡδονῆς ἀλήθειαν, ἀλλὰ γοητεία τις"
+            }
+          ],
+          "observation": "The illusory appearances of pleasure are called γοητεία (sorcery), a striking singleton characterizing the epistemic status of false pleasures."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ὀσμὰς",
+              "lemma": "ὀσμή",
+              "location": "584b",
+              "context": "τὰς περὶ τὰς ὀσμὰς ἡδονάς"
+            },
+            {
+              "form": "προλυπηθέντι",
+              "lemma": "προλυπέω",
+              "location": "584b",
+              "context": "οὐ προλυπηθέντι ἐξαίφνης ἀμήχανοι τὸ μέγεθος γίγνονται"
+            },
+            {
+              "form": "λύπην οὐδεμίαν καταλείπουσιν",
+              "lemma": null,
+              "location": "584b",
+              "context": null
+            }
+          ],
+          "observation": "Pleasures of smell are cited as a counterexample: they arise without prior pain and leave no pain on ceasing, demonstrating pleasures independent of the pain-pleasure cycle."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "semantic_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "σίτου τε καὶ ποτοῦ καὶ ὄψου καὶ συμπάσης τροφῆς",
+              "lemma": null,
+              "location": "585b",
+              "context": null
+            },
+            {
+              "form": "δόξης τε ἀληθοῦς εἶδος καὶ ἐπιστήμης καὶ νοῦ",
+              "lemma": null,
+              "location": "585b",
+              "context": null
+            },
+            {
+              "form": "πάσης ἀρετῆς",
+              "lemma": null,
+              "location": "585c",
+              "context": null
+            }
+          ],
+          "observation": "Two classes of filling are contrasted: bodily (food, drink, relish) versus soul's (true opinion, knowledge, mind, virtue), to determine which participates more in being."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "βοσκημάτων δίκην",
+              "lemma": "βόσκημα",
+              "location": "586a",
+              "context": null
+            },
+            {
+              "form": "βόσκονται",
+              "lemma": "βόσκω",
+              "location": "586a",
+              "context": null
+            },
+            {
+              "form": "χορταζόμενοι",
+              "lemma": "χορτάζω",
+              "location": "586a",
+              "context": null
+            },
+            {
+              "form": "ὀχεύοντες",
+              "lemma": "ὀχεύω",
+              "location": "586a",
+              "context": null
+            },
+            {
+              "form": "λακτίζοντες",
+              "lemma": "λακτίζω",
+              "location": "586b",
+              "context": null
+            },
+            {
+              "form": "κυρίττοντες",
+              "lemma": "κυρίττω",
+              "location": "586b",
+              "context": null
+            },
+            {
+              "form": "σιδηροῖς κέρασί τε καὶ ὁπλαῖς",
+              "lemma": null,
+              "location": "586b",
+              "context": null
+            }
+          ],
+          "observation": "A dense animal imagery cluster: those ignorant of virtue are likened to cattle—grazing, mating, kicking, butting with iron horns and hooves—killing each other from insatiability."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "τὸ τῆς Ἑλένης εἴδωλον",
+              "lemma": null,
+              "location": "586c",
+              "context": "ὥσπερ τὸ τῆς Ἑλένης εἴδωλον ὑπὸ τῶν ἐν Τροίᾳ Στησίχορός φησι γενέσθαι περιμάχητον ἀγνοίᾳ τοῦ ἀληθοῦς"
+            }
+          ],
+          "observation": "The phantom of Helen (from Stesichorus) is cited as an analogy for illusory pleasures fought over in ignorance of the true."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "εἰδώλοις",
+              "lemma": "εἴδωλον",
+              "location": "586b",
+              "context": "εἰδώλοις τῆς ἀληθοῦς ἡδονῆς"
+            },
+            {
+              "form": "εἴδωλον",
+              "lemma": "εἴδωλον",
+              "location": "586c",
+              "context": "τὸ τῆς Ἑλένης εἴδωλον"
+            },
+            {
+              "form": "εἰδώλῳ",
+              "lemma": "εἴδωλον",
+              "location": "587c",
+              "context": "τρίτῳ εἰδώλῳ πρὸς ἀλήθειαν"
+            }
+          ],
+          "observation": "εἴδωλον recurs three times: pleasures as phantoms of true pleasure, Helen's phantom, and the tyrant's third-remove phantom of pleasure."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "lemma_recurrence",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἀληθοῦς",
+              "lemma": "ἀληθής",
+              "location": "586b",
+              "context": "εἰδώλοις τῆς ἀληθοῦς ἡδονῆς"
+            },
+            {
+              "form": "ἀληθεστάτας",
+              "lemma": "ἀληθής",
+              "location": "586d",
+              "context": "τὰς ἀληθεστάτας τε λήψονται"
+            },
+            {
+              "form": "ἀληθοῦς ἡδονῆς",
+              "lemma": null,
+              "location": "587b",
+              "context": "πλεῖστον δὴ οἶμαι ἀληθοῦς ἡδονῆς"
+            },
+            {
+              "form": "ἀληθείᾳ ἡδονῆς",
+              "lemma": null,
+              "location": "587d",
+              "context": "μεταστρέψας ἀληθείᾳ ἡδονῆς"
+            }
+          ],
+          "observation": "Forms of ἀληθής recur densely throughout the section in connection with ἡδονή, establishing a persistent pairing of truth with pleasure."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "sequence_configuration",
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "τρίτος",
+              "lemma": "τρίτος",
+              "location": "587c",
+              "context": "ἀπὸ τοῦ ὀλιγαρχικοῦ τρίτος που ὁ τύραννος ἀφειστήκει"
+            },
+            {
+              "form": "τρίτος",
+              "lemma": "τρίτος",
+              "location": "587c",
+              "context": "ὁ δέ γε ὀλιγαρχικὸς ἀπὸ τοῦ βασιλικοῦ αὖ τρίτος"
+            },
+            {
+              "form": "τριπλασίου…τριπλάσιον",
+              "lemma": "τριπλάσιος",
+              "location": "587d",
+              "context": "τριπλασίου ἄρα τριπλάσιον ἀριθμῷ ἀληθοῦς ἡδονῆς ἀφέστηκεν τύραννος"
+            },
+            {
+              "form": "ἐπίπεδον",
+              "lemma": "ἐπίπεδος",
+              "location": "587d",
+              "context": "ἐπίπεδον ἄρʼ…τὸ εἴδωλον κατὰ τὸν τοῦ μήκους ἀριθμόν"
+            },
+            {
+              "form": "δύναμιν καὶ τρίτην αὔξην",
+              "lemma": null,
+              "location": "587d",
+              "context": null
+            },
+            {
+              "form": "ἐννεακαιεικοσικαιεπτακοσιοπλασιάκις",
+              "lemma": null,
+              "location": "587e",
+              "context": null
+            }
+          ],
+          "observation": "A numerical calculation proceeds: the tyrant is third from the oligarch, who is third from the king; triple of triple gives 9; this is squared (ἐπίπεδον) and then cubed (τρίτη αὔξη), yielding 729 (ἐννεακαιεικοσικαιεπτακοσιοπλασιάκις)."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "τύραννος",
+              "lemma": "τύραννος",
+              "location": "587b",
+              "context": "ἀηδέστατα ἄρα…ὁ τύραννος βιώσεται"
+            },
+            {
+              "form": "βασιλεὺς",
+              "lemma": "βασιλεύς",
+              "location": "587b",
+              "context": "ὁ δὲ βασιλεὺς ἥδιστα"
+            }
+          ],
+          "observation": "Tyrant and king are set as polar opposites: the tyrant lives most unpleasantly, the king most pleasantly."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "lexical_family"
+          ],
+          "elements": [
+            {
+              "form": "φιλοκερδὲς",
+              "lemma": "φιλοκερδής",
+              "location": "586d",
+              "context": null
+            },
+            {
+              "form": "φιλόνικον",
+              "lemma": "φιλόνικος",
+              "location": "586d",
+              "context": null
+            },
+            {
+              "form": "φιλοτιμίαν",
+              "lemma": "φιλοτιμία",
+              "location": "586c",
+              "context": null
+            },
+            {
+              "form": "φιλονικίαν",
+              "lemma": "φιλονικία",
+              "location": "586c",
+              "context": null
+            }
+          ],
+          "observation": "A cluster of φιλο- compounds names the motivations of the spirited and appetitive parts: love of gain, love of victory, love of honor."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἄπειροι",
+              "lemma": "ἄπειρος",
+              "location": "584e",
+              "context": "οἱ ἄπειροι ἀληθείας"
+            },
+            {
+              "form": "ἀπειρίᾳ λευκοῦ",
+              "lemma": "ἀπειρία",
+              "location": "585a",
+              "context": null
+            },
+            {
+              "form": "ἀπειρίᾳ ἡδονῆς",
+              "lemma": "ἀπειρία",
+              "location": "585a",
+              "context": null
+            },
+            {
+              "form": "ἄπειροι",
+              "lemma": "ἄπειρος",
+              "location": "586a",
+              "context": "οἱ ἄρα φρονήσεως καὶ ἀρετῆς ἄπειροι"
+            }
+          ],
+          "observation": "ἄπειρος/ἀπειρία recurs: inexperience of truth, of white, of pleasure, and of wisdom—each time characterizing the epistemic deficit that produces illusory pleasure."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "πρὸς μέλαν φαιὸν ἀποσκοποῦντες ἀπειρίᾳ λευκοῦ",
+              "lemma": null,
+              "location": "585a",
+              "context": null
+            }
+          ],
+          "observation": "A color analogy (grey seen against black appears white to those ignorant of white) illustrates the relativistic illusion of pleasure."
+        },
+        {
+          "signal_id": "s018",
+          "signal_types": [
+            "lexical_family",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "δούλαις",
+              "lemma": "δοῦλος",
+              "location": "587c",
+              "context": "δούλαις τισὶ δορυφόροις ἡδοναῖς συνοικεῖ"
+            },
+            {
+              "form": "δορυφόροις",
+              "lemma": "δορυφόρος",
+              "location": "587c",
+              "context": null
+            }
+          ],
+          "observation": "The tyrant's pleasures are called slave bodyguard pleasures (δούλαις δορυφόροις ἡδοναῖς), combining servitude and armed attendance."
+        },
+        {
+          "signal_id": "s019",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "νενικηκὼς",
+              "lemma": "νικάω",
+              "location": "583b",
+              "context": "δὶς νενικηκὼς ὁ δίκαιος τὸν ἄδικον"
+            },
+            {
+              "form": "νικᾷ",
+              "lemma": "νικάω",
+              "location": "588a",
+              "context": "τοσοῦτον ἡδονῇ νικᾷ ὁ ἀγαθός τε καὶ δίκαιος τὸν κακόν τε καὶ ἄδικον"
+            },
+            {
+              "form": "νικήσει",
+              "lemma": "νικάω",
+              "location": "588a",
+              "context": "ἀμηχάνῳ δὴ ὅσῳ πλείονι νικήσει εὐσχημοσύνῃ τε βίου καὶ κάλλει καὶ ἀρετῇ"
+            }
+          ],
+          "observation": "νικάω frames the section: the just man has twice defeated the unjust at the opening, and at the close defeats him in pleasure and further in beauty and virtue."
+        },
+        {
+          "signal_id": "s020",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "γνησίας",
+              "lemma": "γνήσιος",
+              "location": "587b",
+              "context": "τριῶν ἡδονῶν…μιᾶς μὲν γνησίας"
+            },
+            {
+              "form": "νόθαιν",
+              "lemma": "νόθος",
+              "location": "587c",
+              "context": "δυοῖν δὲ νόθαιν"
+            }
+          ],
+          "observation": "The three pleasures are divided into one legitimate (γνησία) and two bastard (νόθαι), applying birth-legitimacy language to pleasure."
+        },
+        {
+          "signal_id": "s021",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀφέστηκεν",
+              "lemma": "ἀφίστημι",
+              "location": "587a",
+              "context": "ἃ πλεῖστον φιλοσοφίας τε καὶ λόγου ἀφέστηκεν"
+            },
+            {
+              "form": "ἀφίσταται",
+              "lemma": "ἀφίστημι",
+              "location": "587a",
+              "context": "πλεῖστον δὲ λόγου ἀφίσταται"
+            },
+            {
+              "form": "ἀφεστῶσαι",
+              "lemma": "ἀφίστημι",
+              "location": "587a",
+              "context": null
+            },
+            {
+              "form": "ἀφεστήξει",
+              "lemma": "ἀφίστημι",
+              "location": "587b",
+              "context": null
+            },
+            {
+              "form": "ἀφειστήκει",
+              "lemma": "ἀφίστημι",
+              "location": "587c",
+              "context": null
+            },
+            {
+              "form": "ἀφέστηκεν",
+              "lemma": "ἀφίστημι",
+              "location": "587d",
+              "context": null
+            },
+            {
+              "form": "ἀφεστηκὼς",
+              "lemma": "ἀφίστημι",
+              "location": "587d",
+              "context": null
+            },
+            {
+              "form": "ἀφεστηκότα",
+              "lemma": "ἀφίστημι",
+              "location": "587e",
+              "context": null
+            }
+          ],
+          "observation": "ἀφίστημι recurs with remarkable density from 587a to 587e, measuring the tyrant's distance from true pleasure in progressively quantified terms."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-09",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "πλάσαντες",
+              "lemma": "πλάσσω",
+              "location": "588b",
+              "context": "εἰκόνα πλάσαντες τῆς ψυχῆς λόγῳ"
+            },
+            {
+              "form": "πλάττε",
+              "lemma": "πλάσσω",
+              "location": "588c",
+              "context": "πλάττε τοίνυν μίαν μὲν ἰδέαν θηρίου ποικίλου"
+            },
+            {
+              "form": "πλάστου",
+              "lemma": "πλάστης",
+              "location": "588d",
+              "context": "δεινοῦ πλάστου τὸ ἔργον"
+            },
+            {
+              "form": "εὐπλαστότερον",
+              "lemma": "εὔπλαστος",
+              "location": "588d",
+              "context": "εὐπλαστότερον κηροῦ καὶ τῶν τοιούτων λόγος"
+            },
+            {
+              "form": "πεπλάσθω",
+              "lemma": "πλάσσω",
+              "location": "588d",
+              "context": null
+            },
+            {
+              "form": "πέπλασται",
+              "lemma": "πλάσσω",
+              "location": "588d",
+              "context": null
+            },
+            {
+              "form": "περίπλασον",
+              "lemma": "περιπλάσσω",
+              "location": "588d",
+              "context": "περίπλασον δὴ αὐτοῖς ἔξωθεν ἑνὸς εἰκόνα"
+            },
+            {
+              "form": "περιπέπλασται",
+              "lemma": "περιπλάσσω",
+              "location": "588e",
+              "context": null
+            }
+          ],
+          "observation": "The πλάσσω family recurs densely across 588b–588e, moving from the initial proposal to mold an image through the act of molding, the craftsman who molds, the plasticity of λόγος compared to wax, and the final encasing (περιπλάσσω) of the composite in a human exterior."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἥμερα",
+              "lemma": "ἥμερος",
+              "location": "589b",
+              "context": "τὰ μὲν ἥμερα τρέφων καὶ τιθασεύων"
+            },
+            {
+              "form": "ἀγρίων",
+              "lemma": "ἄγριος",
+              "location": "589b",
+              "context": "τὰ δὲ ἄγρια ἀποκωλύων φύεσθαι"
+            },
+            {
+              "form": "ἡμέρων",
+              "lemma": "ἥμερος",
+              "location": "588c",
+              "context": "ἡμέρων δὲ θηρίων ἔχοντος κεφαλὰς"
+            },
+            {
+              "form": "ἀγρίων",
+              "lemma": "ἄγριος",
+              "location": "588c",
+              "context": "καὶ ἀγρίων"
+            },
+            {
+              "form": "ἥμερον",
+              "lemma": "ἥμερος",
+              "location": "589d",
+              "context": "τὸ ἥμερον δουλούμενα"
+            },
+            {
+              "form": "ἀγρίῳ",
+              "lemma": "ἄγριος",
+              "location": "589d",
+              "context": "ὑπὸ τῷ ἀγρίῳ"
+            },
+            {
+              "form": "ἥμερον",
+              "lemma": "ἥμερος",
+              "location": "591b",
+              "context": "τὸ δὲ ἥμερον ἐλευθεροῦται"
+            },
+            {
+              "form": "ἡμεροῦται",
+              "lemma": "ἡμερόω",
+              "location": "591b",
+              "context": "τὸ μὲν θηριῶδες κοιμίζεται καὶ ἡμεροῦται"
+            }
+          ],
+          "observation": "ἥμερος and ἄγριος recur as a paired contrast throughout, applied first to the many-headed beast's heads, then to the just person's cultivation, then to the enslaving of the tame by the wild, and finally to punishment taming the beastly and freeing the tame."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "λυσιτελεῖν",
+              "lemma": "λυσιτελέω",
+              "location": "588b",
+              "context": "λυσιτελεῖν ἀδικεῖν τῷ τελέως μὲν ἀδίκῳ"
+            },
+            {
+              "form": "λυσιτελεῖ",
+              "lemma": "λυσιτελέω",
+              "location": "588e",
+              "context": "λυσιτελεῖ τούτῳ ἀδικεῖν τῷ ἀνθρώπῳ"
+            },
+            {
+              "form": "λυσιτελεῖ",
+              "lemma": "λυσιτελέω",
+              "location": "589d",
+              "context": "ἔστιν οὖν ὅτῳ λυσιτελεῖ ἐκ τούτου τοῦ λόγου χρυσίον λαμβάνειν ἀδίκως"
+            },
+            {
+              "form": "ἐλυσιτέλει",
+              "lemma": "λυσιτελέω",
+              "location": "589e",
+              "context": "οὐκ ἂν αὐτῷ ἐλυσιτέλει"
+            },
+            {
+              "form": "λυσιτελεῖν",
+              "lemma": "λυσιτελέω",
+              "location": "591a",
+              "context": "κατὰ τίνα λόγον λυσιτελεῖν ἀδικεῖν"
+            },
+            {
+              "form": "λυσιτελεῖν",
+              "lemma": "λυσιτελέω",
+              "location": "591a",
+              "context": "ἀδικοῦντα λανθάνειν καὶ μὴ διδόναι δίκην λυσιτελεῖν"
+            }
+          ],
+          "observation": "λυσιτελέω recurs six times, framing the section: it states the original claim, is applied to the image, questioned with gold, and finally denied in the concluding questions."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "δουλούμενα",
+              "lemma": "δουλόω",
+              "location": "589d",
+              "context": "ὑπὸ τῷ ἀγρίῳ τὸ ἥμερον δουλούμενα"
+            },
+            {
+              "form": "καταδουλοῦται",
+              "lemma": "καταδουλόω",
+              "location": "589d",
+              "context": "λαμβάνων τὸ χρυσίον ἅμα καταδουλοῦται τὸ βέλτιστον ἑαυτοῦ"
+            },
+            {
+              "form": "ἐδουλοῦτο",
+              "lemma": "δουλόω",
+              "location": "589e",
+              "context": "ὑὸν ἢ θυγατέρα ἐδουλοῦτο"
+            },
+            {
+              "form": "δουλοῦται",
+              "lemma": "δουλόω",
+              "location": "589e",
+              "context": "τὸ ἑαυτοῦ θειότατον ὑπὸ τῷ ἀθεωτάτῳ τε καὶ μιαρωτάτῳ δουλοῦται"
+            },
+            {
+              "form": "δοῦλον",
+              "lemma": "δοῦλος",
+              "location": "590c",
+              "context": "δοῦλον αὐτόν φαμεν δεῖν εἶναι"
+            },
+            {
+              "form": "δούλου",
+              "lemma": "δοῦλος",
+              "location": "590d",
+              "context": "οὐκ ἐπὶ βλάβῃ τῇ τοῦ δούλου"
+            }
+          ],
+          "observation": "The δουλ- family recurs across shifting contexts: enslavement of the tame by the wild, self-enslavement through gold, enslavement of son or daughter, enslavement of the divine part, and finally beneficial slavery under the best ruler."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "local_contrast",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "ἔξωθεν",
+              "lemma": "ἔξωθεν",
+              "location": "588d",
+              "context": "περίπλασον δὴ αὐτοῖς ἔξωθεν ἑνὸς εἰκόνα"
+            },
+            {
+              "form": "ἐντὸς",
+              "lemma": "ἐντός",
+              "location": "588d",
+              "context": "τῷ μὴ δυναμένῳ τὰ ἐντὸς ὁρᾶν"
+            },
+            {
+              "form": "ἔξω",
+              "lemma": "ἔξω",
+              "location": "588e",
+              "context": "τὸ ἔξω μόνον ἔλυτρον ὁρῶντι"
+            },
+            {
+              "form": "ἐντὸς",
+              "lemma": "ἐντός",
+              "location": "589a",
+              "context": "τοῦ ἀνθρώπου ὁ ἐντὸς ἄνθρωπος"
+            },
+            {
+              "form": "ἔξωθεν",
+              "lemma": "ἔξωθεν",
+              "location": "590d",
+              "context": "εἰ δὲ μή, ἔξωθεν ἐφεστῶτος"
+            }
+          ],
+          "observation": "An inside/outside contrast structures the image: the exterior human shell conceals the interior composite, and ὁ ἐντὸς ἄνθρωπος names the inner human who must rule; ἔξωθεν returns at 590d for external governance."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "lemma_recurrence",
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "θηρίου",
+              "lemma": "θηρίον",
+              "location": "588c",
+              "context": "ἰδέαν θηρίου ποικίλου καὶ πολυκεφάλου"
+            },
+            {
+              "form": "θηρίων",
+              "lemma": "θηρίον",
+              "location": "588c",
+              "context": "ἡμέρων δὲ θηρίων"
+            },
+            {
+              "form": "θηρίον",
+              "lemma": "θηρίον",
+              "location": "588e",
+              "context": "τὸ παντοδαπὸν θηρίον εὐωχοῦντι"
+            },
+            {
+              "form": "θρέμματος",
+              "lemma": "θρέμμα",
+              "location": "589b",
+              "context": "τοῦ πολυκεφάλου θρέμματος"
+            },
+            {
+              "form": "θρέμμα",
+              "lemma": "θρέμμα",
+              "location": "590a",
+              "context": "τὸ μέγα ἐκεῖνο καὶ πολυειδὲς θρέμμα"
+            },
+            {
+              "form": "θηρίῳ",
+              "lemma": "θηρίον",
+              "location": "590b",
+              "context": "ὑπὸ τῷ ὀχλώδει θηρίῳ"
+            },
+            {
+              "form": "θρεμμάτων",
+              "lemma": "θρέμμα",
+              "location": "590c",
+              "context": "ἄρχειν τῶν ἐν αὑτῷ θρεμμάτων"
+            },
+            {
+              "form": "θηριῶδες",
+              "lemma": "θηριώδης",
+              "location": "589d",
+              "context": "τὰ θηριώδη ποιοῦντα τῆς φύσεως"
+            },
+            {
+              "form": "θηριῶδες",
+              "lemma": "θηριώδης",
+              "location": "591b",
+              "context": "τὸ μὲν θηριῶδες κοιμίζεται"
+            }
+          ],
+          "observation": "θηρίον and θρέμμα recur throughout, naming the many-headed creature alternately as wild beast and as nursling/creature to be tended, with θηριώδης as the adjective for the beastly element."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "local_contrast",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἄνθρωπον",
+              "lemma": "ἄνθρωπος",
+              "location": "588d",
+              "context": "μίαν δὲ ἀνθρώπου"
+            },
+            {
+              "form": "ἄνθρωπον",
+              "lemma": "ἄνθρωπος",
+              "location": "588e",
+              "context": "ἓν ζῷον φαίνεσθαι, ἄνθρωπον"
+            },
+            {
+              "form": "ἀνθρώπῳ",
+              "lemma": "ἄνθρωπος",
+              "location": "588e",
+              "context": "λυσιτελεῖ τούτῳ ἀδικεῖν τῷ ἀνθρώπῳ"
+            },
+            {
+              "form": "ἄνθρωπον",
+              "lemma": "ἄνθρωπος",
+              "location": "589a",
+              "context": "τὸν δὲ ἄνθρωπον λιμοκτονεῖν"
+            },
+            {
+              "form": "ἄνθρωπος",
+              "lemma": "ἄνθρωπος",
+              "location": "589b",
+              "context": "τοῦ ἀνθρώπου ὁ ἐντὸς ἄνθρωπος"
+            }
+          ],
+          "observation": "ἄνθρωπος operates at multiple levels: as one of the three inner forms (588d), as the outer appearance (588e), as the whole composite person (588e), as the inner form being starved (589a), and as ὁ ἐντὸς ἄνθρωπος who must rule (589b)."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "τρέφων",
+              "lemma": "τρέφω",
+              "location": "589b",
+              "context": "τὰ μὲν ἥμερα τρέφων καὶ τιθασεύων"
+            },
+            {
+              "form": "θρέψει",
+              "lemma": "τρέφω",
+              "location": "589b",
+              "context": "οὕτω θρέψει"
+            },
+            {
+              "form": "γεωργός",
+              "lemma": "γεωργός",
+              "location": "589b",
+              "context": "ἐπιμελήσεται ὥσπερ γεωργός"
+            },
+            {
+              "form": "φύειν",
+              "lemma": "φύω",
+              "location": "588c",
+              "context": "δυνατοῦ μεταβάλλειν καὶ φύειν ἐξ αὑτοῦ"
+            },
+            {
+              "form": "φύεσθαι",
+              "lemma": "φύω",
+              "location": "589b",
+              "context": "τὰ δὲ ἄγρια ἀποκωλύων φύεσθαι"
+            }
+          ],
+          "observation": "A cultivation/agriculture cluster: the just person tends the soul like a γεωργός, nourishing (τρέφων/θρέψει) tame growths and preventing wild ones from growing (φύεσθαι), while the beast itself can grow (φύειν) from itself."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἰσχυρὸν",
+              "lemma": "ἰσχυρός",
+              "location": "588e",
+              "context": "τὸ παντοδαπὸν θηρίον εὐωχοῦντι ποιεῖν ἰσχυρὸν"
+            },
+            {
+              "form": "ἀσθενῆ",
+              "lemma": "ἀσθενής",
+              "location": "589a",
+              "context": "τὸν δὲ ἄνθρωπον λιμοκτονεῖν καὶ ποιεῖν ἀσθενῆ"
+            },
+            {
+              "form": "ἀσθενὲς",
+              "lemma": "ἀσθενής",
+              "location": "590c",
+              "context": "ἀσθενὲς φύσει ἔχῃ τὸ τοῦ βελτίστου εἶδος"
+            }
+          ],
+          "observation": "ἰσχυρός and ἀσθενής are set in direct contrast: injustice makes the beast strong and the inner human weak; the artisan's nature has the best part weak by nature."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "φίλον",
+              "lemma": "φίλος",
+              "location": "589a",
+              "context": "μηδὲ φίλον ποιεῖν"
+            },
+            {
+              "form": "φίλα",
+              "lemma": "φίλος",
+              "location": "589b",
+              "context": "φίλα ποιησάμενος ἀλλήλοις τε καὶ αὑτῷ"
+            },
+            {
+              "form": "φίλοι",
+              "lemma": "φίλος",
+              "location": "590d",
+              "context": "ἵνα εἰς δύναμιν πάντες ὅμοιοι ὦμεν καὶ φίλοι"
+            }
+          ],
+          "observation": "φίλος appears three times: the unjust soul makes nothing friendly to anything else; the just soul makes all parts friends to each other and to itself; governance aims at making all people friends."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "Ἐριφύλη",
+              "lemma": "Ἐριφύλη",
+              "location": "590a",
+              "context": "ἢ Ἐριφύλη ἐπὶ τῇ τοῦ ἀνδρὸς ψυχῇ τὸν ὅρμον δεξαμένη"
+            }
+          ],
+          "observation": "The mythological exemplum of Eriphyle, who accepted the necklace (ὅρμον) in exchange for her husband's life (ψυχῇ), is introduced as a comparison for self-enslavement through gold."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "lemma_recurrence",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "θείῳ",
+              "lemma": "θεῖος",
+              "location": "589d",
+              "context": "τὰ ὑπὸ τῷ θείῳ"
+            },
+            {
+              "form": "θειότατον",
+              "lemma": "θεῖος",
+              "location": "589e",
+              "context": "τὸ ἑαυτοῦ θειότατον"
+            },
+            {
+              "form": "ἀθεωτάτῳ",
+              "lemma": "ἄθεος",
+              "location": "589e",
+              "context": "ὑπὸ τῷ ἀθεωτάτῳ τε καὶ μιαρωτάτῳ"
+            },
+            {
+              "form": "θεῖον",
+              "lemma": "θεῖος",
+              "location": "590d",
+              "context": "τὸ θεῖον ἄρχον"
+            },
+            {
+              "form": "θείου",
+              "lemma": "θεῖος",
+              "location": "590d",
+              "context": "ὑπὸ θείου καὶ φρονίμου ἄρχεσθαι"
+            }
+          ],
+          "observation": "θεῖος recurs and is set against ἀθεώτατος in superlative contrast (589e); the divine element is identified with the ruling part within and with the external ruler."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "structural_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἐν αὑτῷ",
+              "lemma": null,
+              "location": "590d",
+              "context": "οἰκεῖον ἔχοντος ἐν αὑτῷ"
+            },
+            {
+              "form": "ἔξωθεν ἐφεστῶτος",
+              "lemma": null,
+              "location": "590d",
+              "context": "εἰ δὲ μή, ἔξωθεν ἐφεστῶτος"
+            },
+            {
+              "form": "ἐν αὐτοῖς",
+              "lemma": null,
+              "location": "590e",
+              "context": "ἕως ἂν ἐν αὐτοῖς ὥσπερ ἐν πόλει πολιτείαν καταστήσωμεν"
+            },
+            {
+              "form": "ἐν αὐτῷ",
+              "lemma": null,
+              "location": "591a",
+              "context": "ἀντικαταστήσωμεν φύλακα ὅμοιον καὶ ἄρχοντα ἐν αὐτῷ"
+            }
+          ],
+          "observation": "The phrase ἐν αὑτῷ/ἐν αὐτῷ recurs to locate governance within the soul, paired with the alternative of external rule (ἔξωθεν), and the analogy of establishing a constitution within children as within a city."
+        },
+        {
+          "signal_id": "s014",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "Χιμαίρας",
+              "lemma": "Χίμαιρα",
+              "location": "588c",
+              "context": null
+            },
+            {
+              "form": "Σκύλλης",
+              "lemma": "Σκύλλα",
+              "location": "588c",
+              "context": null
+            },
+            {
+              "form": "Κερβέρου",
+              "lemma": "Κέρβερος",
+              "location": "588c",
+              "context": null
+            }
+          ],
+          "observation": "Three mythological composite creatures are named in sequence as precedents for the soul-image: Chimaera, Scylla, Cerberus."
+        },
+        {
+          "signal_id": "s015",
+          "signal_types": [
+            "local_contrast",
+            "intention_completion"
+          ],
+          "elements": [
+            {
+              "form": "ἐλευθέρους",
+              "lemma": "ἐλεύθερος",
+              "location": "590e",
+              "context": "τὸ μὴ ἐᾶν ἐλευθέρους εἶναι"
+            },
+            {
+              "form": "ἐλεύθερον",
+              "lemma": "ἐλεύθερος",
+              "location": "591a",
+              "context": "καὶ τότε δὴ ἐλεύθερον ἀφίεμεν"
+            },
+            {
+              "form": "ἐλευθεροῦται",
+              "lemma": "ἐλευθερόω",
+              "location": "591b",
+              "context": "τὸ δὲ ἥμερον ἐλευθεροῦται"
+            }
+          ],
+          "observation": "Freedom is first withheld from children (μὴ ἐᾶν ἐλευθέρους), then granted once the inner guardian is established (ἐλεύθερον ἀφίεμεν), and the tame part of the punished soul is freed (ἐλευθεροῦται)."
+        },
+        {
+          "signal_id": "s016",
+          "signal_types": [
+            "semantic_cluster"
+          ],
+          "elements": [
+            {
+              "form": "λέοντος",
+              "lemma": "λέων",
+              "location": "588d",
+              "context": "ἄλλην ἰδέαν λέοντος"
+            },
+            {
+              "form": "λέοντα",
+              "lemma": "λέων",
+              "location": "588e",
+              "context": "καὶ τὸν λέοντα καὶ τὰ περὶ τὸν λέοντα"
+            },
+            {
+              "form": "λέοντος",
+              "lemma": "λέων",
+              "location": "589b",
+              "context": "σύμμαχον ποιησάμενος τὴν τοῦ λέοντος φύσιν"
+            },
+            {
+              "form": "λεοντῶδές",
+              "lemma": "λεοντώδης",
+              "location": "590a",
+              "context": "τὸ λεοντῶδές τε καὶ ὀφεῶδες"
+            },
+            {
+              "form": "λέοντος",
+              "lemma": "λέων",
+              "location": "590b",
+              "context": "ἀντὶ λέοντος πίθηκον γίγνεσθαι"
+            }
+          ],
+          "observation": "The lion recurs as the middle element: fed alongside the beast in injustice, made an ally in justice, liable to disproportionate growth (αὐθάδεια), and degraded from lion to ape (πίθηκον) through flattery."
+        },
+        {
+          "signal_id": "s017",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "πίθηκον",
+              "lemma": "πίθηκος",
+              "location": "590b",
+              "context": "ἐκ νέου ἀντὶ λέοντος πίθηκον γίγνεσθαι"
+            }
+          ],
+          "observation": "The ape appears as a degraded substitute for the lion: flattery and servility turn the spirited part from lion into ape."
+        },
+        {
+          "signal_id": "s018",
+          "signal_types": [
+            "local_correspondence"
+          ],
+          "elements": [
+            {
+              "form": "ὥσπερ ἐν πόλει πολιτείαν καταστήσωμεν",
+              "lemma": null,
+              "location": "590e",
+              "context": null
+            },
+            {
+              "form": "φύλακα ὅμοιον καὶ ἄρχοντα ἐν αὐτῷ",
+              "lemma": null,
+              "location": "591a",
+              "context": null
+            },
+            {
+              "form": "κυβερνώμενοι",
+              "lemma": "κυβερνάω",
+              "location": "590d",
+              "context": "τῷ αὐτῷ κυβερνώμενοι"
+            },
+            {
+              "form": "σύμμαχος",
+              "lemma": "σύμμαχος",
+              "location": "590e",
+              "context": "πᾶσι τοῖς ἐν τῇ πόλει σύμμαχος ὤν"
+            }
+          ],
+          "observation": "Political vocabulary (πολιτεία, φύλαξ, ἄρχων, σύμμαχος, κυβερνάω) is applied to the soul's internal ordering and to the law's role, establishing a soul-city correspondence within this section."
+        }
+      ]
+    },
+    {
+      "section_id": "republic-chapter-09-section-10",
+      "signals": [
+        {
+          "signal_id": "s001",
+          "signal_types": [
+            "semantic_cluster",
+            "local_density"
+          ],
+          "elements": [
+            {
+              "form": "ἁρμονίαν",
+              "lemma": "ἁρμονία",
+              "location": "591d",
+              "context": "τὴν ἐν τῷ σώματι ἁρμονίαν"
+            },
+            {
+              "form": "συμφωνίας",
+              "lemma": "συμφωνία",
+              "location": "591d",
+              "context": "τῆς ἐν τῇ ψυχῇ ἕνεκα συμφωνίας"
+            },
+            {
+              "form": "ἁρμοττόμενος",
+              "lemma": "ἁρμόττω",
+              "location": "591d",
+              "context": null
+            },
+            {
+              "form": "συμφωνίαν",
+              "lemma": "συμφωνία",
+              "location": "591d",
+              "context": "τὴν ἐν τῇ τῶν χρημάτων κτήσει σύνταξίν τε καὶ συμφωνίαν"
+            },
+            {
+              "form": "μουσικὸς",
+              "lemma": "μουσικός",
+              "location": "591d",
+              "context": "τῇ ἀληθείᾳ μουσικὸς εἶναι"
+            }
+          ],
+          "observation": "A cluster of musical/harmonic terms—ἁρμονία, συμφωνία, ἁρμόττω, μουσικός—concentrates locally, applied first to body-soul relation and then extended to possessions."
+        },
+        {
+          "signal_id": "s002",
+          "signal_types": [
+            "lemma_recurrence",
+            "changed_context_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "τιμῶν",
+              "lemma": "τιμάω",
+              "location": "591c",
+              "context": "τὰ μαθήματα τιμῶν"
+            },
+            {
+              "form": "ἀτιμάζων",
+              "lemma": "ἀτιμάζω",
+              "location": "591c",
+              "context": "τὰ δὲ ἄλλα ἀτιμάζων"
+            },
+            {
+              "form": "τιμάς",
+              "lemma": "τιμή",
+              "location": "592a",
+              "context": "ἀλλὰ μὴν καὶ τιμάς γε"
+            }
+          ],
+          "observation": "The τιμ- root appears first as valuing/dishonoring learning, then returns as civic honours to be selectively accepted or refused."
+        },
+        {
+          "signal_id": "s003",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "ἀποβλέπων",
+              "lemma": "ἀποβλέπω",
+              "location": "591e",
+              "context": "ἀποβλέπων γε πρὸς τὴν ἐν αὑτῷ πολιτείαν"
+            },
+            {
+              "form": "ἀποβλέπων",
+              "lemma": "ἀποβλέπω",
+              "location": "592a",
+              "context": "εἰς ταὐτὸν ἀποβλέπων"
+            }
+          ],
+          "observation": "ἀποβλέπων recurs: first looking toward the constitution within oneself, then again ('εἰς ταὐτὸν') regarding honours."
+        },
+        {
+          "signal_id": "s004",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "πρὸς ὑγίειαν βλέπων",
+              "lemma": null,
+              "location": "591c",
+              "context": null
+            },
+            {
+              "form": "ἀποβλέπων γε πρὸς τὴν ἐν αὑτῷ πολιτείαν",
+              "lemma": null,
+              "location": "591e",
+              "context": null
+            }
+          ],
+          "observation": "βλέπω/ἀποβλέπω contrasts looking toward health (denied as ultimate aim) with looking toward the inner polity (affirmed)."
+        },
+        {
+          "signal_id": "s005",
+          "signal_types": [
+            "directional_spatial_cluster",
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "γῆς γε οὐδαμοῦ",
+              "lemma": null,
+              "location": "592a",
+              "context": "ἐπεὶ γῆς γε οὐδαμοῦ οἶμαι αὐτὴν εἶναι"
+            },
+            {
+              "form": "ἐν οὐρανῷ",
+              "lemma": "οὐρανός",
+              "location": "592b",
+              "context": "ἐν οὐρανῷ ἴσως παράδειγμα ἀνάκειται"
+            }
+          ],
+          "observation": "The city is placed nowhere on earth and then located as a paradigm set up in heaven—an explicit earth/heaven spatial contrast."
+        },
+        {
+          "signal_id": "s006",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "πολιτείαν",
+              "lemma": "πολιτεία",
+              "location": "591e",
+              "context": "τὴν ἐν αὑτῷ πολιτείαν"
+            },
+            {
+              "form": "πολιτικὰ",
+              "lemma": "πολιτικός",
+              "location": "592a",
+              "context": "τά γε πολιτικὰ ἐθελήσει πράττειν"
+            },
+            {
+              "form": "πόλει",
+              "lemma": "πόλις",
+              "location": "592a",
+              "context": "ἔν γε τῇ ἑαυτοῦ πόλει"
+            },
+            {
+              "form": "πόλει",
+              "lemma": "πόλις",
+              "location": "592a",
+              "context": "οἰκίζοντες πόλει"
+            }
+          ],
+          "observation": "πολιτεία/πολιτικός/πόλις recur across the passage, shifting from inner constitution to external politics to the city in speech."
+        },
+        {
+          "signal_id": "s007",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "παράδειγμα",
+              "lemma": "παράδειγμα",
+              "location": "592b",
+              "context": "ἐν οὐρανῷ ἴσως παράδειγμα ἀνάκειται"
+            },
+            {
+              "form": "ὁρᾶν",
+              "lemma": "ὁράω",
+              "location": "592b",
+              "context": "τῷ βουλομένῳ ὁρᾶν"
+            },
+            {
+              "form": "ὁρῶντι",
+              "lemma": "ὁράω",
+              "location": "592b",
+              "context": "καὶ ὁρῶντι ἑαυτὸν κατοικίζειν"
+            }
+          ],
+          "observation": "The paradigm is for one wishing to see and, seeing, to settle himself—ὁράω appears twice linking vision to self-founding."
+        },
+        {
+          "signal_id": "s008",
+          "signal_types": [
+            "sequence_configuration"
+          ],
+          "elements": [
+            {
+              "form": "τὰ μαθήματα",
+              "lemma": "μάθημα",
+              "location": "591c",
+              "context": null
+            },
+            {
+              "form": "τοῦ σώματος ἕξιν καὶ τροφὴν",
+              "lemma": null,
+              "location": "591c",
+              "context": null
+            },
+            {
+              "form": "χρημάτων κτήσει",
+              "lemma": null,
+              "location": "591d",
+              "context": null
+            },
+            {
+              "form": "τιμάς",
+              "lemma": "τιμή",
+              "location": "592a",
+              "context": null
+            }
+          ],
+          "observation": "The wise man's ordering proceeds in sequence: learning, bodily condition and nourishment, acquisition of money, then honours."
+        },
+        {
+          "signal_id": "s009",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "ἐν αὑτῷ",
+              "lemma": null,
+              "location": "591e",
+              "context": "τὴν ἐν αὑτῷ πολιτείαν"
+            },
+            {
+              "form": "ἐν τῇ ἑαυτοῦ πόλει",
+              "lemma": null,
+              "location": "592a",
+              "context": null
+            },
+            {
+              "form": "ἐν τῇ πατρίδι",
+              "lemma": null,
+              "location": "592a",
+              "context": null
+            }
+          ],
+          "observation": "Three nested loci are distinguished: the constitution within oneself, one's own city, and the fatherland—with political action affirmed in the first and conditional in the others."
+        },
+        {
+          "signal_id": "s010",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "κυβερνῶν",
+              "lemma": "κυβερνάω",
+              "location": "591e",
+              "context": "οὕτως κυβερνῶν προσθήσει καὶ ἀναλώσει τῆς οὐσίας"
+            }
+          ],
+          "observation": "The wise man is described as piloting (κυβερνῶν) his additions and expenditures of property."
+        },
+        {
+          "signal_id": "s011",
+          "signal_types": [
+            "local_contrast"
+          ],
+          "elements": [
+            {
+              "form": "θηριώδει καὶ ἀλόγῳ ἡδονῇ",
+              "lemma": null,
+              "location": "591c",
+              "context": null
+            },
+            {
+              "form": "σωφρονήσειν",
+              "lemma": "σωφρονέω",
+              "location": "591d",
+              "context": null
+            }
+          ],
+          "observation": "Beastly irrational pleasure is contrasted with the condition of becoming σώφρων as the criterion for bodily care."
+        },
+        {
+          "signal_id": "s012",
+          "signal_types": [
+            "other_textual_configuration"
+          ],
+          "elements": [
+            {
+              "form": "θεία τις συμβῇ τύχη",
+              "lemma": null,
+              "location": "592a",
+              "context": "ἐὰν μὴ θεία τις συμβῇ τύχη"
+            }
+          ],
+          "observation": "Political action in the fatherland is conditioned on divine chance (θεία τύχη)."
+        },
+        {
+          "signal_id": "s013",
+          "signal_types": [
+            "lemma_recurrence"
+          ],
+          "elements": [
+            {
+              "form": "κατοικίζειν",
+              "lemma": "κατοικίζω",
+              "location": "592b",
+              "context": "ὁρῶντι ἑαυτὸν κατοικίζειν"
+            },
+            {
+              "form": "οἰκίζοντες",
+              "lemma": "οἰκίζω",
+              "location": "592a",
+              "context": "νῦν διήλθομεν οἰκίζοντες πόλει"
+            }
+          ],
+          "observation": "οἰκίζω recurs: first as founding the city in speech, then as κατοικίζειν—settling oneself by seeing the paradigm."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "section_id": "republic-chapter-03-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σωφροσύνης",
+          "lemma": "σωφροσύνη",
+          "location": "389d",
+          "context": "σωφροσύνης ἆρα οὐ δεήσει ἡμῖν τοῖς νεανίαις"
+        },
+        {
+          "form": "σωφροσύνης",
+          "lemma": "σωφροσύνη",
+          "location": "389d",
+          "context": "σωφροσύνης δὲ ὡς πλήθει οὐ τὰ τοιάδε μέγιστα"
+        },
+        {
+          "form": "σωφροσύνην",
+          "lemma": "σωφροσύνη",
+          "location": "390a",
+          "context": "εἴς γε σωφροσύνην νέοις ἐπιτήδεια ἀκούειν"
+        },
+        {
+          "form": "σωφρονεστάτου",
+          "lemma": "σώφρων",
+          "location": "391c",
+          "context": "Πηλέως, σωφρονεστάτου τε καὶ τρίτου ἀπὸ Διός"
+        },
+        {
+          "form": "ἐγκράτειαν",
+          "lemma": "ἐγκράτεια",
+          "location": "390b",
+          "context": "ἐπιτήδειον εἶναι πρὸς ἐγκράτειαν ἑαυτοῦ"
+        }
+      ],
+      "observation": "σωφροσύνη recurs three times and is joined by the superlative σωφρονεστάτου applied to Peleus and by ἐγκράτειαν as a near-synonym, forming a cluster around self-mastery."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δῶρα",
+          "lemma": "δῶρον",
+          "location": "390e",
+          "context": "δῶρα θεοὺς πείθει, δῶρʼ αἰδοίους βασιλῆας"
+        },
+        {
+          "form": "δῶρα",
+          "lemma": "δῶρον",
+          "location": "390e",
+          "context": "δῶρα μὲν λαβόντι ἐπαμύνειν τοῖς Ἀχαιοῖς"
+        },
+        {
+          "form": "δώρων",
+          "lemma": "δῶρον",
+          "location": "390e",
+          "context": "ἄνευ δὲ δώρων μὴ ἀπαλλάττεσθαι τῆς μήνιος"
+        },
+        {
+          "form": "δῶρα",
+          "lemma": "δῶρον",
+          "location": "390e",
+          "context": "παρὰ τοῦ Ἀγαμέμνονος δῶρα λαβεῖν"
+        },
+        {
+          "form": "δωροδόκους",
+          "lemma": "δωροδόκος",
+          "location": "390d",
+          "context": "οὐ μὲν δὴ δωροδόκους γε ἐατέον εἶναι"
+        },
+        {
+          "form": "φιλοχρημάτους",
+          "lemma": "φιλοχρήματος",
+          "location": "390d",
+          "context": null
+        },
+        {
+          "form": "φιλοχρηματίας",
+          "lemma": "φιλοχρηματία",
+          "location": "391c",
+          "context": "ἀνελευθερίαν μετὰ φιλοχρηματίας"
+        }
+      ],
+      "observation": "δῶρον appears four times in dense concentration at 390e, preceded by δωροδόκους and φιλοχρημάτους, with φιλοχρηματίας returning at 391c as one of Achilles' two diseases."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πείθει",
+          "lemma": "πείθω",
+          "location": "390e",
+          "context": "δῶρα θεοὺς πείθει"
+        },
+        {
+          "form": "πείθεσθαι",
+          "lemma": "πείθω",
+          "location": "391a",
+          "context": "ἄλλων λεγόντων πείθεσθαι"
+        },
+        {
+          "form": "πειστέον",
+          "lemma": "πείθω",
+          "location": "391b",
+          "context": "οὐ πειστέον"
+        },
+        {
+          "form": "πείθεσθαι",
+          "lemma": "πείθω",
+          "location": "391c",
+          "context": "πείθεσθαι τοὺς ἡμετέρους"
+        },
+        {
+          "form": "πειθώμεθα",
+          "lemma": "πείθω",
+          "location": "391c",
+          "context": "μηδὲ τάδε πειθώμεθα"
+        },
+        {
+          "form": "πείθειν",
+          "lemma": "πείθω",
+          "location": "391d",
+          "context": "ἐπιχειρεῖν πείθειν τοὺς νέους"
+        },
+        {
+          "form": "πεισθεὶς",
+          "lemma": "πείθω",
+          "location": "391e",
+          "context": "πεισθεὶς ὡς ἄρα τοιαῦτα πράττουσιν"
+        },
+        {
+          "form": "ἐπιπείθεο",
+          "lemma": "ἐπιπείθομαι",
+          "location": "389e",
+          "context": "ἐμῷ δʼ ἐπιπείθεο μύθῳ"
+        }
+      ],
+      "observation": "Forms of πείθω recur throughout the section, moving from the Homeric command ἐπιπείθεο, through gifts persuading gods, to repeated verbal adjectives and subjunctives about what the young should or should not be persuaded of."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "πότους",
+          "lemma": "πότος",
+          "location": "389e",
+          "context": "τῶν περὶ πότους καὶ ἀφροδίσια καὶ περὶ ἐδωδὰς ἡδονῶν"
+        },
+        {
+          "form": "ἀφροδίσια",
+          "lemma": "ἀφροδίσιος",
+          "location": "389e",
+          "context": null
+        },
+        {
+          "form": "ἐδωδὰς",
+          "lemma": "ἐδωδή",
+          "location": "389e",
+          "context": null
+        },
+        {
+          "form": "οἰνοβαρές",
+          "lemma": "οἰνοβαρής",
+          "location": "389e",
+          "context": null
+        },
+        {
+          "form": "τράπεζαι",
+          "lemma": "τράπεζα",
+          "location": "390a",
+          "context": "παρὰ πλεῖαι ὦσι τράπεζαι"
+        },
+        {
+          "form": "σίτου",
+          "lemma": "σῖτος",
+          "location": "390b",
+          "context": null
+        },
+        {
+          "form": "κρειῶν",
+          "lemma": "κρέας",
+          "location": "390b",
+          "context": null
+        },
+        {
+          "form": "μέθυ",
+          "lemma": "μέθυ",
+          "location": "390b",
+          "context": null
+        },
+        {
+          "form": "λιμῷ",
+          "lemma": "λιμός",
+          "location": "390b",
+          "context": "λιμῷ δʼ οἴκτιστον θανέειν"
+        },
+        {
+          "form": "ἀφροδισίων",
+          "lemma": "ἀφροδίσιος",
+          "location": "390c",
+          "context": "διὰ τὴν τῶν ἀφροδισίων ἐπιθυμίαν"
+        }
+      ],
+      "observation": "A concrete cluster of drink, food, and sexual desire: πότους, ἀφροδίσια, ἐδωδάς at 389e; οἰνοβαρές, then the Odyssean feast scene (τράπεζαι, σίτου, κρειῶν, μέθυ), hunger (λιμῷ), and ἀφροδισίων returning with Zeus's desire at 390c."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀρχόντων",
+          "lemma": "ἄρχων",
+          "location": "389d",
+          "context": "ἀρχόντων μὲν ὑπηκόους εἶναι"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "389e",
+          "context": "αὐτοὺς δὲ ἄρχοντας τῶν … ἡδονῶν"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "390a",
+          "context": "νεανιεύματα ἰδιωτῶν εἰς ἄρχοντας"
+        }
+      ],
+      "observation": "ἄρχων appears in a μέν/δέ contrast: being obedient to rulers versus being rulers of one's own pleasures; then returns as the target of insolent speech by private citizens."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμίαν",
+          "lemma": "ἐπιθυμία",
+          "location": "390c",
+          "context": "διὰ τὴν τῶν ἀφροδισίων ἐπιθυμίαν"
+        },
+        {
+          "form": "ἡδονῶν",
+          "lemma": "ἡδονή",
+          "location": "389e",
+          "context": "ἄρχοντας τῶν … ἡδονῶν"
+        },
+        {
+          "form": "ἡδονὴν",
+          "lemma": "ἡδονή",
+          "location": "390a",
+          "context": "εἰ δέ τινα ἄλλην ἡδονὴν παρέχεται"
+        }
+      ],
+      "observation": "ἡδονή first names what the young must rule over, then returns as the other pleasure such poetry might provide; ἐπιθυμία appears with Zeus overcome by desire."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νεανίαις",
+          "lemma": "νεανίας",
+          "location": "389d",
+          "context": "δεήσει ἡμῖν τοῖς νεανίαις"
+        },
+        {
+          "form": "νεανιεύματα",
+          "lemma": "νεανίευμα",
+          "location": "390a",
+          "context": "νεανιεύματα ἰδιωτῶν εἰς ἄρχοντας"
+        },
+        {
+          "form": "νέοις",
+          "lemma": "νέος",
+          "location": "390a",
+          "context": "σωφροσύνην νέοις ἐπιτήδεια ἀκούειν"
+        },
+        {
+          "form": "νέῳ",
+          "lemma": "νέος",
+          "location": "390b",
+          "context": "ἀκούειν νέῳ"
+        },
+        {
+          "form": "νέους",
+          "lemma": "νέος",
+          "location": "391d",
+          "context": "πείθειν τοὺς νέους"
+        },
+        {
+          "form": "νέοις",
+          "lemma": "νέος",
+          "location": "392a",
+          "context": "ἐντίκτωσι τοῖς νέοις πονηρίας"
+        }
+      ],
+      "observation": "The young as audience recur throughout: νεανίαις opens the topic, νεανιεύματα names the insolent behaviour in quoted poetry, and νέοις/νέους returns repeatedly as those who must be protected from harmful content."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "syntactic_recurrence",
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "θεατέον",
+          "lemma": "θεάομαι",
+          "location": "390d",
+          "context": "θεατέον τε καὶ ἀκουστέον"
+        },
+        {
+          "form": "ἀκουστέον",
+          "lemma": "ἀκούω",
+          "location": "390d",
+          "context": null
+        },
+        {
+          "form": "ἐατέον",
+          "lemma": "ἐάω",
+          "location": "390d",
+          "context": "δωροδόκους γε ἐατέον εἶναι"
+        },
+        {
+          "form": "πειστέον",
+          "lemma": "πείθω",
+          "location": "391b",
+          "context": "οὐ πειστέον"
+        },
+        {
+          "form": "παυστέον",
+          "lemma": "παύω",
+          "location": "391e",
+          "context": "παυστέον τοὺς τοιούτους μύθους"
+        },
+        {
+          "form": "λεκτέον",
+          "lemma": "λέγω",
+          "location": "392a",
+          "context": "οἵους τε λεκτέον καὶ μή"
+        }
+      ],
+      "observation": "Verbal adjectives in -τέον recur as prescriptive instruments: θεατέον, ἀκουστέον, ἐατέον, πειστέον, παυστέον, λεκτέον, marking what must or must not be done regarding poetic content."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "θεᾶς",
+          "lemma": "θεά",
+          "location": "391c",
+          "context": "θεᾶς ὢν παῖς"
+        },
+        {
+          "form": "θεῶν παῖδας",
+          "lemma": null,
+          "location": "391d",
+          "context": "τούτους μὴ εἶναι θεῶν παῖδας"
+        },
+        {
+          "form": "θεοῦ παῖδά",
+          "lemma": null,
+          "location": "391d",
+          "context": "μηδέ τινʼ ἄλλον θεοῦ παῖδά τε καὶ ἥρω"
+        },
+        {
+          "form": "θεῶν ἀγχίσποροι",
+          "lemma": null,
+          "location": "391e",
+          "context": "οἱ θεῶν ἀγχίσποροι"
+        },
+        {
+          "form": "αἷμα δαιμόνων",
+          "lemma": null,
+          "location": "391e",
+          "context": "οὔ πώ σφιν ἐξίτηλον αἷμα δαιμόνων"
+        },
+        {
+          "form": "θεοὶ κακὰ γεννῶσιν",
+          "lemma": null,
+          "location": "391d",
+          "context": null
+        }
+      ],
+      "observation": "Divine parentage is repeatedly articulated: Achilles as θεᾶς παῖς, Theseus as Ποσειδῶνος ὑός, the generic θεοῦ παῖδα, the Aeschylean θεῶν ἀγχίσποροι and αἷμα δαιμόνων, all leading to the question whether gods beget evil."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καρτερίαι",
+          "lemma": "καρτερία",
+          "location": "390d",
+          "context": "καρτερίαι πρὸς ἅπαντα"
+        },
+        {
+          "form": "τέτλαθι",
+          "lemma": "τλάω",
+          "location": "390d",
+          "context": "τέτλαθι δή, κραδίη· καὶ κύντερον ἄλλο ποτʼ ἔτλης"
+        },
+        {
+          "form": "ἐπιλανθανόμενον",
+          "lemma": "ἐπιλανθάνω",
+          "location": "390c",
+          "context": "τούτων πάντων ῥᾳδίως ἐπιλανθανόμενον"
+        },
+        {
+          "form": "ἐκπλαγέντα",
+          "lemma": "ἐκπλήσσω",
+          "location": "390c",
+          "context": "οὕτως ἐκπλαγέντα ἰδόντα τὴν Ἥραν"
+        }
+      ],
+      "observation": "Endurance (καρτερίαι, τέτλαθι/ἔτλης) contrasts with loss of self-control (ἐπιλανθανόμενον, ἐκπλαγέντα): the approved Odyssean example versus Zeus overcome by desire."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεῶν",
+          "lemma": "θεός",
+          "location": "392a",
+          "context": "περὶ γὰρ θεῶν ὡς δεῖ λέγεσθαι εἴρηται"
+        },
+        {
+          "form": "δαιμόνων",
+          "lemma": "δαίμων",
+          "location": "392a",
+          "context": "καὶ περὶ δαιμόνων τε καὶ ἡρώων"
+        },
+        {
+          "form": "ἡρώων",
+          "lemma": "ἥρως",
+          "location": "392a",
+          "context": null
+        },
+        {
+          "form": "ἐν Ἅιδου",
+          "lemma": "Ἅιδης",
+          "location": "392a",
+          "context": "καὶ τῶν ἐν Ἅιδου"
+        },
+        {
+          "form": "ἀνθρώπων",
+          "lemma": "ἄνθρωπος",
+          "location": "392a",
+          "context": "καὶ περὶ ἀνθρώπων τὸ λοιπὸν εἴη ἄν"
+        }
+      ],
+      "observation": "Socrates enumerates completed and remaining topics in a descending sequence: gods, daimons, heroes, those in Hades, and finally humans as the remaining (λοιπόν) category."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατον",
+          "lemma": "ἀδύνατος",
+          "location": "392a",
+          "context": "ἀδύνατον δή, ὦ φίλε, ἡμῖν τοῦτό γε ἐν τῷ παρόντι τάξαι"
+        },
+        {
+          "form": "δικαιοσύνη",
+          "lemma": "δικαιοσύνη",
+          "location": "392b",
+          "context": "ἡ δὲ δικαιοσύνη ἀλλότριον μὲν ἀγαθόν, οἰκεία δὲ ζημία"
+        },
+        {
+          "form": "δικαιοσύνη",
+          "lemma": "δικαιοσύνη",
+          "location": "392c",
+          "context": "ὅταν εὕρωμεν οἷόν ἐστιν δικαιοσύνη"
+        }
+      ],
+      "observation": "The topic of humans is declared ἀδύνατον to settle now; its resolution is deferred until δικαιοσύνη is found, with the poets' claim that justice is ἀλλότριον ἀγαθόν, οἰκεία ζημία explicitly stated as what must be refuted."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄδικοι μὲν εὐδαίμονες",
+          "lemma": null,
+          "location": "392b",
+          "context": null
+        },
+        {
+          "form": "δίκαιοι δὲ ἄθλιοι",
+          "lemma": null,
+          "location": "392b",
+          "context": null
+        },
+        {
+          "form": "ἀλλότριον μὲν ἀγαθόν",
+          "lemma": null,
+          "location": "392b",
+          "context": "ἡ δὲ δικαιοσύνη ἀλλότριον μὲν ἀγαθόν"
+        },
+        {
+          "form": "οἰκεία δὲ ζημία",
+          "lemma": null,
+          "location": "392b",
+          "context": null
+        }
+      ],
+      "observation": "Two paired contrasts state the poets' position: unjust-happy versus just-wretched, and justice as another's good versus one's own loss (ἀλλότριον/οἰκεία)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "νοσήματε δύο ἐναντίω ἀλλήλοιν",
+          "lemma": null,
+          "location": "391c",
+          "context": null
+        },
+        {
+          "form": "ἀνελευθερίαν μετὰ φιλοχρηματίας",
+          "lemma": null,
+          "location": "391c",
+          "context": null
+        },
+        {
+          "form": "ὑπερηφανίαν θεῶν τε καὶ ἀνθρώπων",
+          "lemma": null,
+          "location": "391c",
+          "context": null
+        }
+      ],
+      "observation": "Achilles is said to contain two diseases opposite to each other (νοσήματε δύο ἐναντίω ἀλλήλοιν): illiberality with love of money, and arrogance toward gods and humans."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ἥραν",
+          "lemma": "Ἥρα",
+          "location": "390c",
+          "context": "ἐκπλαγέντα ἰδόντα τὴν Ἥραν"
+        },
+        {
+          "form": "Ἀφροδίτης",
+          "lemma": "Ἀφροδίτη",
+          "location": "390c",
+          "context": "Ἄρεώς τε καὶ Ἀφροδίτης ὑπὸ Ἡφαίστου δεσμόν"
+        },
+        {
+          "form": "Ἄρεώς",
+          "lemma": "Ἄρης",
+          "location": "390c",
+          "context": null
+        },
+        {
+          "form": "Ἡφαίστου",
+          "lemma": "Ἥφαιστος",
+          "location": "390c",
+          "context": null
+        },
+        {
+          "form": "Ἀπόλλω",
+          "lemma": "Ἀπόλλων",
+          "location": "391a",
+          "context": "πρὸς τὸν Ἀπόλλω εἶπεν"
+        },
+        {
+          "form": "Σπερχειοῦ",
+          "lemma": "Σπερχειός",
+          "location": "391b",
+          "context": "τοῦ ἑτέρου ποταμοῦ Σπερχειοῦ"
+        },
+        {
+          "form": "Χείρωνι",
+          "lemma": "Χείρων",
+          "location": "391c",
+          "context": "ὑπὸ τῷ σοφωτάτῳ Χείρωνι τεθραμμένος"
+        }
+      ],
+      "observation": "Multiple divine and mythological names accumulate: Hera as object of Zeus's desire, Ares and Aphrodite bound by Hephaestus, Apollo insulted by Achilles, the river Spercheius, and Chiron as Achilles' wisest educator."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "390a",
+          "context": "σωφροσύνην νέοις ἐπιτήδεια ἀκούειν"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "390b",
+          "context": "ἐπιτήδειον εἶναι … ἀκούειν νέῳ"
+        },
+        {
+          "form": "ἀκουστέον",
+          "lemma": "ἀκούω",
+          "location": "390d",
+          "context": null
+        },
+        {
+          "form": "ἀκούουσιν",
+          "lemma": "ἀκούω",
+          "location": "391e",
+          "context": "τοῖς γε ἀκούουσιν βλαβερά"
+        }
+      ],
+      "observation": "ἀκούω recurs in connection with what is or is not ἐπιτήδειον for the young to hear, culminating in the judgment that such stories are βλαβερά to listeners."
+    }
+  ]
+}

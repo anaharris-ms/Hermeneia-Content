@@ -1,0 +1,544 @@
+{
+  "section_id": "republic-chapter-05-section-06",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κύνας θηρευτικοὺς",
+          "lemma": null,
+          "location": "459a",
+          "context": "ὁρῶ γάρ σου ἐν τῇ οἰκίᾳ καὶ κύνας θηρευτικοὺς"
+        },
+        {
+          "form": "ὀρνίθων",
+          "lemma": "ὄρνις",
+          "location": "459a",
+          "context": "τῶν γενναίων ὀρνίθων μάλα συχνούς"
+        },
+        {
+          "form": "κυνῶν",
+          "lemma": "κύων",
+          "location": "459b",
+          "context": "τὸ τῶν ὀρνίθων καὶ τὸ τῶν κυνῶν γένος"
+        },
+        {
+          "form": "ἵππων",
+          "lemma": "ἵππος",
+          "location": "459b",
+          "context": null
+        },
+        {
+          "form": "ζῴων",
+          "lemma": "ζῷον",
+          "location": "459b",
+          "context": "τῶν ἄλλων ζῴων"
+        }
+      ],
+      "observation": "A cluster of animal kinds—hunting dogs, birds, horses, and animals generally—concentrates in the opening exchange as analogues for breeding."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γάμοις",
+          "lemma": "γάμος",
+          "location": "459a",
+          "context": "τοῖς τούτων γάμοις τε καὶ παιδοποιίᾳ"
+        },
+        {
+          "form": "γάμοις",
+          "lemma": "γάμος",
+          "location": "459d",
+          "context": "ἐν τοῖς γάμοις τοίνυν καὶ παιδοποιίαις"
+        },
+        {
+          "form": "γάμοις",
+          "lemma": "γάμος",
+          "location": "460a",
+          "context": "πρέποντες τοῖς γιγνομένοις γάμοις"
+        },
+        {
+          "form": "γάμων",
+          "lemma": "γάμος",
+          "location": "460a",
+          "context": "τὸ δὲ πλῆθος τῶν γάμων"
+        }
+      ],
+      "observation": "γάμος recurs four times, moving from animal matings to human marriage festivals to the number of marriages controlled by rulers."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδοποιίᾳ",
+          "lemma": "παιδοποιία",
+          "location": "459a",
+          "context": "γάμοις τε καὶ παιδοποιίᾳ"
+        },
+        {
+          "form": "παιδοποιίαις",
+          "lemma": "παιδοποιία",
+          "location": "459d",
+          "context": "ἐν τοῖς γάμοις τοίνυν καὶ παιδοποιίαις"
+        },
+        {
+          "form": "παιδοποιίας",
+          "lemma": "παιδοποιία",
+          "location": "460d",
+          "context": "ῥᾳστώνην … τῆς παιδοποιίας ταῖς τῶν φυλάκων γυναιξίν"
+        }
+      ],
+      "observation": "παιδοποιία appears first for animals, then for the city's breeding policy, and finally in Glaucon's remark about ease for guardian women."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "γενναίων",
+          "lemma": "γενναῖος",
+          "location": "459a",
+          "context": "τῶν γενναίων ὀρνίθων"
+        },
+        {
+          "form": "γενναίων",
+          "lemma": "γενναῖος",
+          "location": "459a",
+          "context": "καίπερ ὄντων γενναίων"
+        },
+        {
+          "form": "γεννᾷς",
+          "lemma": "γεννάω",
+          "location": "459a",
+          "context": "ἐξ ἁπάντων ὁμοίως γεννᾷς"
+        },
+        {
+          "form": "γεννᾶται",
+          "lemma": "γεννάω",
+          "location": "459b",
+          "context": "ἂν μὴ οὕτω γεννᾶται"
+        }
+      ],
+      "observation": "γενναῖος ('noble/well-bred') and γεννάω ('beget') from the same lexical family appear in close proximity, linking quality of stock to the act of breeding."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀρίστους",
+          "lemma": "ἄριστος",
+          "location": "459d",
+          "context": "τοὺς ἀρίστους ταῖς ἀρίσταις"
+        },
+        {
+          "form": "φαυλοτάτους",
+          "lemma": "φαῦλος",
+          "location": "459d",
+          "context": "τοὺς δὲ φαυλοτάτους ταῖς φαυλοτάταις"
+        },
+        {
+          "form": "ἀγαθῶν",
+          "lemma": "ἀγαθός",
+          "location": "460c",
+          "context": "τὰ μὲν δὴ τῶν ἀγαθῶν"
+        },
+        {
+          "form": "χειρόνων",
+          "lemma": "χείρων",
+          "location": "460c",
+          "context": "τὰ δὲ τῶν χειρόνων"
+        }
+      ],
+      "observation": "Best/worst pairing recurs: ἄριστοι vs. φαυλότατοι for parents, ἀγαθῶν vs. χειρόνων for offspring, sustaining a contrast between superior and inferior throughout."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φαρμάκοις",
+          "lemma": "φάρμακον",
+          "location": "459c",
+          "context": "φαρμάκοις πολλοῖς χρῆσθαι"
+        },
+        {
+          "form": "φαρμάκων",
+          "lemma": "φάρμακον",
+          "location": "459c",
+          "context": "μὴ δεομένοις μὲν σώμασι φαρμάκων"
+        },
+        {
+          "form": "φαρμακεύειν",
+          "lemma": "φαρμακεύω",
+          "location": "459c",
+          "context": "ὅταν δὲ δὴ καὶ φαρμακεύειν δέῃ"
+        },
+        {
+          "form": "ἰατρὸν",
+          "lemma": "ἰατρός",
+          "location": "459c",
+          "context": null
+        },
+        {
+          "form": "ἰατροῦ",
+          "lemma": "ἰατρός",
+          "location": "459c",
+          "context": "ἀνδρειοτέρου δεῖ τοῦ ἰατροῦ"
+        },
+        {
+          "form": "φαρμάκου",
+          "lemma": "φάρμακον",
+          "location": "459d",
+          "context": "ἐν φαρμάκου εἴδει"
+        }
+      ],
+      "observation": "A medical cluster—φάρμακον (four times), ἰατρός (twice), φαρμακεύω—concentrates around the analogy between drugs and deception."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ψεύδει",
+          "lemma": "ψεῦδος",
+          "location": "459c",
+          "context": "συχνῷ τῷ ψεύδει καὶ τῇ ἀπάτῃ"
+        },
+        {
+          "form": "ἀπάτῃ",
+          "lemma": "ἀπάτη",
+          "location": "459c",
+          "context": null
+        },
+        {
+          "form": "φαρμάκου",
+          "lemma": "φάρμακον",
+          "location": "459d",
+          "context": "ἐν φαρμάκου εἴδει πάντα τὰ τοιαῦτα χρήσιμα"
+        }
+      ],
+      "observation": "ψεῦδος and ἀπάτη are explicitly equated with φάρμακον: deception is classified as a kind of drug."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνειν",
+          "lemma": "λανθάνω",
+          "location": "459e",
+          "context": "ταῦτα πάντα γιγνόμενα λανθάνειν πλὴν αὐτοὺς τοὺς ἄρχοντας"
+        },
+        {
+          "form": "ἀπορρήτῳ",
+          "lemma": "ἀπόρρητος",
+          "location": "460c",
+          "context": "ἐν ἀπορρήτῳ τε καὶ ἀδήλῳ κατακρύψουσιν"
+        },
+        {
+          "form": "ἀδήλῳ",
+          "lemma": "ἄδηλος",
+          "location": "460c",
+          "context": null
+        },
+        {
+          "form": "κατακρύψουσιν",
+          "lemma": "κατακρύπτω",
+          "location": "460c",
+          "context": null
+        },
+        {
+          "form": "μηδεμία τὸ αὑτῆς αἰσθήσεται",
+          "lemma": null,
+          "location": "460d",
+          "context": "ὅπως μηδεμία τὸ αὑτῆς αἰσθήσεται"
+        }
+      ],
+      "observation": "A cluster of concealment: λανθάνειν, ἀπόρρητος, ἄδηλος, κατακρύπτω, and the provision that no mother recognize her own child."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄκρων",
+          "lemma": "ἄκρος",
+          "location": "459b",
+          "context": "ἄκρων εἶναι τῶν ἀρχόντων"
+        },
+        {
+          "form": "ἀκρότατον",
+          "lemma": "ἄκρος",
+          "location": "459e",
+          "context": "τὸ ποίμνιον ὅτι ἀκρότατον εἶναι"
+        }
+      ],
+      "observation": "ἄκρος appears first for the rulers who must be 'top-quality' and then for the flock that must be brought to peak condition."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ποίμνιον",
+          "lemma": "ποίμνιον",
+          "location": "459e",
+          "context": "τὸ ποίμνιον ὅτι ἀκρότατον εἶναι"
+        },
+        {
+          "form": "ἀγέλη",
+          "lemma": "ἀγέλη",
+          "location": "459e",
+          "context": "ἡ ἀγέλη τῶν φυλάκων"
+        }
+      ],
+      "observation": "ποίμνιον ('flock') and ἀγέλη ('herd') apply pastoral-animal vocabulary to the guardian class."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἑορταί",
+          "lemma": "ἑορτή",
+          "location": "459e",
+          "context": "ἑορταί τινες νομοθετητέαι"
+        },
+        {
+          "form": "θυσίαι",
+          "lemma": "θυσία",
+          "location": "459e",
+          "context": null
+        },
+        {
+          "form": "ὕμνοι",
+          "lemma": "ὕμνος",
+          "location": "459e",
+          "context": null
+        },
+        {
+          "form": "κλῆροι",
+          "lemma": "κλῆρος",
+          "location": "460a",
+          "context": "κλῆροι δή τινες οἶμαι ποιητέοι κομψοί"
+        }
+      ],
+      "observation": "A sequence of institutional devices—festivals, sacrifices, hymns, and rigged lots—is laid out as the machinery for concealed eugenic control."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κομψοί",
+          "lemma": "κομψός",
+          "location": "460a",
+          "context": "κλῆροι δή τινες οἶμαι ποιητέοι κομψοί"
+        },
+        {
+          "form": "τύχην",
+          "lemma": "τύχη",
+          "location": "460a",
+          "context": "αἰτιᾶσθαι ἐφʼ ἑκάστης συνέρξεως τύχην ἀλλὰ μὴ τοὺς ἄρχοντας"
+        }
+      ],
+      "observation": "The lots are called κομψοί ('clever/elegant'), and their purpose is that the inferior man blame τύχη rather than the rulers—the deception mechanism is made explicit."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀρχόντων",
+          "lemma": "ἄρχων",
+          "location": "459b",
+          "context": "ἄκρων εἶναι τῶν ἀρχόντων"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "459c",
+          "context": "τοὺς ἄρχοντας ἐπʼ ὠφελίᾳ"
+        },
+        {
+          "form": "ἀρχομένων",
+          "lemma": "ἀρχόμενος",
+          "location": "459d",
+          "context": "ἐπʼ ὠφελίᾳ τῶν ἀρχομένων"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "459e",
+          "context": "πλὴν αὐτοὺς τοὺς ἄρχοντας"
+        },
+        {
+          "form": "ἄρχουσι",
+          "lemma": "ἄρχων",
+          "location": "460a",
+          "context": "ἐπὶ τοῖς ἄρχουσι ποιήσομεν"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "460a",
+          "context": "μὴ τοὺς ἄρχοντας"
+        },
+        {
+          "form": "ἀρχαὶ",
+          "lemma": "ἀρχή",
+          "location": "460b",
+          "context": "αἱ ἐπὶ τούτων ἐφεστηκυῖαι ἀρχαὶ"
+        },
+        {
+          "form": "ἀρχαὶ",
+          "lemma": "ἀρχή",
+          "location": "460b",
+          "context": "κοιναὶ μὲν γάρ που καὶ ἀρχαὶ γυναιξί τε καὶ ἀνδράσιν"
+        }
+      ],
+      "observation": "ἄρχων/ἀρχή recurs densely through the section; rulers are the sole knowing agents of every concealed operation described."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀστασίαστος",
+          "lemma": "ἀστασίαστος",
+          "location": "459e",
+          "context": "ἡ ἀγέλη τῶν φυλάκων ὅτι μάλιστα ἀστασίαστος ἔσται"
+        }
+      ],
+      "observation": "ἀστασίαστος ('free from faction') names the political goal that concealment of the breeding scheme is meant to secure."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκμαζόντων",
+          "lemma": "ἀκμάζω",
+          "location": "459b",
+          "context": "ἐξ ἀκμαζόντων ὅτι μάλιστα"
+        },
+        {
+          "form": "ἀκμαζόντων",
+          "lemma": "ἀκμάζω",
+          "location": "460d",
+          "context": "ἐξ ἀκμαζόντων δεῖν τὰ ἔκγονα γίγνεσθαι"
+        }
+      ],
+      "observation": "ἐξ ἀκμαζόντων appears first in the animal-breeding question and returns at the section's close as an established principle for human offspring."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σηκὸν",
+          "lemma": "σηκός",
+          "location": "460c",
+          "context": "εἰς τὸν σηκὸν οἴσουσιν"
+        },
+        {
+          "form": "σηκὸν",
+          "lemma": "σηκός",
+          "location": "460c",
+          "context": "τὰς τε μητέρας ἐπὶ τὸν σηκὸν ἄγοντες"
+        },
+        {
+          "form": "χωρὶς οἰκούσας ἔν τινι μέρει τῆς πόλεως",
+          "lemma": null,
+          "location": "460c",
+          "context": null
+        }
+      ],
+      "observation": "The σηκός ('pen/enclosure') is named twice as a separate place within the city where good offspring are taken and mothers are brought, reinforcing the pastoral-spatial arrangement."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ὁρῶ",
+          "lemma": "ὁράω",
+          "location": "459a",
+          "context": "ὁρῶ γάρ σου ἐν τῇ οἰκίᾳ καὶ κύνας θηρευτικοὺς"
+        },
+        {
+          "form": "προσέσχηκάς",
+          "lemma": "προσέχω",
+          "location": "459a",
+          "context": "προσέσχηκάς τι τοῖς τούτων γάμοις"
+        }
+      ],
+      "observation": "Socrates claims direct observation of Glaucon's household animals and converts it into a question about whether Glaucon has attended to their breeding—seeing leads to asking."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ῥᾳστώνην",
+          "lemma": "ῥᾳστώνη",
+          "location": "460d",
+          "context": "πολλὴν ῥᾳστώνην … τῆς παιδοποιίας ταῖς τῶν φυλάκων γυναιξίν"
+        },
+        {
+          "form": "πρέπει",
+          "lemma": "πρέπω",
+          "location": "460d",
+          "context": "πρέπει γάρ"
+        }
+      ],
+      "observation": "Glaucon calls the arrangement 'great ease' for guardian women; Socrates answers simply πρέπει γάρ ('it is fitting'), a terse endorsement."
+    }
+  ]
+}

@@ -1,0 +1,758 @@
+{
+  "section_id": "republic-chapter-03-section-09",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄρξουσί",
+          "lemma": "ἄρχω",
+          "location": "412b",
+          "context": "οἵτινες ἄρξουσί τε καὶ ἄρξονται"
+        },
+        {
+          "form": "ἄρξονται",
+          "lemma": "ἄρχω",
+          "location": "412b",
+          "context": null
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "412c",
+          "context": "πρεσβυτέρους τοὺς ἄρχοντας δεῖ εἶναι"
+        },
+        {
+          "form": "ἀρχομένους",
+          "lemma": "ἄρχω",
+          "location": "412c",
+          "context": "νεωτέρους δὲ τοὺς ἀρχομένους"
+        },
+        {
+          "form": "ἄρχοντα",
+          "lemma": "ἄρχων",
+          "location": "414a",
+          "context": "καταστατέον ἄρχοντα τῆς πόλεως"
+        },
+        {
+          "form": "ἀρχόντων",
+          "lemma": "ἄρχων",
+          "location": "414b",
+          "context": "τοῖς τῶν ἀρχόντων δόγμασιν"
+        },
+        {
+          "form": "ἄρχοντας",
+          "lemma": "ἄρχων",
+          "location": "414d",
+          "context": "αὐτοὺς τοὺς ἄρχοντας πείθειν"
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "415a",
+          "context": "ὅσοι μὲν ὑμῶν ἱκανοὶ ἄρχειν"
+        },
+        {
+          "form": "ἄρχουσι",
+          "lemma": "ἄρχων",
+          "location": "415b",
+          "context": "τοῖς οὖν ἄρχουσι καὶ πρῶτον καὶ μάλιστα"
+        }
+      ],
+      "observation": "Forms of ἄρχω/ἄρχων recur densely throughout, first as the question of who will rule and be ruled, then as qualifications for rulers, then within the noble lie as those who receive gold."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φυλάκων",
+          "lemma": "φύλαξ",
+          "location": "412c",
+          "context": "φυλάκων αὐτοὺς ἀρίστους δεῖ εἶναι"
+        },
+        {
+          "form": "φυλακικωτάτους",
+          "lemma": "φυλακικός",
+          "location": "412c",
+          "context": null
+        },
+        {
+          "form": "φυλακικοί",
+          "lemma": "φυλακικός",
+          "location": "412e",
+          "context": "εἰ φυλακικοί εἰσι τούτου τοῦ δόγματος"
+        },
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "413e",
+          "context": "φύλαξ αὑτοῦ ὢν ἀγαθός"
+        },
+        {
+          "form": "φύλακα",
+          "lemma": "φύλαξ",
+          "location": "414a",
+          "context": "καταστατέον ἄρχοντα τῆς πόλεως καὶ φύλακα"
+        },
+        {
+          "form": "φυλάκων",
+          "lemma": "φύλαξ",
+          "location": "414a",
+          "context": "ἡ ἐκλογὴ εἶναι καὶ κατάστασις τῶν ἀρχόντων τε καὶ φυλάκων"
+        },
+        {
+          "form": "φύλακας παντελεῖς",
+          "lemma": "φύλαξ",
+          "location": "414b",
+          "context": null
+        },
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "414b",
+          "context": "οὓς δὴ νῦν φύλακας ἐκαλοῦμεν"
+        },
+        {
+          "form": "φύλακες",
+          "lemma": "φύλαξ",
+          "location": "415b",
+          "context": "ὅπως μηδενὸς οὕτω φύλακες ἀγαθοὶ ἔσονται"
+        },
+        {
+          "form": "φυλάξουσι",
+          "lemma": "φυλάσσω",
+          "location": "415b",
+          "context": null
+        },
+        {
+          "form": "φυλακήν",
+          "lemma": "φυλακή",
+          "location": "415c",
+          "context": "τιμήσαντες ἀνάξουσι τοὺς μὲν εἰς φυλακήν"
+        },
+        {
+          "form": "φύλαξ",
+          "lemma": "φύλαξ",
+          "location": "415c",
+          "context": "ὁ σιδηροῦς φύλαξ ἢ ὁ χαλκοῦς"
+        },
+        {
+          "form": "φυλάξῃ",
+          "lemma": "φυλάσσω",
+          "location": "415c",
+          "context": null
+        }
+      ],
+      "observation": "The φύλαξ/φυλάσσω family is pervasive. Notably φύλαξ shifts from guarding the city to guarding a δόγμα to guarding oneself (φύλαξ αὑτοῦ) to guarding offspring's natures, and finally the iron/bronze φύλαξ of the prophecy."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύλαξ αὑτοῦ",
+          "lemma": "φύλαξ",
+          "location": "413e",
+          "context": "φύλαξ αὑτοῦ ὢν ἀγαθός"
+        },
+        {
+          "form": "φύλακας παντελεῖς",
+          "lemma": "φύλαξ",
+          "location": "414b",
+          "context": "φύλακας παντελεῖς τῶν τε ἔξωθεν πολεμίων τῶν τε ἐντὸς φιλίων"
+        },
+        {
+          "form": "σιδηροῦς φύλαξ ἢ ὁ χαλκοῦς",
+          "lemma": "φύλαξ",
+          "location": "415c",
+          "context": null
+        }
+      ],
+      "observation": "φύλαξ shifts from self-guarding (αὑτοῦ) to complete external/internal guarding (παντελεῖς, ἔξωθεν/ἐντός) to a metallic φύλαξ whose guarding would destroy the city."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γοητευόμενοι",
+          "lemma": "γοητεύω",
+          "location": "412e",
+          "context": null
+        },
+        {
+          "form": "γοητείας",
+          "lemma": "γοητεία",
+          "location": "413d",
+          "context": "τρίτου εἴδους τούτοις γοητείας ἅμιλλαν"
+        },
+        {
+          "form": "γοητευθέντες",
+          "lemma": "γοητεύω",
+          "location": "413b",
+          "context": "κλαπέντες ἢ γοητευθέντες ἢ βιασθέντες"
+        },
+        {
+          "form": "γοητεύειν",
+          "lemma": "γοητεύω",
+          "location": "413c",
+          "context": "γοητεύειν πάντα ὅσα ἀπατᾷ"
+        },
+        {
+          "form": "δυσγοήτευτος",
+          "lemma": "δυσγοήτευτος",
+          "location": "413e",
+          "context": null
+        }
+      ],
+      "observation": "γοητεύω and its family recur as one of the three modes of losing true opinion; the compound δυσγοήτευτος marks the quality of the one who resists."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κλαπέντες",
+          "lemma": "κλέπτω",
+          "location": "413b",
+          "context": "κλαπέντες ἢ γοητευθέντες ἢ βιασθέντες"
+        },
+        {
+          "form": "γοητευθέντες",
+          "lemma": "γοητεύω",
+          "location": "413b",
+          "context": null
+        },
+        {
+          "form": "βιασθέντες",
+          "lemma": "βιάζω",
+          "location": "413b",
+          "context": null
+        }
+      ],
+      "observation": "Three modes of involuntary loss of true opinion are listed—theft, enchantment, force—and then each is separately explained in sequence: κλαπέντας = μεταπεισθέντας/ἐπιλανθανομένους, βιασθέντας = ὀδύνη/ἀλγηδών, γοητευθέντας = ἡδονή/φόβος."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἑκουσίως",
+          "lemma": "ἑκούσιος",
+          "location": "412e",
+          "context": "ἢ ἑκουσίως ἢ ἀκουσίως"
+        },
+        {
+          "form": "ἀκουσίως",
+          "lemma": "ἀκούσιος",
+          "location": "412e",
+          "context": null
+        },
+        {
+          "form": "ψευδής",
+          "lemma": "ψευδής",
+          "location": "413a",
+          "context": "ἑκουσίως μὲν ἡ ψευδής"
+        },
+        {
+          "form": "ἀληθής",
+          "lemma": "ἀληθής",
+          "location": "413a",
+          "context": "ἀκουσίως δὲ πᾶσα ἡ ἀληθής"
+        }
+      ],
+      "observation": "Opinion exits the mind voluntarily or involuntarily; false opinion departs voluntarily (through relearning), all true opinion departs involuntarily."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "χρυσόν",
+          "lemma": "χρυσός",
+          "location": "415a",
+          "context": "χρυσὸν ἐν τῇ γενέσει συνέμειξεν"
+        },
+        {
+          "form": "ἄργυρον",
+          "lemma": "ἄργυρος",
+          "location": "415a",
+          "context": "ὅσοι δʼ ἐπίκουροι, ἄργυρον"
+        },
+        {
+          "form": "σίδηρον",
+          "lemma": "σίδηρος",
+          "location": "415a",
+          "context": "σίδηρον δὲ καὶ χαλκόν"
+        },
+        {
+          "form": "χαλκόν",
+          "lemma": "χαλκός",
+          "location": "415a",
+          "context": null
+        },
+        {
+          "form": "χρυσοῦ",
+          "lemma": "χρυσός",
+          "location": "415b",
+          "context": "ἐκ χρυσοῦ γεννηθείη ἂν ἀργυροῦν"
+        },
+        {
+          "form": "ὑπόχαλκος ἢ ὑποσίδηρος",
+          "lemma": null,
+          "location": "415b",
+          "context": null
+        },
+        {
+          "form": "ὑπόχρυσος ἢ ὑπάργυρος",
+          "lemma": null,
+          "location": "415c",
+          "context": null
+        }
+      ],
+      "observation": "Four metals—gold, silver, iron, bronze—are mixed into souls at birth. The ὑπο- compounds (ὑπόχαλκος, ὑποσίδηρος, ὑπόχρυσος, ὑπάργυρος) name concealed metallic nature in offspring."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βασανίζοντας",
+          "lemma": "βασανίζω",
+          "location": "413e",
+          "context": "βασανίζοντας πολὺ μᾶλλον ἢ χρυσὸν ἐν πυρί"
+        },
+        {
+          "form": "βασανιζόμενον",
+          "lemma": "βασανίζω",
+          "location": "413e",
+          "context": "ἐν ἀνδράσι βασανιζόμενον καὶ ἀκήρατον ἐκβαίνοντα"
+        }
+      ],
+      "observation": "βασανίζω appears first in the gold-in-fire comparison and immediately after as the lifelong testing across age-stages (παισί, νεανίσκοις, ἀνδράσι)."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "χρυσὸν ἐν πυρί",
+          "lemma": null,
+          "location": "413e",
+          "context": "βασανίζοντας πολὺ μᾶλλον ἢ χρυσὸν ἐν πυρί"
+        },
+        {
+          "form": "χρυσὸν ἐν τῇ γενέσει συνέμειξεν",
+          "lemma": "χρυσός",
+          "location": "415a",
+          "context": null
+        }
+      ],
+      "observation": "χρυσός appears first as a testing simile (gold tested in fire) and then within the noble lie as the metal mixed into rulers' souls at birth."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δόγματος",
+          "lemma": "δόγμα",
+          "location": "412e",
+          "context": "φυλακικοί εἰσι τούτου τοῦ δόγματος"
+        },
+        {
+          "form": "δόγματος",
+          "lemma": "δόγμα",
+          "location": "413c",
+          "context": "φύλακες τοῦ παρʼ αὑτοῖς δόγματος"
+        },
+        {
+          "form": "δόγμασιν",
+          "lemma": "δόγμα",
+          "location": "414b",
+          "context": "τοῖς τῶν ἀρχόντων δόγμασιν"
+        }
+      ],
+      "observation": "δόγμα first names the conviction to be guarded within oneself, then returns as the rulers' decrees that the auxiliaries serve."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πεῖσαι",
+          "lemma": "πείθω",
+          "location": "414c",
+          "context": "γενναῖόν τι ἓν ψευδομένους πεῖσαι"
+        },
+        {
+          "form": "πεπείκασιν",
+          "lemma": "πείθω",
+          "location": "414c",
+          "context": "ὥς φασιν οἱ ποιηταὶ καὶ πεπείκασιν"
+        },
+        {
+          "form": "πεῖσαι",
+          "lemma": "πείθω",
+          "location": "414c",
+          "context": "πεῖσαι δὲ συχνῆς πειθοῦς"
+        },
+        {
+          "form": "πειθοῦς",
+          "lemma": "πειθώ",
+          "location": "414c",
+          "context": null
+        },
+        {
+          "form": "πείθειν",
+          "lemma": "πείθω",
+          "location": "414d",
+          "context": "αὐτοὺς τοὺς ἄρχοντας πείθειν"
+        },
+        {
+          "form": "πεισθεῖεν",
+          "lemma": "πείθω",
+          "location": "415c",
+          "context": "τοῦτον οὖν τὸν μῦθον ὅπως ἂν πεισθεῖεν"
+        }
+      ],
+      "observation": "πείθω and πειθώ cluster around the introduction of the noble lie, with πεῖσαι and πειθοῦς in immediate proximity at 414c."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ψευδῶν",
+          "lemma": "ψεῦδος",
+          "location": "414b",
+          "context": "τῶν ψευδῶν τῶν ἐν δέοντι γιγνομένων"
+        },
+        {
+          "form": "ψευδομένους",
+          "lemma": "ψεύδομαι",
+          "location": "414c",
+          "context": "γενναῖόν τι ἓν ψευδομένους πεῖσαι"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "414e",
+          "context": "πάλαι ᾐσχύνου τὸ ψεῦδος λέγειν"
+        }
+      ],
+      "observation": "ψεῦδος/ψεύδομαι recurs around the introduction of the noble lie; the interlocutor names Socrates' shame (ᾐσχύνου) at speaking it."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "semantic_cluster",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὑπὸ γῆς ἐντός",
+          "lemma": null,
+          "location": "414d",
+          "context": "ὑπὸ γῆς ἐντὸς πλαττόμενοι καὶ τρεφόμενοι"
+        },
+        {
+          "form": "ἡ γῆ αὐτοὺς μήτηρ οὖσα ἀνῆκεν",
+          "lemma": null,
+          "location": "414e",
+          "context": null
+        },
+        {
+          "form": "γηγενῶν",
+          "lemma": "γηγενής",
+          "location": "414e",
+          "context": "ὡς ἀδελφῶν ὄντων καὶ γηγενῶν"
+        }
+      ],
+      "observation": "The noble lie narrates formation under the earth (ὑπὸ γῆς ἐντός), release upward by earth-as-mother (ἀνῆκεν), and the earthborn identity (γηγενῶν)."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μήτηρ",
+          "lemma": "μήτηρ",
+          "location": "414e",
+          "context": "ἡ γῆ αὐτοὺς μήτηρ οὖσα ἀνῆκεν"
+        },
+        {
+          "form": "μητρός",
+          "lemma": "μήτηρ",
+          "location": "414e",
+          "context": "ὡς περὶ μητρὸς καὶ τροφοῦ τῆς χώρας"
+        },
+        {
+          "form": "τροφοῦ",
+          "lemma": "τροφός",
+          "location": "414e",
+          "context": null
+        },
+        {
+          "form": "ἀδελφῶν",
+          "lemma": "ἀδελφός",
+          "location": "414e",
+          "context": "ὑπὲρ τῶν ἄλλων πολιτῶν ὡς ἀδελφῶν"
+        },
+        {
+          "form": "ἀδελφοί",
+          "lemma": "ἀδελφός",
+          "location": "415a",
+          "context": "πάντες οἱ ἐν τῇ πόλει ἀδελφοί"
+        },
+        {
+          "form": "συγγενεῖς",
+          "lemma": "συγγενής",
+          "location": "415a",
+          "context": "ἅτε οὖν συγγενεῖς ὄντες πάντες"
+        }
+      ],
+      "observation": "Kinship language clusters in the noble lie: earth is μήτηρ and τροφός, citizens are ἀδελφοί and συγγενεῖς."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κήδεσθαι",
+          "lemma": "κήδομαι",
+          "location": "415d",
+          "context": "τῆς πόλεώς τε καὶ ἀλλήλων κήδεσθαι"
+        },
+        {
+          "form": "κηδεμόνας",
+          "lemma": "κηδεμών",
+          "location": "412c",
+          "context": "κηδεμόνας τῆς πόλεως"
+        },
+        {
+          "form": "κήδοιτο",
+          "lemma": "κήδομαι",
+          "location": "412d",
+          "context": "κήδοιτο δέ γʼ ἄν τις μάλιστα τούτου ὃ τυγχάνοι φιλῶν"
+        }
+      ],
+      "observation": "κήδομαι/κηδεμών appears early as a requirement for rulers (caring for the city because one loves it) and returns at the section's close as the purpose of the noble lie—to make citizens care for city and one another."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Φοινικικόν",
+          "lemma": "Φοινικικός",
+          "location": "414c",
+          "context": "ἀλλὰ Φοινικικόν τι"
+        },
+        {
+          "form": "μηδὲν καινόν",
+          "lemma": null,
+          "location": "414c",
+          "context": null
+        }
+      ],
+      "observation": "The lie is introduced as Φοινικικόν τι and explicitly not new (μηδὲν καινόν), something poets claim has happened elsewhere but not in the speakers' own time."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐν τε παισί",
+          "lemma": "παῖς",
+          "location": "413e",
+          "context": null
+        },
+        {
+          "form": "νεανίσκοις",
+          "lemma": "νεανίσκος",
+          "location": "413e",
+          "context": null
+        },
+        {
+          "form": "ἐν ἀνδράσι",
+          "lemma": "ἀνήρ",
+          "location": "413e",
+          "context": null
+        },
+        {
+          "form": "ζῶντι καὶ τελευτήσαντι",
+          "lemma": null,
+          "location": "414a",
+          "context": null
+        }
+      ],
+      "observation": "A life-sequence is articulated: testing proceeds through children, youths, and men, then honors extend to the living and the dead (τάφων, μνημείων)."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἔξωθεν πολεμίων",
+          "lemma": null,
+          "location": "414b",
+          "context": "τῶν τε ἔξωθεν πολεμίων"
+        },
+        {
+          "form": "ἐντὸς φιλίων",
+          "lemma": null,
+          "location": "414b",
+          "context": "τῶν τε ἐντὸς φιλίων"
+        },
+        {
+          "form": "βουλήσονται",
+          "lemma": "βούλομαι",
+          "location": "414b",
+          "context": "οἱ μὲν μὴ βουλήσονται"
+        },
+        {
+          "form": "δυνήσονται",
+          "lemma": "δύναμαι",
+          "location": "414b",
+          "context": "οἱ δὲ μὴ δυνήσονται κακουργεῖν"
+        }
+      ],
+      "observation": "Complete guardians protect against external enemies and internal friends; the two groups are differentiated by will (βουλήσονται) versus capacity (δυνήσονται) to do harm."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὀκνοῦντι λέγειν",
+          "lemma": "ὀκνέω",
+          "location": "414c",
+          "context": "ὡς ἔοικας ὀκνοῦντι λέγειν"
+        },
+        {
+          "form": "ὀκνεῖν",
+          "lemma": "ὀκνέω",
+          "location": "414c",
+          "context": "καὶ μάλʼ εἰκότως ὀκνεῖν"
+        },
+        {
+          "form": "τόλμῃ",
+          "lemma": "τόλμα",
+          "location": "414d",
+          "context": "οὐκ οἶδα ὁποίᾳ τόλμῃ"
+        },
+        {
+          "form": "ᾐσχύνου",
+          "lemma": "αἰσχύνομαι",
+          "location": "414e",
+          "context": "πάλαι ᾐσχύνου τὸ ψεῦδος λέγειν"
+        },
+        {
+          "form": "μὴ φοβοῦ",
+          "lemma": "φοβέω",
+          "location": "414c",
+          "context": "λέγʼ ἔφη καὶ μὴ φοβοῦ"
+        }
+      ],
+      "observation": "Hesitation and shame cluster around the introduction of the noble lie: Socrates hesitates (ὀκνέω twice), does not know what boldness (τόλμα) to use, is told not to fear (μὴ φοβοῦ), and the interlocutor names his shame (ᾐσχύνου)."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "πρῶτον μὲν αὐτοὺς τοὺς ἄρχοντας πείθειν",
+          "lemma": null,
+          "location": "414d",
+          "context": null
+        },
+        {
+          "form": "ἔπειτα δὲ καὶ τὴν ἄλλην πόλιν",
+          "lemma": null,
+          "location": "414d",
+          "context": null
+        },
+        {
+          "form": "οὐδαμῶς … ὅπως γʼ ἂν αὐτοὶ οὗτοι",
+          "lemma": null,
+          "location": "415d",
+          "context": null
+        },
+        {
+          "form": "ὅπως μεντἂν οἱ τούτων ὑεῖς",
+          "lemma": null,
+          "location": "415d",
+          "context": null
+        }
+      ],
+      "observation": "Socrates proposes to persuade first the rulers themselves, then the city; the interlocutor answers that the rulers themselves cannot be persuaded—only their sons and later generations."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πλαττόμενοι",
+          "lemma": "πλάττω",
+          "location": "414d",
+          "context": "ὑπὸ γῆς ἐντὸς πλαττόμενοι"
+        },
+        {
+          "form": "πλάττων",
+          "lemma": "πλάττω",
+          "location": "415a",
+          "context": "ὁ θεὸς πλάττων"
+        }
+      ],
+      "observation": "πλάττω appears first for the fashioning of citizens under the earth and then for the god fashioning them with metals mixed in."
+    }
+  ]
+}

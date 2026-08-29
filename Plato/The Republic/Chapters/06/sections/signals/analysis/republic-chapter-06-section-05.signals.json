@@ -1,0 +1,518 @@
+{
+  "section_id": "republic-chapter-06-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐκπίπτοντες",
+          "lemma": "ἐκπίπτω",
+          "location": "495b",
+          "context": "οὗτοι μὲν δὴ οὕτως ἐκπίπτοντες"
+        },
+        {
+          "form": "ἐκπηδῶσιν",
+          "lemma": "ἐκπηδάω",
+          "location": "495d",
+          "context": "ἐκ τῶν τεχνῶν ἐκπηδῶσιν εἰς τὴν φιλοσοφίαν"
+        },
+        {
+          "form": "ἐκπεσεῖν",
+          "lemma": "ἐκπίπτω",
+          "location": "496c",
+          "context": "παρεσκεύασται πρὸς τὸ ἐκπεσεῖν φιλοσοφίας"
+        }
+      ],
+      "observation": "ἐκπίπτω appears first for those falling away from philosophy, then returns for Theages being prepared to fall from it; between them ἐκπηδάω describes unworthy others leaping into philosophy."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "exact_repetition",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἔρημον",
+          "lemma": "ἔρημος",
+          "location": "495c",
+          "context": "ἔρημον καὶ ἀτελῆ φιλοσοφίαν λείποντες"
+        },
+        {
+          "form": "ἐρημίαν",
+          "lemma": "ἐρημία",
+          "location": "495e",
+          "context": "διὰ πενίαν καὶ ἐρημίαν τοῦ δεσπότου"
+        }
+      ],
+      "observation": "Philosophy is left ἔρημον by those who should tend it; the master's daughter is married off due to ἐρημία—desertion applies to both philosophy and the household in the analogy."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀτελῆ",
+          "lemma": "ἀτελής",
+          "location": "495c",
+          "context": "ἔρημον καὶ ἀτελῆ φιλοσοφίαν"
+        },
+        {
+          "form": "ἀτελεῖς",
+          "lemma": "ἀτελής",
+          "location": "495d",
+          "context": "πολλοὶ ἀτελεῖς μὲν τὰς φύσεις"
+        }
+      ],
+      "observation": "ἀτελής first describes philosophy left incomplete, then describes the incomplete natures of those who approach it."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὀρφανήν",
+          "lemma": "ὀρφανός",
+          "location": "495c",
+          "context": "ὥσπερ ὀρφανὴν συγγενῶν"
+        },
+        {
+          "form": "γαμεῖν",
+          "lemma": "γαμέω",
+          "location": "495e",
+          "context": "τὴν θυγατέρα μέλλοντος γαμεῖν"
+        },
+        {
+          "form": "νυμφίου",
+          "lemma": "νυμφίος",
+          "location": "495e",
+          "context": "ὡς νυμφίου παρεσκευασμένου"
+        },
+        {
+          "form": "νόθα",
+          "lemma": "νόθος",
+          "location": "496a",
+          "context": "οὐ νόθα καὶ φαῦλα"
+        },
+        {
+          "form": "γνήσιον",
+          "lemma": "γνήσιος",
+          "location": "496a",
+          "context": "οὐδὲν γνήσιον"
+        },
+        {
+          "form": "γεννᾶν",
+          "lemma": "γεννάω",
+          "location": "496a",
+          "context": "ποῖʼ ἄττα οὖν εἰκὸς γεννᾶν"
+        }
+      ],
+      "observation": "A sustained kinship-and-marriage cluster: philosophy is orphaned, unworthy suitors dress as bridegrooms, and the resulting offspring are νόθα not γνήσιον."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀναξίους",
+          "lemma": "ἀνάξιος",
+          "location": "496a",
+          "context": "τοὺς ἀναξίους παιδεύσεως"
+        },
+        {
+          "form": "ἀνάξιοι",
+          "lemma": "ἀνάξιος",
+          "location": "495c",
+          "context": "ἄλλοι ἐπεισελθόντες ἀνάξιοι"
+        },
+        {
+          "form": "κατʼ ἀξίαν",
+          "lemma": "ἀξία",
+          "location": "496a",
+          "context": "μὴ κατʼ ἀξίαν"
+        },
+        {
+          "form": "κατʼ ἀξίαν",
+          "lemma": "ἀξία",
+          "location": "496b",
+          "context": "τῶν κατʼ ἀξίαν ὁμιλούντων"
+        },
+        {
+          "form": "ἀξίωμα",
+          "lemma": "ἀξίωμα",
+          "location": "495d",
+          "context": "τὸ ἀξίωμα μεγαλοπρεπέστερον λείπεται"
+        },
+        {
+          "form": "ἄξιον",
+          "lemma": "ἄξιος",
+          "location": "496a",
+          "context": "φρονήσεως ἄξιον"
+        }
+      ],
+      "observation": "The ἀξι- word family recurs densely: ἀνάξιοι enter philosophy, its ἀξίωμα attracts them, they consort μὴ κατʼ ἀξίαν, while a πάνσμικρον group remains κατʼ ἀξίαν."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λείποντες",
+          "lemma": "λείπω",
+          "location": "495c",
+          "context": "ἔρημον καὶ ἀτελῆ φιλοσοφίαν λείποντες"
+        },
+        {
+          "form": "λείπεται",
+          "lemma": "λείπω",
+          "location": "495d",
+          "context": "τὸ ἀξίωμα μεγαλοπρεπέστερον λείπεται"
+        },
+        {
+          "form": "λείπεται",
+          "lemma": "λείπω",
+          "location": "496b",
+          "context": "πάνσμικρον δή τι … λείπεται"
+        }
+      ],
+      "observation": "λείπω recurs: the worthy leave philosophy behind, philosophy's prestige remains despite misuse, and a tiny remnant remains in worthy association with it."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἰς τὰ ἱερά",
+          "lemma": null,
+          "location": "495d",
+          "context": "ἐκ τῶν εἱργμῶν εἰς τὰ ἱερὰ ἀποδιδράσκοντες"
+        },
+        {
+          "form": "εἰς τὴν φιλοσοφίαν",
+          "lemma": null,
+          "location": "495d",
+          "context": "ἐκ τῶν τεχνῶν ἐκπηδῶσιν εἰς τὴν φιλοσοφίαν"
+        },
+        {
+          "form": "εἰς θηρία",
+          "lemma": null,
+          "location": "496d",
+          "context": "ὥσπερ εἰς θηρία ἄνθρωπος ἐμπεσών"
+        }
+      ],
+      "observation": "Three εἰς-movements: fugitives flee into sanctuaries, craftsmen leap into philosophy, and the just person falls among wild beasts."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "εἱργμῶν",
+          "lemma": "εἱργμός",
+          "location": "495d",
+          "context": "ἐκ τῶν εἱργμῶν εἰς τὰ ἱερά"
+        },
+        {
+          "form": "δεσμῶν",
+          "lemma": "δεσμός",
+          "location": "495e",
+          "context": "νεωστὶ μὲν ἐκ δεσμῶν λελυμένου"
+        }
+      ],
+      "observation": "Two words for imprisonment appear in successive analogies: εἱργμῶν for the sanctuary-fugitives, δεσμῶν for the freed slave-smith."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σώματα",
+          "lemma": "σῶμα",
+          "location": "495d",
+          "context": "ὥσπερ τὰ σώματα λελώβηνται"
+        },
+        {
+          "form": "ψυχάς",
+          "lemma": "ψυχή",
+          "location": "495e",
+          "context": "τὰς ψυχὰς συγκεκλασμένοι τε καὶ ἀποτεθρυμμένοι"
+        },
+        {
+          "form": "σώματος",
+          "lemma": "σῶμα",
+          "location": "496c",
+          "context": "ἡ δὲ τοῦ σώματος νοσοτροφία"
+        }
+      ],
+      "observation": "σῶμα and ψυχή: banausic crafts maim bodies and analogously break souls; Theages' bodily illness paradoxically restrains him for philosophy."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὸ δαιμόνιον σημεῖον",
+          "lemma": null,
+          "location": "496c",
+          "context": "τὸ δʼ ἡμέτερον οὐκ ἄξιον λέγειν, τὸ δαιμόνιον σημεῖον"
+        }
+      ],
+      "observation": "Socrates names his own daimonic sign as what restrains him from politics, introduced with the disclaimer that it is not worth mentioning and is unprecedented."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χειμῶνι",
+          "lemma": "χειμών",
+          "location": "496d",
+          "context": "οἷον ἐν χειμῶνι κονιορτοῦ καὶ ζάλης"
+        },
+        {
+          "form": "τειχίον",
+          "lemma": "τειχίον",
+          "location": "496d",
+          "context": "ὑπὸ τειχίον ἀποστάς"
+        },
+        {
+          "form": "κονιορτοῦ",
+          "lemma": "κονιορτός",
+          "location": "496d",
+          "context": null
+        },
+        {
+          "form": "ζάλης",
+          "lemma": "ζάλη",
+          "location": "496d",
+          "context": null
+        },
+        {
+          "form": "πνεύματος",
+          "lemma": "πνεῦμα",
+          "location": "496d",
+          "context": "ὑπὸ πνεύματος φερομένου"
+        }
+      ],
+      "observation": "The storm-wall simile: the philosopher stands aside under a little wall while dust, storm, and wind blow—a compressed image of withdrawal and shelter."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπαλλαγήν",
+          "lemma": "ἀπαλλαγή",
+          "location": "496e",
+          "context": "τὴν ἀπαλλαγὴν αὐτοῦ"
+        },
+        {
+          "form": "ἀπαλλάξεται",
+          "lemma": "ἀπαλλάττω",
+          "location": "496e",
+          "context": "ἵλεώς τε καὶ εὐμενὴς ἀπαλλάξεται"
+        },
+        {
+          "form": "ἀπαλλάττοιτο",
+          "lemma": "ἀπαλλάττω",
+          "location": "497a",
+          "context": "οὐ τὰ ἐλάχιστα ἂν διαπραξάμενος ἀπαλλάττοιτο"
+        }
+      ],
+      "observation": "ἀπαλλάττω clusters at the section's close: departure from life, then Adeimantus and Socrates exchange it in evaluating what the philosopher achieves in departing."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὰ ἐλάχιστα",
+          "lemma": "ἐλάχιστος",
+          "location": "497a",
+          "context": "οὐ τὰ ἐλάχιστα ἂν διαπραξάμενος"
+        },
+        {
+          "form": "τὰ μέγιστα",
+          "lemma": "μέγιστος",
+          "location": "497a",
+          "context": "οὐδέ γε … τὰ μέγιστα"
+        }
+      ],
+      "observation": "Adeimantus says the philosopher would depart having accomplished not the least; Socrates immediately counters: nor the greatest, without a fitting polity."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "προσήκει",
+          "lemma": "προσήκω",
+          "location": "495b",
+          "context": "οἷς μάλιστα προσήκει"
+        },
+        {
+          "form": "προσήκοντα",
+          "lemma": "προσήκω",
+          "location": "495c",
+          "context": "βίον οὐ προσήκοντα οὐδʼ ἀληθῆ ζῶσιν"
+        },
+        {
+          "form": "προσήκοντα",
+          "lemma": "προσήκω",
+          "location": "496a",
+          "context": "ὡς ἀληθῶς προσήκοντα ἀκοῦσαι σοφίσματα"
+        },
+        {
+          "form": "προσηκούσης",
+          "lemma": "προσήκω",
+          "location": "497a",
+          "context": "μὴ τυχὼν πολιτείας προσηκούσης"
+        },
+        {
+          "form": "προσηκούσῃ",
+          "lemma": "προσήκω",
+          "location": "497a",
+          "context": "ἐν γὰρ προσηκούσῃ"
+        }
+      ],
+      "observation": "προσήκω recurs throughout: philosophy belongs to certain natures, those natures live an unfitting life, the unworthy produce what deserves to be called sophisms, and the philosopher needs a fitting polity."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σοφίσματα",
+          "lemma": "σόφισμα",
+          "location": "496a",
+          "context": "προσήκοντα ἀκοῦσαι σοφίσματα"
+        },
+        {
+          "form": "γνήσιον",
+          "lemma": "γνήσιος",
+          "location": "496a",
+          "context": "οὐδὲν γνήσιον"
+        },
+        {
+          "form": "φρονήσεως",
+          "lemma": "φρόνησις",
+          "location": "496a",
+          "context": "φρονήσεως ἄξιον ἀληθινῆς"
+        }
+      ],
+      "observation": "The unworthy beget σοφίσματα—nothing γνήσιον or connected to genuine φρόνησις—contrasting bastard cleverness with legitimate wisdom."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁρῶν",
+          "lemma": "ὁράω",
+          "location": "496d",
+          "context": "ὁρῶν τοὺς ἄλλους καταπιμπλαμένους ἀνομίας"
+        },
+        {
+          "form": "καθορῶντες",
+          "lemma": "καθοράω",
+          "location": "495c",
+          "context": "καθορῶντες γὰρ ἄλλοι ἀνθρωπίσκοι κενὴν τὴν χώραν"
+        },
+        {
+          "form": "ἰδόντες",
+          "lemma": "ὁράω",
+          "location": "496c",
+          "context": "τῶν πολλῶν αὖ ἱκανῶς ἰδόντες τὴν μανίαν"
+        },
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "495e",
+          "context": "διαφέρειν αὐτοὺς ἰδεῖν"
+        }
+      ],
+      "observation": "Seeing recurs across agents: petty men spot the vacant territory, interlocutors are asked to look at the smith analogy, the few see the madness of the many, and the philosopher watches others fill with lawlessness."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "σώσει",
+          "lemma": "σῴζω",
+          "location": "497a",
+          "context": "μετὰ τῶν ἰδίων τὰ κοινὰ σώσει"
+        },
+        {
+          "form": "σῴζοιτʼ",
+          "lemma": "σῴζω",
+          "location": "496d",
+          "context": "ἐπὶ τὴν τῷ δικαίῳ βοήθειαν σῴζοιτʼ ἄν"
+        }
+      ],
+      "observation": "σῴζω appears first as impossible self-preservation when aiding justice alone, then at the section's end as saving public affairs within a fitting polity."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τὰ ἴδια",
+          "lemma": "ἴδιος",
+          "location": "497a",
+          "context": "μετὰ τῶν ἰδίων τὰ κοινὰ σώσει"
+        },
+        {
+          "form": "τὰ κοινά",
+          "lemma": "κοινός",
+          "location": "497a",
+          "context": null
+        },
+        {
+          "form": "τὰ αὑτοῦ πράττων",
+          "lemma": null,
+          "location": "496d",
+          "context": "ἡσυχίαν ἔχων καὶ τὰ αὑτοῦ πράττων"
+        }
+      ],
+      "observation": "The philosopher in withdrawal minds his own affairs (τὰ αὑτοῦ πράττων); in the fitting polity he would save both private and public (τὰ ἴδια / τὰ κοινά)."
+    }
+  ]
+}

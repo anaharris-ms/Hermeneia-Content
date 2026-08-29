@@ -1,0 +1,602 @@
+{
+  "section_id": "republic-chapter-07-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀναβῆναι",
+          "lemma": "ἀναβαίνω",
+          "location": "519d",
+          "context": "ἀναβῆναι ἐκείνην τὴν ἀνάβασιν"
+        },
+        {
+          "form": "ἀνάβασιν",
+          "lemma": "ἀνάβασις",
+          "location": "519d",
+          "context": null
+        },
+        {
+          "form": "ἀναβάντες",
+          "lemma": "ἀναβαίνω",
+          "location": "519d",
+          "context": "ἐπειδὰν ἀναβάντες ἱκανῶς ἴδωσι"
+        },
+        {
+          "form": "καταβαίνειν",
+          "lemma": "καταβαίνω",
+          "location": "519d",
+          "context": "μὴ ἐθέλειν πάλιν καταβαίνειν"
+        },
+        {
+          "form": "καταβατέον",
+          "lemma": "καταβαίνω",
+          "location": "520c",
+          "context": "καταβατέον οὖν ἐν μέρει ἑκάστῳ"
+        }
+      ],
+      "observation": "Ascent and descent are articulated through forms of ἀναβαίνω and καταβαίνω: the required ascent (ἀναβῆναι, ἀνάβασιν, ἀναβάντες) is followed by reluctance to descend (καταβαίνειν) and then the imperative to descend (καταβατέον)."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "519b",
+          "context": null
+        },
+        {
+          "form": "ἀναγκάσαι",
+          "lemma": "ἀναγκάζω",
+          "location": "519c",
+          "context": "ἀναγκάσαι ἀφικέσθαι πρὸς τὸ μάθημα"
+        },
+        {
+          "form": "ἀνάγκῃ",
+          "lemma": "ἀνάγκη",
+          "location": "519e",
+          "context": "πειθοῖ τε καὶ ἀνάγκῃ"
+        },
+        {
+          "form": "προσαναγκάζοντες",
+          "lemma": "προσαναγκάζω",
+          "location": "520a",
+          "context": null
+        },
+        {
+          "form": "ἀναγκαῖον",
+          "lemma": "ἀναγκαῖος",
+          "location": "520e",
+          "context": "ὡς ἐπʼ ἀναγκαῖον αὐτῶν ἕκαστος εἶσι τὸ ἄρχειν"
+        },
+        {
+          "form": "ἀναγκάσεις",
+          "lemma": "ἀναγκάζω",
+          "location": "521b",
+          "context": null
+        }
+      ],
+      "observation": "The ἀνάγκη family recurs densely across the section, applied to the compulsion of philosophers toward learning, toward governing, and accepted by the governed as necessary."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "520c",
+          "context": "στασιαζόντων περὶ τοῦ ἄρχειν"
+        },
+        {
+          "form": "ἄρξειν",
+          "lemma": "ἄρχω",
+          "location": "520d",
+          "context": "οἱ μέλλοντες ἄρξειν"
+        },
+        {
+          "form": "ἀρχόντων",
+          "lemma": "ἄρχων",
+          "location": "520e",
+          "context": "τῶν νῦν ἐν ἑκάστῃ πόλει ἀρχόντων"
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "521a",
+          "context": "ἀμείνω τοῦ ἄρχειν"
+        },
+        {
+          "form": "ἄρξουσιν",
+          "lemma": "ἄρχω",
+          "location": "521a",
+          "context": null
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "521b",
+          "context": "μὴ ἐραστὰς τοῦ ἄρχειν"
+        },
+        {
+          "form": "ἀρχῶν",
+          "lemma": "ἀρχή",
+          "location": "521b",
+          "context": "πολιτικῶν ἀρχῶν καταφρονοῦντα"
+        }
+      ],
+      "observation": "Forms of ἄρχω/ἀρχή accumulate heavily in the latter half of the section, concentrated around the paradox that those who should rule are unwilling."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκιστῶν",
+          "lemma": "οἰκιστής",
+          "location": "519c",
+          "context": null
+        },
+        {
+          "form": "συνοίκησιν",
+          "lemma": "συνοίκησις",
+          "location": "520c",
+          "context": null
+        },
+        {
+          "form": "οἰκήσεται",
+          "lemma": "οἰκέω",
+          "location": "520c",
+          "context": "ὕπαρ ἡμῖν καὶ ὑμῖν ἡ πόλις οἰκήσεται"
+        },
+        {
+          "form": "οἰκοῦνται",
+          "lemma": "οἰκέω",
+          "location": "520d",
+          "context": null
+        },
+        {
+          "form": "οἰκεῖσθαι",
+          "lemma": "οἰκέω",
+          "location": "520d",
+          "context": "ταύτην ἄριστα καὶ ἀστασιαστότατα ἀνάγκη οἰκεῖσθαι"
+        },
+        {
+          "form": "οἰκεῖν",
+          "lemma": "οἰκέω",
+          "location": "520d",
+          "context": "μετʼ ἀλλήλων οἰκεῖν ἐν τῷ καθαρῷ"
+        },
+        {
+          "form": "οἰκεῖος",
+          "lemma": "οἰκεῖος",
+          "location": "521a",
+          "context": "οἰκεῖος ὢν καὶ ἔνδον ὁ τοιοῦτος πόλεμος"
+        },
+        {
+          "form": "οἰκουμένη",
+          "lemma": "οἰκέω",
+          "location": "521a",
+          "context": "πόλις εὖ οἰκουμένη"
+        },
+        {
+          "form": "οἰκεῖται",
+          "lemma": "οἰκέω",
+          "location": "521b",
+          "context": null
+        }
+      ],
+      "observation": "The οἰκ- family pervades the section: from οἰκιστῶν (founders) through multiple forms of οἰκέω describing how a city is or should be inhabited, including οἰκεῖος applied to internal war."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "520c",
+          "context": "ὕπαρ ἡμῖν καὶ ὑμῖν ἡ πόλις οἰκήσεται"
+        },
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "520c",
+          "context": "ἀλλʼ οὐκ ὄναρ"
+        }
+      ],
+      "observation": "ὕπαρ and ὄναρ are set in direct opposition: the well-governed city as waking versus the many cities as dream."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "519c",
+          "context": "ἰδεῖν τε τὸ ἀγαθὸν"
+        },
+        {
+          "form": "ἴδωσι",
+          "lemma": "ὁράω",
+          "location": "519d",
+          "context": "ἱκανῶς ἴδωσι"
+        },
+        {
+          "form": "θεάσασθαι",
+          "lemma": "θεάομαι",
+          "location": "520c",
+          "context": "τὰ σκοτεινὰ θεάσασθαι"
+        },
+        {
+          "form": "ὄψεσθε",
+          "lemma": "ὁράω",
+          "location": "520c",
+          "context": "μυρίῳ βέλτιον ὄψεσθε"
+        },
+        {
+          "form": "ἑωρακέναι",
+          "lemma": "ὁράω",
+          "location": "520c",
+          "context": "τἀληθῆ ἑωρακέναι"
+        }
+      ],
+      "observation": "Multiple verbs of seeing (ἰδεῖν, ἴδωσι, ὄψεσθε, ἑωρακέναι, θεάσασθαι) cluster around what is seen above (τὸ ἀγαθόν) and what must be seen below (τὰ σκοτεινά, εἴδωλα)."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σκοτεινὰ",
+          "lemma": "σκοτεινός",
+          "location": "520c",
+          "context": "τὰ σκοτεινὰ θεάσασθαι"
+        },
+        {
+          "form": "σκιαμαχούντων",
+          "lemma": "σκιαμαχέω",
+          "location": "520c",
+          "context": "ὑπὸ σκιαμαχούντων τε πρὸς ἀλλήλους"
+        }
+      ],
+      "observation": "σκοτεινά and σκιαμαχούντων share the domain of darkness/shadow and appear in close proximity, the first describing what the descended philosophers must learn to see, the second describing shadow-fighting in poorly governed cities."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lexical_family",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "τροφὴν",
+          "lemma": "τροφή",
+          "location": "520b",
+          "context": "μηδενὶ τροφὴν ὀφεῖλον"
+        },
+        {
+          "form": "τροφεῖα",
+          "lemma": "τροφεῖα",
+          "location": "520b",
+          "context": "μηδʼ ἐκτίνειν τῳ προθυμεῖσθαι τὰ τροφεῖα"
+        },
+        {
+          "form": "τρόφιμοι",
+          "lemma": "τρόφιμος",
+          "location": "520d",
+          "context": "οἱ τρόφιμοι ταῦτʼ ἀκούοντες"
+        }
+      ],
+      "observation": "τροφή, τροφεῖα, and τρόφιμοι cluster locally: nurture, the debt of nurture, and the nurslings who owe it."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μετέχειν",
+          "lemma": "μετέχω",
+          "location": "519d",
+          "context": "μηδὲ μετέχειν τῶν παρʼ ἐκείνοις πόνων τε καὶ τιμῶν"
+        },
+        {
+          "form": "μετέχουσι",
+          "lemma": "μετέχω",
+          "location": "520b",
+          "context": "εἰκότως οὐ μετέχουσι τῶν ἐν αὐταῖς πόνων"
+        },
+        {
+          "form": "μετέχειν",
+          "lemma": "μετέχω",
+          "location": "520c",
+          "context": "ἀμφοτέρων μετέχειν"
+        }
+      ],
+      "observation": "μετέχω appears three times: first as the philosophers' reluctance to share in the prisoners' toils and honors, then as justified non-participation in other cities, then as the capacity to participate in both realms."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πόνων",
+          "lemma": "πόνος",
+          "location": "519d",
+          "context": "τῶν παρʼ ἐκείνοις πόνων τε καὶ τιμῶν"
+        },
+        {
+          "form": "πόνων",
+          "lemma": "πόνος",
+          "location": "520b",
+          "context": "τῶν ἐν αὐταῖς πόνων"
+        },
+        {
+          "form": "συμπονεῖν",
+          "lemma": "συμπονέω",
+          "location": "520d",
+          "context": "ἐθελήσουσιν συμπονεῖν ἐν τῇ πόλει"
+        }
+      ],
+      "observation": "πόνος recurs: the toils of the prisoners, the toils of other cities, and then the compound συμπονεῖν for willing shared labor."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀδικήσομεν",
+          "lemma": "ἀδικέω",
+          "location": "519d",
+          "context": "ἀδικήσομεν αὐτούς"
+        },
+        {
+          "form": "ἀδικήσομεν",
+          "lemma": "ἀδικέω",
+          "location": "520a",
+          "context": "οὐδʼ ἀδικήσομεν τοὺς παρʼ ἡμῖν φιλοσόφους"
+        },
+        {
+          "form": "δίκαια",
+          "lemma": "δίκαιος",
+          "location": "520a",
+          "context": "δίκαια πρὸς αὐτοὺς ἐροῦμεν"
+        },
+        {
+          "form": "δίκην",
+          "lemma": "δίκη",
+          "location": "520b",
+          "context": "δίκην δʼ ἔχει τό γε αὐτοφυές"
+        },
+        {
+          "form": "δίκαια",
+          "lemma": "δίκαιος",
+          "location": "520e",
+          "context": "δίκαια γὰρ δὴ δικαίοις ἐπιτάξομεν"
+        },
+        {
+          "form": "δικαίοις",
+          "lemma": "δίκαιος",
+          "location": "520e",
+          "context": null
+        }
+      ],
+      "observation": "Glaucon raises ἀδικήσομεν as an objection; Socrates answers with οὐδʼ ἀδικήσομεν and develops δίκαια/δίκη/δικαίοις, turning the justice question from objection to resolution."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐραστὰς",
+          "lemma": "ἐραστής",
+          "location": "521b",
+          "context": "μὴ ἐραστὰς τοῦ ἄρχειν"
+        },
+        {
+          "form": "ἀντερασταὶ",
+          "lemma": "ἀντεραστής",
+          "location": "521b",
+          "context": "οἵ γε ἀντερασταὶ μαχοῦνται"
+        }
+      ],
+      "observation": "ἐραστάς and ἀντερασταί apply erotic vocabulary to the desire for rule: lovers and rival lovers of ruling."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "αὐτόματοι",
+          "lemma": "αὐτόματος",
+          "location": "520b",
+          "context": "αὐτόματοι γὰρ ἐμφύονται"
+        },
+        {
+          "form": "αὐτοφυὲς",
+          "lemma": "αὐτοφυής",
+          "location": "520b",
+          "context": "τό γε αὐτοφυὲς μηδενὶ τροφὴν ὀφεῖλον"
+        }
+      ],
+      "observation": "αὐτόματοι and αὐτοφυές appear adjacently to describe philosophers in other cities as self-growing, owing nothing for their nurture."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σμήνεσιν",
+          "lemma": "σμῆνος",
+          "location": "520b",
+          "context": "ὥσπερ ἐν σμήνεσιν ἡγεμόνας τε καὶ βασιλέας"
+        },
+        {
+          "form": "ἡγεμόνας",
+          "lemma": "ἡγεμών",
+          "location": "520b",
+          "context": null
+        },
+        {
+          "form": "βασιλέας",
+          "lemma": "βασιλεύς",
+          "location": "520b",
+          "context": null
+        }
+      ],
+      "observation": "The simile ὥσπερ ἐν σμήνεσιν compares the educated philosophers to leaders and kings in beehives."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πλούσιοι",
+          "lemma": "πλούσιος",
+          "location": "521a",
+          "context": "οἱ τῷ ὄντι πλούσιοι"
+        },
+        {
+          "form": "χρυσίου",
+          "lemma": "χρυσίον",
+          "location": "521a",
+          "context": "οὐ χρυσίου"
+        },
+        {
+          "form": "πτωχοὶ",
+          "lemma": "πτωχός",
+          "location": "521a",
+          "context": "πτωχοὶ καὶ πεινῶντες ἀγαθῶν ἰδίων"
+        },
+        {
+          "form": "πεινῶντες",
+          "lemma": "πεινάω",
+          "location": "521a",
+          "context": null
+        }
+      ],
+      "observation": "True wealth (πλούσιοι, not of χρυσίον but of ζωῆς ἀγαθῆς) is contrasted with those who are πτωχοί and πεινῶντες for private goods, turning to public office to seize them."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "μακάρων νήσοις",
+          "lemma": null,
+          "location": "519c",
+          "context": "ἡγούμενοι ἐν μακάρων νήσοις ζῶντες ἔτι ἀπῳκίσθαι"
+        },
+        {
+          "form": "καθαρῷ",
+          "lemma": "καθαρός",
+          "location": "520d",
+          "context": "οἰκεῖν ἐν τῷ καθαρῷ"
+        }
+      ],
+      "observation": "The educated who refuse to act believe they already dwell in the Isles of the Blessed (μακάρων νήσοις); later the philosophers' preferred dwelling is described as ἐν τῷ καθαρῷ—both name a place apart from political life."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτρέπειν",
+          "lemma": "ἐπιτρέπω",
+          "location": "519d",
+          "context": "μὴ ἐπιτρέπειν αὐτοῖς ὃ νῦν ἐπιτρέπεται"
+        },
+        {
+          "form": "ἐπιτροπεῦσαι",
+          "lemma": "ἐπιτροπεύω",
+          "location": "519c",
+          "context": "ἱκανῶς ἄν ποτε πόλιν ἐπιτροπεῦσαι"
+        }
+      ],
+      "observation": "ἐπιτροπεῦσαι (to govern/manage the city) and ἐπιτρέπειν (to permit/entrust) share the ἐπιτροπ- root; governing the city and permitting the philosophers to remain above are juxtaposed."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκοπὸν",
+          "lemma": "σκοπός",
+          "location": "519c",
+          "context": "σκοπὸν ἐν τῷ βίῳ οὐκ ἔχουσιν ἕνα"
+        },
+        {
+          "form": "σκέψαι",
+          "lemma": "σκέπτομαι",
+          "location": "520a",
+          "context": "σκέψαι τοίνυν"
+        }
+      ],
+      "observation": "σκοπός (target/aim in life) and σκέψαι (consider/look) share the σκεπ-/σκοπ- root; the uneducated lack a σκοπός, while Socrates directs Glaucon to σκέψαι the justice of compelling philosophers."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπελάθου",
+          "lemma": "ἐπιλανθάνομαι",
+          "location": "519e",
+          "context": "ἐπελάθου πάλιν ὦ φίλε"
+        },
+        {
+          "form": "ἐπελαθόμην",
+          "lemma": "ἐπιλανθάνομαι",
+          "location": "520a",
+          "context": "ἐπελαθόμην γάρ"
+        }
+      ],
+      "observation": "Socrates says ἐπελάθου (you forgot) and Glaucon immediately echoes with ἐπελαθόμην (I forgot), a direct uptake across speakers."
+    }
+  ]
+}

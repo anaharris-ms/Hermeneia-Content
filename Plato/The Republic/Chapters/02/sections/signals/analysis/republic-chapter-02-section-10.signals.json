@@ -1,0 +1,752 @@
+{
+  "section_id": "republic-chapter-02-section-10",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀλλοιοῦταί",
+          "lemma": "ἀλλοιόω",
+          "location": "380e",
+          "context": "ἥκιστα ἀλλοιοῦταί τε καὶ κινεῖται"
+        },
+        {
+          "form": "ἀλλοιοῦται",
+          "lemma": "ἀλλοιόω",
+          "location": "381a",
+          "context": "ἥκιστα ἀλλοιοῦται"
+        },
+        {
+          "form": "ἀλλοιώσειεν",
+          "lemma": "ἀλλοιόω",
+          "location": "381a",
+          "context": null
+        },
+        {
+          "form": "ἀλλοιοῖ",
+          "lemma": "ἀλλοιόω",
+          "location": "381b",
+          "context": null
+        },
+        {
+          "form": "ἀλλοιοῦται",
+          "lemma": "ἀλλοιόω",
+          "location": "381c",
+          "context": "εἴπερ ἀλλοιοῦται"
+        },
+        {
+          "form": "ἀλλοιοῦν",
+          "lemma": "ἀλλοιόω",
+          "location": "381c",
+          "context": "ἐθέλειν αὑτὸν ἀλλοιοῦν"
+        },
+        {
+          "form": "ἠλλοιωμένην",
+          "lemma": "ἀλλοιόω",
+          "location": "381d",
+          "context": "Ἥραν ἠλλοιωμένην"
+        }
+      ],
+      "observation": "ἀλλοιόω recurs densely throughout the section, applied first to bodies, plants, soul, and crafted objects, then concentrated on god, and finally on Hera in the poets' depictions."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μορφάς",
+          "lemma": "μορφή",
+          "location": "380d",
+          "context": "εἰς πολλὰς μορφάς"
+        },
+        {
+          "form": "μορφὰς",
+          "lemma": "μορφή",
+          "location": "381b",
+          "context": "πολλὰς μορφὰς ἴσχοι ὁ θεός"
+        },
+        {
+          "form": "μορφῇ",
+          "lemma": "μορφή",
+          "location": "381c",
+          "context": "μένει ἀεὶ ἁπλῶς ἐν τῇ αὑτοῦ μορφῇ"
+        }
+      ],
+      "observation": "μορφή first appears as the many forms god might assume, recurs as the many forms he would least have, and finally as the single form in which each god remains."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἰδέαις",
+          "lemma": "ἰδέα",
+          "location": "380d",
+          "context": "ἐν ἄλλαις ἰδέαις"
+        },
+        {
+          "form": "ἰδέας",
+          "lemma": "ἰδέα",
+          "location": "380d",
+          "context": "τῆς ἑαυτοῦ ἰδέας ἐκβαίνειν"
+        },
+        {
+          "form": "ἰδέας",
+          "lemma": "ἰδέα",
+          "location": "380d",
+          "context": "ἐξίσταιτο τῆς αὑτοῦ ἰδέας"
+        }
+      ],
+      "observation": "ἰδέα appears first as the many forms god might appear in, then twice as his own ἰδέα from which he might depart or be displaced."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382a",
+          "context": "τό γε ὡς ἀληθῶς ψεῦδος"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382b",
+          "context": "κεκτῆσθαι τὸ ψεῦδος"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382b",
+          "context": "ὡς ἀληθῶς ψεῦδος καλοῖτο"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382c",
+          "context": "ἄκρατον ψεῦδος"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382c",
+          "context": "τὸ μὲν δὴ τῷ ὄντι ψεῦδος"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382c",
+          "context": "τὸ ἐν τοῖς λόγοις ψεῦδος"
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382d",
+          "context": "ἀφομοιοῦντες τῷ ἀληθεῖ τὸ ψεῦδος"
+        }
+      ],
+      "observation": "ψεῦδος accumulates densely from 382a onward, divided into τὸ ὡς ἀληθῶς ψεῦδος (in the soul) and τὸ ἐν τοῖς λόγοις ψεῦδος, with ἄκρατον marking a further distinction."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὡς ἀληθῶς ψεῦδος",
+          "lemma": null,
+          "location": "382a",
+          "context": null
+        },
+        {
+          "form": "ἄκρατον ψεῦδος",
+          "lemma": null,
+          "location": "382c",
+          "context": "οὐ πάνυ ἄκρατον ψεῦδος"
+        },
+        {
+          "form": "μίμημά τι τοῦ ἐν τῇ ψυχῇ",
+          "lemma": null,
+          "location": "382b",
+          "context": null
+        },
+        {
+          "form": "εἴδωλον",
+          "lemma": "εἴδωλον",
+          "location": "382b",
+          "context": "ὕστερον γεγονὸς εἴδωλον"
+        }
+      ],
+      "observation": "The truly-real falsehood (ἡ ἐν τῇ ψυχῇ ἄγνοια) is contrasted with falsehood in words, which is called μίμημα of the soul's condition and εἴδωλον, and is explicitly not ἄκρατον ψεῦδος."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἁπλοῦν",
+          "lemma": "ἁπλοῦς",
+          "location": "380d",
+          "context": "ἁπλοῦν τε εἶναι"
+        },
+        {
+          "form": "ἁπλῶς",
+          "lemma": "ἁπλοῦς",
+          "location": "381c",
+          "context": "μένει ἀεὶ ἁπλῶς ἐν τῇ αὑτοῦ μορφῇ"
+        },
+        {
+          "form": "ἁπλοῦν",
+          "lemma": "ἁπλοῦς",
+          "location": "382e",
+          "context": "ὁ θεὸς ἁπλοῦν καὶ ἀληθές"
+        }
+      ],
+      "observation": "ἁπλοῦς frames the argument: posed as a question at 380d, stated as conclusion at 381c, and reaffirmed in the final summary at 382e, each time opposed to multiplicity or deception."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γόητα",
+          "lemma": "γόης",
+          "location": "380d",
+          "context": "γόητα τὸν θεὸν"
+        },
+        {
+          "form": "γοητεύοντες",
+          "lemma": "γοητεύω",
+          "location": "381e",
+          "context": "ἐξαπατῶντες καὶ γοητεύοντες"
+        },
+        {
+          "form": "γόητας",
+          "lemma": "γόης",
+          "location": "383a",
+          "context": "μήτε αὐτοὺς γόητας ὄντας"
+        }
+      ],
+      "observation": "γόης/γοητεύω appears at the section's opening question, returns at 381e, and recurs in the concluding τύπος formulation at 383a."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεταβάλλοι",
+          "lemma": "μεταβάλλω",
+          "location": "381b",
+          "context": "αὐτὸς αὑτὸν μεταβάλλοι"
+        },
+        {
+          "form": "μεταβολὴν",
+          "lemma": "μεταβολή",
+          "location": "381b",
+          "context": "ἐλαχίστην μεταβολήν"
+        },
+        {
+          "form": "μεταβάλλει",
+          "lemma": "μεταβάλλω",
+          "location": "381b",
+          "context": "ἐπὶ τὸ βέλτιόν τε καὶ κάλλιον μεταβάλλει"
+        },
+        {
+          "form": "μεταβάλλειν",
+          "lemma": "μεταβάλλω",
+          "location": "383a",
+          "context": "τῷ μεταβάλλειν ἑαυτούς"
+        }
+      ],
+      "observation": "μεταβάλλω recurs at key argumentative turns: the general principle, the application to god's self-change, and the final rule."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "380d",
+          "context": "πάντων ἥκιστα τῆς ἑαυτοῦ ἰδέας ἐκβαίνειν"
+        },
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "380e",
+          "context": "ἥκιστα ἀλλοιοῦταί τε καὶ κινεῖται"
+        },
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "381a",
+          "context": "ἥκιστα ἀλλοιοῦται"
+        },
+        {
+          "form": "ἥκιστʼ",
+          "lemma": "ἥκιστα",
+          "location": "381a",
+          "context": "ἥκιστʼ ἄν τι ἔξωθεν πάθος ταράξειεν"
+        },
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "381a",
+          "context": "ἥκιστα ἀλλοιοῦται"
+        },
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "381b",
+          "context": "ἥκιστα ἂν πολλὰς μορφάς"
+        },
+        {
+          "form": "ἥκιστα",
+          "lemma": "ἥκιστα",
+          "location": "382b",
+          "context": "πάντες ἥκιστα ἂν δέξαιντο"
+        }
+      ],
+      "observation": "ἥκιστα recurs insistently through the analogical argument (body, soul, artifacts, god) and again regarding falsehood, each time marking what is least susceptible to change or least acceptable."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "380e",
+          "context": null
+        },
+        {
+          "form": "σιτίων",
+          "lemma": "σιτίον",
+          "location": "380e",
+          "context": null
+        },
+        {
+          "form": "ποτῶν",
+          "lemma": "ποτόν",
+          "location": "380e",
+          "context": null
+        },
+        {
+          "form": "πόνων",
+          "lemma": "πόνος",
+          "location": "380e",
+          "context": null
+        },
+        {
+          "form": "φυτὸν",
+          "lemma": "φυτόν",
+          "location": "380e",
+          "context": null
+        },
+        {
+          "form": "εἱλήσεών",
+          "lemma": "εἵλησις",
+          "location": "380e",
+          "context": null
+        },
+        {
+          "form": "ἀνέμων",
+          "lemma": "ἄνεμος",
+          "location": "380e",
+          "context": null
+        },
+        {
+          "form": "ψυχὴν",
+          "lemma": "ψυχή",
+          "location": "381a",
+          "context": null
+        },
+        {
+          "form": "σκεύη",
+          "lemma": "σκεῦος",
+          "location": "381a",
+          "context": null
+        },
+        {
+          "form": "οἰκοδομήματα",
+          "lemma": "οἰκοδόμημα",
+          "location": "381a",
+          "context": null
+        },
+        {
+          "form": "ἀμφιέσματα",
+          "lemma": "ἀμφίεσμα",
+          "location": "381a",
+          "context": null
+        }
+      ],
+      "observation": "A sequence of concrete analogies—body under food/drink/labor, plant under sun/wind, soul under external πάθος, crafted implements/buildings/garments under time—builds the case that the best-conditioned entity is least altered."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "βέλτιόν",
+          "lemma": "βελτίων",
+          "location": "381b",
+          "context": "ἐπὶ τὸ βέλτιόν τε καὶ κάλλιον"
+        },
+        {
+          "form": "χεῖρον",
+          "lemma": "χείρων",
+          "location": "381b",
+          "context": "ἐπὶ τὸ χεῖρον καὶ τὸ αἴσχιον"
+        }
+      ],
+      "observation": "The alternatives for divine self-change are stated as an explicit contrast: toward the better and more beautiful versus toward the worse and uglier."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_correspondence",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐν λόγῳ ἢ ἐν ἔργῳ",
+          "lemma": null,
+          "location": "383a",
+          "context": "ψεύδεσι παράγειν ἐν λόγῳ ἢ ἐν ἔργῳ"
+        },
+        {
+          "form": "ἢ λόγῳ ἢ ἔργῳ",
+          "lemma": null,
+          "location": "382a",
+          "context": "ψεύδεσθαι θεὸς ἐθέλοι ἂν ἢ λόγῳ ἢ ἔργῳ"
+        },
+        {
+          "form": "ἔν τε ἔργῳ καὶ λόγῳ",
+          "lemma": null,
+          "location": "382e",
+          "context": "ἁπλοῦν καὶ ἀληθὲς ἔν τε ἔργῳ καὶ λόγῳ"
+        }
+      ],
+      "observation": "The pairing λόγος/ἔργον recurs three times: as a question about divine lying (382a), in the concluding statement about divine truth (382e), and in the final τύπος (383a)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φαντάζεσθαι",
+          "lemma": "φαντάζω",
+          "location": "380d",
+          "context": "ἐξ ἐπιβουλῆς φαντάζεσθαι"
+        },
+        {
+          "form": "φάντασμα",
+          "lemma": "φάντασμα",
+          "location": "382a",
+          "context": "φάντασμα προτείνων"
+        },
+        {
+          "form": "φαντασίας",
+          "lemma": "φαντασία",
+          "location": "382e",
+          "context": "κατὰ φαντασίας"
+        }
+      ],
+      "observation": "The φαντάζω word-family appears at the opening question, in the question about divine lying, and in the final summary denial."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ψεύδεσθαι",
+          "lemma": "ψεύδομαι",
+          "location": "382a",
+          "context": null
+        },
+        {
+          "form": "ψεῦδος",
+          "lemma": "ψεῦδος",
+          "location": "382a",
+          "context": null
+        },
+        {
+          "form": "ἐψεῦσθαι",
+          "lemma": "ψεύδομαι",
+          "location": "382b",
+          "context": null
+        },
+        {
+          "form": "ἐψευσμένου",
+          "lemma": "ψεύδομαι",
+          "location": "382b",
+          "context": null
+        },
+        {
+          "form": "ψευδὴς",
+          "lemma": "ψευδής",
+          "location": "382d",
+          "context": "ποιητὴς μὲν ἄρα ψευδὴς ἐν θεῷ οὐκ ἔνι"
+        },
+        {
+          "form": "ψεύδοιτο",
+          "lemma": "ψεύδομαι",
+          "location": "382d",
+          "context": null
+        },
+        {
+          "form": "ἀψευδὲς",
+          "lemma": "ἀψευδής",
+          "location": "382e",
+          "context": "πάντῃ ἄρα ἀψευδὲς τὸ δαιμόνιόν τε καὶ τὸ θεῖον"
+        },
+        {
+          "form": "ψεύδεσι",
+          "lemma": "ψεῦδος",
+          "location": "383a",
+          "context": null
+        },
+        {
+          "form": "ἀψευδὲς",
+          "lemma": "ἀψευδής",
+          "location": "383b",
+          "context": "τὸ Φοίβου θεῖον ἀψευδὲς στόμα"
+        }
+      ],
+      "observation": "The ψευδ- family saturates the second half of the section across noun, verb, adjective, and alpha-privative forms, culminating in ἀψευδές applied first to the divine generally and then ironically in Thetis's words about Apollo."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀψευδὲς",
+          "lemma": "ἀψευδής",
+          "location": "382e",
+          "context": "πάντῃ ἄρα ἀψευδὲς τὸ δαιμόνιόν τε καὶ τὸ θεῖον"
+        },
+        {
+          "form": "ἀψευδὲς",
+          "lemma": "ἀψευδής",
+          "location": "383b",
+          "context": "τὸ Φοίβου θεῖον ἀψευδὲς στόμα ἤλπιζον εἶναι"
+        }
+      ],
+      "observation": "ἀψευδές occurs first as the concluded attribute of the divine, then immediately in the Aeschylus quotation where Thetis says she hoped Apollo's mouth was ἀψευδές—but he killed her son."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "syntactic_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "αὐτὸς ὑμνῶν",
+          "lemma": null,
+          "location": "383b",
+          "context": null
+        },
+        {
+          "form": "αὐτὸς ἐν θοίνῃ παρών",
+          "lemma": null,
+          "location": "383b",
+          "context": null
+        },
+        {
+          "form": "αὐτὸς τάδʼ εἰπών",
+          "lemma": null,
+          "location": "383b",
+          "context": null
+        },
+        {
+          "form": "αὐτός ἐστιν ὁ κτανών",
+          "lemma": null,
+          "location": "383b",
+          "context": null
+        }
+      ],
+      "observation": "In the Aeschylus quotation, αὐτός is repeated four times in parallel participial/predicate constructions, accumulating the identity of the one who sang, was present, spoke, and killed."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "φάρμακον",
+          "lemma": "φάρμακον",
+          "location": "382c",
+          "context": "ἀποτροπῆς ἕνεκα ὡς φάρμακον χρήσιμον γίγνεται"
+        }
+      ],
+      "observation": "Falsehood in words is called a φάρμακον—useful as a remedy for averting harm from enemies or deranged friends."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύπον",
+          "lemma": "τύπος",
+          "location": "383a",
+          "context": "δεύτερον τύπον εἶναι"
+        },
+        {
+          "form": "τύπους",
+          "lemma": "τύπος",
+          "location": "383c",
+          "context": "τοὺς τύπους τούτους συγχωρῶ"
+        }
+      ],
+      "observation": "τύπος appears as δεύτερον τύπον in Socrates' formulation and is taken up by Adeimantus with τοὺς τύπους τούτους at the section's close."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "νόμοις",
+          "lemma": "νόμος",
+          "location": "383c",
+          "context": "ὡς νόμοις ἂν χρῴμην"
+        }
+      ],
+      "observation": "Adeimantus's final word accepts the τύποι as things he would use as νόμοι (laws)."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "παντοῖοι",
+          "lemma": "παντοῖος",
+          "location": "381d",
+          "context": "παντοῖοι τελέθοντες"
+        },
+        {
+          "form": "παντοδαποῖς",
+          "lemma": "παντοδαπός",
+          "location": "381e",
+          "context": "πολλοῖς ξένοις καὶ παντοδαποῖς ἰνδαλλόμενοι"
+        },
+        {
+          "form": "παντοδαποὺς",
+          "lemma": "παντοδαπός",
+          "location": "381e",
+          "context": "σφᾶς παντοδαποὺς φαίνεσθαι"
+        }
+      ],
+      "observation": "παντοῖος and παντοδαπός cluster around the denied divine multiplicity: gods appearing in all manner of forms in the Homeric quotation and in mothers' stories."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἑκὼν",
+          "lemma": "ἑκών",
+          "location": "381c",
+          "context": "ἑκὼν αὑτὸν χείρω ποιεῖν"
+        },
+        {
+          "form": "ἑκὼν",
+          "lemma": "ἑκών",
+          "location": "382a",
+          "context": "οὐδεὶς ἑκὼν ἐθέλει"
+        }
+      ],
+      "observation": "ἑκών appears first in the denial that anyone willingly makes himself worse, then in the denial that anyone willingly accepts falsehood in the soul's most authoritative part."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κυριωτάτῳ",
+          "lemma": "κύριος",
+          "location": "382a",
+          "context": "τῷ κυριωτάτῳ που ἑαυτῶν"
+        },
+        {
+          "form": "κυριώτατα",
+          "lemma": "κύριος",
+          "location": "382a",
+          "context": "περὶ τὰ κυριώτατα"
+        }
+      ],
+      "observation": "κυριώτατος appears twice in close succession: the most authoritative part of oneself and the most authoritative matters, localizing where falsehood is most feared."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χορὸν οὐ δώσομεν",
+          "lemma": null,
+          "location": "383c",
+          "context": null
+        },
+        {
+          "form": "τοὺς διδασκάλους",
+          "lemma": "διδάσκαλος",
+          "location": "383c",
+          "context": "οὐδὲ τοὺς διδασκάλους ἐάσομεν ἐπὶ παιδείᾳ χρῆσθαι τῶν νέων"
+        },
+        {
+          "form": "φύλακες",
+          "lemma": "φύλαξ",
+          "location": "383c",
+          "context": "οἱ φύλακες θεοσεβεῖς τε καὶ θεῖοι γίγνεσθαι"
+        }
+      ],
+      "observation": "The section's closing practical consequences move from denying a chorus to poets, to barring teachers from using such material for educating the young, to the stated goal that the guardians become god-revering and divine."
+    }
+  ]
+}

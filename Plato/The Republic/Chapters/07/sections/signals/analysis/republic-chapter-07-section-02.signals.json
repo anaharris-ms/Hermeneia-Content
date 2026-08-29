@@ -1,0 +1,610 @@
+{
+  "section_id": "republic-chapter-07-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "lemma_recurrence",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάβασιν",
+          "lemma": "ἀνάβασις",
+          "location": "517b",
+          "context": "τὴν δὲ ἄνω ἀνάβασιν καὶ θέαν τῶν ἄνω"
+        },
+        {
+          "form": "ἄνοδον",
+          "lemma": "ἄνοδος",
+          "location": "517b",
+          "context": "τὴν εἰς τὸν νοητὸν τόπον τῆς ψυχῆς ἄνοδον"
+        },
+        {
+          "form": "ἄνω",
+          "lemma": "ἄνω",
+          "location": "517c",
+          "context": "ἀλλʼ ἄνω ἀεὶ ἐπείγονται αὐτῶν αἱ ψυχαί"
+        },
+        {
+          "form": "ἄνωθεν",
+          "lemma": "ἄνωθεν",
+          "location": "518b",
+          "context": "τῇ ἄνωθεν ἐκ φωτὸς ἡκούσῃ"
+        }
+      ],
+      "observation": "Upward direction recurs through ἀνάβασιν, ἄνοδον, ἄνω, and ἄνωθεν across the section."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "517b",
+          "context": "τὸ δὲ τοῦ πυρὸς ἐν αὐτῇ φῶς"
+        },
+        {
+          "form": "σκότῳ",
+          "lemma": "σκότος",
+          "location": "517d",
+          "context": "συνήθης γενέσθαι τῷ παρόντι σκότῳ"
+        },
+        {
+          "form": "φωτὸς",
+          "lemma": "φῶς",
+          "location": "518a",
+          "context": "ἔκ τε φωτὸς εἰς σκότος"
+        },
+        {
+          "form": "σκότους",
+          "lemma": "σκότος",
+          "location": "518a",
+          "context": "ἐκ σκότους εἰς φῶς"
+        },
+        {
+          "form": "σκοτώδους",
+          "lemma": "σκοτώδης",
+          "location": "518c",
+          "context": "ἐκ τοῦ σκοτώδους"
+        },
+        {
+          "form": "φανότατον",
+          "lemma": "φανός",
+          "location": "518c",
+          "context": "τοῦ ὄντος τὸ φανότατον"
+        }
+      ],
+      "observation": "φῶς/φανός and σκότος/σκοτώδης recur in repeated opposition throughout the section."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶσθαι",
+          "lemma": "ὁράω",
+          "location": "517c",
+          "context": "μόγις ὁρᾶσθαι"
+        },
+        {
+          "form": "ὀφθεῖσα",
+          "lemma": "ὁράω",
+          "location": "517c",
+          "context": null
+        },
+        {
+          "form": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "location": "517c",
+          "context": "ταύτην ἰδεῖν τὸν μέλλοντα"
+        },
+        {
+          "form": "ἰδόντων",
+          "lemma": "ὁράω",
+          "location": "517e",
+          "context": "δικαιοσύνην μὴ πώποτε ἰδόντων"
+        },
+        {
+          "form": "ἴδοι",
+          "lemma": "ὁράω",
+          "location": "518a",
+          "context": "ὁπότε ἴδοι θορυβουμένην τινά"
+        },
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "518d",
+          "context": "τοῦ ἐμποιῆσαι αὐτῷ τὸ ὁρᾶν"
+        },
+        {
+          "form": "ἑώρα",
+          "lemma": "ὁράω",
+          "location": "519b",
+          "context": "ὀξύτατα ἑώρα"
+        }
+      ],
+      "observation": "Forms of ὁράω recur densely, spanning difficult seeing (μόγις ὁρᾶσθαι), completed seeing (ὀφθεῖσα), never having seen (μὴ πώποτε ἰδόντων), and sharp seeing (ὀξύτατα ἑώρα)."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "περιακτέον",
+          "lemma": "περιάγω",
+          "location": "518c",
+          "context": "σὺν ὅλῃ τῇ ψυχῇ ἐκ τοῦ γιγνομένου περιακτέον εἶναι"
+        },
+        {
+          "form": "περιαγωγῆς",
+          "lemma": "περιαγωγή",
+          "location": "518d",
+          "context": "τέχνη ἂν εἴη, τῆς περιαγωγῆς"
+        },
+        {
+          "form": "περιαγωγῆς",
+          "lemma": "περιαγωγή",
+          "location": "518e",
+          "context": "ὑπὸ δὲ τῆς περιαγωγῆς"
+        }
+      ],
+      "observation": "περιάγω/περιαγωγή recurs as the core action of education—turning around the whole soul."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "στρέφειν",
+          "lemma": "στρέφω",
+          "location": "518c",
+          "context": "σὺν ὅλῳ τῷ σώματι στρέφειν πρὸς τὸ φανόν"
+        },
+        {
+          "form": "μεταστραφήσεται",
+          "lemma": "μεταστρέφω",
+          "location": "518d",
+          "context": "ῥᾷστά τε καὶ ἀνυσιμώτατα μεταστραφήσεται"
+        },
+        {
+          "form": "τετραμμένῳ",
+          "lemma": "τρέπω",
+          "location": "518d",
+          "context": "οὐκ ὀρθῶς δὲ τετραμμένῳ"
+        },
+        {
+          "form": "στρέφουσι",
+          "lemma": "στρέφω",
+          "location": "519b",
+          "context": "περὶ κάτω στρέφουσι τὴν τῆς ψυχῆς ὄψιν"
+        },
+        {
+          "form": "περιεστρέφετο",
+          "lemma": "περιστρέφω",
+          "location": "519b",
+          "context": "ἀπαλλαγὲν περιεστρέφετο εἰς τὰ ἀληθῆ"
+        },
+        {
+          "form": "τέτραπται",
+          "lemma": "τρέπω",
+          "location": "519a",
+          "context": "ἐφʼ ἃ τέτραπται"
+        },
+        {
+          "form": "τέτραπται",
+          "lemma": "τρέπω",
+          "location": "519b",
+          "context": "ἐφʼ ἃ νῦν τέτραπται"
+        }
+      ],
+      "observation": "Turning vocabulary (στρέφω, τρέπω, μεταστρέφω, περιστρέφω) is densely concentrated; turning can be upward toward the bright or downward (περὶ κάτω)."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐντιθέναι",
+          "lemma": "ἐντίθημι",
+          "location": "518c",
+          "context": "οὐκ ἐνούσης ἐν τῇ ψυχῇ ἐπιστήμης σφεῖς ἐντιθέναι"
+        },
+        {
+          "form": "ἐνοῦσαν",
+          "lemma": "ἔνειμι",
+          "location": "518c",
+          "context": "ταύτην τὴν ἐνοῦσαν ἑκάστου δύναμιν ἐν τῇ ψυχῇ"
+        }
+      ],
+      "observation": "The rejected account says educators put in (ἐντιθέναι) knowledge not present; the affirmed account says the capacity is already present (ἐνοῦσαν). The prefix ἐν- appears in both but with opposite force."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "517b",
+          "context": "τὴν μὲν διʼ ὄψεως φαινομένην ἕδραν"
+        },
+        {
+          "form": "ὄψιν",
+          "lemma": "ὄψις",
+          "location": "518c",
+          "context": "τυφλοῖς ὀφθαλμοῖς ὄψιν ἐντιθέντες"
+        },
+        {
+          "form": "ὄψιν",
+          "lemma": "ὄψις",
+          "location": "519a",
+          "context": "οὐ φαύλην ἔχον τὴν ὄψιν"
+        },
+        {
+          "form": "ὄψιν",
+          "lemma": "ὄψις",
+          "location": "519b",
+          "context": "τὴν τῆς ψυχῆς ὄψιν"
+        },
+        {
+          "form": "ὄμμασιν",
+          "lemma": "ὄμμα",
+          "location": "518a",
+          "context": "ἐπιταράξεις ὄμμασιν"
+        },
+        {
+          "form": "ὄμμα",
+          "lemma": "ὄμμα",
+          "location": "518c",
+          "context": "οἷον εἰ ὄμμα μὴ δυνατὸν ἦν"
+        }
+      ],
+      "observation": "ὄψις and ὄμμα recur, applied both to bodily eyes and to the soul's sight (τὴν τῆς ψυχῆς ὄψιν)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γελοῖος",
+          "lemma": "γελοῖος",
+          "location": "517d",
+          "context": "φαίνεται σφόδρα γελοῖος"
+        },
+        {
+          "form": "γελῷ",
+          "lemma": "γελάω",
+          "location": "518a",
+          "context": "οὐκ ἂν ἀλογίστως γελῷ"
+        },
+        {
+          "form": "γελᾶν",
+          "lemma": "γελάω",
+          "location": "518b",
+          "context": "εἰ γελᾶν ἐπʼ αὐτῇ βούλοιτο"
+        },
+        {
+          "form": "καταγέλαστος",
+          "lemma": "καταγέλαστος",
+          "location": "518b",
+          "context": "ἧττον ἂν καταγέλαστος ὁ γέλως αὐτῷ εἴη"
+        },
+        {
+          "form": "γέλως",
+          "lemma": "γέλως",
+          "location": "518b",
+          "context": null
+        }
+      ],
+      "observation": "Laughter vocabulary clusters at 517d–518b: the returned philosopher appears γελοῖος, but a person with νοῦς would not laugh ἀλογίστως; laughing at the soul from light is more καταγέλαστος than at the one from darkness."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θείων",
+          "lemma": "θεῖος",
+          "location": "517d",
+          "context": "ἀπὸ θείων θεωριῶν"
+        },
+        {
+          "form": "ἀνθρώπειά",
+          "lemma": "ἀνθρώπειος",
+          "location": "517d",
+          "context": "ἐπὶ τὰ ἀνθρώπειά τις ἐλθών"
+        }
+      ],
+      "observation": "Movement from θείων θεωριῶν to τὰ ἀνθρώπειά κακά sets divine contemplation against human affairs."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σκιῶν",
+          "lemma": "σκιά",
+          "location": "517d",
+          "context": "περὶ τῶν τοῦ δικαίου σκιῶν"
+        },
+        {
+          "form": "ἀγαλμάτων",
+          "lemma": "ἄγαλμα",
+          "location": "517d",
+          "context": "ἢ ἀγαλμάτων ὧν αἱ σκιαί"
+        }
+      ],
+      "observation": "In the courtroom scene, the philosopher contests shadows of justice and images (ἀγάλματα) whose shadows those are—a layered removal from δικαιοσύνη itself."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἰκόνα",
+          "lemma": "εἰκών",
+          "location": "517a",
+          "context": "ταύτην τοίνυν τὴν εἰκόνα"
+        },
+        {
+          "form": "εἰκόνα",
+          "lemma": "εἰκών",
+          "location": "517d",
+          "context": "κατὰ τὴν προειρημένην εἰκόνα"
+        },
+        {
+          "form": "εἰκός",
+          "lemma": "εἰκός",
+          "location": "517d",
+          "context": "εἰκὸς γάρ που οὕτως"
+        },
+        {
+          "form": "εἰκός",
+          "lemma": "εἰκός",
+          "location": "519b",
+          "context": "εἰκός γε"
+        }
+      ],
+      "observation": "εἰκών appears twice naming the image being applied; εἰκός appears twice as Glaucon's assent. The lexical proximity of 'image' and 'likely' is locally visible."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δεσμωτηρίου",
+          "lemma": "δεσμωτήριον",
+          "location": "517b",
+          "context": "τῇ τοῦ δεσμωτηρίου οἰκήσει"
+        },
+        {
+          "form": "πυρὸς",
+          "lemma": "πῦρ",
+          "location": "517b",
+          "context": "τὸ δὲ τοῦ πυρὸς ἐν αὐτῇ φῶς"
+        },
+        {
+          "form": "ἡλίου",
+          "lemma": "ἥλιος",
+          "location": "517b",
+          "context": "τῇ τοῦ ἡλίου δυνάμει"
+        }
+      ],
+      "observation": "The mapping at 517b concentrates prison-dwelling, firelight, and sun-power in rapid sequence as the allegory's correspondences are stated."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "σὺν ὅλῳ τῷ σώματι",
+          "lemma": null,
+          "location": "518c",
+          "context": "σὺν ὅλῳ τῷ σώματι στρέφειν"
+        },
+        {
+          "form": "σὺν ὅλῃ τῇ ψυχῇ",
+          "lemma": null,
+          "location": "518c",
+          "context": "σὺν ὅλῃ τῇ ψυχῇ ἐκ τοῦ γιγνομένου περιακτέον"
+        }
+      ],
+      "observation": "σὺν ὅλῳ τῷ σώματι and σὺν ὅλῃ τῇ ψυχῇ are set in syntactic parallel: the eye cannot turn without the whole body, so the organ of learning cannot turn without the whole soul."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ ἀγαθοῦ ἰδέα",
+          "lemma": null,
+          "location": "517c",
+          "context": "ἐν τῷ γνωστῷ τελευταία ἡ τοῦ ἀγαθοῦ ἰδέα"
+        },
+        {
+          "form": "τἀγαθόν",
+          "lemma": "ἀγαθός",
+          "location": "518d",
+          "context": "τοῦτο δʼ εἶναί φαμεν τἀγαθόν"
+        }
+      ],
+      "observation": "The idea of the good is named τελευταία in the knowable at 517c; it returns at 518d as the brightest thing (τὸ φανότατον) the soul must endure seeing, identified as τἀγαθόν."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μολυβδίδας",
+          "lemma": "μολυβδίς",
+          "location": "519b",
+          "context": "τὰς τῆς γενέσεως συγγενεῖς ὥσπερ μολυβδίδας"
+        },
+        {
+          "form": "ἐδωδαῖς",
+          "lemma": "ἐδωδή",
+          "location": "519b",
+          "context": "ἐδωδαῖς τε καὶ τοιούτων ἡδοναῖς τε καὶ λιχνείαις"
+        },
+        {
+          "form": "λιχνείαις",
+          "lemma": "λιχνεία",
+          "location": "519b",
+          "context": null
+        }
+      ],
+      "observation": "Lead weights (μολυβδίδας) attached by feasting and gluttony (ἐδωδαῖς, λιχνείαις) drag the soul's sight downward—concrete bodily images for what turns the soul κάτω."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βλέπει",
+          "lemma": "βλέπω",
+          "location": "519a",
+          "context": "δριμὺ μὲν βλέπει τὸ ψυχάριον"
+        },
+        {
+          "form": "βλέπῃ",
+          "lemma": "βλέπω",
+          "location": "519a",
+          "context": "ὅσῳ ἂν ὀξύτερον βλέπῃ"
+        },
+        {
+          "form": "βλέποντι",
+          "lemma": "βλέπω",
+          "location": "518d",
+          "context": "οὐδὲ βλέποντι οἷ ἔδει"
+        }
+      ],
+      "observation": "βλέπω recurs: the clever-wicked soul βλέπει sharply, and the sharper it looks the more evil it does; at 518d the wrongly turned soul is οὐδὲ βλέποντι where it should."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ὀξέως",
+          "lemma": "ὀξύς",
+          "location": "519a",
+          "context": "ὀξέως διορᾷ"
+        },
+        {
+          "form": "ὀξύτερον",
+          "lemma": "ὀξύς",
+          "location": "519a",
+          "context": "ὅσῳ ἂν ὀξύτερον βλέπῃ"
+        },
+        {
+          "form": "ὀξύτατα",
+          "lemma": "ὀξύς",
+          "location": "519b",
+          "context": "ὀξύτατα ἑώρα"
+        }
+      ],
+      "observation": "ὀξύς appears in positive, comparative, and superlative within a few lines: the same sharpness of sight that serves evil would, if turned, see truth most sharply."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φαινομένην",
+          "lemma": "φαίνω",
+          "location": "517b",
+          "context": "διʼ ὄψεως φαινομένην ἕδραν"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "517b",
+          "context": "τὰ δʼ οὖν ἐμοὶ φαινόμενα οὕτω φαίνεται"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "517d",
+          "context": "φαίνεται σφόδρα γελοῖος"
+        }
+      ],
+      "observation": "φαίνω shifts from the visible realm (φαινομένην ἕδραν) to Socrates' own qualified appearance-language (ἐμοὶ φαινόμενα) to the philosopher appearing ridiculous (φαίνεται γελοῖος)."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεὸς δέ που οἶδεν εἰ ἀληθὴς οὖσα τυγχάνει",
+          "lemma": null,
+          "location": "517b",
+          "context": null
+        }
+      ],
+      "observation": "Socrates inserts a disclaimer—only god knows if the account is true—between the mapping of the image and his statement of how things appear to him."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐμποιεῖσθαι ἔθεσι καὶ ἀσκήσεσιν",
+          "lemma": null,
+          "location": "518e",
+          "context": "οὐκ ἐνοῦσαι πρότερον ὕστερον ἐμποιεῖσθαι"
+        },
+        {
+          "form": "θειοτέρου",
+          "lemma": "θεῖος",
+          "location": "518e",
+          "context": "ἡ δὲ τοῦ φρονῆσαι παντὸς μᾶλλον θειοτέρου τινὸς τυγχάνει"
+        }
+      ],
+      "observation": "Other virtues are produced by habit and practice (ἔθεσι καὶ ἀσκήσεσιν), placed near bodily virtues; φρόνησις is set apart as belonging to something more divine (θειοτέρου), whose power is never lost."
+    }
+  ]
+}

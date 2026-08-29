@@ -1,0 +1,614 @@
+{
+  "section_id": "republic-chapter-03-section-08",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "410b",
+          "context": "πρὸς τὸ θυμοειδὲς τῆς φύσεως βλέπων"
+        },
+        {
+          "form": "φιλόσοφος",
+          "lemma": "φιλόσοφος",
+          "location": "410e",
+          "context": "τὸ ἥμερον οὐχ ἡ φιλόσοφος ἂν ἔχοι φύσις"
+        },
+        {
+          "form": "θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "411e",
+          "context": "ἐπὶ τὸ θυμοειδὲς καὶ τὸ φιλόσοφον"
+        },
+        {
+          "form": "φιλόσοφον",
+          "lemma": "φιλόσοφος",
+          "location": "411e",
+          "context": "ἐπὶ τὸ θυμοειδὲς καὶ τὸ φιλόσοφον"
+        }
+      ],
+      "observation": "θυμοειδές and φιλόσοφος are paired as the two parts of nature that music and gymnastics respectively address, contrasted with the common assumption that they target soul and body."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀγριότητός",
+          "lemma": "ἀγριότης",
+          "location": "410d",
+          "context": "ἀγριότητός τε καὶ σκληρότητος"
+        },
+        {
+          "form": "ἡμερότητος",
+          "lemma": "ἡμερότης",
+          "location": "410d",
+          "context": "μαλακίας τε καὶ ἡμερότητος"
+        },
+        {
+          "form": "ἀγριώτεροι",
+          "lemma": "ἄγριος",
+          "location": "410d",
+          "context": "ἀγριώτεροι τοῦ δέοντος ἀποβαίνουσιν"
+        },
+        {
+          "form": "μαλακώτεροι",
+          "lemma": "μαλακός",
+          "location": "410d",
+          "context": "μαλακώτεροι αὖ γίγνονται"
+        },
+        {
+          "form": "ἀγριότητι",
+          "lemma": "ἀγριότης",
+          "location": "411e",
+          "context": "βίᾳ δὲ καὶ ἀγριότητι ὥσπερ θηρίον"
+        }
+      ],
+      "observation": "ἄγριος/ἀγριότης and ἥμερος/μαλακός recur as a contrasted pair characterizing the two excesses of unbalanced education."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἡρμόσθαι",
+          "lemma": "ἁρμόζω",
+          "location": "410e",
+          "context": "ἡρμόσθαι δεῖ αὐτὰς πρὸς ἀλλήλας"
+        },
+        {
+          "form": "ἡρμοσμένου",
+          "lemma": "ἁρμόζω",
+          "location": "410e",
+          "context": "τοῦ μὲν ἡρμοσμένου σώφρων τε καὶ ἀνδρεία ἡ ψυχή"
+        },
+        {
+          "form": "ἀναρμόστου",
+          "lemma": "ἀνάρμοστος",
+          "location": "411a",
+          "context": "τοῦ δὲ ἀναρμόστου δειλὴ καὶ ἄγροικος"
+        },
+        {
+          "form": "συναρμοσθῆτον",
+          "lemma": "συναρμόζω",
+          "location": "412a",
+          "context": "ἀλλήλοιν συναρμοσθῆτον"
+        },
+        {
+          "form": "εὐαρμοστότατον",
+          "lemma": "εὐαρμοστότατος",
+          "location": "412a",
+          "context": "τελέως μουσικώτατον καὶ εὐαρμοστότατον"
+        }
+      ],
+      "observation": "The ἁρμόζω family recurs across the section: the two natures must be harmonized, the harmonized soul is temperate and courageous, the unharmonized is cowardly, and the best educator is εὐαρμοστότατον."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ψυχὴν",
+          "lemma": "ψυχή",
+          "location": "410c",
+          "context": "τῇ δὲ τὴν ψυχήν"
+        },
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "410c",
+          "context": "ἵνα τῇ μὲν τὸ σῶμα θεραπεύοιντο"
+        },
+        {
+          "form": "ψυχῆς",
+          "lemma": "ψυχή",
+          "location": "410c",
+          "context": "ἀμφότερα τῆς ψυχῆς ἕνεκα"
+        },
+        {
+          "form": "ψυχὴν καὶ σῶμα",
+          "lemma": null,
+          "location": "411e",
+          "context": "οὐκ ἐπὶ ψυχὴν καὶ σῶμα, εἰ μὴ εἰ πάρεργον"
+        }
+      ],
+      "observation": "The common view that music is for the soul and gymnastics for the body is stated and then corrected: both are for the soul; body is πάρεργον."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐμάλαξεν",
+          "lemma": "μαλάσσω",
+          "location": "411a",
+          "context": "ὥσπερ σίδηρον ἐμάλαξεν"
+        },
+        {
+          "form": "τήκει",
+          "lemma": "τήκω",
+          "location": "411b",
+          "context": "τὸ δὴ μετὰ τοῦτο ἤδη τήκει καὶ λείβει"
+        },
+        {
+          "form": "λείβει",
+          "lemma": "λείβω",
+          "location": "411b",
+          "context": "τήκει καὶ λείβει"
+        },
+        {
+          "form": "ἐκτήξῃ",
+          "lemma": "ἐκτήκω",
+          "location": "411b",
+          "context": "ἕως ἂν ἐκτήξῃ τὸν θυμόν"
+        },
+        {
+          "form": "ἐκτέμῃ",
+          "lemma": "ἐκτέμνω",
+          "location": "411b",
+          "context": "ἐκτέμῃ ὥσπερ νεῦρα ἐκ τῆς ψυχῆς"
+        }
+      ],
+      "observation": "A cluster of metallurgical/physical verbs—softening, melting, pouring out, cutting—describes the progressive dissolution of θυμός by excessive music."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σίδηρον",
+          "lemma": "σίδηρος",
+          "location": "411a",
+          "context": "ὥσπερ σίδηρον ἐμάλαξεν"
+        },
+        {
+          "form": "νεῦρα",
+          "lemma": "νεῦρον",
+          "location": "411b",
+          "context": "ὥσπερ νεῦρα ἐκ τῆς ψυχῆς"
+        },
+        {
+          "form": "θηρίον",
+          "lemma": "θηρίον",
+          "location": "411e",
+          "context": "ὥσπερ θηρίον πρὸς πάντα διαπράττεται"
+        }
+      ],
+      "observation": "Three similes using ὥσπερ appear in the section: θυμός as iron softened, sinews cut from the soul, and the gymnastics-only person acting like a wild animal."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "410b",
+          "context": null
+        },
+        {
+          "form": "θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "411a",
+          "context": "εἴ τι θυμοειδὲς εἶχεν"
+        },
+        {
+          "form": "θυμὸν",
+          "lemma": "θυμός",
+          "location": "411b",
+          "context": "ἐκτήξῃ τὸν θυμόν"
+        },
+        {
+          "form": "θυμοειδῆ",
+          "lemma": "θυμοειδής",
+          "location": "411b",
+          "context": "ἐὰν δὲ θυμοειδῆ"
+        },
+        {
+          "form": "θυμὸν",
+          "lemma": "θυμός",
+          "location": "411b",
+          "context": "ἀσθενῆ ποιήσας τὸν θυμόν"
+        },
+        {
+          "form": "θυμοειδοῦς",
+          "lemma": "θυμοειδής",
+          "location": "411c",
+          "context": "ἀντὶ θυμοειδοῦς γεγένηνται"
+        },
+        {
+          "form": "θυμοῦ",
+          "lemma": "θυμός",
+          "location": "411c",
+          "context": "φρονήματός τε καὶ θυμοῦ ἐμπίμπλαται"
+        },
+        {
+          "form": "θυμοειδὲς",
+          "lemma": "θυμοειδής",
+          "location": "411e",
+          "context": "ἐπὶ τὸ θυμοειδὲς καὶ τὸ φιλόσοφον"
+        }
+      ],
+      "observation": "θυμός/θυμοειδής recurs densely throughout the section, undergoing softening, melting, cutting, weakening, and finally being named as one of the two targets of education."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐμάλαξεν",
+          "lemma": "μαλάσσω",
+          "location": "411a",
+          "context": "ὥσπερ σίδηρον ἐμάλαξεν καὶ χρήσιμον ἐξ ἀχρήστου καὶ σκληροῦ ἐποίησεν"
+        },
+        {
+          "form": "κηλῇ",
+          "lemma": "κηλέω",
+          "location": "411b",
+          "context": "ἐπέχων μὴ ἀνιῇ ἀλλὰ κηλῇ"
+        },
+        {
+          "form": "μαλθακὸν αἰχμητήν",
+          "lemma": null,
+          "location": "411b",
+          "context": "ποιήσῃ μαλθακὸν αἰχμητήν"
+        }
+      ],
+      "observation": "A two-stage sequence: first music softens θυμός usefully (from hard to serviceable), then continued without release it enchants further and produces a μαλθακὸν αἰχμητήν—a soft warrior."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "μαλακὰς",
+          "lemma": "μαλακός",
+          "location": "411a",
+          "context": "τὰς γλυκείας τε καὶ μαλακὰς καὶ θρηνώδεις ἁρμονίας"
+        },
+        {
+          "form": "μαλακώτεροι",
+          "lemma": "μαλακός",
+          "location": "410d",
+          "context": null
+        },
+        {
+          "form": "μαλακώτερον",
+          "lemma": "μαλακός",
+          "location": "410e",
+          "context": "μαλακώτερον εἴη τοῦ δέοντος"
+        },
+        {
+          "form": "ἐμάλαξεν",
+          "lemma": "μαλάσσω",
+          "location": "411a",
+          "context": null
+        },
+        {
+          "form": "μαλθακὸν",
+          "lemma": "μαλθακός",
+          "location": "411b",
+          "context": "ποιήσῃ μαλθακὸν αἰχμητήν"
+        }
+      ],
+      "observation": "The μαλακ-/μαλθακ- family runs through the section: the harmonies are μαλακαί, excess music makes people μαλακώτεροι, it softens (ἐμάλαξεν) iron-θυμός, and finally produces a μαλθακὸν αἰχμητήν."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "χρήσιμον",
+          "lemma": "χρήσιμος",
+          "location": "411a",
+          "context": "χρήσιμον ἐξ ἀχρήστου καὶ σκληροῦ ἐποίησεν"
+        },
+        {
+          "form": "ἀχρήστου",
+          "lemma": "ἄχρηστος",
+          "location": "411b",
+          "context": null
+        }
+      ],
+      "observation": "χρήσιμον and ἀχρήστου are set adjacent, marking the beneficial threshold of softening before excess destroys usefulness."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "καταυλεῖν",
+          "lemma": "καταυλέω",
+          "location": "411a",
+          "context": "μουσικῇ παρέχῃ καταυλεῖν"
+        },
+        {
+          "form": "καταχεῖν",
+          "lemma": "καταχέω",
+          "location": "411a",
+          "context": "καταχεῖν τῆς ψυχῆς διὰ τῶν ὤτων"
+        },
+        {
+          "form": "χώνης",
+          "lemma": "χώνη",
+          "location": "411a",
+          "context": "ὥσπερ διὰ χώνης"
+        },
+        {
+          "form": "ᾠδῆς",
+          "lemma": "ᾠδή",
+          "location": "411a",
+          "context": "γεγανωμένος ὑπὸ τῆς ᾠδῆς"
+        },
+        {
+          "form": "μινυρίζων",
+          "lemma": "μινυρίζω",
+          "location": "411a",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of pouring and sound: music is poured down (κατα- prefixes) through the ears as through a funnel (χώνη), while the person hums (μινυρίζων) in delight."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πειθοῖ",
+          "lemma": "πειθώ",
+          "location": "411d",
+          "context": "πειθοῖ μὲν διὰ λόγων οὐδὲν ἔτι χρῆται"
+        },
+        {
+          "form": "βίᾳ",
+          "lemma": "βία",
+          "location": "411d",
+          "context": "βίᾳ δὲ καὶ ἀγριότητι"
+        }
+      ],
+      "observation": "The gymnastics-only person no longer uses persuasion through words (πειθώ/λόγος) but operates by force (βία) and savagery."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μουσικὸς",
+          "lemma": "μουσικός",
+          "location": "410b",
+          "context": "ὁ μουσικὸς γυμναστικὴν διώκων"
+        },
+        {
+          "form": "μουσικῇ",
+          "lemma": "μουσική",
+          "location": "410c",
+          "context": null
+        },
+        {
+          "form": "μουσικῆς",
+          "lemma": "μουσική",
+          "location": "410c",
+          "context": "μουσικῆς δὲ μὴ ἅψωνται"
+        },
+        {
+          "form": "Μούσης",
+          "lemma": "Μοῦσα",
+          "location": "411c",
+          "context": "μηδὲ κοινωνῇ Μούσης μηδαμῇ"
+        },
+        {
+          "form": "μουσικῆς",
+          "lemma": "μουσική",
+          "location": "411d",
+          "context": "οὔτε τῆς ἄλλης μουσικῆς"
+        },
+        {
+          "form": "ἄμουσος",
+          "lemma": "ἄμουσος",
+          "location": "411d",
+          "context": "μισόλογος δὴ οἶμαι ὁ τοιοῦτος γίγνεται καὶ ἄμουσος"
+        },
+        {
+          "form": "μουσικήν",
+          "lemma": "μουσική",
+          "location": "411e",
+          "context": null
+        },
+        {
+          "form": "μουσικῇ",
+          "lemma": "μουσική",
+          "location": "412a",
+          "context": "μουσικῇ γυμναστικὴν κεραννύντα"
+        },
+        {
+          "form": "μουσικώτατον",
+          "lemma": "μουσικός",
+          "location": "412a",
+          "context": "τελέως μουσικώτατον"
+        }
+      ],
+      "observation": "μουσική/μουσικός/Μοῦσα/ἄμουσος recur throughout; the person deprived of the Muses becomes ἄμουσος, while the best blender of music and gymnastics is μουσικώτατον."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτεινομένω",
+          "lemma": "ἐπιτείνω",
+          "location": "412a",
+          "context": "ἐπιτεινομένω καὶ ἀνιεμένω"
+        },
+        {
+          "form": "ἀνιεμένω",
+          "lemma": "ἀνίημι",
+          "location": "412a",
+          "context": null
+        },
+        {
+          "form": "χορδὰς",
+          "lemma": "χορδή",
+          "location": "412a",
+          "context": "τὸν τὰς χορδὰς ἀλλήλαις συνιστάντα"
+        },
+        {
+          "form": "κεραννύντα",
+          "lemma": "κεράννυμι",
+          "location": "412a",
+          "context": "μουσικῇ γυμναστικὴν κεραννύντα"
+        }
+      ],
+      "observation": "The concluding image uses string-tuning language (tightening/loosening, strings) and mixing (κεράννυμι): the truly musical person blends music and gymnastics for the soul, surpassing one who merely tunes strings."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ δέοντος",
+          "lemma": "δέω",
+          "location": "410d",
+          "context": "ἀγριώτεροι τοῦ δέοντος"
+        },
+        {
+          "form": "τοῦ δέοντος",
+          "lemma": "δέω",
+          "location": "410d",
+          "context": "μᾶλλον δʼ ἐπιταθὲν τοῦ δέοντος"
+        },
+        {
+          "form": "τοῦ δέοντος",
+          "lemma": "δέω",
+          "location": "410e",
+          "context": "μαλακώτερον εἴη τοῦ δέοντος"
+        },
+        {
+          "form": "μέχρι τοῦ προσήκοντος",
+          "lemma": null,
+          "location": "412a",
+          "context": "ἐπιτεινομένω καὶ ἀνιεμένω μέχρι τοῦ προσήκοντος"
+        }
+      ],
+      "observation": "τοῦ δέοντος recurs three times marking the threshold of excess in both directions; the resolution replaces it with μέχρι τοῦ προσήκοντος."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κωφὸν",
+          "lemma": "κωφός",
+          "location": "411d",
+          "context": null
+        },
+        {
+          "form": "τυφλὸν",
+          "lemma": "τυφλός",
+          "location": "411d",
+          "context": null
+        },
+        {
+          "form": "ἀσθενές",
+          "lemma": "ἀσθενής",
+          "location": "411d",
+          "context": "ἀσθενές τε καὶ κωφὸν καὶ τυφλὸν γίγνεται"
+        }
+      ],
+      "observation": "The φιλομαθές of the gymnastics-only person becomes weak, deaf, and blind—a cluster of sensory and cognitive deprivation applied to the soul's learning capacity."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεὸν",
+          "lemma": "θεός",
+          "location": "411e",
+          "context": "δύο τέχνα θεὸν ἔγωγʼ ἄν τινα φαίην δεδωκέναι τοῖς ἀνθρώποις"
+        }
+      ],
+      "observation": "Music and gymnastics are described as given by a god to humans—a singular attribution of divine origin for the two arts."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σώφρων τε καὶ ἀνδρεία",
+          "lemma": null,
+          "location": "410e",
+          "context": "τοῦ μὲν ἡρμοσμένου σώφρων τε καὶ ἀνδρεία ἡ ψυχή"
+        },
+        {
+          "form": "δειλὴ καὶ ἄγροικος",
+          "lemma": null,
+          "location": "411a",
+          "context": "τοῦ δὲ ἀναρμόστου δειλὴ καὶ ἄγροικος"
+        }
+      ],
+      "observation": "The harmonized soul is σώφρων and ἀνδρεία; the unharmonized is δειλή and ἄγροικος—a point-for-point contrast."
+    }
+  ]
+}

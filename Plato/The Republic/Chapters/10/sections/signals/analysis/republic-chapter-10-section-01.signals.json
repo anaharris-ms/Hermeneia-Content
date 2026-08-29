@@ -1,0 +1,1131 @@
+{
+  "section_id": "republic-chapter-10-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "595a",
+          "context": "ὡς παντὸς ἄρα μᾶλλον ὀρθῶς ᾠκίζομεν τὴν πόλιν"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "597c",
+          "context": "ὀρθῶς, ἔφη"
+        }
+      ],
+      "observation": "ὀρθῶς appears in Socrates' statement about the correctness of founding the city and returns as agreement from the interlocutor regarding the necessity that prevents multiple Forms of bed."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μιμητική",
+          "lemma": "μιμητικός",
+          "location": "595a",
+          "context": "τὸ μηδαμῇ παραδέχεσθαι αὐτῆς ὅση μιμητική"
+        },
+        {
+          "form": "μιμητικούς",
+          "lemma": "μιμητικός",
+          "location": "595b",
+          "context": "τοὺς ἄλλους ἅπαντας τοὺς μιμητικούς"
+        },
+        {
+          "form": "μίμησιν",
+          "lemma": "μίμησις",
+          "location": "595c",
+          "context": "μίμησιν ὅλως ἔχοις ἄν μοι εἰπεῖν ὅτι ποτʼ ἐστίν"
+        },
+        {
+          "form": "μιμητὴν",
+          "lemma": "μιμητής",
+          "location": "597b",
+          "context": "ζητήσωμεν τὸν μιμητὴν τοῦτον, τίς ποτʼ ἐστίν"
+        },
+        {
+          "form": "μιμητὴς",
+          "lemma": "μιμητής",
+          "location": "597e",
+          "context": "μιμητὴς οὗ ἐκεῖνοι δημιουργοί"
+        },
+        {
+          "form": "μιμητής",
+          "lemma": "μιμητής",
+          "location": "597e",
+          "context": "εἴπερ μιμητής ἐστι"
+        },
+        {
+          "form": "μιμηταί",
+          "lemma": "μιμητής",
+          "location": "597e",
+          "context": "καὶ πάντες οἱ ἄλλοι μιμηταί"
+        },
+        {
+          "form": "μιμητὴν",
+          "lemma": "μιμητής",
+          "location": "597e",
+          "context": "τὸν μὲν δὴ μιμητὴν ὡμολογήκαμεν"
+        },
+        {
+          "form": "μιμεῖσθαι",
+          "lemma": "μιμέομαι",
+          "location": "598a",
+          "context": "ἐπιχειρεῖν μιμεῖσθαι"
+        },
+        {
+          "form": "μιμήσασθαι",
+          "lemma": "μιμέομαι",
+          "location": "598b",
+          "context": "πρὸς τὸ ὄν, ὡς ἔχει, μιμήσασθαι"
+        },
+        {
+          "form": "μίμησις",
+          "lemma": "μίμησις",
+          "location": "598b",
+          "context": "φαντάσματος ἢ ἀληθείας οὖσα μίμησις"
+        },
+        {
+          "form": "μιμητική",
+          "lemma": "μιμητικός",
+          "location": "598b",
+          "context": "πόρρω ἄρα που τοῦ ἀληθοῦς ἡ μιμητική ἐστιν"
+        },
+        {
+          "form": "μιμητῇ",
+          "lemma": "μιμητής",
+          "location": "598d",
+          "context": "ἐντυχὼν γόητί τινι καὶ μιμητῇ"
+        },
+        {
+          "form": "μίμησιν",
+          "lemma": "μίμησις",
+          "location": "598d",
+          "context": "ἐπιστήμην καὶ ἀνεπιστημοσύνην καὶ μίμησιν ἐξετάσαι"
+        }
+      ],
+      "observation": "Forms of μίμησις, μιμητής, and μιμητικός recur throughout, beginning with the exclusion of mimetic poetry, moving through the question of what mimesis is, identifying the painter as imitator, and concluding with the inability to distinguish imitation from knowledge."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποιήσεως",
+          "lemma": "ποίησις",
+          "location": "595a",
+          "context": "περὶ ποιήσεως λέγω"
+        },
+        {
+          "form": "ποιητὰς",
+          "lemma": "ποιητής",
+          "location": "595b",
+          "context": "τοὺς τῆς τραγῳδίας ποιητὰς"
+        },
+        {
+          "form": "ποιητὴς",
+          "lemma": "ποιητής",
+          "location": "596d",
+          "context": "γενέσθαι ἂν τούτων ἁπάντων ποιητής"
+        },
+        {
+          "form": "ποιήσεις",
+          "lemma": "ποιέω",
+          "location": "596e",
+          "context": "ταχὺ μὲν ἥλιον ποιήσεις"
+        },
+        {
+          "form": "ποιητὴς",
+          "lemma": "ποιητής",
+          "location": "597d",
+          "context": "βουλόμενος εἶναι ὄντως κλίνης ποιητὴς ὄντως οὔσης"
+        },
+        {
+          "form": "ποιητὴν",
+          "lemma": "ποιητής",
+          "location": "597d",
+          "context": "ἦ καὶ τὸν ζωγράφον δημιουργὸν καὶ ποιητὴν τοῦ τοιούτου"
+        }
+      ],
+      "observation": "Forms of ποίησις and ποιητής move from poetry and tragic poets through a maker of all things, to making with a mirror, to god as true maker of the bed, and finally to the painter who is denied the title ποιητής."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "exact_repetition",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "παραδέχεσθαι",
+          "lemma": "παραδέχομαι",
+          "location": "595a",
+          "context": "τὸ μηδαμῇ παραδέχεσθαι αὐτῆς ὅση μιμητική"
+        },
+        {
+          "form": "παραδεκτέα",
+          "lemma": "παραδεκτέος",
+          "location": "595a",
+          "context": "παντὸς γὰρ μᾶλλον οὐ παραδεκτέα νῦν"
+        }
+      ],
+      "observation": "The infinitive παραδέχεσθαι naming the exclusion of mimetic poetry is immediately echoed by the verbal adjective παραδεκτέα stating that it must not be admitted."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "595a",
+          "context": "ἐναργέστερον, ὡς ἐμοὶ δοκεῖ, φαίνεται"
+        },
+        {
+          "form": "φαινόμενα",
+          "lemma": "φαίνω",
+          "location": "596e",
+          "context": "ναί, ἔφη, φαινόμενα, οὐ μέντοι ὄντα γέ που τῇ ἀληθείᾳ"
+        },
+        {
+          "form": "φαινομένην",
+          "lemma": "φαίνω",
+          "location": "596e",
+          "context": "ναί, ἔφη, φαινομένην γε καὶ οὗτος"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "598a",
+          "context": "μή τι διαφέρει αὐτὴ ἑαυτῆς, ἢ διαφέρει μὲν οὐδέν, φαίνεται δὲ ἀλλοία"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "598a",
+          "context": "οὕτως, ἔφη· φαίνεται, διαφέρει δʼ οὐδέν"
+        },
+        {
+          "form": "φαινόμενον",
+          "lemma": "φαίνω",
+          "location": "598b",
+          "context": "πρὸς τὸ φαινόμενον, ὡς φαίνεται"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "598b",
+          "context": "ὡς φαίνεται"
+        }
+      ],
+      "observation": "Forms of φαίνω recur in contrast to being, first stating that something appears more clearly, then contrasting what appears with what truly is, appearing versus differing in reality, and appearance as the object of painting."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὄντα",
+          "lemma": "εἰμί",
+          "location": "596e",
+          "context": "φαινόμενα, οὐ μέντοι ὄντα γέ που τῇ ἀληθείᾳ"
+        },
+        {
+          "form": "ὄν",
+          "lemma": "εἰμί",
+          "location": "597a",
+          "context": "οὐκ ἂν τὸ ὂν ποιοῖ"
+        },
+        {
+          "form": "ὂν",
+          "lemma": "εἰμί",
+          "location": "597a",
+          "context": "τελέως δὲ εἶναι ὂν τὸ τοῦ κλινουργοῦ ἔργον"
+        },
+        {
+          "form": "ὂν",
+          "lemma": "εἰμί",
+          "location": "597a",
+          "context": "ἀμυδρόν τι τυγχάνει ὂν πρὸς ἀλήθειαν"
+        },
+        {
+          "form": "ὄντως",
+          "lemma": "ὄντως",
+          "location": "597d",
+          "context": "βουλόμενος εἶναι ὄντως κλίνης ποιητὴς ὄντως οὔσης"
+        },
+        {
+          "form": "ὄν",
+          "lemma": "εἰμί",
+          "location": "598b",
+          "context": "πρὸς τὸ ὄν, ὡς ἔχει, μιμήσασθαι"
+        }
+      ],
+      "observation": "Participial forms of εἰμί recur as the standard against which appearance and imitation are measured: what appears is not truly being, the craftsman does not make what is, his work is dim compared to truth, god wants to be truly a maker of what truly is, and painting imitates what appears rather than what is."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "λώβη",
+          "lemma": "λώβη",
+          "location": "595b",
+          "context": "λώβη ἔοικεν εἶναι πάντα τὰ τοιαῦτα τῆς τῶν ἀκουόντων διανοίας"
+        }
+      ],
+      "observation": "λώβη names mimetic works as harm or corruption to the thought of listeners who lack the antidote of knowledge."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φάρμακον",
+          "lemma": "φάρμακον",
+          "location": "595b",
+          "context": "ὅσοι μὴ ἔχουσι φάρμακον τὸ εἰδέναι αὐτὰ οἷα τυγχάνει ὄντα"
+        }
+      ],
+      "observation": "φάρμακον names knowledge of what things truly are as an antidote to the harm of mimetic works."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φιλία",
+          "lemma": "φιλία",
+          "location": "595b",
+          "context": "φιλία γέ τίς με καὶ αἰδὼς ἐκ παιδὸς ἔχουσα περὶ Ὁμήρου"
+        },
+        {
+          "form": "φίλε",
+          "lemma": "φίλος",
+          "location": "598c",
+          "context": "ἀλλὰ γὰρ οἶμαι ὦ φίλε"
+        }
+      ],
+      "observation": "φιλία names Socrates' affection and reverence for Homer from childhood; φίλε later addresses the interlocutor."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ὁμήρου",
+          "lemma": "Ὅμηρος",
+          "location": "595b",
+          "context": "φιλία γέ τίς με καὶ αἰδὼς ἐκ παιδὸς ἔχουσα περὶ Ὁμήρου"
+        }
+      ],
+      "observation": "Ὁμήρου is named as the object of Socrates' childhood affection and reverence, described as the first teacher and guide of all beautiful tragic works, yet honored below truth."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "595c",
+          "context": "οὐ γὰρ πρό γε τῆς ἀληθείας τιμητέος ἀνήρ"
+        },
+        {
+          "form": "ἀλήθειαν",
+          "lemma": "ἀλήθεια",
+          "location": "597a",
+          "context": "ἀμυδρόν τι τυγχάνει ὂν πρὸς ἀλήθειαν"
+        },
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "597e",
+          "context": "τρίτος τις ἀπὸ βασιλέως καὶ τῆς ἀληθείας πεφυκώς"
+        },
+        {
+          "form": "ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "location": "596e",
+          "context": "οὐ μέντοι ὄντα γέ που τῇ ἀληθείᾳ"
+        },
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "598b",
+          "context": "φαντάσματος ἢ ἀληθείας οὖσα μίμησις"
+        },
+        {
+          "form": "ἀληθοῦς",
+          "lemma": "ἀληθής",
+          "location": "598b",
+          "context": "πόρρω ἄρα που τοῦ ἀληθοῦς ἡ μιμητική ἐστιν"
+        }
+      ],
+      "observation": "Forms of ἀλήθεια recur: Homer is honored below truth, the craftsman's work is dim compared to truth, the tragedian is third from truth, things appear but are not truly being, painting is imitation of appearance not truth, and imitation is far from the true."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "βλέπων",
+          "lemma": "βλέπω",
+          "location": "596b",
+          "context": "ὁ δημιουργὸς ἑκατέρου τοῦ σκεύους πρὸς τὴν ἰδέαν βλέπων"
+        },
+        {
+          "form": "βλεπόντων",
+          "lemma": "βλέπω",
+          "location": "596a",
+          "context": "πολλά τοι ὀξύτερον βλεπόντων"
+        }
+      ],
+      "observation": "Forms of βλέπω occur as the sharper seeing of those who may see before duller ones and as the craftsman's looking toward the Form while making."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἶδος",
+          "lemma": "εἶδος",
+          "location": "595b",
+          "context": "χωρὶς ἕκαστα διῄρηται τὰ τῆς ψυχῆς εἴδη"
+        },
+        {
+          "form": "εἶδος",
+          "lemma": "εἶδος",
+          "location": "596a",
+          "context": "εἶδος γάρ πού τι ἓν ἕκαστον εἰώθαμεν τίθεσθαι"
+        },
+        {
+          "form": "ἰδέαι",
+          "lemma": "ἰδέα",
+          "location": "596b",
+          "context": "ἀλλὰ ἰδέαι γέ που περὶ ταῦτα τὰ σκεύη δύο"
+        },
+        {
+          "form": "ἰδέαν",
+          "lemma": "ἰδέα",
+          "location": "596b",
+          "context": "πρὸς τὴν ἰδέαν βλέπων"
+        },
+        {
+          "form": "ἰδέαν",
+          "lemma": "ἰδέα",
+          "location": "596b",
+          "context": "οὐ γάρ που τήν γε ἰδέαν αὐτὴν δημιουργεῖ"
+        },
+        {
+          "form": "εἴδεσι",
+          "lemma": "εἶδος",
+          "location": "597b",
+          "context": "τρεῖς οὗτοι ἐπιστάται τρισὶν εἴδεσι κλινῶν"
+        },
+        {
+          "form": "εἶδος",
+          "lemma": "εἶδος",
+          "location": "597c",
+          "context": "ἐκεῖναι ἂν αὖ ἀμφότεραι τὸ εἶδος ἔχοιεν"
+        },
+        {
+          "form": "εἴδωλον",
+          "lemma": "εἴδωλον",
+          "location": "598b",
+          "context": "σμικρόν τι ἑκάστου ἐφάπτεται, καὶ τοῦτο εἴδωλον"
+        }
+      ],
+      "observation": "Forms of εἶδος and ἰδέα move from parts of the soul, through the customary positing of one Form for each many, to two Ideas for bed and table, to the craftsman looking toward the Idea, to three overseers of three kinds of beds, to the Form that would appear if god made two, and finally to εἴδωλον as what the painter touches and produces."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "κλῖναι",
+          "lemma": "κλίνη",
+          "location": "596b",
+          "context": "πολλαί πού εἰσι κλῖναι καὶ τράπεζαι"
+        },
+        {
+          "form": "κλίνης",
+          "lemma": "κλίνη",
+          "location": "596b",
+          "context": "μία μὲν κλίνης, μία δὲ τραπέζης"
+        },
+        {
+          "form": "κλίνας",
+          "lemma": "κλίνη",
+          "location": "596b",
+          "context": "ὁ μὲν τὰς κλίνας, ὁ δὲ τὰς τραπέζας"
+        },
+        {
+          "form": "κλίνης",
+          "lemma": "κλίνη",
+          "location": "597d",
+          "context": "ἀλλὰ τί αὐτὸν κλίνης φήσεις εἶναι"
+        },
+        {
+          "form": "κλίνη",
+          "lemma": "κλίνη",
+          "location": "597a",
+          "context": "ὃ δή φαμεν εἶναι ὃ ἔστι κλίνη"
+        },
+        {
+          "form": "κλίνην",
+          "lemma": "κλίνη",
+          "location": "597a",
+          "context": "ἀλλὰ κλίνην τινά"
+        },
+        {
+          "form": "κλῖναι",
+          "lemma": "κλίνη",
+          "location": "597b",
+          "context": "τριτταί τινες κλῖναι αὗται γίγνονται"
+        },
+        {
+          "form": "κλίνην",
+          "lemma": "κλίνη",
+          "location": "597c",
+          "context": "μίαν ἐν τῇ φύσει ἀπεργάσασθαι αὐτὸν κλίνην"
+        },
+        {
+          "form": "κλίνη",
+          "lemma": "κλίνη",
+          "location": "597c",
+          "context": "μίαν μόνον αὐτὴν ἐκείνην ὃ ἔστιν κλίνη"
+        },
+        {
+          "form": "κλίνη",
+          "lemma": "κλίνη",
+          "location": "597c",
+          "context": "καὶ εἴη ἂν ὃ ἔστιν κλίνη ἐκείνη"
+        },
+        {
+          "form": "κλίνης",
+          "lemma": "κλίνη",
+          "location": "597d",
+          "context": "ὄντως κλίνης ποιητὴς ὄντως οὔσης"
+        },
+        {
+          "form": "κλίνης",
+          "lemma": "κλίνη",
+          "location": "597d",
+          "context": "δημιουργὸν κλίνης"
+        },
+        {
+          "form": "κλίνης",
+          "lemma": "κλίνη",
+          "location": "597d",
+          "context": "ἀλλὰ τί αὐτὸν κλίνης φήσεις εἶναι"
+        },
+        {
+          "form": "κλινῶν",
+          "lemma": "κλίνη",
+          "location": "597b",
+          "context": "τρισὶν εἴδεσι κλινῶν"
+        },
+        {
+          "form": "κλίνη",
+          "lemma": "κλίνη",
+          "location": "598a",
+          "context": "κλίνη, ἐάντε ἐκ πλαγίου αὐτὴν θεᾷ"
+        }
+      ],
+      "observation": "Forms of κλίνη recur with high local density, moving from many beds to one Form of bed, to the craftsman making beds by looking toward the Form, to three kinds of beds, to god making one bed in nature, to the question of what the painter is in relation to the bed, and to viewing the bed from different angles."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δημιουργὸς",
+          "lemma": "δημιουργός",
+          "location": "596b",
+          "context": "ὁ δημιουργὸς ἑκατέρου τοῦ σκεύους"
+        },
+        {
+          "form": "δημιουργεῖ",
+          "lemma": "δημιουργέω",
+          "location": "596b",
+          "context": "οὐ γάρ που τήν γε ἰδέαν αὐτὴν δημιουργεῖ"
+        },
+        {
+          "form": "δημιουργῶν",
+          "lemma": "δημιουργός",
+          "location": "596b",
+          "context": "οὐδεὶς τῶν δημιουργῶν"
+        },
+        {
+          "form": "δημιουργόν",
+          "lemma": "δημιουργός",
+          "location": "596b",
+          "context": "καὶ τόνδε τίνα καλεῖς τὸν δημιουργόν"
+        },
+        {
+          "form": "δημιουργὸς",
+          "lemma": "δημιουργός",
+          "location": "596d",
+          "context": "οὐκ ἄν σοι δοκεῖ εἶναι τοιοῦτος δημιουργός"
+        },
+        {
+          "form": "δημιουργούμενος",
+          "lemma": "δημιουργέω",
+          "location": "596d",
+          "context": "πολλαχῇ καὶ ταχὺ δημιουργούμενος"
+        },
+        {
+          "form": "δημιουργῶν",
+          "lemma": "δημιουργός",
+          "location": "596e",
+          "context": "τῶν τοιούτων γὰρ οἶμαι δημιουργῶν καὶ ὁ ζωγράφος ἐστίν"
+        },
+        {
+          "form": "δημιουργὸν",
+          "lemma": "δημιουργός",
+          "location": "597d",
+          "context": "ἆρʼ οὐ δημιουργὸν κλίνης"
+        },
+        {
+          "form": "δημιουργὸν",
+          "lemma": "δημιουργός",
+          "location": "597d",
+          "context": "ἦ καὶ τὸν ζωγράφον δημιουργὸν καὶ ποιητὴν"
+        },
+        {
+          "form": "δημιουργοί",
+          "lemma": "δημιουργός",
+          "location": "597e",
+          "context": "μιμητὴς οὗ ἐκεῖνοι δημιουργοί"
+        },
+        {
+          "form": "δημιουργῶν",
+          "lemma": "δημιουργός",
+          "location": "598a",
+          "context": "ἢ τὰ τῶν δημιουργῶν ἔργα"
+        },
+        {
+          "form": "δημιουργῶν",
+          "lemma": "δημιουργός",
+          "location": "598a",
+          "context": "τὰ τῶν δημιουργῶν, ἔφη"
+        },
+        {
+          "form": "δημιουργούς",
+          "lemma": "δημιουργός",
+          "location": "598b",
+          "context": "τοὺς ἄλλους δημιουργούς"
+        },
+        {
+          "form": "δημιουργίας",
+          "lemma": "δημιουργία",
+          "location": "598c",
+          "context": "πάσας ἐπισταμένῳ τὰς δημιουργίας"
+        }
+      ],
+      "observation": "Forms of δημιουργός recur through the craftsman of implements looking toward the Form, a maker of all things, quick making with a mirror, such makers including the painter, the carpenter as craftsman, the painter denied the title, the painter as imitator of what craftsmen make, and knowledge of all crafts."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "τρίτος",
+          "lemma": "τρίτος",
+          "location": "597e",
+          "context": "τρίτος τις ἀπὸ βασιλέως καὶ τῆς ἀληθείας πεφυκώς"
+        },
+        {
+          "form": "τρίτου",
+          "lemma": "τρίτος",
+          "location": "597e",
+          "context": "τὸν τοῦ τρίτου ἄρα γεννήματος ἀπὸ τῆς φύσεως"
+        }
+      ],
+      "observation": "τρίτος appears twice in close succession: the tragedian is third by nature from king and truth, and the imitator is named as third generation from nature."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τριτταί",
+          "lemma": "τριττός",
+          "location": "597b",
+          "context": "τριτταί τινες κλῖναι αὗται γίγνονται"
+        },
+        {
+          "form": "τρεῖς",
+          "lemma": "τρεῖς",
+          "location": "597b",
+          "context": "ζωγράφος δή, κλινοποιός, θεός, τρεῖς οὗτοι ἐπιστάται τρισὶν εἴδεσι κλινῶν"
+        },
+        {
+          "form": "τρεῖς",
+          "lemma": "τρεῖς",
+          "location": "597b",
+          "context": "ναὶ τρεῖς"
+        },
+        {
+          "form": "τρίτος",
+          "lemma": "τρίτος",
+          "location": "597e",
+          "context": "τρίτος τις ἀπὸ βασιλέως καὶ τῆς ἀληθείας"
+        },
+        {
+          "form": "τρίτου",
+          "lemma": "τρίτος",
+          "location": "597e",
+          "context": "τὸν τοῦ τρίτου ἄρα γεννήματος"
+        }
+      ],
+      "observation": "Forms of three recur: three kinds of beds come to be, three overseers of three forms of beds (painter, carpenter, god), and the imitator as third from nature and truth."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θεὸν",
+          "lemma": "θεός",
+          "location": "597b",
+          "context": "ἣν φαῖμεν ἄν, ὡς ἐγᾦμαι, θεὸν ἐργάσασθαι"
+        },
+        {
+          "form": "θεός",
+          "lemma": "θεός",
+          "location": "597b",
+          "context": "ζωγράφος δή, κλινοποιός, θεός"
+        },
+        {
+          "form": "θεοῦ",
+          "lemma": "θεός",
+          "location": "597c",
+          "context": "οὔτε ἐφυτεύθησαν ὑπὸ τοῦ θεοῦ"
+        },
+        {
+          "form": "θεός",
+          "lemma": "θεός",
+          "location": "597d",
+          "context": "ταῦτα δὴ οἶμαι εἰδὼς ὁ θεός"
+        }
+      ],
+      "observation": "θεός is named as the maker of the bed in nature, listed with painter and carpenter as three overseers, and identified as the one who planted only one Form and who knew these things."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "βασιλέως",
+          "lemma": "βασιλεύς",
+          "location": "597e",
+          "context": "τρίτος τις ἀπὸ βασιλέως καὶ τῆς ἀληθείας πεφυκώς"
+        }
+      ],
+      "observation": "βασιλέως appears as the point from which the tragedian is third by nature, paired with truth."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κάτοπτρον",
+          "lemma": "κάτοπτρον",
+          "location": "596d",
+          "context": "εἰ ʼθέλεις λαβὼν κάτοπτρον περιφέρειν πανταχῇ"
+        }
+      ],
+      "observation": "κάτοπτρον names the mirror by which one can quickly make appearances of sun, earth, living things, implements, and plants by carrying it everywhere."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "596e",
+          "context": "τῶν τοιούτων γὰρ οἶμαι δημιουργῶν καὶ ὁ ζωγράφος ἐστίν"
+        },
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "596e",
+          "context": "καίτοι τρόπῳ γέ τινι καὶ ὁ ζωγράφος κλίνην ποιεῖ"
+        },
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "598c",
+          "context": "εἰ ἀγαθὸς εἴη ζωγράφος"
+        },
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "597b",
+          "context": "μία δὲ ἣν ὁ ζωγράφος"
+        },
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "597b",
+          "context": "ζωγράφος δή, κλινοποιός, θεός"
+        },
+        {
+          "form": "ζωγράφον",
+          "lemma": "ζωγράφος",
+          "location": "597d",
+          "context": "ἦ καὶ τὸν ζωγράφον δημιουργὸν καὶ ποιητὴν"
+        },
+        {
+          "form": "ζωγράφου",
+          "lemma": "ζωγράφος",
+          "location": "598a",
+          "context": "περὶ τοῦ ζωγράφου τόδε"
+        },
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "598b",
+          "context": "οἷον ὁ ζωγράφος, φαμέν"
+        },
+        {
+          "form": "ζωγραφήσει",
+          "lemma": "ζωγραφέω",
+          "location": "598b",
+          "context": "ζωγραφήσει ἡμῖν σκυτοτόμον, τέκτονα"
+        },
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "598c",
+          "context": "εἰ ἀγαθὸς εἴη ζωγράφος"
+        },
+        {
+          "form": "γράψας",
+          "lemma": "γράφω",
+          "location": "598c",
+          "context": "γράψας ἂν τέκτονα καὶ πόρρωθεν ἐπιδεικνὺς"
+        }
+      ],
+      "observation": "Forms of ζωγράφος and related painting terms recur: the painter is among such makers, makes a bed in a certain way, makes one of three beds, is denied the title of craftsman and maker, imitates craftsmen's works, will paint shoemaker and carpenter, and if skilled can deceive children and foolish people."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "597b",
+          "context": "μία μὲν ἡ ἐν τῇ φύσει οὖσα"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "597c",
+          "context": "μίαν ἐν τῇ φύσει ἀπεργάσασθαι αὐτὸν κλίνην"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "597d",
+          "context": "μίαν φύσει αὐτὴν ἔφυσεν"
+        },
+        {
+          "form": "φυτουργὸν",
+          "lemma": "φυτουργός",
+          "location": "597d",
+          "context": "βούλει οὖν τοῦτον μὲν φυτουργὸν τούτου προσαγορεύωμεν"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "597d",
+          "context": "ἐπειδήπερ φύσει γε καὶ τοῦτο καὶ τἆλλα πάντα πεποίηκεν"
+        },
+        {
+          "form": "φύσεως",
+          "lemma": "φύσις",
+          "location": "597e",
+          "context": "τὸν τοῦ τρίτου ἄρα γεννήματος ἀπὸ τῆς φύσεως"
+        },
+        {
+          "form": "πεφυκώς",
+          "lemma": "φύω",
+          "location": "597e",
+          "context": "τρίτος τις ἀπὸ βασιλέως καὶ τῆς ἀληθείας πεφυκώς"
+        },
+        {
+          "form": "φύσει",
+          "lemma": "φύσις",
+          "location": "598a",
+          "context": "ἐκεῖνο αὐτὸ τὸ ἐν τῇ φύσει ἕκαστον"
+        }
+      ],
+      "observation": "Forms of φύσις and φύω recur: the bed in nature, god making one bed in nature, god causing it to grow by nature, the name φυτουργός for god, god making all things by nature, the imitator as third generation from nature, the tragedian by nature third from truth, and the question whether the painter imitates each thing itself in nature."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιστάται",
+          "lemma": "ἐπιστάτης",
+          "location": "597b",
+          "context": "τρεῖς οὗτοι ἐπιστάται τρισὶν εἴδεσι κλινῶν"
+        },
+        {
+          "form": "ἐπισταμένῳ",
+          "lemma": "ἐπίσταμαι",
+          "location": "598c",
+          "context": "πάσας ἐπισταμένῳ τὰς δημιουργίας"
+        },
+        {
+          "form": "ἐπισταμένῳ",
+          "lemma": "ἐπίσταμαι",
+          "location": "598d",
+          "context": "οὐδὲν ὅτι οὐχὶ ἀκριβέστερον ὁτουοῦν ἐπισταμένῳ"
+        },
+        {
+          "form": "ἐπιστήμην",
+          "lemma": "ἐπιστήμη",
+          "location": "598d",
+          "context": "ἐπιστήμην καὶ ἀνεπιστημοσύνην καὶ μίμησιν ἐξετάσαι"
+        }
+      ],
+      "observation": "Forms of ἐπιστάτης, ἐπίσταμαι, and ἐπιστήμη recur: three overseers of three forms of beds, someone knowing all crafts, knowing anything more precisely than anyone, and the triad of knowledge, lack of knowledge, and imitation that one must be able to examine."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "γόητί",
+          "lemma": "γόης",
+          "location": "598d",
+          "context": "ἐντυχὼν γόητί τινι καὶ μιμητῇ"
+        }
+      ],
+      "observation": "γόητί names the sorcerer or charlatan encountered alongside the imitator, who deceives the naive person into thinking he possesses all wisdom."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαπατῷ",
+          "lemma": "ἐξαπατάω",
+          "location": "598c",
+          "context": "πόρρωθεν ἐπιδεικνὺς ἐξαπατῷ ἂν τῷ δοκεῖν"
+        },
+        {
+          "form": "ἐξηπατήθη",
+          "lemma": "ἐξαπατάω",
+          "location": "598d",
+          "context": "ἐντυχὼν γόητί τινι καὶ μιμητῇ ἐξηπατήθη"
+        }
+      ],
+      "observation": "Forms of ἐξαπατάω name deception: the painter deceiving from a distance by seeming to be a true carpenter, and the naive person deceived by encountering a sorcerer and imitator."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παῖδάς",
+          "lemma": "παῖς",
+          "location": "598c",
+          "context": "παῖδάς γε καὶ ἄφρονας ἀνθρώπους"
+        },
+        {
+          "form": "παιδὸς",
+          "lemma": "παῖς",
+          "location": "595b",
+          "context": "φιλία γέ τίς με καὶ αἰδὼς ἐκ παιδὸς ἔχουσα"
+        }
+      ],
+      "observation": "Forms of παῖς occur as children whom the painter can deceive and as Socrates' affection from childhood for Homer."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πόρρω",
+          "lemma": "πόρρω",
+          "location": "598b",
+          "context": "πόρρω ἄρα που τοῦ ἀληθοῦς ἡ μιμητική ἐστιν"
+        },
+        {
+          "form": "πόρρωθεν",
+          "lemma": "πόρρωθεν",
+          "location": "598c",
+          "context": "πόρρωθεν ἐπιδεικνὺς ἐξαπατῷ ἂν"
+        }
+      ],
+      "observation": "Forms of πόρρω name distance: imitation is far from the true, and the painter deceives by showing from a distance."
+    },
+    {
+      "signal_id": "s028",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τραγῳδίας",
+          "lemma": "τραγῳδία",
+          "location": "595b",
+          "context": "τοὺς τῆς τραγῳδίας ποιητὰς"
+        },
+        {
+          "form": "τραγικῶν",
+          "lemma": "τραγικός",
+          "location": "595c",
+          "context": "τῶν καλῶν ἁπάντων τούτων τῶν τραγικῶν"
+        },
+        {
+          "form": "τραγῳδοποιός",
+          "lemma": "τραγῳδοποιός",
+          "location": "597e",
+          "context": "τοῦτʼ ἄρα ἔσται καὶ ὁ τραγῳδοποιός"
+        }
+      ],
+      "observation": "Forms naming tragedy recur: poets of tragedy, all these beautiful tragic works for which Homer is first teacher, and the tragedian as third from truth."
+    },
+    {
+      "signal_id": "s029",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θεᾷ",
+          "lemma": "θεάομαι",
+          "location": "598a",
+          "context": "ἐάντε ἐκ πλαγίου αὐτὴν θεᾷ ἐάντε καταντικρὺ"
+        }
+      ],
+      "observation": "θεᾷ names viewing the bed from the side or straight on as an example of how the same thing appears different without differing."
+    },
+    {
+      "signal_id": "s030",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "φάντασμα",
+          "lemma": "φάντασμα",
+          "location": "598b",
+          "context": "φαντάσματος ἢ ἀληθείας οὖσα μίμησις"
+        }
+      ],
+      "observation": "φάντασμα names appearance or semblance as the object of painting's imitation, contrasted with truth."
+    },
+    {
+      "signal_id": "s031",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σκυτοτόμον",
+          "lemma": "σκυτοτόμος",
+          "location": "598b",
+          "context": "ζωγραφήσει ἡμῖν σκυτοτόμον, τέκτονα"
+        },
+        {
+          "form": "τέκτονα",
+          "lemma": "τέκτων",
+          "location": "598b",
+          "context": "ζωγραφήσει ἡμῖν σκυτοτόμον, τέκτονα"
+        },
+        {
+          "form": "τέκτονα",
+          "lemma": "τέκτων",
+          "location": "598c",
+          "context": "γράψας ἂν τέκτονα καὶ πόρρωθεν ἐπιδεικνὺς"
+        },
+        {
+          "form": "τέκτονα",
+          "lemma": "τέκτων",
+          "location": "598c",
+          "context": "ὡς ἀληθῶς τέκτονα εἶναι"
+        }
+      ],
+      "observation": "The painter will paint a shoemaker and carpenter without understanding their crafts, yet can deceive children and foolish people from a distance into thinking the painted carpenter is truly a carpenter."
+    }
+  ]
+}

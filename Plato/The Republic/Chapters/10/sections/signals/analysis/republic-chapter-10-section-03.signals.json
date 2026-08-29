@@ -1,0 +1,690 @@
+{
+  "section_id": "republic-chapter-10-section-03",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "πόρρω",
+          "lemma": "πόρρω",
+          "location": "602c",
+          "context": "πόρρωθεν διὰ τῆς ὄψεως"
+        },
+        {
+          "form": "πόρρω",
+          "lemma": "πόρρω",
+          "location": "603a",
+          "context": "πόρρω μὲν τῆς ἀληθείας"
+        },
+        {
+          "form": "πόρρω",
+          "lemma": "πόρρω",
+          "location": "603a",
+          "context": "πόρρω δʼ αὖ φρονήσεως"
+        }
+      ],
+      "observation": "πόρρω first describes physical distance in viewing, then returns twice in quick succession to describe mimetic art's distance from truth and from wisdom."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ταὐτόν",
+          "lemma": "ὁ αὐτός",
+          "location": "602c",
+          "context": "ταὐτόν που ἡμῖν μέγεθος"
+        },
+        {
+          "form": "ταὐτά",
+          "lemma": "ὁ αὐτός",
+          "location": "602c",
+          "context": "καὶ ταὐτὰ καμπύλα τε καὶ εὐθέα"
+        },
+        {
+          "form": "ταὐτά",
+          "lemma": "ὁ αὐτός",
+          "location": "602e",
+          "context": "ἅμα περὶ ταὐτά"
+        },
+        {
+          "form": "ταὐτά",
+          "lemma": "ὁ αὐτός",
+          "location": "602e",
+          "context": "ἅμα περὶ ταὐτὰ ἐναντία δοξάζειν"
+        },
+        {
+          "form": "ταὐτόν",
+          "lemma": "ὁ αὐτός",
+          "location": "603a",
+          "context": "οὐκ ἂν εἴη ταὐτόν"
+        }
+      ],
+      "observation": "Forms of ταὐτόν/ταὐτά first describe physical objects appearing different, then shift to describe the logical impossibility of the same part holding contrary beliefs about the same things, then conclude that the parts of soul holding opposing judgments are not the same."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "602c",
+          "context": "οὐκ ἴσον φαίνεται"
+        },
+        {
+          "form": "φαινόμενον",
+          "lemma": "φαίνω",
+          "location": "602d",
+          "context": "τὸ φαινόμενον μεῖζον ἢ ἔλαττον"
+        },
+        {
+          "form": "φαίνεται",
+          "lemma": "φαίνω",
+          "location": "602e",
+          "context": "τἀναντία φαίνεται ἅμα"
+        }
+      ],
+      "observation": "Forms of φαίνω cluster around visual deception: the same magnitude not appearing equal, appearance of greater or lesser ruling, and contraries appearing simultaneously about the same things."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "exact_repetition",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐναντία",
+          "lemma": "ἐναντίος",
+          "location": "602e",
+          "context": "τἀναντία φαίνεται ἅμα περὶ ταὐτά"
+        },
+        {
+          "form": "ἐναντία",
+          "lemma": "ἐναντίος",
+          "location": "602e",
+          "context": "περὶ ταὐτὰ ἐναντία δοξάζειν"
+        },
+        {
+          "form": "ἐναντιούμενον",
+          "lemma": "ἐναντιόω",
+          "location": "603a",
+          "context": "τὸ ἄρα τούτῳ ἐναντιούμενον"
+        }
+      ],
+      "observation": "ἐναντία describes contraries appearing simultaneously and contrary beliefs being held, then ἐναντιούμενον names the part opposing the rational element."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μετρεῖν",
+          "lemma": "μετρέω",
+          "location": "602d",
+          "context": "τὸ μετρεῖν καὶ ἀριθμεῖν καὶ ἱστάναι"
+        },
+        {
+          "form": "μετρῆσαν",
+          "lemma": "μετρέω",
+          "location": "602d",
+          "context": "τὸ λογισάμενον καὶ μετρῆσαν"
+        },
+        {
+          "form": "μετρήσαντι",
+          "lemma": "μετρέω",
+          "location": "602e",
+          "context": "τούτῳ δὲ πολλάκις μετρήσαντι"
+        },
+        {
+          "form": "μέτρα",
+          "lemma": "μέτρον",
+          "location": "603a",
+          "context": "τὸ παρὰ τὰ μέτρα δοξάζον"
+        },
+        {
+          "form": "μέτρα",
+          "lemma": "μέτρον",
+          "location": "603a",
+          "context": "τῷ κατὰ τὰ μέτρα"
+        },
+        {
+          "form": "μέτρῳ",
+          "lemma": "μέτρον",
+          "location": "603a",
+          "context": "τὸ μέτρῳ γε καὶ λογισμῷ πιστεῦον"
+        }
+      ],
+      "observation": "Forms of μετρέω and μέτρον accumulate: measuring is named as aid against deception, then the measuring part judges repeatedly, then the soul is divided between what judges contrary to measures and what judges according to measures, concluding with trust in measure and calculation."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀριθμεῖν",
+          "lemma": "ἀριθμέω",
+          "location": "602d",
+          "context": "τὸ μετρεῖν καὶ ἀριθμεῖν καὶ ἱστάναι"
+        },
+        {
+          "form": "λογισάμενον",
+          "lemma": "λογίζομαι",
+          "location": "602d",
+          "context": "τὸ λογισάμενον καὶ μετρῆσαν"
+        },
+        {
+          "form": "λογιστικοῦ",
+          "lemma": "λογιστικός",
+          "location": "602e",
+          "context": "τοῦ λογιστικοῦ τοῦ ἐν ψυχῇ"
+        },
+        {
+          "form": "λογισμῷ",
+          "lemma": "λογισμός",
+          "location": "603a",
+          "context": "μέτρῳ γε καὶ λογισμῷ πιστεῦον"
+        }
+      ],
+      "observation": "Calculation vocabulary forms a cluster: counting, calculating, the calculating part of soul, and calculation paired with measure as objects of trust."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἅμα",
+          "lemma": "ἅμα",
+          "location": "602e",
+          "context": "τἀναντία φαίνεται ἅμα περὶ ταὐτά"
+        },
+        {
+          "form": "ἅμα",
+          "lemma": "ἅμα",
+          "location": "602e",
+          "context": "τῷ αὐτῷ ἅμα περὶ ταὐτὰ ἐναντία δοξάζειν"
+        }
+      ],
+      "observation": "ἅμα recurs in the statement of contraries appearing simultaneously and the principle that the same thing cannot believe contraries simultaneously about the same things."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μεῖζον",
+          "lemma": "μέγας",
+          "location": "602d",
+          "context": "τὸ φαινόμενον μεῖζον ἢ ἔλαττον"
+        },
+        {
+          "form": "μείζω",
+          "lemma": "μέγας",
+          "location": "602e",
+          "context": "μείζω ἄττα εἶναι ἢ ἐλάττω"
+        },
+        {
+          "form": "μέγεθος",
+          "lemma": "μέγεθος",
+          "location": "602c",
+          "context": "ταὐτόν που ἡμῖν μέγεθος"
+        }
+      ],
+      "observation": "Terms for size and magnitude cluster around the examples of visual deception and the calculating part's judgments about comparative size."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἔλαττον",
+          "lemma": "ἐλάσσων",
+          "location": "602d",
+          "context": "μεῖζον ἢ ἔλαττον ἢ πλέον ἢ βαρύτερον"
+        },
+        {
+          "form": "ἐλάττω",
+          "lemma": "ἐλάσσων",
+          "location": "602e",
+          "context": "μείζω ἄττα εἶναι ἢ ἐλάττω ἕτερα ἑτέρων"
+        }
+      ],
+      "observation": "ἔλαττον/ἐλάττω recurs in the account of appearance versus measurement and in the calculating part's signaling of comparative sizes."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "602c",
+          "context": "διὰ τῆς ὄψεως οὐκ ἴσον φαίνεται"
+        },
+        {
+          "form": "ὄψεως",
+          "lemma": "ὄψις",
+          "location": "602c",
+          "context": "διὰ τὴν περὶ τὰ χρώματα αὖ πλάνην τῆς ὄψεως"
+        }
+      ],
+      "observation": "ὄψις appears twice in close succession as the medium through which the same magnitude appears unequal and through which wandering about colors occurs."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lexical_family",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "καμπύλα",
+          "lemma": "καμπύλος",
+          "location": "602c",
+          "context": "καὶ ταὐτὰ καμπύλα τε καὶ εὐθέα"
+        },
+        {
+          "form": "εὐθέα",
+          "lemma": "εὐθύς",
+          "location": "602c",
+          "context": "καμπύλα τε καὶ εὐθέα"
+        },
+        {
+          "form": "κοῖλά",
+          "lemma": "κοῖλος",
+          "location": "602c",
+          "context": "κοῖλά τε δὴ καὶ ἐξέχοντα"
+        },
+        {
+          "form": "ἐξέχοντα",
+          "lemma": "ἐξέχω",
+          "location": "602c",
+          "context": "κοῖλά τε δὴ καὶ ἐξέχοντα"
+        }
+      ],
+      "observation": "Paired contrasting shapes accumulate: curved and straight, concave and protruding, as examples of perceptual deception."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐγγύθεν",
+          "lemma": "ἐγγύθεν",
+          "location": "602c",
+          "context": "ἐγγύθεν τε καὶ πόρρωθεν"
+        },
+        {
+          "form": "πόρρωθεν",
+          "lemma": "πόρρωθεν",
+          "location": "602c",
+          "context": "ἐγγύθεν τε καὶ πόρρωθεν"
+        }
+      ],
+      "observation": "The paired spatial adverbs ἐγγύθεν and πόρρωθεν describe near and far viewing positions for the same magnitude appearing unequal."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐν ὕδατί τε θεωμένοις καὶ ἔξω",
+          "lemma": null,
+          "location": "602c",
+          "context": "καὶ ταὐτὰ καμπύλα τε καὶ εὐθέα ἐν ὕδατί τε θεωμένοις καὶ ἔξω"
+        }
+      ],
+      "observation": "Viewing in water versus viewing outside water is set as a paired contrast for the same things appearing curved and straight."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "πλάνην",
+          "lemma": "πλάνη",
+          "location": "602c",
+          "context": "διὰ τὴν περὶ τὰ χρώματα αὖ πλάνην τῆς ὄψεως"
+        },
+        {
+          "form": "ταραχὴ",
+          "lemma": "ταραχή",
+          "location": "602c",
+          "context": "καὶ πᾶσά τις ταραχὴ δήλη ἡμῖν ἐνοῦσα αὕτη ἐν τῇ ψυχῇ"
+        }
+      ],
+      "observation": "πλάνη names the wandering of vision concerning colors, and ταραχή immediately follows to name every confusion present in the soul."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "σκιαγραφία",
+          "lemma": "σκιαγραφία",
+          "location": "602d",
+          "context": "ἡ σκιαγραφία ἐπιθεμένη γοητείας οὐδὲν ἀπολείπει"
+        },
+        {
+          "form": "θαυματοποιία",
+          "lemma": "θαυματοποιία",
+          "location": "602d",
+          "context": "καὶ ἡ θαυματοποιία καὶ αἱ ἄλλαι πολλαὶ τοιαῦται μηχαναί"
+        },
+        {
+          "form": "γοητείας",
+          "lemma": "γοητεία",
+          "location": "602d",
+          "context": "γοητείας οὐδὲν ἀπολείπει"
+        }
+      ],
+      "observation": "Shadow-painting, wonder-working, and sorcery cluster as techniques exploiting the confusion in the soul."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βοήθειαι",
+          "lemma": "βοήθεια",
+          "location": "602d",
+          "context": "βοήθειαι χαριέσταται πρὸς αὐτὰ ἐφάνησαν"
+        },
+        {
+          "form": "ἄρχειν",
+          "lemma": "ἄρχω",
+          "location": "602d",
+          "context": "ὥστε μὴ ἄρχειν ἐν ἡμῖν τὸ φαινόμενον"
+        }
+      ],
+      "observation": "Measuring, numbering, and weighing are named as aids so that appearance does not rule in us, but rather the calculating element rules."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἱστάναι",
+          "lemma": "ἵστημι",
+          "location": "602d",
+          "context": "τὸ μετρεῖν καὶ ἀριθμεῖν καὶ ἱστάναι"
+        },
+        {
+          "form": "στῆσαν",
+          "lemma": "ἵστημι",
+          "location": "602d",
+          "context": "ἢ καὶ στῆσαν"
+        }
+      ],
+      "observation": "Forms of ἵστημι appear as weighing among the aids against visual deception and as what the calculating part does."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "exact_repetition",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "δοξάζον",
+          "lemma": "δοξάζω",
+          "location": "603a",
+          "context": "τὸ παρὰ τὰ μέτρα ἄρα δοξάζον"
+        },
+        {
+          "form": "δοξάζειν",
+          "lemma": "δοξάζω",
+          "location": "602e",
+          "context": "περὶ ταὐτὰ ἐναντία δοξάζειν"
+        }
+      ],
+      "observation": "δοξάζω appears first in the principle forbidding contrary beliefs about the same things, then names the part judging contrary to measures."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "exact_repetition",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "βέλτιστον",
+          "lemma": "ἀγαθός",
+          "location": "603a",
+          "context": "βέλτιστον ἂν εἴη τῆς ψυχῆς"
+        },
+        {
+          "form": "φαύλων",
+          "lemma": "φαῦλος",
+          "location": "603a",
+          "context": "τῶν φαύλων ἄν τι εἴη ἐν ἡμῖν"
+        },
+        {
+          "form": "φαύλη",
+          "lemma": "φαῦλος",
+          "location": "603b",
+          "context": "φαύλη ἄρα φαύλῳ συγγιγνομένη"
+        },
+        {
+          "form": "φαύλῳ",
+          "lemma": "φαῦλος",
+          "location": "603b",
+          "context": "φαύλη ἄρα φαύλῳ συγγιγνομένη"
+        },
+        {
+          "form": "φαῦλα",
+          "lemma": "φαῦλος",
+          "location": "603b",
+          "context": "φαῦλα γεννᾷ ἡ μιμητική"
+        }
+      ],
+      "observation": "βέλτιστον names the part trusting measure and calculation, while φαῦλος recurs four times to name the opposing part and then triply describes the inferior mimetic art associating with an inferior part and generating inferior offspring."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "τρίτον",
+          "lemma": "τρίτος",
+          "location": "602c",
+          "context": "περὶ τρίτον μέν τί ἐστιν ἀπὸ τῆς ἀληθείας"
+        }
+      ],
+      "observation": "τρίτον locates mimetic work as third from truth."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "602c",
+          "context": "τρίτον μέν τί ἐστιν ἀπὸ τῆς ἀληθείας"
+        },
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "603a",
+          "context": "πόρρω μὲν τῆς ἀληθείας ὂν"
+        },
+        {
+          "form": "ἀληθεῖ",
+          "lemma": "ἀληθής",
+          "location": "603b",
+          "context": "ἐπʼ οὐδενὶ ὑγιεῖ οὐδʼ ἀληθεῖ"
+        }
+      ],
+      "observation": "ἀλήθεια appears as the measure from which mimesis is third removed, then as what mimetic work is far from, and finally ἀληθής describes what mimetic association is not grounded upon."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "μιμεῖσθαι",
+          "lemma": "μιμέομαι",
+          "location": "602c",
+          "context": "τὸ δὲ δὴ μιμεῖσθαι τοῦτο"
+        },
+        {
+          "form": "μιμητικὴ",
+          "lemma": "μιμητικός",
+          "location": "603a",
+          "context": "ἡ γραφικὴ καὶ ὅλως ἡ μιμητικὴ"
+        },
+        {
+          "form": "μιμητική",
+          "lemma": "μιμητικός",
+          "location": "603b",
+          "context": "φαῦλα γεννᾷ ἡ μιμητική"
+        }
+      ],
+      "observation": "The lexical family of mimesis appears first as the infinitive naming the activity, then twice as the adjectival form naming painting and mimetic art generally, and finally as the subject generating inferior offspring."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φρονήσεως",
+          "lemma": "φρόνησις",
+          "location": "603a",
+          "context": "πόρρω δʼ αὖ φρονήσεως ὄντι"
+        }
+      ],
+      "observation": "φρόνησις is named as what the part of us mimetic art associates with is far from."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "προσομιλεῖ",
+          "lemma": "προσομιλέω",
+          "location": "603b",
+          "context": "προσομιλεῖ τε καὶ ἑταίρα καὶ φίλη ἐστὶν"
+        },
+        {
+          "form": "ἑταίρα",
+          "lemma": "ἑταίρα",
+          "location": "603b",
+          "context": "προσομιλεῖ τε καὶ ἑταίρα καὶ φίλη ἐστὶν"
+        },
+        {
+          "form": "φίλη",
+          "lemma": "φίλος",
+          "location": "603b",
+          "context": "προσομιλεῖ τε καὶ ἑταίρα καὶ φίλη ἐστὶν"
+        }
+      ],
+      "observation": "Mimetic art's relation to the inferior part is described with three relational terms: associates with, companion, and friend."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "συγγιγνομένη",
+          "lemma": "συγγίγνομαι",
+          "location": "603b",
+          "context": "φαύλη ἄρα φαύλῳ συγγιγνομένη"
+        },
+        {
+          "form": "γεννᾷ",
+          "lemma": "γεννάω",
+          "location": "603b",
+          "context": "φαῦλα γεννᾷ ἡ μιμητική"
+        }
+      ],
+      "observation": "συγγιγνομένη describes the inferior mimetic art's association with the inferior part, and γεννᾷ names what results from this union."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὑγιεῖ",
+          "lemma": "ὑγιής",
+          "location": "603b",
+          "context": "ἐπʼ οὐδενὶ ὑγιεῖ οὐδʼ ἀληθεῖ"
+        }
+      ],
+      "observation": "ὑγιεῖ is paired with ἀληθεῖ as what mimetic association is grounded upon neither of."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "602e",
+          "context": "τοῦ λογιστικοῦ τοῦ ἐν ψυχῇ ἔργον"
+        },
+        {
+          "form": "ἔργον",
+          "lemma": "ἔργον",
+          "location": "603a",
+          "context": "τὸ αὑτῆς ἔργον ἀπεργάζεται"
+        }
+      ],
+      "observation": "ἔργον first names the work belonging to the calculating part of soul, then names the work mimetic art accomplishes."
+    }
+  ]
+}

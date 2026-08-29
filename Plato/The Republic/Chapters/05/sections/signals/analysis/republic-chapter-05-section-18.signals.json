@@ -1,0 +1,466 @@
+{
+  "section_id": "republic-chapter-05-section-18",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "τοῦ εἶναί τε καὶ μὴ εἶναι",
+          "lemma": "εἰμί",
+          "location": "478e",
+          "context": "τὸ ἀμφοτέρων μετέχον, τοῦ εἶναί τε καὶ μὴ εἶναι"
+        },
+        {
+          "form": "οὔτʼ εἶναι οὔτε μὴ εἶναι",
+          "lemma": "εἰμί",
+          "location": "479c",
+          "context": null
+        },
+        {
+          "form": "οὐσίας τε καὶ τοῦ μὴ εἶναι",
+          "lemma": null,
+          "location": "479c",
+          "context": "μεταξὺ οὐσίας τε καὶ τοῦ μὴ εἶναι"
+        }
+      ],
+      "observation": "The pairing of being and not-being recurs across the section in varied formulations: participation in both, neither stably, and a midpoint between οὐσία and μὴ εἶναι."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "478e",
+          "context": "τοῖς δὲ μεταξὺ τὰ μεταξὺ ἀποδιδόντες"
+        },
+        {
+          "form": "μεταξύ",
+          "lemma": "μεταξύ",
+          "location": "479c",
+          "context": "μεταξὺ οὐσίας τε καὶ τοῦ μὴ εἶναι"
+        },
+        {
+          "form": "μεταξύ",
+          "lemma": "μεταξύ",
+          "location": "479d",
+          "context": "μεταξύ που κυλινδεῖται"
+        },
+        {
+          "form": "μεταξὺ",
+          "lemma": "μεταξύ",
+          "location": "479d",
+          "context": "τῇ μεταξὺ δυνάμει τὸ μεταξὺ πλανητὸν"
+        }
+      ],
+      "observation": "μεταξύ recurs densely, applied to the objects assigned to δόξα, the capacity itself, and the position between being and not-being."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δοξαστὸν",
+          "lemma": "δοξαστός",
+          "location": "478e",
+          "context": null
+        },
+        {
+          "form": "δοξαστὸν",
+          "lemma": "δοξαστός",
+          "location": "479d",
+          "context": "δοξαστὸν αὐτὸ ἀλλʼ οὐ γνωστὸν"
+        },
+        {
+          "form": "γνωστὸν",
+          "lemma": "γνωστός",
+          "location": "479d",
+          "context": null
+        }
+      ],
+      "observation": "δοξαστόν appears first as the goal of the search at 478e, then returns at 479d explicitly contrasted with γνωστόν."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δοξάζειν",
+          "lemma": "δοξάζω",
+          "location": "479e",
+          "context": "δοξάζειν φήσομεν ἅπαντα, γιγνώσκειν δὲ ὧν δοξάζουσιν οὐδέν"
+        },
+        {
+          "form": "γιγνώσκειν",
+          "lemma": "γιγνώσκω",
+          "location": "479e",
+          "context": null
+        },
+        {
+          "form": "γιγνώσκειν",
+          "lemma": "γιγνώσκω",
+          "location": "479e",
+          "context": "ἆρʼ οὐ γιγνώσκειν ἀλλʼ οὐ δοξάζειν"
+        },
+        {
+          "form": "δοξάζειν",
+          "lemma": "δοξάζω",
+          "location": "479e",
+          "context": null
+        }
+      ],
+      "observation": "δοξάζειν and γιγνώσκειν are set in direct opposition twice in close succession at 479e, with their positions reversed between the two groups described."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θεωμένους",
+          "lemma": "θεάομαι",
+          "location": "479e",
+          "context": "πολλὰ καλὰ θεωμένους"
+        },
+        {
+          "form": "θεωμένους",
+          "lemma": "θεάομαι",
+          "location": "479e",
+          "context": "αὐτὰ ἕκαστα θεωμένους"
+        },
+        {
+          "form": "θεᾶσθαι",
+          "lemma": "θεάομαι",
+          "location": "480a",
+          "context": "τούτους φιλεῖν τε καὶ θεᾶσθαι"
+        }
+      ],
+      "observation": "θεάομαι is used for both groups—those viewing many beautifuls and those viewing each thing itself—then returns at 480a for the lovers of sights and sounds."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "φιλοδόξους",
+          "lemma": "φιλόδοξος",
+          "location": "480a",
+          "context": "φιλοδόξους καλοῦντες αὐτοὺς μᾶλλον ἢ φιλοσόφους"
+        },
+        {
+          "form": "φιλοσόφους",
+          "lemma": "φιλόσοφος",
+          "location": "480a",
+          "context": null
+        }
+      ],
+      "observation": "φιλόδοξος and φιλόσοφος are placed in direct contrast as rival designations at the section's close."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "καλά",
+          "lemma": "καλός",
+          "location": "479b",
+          "context": "καλά πως αὐτὰ καὶ αἰσχρὰ φανῆναι"
+        },
+        {
+          "form": "αἰσχρὰ",
+          "lemma": "αἰσχρός",
+          "location": "479b",
+          "context": null
+        },
+        {
+          "form": "δικαίων",
+          "lemma": "δίκαιος",
+          "location": "479a",
+          "context": "τῶν δικαίων, ὃ οὐκ ἄδικον"
+        },
+        {
+          "form": "ἄδικον",
+          "lemma": "ἄδικος",
+          "location": "479a",
+          "context": null
+        },
+        {
+          "form": "ὁσίων",
+          "lemma": "ὅσιος",
+          "location": "479a",
+          "context": "τῶν ὁσίων, ὃ οὐκ ἀνόσιον"
+        },
+        {
+          "form": "ἀνόσιον",
+          "lemma": "ἀνόσιος",
+          "location": "479a",
+          "context": null
+        }
+      ],
+      "observation": "Three value-pairs (καλόν/αἰσχρόν, δίκαιον/ἄδικον, ὅσιον/ἀνόσιον) are cited as cases where each many appears as its own opposite."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "διπλάσια",
+          "lemma": "διπλάσιος",
+          "location": "479b",
+          "context": "τὰ πολλὰ διπλάσια"
+        },
+        {
+          "form": "ἡμίσεα",
+          "lemma": "ἥμισυς",
+          "location": "479b",
+          "context": "ἧττόν τι ἡμίσεα ἢ διπλάσια"
+        },
+        {
+          "form": "μεγάλα",
+          "lemma": "μέγας",
+          "location": "479b",
+          "context": null
+        },
+        {
+          "form": "σμικρὰ",
+          "lemma": "σμικρός",
+          "location": "479b",
+          "context": null
+        },
+        {
+          "form": "κοῦφα",
+          "lemma": "κοῦφος",
+          "location": "479b",
+          "context": null
+        },
+        {
+          "form": "βαρέα",
+          "lemma": "βαρύς",
+          "location": "479b",
+          "context": null
+        }
+      ],
+      "observation": "A cluster of relative-quantity and relative-quality opposites (double/half, great/small, light/heavy) extends the argument from value-terms to quantitative predicates."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπαμφοτερίζουσιν",
+          "lemma": "ἐπαμφοτερίζω",
+          "location": "479b",
+          "context": "τοῖς ἐν ταῖς ἑστιάσεσιν ἐπαμφοτερίζουσιν"
+        },
+        {
+          "form": "ἐπαμφοτερίζειν",
+          "lemma": "ἐπαμφοτερίζω",
+          "location": "479c",
+          "context": "καὶ γὰρ ταῦτα ἐπαμφοτερίζειν"
+        }
+      ],
+      "observation": "ἐπαμφοτερίζω appears twice, first for the riddling double-meanings at feasts and then applied to the many beautifuls themselves."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εὐνούχου",
+          "lemma": "εὐνοῦχος",
+          "location": "479c",
+          "context": null
+        },
+        {
+          "form": "νυκτερίδος",
+          "lemma": "νυκτερίς",
+          "location": "479c",
+          "context": "τῆς βολῆς πέρι τῆς νυκτερίδος"
+        }
+      ],
+      "observation": "The riddle of the eunuch and the bat is introduced as an analogy for things that cannot be stably conceived as either being or not-being."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σκοτωδέστερα",
+          "lemma": "σκοτώδης",
+          "location": "479c",
+          "context": "σκοτωδέστερα μὴ ὄντος"
+        },
+        {
+          "form": "φανότερα",
+          "lemma": "φανός",
+          "location": "479d",
+          "context": "φανότερα ὄντος"
+        }
+      ],
+      "observation": "σκοτωδέστερα and φανότερα are set as the limits between which the many beautifuls fall—darker than not-being and brighter than being are both denied."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κυλινδεῖται",
+          "lemma": "κυλινδέω",
+          "location": "479d",
+          "context": "μεταξύ που κυλινδεῖται τοῦ τε μὴ ὄντος καὶ τοῦ ὄντος"
+        },
+        {
+          "form": "πλανητὸν",
+          "lemma": "πλανητός",
+          "location": "479d",
+          "context": "τὸ μεταξὺ πλανητὸν ἁλισκόμενον"
+        }
+      ],
+      "observation": "κυλινδεῖται and πλανητόν characterize the many conventionals with images of rolling and wandering between being and not-being."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀσπάζεσθαι",
+          "lemma": "ἀσπάζομαι",
+          "location": "479e",
+          "context": "ἀσπάζεσθαί τε καὶ φιλεῖν"
+        },
+        {
+          "form": "ἀσπαζομένους",
+          "lemma": "ἀσπάζομαι",
+          "location": "480a",
+          "context": "αὐτὸ ἄρα ἕκαστον τὸ ὂν ἀσπαζομένους"
+        }
+      ],
+      "observation": "ἀσπάζομαι first appears alongside φιλεῖν for those who welcome objects of knowledge, then returns at 480a applied specifically to those who welcome each being itself."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φιλοθεάμων",
+          "lemma": "φιλοθεάμων",
+          "location": "479a",
+          "context": "ἐκεῖνος ὁ φιλοθεάμων"
+        },
+        {
+          "form": "φιλεῖν",
+          "lemma": "φιλέω",
+          "location": "480a",
+          "context": "τούτους φιλεῖν τε καὶ θεᾶσθαι"
+        },
+        {
+          "form": "φιλοδόξους",
+          "lemma": "φιλόδοξος",
+          "location": "480a",
+          "context": null
+        },
+        {
+          "form": "φιλοσόφους",
+          "lemma": "φιλόσοφος",
+          "location": "480a",
+          "context": null
+        }
+      ],
+      "observation": "The φιλ- prefix recurs across the section: the interlocutor is first called φιλοθεάμων, then φιλεῖν describes his attachment, and finally the naming contest φιλόδοξος vs. φιλόσοφος resolves the characterization."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "λείποιτʼ ἂν ἡμῖν εὑρεῖν",
+          "lemma": null,
+          "location": "478e",
+          "context": null
+        },
+        {
+          "form": "ηὑρήκαμεν",
+          "lemma": "εὑρίσκω",
+          "location": "479d",
+          "context": "ηὑρήκαμεν ἄρα, ὡς ἔοικεν"
+        }
+      ],
+      "observation": "εὑρεῖν is proposed as what remains to be found at 478e; ηὑρήκαμεν at 479d declares the finding accomplished."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἰλικρινὲς",
+          "lemma": "εἰλικρινής",
+          "location": "478e",
+          "context": "οὐδέτερον εἰλικρινὲς"
+        },
+        {
+          "form": "εἰλικρινῶς",
+          "lemma": "εἰλικρινής",
+          "location": "479d",
+          "context": "τοῦ ὄντος εἰλικρινῶς"
+        }
+      ],
+      "observation": "εἰλικρινής appears at 478e denying purity to the intermediate object and returns at 479d denying it pure being."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χαλεπανοῦσιν",
+          "lemma": "χαλεπαίνω",
+          "location": "480a",
+          "context": "σφόδρα χαλεπανοῦσιν ἂν οὕτω λέγωμεν"
+        },
+        {
+          "form": "χαλεπαίνειν",
+          "lemma": "χαλεπαίνω",
+          "location": "480a",
+          "context": "τῷ γὰρ ἀληθεῖ χαλεπαίνειν οὐ θέμις"
+        }
+      ],
+      "observation": "χαλεπαίνω appears twice in immediate succession: first as the anticipated anger of the opinion-lovers, then denied as lawful (θέμις) when directed at truth."
+    }
+  ]
+}

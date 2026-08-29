@@ -1,0 +1,405 @@
+{
+  "section_id": "republic-chapter-05-section-05",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κοινάς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "πάσας εἶναι κοινάς"
+        },
+        {
+          "form": "κοινούς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "τοὺς παῖδας αὖ κοινούς"
+        },
+        {
+          "form": "κοινὰς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "κοινὰς μὲν τὰς γυναῖκας εἶναι"
+        },
+        {
+          "form": "κοινοὺς",
+          "lemma": "κοινός",
+          "location": "457d",
+          "context": "κοινοὺς δὲ τοὺς παῖδας"
+        },
+        {
+          "form": "κοινὰ",
+          "lemma": "κοινός",
+          "location": "458c",
+          "context": "οἰκίας τε καὶ συσσίτια κοινὰ ἔχοντες"
+        }
+      ],
+      "observation": "κοινός recurs five times, applied successively to women, children, and then dwellings and meals, expanding the scope of what is held in common."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀμφισβητεῖσθαι",
+          "lemma": "ἀμφισβητέω",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "ἀμφισβήτησιν",
+          "lemma": "ἀμφισβητέω",
+          "location": "457d",
+          "context": null
+        },
+        {
+          "form": "ἀμφισβητηθείη",
+          "lemma": "ἀμφισβητέω",
+          "location": "457e",
+          "context": null
+        }
+      ],
+      "observation": "Three forms of ἀμφισβητέω appear in close succession as Socrates and Glaucon contest which aspects of the proposal will be disputed."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "δυνατοῦ",
+          "lemma": "δυνατός",
+          "location": "457d",
+          "context": "τοῦ δυνατοῦ πέρι"
+        },
+        {
+          "form": "δυνατὸν",
+          "lemma": "δυνατός",
+          "location": "457d",
+          "context": "εἰ δυνατὸν ἢ μή"
+        },
+        {
+          "form": "δυνατοῦ",
+          "lemma": "δυνατός",
+          "location": "458a",
+          "context": "περὶ τοῦ δυνατοῦ καὶ μή"
+        },
+        {
+          "form": "δυνατῶν",
+          "lemma": "δυνατός",
+          "location": "458b",
+          "context": "ὡς δυνατῶν ὄντων θείς"
+        },
+        {
+          "form": "δυνατά",
+          "lemma": "δυνατός",
+          "location": "458b",
+          "context": "ᾗ δυνατά"
+        }
+      ],
+      "observation": "δυνατός recurs across the negotiation; Socrates first isolates it as the remaining question, then proposes to defer it by assuming possibility, and the term returns when he promises later examination."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ὠφελίμου",
+          "lemma": "ὠφέλιμος",
+          "location": "457d",
+          "context": "τοῦ ὠφελίμου"
+        },
+        {
+          "form": "ὠφέλιμον",
+          "lemma": "ὠφέλιμος",
+          "location": "457e",
+          "context": "εἴ σοι δόξειεν ὠφέλιμον εἶναι"
+        },
+        {
+          "form": "ὠφελιμώτατοι",
+          "lemma": "ὠφέλιμος",
+          "location": "458e",
+          "context": "οἱ ὠφελιμώτατοι"
+        }
+      ],
+      "observation": "ὠφέλιμος appears first in the contested pair (beneficial/possible), then in Socrates' hope to escape one horn, and finally in superlative form applied to sacred marriages at the section's close."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "ἀποδράσεσθαι",
+          "lemma": "ἀποδιδράσκω",
+          "location": "457e",
+          "context": "ἔκ γε τοῦ ἑτέρου ἀποδράσεσθαι"
+        },
+        {
+          "form": "ἀποδιδράσκων",
+          "lemma": "ἀποδιδράσκω",
+          "location": "457e",
+          "context": "οὐκ ἔλαθες ἀποδιδράσκων"
+        }
+      ],
+      "observation": "Socrates says he hoped to escape (ἀποδράσεσθαι) one argument; Glaucon immediately catches him with the present participle ἀποδιδράσκων."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἑορτάσαι",
+          "lemma": "ἑορτάζω",
+          "location": "458a",
+          "context": "ἔασόν με ἑορτάσαι"
+        },
+        {
+          "form": "ἑστιᾶσθαι",
+          "lemma": "ἑστιάω",
+          "location": "458a",
+          "context": "εἰώθασιν ἑστιᾶσθαι ὑφʼ ἑαυτῶν"
+        }
+      ],
+      "observation": "Socrates asks to 'feast' (ἑορτάσαι) and compares idle thinkers who 'entertain themselves' (ἑστιᾶσθαι), clustering festive/banquet language around the deferral of the feasibility question."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "lemma_recurrence",
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἀργοὶ",
+          "lemma": "ἀργός",
+          "location": "458a",
+          "context": "οἱ ἀργοὶ τὴν διάνοιαν"
+        },
+        {
+          "form": "ἀργὸν",
+          "lemma": "ἀργός",
+          "location": "458a",
+          "context": "ἀργὸν καὶ ἄλλως ψυχήν"
+        },
+        {
+          "form": "ἀργοτέραν",
+          "lemma": "ἀργός",
+          "location": "458b",
+          "context": "ἔτι ἀργοτέραν ποιοῦντες"
+        }
+      ],
+      "observation": "ἀργός intensifies across three forms: the idle (ἀργοί) make an already idle soul (ἀργόν) still idler (ἀργοτέραν)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μεῖξιν",
+          "lemma": "μεῖξις",
+          "location": "458d",
+          "context": "πρὸς τὴν ἀλλήλων μεῖξιν"
+        },
+        {
+          "form": "μείγνυσθαι",
+          "lemma": "μείγνυμι",
+          "location": "458d",
+          "context": "ἀτάκτως μὲν μείγνυσθαι ἀλλήλοις"
+        }
+      ],
+      "observation": "μεῖξις and μείγνυσθαι appear in sequence: the first names the natural drive toward mixing, the second immediately qualifies that disorderly mixing is impermissible."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "γεωμετρικαῖς",
+          "lemma": "γεωμετρικός",
+          "location": "458d",
+          "context": "οὐ γεωμετρικαῖς γε"
+        },
+        {
+          "form": "ἐρωτικαῖς",
+          "lemma": "ἐρωτικός",
+          "location": "458d",
+          "context": "ἀλλʼ ἐρωτικαῖς ἀνάγκαις"
+        }
+      ],
+      "observation": "Glaucon contrasts geometric necessities with erotic necessities, distinguishing two kinds of ἀνάγκη."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιταττόμενα",
+          "lemma": "ἐπιτάττω",
+          "location": "458c",
+          "context": "ποιεῖν τὰ ἐπιταττόμενα"
+        },
+        {
+          "form": "ἐπιτάξειν",
+          "lemma": "ἐπιτάττω",
+          "location": "458c",
+          "context": "τοὺς δὲ ἐπιτάξειν"
+        }
+      ],
+      "observation": "ἐπιτάττω appears in passive and active: auxiliaries willing to do what is commanded, rulers willing to command."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἰδίᾳ",
+          "lemma": "ἴδιος",
+          "location": "457d",
+          "context": "ἰδίᾳ δὲ μηδενὶ μηδεμίαν συνοικεῖν"
+        },
+        {
+          "form": "ἰδίᾳ",
+          "lemma": "ἴδιος",
+          "location": "458c",
+          "context": "ἰδίᾳ δὲ οὐδενὸς οὐδὲν τοιοῦτον κεκτημένου"
+        }
+      ],
+      "observation": "ἰδίᾳ recurs in both statements of the communal arrangement, each time negated: no private cohabitation, no private possession."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἱεροὺς",
+          "lemma": "ἱερός",
+          "location": "458e",
+          "context": "γάμους ποιήσομεν ἱερούς"
+        },
+        {
+          "form": "ἱεροὶ",
+          "lemma": "ἱερός",
+          "location": "458e",
+          "context": "εἶεν δʼ ἂν ἱεροὶ οἱ ὠφελιμώτατοι"
+        }
+      ],
+      "observation": "ἱερός appears twice in immediate succession: marriages are to be made sacred, and the most beneficial ones would be the sacred ones, equating sanctity with benefit."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "457d",
+          "context": "μήτε γονέα ἔκγονον εἰδέναι τὸν αὑτοῦ μήτε παῖδα γονέα"
+        }
+      ],
+      "observation": "The proposal specifies mutual unknowing: neither parent to know offspring nor child to know parent, a reciprocal epistemic negation."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀτάκτως",
+          "lemma": "ἀτάκτως",
+          "location": "458d",
+          "context": "ἀτάκτως μὲν μείγνυσθαι"
+        },
+        {
+          "form": "διατάξουσιν",
+          "lemma": "διατάττω",
+          "location": "458b",
+          "context": "πῶς διατάξουσιν αὐτὰ οἱ ἄρχοντες"
+        },
+        {
+          "form": "διατάττουσιν",
+          "lemma": "διατάττω",
+          "location": "458a",
+          "context": "τὰ λοιπὰ διατάττουσιν"
+        }
+      ],
+      "observation": "The τάττω family appears in both positive (διατάττω, arranging) and negative (ἀτάκτως, without order) forms, contrasting ordered regulation with disorderly mixing."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παριῇς",
+          "lemma": "παρίημι",
+          "location": "458b",
+          "context": "ἄν μοι παριῇς"
+        },
+        {
+          "form": "παριεῖς",
+          "lemma": "παρίημι",
+          "location": "458b",
+          "context": "εἴπερ παριεῖς"
+        },
+        {
+          "form": "παρίημι",
+          "lemma": "παρίημι",
+          "location": "458b",
+          "context": "ἀλλὰ παρίημι"
+        }
+      ],
+      "observation": "παρίημι appears three times in rapid exchange: Socrates asks twice to be allowed to defer, and Glaucon grants permission with the same verb."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὅσιον",
+          "lemma": "ὅσιος",
+          "location": "458e",
+          "context": "οὔτε ὅσιον ἐν εὐδαιμόνων πόλει"
+        },
+        {
+          "form": "δίκαιον",
+          "lemma": "δίκαιος",
+          "location": "458e",
+          "context": "οὐ γὰρ δίκαιον"
+        }
+      ],
+      "observation": "Socrates calls disordered mixing not ὅσιον; Glaucon affirms it is not δίκαιον—two distinct normative terms applied in immediate sequence."
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "section_id": "republic-chapter-10-section-02",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "μιμηταῖς",
+          "lemma": "μιμητής",
+          "location": "598e",
+          "context": "πότερον μιμηταῖς τούτοις οὗτοι ἐντυχόντες ἐξηπάτηνται"
+        },
+        {
+          "form": "μιμητὴν",
+          "lemma": "μιμητής",
+          "location": "599d",
+          "context": "εἰδώλου δημιουργός, ὃν δὴ μιμητὴν ὡρισάμεθα"
+        },
+        {
+          "form": "μιμητὰς",
+          "lemma": "μιμητής",
+          "location": "600e",
+          "context": "πάντας τοὺς ποιητικοὺς μιμητὰς εἰδώλων ἀρετῆς εἶνααι"
+        },
+        {
+          "form": "μιμητής",
+          "lemma": "μιμητής",
+          "location": "601b",
+          "context": "ὁ τοῦ εἰδώλου ποιητής, ὁ μιμητής"
+        },
+        {
+          "form": "μιμητὴς",
+          "lemma": "μιμητής",
+          "location": "602a",
+          "context": "ὁ δὲ μιμητὴς πότερον"
+        },
+        {
+          "form": "μιμητὴς",
+          "lemma": "μιμητής",
+          "location": "602a",
+          "context": "οὔτε ἄρα εἴσεται οὔτε ὀρθὰ δοξάσει ὁ μιμητὴς"
+        },
+        {
+          "form": "μιμητικὸς",
+          "lemma": "μιμητικός",
+          "location": "602a",
+          "context": "χαρίεις ἂν εἴη ὁ ἐν τῇ ποιήσει μιμητικὸς"
+        },
+        {
+          "form": "μιμητικὸν",
+          "lemma": "μιμητικός",
+          "location": "602b",
+          "context": "τόν τε μιμητικὸν μηδὲν εἰδέναι"
+        },
+        {
+          "form": "μιμητικοὺς",
+          "lemma": "μιμητικός",
+          "location": "602b",
+          "context": "πάντας εἶναι μιμητικοὺς ὡς οἷόν τε μάλιστα"
+        }
+      ],
+      "observation": "Forms of μιμητής and μιμητικός recur throughout the section, naming the imitator first as one who may have deceived listeners, then as the definition Homer has been placed under, then as the general category for all poets, and finally as the subject of accumulated negative conclusions about knowledge."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "exact_repetition",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "εἴδωλον",
+          "lemma": "εἴδωλον",
+          "location": "599a",
+          "context": "τό τε μιμηθησόμενον καὶ τὸ εἴδωλον"
+        },
+        {
+          "form": "εἰδώλων",
+          "lemma": "εἴδωλον",
+          "location": "599a",
+          "context": "ἐπὶ τῇ τῶν εἰδώλων δημιουργίᾳ"
+        },
+        {
+          "form": "εἰδώλων",
+          "lemma": "εἴδωλον",
+          "location": "599d",
+          "context": "εἰδώλου δημιουργός"
+        },
+        {
+          "form": "εἰδώλων",
+          "lemma": "εἴδωλον",
+          "location": "600e",
+          "context": "μιμητὰς εἰδώλων ἀρετῆς εἶναι"
+        },
+        {
+          "form": "εἰδώλου",
+          "lemma": "εἴδωλον",
+          "location": "601b",
+          "context": "ὁ τοῦ εἰδώλου ποιητής"
+        }
+      ],
+      "observation": "εἴδωλον recurs in nominative, genitive, and accusative forms, naming what the imitator produces and is contrasted with τὸ μιμηθησόμενον and with ἀρετή."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "exact_repetition",
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τριττὰ ἀπέχοντα τοῦ ὄντος",
+          "lemma": null,
+          "location": "599a",
+          "context": "οὐκ αἰσθάνονται τριττὰ ἀπέχοντα τοῦ ὄντος"
+        },
+        {
+          "form": "τρίτος ἀπὸ τῆς ἀληθείας",
+          "lemma": null,
+          "location": "599d",
+          "context": "εἴπερ μὴ τρίτος ἀπὸ τῆς ἀληθείας εἶ ἀρετῆς πέρι"
+        },
+        {
+          "form": "δεύτερος",
+          "lemma": "δεύτερος",
+          "location": "599d",
+          "context": "ἀλλὰ καὶ δεύτερος"
+        }
+      ],
+      "observation": "A spatial-numerical sequence is articulated: works of imitators are said to be three removes from τὸ ὄν, Homer is addressed as third from ἀλήθεια in relation to ἀρετή unless he is second, establishing a ranked distance from reality and truth."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐπίστανται",
+          "lemma": "ἐπίσταμαι",
+          "location": "598e",
+          "context": "οὗτοι πάσας μὲν τέχνας ἐπίστανται"
+        },
+        {
+          "form": "ἐπιστήμων",
+          "lemma": "ἐπιστήμων",
+          "location": "599b",
+          "context": "ἀλλʼ εἴπερ γε οἶμαι ἐπιστήμων εἴη τῇ ἀληθείᾳ"
+        },
+        {
+          "form": "ἐπιστατήσωσιν",
+          "lemma": "ἐφίστημι",
+          "location": "600d",
+          "context": "ἐὰν μὴ σφεῖς αὐτῶν ἐπιστατήσωσιν τῆς παιδείας"
+        },
+        {
+          "form": "ἐπίσταται",
+          "lemma": "ἐπίσταμαι",
+          "location": "601c",
+          "context": "ἐκεῖνος ὅσπερ τούτοις ἐπίσταται χρῆσθαι"
+        },
+        {
+          "form": "ἐπιστήμην",
+          "lemma": "ἐπιστήμη",
+          "location": "602a",
+          "context": "ὁ δὲ χρώμενος ἐπιστήμην"
+        },
+        {
+          "form": "ἐπιστήμην",
+          "lemma": "ἐπιστήμη",
+          "location": "602a",
+          "context": "ὁ δὲ μιμητὴς πότερον ἐκ τοῦ χρῆσθαι ἐπιστήμην ἕξει"
+        }
+      ],
+      "observation": "Forms of ἐπίσταμαι and ἐπιστήμη recur, first attributed to what some say the poets possess, then questioned regarding Homer, then assigned to the user of an object in the three-craft model, and finally denied to the imitator."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "εἰδότα",
+          "lemma": "οἶδα",
+          "location": "598e",
+          "context": "εἰδότα ἄρα ποιεῖν"
+        },
+        {
+          "form": "εἰδότι",
+          "lemma": "οἶδα",
+          "location": "599a",
+          "context": "μὴ εἰδότι τὴν ἀλήθειαν"
+        },
+        {
+          "form": "εἰδόσιν",
+          "lemma": "οἶδα",
+          "location": "602b",
+          "context": "τοῖς πολλοῖς τε καὶ μηδὲν εἰδόσιν"
+        },
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "602b",
+          "context": "τόν τε μιμητικὸν μηδὲν εἰδέναι"
+        },
+        {
+          "form": "εἰδὼς",
+          "lemma": "οἶδα",
+          "location": "602b",
+          "context": "ὅμως γε μιμήσεται, οὐκ εἰδὼς"
+        }
+      ],
+      "observation": "Forms of οἶδα recur, first attached to the requirement that a good poet must know, then to the user and maker in the three-craft model, and finally denied to the imitator who produces for those who do not know."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "τέχνας",
+          "lemma": "τέχνη",
+          "location": "598e",
+          "context": "πάσας μὲν τέχνας ἐπίστανται"
+        },
+        {
+          "form": "τεχνῶν",
+          "lemma": "τέχνη",
+          "location": "601a",
+          "context": "χρώματα ἄττα ἑκάστων τῶν τεχνῶν"
+        },
+        {
+          "form": "τέχνας",
+          "lemma": "τέχνη",
+          "location": "600a",
+          "context": "εἰς τέχνας ἤ τινας ἄλλας πράξεις"
+        },
+        {
+          "form": "τέχνας",
+          "lemma": "τέχνη",
+          "location": "601d",
+          "context": "περὶ ἕκαστον ταύτας τινὰς τρεῖς τέχνας εἶναι"
+        }
+      ],
+      "observation": "τέχνη recurs, first as what poets are claimed to know all of, then as what the poet colors with words, then in the model of three crafts for each thing."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "exact_repetition",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χρησομένην, ποιήσουσαν, μιμησομένην",
+          "lemma": null,
+          "location": "601d",
+          "context": "περὶ ἕκαστον ταύτας τινὰς τρεῖς τέχνας εἶναι, χρησομένην, ποιήσουσαν, μιμησομένην"
+        }
+      ],
+      "observation": "Three future participles in the feminine accusative singular are set in sequence to name three crafts: the one that will use, the one that will make, and the one that will imitate."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "χρῆσθαι",
+          "lemma": "χράομαι",
+          "location": "601c",
+          "context": "ἐκεῖνος ὅσπερ τούτοις ἐπίσταται χρῆσθαι"
+        },
+        {
+          "form": "χρώμενον",
+          "lemma": "χράομαι",
+          "location": "601d",
+          "context": "τὸν χρώμενον ἑκάστῳ"
+        },
+        {
+          "form": "χρῆται",
+          "lemma": "χράομαι",
+          "location": "601d",
+          "context": "ἐν τῇ χρείᾳ ᾧ χρῆται"
+        },
+        {
+          "form": "χρώμενος",
+          "lemma": "χράομαι",
+          "location": "602a",
+          "context": "ὁ δὲ χρώμενος ἐπιστήμην"
+        },
+        {
+          "form": "χρῆσθαι",
+          "lemma": "χράομαι",
+          "location": "602a",
+          "context": "ἐκ τοῦ χρῆσθαι ἐπιστήμην ἕξει"
+        }
+      ],
+      "observation": "Forms of χράομαι recur in the articulation of the three-craft model, repeatedly naming the user as the one who has knowledge and instructs the maker."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ποιητὴν",
+          "lemma": "ποιητής",
+          "location": "598e",
+          "context": "τὸν ἀγαθὸν ποιητήν"
+        },
+        {
+          "form": "ποιηταὶ",
+          "lemma": "ποιητής",
+          "location": "599a",
+          "context": "οἱ ἀγαθοὶ ποιηταὶ ἴσασιν"
+        },
+        {
+          "form": "ποιητής",
+          "lemma": "ποιητής",
+          "location": "599c",
+          "context": "τίνας ὑγιεῖς ποιητής τις τῶν παλαιῶν ἢ τῶν νέων"
+        },
+        {
+          "form": "ποιητής",
+          "lemma": "ποιητής",
+          "location": "601b",
+          "context": "ὁ τοῦ εἰδώλου ποιητής"
+        },
+        {
+          "form": "ποιητὴς",
+          "lemma": "ποιητής",
+          "location": "601e",
+          "context": "τοῦ αὐτοῦ ἄρα σκεύους ὁ μὲν ποιητὴς πίστιν ὀρθὴν ἕξει"
+        }
+      ],
+      "observation": "ποιητής recurs in different contexts: first as the good poet who must know, then as poets in general, then as the image-maker, and finally as the maker in the three-craft model who has correct belief but not knowledge."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "location": "599a",
+          "context": "μὴ εἰδότι τὴν ἀλήθειαν"
+        },
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "599d",
+          "context": "τρίτος ἀπὸ τῆς ἀληθείας"
+        },
+        {
+          "form": "ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "location": "599b",
+          "context": "ἐπιστήμων εἴη τῇ ἀληθείᾳ"
+        },
+        {
+          "form": "ἀληθείας",
+          "lemma": "ἀλήθεια",
+          "location": "600e",
+          "context": "τῆς δὲ ἀληθείας οὐχ ἅπτεσθαι"
+        }
+      ],
+      "observation": "ἀλήθεια recurs as what the imitator does not know, what Homer is third from, what one must be knowledgeable in, and finally what the poets do not touch."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἅπτεσθαι",
+          "lemma": "ἅπτω",
+          "location": "600e",
+          "context": "τῆς δὲ ἀληθείας οὐχ ἅπτεσθαι"
+        },
+        {
+          "form": "ἁπτομένους",
+          "lemma": "ἅπτω",
+          "location": "602b",
+          "context": "τούς τε τῆς τραγικῆς ποιήσεως ἁπτομένους"
+        }
+      ],
+      "observation": "ἅπτω appears first negated with ἀλήθεια as the object poets do not touch, and returns with τραγική ποίησις as the object tragic poets do touch."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "599d",
+          "context": "καὶ παιδείας πέρι ἀνθρώπου"
+        },
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "600a",
+          "context": "ἰδίᾳ τισὶν ἡγεμὼν παιδείας αὐτὸς ζῶν λέγεται Ὅμηρος γενέσθαι"
+        },
+        {
+          "form": "παιδείαν",
+          "lemma": "παιδεία",
+          "location": "600b",
+          "context": "ὁ Κρεώφυλος...τοῦ ὀνόματος ἂν γελοιότερος ἔτι πρὸς παιδείαν φανείη"
+        },
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "600d",
+          "context": "σφεῖς αὐτῶν ἐπιστατήσωσιν τῆς παιδείας"
+        },
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "600e",
+          "context": "ἕως ἱκανῶς παιδείας μεταλάβοιεν"
+        }
+      ],
+      "observation": "παιδεία recurs in questions about whether Homer was a leader in education, whether his companion would be laughable regarding it, and whether the sophists claim supervision of it is necessary."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "φαντάσματα γὰρ ἀλλʼ οὐκ ὄντα ποιοῦσιν",
+          "lemma": null,
+          "location": "599a",
+          "context": "φαντάσματα γὰρ ἀλλʼ οὐκ ὄντα ποιοῦσιν"
+        }
+      ],
+      "observation": "imitators are said to make φαντάσματα but not ὄντα, contrasting appearances with beings."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἔργα",
+          "lemma": "ἔργον",
+          "location": "598e",
+          "context": "τὰ ἔργα αὐτῶν ὁρῶντες"
+        },
+        {
+          "form": "ἔργοις",
+          "lemma": "ἔργον",
+          "location": "599b",
+          "context": "πολὺ πρότερον ἐν τοῖς ἔργοις ἂν σπουδάσειεν"
+        },
+        {
+          "form": "μιμήμασι",
+          "lemma": "μίμημα",
+          "location": "599b",
+          "context": "ἢ ἐπὶ τοῖς μιμήμασι"
+        },
+        {
+          "form": "ἔργα",
+          "lemma": "ἔργον",
+          "location": "599b",
+          "context": "πολλὰ καὶ καλὰ ἔργα ἑαυτοῦ καταλιπεῖν μνημεῖα"
+        }
+      ],
+      "observation": "ἔργα is contrasted with μιμήματα: if one truly knew, one would care more for works than for imitations, and would leave many beautiful works as memorials."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐγκωμιαζόμενος",
+          "lemma": "ἐγκωμιάζω",
+          "location": "599b",
+          "context": "εἶναι προθυμοῖτʼ ἂν μᾶλλον ὁ ἐγκωμιαζόμενος"
+        },
+        {
+          "form": "ἐγκωμιάζων",
+          "lemma": "ἐγκωμιάζω",
+          "location": "599b",
+          "context": "ἢ ὁ ἐγκωμιάζων"
+        }
+      ],
+      "observation": "Participles of ἐγκωμιάζω are set in contrast: one would rather be the one praised than the one praising."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "exact_repetition",
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἐπισκεπτέον",
+          "lemma": "ἐπισκέπτομαι",
+          "location": "598d",
+          "context": "μετὰ τοῦτο ἐπισκεπτέον τήν τε τραγῳδίαν καὶ τὸν ἡγεμόνα αὐτῆς Ὅμηρον"
+        },
+        {
+          "form": "ἐπισκέψασθαι",
+          "lemma": "ἐπισκέπτομαι",
+          "location": "598e",
+          "context": "δεῖ δὴ ἐπισκέψασθαι πότερον"
+        },
+        {
+          "form": "ἐξεταστέον",
+          "lemma": "ἐξετάζω",
+          "location": "599a",
+          "context": "πάνυ μὲν οὖν, ἔφη, ἐξεταστέον"
+        }
+      ],
+      "observation": "The opening states that tragedy and Homer must be examined; this is then reformulated as a question that must be investigated, and Glaucon affirms that it must be examined."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "Λυκοῦργον",
+          "lemma": "Λυκοῦργος",
+          "location": "599d",
+          "context": "ὥσπερ διὰ Λυκοῦργον Λακεδαίμων"
+        },
+        {
+          "form": "Χαρώνδαν",
+          "lemma": "Χαρώνδας",
+          "location": "599e",
+          "context": "Χαρώνδαν μὲν γὰρ Ἰταλία καὶ Σικελία"
+        },
+        {
+          "form": "Σόλωνα",
+          "lemma": "Σόλων",
+          "location": "599e",
+          "context": "καὶ ἡμεῖς Σόλωνα"
+        }
+      ],
+      "observation": "Three lawgivers are named—Lycurgus, Charondas, and Solon—each associated with cities or regions they benefited, establishing a pattern Homer is asked to match but cannot."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "Θάλεώ τε πέρι τοῦ Μιλησίου",
+          "lemma": "Θαλῆς",
+          "location": "600a",
+          "context": "ὥσπερ αὖ Θάλεώ τε πέρι τοῦ Μιλησίου"
+        },
+        {
+          "form": "Ἀναχάρσιος τοῦ Σκύθου",
+          "lemma": "Ἀνάχαρσις",
+          "location": "600a",
+          "context": "καὶ Ἀναχάρσιος τοῦ Σκύθου"
+        }
+      ],
+      "observation": "Thales and Anacharsis are named as examples of wise men whose practical inventions are remembered, a pattern Homer again fails to match."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_correspondence",
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "Πυθαγόρας",
+          "lemma": "Πυθαγόρας",
+          "location": "600b",
+          "context": "ὥσπερ Πυθαγόρας αὐτός τε διαφερόντως ἐπὶ τούτῳ ἠγαπήθη"
+        },
+        {
+          "form": "Πυθαγόρειον τρόπον",
+          "lemma": null,
+          "location": "600b",
+          "context": "καὶ οἱ ὕστεροι ἔτι καὶ νῦν Πυθαγόρειον τρόπον ἐπονομάζοντες τοῦ βίου"
+        }
+      ],
+      "observation": "Pythagoras is named and his followers are described as still naming their way of life Pythagorean, providing a model of a teacher whose influence persisted through a named way of life."
+    },
+    {
+      "signal_id": "s020",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "Κρεώφυλος",
+          "lemma": "Κρεώφυλος",
+          "location": "600b",
+          "context": "ὁ γὰρ Κρεώφυλος, ὦ Σώκρατες, ὁ τοῦ Ὁμήρου ἑταῖρος"
+        }
+      ],
+      "observation": "Creophylus is named as Homer's companion and said to be even more laughable than his name regarding education, with the report that much neglect surrounded Homer while he lived."
+    },
+    {
+      "signal_id": "s021",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "Πρωταγόρας",
+          "lemma": "Πρωταγόρας",
+          "location": "600c",
+          "context": "Πρωταγόρας μὲν ἄρα ὁ Ἀβδηρίτης"
+        },
+        {
+          "form": "Πρόδικος",
+          "lemma": "Πρόδικος",
+          "location": "600c",
+          "context": "καὶ Πρόδικος ὁ Κεῖος"
+        }
+      ],
+      "observation": "Protagoras and Prodicus are named as sophists who convince people in private conversation that they cannot manage house or city without their supervision."
+    },
+    {
+      "signal_id": "s022",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἠγαπήθη",
+          "lemma": "ἀγαπάω",
+          "location": "600b",
+          "context": "Πυθαγόρας αὐτός τε διαφερόντως ἐπὶ τούτῳ ἠγαπήθη"
+        },
+        {
+          "form": "ἠγάπων",
+          "lemma": "ἀγαπάω",
+          "location": "600a",
+          "context": "οἳ ἐκεῖνον ἠγάπων ἐπὶ συνουσίᾳ"
+        },
+        {
+          "form": "ἠγαπᾶτο",
+          "lemma": "ἀγαπάω",
+          "location": "600c",
+          "context": "καὶ ἐτιμᾶτο καὶ ἠγαπᾶτο ὑπʼ αὐτῶν"
+        }
+      ],
+      "observation": "Forms of ἀγαπάω recur in describing how Pythagoras was loved for his teaching, how his followers loved him for association, and in the counterfactual question about whether Homer would have been loved if he could truly educate."
+    },
+    {
+      "signal_id": "s023",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ῥαψῳδεῖν",
+          "lemma": "ῥαψῳδέω",
+          "location": "600d",
+          "context": "Ὅμηρον...ἢ Ἡσίοδον ῥαψῳδεῖν ἂν περιιόντας εἴων"
+        }
+      ],
+      "observation": "The activity of going around rhapsodizing is mentioned as what people would have allowed Homer and Hesiod to do if they could not truly benefit people toward virtue."
+    },
+    {
+      "signal_id": "s024",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκυτοτόμον",
+          "lemma": "σκυτοτόμος",
+          "location": "600e",
+          "context": "ὁ ζωγράφος σκυτοτόμον ποιήσει"
+        },
+        {
+          "form": "σκυτοτομίας",
+          "lemma": "σκυτοτομία",
+          "location": "601a",
+          "context": "αὐτός τε οὐκ ἐπαΐων περὶ σκυτοτομίας"
+        },
+        {
+          "form": "σκυτοτομίας",
+          "lemma": "σκυτοτομία",
+          "location": "601a",
+          "context": "ἐάντε περὶ σκυτοτομίας τις λέγῃ"
+        },
+        {
+          "form": "σκυτοτόμος",
+          "lemma": "σκυτοτόμος",
+          "location": "601c",
+          "context": "ποιήσει δέ γε σκυτοτόμος καὶ χαλκεύς"
+        },
+        {
+          "form": "σκυτεύς",
+          "lemma": "σκυτεύς",
+          "location": "601c",
+          "context": "οὐδʼ ὁ ποιήσας, ὅ τε χαλκεὺς καὶ ὁ σκυτεύς"
+        }
+      ],
+      "observation": "Forms referring to shoemaking and shoemakers recur throughout the extended example of the three crafts, first illustrating what a painter can represent without knowledge, then used in the model of user, maker, and imitator."
+    },
+    {
+      "signal_id": "s025",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ζωγράφος",
+          "lemma": "ζωγράφος",
+          "location": "600e",
+          "context": "ὁ ζωγράφος σκυτοτόμον ποιήσει"
+        },
+        {
+          "form": "γραφεύς",
+          "lemma": "γραφεύς",
+          "location": "601c",
+          "context": "ἆρʼ οὖν ἐπαΐει οἵας δεῖ τὰς ἡνίας εἶναι καὶ τὸν χαλινὸν ὁ γραφεύς"
+        },
+        {
+          "form": "γράφῃ",
+          "lemma": "γράφω",
+          "location": "602a",
+          "context": "ἐκ τοῦ χρῆσθαι ἐπιστήμην ἕξει περὶ ὧν ἂν γράφῃ"
+        },
+        {
+          "form": "γράψει",
+          "lemma": "γράφω",
+          "location": "601c",
+          "context": "ζωγράφος, φαμέν, ἡνίας τε γράψει καὶ χαλινόν"
+        }
+      ],
+      "observation": "References to the painter (ζωγράφος, γραφεύς) and painting (γράφω) recur as the consistent example of the imitator who lacks knowledge."
+    },
+    {
+      "signal_id": "s026",
+      "signal_types": [
+        "local_density",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἡνίας",
+          "lemma": "ἡνία",
+          "location": "601c",
+          "context": "ἡνίας τε γράψει καὶ χαλινόν"
+        },
+        {
+          "form": "χαλινόν",
+          "lemma": "χαλινός",
+          "location": "601c",
+          "context": "ἡνίας τε γράψει καὶ χαλινόν"
+        },
+        {
+          "form": "ἡνίας",
+          "lemma": "ἡνία",
+          "location": "601c",
+          "context": "οἵας δεῖ τὰς ἡνίας εἶναι καὶ τὸν χαλινόν"
+        },
+        {
+          "form": "ἱππικός",
+          "lemma": "ἱππικός",
+          "location": "601c",
+          "context": "ἐκεῖνος ὅσπερ τούτοις ἐπίσταται χρῆσθαι, μόνος ὁ ἱππικός"
+        }
+      ],
+      "observation": "Reins, bridle, and the horseman form a cluster of horse-related equipment and expertise used to illustrate the three-craft model."
+    },
+    {
+      "signal_id": "s027",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χαλκεὺς",
+          "lemma": "χαλκεύς",
+          "location": "601c",
+          "context": "ποιήσει δέ γε σκυτοτόμος καὶ χαλκεύς"
+        },
+        {
+          "form": "χαλκεὺς",
+          "lemma": "χαλκεύς",
+          "location": "601c",
+          "context": "οὐδʼ ὁ ποιήσας, ὅ τε χαλκεὺς καὶ ὁ σκυτεύς"
+        }
+      ],
+      "observation": "The bronzeworker is named twice in the model as one of the makers of horse equipment who does not have the knowledge the user has."
+    },
+    {
+      "signal_id": "s028",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "πίστιν",
+          "lemma": "πίστις",
+          "location": "601e",
+          "context": "ὁ μὲν ποιητὴς πίστιν ὀρθὴν ἕξει"
+        },
+        {
+          "form": "πιστεύων",
+          "lemma": "πιστεύω",
+          "location": "601e",
+          "context": "ὁ δὲ πιστεύων ποιήσει"
+        }
+      ],
+      "observation": "πίστις and πιστεύω occur in stating that the maker will have correct belief and will make in trust, distinguishing belief from the knowledge possessed by the user."
+    },
+    {
+      "signal_id": "s029",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δόξαν",
+          "lemma": "δόξα",
+          "location": "602a",
+          "context": "ἢ δόξαν ὀρθὴν διὰ τὸ ἐξ ἀνάγκης συνεῖναι τῷ εἰδότι"
+        },
+        {
+          "form": "δοξάσει",
+          "lemma": "δοξάζω",
+          "location": "602a",
+          "context": "οὔτε ἄρα εἴσεται οὔτε ὀρθὰ δοξάσει ὁ μιμητὴς"
+        }
+      ],
+      "observation": "δόξα and δοξάζω appear in the question about whether the imitator will have correct opinion, which is then denied."
+    },
+    {
+      "signal_id": "s030",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "αὐλητής",
+          "lemma": "αὐλητής",
+          "location": "601d",
+          "context": "οἷον αὐλητής που αὐλοποιῷ ἐξαγγέλλει"
+        },
+        {
+          "form": "αὐλοποιῷ",
+          "lemma": "αὐλοποιός",
+          "location": "601d",
+          "context": "αὐλητής που αὐλοποιῷ"
+        },
+        {
+          "form": "αὐλῶν",
+          "lemma": "αὐλός",
+          "location": "601e",
+          "context": "περὶ τῶν αὐλῶν, οἳ ἂν ὑπηρετῶσιν ἐν τῷ αὐλεῖν"
+        },
+        {
+          "form": "αὐλεῖν",
+          "lemma": "αὐλέω",
+          "location": "601e",
+          "context": "οἳ ἂν ὑπηρετῶσιν ἐν τῷ αὐλεῖν"
+        },
+        {
+          "form": "αὐλῶν",
+          "lemma": "αὐλός",
+          "location": "601e",
+          "context": "περὶ χρηστῶν καὶ πονηρῶν αὐλῶν"
+        }
+      ],
+      "observation": "The aulos-player, aulos-maker, and auloi form a cluster illustrating the relationship between user and maker, with the user reporting which flutes serve well in playing."
+    },
+    {
+      "signal_id": "s031",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαγγέλλει",
+          "lemma": "ἐξαγγέλλω",
+          "location": "601d",
+          "context": "αὐλητής που αὐλοποιῷ ἐξαγγέλλει"
+        },
+        {
+          "form": "ἐξαγγέλλει",
+          "lemma": "ἐξαγγέλλω",
+          "location": "601e",
+          "context": "ὁ μὲν εἰδὼς ἐξαγγέλλει"
+        }
+      ],
+      "observation": "ἐξαγγέλλω appears twice, stating that the user reports to the maker about good and bad qualities."
+    },
+    {
+      "signal_id": "s032",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "χρηστῶν καὶ πονηρῶν",
+          "lemma": null,
+          "location": "601e",
+          "context": "περὶ χρηστῶν καὶ πονηρῶν αὐλῶν"
+        },
+        {
+          "form": "κάλλους τε καὶ πονηρίας",
+          "lemma": null,
+          "location": "601e",
+          "context": "περὶ κάλλους τε καὶ πονηρίας"
+        },
+        {
+          "form": "καλὰ καὶ ὀρθὰ",
+          "lemma": null,
+          "location": "602a",
+          "context": "εἴτε καλὰ καὶ ὀρθὰ εἴτε μή"
+        },
+        {
+          "form": "κάλλος ἢ πονηρίαν",
+          "lemma": null,
+          "location": "602a",
+          "context": "περὶ ὧν ἂν μιμῆται πρὸς κάλλος ἢ πονηρίαν"
+        }
+      ],
+      "observation": "Contrasting pairs recur: χρηστός and πονηρός, κάλλος and πονηρία, καλός and ὀρθός, repeatedly marking the evaluative dimension the user knows and the imitator does not."
+    },
+    {
+      "signal_id": "s033",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "γυμνωθέντα",
+          "lemma": "γυμνόω",
+          "location": "601b",
+          "context": "ἐπεὶ γυμνωθέντα γε τῶν τῆς μουσικῆς χρωμάτων"
+        }
+      ],
+      "observation": "The poets' words are said to be stripped of the colors of music, revealing what they look like by themselves."
+    },
+    {
+      "signal_id": "s034",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "χρώματα",
+          "lemma": "χρῶμα",
+          "location": "601a",
+          "context": "χρώματα ἄττα ἑκάστων τῶν τεχνῶν"
+        },
+        {
+          "form": "ἐπιχρωματίζειν",
+          "lemma": "ἐπιχρωματίζω",
+          "location": "601a",
+          "context": "τοῖς ὀνόμασι καὶ ῥήμασιν ἐπιχρωματίζειν"
+        },
+        {
+          "form": "χρωμάτων",
+          "lemma": "χρῶμα",
+          "location": "601a",
+          "context": "ἐκ τῶν χρωμάτων δὲ καὶ σχημάτων θεωροῦσιν"
+        },
+        {
+          "form": "χρωμάτων",
+          "lemma": "χρῶμα",
+          "location": "601b",
+          "context": "γυμνωθέντα γε τῶν τῆς μουσικῆς χρωμάτων"
+        }
+      ],
+      "observation": "χρῶμα recurs: the poet colors each of the crafts with words, viewers judge from colors and shapes, and the colors of music can be stripped away to reveal what the poets' words truly are."
+    },
+    {
+      "signal_id": "s035",
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "τὸ ἄνθος",
+          "lemma": "ἄνθος",
+          "location": "601b",
+          "context": "ὅταν αὐτὰ τὸ ἄνθος προλίπῃ"
+        }
+      ],
+      "observation": "The poets' words stripped of musical coloring are compared to beautiful faces that are no longer beautiful when they have left behind their bloom."
+    },
+    {
+      "signal_id": "s036",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κήλησιν",
+          "lemma": "κήλησις",
+          "location": "601b",
+          "context": "οὕτω φύσει αὐτὰ ταῦτα μεγάλην τινὰ κήλησιν ἔχειν"
+        }
+      ],
+      "observation": "Meter, rhythm, and harmony are said by nature to have a certain great enchantment."
+    },
+    {
+      "signal_id": "s037",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μίμησιν",
+          "lemma": "μίμησις",
+          "location": "602b",
+          "context": "ἀλλʼ εἶναι παιδιάν τινα καὶ οὐ σπουδὴν τὴν μίμησιν"
+        }
+      ],
+      "observation": "Imitation is said to be a certain play and not a serious thing."
+    },
+    {
+      "signal_id": "s038",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "παιδιάν",
+          "lemma": "παιδιά",
+          "location": "602b",
+          "context": "εἶναι παιδιάν τινα καὶ οὐ σπουδὴν τὴν μίμησιν"
+        },
+        {
+          "form": "σπουδὴν",
+          "lemma": "σπουδή",
+          "location": "602b",
+          "context": "παιδιάν τινα καὶ οὐ σπουδὴν"
+        }
+      ],
+      "observation": "παιδιά and σπουδή are set in contrast, with imitation assigned to the former and denied the latter."
+    },
+    {
+      "signal_id": "s039",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἰαμβείοις",
+          "lemma": "ἰαμβεῖος",
+          "location": "602b",
+          "context": "τούς τε τῆς τραγικῆς ποιήσεως ἁπτομένους ἐν ἰαμβείοις καὶ ἐν ἔπεσι"
+        },
+        {
+          "form": "ἔπεσι",
+          "lemma": "ἔπος",
+          "location": "602b",
+          "context": "ἐν ἰαμβείοις καὶ ἐν ἔπεσι"
+        }
+      ],
+      "observation": "Those who take up tragic poetry are said to work in iambics and in epic verses, named as the two poetic forms."
+    }
+  ]
+}

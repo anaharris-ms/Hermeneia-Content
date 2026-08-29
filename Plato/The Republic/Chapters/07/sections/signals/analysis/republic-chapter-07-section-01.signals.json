@@ -1,0 +1,695 @@
+{
+  "section_id": "republic-chapter-07-section-01",
+  "signals": [
+    {
+      "signal_id": "s001",
+      "signal_types": [
+        "semantic_cluster",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδείας",
+          "lemma": "παιδεία",
+          "location": "514a",
+          "context": "παιδείας τε πέρι καὶ ἀπαιδευσίας"
+        },
+        {
+          "form": "ἀπαιδευσίας",
+          "lemma": "ἀπαιδευσία",
+          "location": "514a",
+          "context": "παιδείας τε πέρι καὶ ἀπαιδευσίας"
+        },
+        {
+          "form": "ἐκ παίδων",
+          "lemma": "παῖς",
+          "location": "514a",
+          "context": "ἐν ταύτῃ ἐκ παίδων ὄντας ἐν δεσμοῖς"
+        }
+      ],
+      "observation": "παιδεία, ἀπαιδευσία, and ἐκ παίδων share the root παιδ-; the condition of being bound is described as holding from childhood."
+    },
+    {
+      "signal_id": "s002",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "514a",
+          "context": "ἀναπεπταμένην πρὸς τὸ φῶς τὴν εἴσοδον"
+        },
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "514b",
+          "context": "φῶς δὲ αὐτοῖς πυρὸς ἄνωθεν"
+        },
+        {
+          "form": "τὸ φῶς",
+          "lemma": "φῶς",
+          "location": "515c",
+          "context": "πρὸς τὸ φῶς ἀναβλέπειν"
+        },
+        {
+          "form": "τὸ φῶς",
+          "lemma": "φῶς",
+          "location": "515e",
+          "context": "πρὸς αὐτὸ τὸ φῶς ἀναγκάζοι αὐτὸν βλέπειν"
+        },
+        {
+          "form": "τὸ τοῦ ἡλίου φῶς",
+          "lemma": "φῶς",
+          "location": "515e",
+          "context": "ἐξελκύσειεν εἰς τὸ τοῦ ἡλίου φῶς"
+        },
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "location": "516b",
+          "context": "τὸ τῶν ἄστρων τε καὶ σελήνης φῶς"
+        }
+      ],
+      "observation": "φῶς recurs throughout, first as firelight behind the prisoners, then as the light toward which the released prisoner looks, then as sunlight; its source shifts from πῦρ to ἥλιος."
+    },
+    {
+      "signal_id": "s003",
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "δεσμοῖς",
+          "lemma": "δεσμός",
+          "location": "514a",
+          "context": "ἐν δεσμοῖς καὶ τὰ σκέλη καὶ τοὺς αὐχένας"
+        },
+        {
+          "form": "τοῦ δεσμοῦ",
+          "lemma": "δεσμός",
+          "location": "514b",
+          "context": "ὑπὸ τοῦ δεσμοῦ ἀδυνάτους περιάγειν"
+        },
+        {
+          "form": "δεσμωτῶν",
+          "lemma": "δεσμώτης",
+          "location": "514b",
+          "context": "τοῦ πυρὸς καὶ τῶν δεσμωτῶν"
+        },
+        {
+          "form": "δεσμώτας",
+          "lemma": "δεσμώτης",
+          "location": "515a",
+          "context": "εἰκόνα καὶ δεσμώτας ἀτόπους"
+        },
+        {
+          "form": "τῶν δεσμῶν",
+          "lemma": "δεσμός",
+          "location": "515c",
+          "context": "λύσιν τε καὶ ἴασιν τῶν τε δεσμῶν"
+        },
+        {
+          "form": "δεσμωτήριον",
+          "lemma": "δεσμωτήριον",
+          "location": "515b",
+          "context": "ἠχὼ τὸ δεσμωτήριον"
+        },
+        {
+          "form": "συνδεσμωτῶν",
+          "lemma": "συνδεσμώτης",
+          "location": "516c",
+          "context": "τῶν τότε συνδεσμωτῶν"
+        },
+        {
+          "form": "δεσμώταις",
+          "lemma": "δεσμώτης",
+          "location": "516e",
+          "context": "διαμιλλᾶσθαι τοῖς ἀεὶ δεσμώταις"
+        }
+      ],
+      "observation": "The δεσμ- family recurs densely: bonds, prisoners, prison, fellow-prisoners, spanning the entire section from initial binding through release and return."
+    },
+    {
+      "signal_id": "s004",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σκιάς",
+          "lemma": "σκιά",
+          "location": "515a",
+          "context": "τὰς σκιὰς τὰς ὑπὸ τοῦ πυρὸς"
+        },
+        {
+          "form": "σκιάν",
+          "lemma": "σκιά",
+          "location": "515b",
+          "context": "τὴν παριοῦσαν σκιάν"
+        },
+        {
+          "form": "σκιάς",
+          "lemma": "σκιά",
+          "location": "515c",
+          "context": "τὰς τῶν σκευαστῶν σκιάς"
+        },
+        {
+          "form": "σκιάς",
+          "lemma": "σκιά",
+          "location": "515d",
+          "context": "τὰς σκιὰς ἑώρα"
+        },
+        {
+          "form": "σκιάς",
+          "lemma": "σκιά",
+          "location": "516a",
+          "context": "πρῶτον μὲν τὰς σκιὰς ἂν ῥᾷστα καθορῷ"
+        },
+        {
+          "form": "σκιὰς",
+          "lemma": "σκιά",
+          "location": "516e",
+          "context": "τὰς δὲ δὴ σκιὰς ἐκείνας πάλιν"
+        }
+      ],
+      "observation": "σκιά recurs across the section; initially shadows are the only visible reality, then they are what the released prisoner formerly saw, then outside they are the easiest things to see first, then upon return they must be judged again."
+    },
+    {
+      "signal_id": "s005",
+      "signal_types": [
+        "lemma_recurrence",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "514b",
+          "context": "πρόσθεν μόνον ὁρᾶν"
+        },
+        {
+          "form": "ὁρῶ",
+          "lemma": "ὁράω",
+          "location": "514b",
+          "context": null
+        },
+        {
+          "form": "ἑωρακέναι",
+          "lemma": "ὁράω",
+          "location": "515a",
+          "context": "οἴει ἄν τι ἑωρακέναι"
+        },
+        {
+          "form": "ὁρῷεν",
+          "lemma": "ὁράω",
+          "location": "515b",
+          "context": "ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν"
+        },
+        {
+          "form": "ἑώρα",
+          "lemma": "ὁράω",
+          "location": "515d",
+          "context": "τὰς σκιὰς ἑώρα"
+        },
+        {
+          "form": "ἑώρα",
+          "lemma": "ὁράω",
+          "location": "515d",
+          "context": "τότε μὲν ἑώρα φλυαρίας"
+        },
+        {
+          "form": "ὁρώμενα",
+          "lemma": "ὁράω",
+          "location": "515d",
+          "context": "τὰ τότε ὁρώμενα ἀληθέστερα"
+        },
+        {
+          "form": "ὁρᾶν",
+          "lemma": "ὁράω",
+          "location": "516a",
+          "context": "ὁρᾶν οὐδʼ ἂν ἓν δύνασθαι"
+        },
+        {
+          "form": "ἑώρων",
+          "lemma": "ὁράω",
+          "location": "516c",
+          "context": "ὧν σφεῖς ἑώρων"
+        }
+      ],
+      "observation": "ὁράω forms are densely distributed; seeing is constrained (μόνον ὁρᾶν), then identified with shadows, then contrasted with present vision, then temporarily lost."
+    },
+    {
+      "signal_id": "s006",
+      "signal_types": [
+        "sequence_configuration",
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀνίστασθαι",
+          "lemma": "ἀνίστημι",
+          "location": "515c",
+          "context": null
+        },
+        {
+          "form": "περιάγειν τὸν αὐχένα",
+          "lemma": null,
+          "location": "515c",
+          "context": null
+        },
+        {
+          "form": "βαδίζειν",
+          "lemma": "βαδίζω",
+          "location": "515c",
+          "context": null
+        },
+        {
+          "form": "πρὸς τὸ φῶς ἀναβλέπειν",
+          "lemma": null,
+          "location": "515c",
+          "context": null
+        },
+        {
+          "form": "τῆς ἀναβάσεως καὶ ἀνάντους",
+          "lemma": null,
+          "location": "515e",
+          "context": "διὰ τραχείας τῆς ἀναβάσεως καὶ ἀνάντους"
+        },
+        {
+          "form": "εἰς τὸ τοῦ ἡλίου φῶς",
+          "lemma": null,
+          "location": "515e",
+          "context": "ἐξελκύσειεν εἰς τὸ τοῦ ἡλίου φῶς"
+        }
+      ],
+      "observation": "The release is articulated as a sequence of upward movements: standing, turning the neck, walking, looking up, ascending a rough steep path, being dragged out into sunlight."
+    },
+    {
+      "signal_id": "s007",
+      "signal_types": [
+        "local_contrast",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "περιάγειν",
+          "lemma": "περιάγω",
+          "location": "514b",
+          "context": "τὰς κεφαλὰς ὑπὸ τοῦ δεσμοῦ ἀδυνάτους περιάγειν"
+        },
+        {
+          "form": "περιάγειν τὸν αὐχένα",
+          "lemma": "περιάγω",
+          "location": "515c",
+          "context": "ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα"
+        }
+      ],
+      "observation": "περιάγειν first appears as what the bound prisoners are unable to do (ἀδυνάτους περιάγειν), then returns as what the released prisoner is compelled to do (ἀναγκάζοιτο … περιάγειν)."
+    },
+    {
+      "signal_id": "s008",
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀναγκάζοιτο",
+          "lemma": "ἀναγκάζω",
+          "location": "515c",
+          "context": null
+        },
+        {
+          "form": "ἠναγκασμένοι",
+          "lemma": "ἀναγκάζω",
+          "location": "515a",
+          "context": "ἀκινήτους γε τὰς κεφαλὰς ἔχειν ἠναγκασμένοι"
+        },
+        {
+          "form": "ἀναγκάζοι",
+          "lemma": "ἀναγκάζω",
+          "location": "515d",
+          "context": "δεικνὺς αὐτῷ ἀναγκάζοι ἐρωτῶν ἀποκρίνεσθαι"
+        },
+        {
+          "form": "ἀναγκάζοι",
+          "lemma": "ἀναγκάζω",
+          "location": "515e",
+          "context": "πρὸς αὐτὸ τὸ φῶς ἀναγκάζοι αὐτὸν βλέπειν"
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "515b",
+          "context": null
+        },
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "515c",
+          "context": "πολλὴ ἀνάγκη"
+        },
+        {
+          "form": "ἀναγκαῖον",
+          "lemma": "ἀναγκαῖος",
+          "location": "516b",
+          "context": null
+        }
+      ],
+      "observation": "ἀναγκάζω and ἀνάγκη recur; compulsion applies first to the prisoners' immobility and then to the released prisoner's turning, looking, and answering."
+    },
+    {
+      "signal_id": "s009",
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἄνωθεν",
+          "lemma": null,
+          "location": "514b",
+          "context": "φῶς δὲ αὐτοῖς πυρὸς ἄνωθεν"
+        },
+        {
+          "form": "ἀναβλέπειν",
+          "lemma": "ἀναβλέπω",
+          "location": "515c",
+          "context": "πρὸς τὸ φῶς ἀναβλέπειν"
+        },
+        {
+          "form": "ἀναβάσεως",
+          "lemma": "ἀνάβασις",
+          "location": "515e",
+          "context": "διὰ τραχείας τῆς ἀναβάσεως"
+        },
+        {
+          "form": "ἄνω",
+          "lemma": null,
+          "location": "516a",
+          "context": "τὰ ἄνω ὄψεσθαι"
+        },
+        {
+          "form": "ἀναβὰς ἄνω",
+          "lemma": null,
+          "location": "517a",
+          "context": "ἀναβὰς ἄνω διεφθαρμένος ἥκει"
+        },
+        {
+          "form": "ἄνω ἰέναι",
+          "lemma": null,
+          "location": "517a",
+          "context": "οὐκ ἄξιον οὐδὲ πειρᾶσθαι ἄνω ἰέναι"
+        },
+        {
+          "form": "ἀνάγειν",
+          "lemma": "ἀνάγω",
+          "location": "517a",
+          "context": "τὸν ἐπιχειροῦντα λύειν τε καὶ ἀνάγειν"
+        },
+        {
+          "form": "καταβὰς",
+          "lemma": "καταβαίνω",
+          "location": "516e",
+          "context": "εἰ πάλιν ὁ τοιοῦτος καταβὰς εἰς τὸν αὐτὸν θᾶκον"
+        }
+      ],
+      "observation": "ἄνω / ἀνα- words mark upward movement throughout; καταβάς marks the return descent, contrasting with the prevailing upward direction."
+    },
+    {
+      "signal_id": "s010",
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀλγοῖ",
+          "lemma": "ἀλγέω",
+          "location": "515c",
+          "context": "πάντα δὲ ταῦτα ποιῶν ἀλγοῖ"
+        },
+        {
+          "form": "ἀλγεῖν",
+          "lemma": "ἀλγέω",
+          "location": "515e",
+          "context": "ἀλγεῖν τε ἂν τὰ ὄμματα"
+        },
+        {
+          "form": "ὀδυνᾶσθαι",
+          "lemma": "ὀδυνάω",
+          "location": "515e",
+          "context": "ὀδυνᾶσθαί τε … καὶ ἀγανακτεῖν"
+        },
+        {
+          "form": "ἀγανακτεῖν",
+          "lemma": "ἀγανακτέω",
+          "location": "516a",
+          "context": null
+        },
+        {
+          "form": "μαρμαρυγάς",
+          "lemma": "μαρμαρυγή",
+          "location": "515c",
+          "context": "διὰ τὰς μαρμαρυγὰς ἀδυνατοῖ καθορᾶν"
+        }
+      ],
+      "observation": "Pain and distress cluster around the moments of forced looking: ἀλγέω twice, ὀδυνάω, ἀγανακτέω, accompanied by dazzling (μαρμαρυγάς)."
+    },
+    {
+      "signal_id": "s011",
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τὰς σκιάς",
+          "lemma": "σκιά",
+          "location": "516a",
+          "context": "πρῶτον μὲν τὰς σκιὰς ἂν ῥᾷστα καθορῷ"
+        },
+        {
+          "form": "εἴδωλα",
+          "lemma": "εἴδωλον",
+          "location": "516a",
+          "context": "ἐν τοῖς ὕδασι … εἴδωλα"
+        },
+        {
+          "form": "αὐτά",
+          "lemma": null,
+          "location": "516a",
+          "context": "ὕστερον δὲ αὐτά"
+        },
+        {
+          "form": "τὰ ἐν τῷ οὐρανῷ",
+          "lemma": null,
+          "location": "516a",
+          "context": null
+        },
+        {
+          "form": "τὸν ἥλιον",
+          "lemma": "ἥλιος",
+          "location": "516b",
+          "context": "τελευταῖον δὴ οἶμαι τὸν ἥλιον"
+        }
+      ],
+      "observation": "An explicit ordered sequence (πρῶτον … μετὰ τοῦτο … ὕστερον … τελευταῖον) of objects the released prisoner can look at: shadows, reflections in water, the things themselves, heavenly bodies, the sun."
+    },
+    {
+      "signal_id": "s012",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "αὐτὸν καθʼ αὑτὸν ἐν τῇ αὑτοῦ χώρᾳ",
+          "lemma": null,
+          "location": "516b",
+          "context": null
+        },
+        {
+          "form": "ἐν ὕδασιν",
+          "lemma": null,
+          "location": "516b",
+          "context": "οὐκ ἐν ὕδασιν οὐδʼ ἐν ἀλλοτρίᾳ ἕδρᾳ φαντάσματα αὐτοῦ"
+        },
+        {
+          "form": "ἀλλοτρίᾳ ἕδρᾳ",
+          "lemma": null,
+          "location": "516b",
+          "context": null
+        }
+      ],
+      "observation": "The sun is finally seen αὐτὸν καθʼ αὑτόν in its own place (αὑτοῦ χώρᾳ), contrasted with seeing it in water or in an alien seat (ἀλλοτρίᾳ ἕδρᾳ)."
+    },
+    {
+      "signal_id": "s013",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "θαυματοποιοῖς",
+          "lemma": "θαυματοποιός",
+          "location": "514b",
+          "context": "ὥσπερ τοῖς θαυματοποιοῖς πρὸ τῶν ἀνθρώπων πρόκειται τὰ παραφράγματα"
+        },
+        {
+          "form": "θαύματα",
+          "lemma": "θαῦμα",
+          "location": "514b",
+          "context": "ὑπὲρ ὧν τὰ θαύματα δεικνύασιν"
+        }
+      ],
+      "observation": "The puppet-show comparison (θαυματοποιοῖς, θαύματα, παραφράγματα) names the wall and the carriers' activity by analogy to performers showing wonders over a screen."
+    },
+    {
+      "signal_id": "s014",
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λύσιν",
+          "lemma": "λύσις",
+          "location": "515c",
+          "context": "λύσιν τε καὶ ἴασιν τῶν τε δεσμῶν"
+        },
+        {
+          "form": "λυθείη",
+          "lemma": "λύω",
+          "location": "515c",
+          "context": "ὁπότε τις λυθείη"
+        },
+        {
+          "form": "λύειν",
+          "lemma": "λύω",
+          "location": "517a",
+          "context": "τὸν ἐπιχειροῦντα λύειν τε καὶ ἀνάγειν"
+        }
+      ],
+      "observation": "λύω appears as the proposed release (λύσιν), the accomplished release (λυθείη), and finally the attempt to release others (λύειν) that provokes killing."
+    },
+    {
+      "signal_id": "s015",
+      "signal_types": [
+        "intention_completion"
+      ],
+      "elements": [
+        {
+          "form": "ἀποκτείνειν",
+          "lemma": "ἀποκτείνω",
+          "location": "517a",
+          "context": "εἴ πως ἐν ταῖς χερσὶ δύναιντο λαβεῖν καὶ ἀποκτείνειν"
+        },
+        {
+          "form": "ἀποκτεινύναι",
+          "lemma": "ἀποκτείνω",
+          "location": "517a",
+          "context": "ἀποκτεινύναι ἄν"
+        }
+      ],
+      "observation": "ἀποκτείνω appears twice in close succession in two forms: the infinitive of intention (ἀποκτείνειν) and the emphatic infinitive (ἀποκτεινύναι ἄν) confirming it would happen."
+    },
+    {
+      "signal_id": "s016",
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐπάρουρον ἐόντα θητευέμεν ἄλλῳ ἀνδρὶ παρʼ ἀκλήρῳ",
+          "lemma": null,
+          "location": "516d",
+          "context": "τὸ τοῦ Ὁμήρου ἂν πεπονθέναι"
+        }
+      ],
+      "observation": "A quotation from Homer (Od. 11.489), Achilles' words in the underworld, is placed in the mouth of the released prisoner preferring any life above to the cave's honors."
+    },
+    {
+      "signal_id": "s017",
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "οἰκήσει",
+          "lemma": "οἴκησις",
+          "location": "514a",
+          "context": "ἐν καταγείῳ οἰκήσει σπηλαιώδει"
+        },
+        {
+          "form": "οἰκήσεως",
+          "lemma": "οἴκησις",
+          "location": "516c",
+          "context": "τῆς πρώτης οἰκήσεως"
+        }
+      ],
+      "observation": "οἴκησις first names the underground cave-dwelling, then returns as the 'first dwelling' the released prisoner remembers."
+    },
+    {
+      "signal_id": "s018",
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "φθεγγομένους",
+          "lemma": "φθέγγομαι",
+          "location": "515a",
+          "context": "τοὺς μὲν φθεγγομένους, τοὺς δὲ σιγῶντας"
+        },
+        {
+          "form": "φθέγξαιτο",
+          "lemma": "φθέγγομαι",
+          "location": "515b",
+          "context": "ὁπότε τις τῶν παριόντων φθέγξαιτο"
+        },
+        {
+          "form": "τὸ φθεγγόμενον",
+          "lemma": "φθέγγομαι",
+          "location": "515b",
+          "context": "ἄλλο τι αὐτοὺς ἡγεῖσθαι τὸ φθεγγόμενον ἢ τὴν παριοῦσαν σκιάν"
+        }
+      ],
+      "observation": "φθέγγομαι shifts from the carriers speaking/silent, to one speaking, to the prisoners attributing the voice to the passing shadow."
+    },
+    {
+      "signal_id": "s019",
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθέστερα",
+          "lemma": "ἀληθής",
+          "location": "515d",
+          "context": "τὰ τότε ὁρώμενα ἀληθέστερα ἢ τὰ νῦν δεικνύμενα"
+        },
+        {
+          "form": "τὸ ἀληθές",
+          "lemma": "ἀληθής",
+          "location": "515c",
+          "context": "οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς"
+        },
+        {
+          "form": "σαφέστερα",
+          "lemma": "σαφής",
+          "location": "515e",
+          "context": "νομίζειν ταῦτα τῷ ὄντι σαφέστερα τῶν δεικνυμένων"
+        },
+        {
+          "form": "ἀληθῶν",
+          "lemma": "ἀληθής",
+          "location": "516a",
+          "context": "τῶν νῦν λεγομένων ἀληθῶν"
+        }
+      ],
+      "observation": "ἀληθής and σαφής are applied by the prisoner to the shadows rather than the realities; what is called ἀληθές shifts as the prisoner's situation changes."
+    }
+  ]
+}
