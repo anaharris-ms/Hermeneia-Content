@@ -1,0 +1,171 @@
+{
+  "section_id": "republic-chapter-04-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s003"
+      ],
+      "observation": "ἀνδρεία forms recur nine times, linked densely to καλεῖν and τίθημι. σωτηρία forms recur six times, and Socrates explicitly equates ἀνδρεία with σωτηρία at 429c. The two recurrent clusters converge in the definition at 430b: ἀνδρείαν ἔγωγε καλῶ καὶ τίθεμαι names courage as σωτηρίαν διὰ παντὸς δόξης."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s010"
+      ],
+      "observation": "δόξα recurs five times as the object preserved through courage, always paired with παιδεία or νόμος. At 430b, δόξα appears both with and without παιδεία: τὴν ὀρθὴν δόξαν ... ἄνευ παιδείας is explicitly denied the name ἀνδρεία. The recurrence marks education as the dividing line between courage and its exclusion."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "δεινός appears six times: first as the object of right opinion (τὰ δεινά), then at 430a as an attribute of the ῥύμματα themselves (δεινὰ ὄντα ἐκκλύζειν), and again in the superlative describing ἡδονή (δεινοτέρα). The word shifts from naming what is feared to naming the force that threatens preservation."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s008"
+      ],
+      "observation": "The fourfold list λύπη, ἡδονή, ἐπιθυμία, φόβος appears at 429c–d as conditions courage must endure. The same four return at 430a–b, now explicitly named ῥύμματα that wash out the dye. The sequence recurs in a changed role: from threats to be resisted, to detergents that dissolve the color."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009"
+      ],
+      "observation": "Dyers ἐκλέγονται white wool at 429d; the city ἐξελεγόμεθα soldiers at 429e. The analogy proceeds from selection through preparation (προπαρασκευάζουσιν / ἐπαιδεύομεν μουσικῇ καὶ γυμναστικῇ) to dyeing (βάπτουσι / δέξοιντο ὥσπερ βαφήν) to fastness (δευσοποιόν). Each stage in the dye sequence has a corresponding action in the education sequence."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013"
+      ],
+      "observation": "The dye analogy introduces πλύσις and ῥύμματα at 429e, stating that properly dyed wool is not ἔκπλυτα. At 430a the same washing vocabulary returns (ἐκπλύναι, ἐκκλύζειν) applied to the ῥύμματα that threaten to wash out δόξα. The literal washing of wool becomes the figurative washing-away of opinion."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s003"
+      ],
+      "observation": "διὰ παντός recurs three times, each occurrence joined to σωτηρία or σῴζω: σώσει τὴν δόξαν, αὐτῆς σωτηρίαν, and σωτηρίαν διὰ παντὸς δόξης. The phrase marks the completeness required for preservation across all conditions named in s006."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s010"
+      ],
+      "observation": "At 430b, θηριώδη καὶ ἀνδραποδώδη characterize δόξα formed ἄνευ παιδείας. This pair contrasts with νόμιμος δόξα formed διὰ τῆς παιδείας at 429c. The animal and slave-like opinion is denied both the name ἀνδρεία and the attribute νόμιμος."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s007"
+      ],
+      "observation": "προπαρασκευάζουσιν at 429d describes dyers' preparation; προθεραπεύσας at 429e names the same step negatively in the failure case (μὴ προθεραπεύσας). The προ- compounds mark the necessary prior work; their presence or absence determines whether the dye becomes δευσοποιόν or ἔκπλυτα."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s017"
+      ],
+      "observation": "ἀνδρεία recurs nine times through the section. At 430c, δικαιοσύνη is named as the actual object of search (οὐ τοῦτο ἐζητοῦμεν, ἀλλὰ δικαιοσύνην), and the discussion is marked explicitly incomplete (αὖθις ... ἔτι κάλλιον δίιμεν). The recurrent term is named provisional."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s007"
+      ],
+      "observation": "Socrates announces ἐθέλω ἀπεικάσαι at 429d, the interlocutor consents with βούλομαι, and the extended dye analogy follows. At 429e, ὑπόλαβε ... ἐργάζεσθαι καὶ ἡμᾶς completes the application by mapping the analogy back onto the city's education of soldiers. The intention to compare is stated, accepted, and enacted across the dye sequence."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s001"
+      ],
+      "observation": "οὐ πάνυ recurs three times. Socrates says courage is οὐ πάνυ χαλεπὸν ἰδεῖν at 429a; the interlocutor replies οὐ πάνυ ἔμαθον at 429c; at 430b the same interlocutor says uneducated opinion is οὔτε πάνυ νόμιμον. The phrase moves from ease of seeing, to difficulty of understanding, to exclusion from the legitimate name."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s001"
+      ],
+      "observation": "δειλός and ἀνδρεῖος appear twice in explicit paired contrasts at 429b: δειλὴν ἢ ἀνδρείαν πόλιν and δειλοὶ ἢ ἀνδρεῖοι ὄντες. Both pairs ask which quality determines the city's name, and both answer by pointing to the μέρος that fights and defends."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s001"
+      ],
+      "observation": "μέρος appears twice, both times locating courage in τὸ μέρος ὃ προπολεμεῖ and μέρει τινὶ ἑαυτῆς at 429b. The placement precedes the definition of ἀνδρεία: courage is first located in a part before being defined as preservation of δόξα."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῆς",
+          "lemma": "ὀρθός",
+          "location": "430b",
+          "context": "δόξης ὀρθῆς τε καὶ νομίμου"
+        },
+        {
+          "form": "ὀρθὴν",
+          "lemma": "ὀρθός",
+          "location": "430b",
+          "context": "τὴν ὀρθὴν δόξαν ... ἄνευ παιδείας"
+        }
+      ],
+      "observation": "ὀρθή qualifies δόξα twice in 430b: first paired with νόμιμος in the definition of courage, then in the excluded case ἄνευ παιδείας. The same adjective appears in both the accepted and rejected instances."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νόμου",
+          "lemma": "νόμος",
+          "location": "429c",
+          "context": "τῆς ὑπὸ νόμου διὰ τῆς παιδείας γεγονυίας"
+        },
+        {
+          "form": "νομοθέτης",
+          "lemma": "νομοθέτης",
+          "location": "429c",
+          "context": "ὁ νομοθέτης παρήγγελλεν ἐν τῇ παιδείᾳ"
+        },
+        {
+          "form": "νομίμου",
+          "lemma": "νόμιμος",
+          "location": "430b",
+          "context": "δόξης ὀρθῆς τε καὶ νομίμου"
+        },
+        {
+          "form": "νόμιμον",
+          "lemma": "νόμιμος",
+          "location": "430b",
+          "context": "οὔτε πάνυ νόμιμον ἡγεῖσθαι"
+        }
+      ],
+      "observation": "νόμος, νομοθέτης, and νόμιμος recur. δόξα is described as ὑπὸ νόμου formed and taught by the νομοθέτης; at 430b it is called νόμιμος. The uneducated version is denied the attribute νόμιμον."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πολιτικήν",
+          "lemma": "πολιτικός",
+          "location": "430c",
+          "context": "ἀποδέχου, πολιτικήν γε, καὶ ὀρθῶς ἀποδέξῃ"
+        }
+      ],
+      "observation": "πολιτικήν qualifies the accepted definition of courage at 430c, immediately before the section closes by naming δικαιοσύνη as the search object."
+    }
+  ]
+}
