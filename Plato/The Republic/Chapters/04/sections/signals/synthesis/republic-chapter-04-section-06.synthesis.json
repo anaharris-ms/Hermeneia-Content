@@ -1,0 +1,141 @@
+{
+  "section_id": "republic-chapter-04-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s013",
+        "s014"
+      ],
+      "observation": "s001 places λοιπά naming two remaining virtues at the opening and λοιπόν naming one at the close. s013 places δικαιοσύνη at both opening and close as the ultimate object of search. s014 places κατιδεῖν at the opening proposing the seeing-task and κατῶπται at the close marking three virtues as seen. Together these three signal pairs form a concentric frame: the section opens naming two remaining virtues to see, examines σωφροσύνη, and closes naming one remaining virtue, with δικαιοσύνη enclosing the whole as the goal named first and last."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s007"
+      ],
+      "observation": "s002 records κρείττων recurring densely. s003 places κρείττων and ἥττων in explicit paradoxical opposition: the one stronger than himself is also weaker. s007 places the κρατ- family (ἐγκράτεια, ἐγκρατής, κρατέω) in both active and passive forms. The paradox κρείττων/ἥττωναὑτοῦ is restated through the κρατ- family: being ἐγκρατής means the better part masters the worse, while being κρατηθῇ means the better is mastered by the worse, with κρατουμένας naming the desires as mastered in the city."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s008"
+      ],
+      "observation": "s004 places the βέλτιον/χεῖρον pair first in the soul of a single human, then in the city's natural consonance. s008 places ἄρχω moving from the better part ruling the worse within to rulers and ruled sharing δόξα about who should rule. Both pairs move from interior psychic relations to the city's political structure: the better ruling the worse within becomes the question of who should rule the city, with temperance requiring agreement between rulers and ruled."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s009",
+        "s010"
+      ],
+      "observation": "s005 gathers συμφωνία, ἁρμονία, συνᾴδω, and ὁμόνοια as a musical-harmonic cluster. s009 contrasts σωφροσύνη with ἀνδρεία and σοφία: those reside ἐν μέρει while σωφροσύνη stretches διʼ ὅλης … διὰ πασῶν. s010 cites τέταται as a striking perfect passive describing σωφροσύνη as stretched through the entire city. The musical cluster and the spatial διὰ πασῶν converge in τέταται, which names both the stretching of a string across an instrument and the spanning of a musical interval through all notes, so that temperance is simultaneously a spatial and a musical extension."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s011"
+      ],
+      "observation": "s005 places συνᾴδοντας among the musical-harmonic cluster. s011 places ἀσθενεστάτους, ἰσχυροτάτους, and μέσους as a three-part superlative grouping. The weakest, strongest, and middle are made συνᾴδοντας ταὐτόν, singing the same note, a configuration that names both musical unison and political agreement using the terminology of musical strings tuned to different tensions."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s008"
+      ],
+      "observation": "s006 places ἐπιθυμία recurring throughout, shifting from individual self-mastery to the city's desires mastered by the few. s007 places the κρατ- family naming mastery in active and passive forms. s008 places ἄρχω moving from the better part ruling the worse to rulers and ruled sharing δόξα. All three converge at 431d: κρατουμένας αὐτόθι τὰς ἐπιθυμίας τὰς ἐν τοῖς πολλοῖς τε καὶ φαύλοις ὑπό τε τῶν ἐπιθυμιῶν καὶ τῆς φρονήσεως τῆς ἐν τοῖς ἐλάττοσί τε καὶ ἐπιεικεστέροις, where the desires of the many are mastered by the desires and φρόνησις of the few, enacting in the city the internal mastery named by the κρείττων/ἥττων paradox."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s004",
+        "s012"
+      ],
+      "observation": "s012 calls the common expression κρείττω αὑτοῦ an ἴχνος (trace) of σωφροσύνη. s002 records κρείττων recurring densely through the section. s004 records βέλτιον/χεῖρον moving from soul to city. The tracking metaphor ἴχνη names the paradoxical expression as a trace to be followed, and the section enacts that following: κρείττω αὑτοῦ is examined, unpacked into the βέλτιον/χεῖρον relation within the soul, then traced to the city's structure where the better rules the worse."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s016"
+      ],
+      "observation": "s009 contrasts σωφροσύνη with ἀνδρεία and σοφία: those reside ἐν μέρει while σωφροσύνη stretches διʼ ὅλης. s016 records Socrates asking whether σωφρονεῖν belongs ἐν τοῖς ἄρχουσιν ἢ ἐν τοῖς ἀρχομένοις and the answer ἐν ἀμφοτέροις refusing the disjunction. The refusal of the either/or question enacts the διʼ ὅλης characterization: temperance cannot be located in one part because it is precisely the virtue that extends through both rulers and ruled."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s015"
+      ],
+      "observation": "s003 places κρείττων and ἥττων in paradoxical opposition: the one stronger than himself is also weaker than himself, with ὁ αὐτός named as the subject of both predicates. s015 pairs βέλτιστα μὲν φῦσιν and βέλτιστα δὲ παιδευθεῖσιν, repeating the superlative with two different participles. Both configurations place opposed or doubled predicates with a single subject or repeated adjective, a grammatical mirroring: the one person is both stronger and weaker; the same people are best both by nature and by education."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δόξης",
+          "lemma": "δόξα",
+          "location": "431c",
+          "context": "μετὰ νοῦ τε καὶ δόξης ὀρθῆς"
+        },
+        {
+          "form": "δόξα",
+          "lemma": "δόξα",
+          "location": "431e",
+          "context": "ἡ αὐτὴ δόξα ἔνεστι τοῖς τε ἄρχουσι καὶ ἀρχομένοις"
+        }
+      ],
+      "observation": "δόξα appears first at 431c with νοῦς guiding the simple and measured desires of the few, then at 431e as the shared δόξα between rulers and ruled about who should rule."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁ αὐτός",
+          "lemma": "αὐτός",
+          "location": "431a",
+          "context": "ὁ αὐτὸς γὰρ ἐν ἅπασιν τούτοις προσαγορεύεται"
+        }
+      ],
+      "observation": "ὁ αὐτός explicitly names the one person as the subject of both κρείττων and ἥττων, making the paradox grammatically precise: the same one is addressed in all these opposed predicates."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πολλοῖς",
+          "lemma": "πολύς",
+          "location": "431c",
+          "context": "ἐν τοῖς πολλοῖς τε καὶ φαύλοις"
+        },
+        {
+          "form": "ὀλίγοις",
+          "lemma": "ὀλίγος",
+          "location": "431c",
+          "context": "ἐν ὀλίγοις τε"
+        },
+        {
+          "form": "πολλοῖς",
+          "lemma": "πολύς",
+          "location": "431d",
+          "context": "τὰς ἐν τοῖς πολλοῖς τε καὶ φαύλοις"
+        },
+        {
+          "form": "ἐλάττοσί",
+          "lemma": "ἐλάττων",
+          "location": "431d",
+          "context": "τῆς ἐν τοῖς ἐλάττοσί τε καὶ ἐπιεικεστέροις"
+        }
+      ],
+      "observation": "The many/few contrast appears twice: first at 431c as πολλοῖς τε καὶ φαύλοις versus ὀλίγοις, then at 431d as πολλοῖς τε καὶ φαύλοις versus ἐλάττοσί τε καὶ ἐπιεικεστέροις, the second occurrence adding the explicit language of mastery."
+    }
+  ]
+}
