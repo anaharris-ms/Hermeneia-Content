@@ -1,0 +1,171 @@
+{
+  "section_id": "republic-chapter-04-section-11",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "`s001` records τὰ αὑτοῦ πράττειν recurring as the definition of justice. `s002` marks the contrast between ἔξω πρᾶξις and ἐντός. The recurrent phrase is first applied to city and soul-parts doing their own work, then narrowed: justice is not about external action (ἔξω πρᾶξις) but about the interior (ἐντός), about each part within doing its own (τὰ αὑτοῦ πράττειν ἕκαστον ἐν αὑτῷ)."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s003"
+      ],
+      "observation": "`s001` cites τὰ αὑτοῦ πράττειν and τἀλλότρια πράττειν. `s003` traces ἄρχω across legitimate rule, illegitimate seizure, and self-rule. The two recurrences intersect: doing one's own is grounded in each part ruling and being ruled as fits (ἀρχῆς τε πέρι καὶ τοῦ ἄρχεσθαι), while doing another's appears when the appetitive seizes rule it does not belong to (ἄρχειν ἐπιχειρήσῃ ὧν οὐ προσῆκον αὐτῷ γένει)."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s013"
+      ],
+      "observation": "`s013` establishes that city and soul have the same kinds equal in number (ἴσα τὸν ἀριθμόν). `s004` records the four virtues applied serially to the individual. The numerical equality announced at the opening grounds the serial application: each virtue is shown to belong to the individual in the same manner and by the same part (τούτῳ, ᾧ, οὕτως) as it belonged to the city."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006",
+        "s007"
+      ],
+      "observation": "`s005` gathers musical-harmonic vocabulary across the section. `s006` compares the three soul-parts to three notes of a scale. `s007` pairs tightening and loosening. The harmonic imagery moves from the education that makes the parts σύμφωνα (441e–442a) through the naming of their tightening and loosening (ἐπιτείνουσα / ἀνιεῖσα) to the explicit comparison with three notes (νεάτης, ὑπάτης, μέσης) and finally to the individual as harmonized and temperate (ἡρμοσμένον, σώφρονα). The musical vocabulary accumulates until soul-order is directly figured as a tuned instrument."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` calls the discovery a dream now fulfilled. `s009` contrasts the craftsman's justice as an εἴδωλον with the true (ἀληθές) justice of soul-order. The dream (ἐνύπνιον) they suspect they stumbled into is the εἴδωλον: the image of justice glimpsed in the city's craft-division, now replaced by the waking discovery of the ἀληθές inside the soul."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "`s009` names the craftsman doing his own work an εἴδωλον of justice. `s010` records the morphological doubling of cobbler and carpenter, each with adjective and cognate verb. The εἴδωλον passage gives the cobbler and carpenter in paired adjectival-verbal forms (σκυτοτομικὸν σκυτοτομεῖν, τεκτονικὸν τεκταίνεσθαι), a doubling that mirrors their status as doubled images—εἴδωλα of the true interior action."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "`s011` lists a catalogue of injustices the just man would never commit. `s012` contrasts δικαίαν πρᾶξιν with ἄδικον πρᾶξιν, and σοφίαν (ἐπιστήμην) with ἀμαθίαν (δόξαν). The catalogue of concrete wrongs—deposit-theft, sacrilege, adultery, neglect of gods—is framed by the abstract contrast; what the just man avoids in particular is governed by whether action preserves (σῴζῃ) or dissolves (λύῃ) the interior ἕξις."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "`s001` repeats τὰ αὑτοῦ πράττειν as the formula for justice. `s015` describes the just person as one from many (ἕνα ἐκ πολλῶν), bound together (συνδήσαντα), and friend to himself (φίλον ἑαυτῷ). Each part doing its own (τὰ αὑτοῦ πράττειν ἕκαστον) produces unity from plurality: the three parts harmonized become one person who has become a friend to himself."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s016"
+      ],
+      "observation": "`s003` traces ἄρχω to the appetitive seizing rule (ἄρχειν ἐπιχειρήσῃ). `s016` calls the appetitive most insatiable (ἀπληστότατον) by nature, endangered by being filled (πίμπλασθαι) with pleasures. The appetitive's unfillability (ἀπληστότατον) grounds its danger of wrongful rule: precisely because it cannot be satisfied, it threatens to seize power and overthrow the whole life (σύμπαντα τὸν βίον πάντων ἀνατρέψῃ)."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s015"
+      ],
+      "observation": "`s005` gathers harmonic vocabulary: σύμφωνα, ἁρμονία, συμφωνία, συναρμόσαντα, ἡρμοσμένον. `s015` describes the just person as one from many, bound together (συνδήσαντα), and harmonized (ἡρμοσμένον). The musical vocabulary culminates in the description of the individual: after the parts are harmonized (συναρμόσαντα), bound together (συνδήσαντα), the person is called ἡρμοσμένον, the participle matching the earlier passive forms and completing the harmonic configuration."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s014"
+      ],
+      "observation": "`s008` calls the discovery a fulfilled dream. `s014` says the city-founding arrived at a τύπος of justice κατὰ θεόν τινα. The dream (ἐνύπνιον) now fulfilled is the divine guidance (κατὰ θεόν τινα) that led them to the τύπος: what seemed chance or suspicion (ὑποπτεῦσαι) is retrospectively seen as divinely directed, and what was a type or sketch (τύπος) is now fulfilled (τέλεον ἀποτετέλεσται)."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s001"
+      ],
+      "observation": "`s012` contrasts actions that preserve (σῴζῃ) or dissolve (λύῃ) the interior state. `s001` defines justice as each part doing its own (τὰ αὑτοῦ πράττειν). Every action named δικαίαν πρᾶξιν is one that preserves the configuration of each doing its own; every action called ἄδικον is one that dissolves it (λύῃ). The recurrent formula is not itself an action but the interior condition that particular actions preserve or destroy."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s008"
+      ],
+      "observation": "`s017` clusters remembering (μνημονευτέον) and not-forgetting (ἐπιλελήσμεθα / ἐπιλελῆσθαι). `s008` speaks of a dream now fulfilled. The double verbal adjective μνημονευτέον recalls what must not be forgotten—that each part does its own—while the dream (ἐνύπνιον) names what was half-seen and now comes clear. Forgetting and dreaming are paired modes of partial knowledge, both answered by the waking completion of memory."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τρία ὄντα",
+          "lemma": null,
+          "location": "442c",
+          "context": "τῷ κοινῷ σφῶν αὐτῶν τριῶν ὄντων"
+        },
+        {
+          "form": "τρία ὄντα",
+          "lemma": null,
+          "location": "443d",
+          "context": "συναρμόσαντα τρία ὄντα"
+        },
+        {
+          "form": "τρεῖς",
+          "lemma": "τρεῖς",
+          "location": "443d",
+          "context": "ὥσπερ ὅρους τρεῖς ἁρμονίας"
+        },
+        {
+          "form": "τριῶν ὄντων γενῶν",
+          "lemma": null,
+          "location": "441d",
+          "context": "τῷ τὸ ἑαυτοῦ ἕκαστον ἐν αὐτῇ πράττειν τριῶν ὄντων γενῶν"
+        }
+      ],
+      "observation": "The number three recurs in identical participial form τρία ὄντα / τριῶν ὄντων, applied to the three kinds (γενῶν) in city and soul and to the three notes of the harmonic scale."
+    },
+    {
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "σῴζῃ",
+          "lemma": "σῴζω",
+          "location": "443e",
+          "context": "ἣ ἂν ταύτην τὴν ἕξιν σῴζῃ τε καὶ συναπεργάζηται"
+        },
+        {
+          "form": "διασῴζῃ",
+          "lemma": "διασῴζω",
+          "location": "442c",
+          "context": "ὅταν αὐτοῦ τὸ θυμοειδὲς διασῴζῃ διά τε λυπῶν καὶ ἡδονῶν"
+        }
+      ],
+      "observation": "Forms of σῴζω recur: the spirited part preserves through (διασῴζῃ) pains and pleasures what reason commands, and just action preserves (σῴζῃ) the interior ordering."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὡς πόλις ἦν σοφὴ καὶ ᾧ, οὕτω καὶ τὸν ἰδιώτην καὶ τούτῳ σοφὸν εἶναι",
+          "lemma": null,
+          "location": "441c",
+          "context": null
+        },
+        {
+          "form": "ᾧ δὴ ἀνδρεῖος ἰδιώτης καὶ ὥς, τούτῳ καὶ πόλιν ἀνδρείαν καὶ οὕτως",
+          "lemma": null,
+          "location": "441d",
+          "context": null
+        }
+      ],
+      "observation": "The wisdom and courage clauses are constructed in mirrored syntax: ᾧ ... οὕτω ... τούτῳ for wisdom, ᾧ ... ὥς ... τούτῳ ... οὕτως for courage, each pairing instrumental and manner with deictic pronouns."
+    }
+  ]
+}
