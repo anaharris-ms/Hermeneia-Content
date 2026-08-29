@@ -1,0 +1,219 @@
+{
+  "section_id": "republic-chapter-03-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "ὀδύρομαι forms recur throughout the first half of the section (s001), and γέλως appears at 388e-389a (s009). The two prohibitions are paired: uncontrolled lamentation and uncontrolled laughter are treated as parallel excesses requiring the same removal from guardians."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s006"
+      ],
+      "observation": "ἐξαιρέω recurs three times (s002) as lamentations are removed; the same removal redistributes θρῆνοι from ὀνομαστῶν ἀνδρῶν to γυναιξί and κακοὶ τῶν ἀνδρῶν (s006). The verb's repetition enacts the redistribution it names."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "δεινός appears three times negated or minimized (s003), and ἥκιστα occurs four times in dense local concentration at 387e (s004). The superlatives cluster around the negated adjective: what is least terrible to the ἐπιεικής man receives fourfold intensification through ἥκιστα."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s004"
+      ],
+      "observation": "The triple αὐτ- phrase αὐτὸς αὑτῷ αὐτάρκης (s005) names self-sufficiency, and the four occurrences of ἥκιστα at 387e (s004) follow directly, specifying what the self-sufficient man least needs and least does. The formal concentration of self-reference precedes the superlative concentration that details its consequences."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "Achilles' body moves through five positions in detailed spatial sequence (s007), and this depiction occurs within an ascending sequence from men to demigod to gods (s008). The most detailed physical account of lamentation is given to the intermediate figure, the son of a goddess."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s001"
+      ],
+      "observation": "The ascent from ἐλλογίμων ἀνδρῶν to Ἀχιλλέα θεᾶς παῖδα to Πρίαμον ἐγγὺς θεῶν γεγονότα to θεούς to τόν γε μέγιστον τῶν θεῶν (s008) carries ὀδύρομαι and its cognates with it (s001). Each higher rank receives the same prohibition of lamentation, extending the removal upward through the entire hierarchy."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "γέλως appears as a parallel prohibition to lamentation (s009), and immediately afterward ἰσχυρῷ γέλωτι and ἰσχυρὰν μεταβολήν are paired (s010). The same adjective ἰσχυρός binds the strong laughter to the strong change it seeks, making the danger of laughter an intensity that demands reversal."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s013"
+      ],
+      "observation": "ψεῦδος is called a φάρμακον to be administered by ἰατροῖς and not touched by ἰδιῶται (s011), and then ἰατρός, παιδοτρίβης, and κυβερνήτης appear as parallel expert figures whom subordinates must not lie to (s013). The medical analogy introduced for falsehood is enacted through the cluster of expert practitioners who follow."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s015"
+      ],
+      "observation": "κυβερνήτης appears at 389c among the expert practitioners (s013), and at 389d the city is compared to a νεώς that falsehood can overturn (s015). The helmsman analogy generates the ship image that closes the discussion of lying."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s014"
+      ],
+      "observation": "Forms of ψεῦδος/ψεύδομαι recur four times (s012) as the discussion moves from nature to use to punishment, while ἀλήθεια, τἀληθῆ, and τὰ ὄντα (s014) mark what must be told to experts. The recurrence of falsehood terms frames the single appearance of truth vocabulary in the subordinate's obligation."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s019"
+      ],
+      "observation": "At 388e ὁ λόγος ἐσήμαινεν and must be obeyed unless someone πείσῃ with a finer one (s016); at 389d the section closes with ἐάνπερ ἐπί γε λόγῳ ἔργα τελῆται (s019). λόγος appears at both boundaries: first as something that signals and commands obedience, last as what deeds are completed upon."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s018"
+      ],
+      "observation": "Lamentations are removed from ὀνομαστῶν ἀνδρῶν and given to γυναιξί and κακοὶ τῶν ἀνδρῶν so that those raised ἐπὶ φυλακῇ τῆς χώρας will find such behavior repugnant (s006, s018). Then at 389b-c τοῖς ἄρχουσιν τῆς πόλεως alone may lie (s018). The same reference group—guardians/rulers—receives both the prohibition of emotional excess and the permission for falsehood."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s016"
+      ],
+      "observation": "ὀδυρμούς recurs five times (s001), ἐξαιρέω three times (s002) enacting the removal of lamentations, and this extended treatment ends at 388e with ὁ λόγος ἐσήμαινεν, ᾧ πειστέον (s016). The cumulative prohibition of lamentation is marked as what the λόγος itself has signaled and what must be obeyed."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s011"
+      ],
+      "observation": "The μέν/δέ contrast θεοῖσι μὲν ἄχρηστον ψεῦδος, ἀνθρώποις δὲ χρήσιμον (s017) is elaborated through the φάρμακον image: useless to gods, useful to humans as a medicine (s011). The direct antithesis between divine and human leads immediately into the medicinal characterization of falsehood."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005",
+        "s004"
+      ],
+      "observation": "δεινός appears three times negated (s003), embedded within the account of the man who is αὐτὸς αὑτῷ αὐτάρκης (s005), followed by four occurrences of ἥκιστα (s004). The negated adjective is surrounded by two formal concentrations: the triple self-reference before it and the fourfold superlative after it, bracketing the minimization of terror."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "θρήνους",
+          "lemma": "θρῆνος",
+          "location": "387e",
+          "context": "ἐξαιροῖμεν τοὺς θρήνους τῶν ὀνομαστῶν ἀνδρῶν"
+        },
+        {
+          "form": "θρήνους",
+          "lemma": "θρῆνος",
+          "location": "388d",
+          "context": "θρήνους ἂν ᾄδοι καὶ ὀδυρμούς"
+        }
+      ],
+      "observation": "θρῆνος appears twice: first at 387e as what is removed from notable men, then at 388d as what the unrestrained person would sing. The same word marks both the object of removal and the result of failing to remove it."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "387d",
+          "context": "εἰ ὀρθῶς ἐξαιρήσομεν ἢ οὔ"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "387e",
+          "context": "ὀρθῶς ἄρʼ ἂν ἐξαιροῖμεν"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "388a",
+          "context": "ὀρθῶς, ἔφη"
+        },
+        {
+          "form": "ὀρθῶς",
+          "lemma": "ὀρθός",
+          "location": "389b",
+          "context": "εἰ γὰρ ὀρθῶς ἐλέγομεν ἄρτι"
+        }
+      ],
+      "observation": "ὀρθῶς recurs four times, marking the correctness of the removal at 387d-388a and returning at 389b to mark the earlier statement about falsehood as correct."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "387d",
+          "context": "ἀνάγκη, ἔφη, εἴπερ καὶ τὰ πρότερα"
+        },
+        {
+          "form": "δεῖ",
+          "lemma": "δεῖ",
+          "location": "388e",
+          "context": "δεῖ δέ γε οὔχ"
+        },
+        {
+          "form": "δεῖ",
+          "lemma": "δεῖ",
+          "location": "388e",
+          "context": "οὐδὲ φιλογέλωτάς γε δεῖ εἶναι"
+        },
+        {
+          "form": "δεῖ",
+          "lemma": "δεῖ",
+          "location": "388e",
+          "context": "οὐ γὰρ οὖν δεῖ"
+        }
+      ],
+      "observation": "ἀνάγκη appears once at 387d, followed by three occurrences of δεῖ at 388e. Necessity and obligation vocabulary marks the transitions: ἀνάγκη concludes the opening exchange, δεῖ governs the turn to laughter."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ἄρτι",
+          "lemma": "ἄρτι",
+          "location": "388e",
+          "context": "ὡς ἄρτι ἡμῖν ὁ λόγος ἐσήμαινεν"
+        },
+        {
+          "form": "ἄρτι",
+          "lemma": "ἄρτι",
+          "location": "389b",
+          "context": "εἰ γὰρ ὀρθῶς ἐλέγομεν ἄρτι"
+        }
+      ],
+      "observation": "ἄρτι appears twice, each time referring back to what was just said: first to ὁ λόγος at the end of the lamentation discussion, then to the earlier statement about falsehood. The adverb marks two moments of explicit backward reference within the section."
+    }
+  ]
+}
