@@ -1,0 +1,231 @@
+{
+  "section_id": "republic-chapter-03-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The μιμ- family and διήγησις recur in dense alternation, generating the section's central classificatory structure: narration occurs either through simple narration (ἁπλῇ διηγήσει), through mimesis (διὰ μιμήσεως), or through both (διʼ ἀμφοτέρων)."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s008"
+      ],
+      "observation": "Socrates calls himself unclear (ἀσαφής) immediately after Adeimantus requests something clearer (σαφέστερον μαθεῖν); the subsequent recurrence of μανθάνω tracks Adeimantus' progressive understanding from failure (οὐ μανθάνω) through imperative (μάνθανε) to success (μανθάνω)."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "The paired formula ἅ τε λεκτέον καὶ ὡς λεκτέον appears at 392c as a task to be examined and returns verbatim at 398b declared completed; the distinction between λόγος and λέξις at the opening corresponds to the ἅ/ὡς distinction governing the entire inquiry."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009"
+      ],
+      "observation": "Mimesis is defined as making oneself like another (ὁμοιοῦν) versus the poet concealing himself (ἀποκρύπτοιτο); Socrates then performs concealment by retelling Homer's opening without Chryses' direct speech, converting the mimetic passage into simple narration and replacing the name Χρύσης with ὁ ἱερεύς."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s012"
+      ],
+      "observation": "Socrates renders Homer's mimetic opening as ἁπλῆ διήγησις in prose (ἄνευ μέτρου), disclaiming that he is not poetic (οὐ γάρ εἰμι ποιητικός); he thereby performs the conversion from mimetic to simple narration that the theory has just articulated."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s019"
+      ],
+      "observation": "The principle that each does one thing well (ἓν... καλῶς) but fails grasping many (πολλῶν ἐφαπτόμενος πάντων ἀποτυγχάνοι) is enacted at 397e: the city has no double or manifold man (διπλοῦς, πολλαπλοῦς) because each does one thing (ἕκαστος ἓν πράττει)."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s017"
+      ],
+      "observation": "The threefold classification of poetry (tragedy and comedy through complete mimesis; dithyramb through the poet's own report; epic through both) is restated using mixing vocabulary: poets use one unmixed mode (ἄκρατον), the other unmixed mode, or a blend of both (συγκεραννύντες)."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s021",
+        "s022"
+      ],
+      "observation": "The guardians are released from all other crafts (τῶν ἄλλων πασῶν δημιουργιῶν ἀφειμένους) yet called craftsmen of the city's freedom (δημιουργοὺς ἐλευθερίας); the one-practice principle (ἓν ἐπιτήδευμα) is applied to them as the reason they may imitate only what befits them."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s023"
+      ],
+      "observation": "Mimesis from youth settles into habit and nature (εἰς ἔθη τε καὶ φύσιν καθίστανται) affecting body, voice, and mind; the guardians therefore may imitate only the brave, temperate, pious, and free (ἀνδρείους, σώφρονας, ὁσίους, ἐλευθέρους) and nothing slavish (ἀνελεύθερα)."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s024"
+      ],
+      "observation": "The measured man (μέτριος ἀνήρ) uses mimesis sparingly; the inferior one (φαυλότερος) imitates everything, including the extended catalogue of sounds—thunder, winds, axles, instruments, and animal cries—delivered as a dense accumulation."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "The versatile mimetic poet is called sacred, wonderful, and pleasant (ἱερὸν καὶ θαυμαστὸν καὶ ἡδύν), and is the most pleasant (ἥδιστος) to children and the crowd; yet he is anointed, crowned, and sent away, while the austere and less pleasant poet (αὐστηροτέρῳ καὶ ἀηδεστέρῳ) is retained."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019"
+      ],
+      "observation": "The syntactic doubling (σκυτοτόμον σκυτοτόμον, γεωργὸν γεωργὸν, πολεμικὸν πολεμικὸν) enacts the claim that each is one thing only; this corresponds to the statement that the city has no double or manifold man (διπλοῦς, πολλαπλοῦς) because each does one thing (ἕκαστος ἓν πράττει)."
+    },
+    {
+      "signal_ids": [
+        "s024",
+        "s025"
+      ],
+      "observation": "The measured man (μέτριος ἀνήρ) is not ashamed to imitate the good man (οὐκ αἰσχυνεῖσθαι) but is ashamed to mold himself into worse types (αἰσχυνεῖσθαι); the inferior speaker (φαυλότερος) has no such restraint and imitates all things indiscriminately."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s006"
+      ],
+      "observation": "The dense recurrence of the μιμ- family coincides with the naming of poetic genres and performers (tragedy, comedy, dithyramb, epic, rhapsodes, actors); mimesis becomes the classificatory principle by which these genres are distinguished and sorted."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτήδευμα",
+          "lemma": "ἐπιτήδευμα",
+          "location": "394e",
+          "context": "ἓν μὲν ἂν ἐπιτήδευμα καλῶς ἐπιτηδεύοι"
+        },
+        {
+          "form": "ἐπιτηδεύειν",
+          "lemma": "ἐπιτηδεύω",
+          "location": "395c",
+          "context": "μηδὲν ἄλλο ἐπιτηδεύειν ὅτι μὴ εἰς τοῦτο φέρει"
+        }
+      ],
+      "observation": "ἐπιτήδευμα and ἐπιτηδεύειν recur as the guardians' single pursuit is defined: one practice done well versus many attempted and all failed."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύπον",
+          "lemma": "τύπος",
+          "location": "396e",
+          "context": "οἷόν γε ἀνάγκη τὸν τύπον εἶναι τοῦ τοιούτου ῥήτορος"
+        },
+        {
+          "form": "τύπους",
+          "lemma": "τύπος",
+          "location": "396e",
+          "context": "ἐκμάττειν τε καὶ ἐνιστάναι εἰς τοὺς τῶν κακιόνων τύπους"
+        },
+        {
+          "form": "τύποις",
+          "lemma": "τύπος",
+          "location": "398b",
+          "context": "ἐν ἐκείνοις τοῖς τύποις οἷς κατʼ ἀρχὰς ἐνομοθετησάμεθα"
+        }
+      ],
+      "observation": "τύπος appears first as the form or pattern of the measured speaker, then as the molds of worse persons into which one is pressed by mimesis, and finally as the normative patterns legislated at the beginning."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἁρμονίαν",
+          "lemma": "ἁρμονία",
+          "location": "397b",
+          "context": "πρέπουσαν ἁρμονίαν καὶ ῥυθμὸν τῇ λέξει"
+        },
+        {
+          "form": "ῥυθμόν",
+          "lemma": "ῥυθμός",
+          "location": "397b",
+          "context": null
+        },
+        {
+          "form": "ἁρμονιῶν",
+          "lemma": "ἁρμονία",
+          "location": "397c",
+          "context": "πασῶν μὲν ἁρμονιῶν, πάντων δὲ ῥυθμῶν"
+        },
+        {
+          "form": "ῥυθμῶν",
+          "lemma": "ῥυθμός",
+          "location": "397c",
+          "context": null
+        }
+      ],
+      "observation": "ἁρμονία and ῥυθμός recur as a pair; simple narration requires one harmony and one rhythm, while the mimetic mode requires all harmonies and all rhythms."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σμικρὰς τὰς μεταβολὰς",
+          "lemma": "μεταβολή",
+          "location": "397b",
+          "context": "τὸ μὲν σμικρὰς τὰς μεταβολὰς ἔχει"
+        },
+        {
+          "form": "παντοδαπὰς μορφὰς τῶν μεταβολῶν",
+          "lemma": "μεταβολή",
+          "location": "397c",
+          "context": "διὰ τὸ παντοδαπὰς μορφὰς τῶν μεταβολῶν ἔχειν"
+        }
+      ],
+      "observation": "μεταβολαί (changes) are small in simple narration but manifold in form in the mimetic mode, requiring all harmonies and rhythms."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "Ὅμηρος",
+          "lemma": "Ὅμηρος",
+          "location": "393a",
+          "context": "λέγει τε αὐτὸς ὁ ποιητὴς καὶ οὐδὲ ἐπιχειρεῖ ἡμῶν τὴν διάνοιαν ἄλλοσε τρέπειν ὡς ἄλλος τις ὁ λέγων ἢ αὐτός"
+        },
+        {
+          "form": "Ὅμηρον",
+          "lemma": "Ὅμηρος",
+          "location": "393b",
+          "context": "μὴ Ὅμηρον δοκεῖν εἶναι τὸν λέγοντα"
+        },
+        {
+          "form": "Ὅμηρος",
+          "lemma": "Ὅμηρος",
+          "location": "393d",
+          "context": "εἰ γὰρ Ὅμηρος εἰπὼν ὅτι ἦλθεν ὁ Χρύσης"
+        }
+      ],
+      "observation": "Homer is named three times: first as the poet who does not turn our mind elsewhere (speaking as himself), then as the one who tries to make us think he is not speaking (mimetic mode), and finally in the hypothetical simple-narration rewriting."
+    }
+  ]
+}
