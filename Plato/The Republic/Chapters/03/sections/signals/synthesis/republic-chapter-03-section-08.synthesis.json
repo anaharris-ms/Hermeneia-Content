@@ -1,0 +1,236 @@
+{
+  "section_id": "republic-chapter-03-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s005",
+        "s008"
+      ],
+      "observation": "`s005` records the metallurgical sequence (softening, melting, pouring, cutting). `s008` divides this sequence into two stages: useful softening followed by destructive enchantment. The verb sequence in `s005` enacts the two-stage movement that `s008` articulates."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s005"
+      ],
+      "observation": "`s007` traces θυμός/θυμοειδής throughout the section. `s005` names the actions that progressively destroy it: softened, melted, poured out, cut from the soul. The recurrence in `s007` supplies the target undergoing the transformations recorded in `s005`."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "`s009` shows the μαλακ-/μαλθακ- family running from harmonies through persons to final warrior-product. `s010` places χρήσιμον and ἀχρήστον adjacent at the threshold. Together they mark the point where softening (μαλάσσω) crosses from useful to destructive, producing μαλθακὸν αἰχμητήν."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s012"
+      ],
+      "observation": "`s002` contrasts ἀγριότης and ἡμερότης as the two excesses. `s012` places πειθώ/λόγος opposite βία/ἀγριότης in the gymnastics-only person. The ἀγριότης of `s002` returns in `s012` paired with force, enacted as refusal of persuasion through words."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s018"
+      ],
+      "observation": "`s001` names θυμοειδές and φιλόσοφος as the two targets. `s018` contrasts the harmonized soul (σώφρων, ἀνδρεία) with the unharmonized (δειλή, ἄγροικος). The pairing in `s001` supplies the elements whose correct combination produces the virtues named in `s018`."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s014"
+      ],
+      "observation": "`s003` recurs ἁρμόζω, συναρμόζω, εὐαρμοστότατον across the harmonization theme. `s014` introduces string-tuning (ἐπιτείνω/ἀνίημι, χορδαί) and mixing (κεράννυμι) at the conclusion. The tuning and mixing images enact concretely what the abstract ἁρμόζω family has traced."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s001"
+      ],
+      "observation": "`s004` rejects the common view that music serves soul and gymnastics serves body, declaring both for the soul. `s001` replaces that rejected pairing with θυμοειδές and φιλόσοφος as the true targets. The correction in `s004` prepares the new pairing announced in `s001`."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s002"
+      ],
+      "observation": "`s006` records three similes: iron, sinews, wild animal. `s002` contrasts ἀγριότης and ἡμερότης. The iron and sinews appear in the music-excess passage; the θηρίον appears in the gymnastics-excess passage describing ἀγριότης. The similes distribute across the two opposed excesses."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s016"
+      ],
+      "observation": "`s013` traces μουσική/ἄμουσος through the section, ending with the one who lacks Muses becoming ἄμουσος. `s016` names the consequence: the φιλομαθές becomes ἀσθενές, κωφόν, τυφλόν. The deprivation of Muses in `s013` produces the sensory and cognitive blindness recorded in `s016`."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s005"
+      ],
+      "observation": "`s011` clusters pouring and sound (καταυλεῖν, καταχεῖν, χώνη, μινυρίζων). `s005` continues with melting and pouring (τήκει, λείβει, ἐκτήξῃ). The downward-pouring movement in `s011` flows into the liquefaction sequence in `s005`."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s003"
+      ],
+      "observation": "`s015` repeats τοῦ δέοντος three times, marking the threshold of excess in both directions, then replaces it with μέχρι τοῦ προσήκοντος. `s003` culminates in συναρμοσθῆτον and εὐαρμοστότατον. The final μέχρι τοῦ προσήκοντος of `s015` names the point at which the harmonization of `s003` is achieved."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s018"
+      ],
+      "observation": "`s007` traces θυμοειδές/θυμός from initial target through destruction to final pairing with φιλόσοφος. `s018` contrasts the harmonized soul (σώφρων, ἀνδρεία) with the unharmonized (δειλή, ἄγροικος). The properly maintained θυμοειδές of `s007` yields ἀνδρεία in `s018`; destroyed or weakened θυμός yields δειλή."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s015"
+      ],
+      "observation": "`s008` names the two-stage sequence: useful softening, then destructive enchantment producing μαλθακὸν αἰχμητήν. `s015` recurs τοῦ δέοντος marking the boundary. The turning point in `s008` from χρήσιμον to μαλθακόν occurs at the threshold that `s015` repeatedly names."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s001"
+      ],
+      "observation": "`s017` attributes the two arts to a god. `s001` names their targets as θυμοειδές and φιλόσοφος. The divine gift in `s017` supplies the two arts whose purpose `s001` corrects from the common misunderstanding."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τραφὲν",
+          "lemma": "τρέφω",
+          "location": "410d",
+          "context": "ὀρθῶς μὲν τραφὲν ἀνδρεῖον ἂν εἴη"
+        },
+        {
+          "form": "τραφέντος",
+          "lemma": "τρέφω",
+          "location": "410e",
+          "context": "καλῶς δὲ τραφέντος ἥμερόν τε καὶ κόσμιον"
+        },
+        {
+          "form": "τρεφόμενον",
+          "lemma": "τρέφω",
+          "location": "411d",
+          "context": "οὐκ ἐγειρόμενον οὐδὲ τρεφόμενον"
+        }
+      ],
+      "observation": "τρέφω recurs three times: θυμοειδές rightly nourished becomes brave, φιλόσοφος well nourished becomes gentle and orderly, φιλομαθές not nourished becomes weak, deaf, and blind."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀνδρεῖον",
+          "lemma": "ἀνδρεῖος",
+          "location": "410d",
+          "context": "ὀρθῶς μὲν τραφὲν ἀνδρεῖον ἂν εἴη"
+        },
+        {
+          "form": "ἀνδρειότερος",
+          "lemma": "ἀνδρεῖος",
+          "location": "411c",
+          "context": "ἀνδρειότερος γίγνεται αὐτὸς αὑτοῦ"
+        },
+        {
+          "form": "ἀνδρεία",
+          "lemma": "ἀνδρεία",
+          "location": "410e",
+          "context": "τοῦ μὲν ἡρμοσμένου σώφρων τε καὶ ἀνδρεία ἡ ψυχή"
+        }
+      ],
+      "observation": "ἀνδρεῖος/ἀνδρεία appears three times: as product of rightly nourished θυμοειδές, as comparative describing the gymnastics-only person initially, and as virtue of the harmonized soul."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιταθὲν",
+          "lemma": "ἐπιτείνω",
+          "location": "410d",
+          "context": "μᾶλλον δʼ ἐπιταθὲν τοῦ δέοντος"
+        },
+        {
+          "form": "ἐπέχων",
+          "lemma": "ἐπέχω",
+          "location": "411b",
+          "context": "ὅταν δʼ ἐπέχων μὴ ἀνιῇ"
+        },
+        {
+          "form": "ἐπιτεινομένω",
+          "lemma": "ἐπιτείνω",
+          "location": "412a",
+          "context": "ἐπιτεινομένω καὶ ἀνιεμένω μέχρι τοῦ προσήκοντος"
+        }
+      ],
+      "observation": "ἐπιτείνω/ἐπέχω recur: θυμοειδές overstrained (ἐπιταθέν) becomes harsh, music holding on (ἐπέχων) without release destroys θυμός, the two natures must be tightened and loosened (ἐπιτεινομένω καὶ ἀνιεμένω) to the proper point."
+    },
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρῶτον",
+          "lemma": "πρῶτος",
+          "location": "411a",
+          "context": "οὗτος τὸ μὲν πρῶτον"
+        },
+        {
+          "form": "μετὰ τοῦτο",
+          "lemma": null,
+          "location": "411b",
+          "context": "τὸ δὴ μετὰ τοῦτο ἤδη"
+        }
+      ],
+      "observation": "The music-excess passage explicitly marks temporal stages with πρῶτον and μετὰ τοῦτο, dividing useful softening from destructive continuation."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φιλομαθὲς",
+          "lemma": "φιλομαθής",
+          "location": "411d",
+          "context": "εἴ τι καὶ ἐνῆν αὐτοῦ φιλομαθὲς ἐν τῇ ψυχῇ"
+        },
+        {
+          "form": "φιλόσοφος",
+          "lemma": "φιλόσοφος",
+          "location": "410e",
+          "context": "τὸ ἥμερον οὐχ ἡ φιλόσοφος ἂν ἔχοι φύσις"
+        },
+        {
+          "form": "φιλόσοφον",
+          "lemma": "φιλόσοφος",
+          "location": "411e",
+          "context": "ἐπὶ τὸ θυμοειδὲς καὶ τὸ φιλόσοφον"
+        },
+        {
+          "form": "φιλοσοφίας",
+          "lemma": "φιλοσοφία",
+          "location": "411c",
+          "context": "μουσικῆς δὲ καὶ φιλοσοφίας μὴ ἅπτηται"
+        }
+      ],
+      "observation": "The φιλ- learning family appears as φιλόσοφος nature (twice), φιλοσοφία paired with music, and φιλομαθές element in the soul, naming the target and its deprivation."
+    }
+  ]
+}
