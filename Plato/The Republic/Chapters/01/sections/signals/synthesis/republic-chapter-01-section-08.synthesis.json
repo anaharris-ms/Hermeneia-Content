@@ -1,0 +1,180 @@
+{
+  "section_id": "republic-chapter-01-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s003"
+      ],
+      "observation": "s001 shows ἔργον applied successively to horse, pruning-hook, eyes, ears, and soul. s002 shows ἀρετή paired with each ἔργον. s003 places ἀρετή and κακία in the same grammatical construction: τῇ οἰκείᾳ μὲν ἀρετῇ... κακίᾳ δὲ κακῶς. The repeated pairing moves from concrete tools and organs through the same pattern to soul."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s002"
+      ],
+      "observation": "s004 cites eyes and ears as sense-organ examples. s002 shows ἀρετή applied to each. Thrasymachus supplies τυφλότης as the κακία opposite to ὄψις, completing the ἀρετή-κακία pair for eyes in his own voice."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s001"
+      ],
+      "observation": "s005 places three tools—knife, chisel, pruning-hook—in a sequence where the pruning-hook is singled out as doing the work best. s001 records ἔργον recurring across the section. The pruning-hook provides the concrete example of what is meant by ἔργον: what one thing does uniquely or best."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s001"
+      ],
+      "observation": "s006 lists ἐπιμελεῖσθαι, ἄρχειν, βουλεύεσθαι, then τὸ ζῆν as the soul's ἔργον. s001 shows ἔργον applied to horse, pruning-hook, eyes, ears, then soul. Living is placed as a separate question after the triad of activities and receives separate affirmation."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s003"
+      ],
+      "observation": "s007 presents δικαιοσύνη as the ἀρετή of the soul and ἀδικία as its κακία, introduced with συνεχωρήσαμεν. s003 places ἀρετή and κακία in the contrasted construction producing εὖ versus κακῶς. The prior concession is now applied to soul in the same grammatical arrangement used for eyes and ears."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s007"
+      ],
+      "observation": "s008 places εὐδαίμων and μακάριος opposite ἄθλιος. s007 identifies δικαιοσύνη as the soul's ἀρετή and ἀδικία as its κακία. The just soul called δικαία at 353e is called εὐδαίμων at 354a; the unjust called ἄδικος is called ἄθλιος. The evaluative terms follow directly from the ἀρετή-κακία identification."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s008"
+      ],
+      "observation": "s009 shows λυσιτελής recurring: first, being wretched does not profit; then, injustice is never more profitable than justice. s008 places ἄθλιος as the condition of the unjust person. The two uses of λυσιτελής are consecutive and the second negates the profitability claim for ἀδικία using the same root."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "s010 shows Thrasymachus offering the argument as a feast (εἱστιάσθω) and Socrates replying that he has not feasted well (οὐ καλῶς εἱστίαμαι). s011 compares Socrates to greedy diners (λίχνοι) who snatch and taste each dish. Both metaphors place the dialogue as a meal and locate the problem in Socrates' manner of eating."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s015"
+      ],
+      "observation": "s011 shows greedy diners tasting each passing dish before enjoying the previous one. s015 lists three questions—what justice is, whether it is virtue, whether injustice is more profitable—and says the first was abandoned for the others. The image of premature tasting enacts the sequence error Socrates describes."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s015"
+      ],
+      "observation": "s012 states the dialogue's result is knowing nothing (μηδὲν εἰδέναι) and specifies not knowing what the just is (μὴ οἶδα ὅ ἐστιν). s015 names τὸ δίκαιον ὅτι ποτ' ἐστίν as the first question abandoned. The final claim of ignorance returns to the opening question as what remains unknown."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s010"
+      ],
+      "observation": "s013 places Thrasymachus becoming gentle (πρᾷος) and ceasing to be harsh (χαλεπαίνων ἐπαύσω) before s010, where Thrasymachus offers the feast. Socrates credits Thrasymachus for the change in tone, then attributes his own poor feasting to himself (δι' ἐμαυτόν), not Thrasymachus."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s008"
+      ],
+      "observation": "s014 shows Socrates addressing Thrasymachus as ὦ μακάριε. s008 uses μακάριος to describe the person who lives well. The vocative follows immediately after the adjective's use in the argument, applying the same word to the interlocutor in direct address."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s006",
+        "s007"
+      ],
+      "observation": "s001 moves ἔργον from horse and pruning-hook through eyes and ears to soul. s006 specifies the soul's ἔργον as caring for, ruling, deliberating, and living. s007 identifies δικαιοσύνη as the soul's ἀρετή. The ἀρετή-ἔργον structure applied to tools and sense organs reaches soul, where justice is the excellence and living is the work."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὑπὸ σοῦ γε",
+          "lemma": null,
+          "location": "354a",
+          "context": "ὑπὸ σοῦ γε, ὦ Θρασύμαχε, ἐπειδή μοι πρᾷος ἐγένου"
+        }
+      ],
+      "observation": "Socrates credits Thrasymachus (ὑπὸ σοῦ γε) for his own feasting, then immediately reverses this, saying the poor feasting is δι' ἐμαυτόν, not δι' σέ. The attribution shifts from Thrasymachus to Socrates across two consecutive clauses."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "353c, 353e, 354a",
+          "context": "εὖ ἐργάσεται ... εὖ βιώσεται ... ὁ εὖ ζῶν"
+        },
+        {
+          "form": "κακῶς",
+          "lemma": "κακῶς",
+          "location": "353c, 353e",
+          "context": "κακίᾳ δὲ κακῶς ... κακῶς ἄρχειν"
+        }
+      ],
+      "observation": "εὖ and κακῶς occur in repeated parallel placement: performing work εὖ versus κακῶς, ruling εὖ versus κακῶς, living εὖ. The adverbs carry the ἀρετή-κακία opposition through different activities."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "πῶς γὰρ οὔ",
+          "lemma": null,
+          "location": "353a, 354a (twice)",
+          "context": "Response formula"
+        }
+      ],
+      "observation": "πῶς γὰρ οὔ recurs as Thrasymachus' formula of assent three times in this section, each time affirming a step in Socrates' argument about profit and happiness."
+    },
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σκόπει",
+          "lemma": "σκοπέω",
+          "location": "352d",
+          "context": "σκόπει δή"
+        },
+        {
+          "form": "σκοπῶ",
+          "lemma": "σκοπέω",
+          "location": "352d",
+          "context": "σκοπῶ, ἦν δ' ἐγώ"
+        },
+        {
+          "form": "σκέψαι",
+          "lemma": "σκοπέω",
+          "location": "353d",
+          "context": "ἴθι δή, μετὰ ταῦτα τόδε σκέψαι"
+        },
+        {
+          "form": "ἐσκοποῦμεν",
+          "lemma": "σκοπέω",
+          "location": "354b",
+          "context": "ὃ τὸ πρῶτον ἐσκοποῦμεν"
+        }
+      ],
+      "observation": "Forms of σκοπέω mark the movement: Socrates' initial call to examine, his assent, a renewed call after the ἔργον-ἀρετή pattern is established for tools and organs, and finally the retrospective claim about what was first being examined but abandoned."
+    }
+  ]
+}
