@@ -1,0 +1,261 @@
+{
+  "section_id": "republic-chapter-02-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "The saturation of ἀδικεῖν/ἀδικεῖσθαι in `s001` moves through the social-contract account into the ring narrative, where `s013` places the willing/unwilling contrast: practitioners of justice act ἄκοντες, paired with ἀναγκαῖον, and no one is ἑκών δίκαιος, paired with ἀναγκαζόμενος. The dense injustice vocabulary culminates in the claim that justice is pursued unwillingly under compulsion."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s018"
+      ],
+      "observation": "The δοκεῖν/εἶναι contrast in `s002` inverts across the two lives and also inverts across the two citations of Aeschylus in `s018`. The phrase 'not to seem but to be' is first applied to the just man (361b), then redirected (362a) as more correctly describing the unjust man—the same line serves opposite figures."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s006"
+      ],
+      "observation": "The descent into the χάσμα and the exit in `s004` frame the discovery of the ring, whose operation in `s005` and `s006` depends on an εἴσω/ἔξω spatial toggle. The narrative moves downward into an opening, retrieves an object whose power is directional (inward/outward turning), and returns to the surface with it."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s015"
+      ],
+      "observation": "Glaucon opens asking about the δύναμις of justice αὐτὸ καθʼ αὑτό in `s007`, and `s015` records his repeated βούλομαι to hear justice praised in itself. The ring narrative then grants a δύναμις enabling the possessor to do ὅτι ἂν βούληται. The power Glaucon seeks to understand is answered by a power that removes all constraint from wanting."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "The pastoral cluster in `s010`—ποιμήν, νέμω, ποίμνιον—situates the ancestor as a shepherd tending flocks. The sequence in `s011` moves from this pastoral role through becoming a messenger, seducing the queen, killing the king, and seizing the ἀρχή. A herdsman becomes a ruler."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s021"
+      ],
+      "observation": "Forms of ἐπιτηδεύω in `s012` recur across all three parts of the speech, paired first with ἄκοντες for practitioners of justice, then as ἐπιτήδευμα for the complete pursuit of each life. Justice in `s021` is placed μεταξύ and ἐν μέσῳ between extremes. Both configurations position justice as pursued rather than chosen, and as occupying a middle rather than an end."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s016"
+      ],
+      "observation": "The sequence of five future passives in `s003` catalogues tortures ending in impalement; the just man is μαστιγώσεται, στρεβλώσεται, δεδήσεται, ἐκκαυθήσεται, ἀνασχινδυλευθήσεται. In `s016` the same man is γυμνωτέος, βεβασανισμένος, and ἐκκαθαίρεις. The violent sequence is preceded by a methodical stripping and testing. Both sets of actions work toward exposure."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s017"
+      ],
+      "observation": "Socrates' two responses—Thrasymachus charmed ὥσπερ ὄφις and the two men cleaned ὥσπερ ἀνδριάντα in `s014`—bracket Glaucon's speech and coincide with the κρίσις language in `s017`. The snake simile precedes the speech, the statue simile follows it, and both relate to the κρίσιν announced, conducted, and completed."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s022"
+      ],
+      "observation": "Thrasymachus is κηληθῆναι, charmed, by Socrates in `s009`; the perfectly unjust man in the same signal is equipped to persuade (πείθειν) and to compel (βιάσασθαι). The ring-bearer in `s022` is called ἰσόθεον among humans. Verbal compulsion, physical compulsion, and godlike status converge in the figure of the invisible actor."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s016"
+      ],
+      "observation": "The δοκεῖν/εἶναι inversion in `s002` places the just man ὢν δὲ δίκαιος while δοκῶν ἄδικος. The tortures in `s003` and the stripping in `s016` act on the man who is just. The appearance of injustice does not protect him from the treatment; the constructed contrast requires that being and seeming produce opposite outcomes."
+    },
+    {
+      "signal_ids": [
+        "s019",
+        "s013"
+      ],
+      "observation": "The cultic cluster in `s019` attributes θυσίας, ἀναθήματα, θεραπεύειν τοὺς θεούς to the unjust man, making him θεοφιλέστερον than the just. In `s013` no one is ἑκὼν δίκαιος but ἀναγκαζόμενος. The unjust man's worship is voluntary and abundant; the just man's practice is compelled."
+    },
+    {
+      "signal_ids": [
+        "s020",
+        "s008"
+      ],
+      "observation": "The three-part programme announced in `s020` (πρῶτον/δεύτερον/τρίτον) structures the speech. The phrase αὐτὸ καθʼ αὑτό in `s008` appears twice in the framing, specifying that justice is to be considered in itself. The announced structure isolates justice from consequences; the repeated phrase isolates it from external goods. Both work toward the same separation."
+    },
+    {
+      "signal_ids": [
+        "s023",
+        "s008"
+      ],
+      "observation": "Forms of ἀκούω saturate the opening exchange in `s023`, where Glaucon demands to hear and reports what he has not heard as he wishes. The phrase αὐτὸ καθʼ αὑτό in `s008` specifies what is to be heard: justice ἐγκωμιαζόμενον in itself. The repeated hearing vocabulary and the repeated isolation phrase together frame the speech as fulfilling or exposing a lack."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s021"
+      ],
+      "observation": "The ἀδικεῖν/ἀδικεῖσθαι pairing in `s001` structures the social-contract account, where justice in `s021` is placed μεταξύ and ἐν μέσῳ between unpunished injustice (ἄριστον) and helpless suffering of injustice (κάκιστον). The two actions that saturate the account become the two poles between which justice is positioned."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s022"
+      ],
+      "observation": "The ring's operation in `s005` toggles visibility (ἀφανής/φανερός, ἄδηλος/δῆλος) by turning inward or outward. The ring-bearer in `s022` is ἰσόθεον among humans. Invisibility produces a godlike status: the human who can toggle in and out of visibility acts without human constraint."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s015"
+      ],
+      "observation": "The sequence in `s011` moves from messenger to seducer to regicide to ruler. Each action in the sequence is governed by βούλομαι or a related form in `s015`: the ring grants the power to do ὅτι ἂν βούληται, and the unjust man marries ὁπόθεν ἂν βούληται, associates with whom he wishes, takes what he wishes. The narrative enacts unlimited wanting; the speech's closure attributes unlimited wanting to the perfected unjust man."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέλεον",
+          "lemma": "τέλειος",
+          "location": "360e",
+          "context": "τέλεον ἑκάτερον εἰς τὸ ἑαυτοῦ ἐπιτήδευμα τιθῶμεν"
+        },
+        {
+          "form": "τελέως",
+          "lemma": "τέλειος",
+          "location": "361a",
+          "context": "τῷ τελέως ἀδίκῳ τὴν τελεωτάτην ἀδικίαν"
+        },
+        {
+          "form": "τελεωτάτην",
+          "lemma": "τέλειος",
+          "location": "361a",
+          "context": "δοτέον οὖν τῷ τελέως ἀδίκῳ τὴν τελεωτάτην ἀδικίαν"
+        }
+      ],
+      "observation": "Forms of τέλειος recur in the construction of the two lives: each is to be made τέλεον into his practice, and the unjust man is to be τελέως ἄδικος with the τελεωτάτη ἀδικία. Completeness or perfection is the criterion for the comparison."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐσχάτη",
+          "lemma": "ἔσχατος",
+          "location": "361a",
+          "context": "ἐσχάτη γὰρ ἀδικία δοκεῖν δίκαιον εἶναι μὴ ὄντα"
+        },
+        {
+          "form": "ἔσχατον",
+          "lemma": "ἔσχατος",
+          "location": "361d",
+          "context": "ἵνα ἀμφότεροι εἰς τὸ ἔσχατον ἐληλυθότες"
+        }
+      ],
+      "observation": "ἔσχατος appears twice: ἐσχάτη ἀδικία is to seem just while being unjust, and both men are to have come εἰς τὸ ἔσχατον of their respective conditions. The superlative marks both extremity of injustice and the final extremity of each life."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἁπλοῦν",
+          "lemma": "ἁπλοῦς",
+          "location": "361b",
+          "context": "ἄνδρα ἁπλοῦν καὶ γενναῖον"
+        },
+        {
+          "form": "δεινοὶ δημιουργοί",
+          "lemma": null,
+          "location": "360e",
+          "context": "ὥσπερ οἱ δεινοὶ δημιουργοί"
+        }
+      ],
+      "observation": "The just man is called ἁπλοῦς, simple or straightforward; the unjust man is compared to δεινοὶ δημιουργοί, clever craftsmen who distinguish the possible from the impossible and recover from errors. Simplicity is set against technical skill."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὡς φαίνεσθαι μείζω ἢ κατʼ ἄνθρωπον",
+          "lemma": null,
+          "location": "359d",
+          "context": "ἰδεῖν ἐνόντα νεκρόν, ὡς φαίνεσθαι μείζω ἢ κατʼ ἄνθρωπον"
+        }
+      ],
+      "observation": "The corpse inside the bronze horse appears μείζω ἢ κατʼ ἄνθρωπον, larger than human. The possessor of the ring taken from this corpse later becomes ἰσόθεον. Both exceed human scale."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σφαλῇ",
+          "lemma": "σφάλλω",
+          "location": "361a",
+          "context": "ἐὰν ἄρα πῃ σφαλῇ, ἱκανὸς ἐπανορθοῦσθαι"
+        },
+        {
+          "form": "σφάλληταί",
+          "lemma": "σφάλλω",
+          "location": "361b",
+          "context": "καὶ ἐὰν ἄρα σφάλληταί τι, ἐπανορθοῦσθαι δυνατῷ εἶναι"
+        }
+      ],
+      "observation": "The unjust man, like the skilled craftsman, is twice said to be able to recover (ἐπανορθοῦσθαι) if he errs (σφαλῇ, σφάλληταί). Error and correction recur as part of his technical competence."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φίλους",
+          "lemma": "φίλος",
+          "location": "361b",
+          "context": "διὰ παρασκευὴν φίλων καὶ οὐσίας"
+        },
+        {
+          "form": "φίλους",
+          "lemma": "φίλος",
+          "location": "362c",
+          "context": "τούς τε φίλους εὖ ποιεῖν"
+        }
+      ],
+      "observation": "φίλοι appear twice in the account of the unjust man's advantages: as part of his resources for compulsion, and as beneficiaries of his wealth. Friends are both instruments and recipients."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐχθρῶν",
+          "lemma": "ἐχθρός",
+          "location": "362b",
+          "context": "πλεονεκτεῖν τῶν ἐχθρῶν"
+        },
+        {
+          "form": "ἐχθροὺς",
+          "lemma": "ἐχθρός",
+          "location": "362c",
+          "context": "καὶ τοὺς ἐχθροὺς βλάπτειν"
+        }
+      ],
+      "observation": "ἐχθροί recur in the closure of Glaucon's speech: the unjust man has the advantage over enemies in competition (πλεονεκτεῖν) and harms them (βλάπτειν). Enemies receive opposite treatment from friends."
+    }
+  ]
+}
