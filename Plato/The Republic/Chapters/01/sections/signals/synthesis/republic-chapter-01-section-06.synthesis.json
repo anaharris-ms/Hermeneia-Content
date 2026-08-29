@@ -1,0 +1,160 @@
+{
+  "section_id": "republic-chapter-01-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s005"
+      ],
+      "observation": "The shepherd cluster (s002: ποιμήν, πρόβατον, παχύνειν, πιαίνειν) appears with dense σκοπέω forms (s005) at both ends of the section. Thrasymachus asks what shepherds σκοπεῖν at 343b; Socrates asks whether the true shepherd πιαίνειν τὰ πρόβατα at 345c, returning σκοπεῖσθαι for what the shepherd looks to. The shepherd image and the σκοπέω vocabulary frame and answer one another across the section."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "ἀλλότριον ἀγαθόν paired with οἰκεία βλάβη (s001) at 343c names justice as the advantage of the κρείττων. The συμφέρον recurrence (s009) restates this: Thrasymachus assigns συμφέρον to the κρείττων at 343c and 344c; Socrates reverses it at 347d, assigning συμφέρον to the ἀρχόμενος. The ἀλλότριον/οἰκεῖον contrast and the contested συμφέρον mark the same contested assignment of benefit across ruler and ruled."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s004"
+      ],
+      "observation": "Thrasymachus addresses Socrates as εὐηθέστατε (s006) at 343d and uses εὐηθικῶν to describe the ruled who are just (343c). The nurse image (s004) accuses Socrates of being κορυζῶντα and unwiped, a bodily failure. Both moves call Socrates simple and child-like; εὐήθης links the intellectual accusation to the bodily one."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s009"
+      ],
+      "observation": "The μισθός cluster (s010) accumulates as Socrates distinguishes wage-earning from each τέχνη's proper work. This separation removes συμφέρον (s009) from the craft itself: each τέχνη σκοπεῖ the advantage of the ruled, not its own, so μισθός must come from another source. The μισθός argument enacts the redirection of συμφέρον away from the ruler."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "τυραννίς is named τελεωτάτη ἀδικία (s012) at 344a, and the same passage pairs εὐδαιμονέστατον for the tyrant with ἀθλιωτάτους for his victims (s013). Tyranny as the most complete form and the superlative pair of happiness/wretchedness name the same endpoint of injustice."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "No one willingly (ἑκών, s014) rules; ἀνάγκη is required (347c). The greatest ζημία (s015) for not ruling is being ruled ὑπὸ πονηροτέρου. Refusal to rule is punished not by fine but by subjection, making ἀνάγκη the only motive for the decent to rule."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s007"
+      ],
+      "observation": "Thrasymachus ἐν νῷ εἶχεν ἀπιέναι but is compelled to ὑπομεῖναι (s008). Socrates narrates this using the βαλανεύς image (s007): Thrasymachus drenches their ears ὥσπερ βαλανεύς before trying to depart. The bath-attendant image and the compulsion to remain place Thrasymachus's long speech between an overwhelming flood and enforced accountability."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s001"
+      ],
+      "observation": "The just man has ἔλαττον, never πλέον (s011) in all transactions. This restates the ἀλλότριον ἀγαθόν/οἰκεία βλάβη pair (s001): having less everywhere enacts the οἰκεία βλάβη assigned to the ruled."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s013"
+      ],
+      "observation": "βίος frames the stakes at 344e as the διαγωγή of a whole life and returns at 347e comparing the just and unjust βίος. The εὐδαιμονέστατον/ἀθλιωτάτους pair (s013) names the two lives' outcomes. The question about life and the superlative happiness/wretchedness mark the same encompassing claim."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s014"
+      ],
+      "observation": "In a city of good men, τὸ μὴ ἄρχειν would be περιμάχητον as τὸ ἄρχειν is now (s016). No one rules ἑκών (s014); ἀνάγκη is required. The counterfactual competition inverts present struggle and confirms that ruling is not sought as a good."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s012"
+      ],
+      "observation": "Partial wrongdoers act κατὰ μέρη and receive shameful names; the tyrant seizes συλλήβδην (s018). Tyranny is τελεωτάτη ἀδικία (s012). The contrast between partial and whole-seizure and the naming of tyranny as most complete mark the same culmination."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὡς ἀληθῶς",
+          "lemma": null,
+          "location": "343b, 343c, 345c",
+          "context": "οἱ ὡς ἀληθῶς ἄρχουσιν (343b); τῶν ὡς ἀληθῶς εὐηθικῶν τε καὶ δικαίων (343c); τὸν ὡς ἀληθῶς ἰατρὸν … τὸν ὡς ἀληθῶς ποιμένα (345c)"
+        }
+      ],
+      "observation": "ὡς ἀληθῶς recurs three times: Thrasymachus applies it to true rulers and to the truly simple/just; Socrates applies it to the true doctor and true shepherd. The phrase marks contested claims about what counts as truly being something."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κρείττονος",
+          "lemma": "κρείττων",
+          "location": "343c, 344c, 347e",
+          "context": "τοῦ κρείττονός τε καὶ ἄρχοντος συμφέρον (343c); τὸ μὲν τοῦ κρείττονος συμφέρον (344c); τὸ τοῦ κρείττονος συμφέρον (347e)"
+        },
+        {
+          "form": "ἥττονος",
+          "lemma": "ἥττων",
+          "location": "346e",
+          "context": "τὸ ἐκείνου συμφέρον ἥττονος ὄντος σκοποῦσα"
+        }
+      ],
+      "observation": "κρείττων appears three times with συμφέρον; ἥττων appears once at 346e when Socrates reassigns advantage to the weaker. The comparative pair κρείττων/ἥττων marks the contested hierarchy."
+    },
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "διδάξαι … μαθεῖν",
+          "lemma": null,
+          "location": "344d",
+          "context": "πρὶν διδάξαι ἱκανῶς ἢ μαθεῖν εἴτε οὕτως εἴτε ἄλλως ἔχει"
+        }
+      ],
+      "observation": "Socrates asks whether Thrasymachus will depart before teaching sufficiently or learning (πρὶν διδάξαι ἱκανῶς ἢ μαθεῖν). Teaching and learning are paired as the incomplete alternatives Thrasymachus would abandon."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πείθομαι",
+          "lemma": "πείθω",
+          "location": "345a, 345b",
+          "context": "οὐ πείθομαι οὐδ᾽ οἶμαι ἀδικίαν δικαιοσύνης κερδαλεώτερον εἶναι (345a); ὅμως ἐμέ γε οὐ πείθει (345a); πῶς … σὺ πείσω (345b); εἰ γὰρ οἷς νυνδὴ ἔλεγον μὴ πέπεισαι (345b)"
+        }
+      ],
+      "observation": "πείθω forms accumulate as Socrates declares himself unpersuaded (οὐ πείθομαι, οὐ πείθει) and Thrasymachus asks how to persuade (πῶς σὺ πείσω) and whether Socrates is persuaded (μὴ πέπεισαι). Persuasion becomes the explicit stake after the long speech."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τέχνη",
+          "lemma": "τέχνη",
+          "location": "345c, 345d, 346a, 346c, 346d, 346e, 347a",
+          "context": "Multiple occurrences discussing each τέχνη and its proper work"
+        }
+      ],
+      "observation": "τέχνη recurs densely from 345c through 347a as Socrates distinguishes each craft, its proper ὠφελία, and the separate μισθωτική τέχνη. The clustering marks the extended argument about ruling as a τέχνη."
+    }
+  ]
+}
