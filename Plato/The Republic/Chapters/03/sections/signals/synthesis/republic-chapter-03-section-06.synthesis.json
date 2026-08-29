@@ -1,0 +1,216 @@
+{
+  "section_id": "republic-chapter-03-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "At 403d σῶμα and ψυχή appear in a causal reversal: the good soul produces the best body. At 404e the same pair returns in a parallel distribution: ἁπλότης produces σωφροσύνη ἐν ψυχαῖς through μουσική and ὑγίεια ἐν σώμασιν through γυμναστική. The initial reversal reappears as a structural parallelism closing the section."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s006"
+      ],
+      "observation": "μουσική and γυμναστική are introduced as a sequence at 403c, then paired as ἀδελφαί at 404b with the shared quality ἁπλοῦς, then distributed at 404e as parallel agents producing σωφροσύνη and ὑγίεια. The kinship stated in the middle is enacted in the closing structural parallel."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s008"
+      ],
+      "observation": "ἁπλοῦς and ποικιλία recur across the section as opposed qualities: ἁπλοῦς describes both μουσική and γυμναστική, ποικιλία names Sicilian culinary variety, and at 404e the abstract nouns ἁπλότης and ποικιλία appear as opposed generative agents, the first producing σωφροσύνη and ὑγίεια, the second ἀκολασία and νόσος."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "The ἕξις of ordinary athletes is called ὑπνώδης at 404a, and immediately the guardians are required to be ἄγρυπνοι ὥσπερ κύνας. The canine simile supplies the opposite of the sleep that disqualifies the first regime."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "φύλαξ recurs three times in two lines at 403e, the second occurrence doubling the word in the phrase φύλακα φύλακος δεῖσθαι. At 404a the guardians become κύνας ἀγρύπνους. The canine image follows the concentrated repetition of the guardian name."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "Homer is cited at 404b as a source for learning about heroic diet. The citation is then followed by a sequence of rejected items: no fish, no boiled meat, only roasted, no seasonings (404c), then Syracusan tables, Sicilian ὄψον, Corinthian girls, Attic pastries (404d). The Homeric authority precedes the enumeration it grounds."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s016",
+        "s017"
+      ],
+      "observation": "At 404d-e the elaborate diet (Συρακοσίαν τράπεζαν, Σικελικὴν ποικιλίαν ὄψου) is compared using ἀπεικάζω twice to μελοποιία ἐν τῷ παναρμονίῳ καὶ ἐν πᾶσι ῥυθμοῖς. Then at 404e ποικιλία reappears as the abstract agent producing ἀκολασία and νόσος. The culinary ποικιλία is first likened to musical variety, then named as the cause of vice and disease."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s006",
+        "s008"
+      ],
+      "observation": "ἀρετή appears twice at 403d, attributed first to σῶμα then to ψυχή in the causal reversal. At 404e ἁπλότης (related to ἁπλοῦς which describes both μουσική and γυμναστική) produces σωφροσύνη and ὑγίεια. The initial appeal to ἀρετή as a causal principle is answered by ἁπλότης as the productive quality in the closing sentence."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s019"
+      ],
+      "observation": "ὑγίεια recurs three times: at 404a the athletes' regime is σφαλερὰ πρὸς ὑγίειαν, at 404b the guardians must not be ἀκροσφαλεῖς πρὸς ὑγίειαν, and at 404e ἁπλότης produces ὑγίειαν. The first two occurrences pair ὑγίεια with words for precariousness (σφαλερά, ἀκροσφαλεῖς); the third presents it as a secured product."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s003",
+        "s004"
+      ],
+      "observation": "γυμναστική is called ἀδελφή of μουσική at 404b. At 404e the two return in a κατὰ μέν…κατὰ δέ parallel structure, each assigned to a distinct locus (ψυχαῖς, σώμασιν) and product (σωφροσύνη, ὑγίεια). The kinship term gives way to a structural parallelism that keeps the pair distinct."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s003"
+      ],
+      "observation": "θρεπτέοι and τρέφεσθαι appear together at 403c introducing γυμναστική: the young must be reared in it ἀκριβῶς ἐκ παίδων διὰ βίου. At 404e γυμναστική produces ὑγίεια ἐν σώμασιν. The initial rearing obligation is answered by the final bodily product."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s006"
+      ],
+      "observation": "The sequence of rejected luxuries (fish, boiled meat, seasonings, Syracusan tables, Sicilian ὄψον, Corinthian girls, Attic pastries) at 404b-d is then gathered under ποικιλία at 404e and opposed to ἁπλότης. The enumerated variety is named by the abstract noun that produces ἀκολασία and νόσος."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκριβῶς",
+          "lemma": "ἀκριβής",
+          "location": "403c",
+          "context": "καὶ ταύτῃ ἀκριβῶς τρέφεσθαι"
+        },
+        {
+          "form": "ἀκριβολογεῖσθαι",
+          "lemma": "ἀκριβολογέομαι",
+          "location": "403d",
+          "context": "τὰ περὶ τὸ σῶμα ἀκριβολογεῖσθαι"
+        }
+      ],
+      "observation": "ἀκριβῶς and ἀκριβολογεῖσθαι appear close together: first as the manner of rearing in γυμναστική, then as what is delegated to διάνοια while Socrates offers only τύπους."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύπους",
+          "lemma": "τύπος",
+          "location": "403e",
+          "context": "ὅσον τοὺς τύπους ὑφηγησαίμεθα"
+        }
+      ],
+      "observation": "τύπους names what Socrates will supply instead of detailed instruction (ἀκριβολογεῖσθαι), echoing the earlier use of τύπος in the section on μουσική education."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μεθυσθέντι",
+          "lemma": "μεθύω",
+          "location": "403e",
+          "context": "φύλακι μεθυσθέντι μὴ εἰδέναι ὅπου γῆς ἐστιν"
+        },
+        {
+          "form": "μέθης",
+          "lemma": "μέθη",
+          "location": "403e",
+          "context": "μέθης μὲν δὴ εἴπομεν ὅτι ἀφεκτέον αὐτοῖς"
+        }
+      ],
+      "observation": "μέθη and its verbal form μεθύω appear together: first as the abstract prohibition, then dramatized as the absurdity of a guardian not knowing where he is."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀθληταὶ",
+          "lemma": "ἀθλητής",
+          "location": "403e",
+          "context": "ἀθληταὶ μὲν γὰρ οἱ ἄνδρες τοῦ μεγίστου ἀγῶνος"
+        },
+        {
+          "form": "ἀθληταῖς",
+          "lemma": "ἀθλητής",
+          "location": "404a",
+          "context": "τοῖς πολεμικοῖς ἀθληταῖς"
+        }
+      ],
+      "observation": "ἀθλητής recurs: first the guardians are called ἀθληταί of the greatest ἀγών, then at 404a they are specified as πολεμικοί ἀθληταί in contrast to ordinary ἀσκηταί."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νοσοῦσιν",
+          "lemma": "νοσέω",
+          "location": "404a",
+          "context": "μεγάλα καὶ σφόδρα νοσοῦσιν"
+        },
+        {
+          "form": "νόσον",
+          "lemma": "νόσος",
+          "location": "404e",
+          "context": "ἐνταῦθα δὲ νόσον"
+        }
+      ],
+      "observation": "νοσέω and νόσος appear: first describing the athletes who fall gravely ill if they deviate from their regimen, then as the product of ποικιλία in bodies at the close."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "πῶς",
+          "lemma": "πῶς",
+          "location": "403d",
+          "context": "σοὶ δὲ πῶς φαίνεται;"
+        },
+        {
+          "form": "πῶς",
+          "lemma": "πῶς",
+          "location": "404b",
+          "context": "πῶς λέγεις;"
+        },
+        {
+          "form": "πῶς",
+          "lemma": "πῶς",
+          "location": "404e",
+          "context": "πῶς γὰρ οὔ;"
+        }
+      ],
+      "observation": "πῶς recurs three times in short interlocutor responses, each time requesting or confirming understanding."
+    }
+  ]
+}
