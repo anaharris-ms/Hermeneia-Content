@@ -1,0 +1,169 @@
+{
+  "section_id": "republic-chapter-01-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "ὀφείλω and ἀποδίδωμι are yoked together at 331e in the formula τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι. As the section proceeds, ὀφείλω shifts from describing what is owed by a depositor to what is owed by justice itself (ὀφείλεσθαι at 335e), while ἀποδίδωμι moves from returning deposits to the action that defines each τέχνη (332c–d). The two verbs begin as a stable pair and end separated: by 335e, βλάβη cannot be ὀφείλεσθαι from the δίκαιος, breaking the initial formula."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "φίλος/ἐχθρός and ὠφελέω/βλάπτω form two interlocking pairs. At 332a φίλοις is paired with ἀγαθόν and ἐχθροῖς with κακόν. By 332d the pairs are ὠφελίας/βλάβας ἀποδιδοῦσα to φίλοις/ἐχθροῖς. At 334e the assignment inverts: φίλους βλάπτειν and ἐχθροὺς ὠφελεῖν. The two pairs, initially aligned, are pulled apart and recombined into their opposite configuration."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "The τέχνη-series at 332c–d places δικαιοσύνη in parallel with ἰατρική and μαγειρική, each asked τίσιν τί ἀποδιδοῦσα. When δικαιοσύνη is pressed into this frame, the result is the χρήσιμος/ἄχρηστος paradox: justice is χρήσιμος only when things are ἄχρηστα (333c–d). The syntactic parallel breaks down into an antithesis that the other τέχναι do not produce."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s016"
+      ],
+      "observation": "The χρήσιμος/ἄχρηστος antithesis converges on παρακαταθέσθαι at 333c. Justice is χρήσιμος only ὅταν παρακαταθέσθαι—when the deposit must lie idle. The deposit scenario, dismissed at 331e–332a as not what Simonides meant, returns as the sole usefulness of justice, collapsing its scope to guarding what is not in use."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "At 334a, φύλαξ and κλέπτης/φώρ are shown to be paired capacities: ὅτου τις δεινὸς φύλαξ, τούτου καὶ φὼρ δεινός. This pairing is then grounded in Homer: Autolycus, grandfather of Odysseus, κεκάσθαι κλεπτοσύνῃ θʼ ὅρκῳ τε. Justice as κλεπτική is attributed κατὰ σέ, καθʼ Ὅμηρον, καὶ κατὰ Σιμωνίδην, yoking Polemarchus, the poet of the Odyssey, and the lyric poet into a single claim."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "At 335b–c, two parallel triads unfold. First: ἵπποι, κύνες, ἄνθρωποι are each made χείρους by being harmed, declining into their respective ἀρετή. Second: μουσικοί, ἱππικοί, δίκαιοι are each asked whether they can by their τέχνη produce their opposites—ἀμούσους, ἀφίππους, ἀδίκους. Both series lead to the identification of δικαιοσύνη with ἀνθρωπεία ἀρετή and the conclusion that δίκαιοι cannot make ἀδίκους."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s011"
+      ],
+      "observation": "The τοῦ ἐναντίου series at 335d—θερμότης cannot ψύχειν, ξηρότης cannot ὑγραίνειν, ἀγαθός cannot βλάπτειν—runs parallel to the earlier animal/human series at 335b–c. Both argue from the impossibility of a quality producing its opposite. The ἵπποι/κύνες/ἄνθρωποι triad establishes that harm degrades into lower ἀρετή; the θερμότης/ξηρότης/ἀγαθός triad establishes that each ἔργον belongs to one quality, not its contrary."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s008"
+      ],
+      "observation": "At 332b Socrates says Simonides ᾐνίξατο ποιητικῶς. At 336a the saying is reassigned to Περίανδρος, Περδίκκας, Ξέρξης, or Ἰσμηνίας—μέγα οἰόμενος δύνασθαι πλουσίου ἀνδρός. The riddling σοφός gives way to the wealthy powerful man; the poetic register is replaced by the claim of δύναμις grounded in πλοῦτος."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s015"
+      ],
+      "observation": "At 331e Polemarchus is named κληρονόμος τοῦ λόγου. At 335e Socrates proposes μαχούμεθα κοινῇ and Polemarchus accepts κοινωνεῖν τῆς μάχης. The inheritance becomes a shared combat; λόγος passes from Cephalus to Polemarchus to a joint defense against those who would misattribute it."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s001"
+      ],
+      "observation": "At 334c–d, the question ποτέρον τοὺς δοκοῦντας χρηστοὺς εἶναι φίλους ἢ τοὺς ὄντας splits φίλος into seeming and being. This split forces a redefinition: φίλος becomes ὁ δοκοῦν τε καὶ ὁ ὢν χρηστόν (335a). The revision alters what is ὀφειλόμενον: at 335e, ὀφείλεσθαι can no longer apply to βλάβη from the δίκαιος, because φίλος now designates ὁ ἀγαθός, not merely ὁ δοκῶν."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "δοκεῖ",
+          "lemma": "δοκέω",
+          "location": "331e",
+          "context": "τοῦτο λέγων δοκεῖ ἔμοιγε καλῶς λέγειν"
+        },
+        {
+          "form": "δοκοῦντας",
+          "lemma": "δοκέω",
+          "location": "334c",
+          "context": "φίλους δὲ λέγεις εἶναι ποτέρον τοὺς δοκοῦντας ἑκάστῳ χρηστοὺς εἶναι"
+        },
+        {
+          "form": "δοκοῦντα",
+          "lemma": "δοκέω",
+          "location": "334e",
+          "context": "τὸν δοκοῦντα χρηστόν, τοῦτον φίλον εἶναι"
+        },
+        {
+          "form": "δοκοῦντά",
+          "lemma": "δοκέω",
+          "location": "335a",
+          "context": "τὸν δοκοῦντά τε καὶ τὸν ὄντα χρηστὸν φίλον· τὸν δὲ δοκοῦντα μέν, ὄντα δὲ μή, δοκεῖν ἀλλὰ μὴ εἶναι φίλον"
+        }
+      ],
+      "observation": "Forms of δοκέω recur across the section, moving from Polemarchus' initial approval (δοκεῖ καλῶς λέγειν at 331e) to the distinction between seeming and being at 334c–335a, where δοκοῦντας and ὄντας are set in opposition and then combined in a revised definition of φίλος."
+    },
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐάνπερ",
+          "lemma": "ἐάνπερ",
+          "location": "332b",
+          "context": "ἐάνπερ ἡ ἀπόδοσις καὶ ἡ λῆψις βλαβερὰ γίγνηται"
+        }
+      ],
+      "observation": "ἐάνπερ introduces the condition under which returning and receiving deposits becomes βλαβερά. The conditional appears once, marking the scenario Simonides is said not to mean."
+    },
+    {
+      "signal_types": [
+        "lexical_family"
+      ],
+      "elements": [
+        {
+          "form": "χρηστούς",
+          "lemma": "χρηστός",
+          "location": "334c",
+          "context": "τοὺς δοκοῦντας ἑκάστῳ χρηστοὺς εἶναι"
+        },
+        {
+          "form": "χρηστόν",
+          "lemma": "χρηστός",
+          "location": "334e",
+          "context": "τὸν δοκοῦντα χρηστόν"
+        },
+        {
+          "form": "χρηστὸν",
+          "lemma": "χρηστός",
+          "location": "335a",
+          "context": "τὸν δοκοῦντά τε καὶ τὸν ὄντα χρηστὸν φίλον"
+        }
+      ],
+      "observation": "χρηστός recurs in the redefinition of φίλος at 334c–335a, distinguishing those who seem χρηστός from those who are, and combining both in the revised formula."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἁμαρτάνουσιν",
+          "lemma": "ἁμαρτάνω",
+          "location": "334c",
+          "context": "ἆρʼ οὖν οὐχ ἁμαρτάνουσιν οἱ ἄνθρωποι περὶ τοῦτο"
+        },
+        {
+          "form": "διημαρτήκασιν",
+          "lemma": "ἁμαρτάνω",
+          "location": "334e",
+          "context": "ὅσοι διημαρτήκασιν τῶν ἀνθρώπων"
+        }
+      ],
+      "observation": "ἁμαρτάνω and its compound διαμαρτάνω mark human error about φίλος and ἐχθρός. At 334c, ἁμαρτάνουσιν περὶ τοῦτο names mistaking who is χρηστός; at 334e, διημαρτήκασιν names those who end up with the reversed assignment of benefit and harm."
+    }
+  ]
+}
