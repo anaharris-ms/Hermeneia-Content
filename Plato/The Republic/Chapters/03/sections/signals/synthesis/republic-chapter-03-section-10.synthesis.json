@@ -1,0 +1,213 @@
+{
+  "section_id": "republic-chapter-03-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s016"
+      ],
+      "observation": "The wolf threatening the flock from outside (s002, 415e) becomes the model for what the guard-dogs may turn into against their own sheep (s002, 416a). This transformation from protector to predator is named again as becoming ἄγριος masters instead of allies (s016, 416b), where ἄγριος recalls the wolf's wildness, set against the ἥμεροι state education should produce (s016, 416c)."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s007"
+      ],
+      "observation": "The four ἀντί constructions (s004) map role-reversals: dogs to wolves, allies to savage masters, guardians to farmers, allies to enemies. The final reversal at 417b appears immediately before the ἔνδον/ἔξωθεν recurrence (s007), where corrupted guardians now fear those within more than external enemies—the directional pair from 415e inverted to mark the completed transformation."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s017"
+      ],
+      "observation": "The action sequence at 415d-e (s017) culminates in στρατοπεδευσάμενοι (having encamped), then θύσαντες (having sacrificed), then making beds. This completed encampment (s001, second occurrence) establishes the guardians' position. The third στρατοπεδεύω occurrence (s001, 416e) returns the encampment image as simile—ὥσπερ ἐστρατοπεδευμένους—making their communal mess an ongoing enacted encampment."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s014"
+      ],
+      "observation": "Socrates distinguishes στρατιωτικάς from χρηματιστικάς dwellings (s006, 415e). The guardians are γηγενεῖς (s014, 415d), born from the earth of the city. The prohibition against acquiring γῆν ἰδίαν (s014, 417a) returns γῆ in the context of χρηματιστική transformation: when guardians possess private land they become farmers and householders, no longer soldiers."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s018"
+      ],
+      "observation": "Divine gold in the soul (s009, θεῖον 416e) is ἀκήρατον—undefiled (s018, 417a). Mortal gold (s009, θνητοῦ χρυσοῦ 416e) would μιαίνειν it through mixing (s018, 416e). The four recurrences of χρυσός (s008) accumulate around this purity/pollution opposition, specifying the prohibition: no handling, wearing, drinking from mortal gold."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s003"
+      ],
+      "observation": "κακουργεῖν first names what dogs may do τοῖς προβάτοις—to the sheep (s011, 416a), within the dense pastoral cluster (s003). The verb returns at 416d where housing must not incite guardians κακουργεῖν toward the other citizens. The sheep of the first occurrence become the citizens of the second."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s004"
+      ],
+      "observation": "The guardians σῴζοιντό τʼ ἂν καὶ σῴζοιεν τὴν πόλιν (s012, 417a)—would be saved and would save the city, a reflexive-transitive pair. This doubled salvation appears immediately before the contrary sequence: ὁπότε δʼ αὐτοὶ γῆν τε ἰδίαν κτήσονται, where the ἀντί transformations (s004) begin to unfold, each one a negation of the saving relation."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s007"
+      ],
+      "observation": "The active/passive pairs μισοῦντες καὶ μισούμενοι, ἐπιβουλεύοντες καὶ ἐπιβουλευόμενοι (s013, 417b) articulate reciprocal hostility. This grammatical mirroring appears in the same sentence where corrupted guardians fear τοὺς ἔνδον more than τοὺς ἔξωθεν πολεμίους (s007, 417b)—the directional opposition now internalized as mutual enmity."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "Glaucon asserts the guardians εἰσίν καλῶς πεπαιδευμένοι (s015, 416b). Socrates replies this is not worth insisting on, but what is worth insisting on is τῆς ὀρθῆς τυχεῖν παιδείας (s015, 416c), which leads πρὸς τὸ ἥμεροι εἶναι—toward being gentle (s016, 416c). The education vocabulary (s015) frames the ἥμερος/ἄγριος opposition (s016), with correct education producing gentleness, its absence or corruption producing savage masters."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "The οἴκησις vocabulary (s005) recurs five times from 415e through 417b. The first occurrence distinguishes στρατιωτικάς from χρηματιστικάς dwellings (s006, 415e). The final occurrence, οἰκήσεώς τε πέρι (s005, 417b), closes the legislation about guardians' housing, returning to the term whose double qualification the section has unfolded."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s008"
+      ],
+      "observation": "The cluster of contact verbs—μεταχειρίζεσθαι, ἅπτεσθαι, περιάψασθαι, πίνειν (s010, 417a)—specifies bodily prohibitions regarding χρυσοῦ καὶ ἀργύρου (s008). Each verb names a mode of physical relation to gold and silver that is declared οὐ θέμις, concentrating the prohibition into handling, touching, fastening on the body, and drinking from."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύλακας",
+          "lemma": "φύλαξ",
+          "location": "416c",
+          "context": "μήτε τοῦ φύλακας ὡς ἀρίστους εἶναι παύσει"
+        },
+        {
+          "form": "φυλάκων",
+          "lemma": "φύλαξ",
+          "location": "417a",
+          "context": "ἀντὶ φυλάκων ἔσονται"
+        }
+      ],
+      "observation": "φύλαξ appears at 416c as the role housing must not stop them from being, then at 417a in the ἀντί construction marking transformation from guardians to farmers and householders."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συμμάχων",
+          "lemma": "σύμμαχος",
+          "location": "416b",
+          "context": "ἀντὶ συμμάχων εὐμενῶν"
+        },
+        {
+          "form": "συμμάχων",
+          "lemma": "σύμμαχος",
+          "location": "417b",
+          "context": "δεσπόται δʼ ἐχθροὶ ἀντὶ συμμάχων"
+        }
+      ],
+      "observation": "σύμμαχος recurs in two ἀντί constructions, first at 416b where guardians risk transformation from kindly allies, then at 417b where corrupted guardians become hostile masters instead of allies."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποίμνην",
+          "lemma": "ποίμνη",
+          "location": "415e",
+          "context": "ὥσπερ λύκος ἐπὶ ποίμνην"
+        },
+        {
+          "form": "ποιμνίων",
+          "lemma": "ποίμνιον",
+          "location": "416a",
+          "context": "κύνας ἐπικούρους ποιμνίων"
+        }
+      ],
+      "observation": "The flock threatened by the external wolf (ποίμνην, 415e) recurs as the flock guarded by dogs (ποιμνίων, 416a) in the developed pastoral image where dogs may turn against their own charges."
+    },
+    {
+      "signal_types": [
+        "exact_repetition",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἢ πῶς;",
+          "lemma": null,
+          "location": "415e",
+          "context": "εὐνὰς ποιησάσθων. ἢ πῶς;"
+        },
+        {
+          "form": "ἢ μή;",
+          "lemma": null,
+          "location": "417b",
+          "context": "ταῦτα νομοθετήσωμεν, ἢ μή;"
+        }
+      ],
+      "observation": "Socrates' speech closes with ἢ πῶς; at 415e after prescribing the encampment sequence, then closes with ἢ μή; at 417b after prescribing the complete regulations. Both are disjunctive questions immediately answered by Glaucon."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "νόμοις",
+          "lemma": "νόμος",
+          "location": "415e",
+          "context": "εἴ τις μὴ ἐθέλοι τοῖς νόμοις πείθεσθαι"
+        },
+        {
+          "form": "νομοθετήσωμεν",
+          "lemma": "νομοθετέω",
+          "location": "417b",
+          "context": "ταῦτα νομοθετήσωμεν"
+        }
+      ],
+      "observation": "νόμος appears at 415e as what the guardians must enforce obedience to within the city. νομοθετέω appears at 417b as Socrates' proposal to legislate the guardians' own housing and property regulations."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κτῆσιν",
+          "lemma": "κτῆσις",
+          "location": "416e",
+          "context": "τὴν ἐκείνου κτῆσιν"
+        },
+        {
+          "form": "κτήσει",
+          "lemma": "κτῆσις",
+          "location": "416e",
+          "context": "τῇ τοῦ θνητοῦ χρυσοῦ κτήσει"
+        },
+        {
+          "form": "κτήσονται",
+          "lemma": "κτάομαι",
+          "location": "417a",
+          "context": "γῆν τε ἰδίαν καὶ οἰκίας καὶ νομίσματα κτήσονται"
+        }
+      ],
+      "observation": "κτῆσις/κτάομαι occurs three times: divine gold possession that must not be mixed with mortal gold possession, then the fatal future acquisition of private land, houses, and currency."
+    }
+  ]
+}
