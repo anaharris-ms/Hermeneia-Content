@@ -1,0 +1,185 @@
+{
+  "section_id": "republic-chapter-03-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "`s001` records the accumulation of fear-words across the section. `s013` places φρίκη (shivering) as the feared cause of guardians becoming θερμότεροι (hotter) and μαλακώτεροι (softer). The fear vocabulary concentrated in `s001` finds its physical consequence in the temperature and texture terms of `s013`."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003"
+      ],
+      "observation": "`s002` traces θάνατος through four occurrences; in the third and fourth it pairs with δουλεία. `s003` holds δουλεία and ἐλευθέρους in contrast at 387b. Together these signals show θάνατος first standing alone, then twice coupled with δουλεία, and finally that pairing set against the requirement that guardians be ἐλευθέρους."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "`s004` places ἀκουστέον as both positive and negative at 386a, then returns it at 387b in a comparative (ἧττον ἀκουστέον). `s005` holds the proportional inversion at 387b: ὅσῳ ποιητικώτερα, τοσούτῳ ἧττον ἀκουστέον. The recurrence of the verbal adjective across `s004` frames the prohibition; `s005` supplies its paradoxical measure."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s010"
+      ],
+      "observation": "`s006` sequences four removal verbs across 386c–387c. `s010` contrasts λοιδορεῖν and ἐπαινεῖν at 386b–c. The request not to revile but to praise Hades precedes the sequence of erasures; the contrast of speech acts stands before the series of deletions."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008",
+        "s009"
+      ],
+      "observation": "`s007` records Hades named in Socrates' prose and then in Homeric forms within quotations. `s008` accumulates the insubstantial images of the dead (ψυχή, εἴδωλον, σκιαί, νέκυες). `s009` tracks their flight and downward movement. Together these signals place Hades as a named destination, populate it with forms without φρένες, and set those forms in motion toward and within it."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s014"
+      ],
+      "observation": "`s014` notes ἀνδρεῖος in Socrates' prose and ἀνδροτής in the Homer quotation at 386d. `s008` records that the soul leaving the body λιποῦσʼ ἀνδροτῆτα καὶ ἥβην. The requirement for courage (ἀνδρεῖοι) frames the section; within the quoted verse, ἀνδροτής is what the departing soul abandons."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s016"
+      ],
+      "observation": "`s011` tracks the verbal adjectives in -τέον/-τέα prescribing what must be done. `s016` places τύπος twice at 387c: the type of fearful names and the opposite type to be composed. The accumulated prescriptions of `s011` culminate in `s016` where τύπος names both what is removed and what replaces it."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s017"
+      ],
+      "observation": "`s012` lists four underworld names (Κωκυτούς, Στύγας, ἐνέρους, ἀλίβαντας) as ὀνόματα δεινά. `s017` concentrates τρίζω three times in successive Homer lines. The fearful proper names at `s012` are to be discarded; the repeated squeaking sound at `s017` belongs to the verses containing those names."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s014"
+      ],
+      "observation": "`s002` places θάνατος four times, including at 386b where one must choose θάνατον πρὸ ἥττης τε καὶ δουλείας. `s014` places ἀνδρεῖος as the requirement and ἀνδροτής as what the soul leaves in death. Choosing death before slavery and defeat requires ἀνδρεῖοι; the Homeric soul departs λιποῦσʼ ἀνδροτῆτα."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s010"
+      ],
+      "observation": "`s001` accumulates fear-words (δείδω, δεῖμα, δεινός, φοβέω, φρίττω, φρίκη). `s010` asks poets μὴ λοιδορεῖν but ἐπαινεῖν Hades. The dense fear vocabulary drives the request to shift from reviling to praising; the accumulation of fear terms motivates the reversal of speech."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s015"
+      ],
+      "observation": "`s004` places ἀκουστέον at the section's opening and returns it at 387b applied to παισὶ καὶ ἀνδράσιν. `s015` notes παῖς first as ἐκ παίδων (the starting point) and then paired with ἀνδράσιν. The hearing prescription of `s004` moves from an opening formulation to one specifying both ages marked by `s015`."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "`s005` holds the inversion: the more poetic, the less to be heard. `s006` sequences the removal actions (ἐξαλείψομεν, διαγράφωμεν, ἀποβλητέα, ἀφαιρετέα). The paradoxical measure at `s005`—that poetic excellence intensifies the prohibition—is answered by the escalating series of deletions in `s006`."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s017"
+      ],
+      "observation": "`s009` records souls in flight: πταμένη, κατὰ χθονός, ἀΐσσουσι, ποτέονται. `s017` concentrates τρίζω three times across adjacent lines. The directional movements of `s009` are accompanied by the repeated squeaking sound of `s017`; the souls' flight is audible."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μύθων",
+          "lemma": "μῦθος",
+          "location": "386b",
+          "context": "περὶ τούτων τῶν μύθων"
+        },
+        {
+          "form": "ἔπους",
+          "lemma": "ἔπος",
+          "location": "386c",
+          "context": "ἀπὸ τοῦδε τοῦ ἔπους ἀρξάμενοι"
+        }
+      ],
+      "observation": "μῦθος names the stories to be supervised at 386b; ἔπος names the specific Homeric verse at 386c from which the deletions begin."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθῆ",
+          "lemma": "ἀληθής",
+          "location": "386b",
+          "context": "ὡς οὔτε ἀληθῆ ἂν λέγοντας"
+        },
+        {
+          "form": "ὠφέλιμα",
+          "lemma": "ὠφέλιμος",
+          "location": "386c",
+          "context": "οὔτε ὠφέλιμα τοῖς μέλλουσιν μαχίμοις ἔσεσθαι"
+        }
+      ],
+      "observation": "The reason poets must praise rather than revile Hades is given as a double negative: neither true (ἀληθῆ) nor beneficial (ὠφέλιμα) for future warriors."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἥττης",
+          "lemma": "ἧττα",
+          "location": "386b",
+          "context": "πρὸ ἥττης τε καὶ δουλείας θάνατον"
+        },
+        {
+          "form": "μάχαις",
+          "lemma": "μάχη",
+          "location": "386b",
+          "context": "ἐν ταῖς μάχαις"
+        },
+        {
+          "form": "μαχίμοις",
+          "lemma": "μάχιμος",
+          "location": "386c",
+          "context": "τοῖς μέλλουσιν μαχίμοις ἔσεσθαι"
+        }
+      ],
+      "observation": "Battle vocabulary appears in the argument: μάχαις as the location where death must be chosen before defeat (ἥττης) and slavery, and μαχίμοις as those for whom the poetry would not be beneficial."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποιητικὰ",
+          "lemma": "ποιητικός",
+          "location": "387b",
+          "context": "οὐχ ὡς οὐ ποιητικὰ"
+        },
+        {
+          "form": "ποιητικώτερα",
+          "lemma": "ποιητικός",
+          "location": "387b",
+          "context": "ὅσῳ ποιητικώτερα"
+        }
+      ],
+      "observation": "ποιητικός appears first in acknowledgment (ποιητικὰ καὶ ἡδέα) and immediately after in the comparative that inverts its value (ὅσῳ ποιητικώτερα, τοσούτῳ ἧττον ἀκουστέον)."
+    }
+  ]
+}
