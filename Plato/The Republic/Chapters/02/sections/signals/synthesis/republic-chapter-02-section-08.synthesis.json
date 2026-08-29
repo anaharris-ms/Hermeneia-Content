@@ -1,0 +1,144 @@
+{
+  "section_id": "republic-chapter-02-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "`s001` records five forms of παιδεύω moving from question to action. `s013` records πρότερον recurring four times, each establishing a priority in sequence. The two series coincide: the repeated question of ordering (music before gymnastics, false before true, myths before exercises) runs through the densely repeated question of how to educate."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s004"
+      ],
+      "observation": "`s002` records μῦθος appearing seven times in dense local accumulation. `s004` records λόγοι divided into ἀληθές and ψεῦδος, with μῦθοι then described as mostly ψεῦδος but containing ἀληθῆ. The dense recurrence of μῦθος occurs in the same passage where its relation to truth and falsehood is articulated."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s006",
+        "s007"
+      ],
+      "observation": "`s003` records πλάττω shifting subject from child to story to soul. `s006` records ψυχή/σῶμα introduced with μουσική/γυμναστική and returning when molding souls with μῦθοι is compared to molding bodies with hands. `s007` records τύπος as stamp impressed on the young, then as standard for μῦθοι. The three signals form a single configuration: the young are molded (πλάττεται) and receive a stamp (τύπος); stories are molded (πλασθέντας); souls are to be molded (πλάττειν) by stories bearing the same stamp (τύπον), and this molding of souls by stories is compared to molding bodies with hands."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s013"
+      ],
+      "observation": "`s005` records μουσική assigned to ψυχή and given priority over γυμναστική twice. `s013` records πρότερον recurring four times to establish priorities. The pairing of μουσική and γυμναστική with the assertion of μουσική's priority accounts for two of the four instances of πρότερον."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "`s007` records τύπος first as stamp impressed on the young, then as standard shared by μῦθοι. `s008` records μείζους and ἐλάττους paired twice, applied to μῦθοι. The second appearance of τύπος occurs in the statement that μείζους and ἐλάττους μῦθοι must share τὸν αὐτὸν τύπον."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s002"
+      ],
+      "observation": "`s010` records μύθῳ and μυθολογοῦντές adjacent, creating etymological echo. `s002` records μῦθος accumulating densely across the section. The echo ἐν μύθῳ μυθολογοῦντές stands at the beginning of the dense accumulation of μῦθος forms."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s001"
+      ],
+      "observation": "`s012` records θρέψονται opening the question of rearing, with τροφούς appearing later as nurses who will tell stories. `s001` records forms of παιδεύω recurring densely. The section opens with θρέψονται paired with παιδευθήσονται; at the close of the section τροφούς reappears as agents who will πλάττειν souls with μῦθοι."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s003"
+      ],
+      "observation": "`s014` records ἀρχή called μέγιστον for anything νέῳ καὶ ἁπαλῷ. `s003` records πλάττεται applied to the young, then πλασθέντας to stories, then πλάττειν to souls. The language of molding (πλάττεται, ἐνδύεται τύπος) immediately follows the statement that the beginning is greatest for the young and soft."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s011"
+      ],
+      "observation": "`s016` records κατιδεῖν directed at justice and ὀψόμεθα directed at myths. `s011` records σκοπέω appearing twice and σκέψις once in the framing question about whether investigating education advances the inquiry. The section opens with σκοποῦσι and σκοποῦμεν paired with κατιδεῖν justice, and closes with ὀψόμεθα redirected to μύθοι."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s017"
+      ],
+      "observation": "`s004` records λόγοι divided into ἀληθές and ψεῦδος. `s017` records λόγος appearing four times in quick succession, ending with λόγων δὲ διττὸν εἶδος. The dense local accumulation of λόγος concludes with the division into two εἴδη, one ἀληθές and one ψεῦδος."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s002"
+      ],
+      "observation": "`s009` records ἐγκριτέον and ἀποκριτέον set in direct opposition, distinguished only by prefix. `s002` records μῦθος accumulating densely. The contrasted verbal adjectives ἐγκριτέον/ἀποκριτέον appear in the middle of the dense sequence of μῦθος forms, prescribing selection and rejection of μῦθοι."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s017"
+      ],
+      "observation": "`s001` records παιδεύω recurring five times from question to action. `s017` records λόγος appearing four times, culminating in λόγων διττὸν εἶδος. The section moves from λόγῳ παιδεύωμεν through the division of λόγοι into two εἴδη to repeated assertions that παιδευτέον and how παιδεύοντες should proceed."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παιδίοις",
+          "lemma": "παιδίον",
+          "location": "377a",
+          "context": "πρῶτον τοῖς παιδίοις μύθους λέγομεν"
+        },
+        {
+          "form": "παιδία",
+          "lemma": "παιδίον",
+          "location": "377a",
+          "context": "πρότερον δὲ μύθοις πρὸς τὰ παιδία"
+        },
+        {
+          "form": "παῖδας",
+          "lemma": "παῖς",
+          "location": "377b",
+          "context": "ἀκούειν τοὺς παῖδας"
+        },
+        {
+          "form": "παισίν",
+          "lemma": "παῖς",
+          "location": "377c",
+          "context": "λέγειν τοῖς παισίν"
+        }
+      ],
+      "observation": "Forms of παιδίον and παῖς appear four times across the discussion of μῦθοι, naming the recipients of stories."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτυχόντας",
+          "lemma": "ἐπιτυγχάνω",
+          "location": "377b",
+          "context": "τοὺς ἐπιτυχόντας"
+        },
+        {
+          "form": "ἐπιτυχόντων",
+          "lemma": "ἐπιτυγχάνω",
+          "location": "377b",
+          "context": "ὑπὸ τῶν ἐπιτυχόντων"
+        }
+      ],
+      "observation": "ἐπιτυγχάνω appears twice in immediate succession as substantive participles: stories fabricated by ἐπιτυχόντων heard by ἐπιτυχόντας children, marking both fabricators and hearers as random or haphazard."
+    }
+  ]
+}
