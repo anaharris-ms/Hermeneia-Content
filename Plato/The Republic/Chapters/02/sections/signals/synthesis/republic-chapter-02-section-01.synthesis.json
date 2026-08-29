@@ -1,0 +1,158 @@
+{
+  "section_id": "republic-chapter-02-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s014"
+      ],
+      "observation": "δοκέω opens the section contrasting seeming with truth (s002), then returns when the many's opinion is cited (δοκεῖ τοῖς πολλοῖς) and when reputation (δόξα) is named as a motive for practicing justice. The root recurs from the initial question about true versus apparent persuasion through to the popular view of justice as practiced διὰ δόξαν."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s013"
+      ],
+      "observation": "s003 records the threefold sequence of goods. s013 records Socrates placing justice ἐν τῷ καλλίστῳ (the second kind) while the many place it in the ἐπιπόνου kind (the third). The classification framework becomes the ground of disagreement about justice's location."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s006"
+      ],
+      "observation": "δεξαίμεθα ἔχειν appears affirmatively for the first kind of good and negated (οὐκ ἂν δεξαίμεθα) for the third (s004). s006 records the structural contrast between αὐτὸ αὑτοῦ ἕνεκα and consequences. The reversal of willingness to accept marks the structural opposition between goods valued for themselves and goods valued only for their results."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008",
+        "s009"
+      ],
+      "observation": "Each kind of good is exemplified by a semantic cluster. s007 presents pleasure terms (χαίρειν, ἡδοναί, ἀβλαβεῖς). s008 presents thinking, seeing, and being healthy. s009 presents laborious activities unified by ἐπίπονα. The three clusters supply concrete instances in sequence, each occupying a distinct domain: pleasure, faculties, and labor."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s013",
+        "s019"
+      ],
+      "observation": "s006 identifies the third kind as valued τῶν δὲ μισθῶν τε χάριν. s019 records μισθός recurring when the many assign justice to this same kind, μισθῶν θʼ ἕνεκα. s013 records the disagreement: Socrates places justice in the καλλίστῳ, the many in the ἐπιπόνου. The recurrence of μισθός binds the popular view to the third kind, placing justice among goods pursued for wages and not for themselves."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "Socrates believed he had finished (ᾤμην λόγου ἀπηλλάχθαι, s012), but declares what preceded merely a προοίμιον (s010). The completion is simultaneously retracted and reclassified as prelude."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "Glaucon is characterized as ἀνδρειότατος πρὸς ἅπαντα (s011), and this disposition is enacted when he refuses to accept Thrasymachus' withdrawal (ἀπόρρησιν οὐκ ἀπεδέξατο, s012). The superlative describes the action that reopens the argument."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "s016 records the opening opposition δίκαιον / ἄδικον. s015 records Thrasymachus blaming justice (ψέγεται) and praising injustice (ἐπαινεῖται). The initial pairing of just and unjust is answered by a pairing of blame and praise, with the evaluations reversed."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s017"
+      ],
+      "observation": "s001 contrasts apparent and true persuasion in Glaucon's opening question. s017 closes with Socrates calling himself δυσμαθής. The section begins with the demand for true persuasion and ends with Socrates' acknowledgment of slow learning."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s018"
+      ],
+      "observation": "Socrates places justice in the καλλίστῳ kind and associates it with μακαρίῳ (blessedness, s018). The many view it as χαλεπόν (harsh, s018) and locate it in the ἐπιπόνου kind (s013). The disagreement about classification is paired with opposed affective terms: μακάριος and χαλεπόν."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "ἀσπάζομαι recurs for the first and second kinds of good (s005). s006 identifies the structural distinction between goods valued αὐτὸ αὑτοῦ ἕνεκα, for consequences, or both. The verb of welcoming appears only for goods valued at least partly for themselves, and is absent from the third kind, which is not welcomed but accepted for wages."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποιεῖς",
+          "lemma": "ποιέω",
+          "location": "357b",
+          "context": "οὐ τοίνυν ποιεῖς ὃ βούλει"
+        },
+        {
+          "form": "βούλει",
+          "lemma": "βούλομαι",
+          "location": "357b",
+          "context": "οὐ τοίνυν ποιεῖς ὃ βούλει"
+        },
+        {
+          "form": "βούλει",
+          "lemma": "βούλομαι",
+          "location": "357a",
+          "context": "πότερον ἡμᾶς βούλει δοκεῖν πεπεικέναι"
+        }
+      ],
+      "observation": "Glaucon asks what Socrates wants (βούλει) in his opening question, then declares οὐ τοίνυν ποιεῖς ὃ βούλει—you are not doing what you want. The verb of wanting recurs, and doing is set against wanting."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "αὑτοῦ ἕνεκα",
+          "lemma": null,
+          "location": "357b",
+          "context": "αὐτὸ αὑτοῦ ἕνεκα"
+        },
+        {
+          "form": "αὑτοῦ χάριν",
+          "lemma": null,
+          "location": "357c",
+          "context": "αὐτό τε αὑτοῦ χάριν"
+        },
+        {
+          "form": "ἑαυτῶν ἕνεκα",
+          "lemma": null,
+          "location": "357c",
+          "context": "αὐτὰ μὲν ἑαυτῶν ἕνεκα"
+        }
+      ],
+      "observation": "The formula αὐτό + reflexive + ἕνεκα / χάριν recurs across all three kinds of good, marking valuation for the thing itself. The parallel construction appears in varied forms: αὑτοῦ ἕνεκα, αὑτοῦ χάριν, ἑαυτῶν ἕνεκα."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτηδευτέον",
+          "lemma": "ἐπιτηδεύω",
+          "location": "358a",
+          "context": "μισθῶν θʼ ἕνεκα καὶ εὐδοκιμήσεων διὰ δόξαν ἐπιτηδευτέον"
+        },
+        {
+          "form": "φευκτέον",
+          "lemma": "φεύγω",
+          "location": "358a",
+          "context": "αὐτὸ δὲ διʼ αὑτὸ φευκτέον"
+        }
+      ],
+      "observation": "Two verbal adjectives in -τέον appear in the many's view of justice: ἐπιτηδευτέον (must be practiced) for the sake of wages and reputation, φευκτέον (must be fled) for its own sake. The paired forms express opposed necessities."
+    }
+  ]
+}
