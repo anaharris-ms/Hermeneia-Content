@@ -1,0 +1,177 @@
+{
+  "section_id": "republic-chapter-02-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s008"
+      ],
+      "observation": "The five-fold recurrence of βοηθέω and ἐπικουρέω in Socrates' aporia (s001) is answered by the group's request (ἐδέοντο) and Socrates' proposed method (ζητήσωμεν), which resolve the double inability to help and not help into a single action: helping by searching."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s016"
+      ],
+      "observation": "θεῖον first names lineage in the quoted verse (κλεινοῦ θεῖον γένος ἀνδρός), then shifts to condition (θεῖον πεπόνθατε); s016 shows that παῖδες and παῖδες Ἀρίστωνος frame the sons through their father both before and within the quotation, so that θεῖον moves from inherited status to present experience while remaining anchored in filiation."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s015"
+      ],
+      "observation": "The letters analogy establishes μείζω/ἐλάττω and checks τὰ αὐτὰ ὄντα (s015); the city-soul proposal repeats μεῖζον/ἐλάττονος and checks ὁμοιότητα (s015). The same pair of size terms and the same verification of sameness recur across the shift from analogy to method."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s009"
+      ],
+      "observation": "ὀξὺ βλέπω names the difficulty of the inquiry and the limitation of those reading small letters (s005); ἀναγνῶναι and καθορᾷς (s009) carry reading and seeing into the justice inquiry itself. Sharp vision, reading, and seeing-down cluster around the discernment that the method proposes to enable."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s014"
+      ],
+      "observation": "δικαιοσύνη is located in ἀνδρὸς ἑνός and ὅλης πόλεως (s007); γιγνομένην recurs for the city, for justice within the city, and as γενομένου for the completed coming-into-being (s014). Justice exists in two places, and the method watches both places come into being in sequence."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "δικαιοσύνη personified as κακηγορουμένῃ (maligned) is abandoned if Socrates performs ἀπαγορεύειν (giving up); s010 frames the obligation in terms of ἐμπνέοντα καὶ δυνάμενον φθέγγεσθαι (still breathing and still able to speak). The personified δικαιοσύνη receives help or abandonment, and Socrates' capacity to help is bodily life and vocal capacity."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s008"
+      ],
+      "observation": "ζήτημα and ζητήσει name the problem and its domain (s012); ζητήσωμεν and ζητοῦμεν (s012) enact the search proposed in answer to the group's ἐδέοντο … διερευνήσασθαι (s008). The request to search thoroughly is met by a method that embeds searching in its forward movement."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s017"
+      ],
+      "observation": "πέπεισθε denied and πεπεῖσθαι denied stand against ἠπίστουν and πιστεύω (s002); s017 grounds this contrast in λόγοι versus τρόπος. The persuasion denied and the trust given depend on whether Socrates judges from arguments alone or from character."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s013"
+      ],
+      "observation": "δοκέω recurs across narration and dialogue (s006), carrying seeming and proposal; θεασαίμεθα, ἴδοιμεν, ἰδεῖν (s013) sequence collective watching into seeing. The section moves from repeated seeming (δοκεῖ, δοκῶ, δοκεῖς) to optatives of vision (θεασαίμεθα, ἴδοιμεν, ἰδεῖν), shifting from what seems to what may be seen."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s007"
+      ],
+      "observation": "μείζω/ἐλάττω name the relation between two sets of letters; μεῖζον/ἑνός name the relation between πόλις and ἀνδρός. The analogy's size pair transfers directly to the ontological pair, making the city-soul relation a case of the letters-method."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀεί",
+          "lemma": "ἀεί",
+          "location": "367e",
+          "context": "ἀε�ὶ μὲν δὴ τὴν φύσιν τοῦ τε Γλαύκωνος καὶ τοῦ Ἀδειμάντου ἠγάμην"
+        },
+        {
+          "form": "ἔτι",
+          "lemma": "ἔτι",
+          "location": "368c",
+          "context": "ἔτι ἐμπνέοντα καὶ δυνάμενον φθέγγεσθαι"
+        }
+      ],
+      "observation": "ἀεί marks enduring admiration; ἔτι marks continuing breath and speech. Both adverbs articulate temporal persistence across the section."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πόρρωθεν",
+          "lemma": "πόρρωθεν",
+          "location": "368d",
+          "context": "γράμματα σμικρὰ πόρρωθεν ἀναγνῶναι"
+        },
+        {
+          "form": "ἄλλοθι",
+          "lemma": "ἄλλοθι",
+          "location": "368d",
+          "context": "τὰ αὐτὰ γράμματα ἔστι που καὶ ἄλλοθι μείζω"
+        }
+      ],
+      "observation": "πόρρωθεν (from a distance) and ἄλλοθι (elsewhere) locate the small letters far away and the large letters elsewhere, articulating spatial displacement within the analogy."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἕρμαιον",
+          "lemma": "ἕρμαιον",
+          "location": "368d",
+          "context": "ἕρμαιον ἂν ἐφάνη οἶμαι"
+        }
+      ],
+      "observation": "ἕρμαιον (a windfall, godsend) names the discovery of the larger letters as an unexpected gift, marking the proposed method as fortunate rather than systematic."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πρῶτον",
+          "lemma": "πρῶτος",
+          "location": "368d",
+          "context": "ἐκεῖνα πρῶτον ἀναγνόντας"
+        },
+        {
+          "form": "πρῶτον",
+          "lemma": "πρῶτος",
+          "location": "369a",
+          "context": "πρῶτον ἐν ταῖς πόλεσι ζητήσωμεν"
+        }
+      ],
+      "observation": "πρῶτον recurs: first reading the larger letters in the analogy, then first searching in cities in the method. The temporal priority established by the analogy carries into the proposed procedure."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπισκοπεῖν",
+          "lemma": "ἐπισκοπέω",
+          "location": "368d",
+          "context": "οὕτως ἐπισκοπεῖν τὰ ἐλάττω"
+        },
+        {
+          "form": "ἐπισκεψώμεθα",
+          "lemma": "ἐπισκοπέω",
+          "location": "369a",
+          "context": "ἔπειτα οὕτως ἐπισκεψώμεθα καὶ ἐν ἑνὶ ἑκάστῳ"
+        },
+        {
+          "form": "ἐπισκοποῦντες",
+          "lemma": "ἐπισκοπέω",
+          "location": "369a",
+          "context": "τὴν τοῦ μείζονος ὁμοιότητα ἐν τῇ τοῦ ἐλάττονος ἰδέᾳ ἐπισκοποῦντες"
+        }
+      ],
+      "observation": "ἐπισκοπέω recurs three times: inspecting the smaller letters after the larger, then inspecting justice in each individual after the cities, then inspecting while seeking likeness. The verb of close examination structures both the analogy and the method's sequence."
+    }
+  ]
+}
