@@ -1,0 +1,260 @@
+{
+  "section_id": "republic-chapter-03-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s005"
+      ],
+      "observation": "σωφροσύνη at 389d-e defines self-mastery as double rule: obedience to ἄρχοντες and being ἄρχοντας over pleasures. The same ἄρχοντας returns at 390a as target of νεανιεύματα, making the young's insolence toward rulers interrupt their own required self-rule over desires."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s004",
+        "s010"
+      ],
+      "observation": "σωφροσύνη names rule over πότους, ἀφροδίσια, ἐδωδάς at 389e. The feast scene (τράπεζαι, σίτου, κρειῶν, μέθυ) and Zeus overcome by ἀφροδισίων ἐπιθυμίαν at 390b-c exemplify failure of that rule. καρτερίαι and τέτλαθι/ἔτλης at 390d then offer Odysseus's endurance as counter-instance to Zeus's ἐπιλανθανόμενον and ἐκπλαγέντα."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s014"
+      ],
+      "observation": "δῶρον appears four times in dense sequence at 390e, joined by δωροδόκους and φιλοχρημάτους at 390d. At 391c this concentration resolves into Achilles' paired νοσήματε: ἀνελευθερίαν μετὰ φιλοχρηματίας on one side, ὑπερηφανίαν on the other, two diseases ἐναντίω ἀλλήλοιν held together in one figure."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s007",
+        "s016"
+      ],
+      "observation": "πείθω recurs from Diomedes' command ἐπιπείθεο through δῶρα θεοὺς πείθει to repeated prohibitions (οὐ πειστέον, μὴ πειθώμεθα, μὴ ἐπιχειρεῖν πείθειν). The young (νεανίαις, νέοις, νέους) are both subject of needed persuasion and object to be protected from harmful πειθώ. ἀκούω threads through the same movement: what is ἐπιτήδειον ἀκούειν for νέοις versus what is βλαβερά to ἀκούουσιν."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s004"
+      ],
+      "observation": "ἡδονή at 389e names what the young must rule; at 390a it names another pleasure insolent poetry might provide despite its unsuitability for σωφροσύνη. ἐπιθυμία appears only once, at 390c, as what overwhelms Zeus (διὰ τὴν τῶν ἀφροδισίων ἐπιθυμίαν), joining the concrete cluster of πότους, ἀφροδίσια, ἐδωδάς, μέθυ in a single divine failure of self-command."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s015"
+      ],
+      "observation": "Divine parentage articulated through θεᾶς παῖς (Achilles), Ποσειδῶνος ὑός (Theseus), θεοῦ παῖδα, θεῶν ἀγχίσποροι, and αἷμα δαιμόνων converges on the question whether θεοὶ κακὰ γεννῶσιν. The accumulation of divine names (Ἥρα, Ἀφροδίτη, Ἄρης, Ἥφαιστος, Ἀπόλλων, Σπερχειός, Χείρων) in the rejected exempla makes divine descent and divine misconduct occupy the same textual space."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s003"
+      ],
+      "observation": "Verbal adjectives θεατέον, ἀκουστέον, ἐατέον, πειστέον, παυστέον, λεκτέον accumulate as prescriptive instruments for controlling poetic content. πείθω moves through the same prescriptive field: from what persuades (πείθει) to what must not be believed (οὐ πειστέον, μὴ πειθώμεθα) to what the young must not be persuaded of (μὴ πείθειν τοὺς νέους)."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "The enumeration θεῶν, δαιμόνων, ἡρώων, τῶν ἐν Ἅιδου, ἀνθρώπων at 392a descends to humans as τὸ λοιπόν. That remaining topic is immediately declared ἀδύνατον τάξαι now, deferring resolution until οἷόν ἐστιν δικαιοσύνη is found. The sequence completes itself by marking its own incompleteness."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "The poets' claim that ἄδικοι are εὐδαίμονες while δίκαιοι are ἄθλιοι, and that δικαιοσύνη is ἀλλότριον ἀγαθόν but οἰκεία ζημία, is explicitly named as what cannot yet be refuted. The deferral at 392a-c holds this double contrast (unjust-happy/just-wretched, other's-good/own-loss) in suspension until δικαιοσύνη itself is εὑρίσκω."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s014"
+      ],
+      "observation": "σωφροσύνη opens the section as the virtue needed by νεανίαις. Achilles, son of θεᾶς and σωφρονεστάτου Πηλέως, educated by σοφωτάτῳ Χείρωνι, is declared at 391c to contain νοσήματε δύο ἐναντίω ἀλλήλοιν. The paired diseases (ἀνελευθερίαν μετὰ φιλοχρηματίας, ὑπερηφανίαν) make the figure who should embody σωφροσύνη instead embody its opposed internal sickness."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003"
+      ],
+      "observation": "δῶρα θεοὺς πείθει at 390e joins the gift-cluster with the persuasion-cluster. Phoenix advises Achilles to help δῶρα λαβόντι, not ἄνευ δώρων. The concentration makes πείθω and δῶρον occupy the same moment as instruments acting on gods, kings, and the hero's resolve."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s015"
+      ],
+      "observation": "The concrete appetite cluster (πότους, ἀφροδίσια, ἐδωδάς, τράπεζαι, σίτου, κρειῶν, μέθυ, λιμῷ) culminates in Zeus's ἀφροδισίων ἐπιθυμία at 390c. Ἥρα appears as object of that desire; immediately after, Ἄρης and Ἀφροδίτη bound by Ἥφαιστος continue the divine embodiment of the appetites named at the section's opening."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s007"
+      ],
+      "observation": "ἄρχοντες appear first as those whom the young must obey, then as targets of νεανιεύματα by ἰδιῶται. νεανίαις opens the topic; νεανιεύματα names the insolent speech; νέοις/νέους recurs five more times as those to be shaped or protected. The lexical and dramatic recurrence makes the young both the subject to be educated and the source of the named transgression."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "καλῶς",
+          "lemma": "καλῶς",
+          "location": "389e",
+          "context": "καλῶς λέγεσθαι"
+        },
+        {
+          "form": "καλῶς",
+          "lemma": "καλῶς",
+          "location": "389e",
+          "context": "καλῶς"
+        },
+        {
+          "form": "καλῶς",
+          "lemma": "καλῶς",
+          "location": "390a",
+          "context": "ἆρα καλῶς"
+        },
+        {
+          "form": "καλῶς",
+          "lemma": "καλῶς",
+          "location": "390a",
+          "context": "οὐ καλῶς"
+        }
+      ],
+      "observation": "καλῶς recurs four times in rapid succession at 389e-390a as the evaluation term for whether Homeric passages should be spoken: twice affirmed, twice denied."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτήδεια",
+          "lemma": "ἐπιτήδειος",
+          "location": "390a",
+          "context": "εἴς γε σωφροσύνην νέοις ἐπιτήδεια ἀκούειν"
+        },
+        {
+          "form": "ἐπιτήδειον",
+          "lemma": "ἐπιτήδειος",
+          "location": "390b",
+          "context": "δοκεῖ σοι ἐπιτήδειον εἶναι πρὸς ἐγκράτειαν"
+        }
+      ],
+      "observation": "ἐπιτήδειος appears twice to judge whether content is suitable for νέοις regarding σωφροσύνη and ἐγκράτεια, both times in negative constructions."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "θεῶν",
+          "lemma": "θεός",
+          "location": "391c",
+          "context": "ὑπερηφανίαν θεῶν τε καὶ ἀνθρώπων"
+        },
+        {
+          "form": "ἀνθρώπων",
+          "lemma": "ἄνθρωπος",
+          "location": "391c",
+          "context": "ὑπερηφανίαν θεῶν τε καὶ ἀνθρώπων"
+        },
+        {
+          "form": "θεῶν",
+          "lemma": "θεός",
+          "location": "391d",
+          "context": "ἥρωες ἀνθρώπων οὐδὲν βελτίους"
+        },
+        {
+          "form": "ἀνθρώπων",
+          "lemma": "ἄνθρωπος",
+          "location": "391d",
+          "context": "ἥρωες ἀνθρώπων οὐδὲν βελτίους"
+        },
+        {
+          "form": "θεῶν",
+          "lemma": "θεός",
+          "location": "392a",
+          "context": "περὶ γὰρ θεῶν ὡς δεῖ λέγεσθαι εἴρηται"
+        },
+        {
+          "form": "ἀνθρώπων",
+          "lemma": "ἄνθρωπος",
+          "location": "392a",
+          "context": "καὶ περὶ ἀνθρώπων τὸ λοιπὸν εἴη ἄν"
+        },
+        {
+          "form": "ἀνθρώπων",
+          "lemma": "ἄνθρωπος",
+          "location": "392b",
+          "context": "περὶ ἀνθρώπων"
+        },
+        {
+          "form": "ἀνθρώπους",
+          "lemma": "ἄνθρωπος",
+          "location": "392b",
+          "context": "περὶ ἀνθρώπους τὰ μέγιστα"
+        }
+      ],
+      "observation": "θεοί and ἄνθρωποι appear together at 391c as objects of Achilles' arrogance, then at 391d in the comparison of heroes to humans, then frame the enumeration and deferral at 392a-b, where gods have been treated and humans remain."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βλαβερά",
+          "lemma": "βλαβερός",
+          "location": "391e",
+          "context": "τοῖς γε ἀκούουσιν βλαβερά"
+        },
+        {
+          "form": "ἔβλαψάς",
+          "lemma": "βλάπτω",
+          "location": "391a",
+          "context": "ἔβλαψάς μʼ ἑκάεργε"
+        }
+      ],
+      "observation": "βλάπτω appears first in Achilles' quoted insult to Apollo (ἔβλαψάς με), then returns as βλαβερά naming the harm such stories inflict on listeners."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὁμολογῇς",
+          "lemma": "ὁμολογέω",
+          "location": "392b",
+          "context": "ἐὰν ὁμολογῇς ὀρθῶς με λέγειν"
+        },
+        {
+          "form": "ὡμολογηκέναι",
+          "lemma": "ὁμολογέω",
+          "location": "392b",
+          "context": "φήσω σε ὡμολογηκέναι ἃ πάλαι ζητοῦμεν"
+        },
+        {
+          "form": "ὁμολογήσομεν",
+          "lemma": "ὁμολογέω",
+          "location": "390e",
+          "context": "οὐδʼ ὁμολογήσομεν οὕτω φιλοχρήματον εἶναι"
+        },
+        {
+          "form": "διομολογησόμεθα",
+          "lemma": "διομολογέω",
+          "location": "392c",
+          "context": "τότε διομολογησόμεθα"
+        }
+      ],
+      "observation": "ὁμολογέω recurs three times at 390e, 392b, 392c in connection with what will or will not be agreed. At 392b Socrates offers to count agreement on his formulation as agreement on what they have long been seeking (ἃ πάλαι ζητοῦμεν), and at 392c final agreement (διομολογησόμεθα) is deferred until δικαιοσύνη is found."
+    }
+  ]
+}
