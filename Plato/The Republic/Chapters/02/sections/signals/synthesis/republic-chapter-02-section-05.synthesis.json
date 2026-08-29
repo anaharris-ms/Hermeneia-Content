@@ -1,0 +1,207 @@
+{
+  "section_id": "republic-chapter-02-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s016"
+      ],
+      "observation": "χρεία appears seven times through the section, founding the city, ranking needs, and driving exchange. After the city is declared potentially τελέα, justice and injustice are proposed to lie ἐν αὐτῶν τούτων χρείᾳ τινὶ τῇ πρὸς ἀλλήλους — within the very need-relations that generated the city."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s015"
+      ],
+      "observation": "The individual is declared οὐκ αὐτάρκης at 369b, requiring a city. At 371e the question becomes whether ἡ πόλις ηὔξηται ὥστʼ εἶναι τελέα — sufficiency transfers from the impossible singular to the potentially complete plural."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s009"
+      ],
+      "observation": "ἄλλος ἄλλον/ἄλλῳ appears three times (369c, 369c, 370b) articulating mutual taking-on and giving-to. μεταδίδωμι/μεταλαμβάνω at 369c names the same reciprocal action, then μεταδώσουσιν returns at 371b when the internal exchange mechanism is posed."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s022"
+      ],
+      "observation": "The contrast εἷς ὢν πολλὰς τέχνας versus εἷς μίαν (370b) is resolved at 370c with εἷς ἓν κατὰ φύσιν... σχολὴν τῶν ἄλλων ἄγων. The σχολή appears first negatively (370b) as what τὸ πραττόμενον will not wait for, then positively as the leisure the specialized worker gains by not doing other tasks."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s017"
+      ],
+      "observation": "The three enumerated needs (τροφή, οἴκησις, ἐσθής) at 369d generate four or five craftsmen (γεωργός, οἰκοδόμος, ὑφάντης, σκυτοτόμος). At 372a-b the abstract triad reappears as concrete items: σῖτον, οἶνον, ἱμάτια, ὑποδήματα, οἰκίας, followed by the detailed grains, cakes, and breads."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013"
+      ],
+      "observation": "κοινωνός names the city's founders as partners (369c), then the question arises whether to κοινωνεῖν labor or work separately (369e-370a). At 371e wage-earners are defined as τὰ μὲν τῆς διανοίας μὴ πάνυ ἀξιοκοινώνητοι — unfit for the κοινωνία of mind, yet bodily partners in the πόλις."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012",
+        "s023"
+      ],
+      "observation": "διάκονος recurs five times as the city expands (370e, 371a, 371c, 371d, 371e). The spatial distinction at 371d splits retailers (ἱδρυμένους ἐν ἀγορᾷ) from merchants (πλανήτας ἐπὶ τὰς πόλεις), two modes of διακονία differentiated by settlement versus wandering."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s014"
+      ],
+      "observation": "κενὸς ἂν ἴῃ and κενὸς ἄπεισιν frame the necessity of surplus (370e-371a): the διάκονος goes and returns empty unless production exceeds domestic χρεία. This drives the shift from παρασκευή for ἑαυτοῖς alone to παρασκευαί for exchange."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s005"
+      ],
+      "observation": "πολλῶν ὢν ἐνδεής (369b) and πολλῶν δεόμενοι (369c) found the city. The τεττάρων ἢ πέντε ἀνδρῶν (369d) answer the first needs, but δεῖ and δεήσεται recur six more times as the city expands through tools, herds, imports, and servants — each sufficiency revealing a new δέομαι."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s020"
+      ],
+      "observation": "The proposal τῷ λόγῳ ἐξ ἀρχῆς ποιῶμεν πόλιν (369c) reaches ηὔξηται... ὥστʼ εἶναι τελέα at 371e. The section closes (372b-c) with the citizens εὐλαβούμενοι πενίαν ἢ πόλεμον — πόλεμος appears for the first time only after the city is called complete."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019"
+      ],
+      "observation": "The paired contrasts γυμνοί τε καὶ ἀνυπόδητοι versus ἠμφιεσμένοι τε καὶ ὑποδεδεμένοι (372a-b) answer the earlier abstract needs. The εὐωχήσονται scene (372b) gathers reclining, feasting, drinking, wearing garlands, and ὑμνοῦντες τοὺς θεούς — actions absent from the earlier catalogue of χρεῖαι."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s004"
+      ],
+      "observation": "Forms of the οἰκ- root recur nine times: from συνοικία (369c, the city's first name) through οἰκήσεως (369d, the second-ranked need), οἰκοδόμος, οἰκίας, κατοικίσαι, ταῖς ὀρθῶς οἰκουμέναις πόλεσι, to οἰκοδομησάμενοι οἰκίας (372a). Dwelling names both the city's essence and a particular material need within it."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s024"
+      ],
+      "observation": "χρεία generates the city (369c), ranks needs (369d), and drives trade (371a). At 371b ἀγορά and νόμισμα appear together, νόμισμα named as σύμβολον τῆς ἀλλαγῆς ἕνεκα — a token instituted for the sake of exchange. At 371d αὕτη ἄρα ἡ χρεία καπήλων ἡμῖν γένεσιν ἐμποιεῖ: χρεία itself generates a new class of persons."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s015"
+      ],
+      "observation": "δικαιοσύνη καὶ ἀδικία are named together only once, at 371e, immediately after ηὔξηται ἡ πόλις ὥστʼ εἶναι τελέα and posed as a locative question: ποῦ... ἐν αὐτῇ εἴη. The pair appears only when the city's growth is potentially complete."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "φύεται",
+          "lemma": "φύω",
+          "location": "370a",
+          "context": "πρῶτον μὲν ἡμῶν φύεται ἕκαστος οὐ πάνυ ὅμοιος ἑκάστῳ"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "370b",
+          "context": "διαφέρων τὴν φύσιν"
+        },
+        {
+          "form": "φύσιν",
+          "lemma": "φύσις",
+          "location": "370c",
+          "context": "εἷς ἓν κατὰ φύσιν"
+        }
+      ],
+      "observation": "φύω/φύσις appears three times in rapid succession (370a-c): natural growth differentiates persons, and working κατὰ φύσιν grounds the principle of specialization."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "τέταρτον",
+          "lemma": "τέταρτος",
+          "location": "369e",
+          "context": "τέταρτον μέρος... ἐν τετάρτῳ μέρει"
+        }
+      ],
+      "observation": "τέταρτον μέρος appears twice in immediate succession (369e-370a), dividing the farmer's time and product into quarters if he works for himself alone rather than sharing."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "καιρόν",
+          "lemma": "καιρός",
+          "location": "370b",
+          "context": "ἐάν τίς τινος παρῇ ἔργου καιρόν, διόλλυται"
+        },
+        {
+          "form": "καιρῷ",
+          "lemma": "καιρός",
+          "location": "370c",
+          "context": "εἷς ἓν κατὰ φύσιν καὶ ἐν καιρῷ"
+        }
+      ],
+      "observation": "καιρός appears twice: first as what must not be missed (370b), then as the condition under which work succeeds (370c) — κατὰ φύσιν καὶ ἐν καιρῷ paired as dual requirements."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "πλείω",
+          "lemma": "πλείων",
+          "location": "370c",
+          "context": "πλείω τε ἕκαστα γίγνεται"
+        },
+        {
+          "form": "κάλλιον",
+          "lemma": "καλός",
+          "location": "370c",
+          "context": "καὶ κάλλιον"
+        },
+        {
+          "form": "ῥᾷον",
+          "lemma": "ῥᾴδιος",
+          "location": "370c",
+          "context": "καὶ ῥᾷον"
+        }
+      ],
+      "observation": "Three comparative adjectives in sequence (πλείω, κάλλιον, ῥᾷον) name the fruits of specialization: more, finer, easier."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀργήσει",
+          "lemma": "ἀργέω",
+          "location": "371c",
+          "context": "ἀργήσει τῆς αὑτοῦ δημιουργίας καθήμενος ἐν ἀγορᾷ"
+        }
+      ],
+      "observation": "ἀργήσει names the idleness of the craftsman sitting in the agora if buyers do not arrive simultaneously — the temporal mismatch that generates the need for καπήλων."
+    }
+  ]
+}
