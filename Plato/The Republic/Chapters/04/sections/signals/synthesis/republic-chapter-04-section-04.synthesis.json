@@ -1,0 +1,195 @@
+{
+  "section_id": "republic-chapter-04-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "`s001` records the city as founded (ὠικισμένη, ᾤκισται, οἰκισθείσῃ, οἰκισθεῖσα). `s004` records the finding (εὕρωμεν, εὑρήσειν, ηὑρήκαμεν, ηὑρῆσθαι) moving from future hope to accomplished perfect. The founding is declared complete at 427c before the search begins; the first virtue is declared found at 429a, matching completion in founding to completion in finding."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s016"
+      ],
+      "observation": "`s003` introduces the search for justice through procuring light (φῶς) and seeing (ἴδωμεν). `s016` concludes the first stage by locating where wisdom is seated (ἵδρυται) in the city. The search that begins with visual perception ends with spatial placement."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s012"
+      ],
+      "observation": "`s006` records Glaucon recalling Socrates' promise to search (ὑπέσχου ζητήσειν) and ζητέω recurring as method. `s012` records the rapid exchange: promise, religious obligation (οὐχ ὅσιον), demand for help (συλλαμβάνειν), assent (ποιήσομεν). The promise to search is recalled and immediately enacted through shared commitment before the method is articulated."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013"
+      ],
+      "observation": "`s007` presents the serial rejection of carpentry, bronze-work, and farming before accepting φυλακική. `s013` distinguishes the decisive knowledge by its object: not about some particular thing (τινός) but about the city as a whole (αὑτῆς ὅλης). Each rejected craft serves a part; the accepted knowledge serves the whole, mapping the sequence of rejections onto the part-whole distinction."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s008"
+      ],
+      "observation": "`s002` records exceptional density of ἐπιστήμη from 428b through 429a, tested against multiple crafts. `s008` records the εὐβουλ-/βουλεύω family linking good counsel to ἐπιστήμη and distinguishing deliberation about parts from deliberation about the whole. The dense recurrence of ἐπιστήμη provides the genus term; the εὐβουλ- family specifies what this ἐπιστήμη does and for what object."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013"
+      ],
+      "observation": "`s009` contrasts the smallest part (σμικροτάτῳ, ὀλίγιστοι, ὀλίγιστον) making the whole (ὅλη) city wise. `s013` contrasts deliberation about some particular thing (τινός) with deliberation about the city as a whole (αὑτῆς ὅλης). Both contrasts juxtapose part and whole; the first concerns size and predication, the second concerns the object of deliberation."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s010"
+      ],
+      "observation": "`s005` lists σοφή among four virtues at 427e, then isolates it at 428b and 429a. `s010` flags σοφία at 428b with the remark that something strange (ἄτοπον) appears concerning it. The isolation of σοφία from the initial list is accompanied by advance notice that the result will be surprising."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s014"
+      ],
+      "observation": "`s011` frames the method through τέτταρες: four virtues, four items in analogy, one of the four found. `s014` clusters γιγνώσκω and γνωρίζω in the methodological analogy about recognizing one of four items by elimination. The number four structures the method; the recognizing/knowing language articulates how elimination yields knowledge of the remaining item."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s016"
+      ],
+      "observation": "`s001` records the city founded through οἰκίζω in perfect and aorist passive forms. `s016` describes wisdom as seated (ἵδρυται) in a specific location within the city. Both verbs denote placement: the city is placed through founding; the virtue is placed within the founded city."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s011"
+      ],
+      "observation": "`s004` records finding moving from future (εὑρήσειν) to accomplished perfect (ηὑρήκαμεν, ηὑρῆσθαι). `s011` frames the task as finding one of four (ἓν τῶν τεττάρων). The completion of finding is simultaneously the completion of finding one out of four, matching tense-shift to arithmetical progress."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "427e",
+          "context": "δῆλον δὴ ὅτι σοφή τʼ ἐστὶ"
+        },
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "427e",
+          "context": "δῆλον"
+        },
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "428b",
+          "context": "δῆλον ὅτι ἐπιστήμη τίς ἐστιν"
+        },
+        {
+          "form": "δῆλον",
+          "lemma": "δῆλος",
+          "location": "428b",
+          "context": "δῆλον"
+        },
+        {
+          "form": "κατάδηλον",
+          "lemma": "κατάδηλος",
+          "location": "428a",
+          "context": "κατάδηλον εἶναι ἡ σοφία"
+        },
+        {
+          "form": "δῆλα",
+          "lemma": "δῆλος",
+          "location": "428a",
+          "context": "δῆλα δή"
+        }
+      ],
+      "observation": "δῆλος recurs six times, repeatedly marking steps in the argument as clear or evident, and intensified once to κατάδηλον when σοφία is isolated."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πρῶτον",
+          "lemma": "πρῶτος",
+          "location": "428a",
+          "context": "ὁπότε πρῶτον ἐκεῖνο ἔγνωμεν"
+        },
+        {
+          "form": "πρότερον",
+          "lemma": "πρότερος",
+          "location": "428a",
+          "context": "εἰ δὲ τὰ τρία πρότερον ἐγνωρίσαμεν"
+        },
+        {
+          "form": "πρῶτόν",
+          "lemma": "πρῶτος",
+          "location": "428a",
+          "context": "πρῶτόν γέ μοι δοκεῖ ... κατάδηλον εἶναι ἡ σοφία"
+        }
+      ],
+      "observation": "πρῶτος and πρότερος mark ordinal position in the methodological analogy and then declare σοφία as the first virtue examined, linking method to execution."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀνάγκη",
+          "lemma": "ἀνάγκη",
+          "location": "427e",
+          "context": "ἀνάγκη γʼ, ἔφη"
+        }
+      ],
+      "observation": "Glaucon responds with ἀνάγκη when Socrates states that the rightly founded city is completely good, marking necessity as the logical force binding founding to goodness."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χαλκέας",
+          "lemma": "χαλκεύς",
+          "location": "428e",
+          "context": "χαλκέας πλείους ἐνέσεσθαι"
+        }
+      ],
+      "observation": "χαλκεύς (bronze-workers) recurs at 428e after χαλκοῦ at 428c, now cited not as a rejected craft-knowledge but as a numerical comparison: more bronze-workers than true guardians."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "τῷ ὄντι",
+          "lemma": null,
+          "location": "428b",
+          "context": "σοφὴ μὲν τῷ ὄντι δοκεῖ μοι ἡ πόλις εἶναι"
+        },
+        {
+          "form": "τῷ ὄντι",
+          "lemma": null,
+          "location": "428d",
+          "context": "εὔβουλον ... καὶ τῷ ὄντι σοφήν"
+        }
+      ],
+      "observation": "τῷ ὄντι recurs twice to emphasize that the city is really, truly wise, bracketing the examination of which knowledge makes it so."
+    }
+  ]
+}
