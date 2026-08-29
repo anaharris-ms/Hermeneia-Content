@@ -1,0 +1,150 @@
+{
+  "section_id": "republic-chapter-01-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s003"
+      ],
+      "observation": "`s001` describes Thrasymachus coiling and springing like a beast to tear apart. `s003` records his repeated attempts to seize the argument, restraint by others, and final refusal to keep quiet. The beast-action and the sequence of restrained then released intervention occur in the same entry."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "`s006` lists five prohibited benefit-terms at 336d, ending with τὸ συμφέρον. `s007` records that τὸ συμφέρον reappears at 338c as the core of Thrasymachus' own definition, qualified by τοῦ κρείττονος. The last forbidden answer becomes the asserted answer."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` records Socrates saying he would have become ἄφωνος had Thrasymachus seen him first. `s009` places forms of προσβλέπω in the same passage: Socrates looking at Thrasymachus in fear, then having looked first. The reversal in seeing-order determines speech-capacity."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s004"
+      ],
+      "observation": "`s012` names Socrates' habitual εἰρωνεία and predicts he will practice it rather than ἀποκρίνεσθαι. `s004` records dense recurrence of ἀποκρίνομαι forms throughout the section. The refusal to answer named as εἰρωνεία and the repeated act of answering or not answering occupy the same exchanges."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s006"
+      ],
+      "observation": "`s013` lists four prohibited factorizations of twelve at 337b. `s006` lists five prohibited definitions of justice at 336d. The two sequences place numeric exclusions beside conceptual exclusions."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "`s014` clusters μανθάνω and διδάσκω across 337d–338b, as Socrates claims the non-knower should learn, and Thrasymachus accuses Socrates of learning without teaching. `s015` places χάριν ἀποδιδόναι and ἐκτίνω in the accusation and response: not repaying gratitude, paying what one can. Learning, teaching, and payment configure the exchange."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s014"
+      ],
+      "observation": "`s016` records Thrasymachus demanding ἀργύριον and Glaucon guaranteeing πάντες will pay. `s014` places διδάξαι alongside μαθεῖν. The demand for money and the promise of collective payment occur in the same passage as the request to teach."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s001"
+      ],
+      "observation": "`s017` records Thrasymachus' visible desire to speak, his yielding, and his final statement of the definition. `s001` describes his entry as a beast springing to tear apart. The visible intention and the beast-action both precede his speaking."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s011"
+      ],
+      "observation": "`s002` places Thrasymachus speaking εἰς τὸ μέσον at 336b. `s011` records his σαρδάνιον laugh at 337a. Speaking into the middle and the marked laugh occur in successive speeches by Thrasymachus."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s010"
+      ],
+      "observation": "`s018` records ὑποκατακλίνω first in Thrasymachus' accusation of mutual yielding, then in Socrates' gold-seeking analogy. `s010` contrasts searching for gold with searching for justice, calling justice more valuable than many golds. The yielding-action transfers from the accusation to the hypothetical search for gold, which is then contrasted with the search for justice."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s013"
+      ],
+      "observation": "`s005` records φλυαρία first as Thrasymachus' accusation at 336c, then as φλυαρῇς prohibiting certain answers at 337b. `s013` places the twelve-analogy at 337b with its four prohibited factorizations. The verb φλυαρέω and the prohibited numeric answers occur in the same passage."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "εἰδότος",
+          "lemma": "οἶδα",
+          "location": "337d",
+          "context": "προσήκει δέ που μαθεῖν παρὰ τοῦ εἰδότος"
+        },
+        {
+          "form": "εἰδὼς",
+          "lemma": "οἶδα",
+          "location": "337e",
+          "context": "πρῶτον μὲν μὴ εἰδὼς μηδὲ φάσκων εἰδέναι"
+        },
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "337e",
+          "context": "μηδὲ φάσκων εἰδέναι"
+        },
+        {
+          "form": "εἰδέναι",
+          "lemma": "οἶδα",
+          "location": "336c",
+          "context": "εἴπερ ὡς ἀληθῶς βούλει εἰδέναι τὸ δίκαιον ὅτι ἔστι"
+        }
+      ],
+      "observation": "Forms of οἶδα recur across the section: Thrasymachus challenges Socrates to know truly what justice is at 336c, Socrates says the non-knower should learn from the knower at 337d, and Socrates describes the man who does not know and does not claim to know at 337e."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "πάντες γὰρ ἡμεῖς Σωκράτει εἰσοίσομεν",
+          "lemma": null,
+          "location": "337d",
+          "context": "ἀλλʼ ἕνεκα ἀργυρίου, ὦ Θρασύμαχε, λέγε· πάντες γὰρ ἡμεῖς Σωκράτει εἰσοίσομεν"
+        }
+      ],
+      "observation": "Glaucon's guarantee that πάντες will contribute to Socrates places a collective plural subject in the position of financial support."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἡγούμενος",
+          "lemma": "ἡγέομαι",
+          "location": "338a",
+          "context": "ἡγούμενος ἔχειν ἀπόκρισιν παγκάλην"
+        },
+        {
+          "form": "ἡγεῖται",
+          "lemma": "ἡγέομαι",
+          "location": "337e",
+          "context": "ὧν ἡγεῖται ὑπʼ ἀνδρὸς οὐ φαύλου"
+        }
+      ],
+      "observation": "Forms of ἡγέομαι occur at 337e, where Socrates describes what the man who truly wants to know thinks he should answer, and at 338a, where Thrasymachus thinks he has a fine answer."
+    }
+  ]
+}
