@@ -1,0 +1,227 @@
+{
+  "section_id": "republic-chapter-02-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s003"
+      ],
+      "observation": "μορφή and ἰδέα are both introduced at 380d as plurals (πολλὰς μορφάς, ἄλλαις ἰδέαις) naming multiplicity god might assume, then both recur in singular possessive phrases (τῆς ἑαυτοῦ ἰδέας, τῇ αὑτοῦ μορφῇ) naming the single form from which he does not depart."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "ἥκιστα ἀλλοιοῦται recurs as a fixed phrase through the ascending examples at 380e–381a (body, plant, soul, artifacts), each time asserting that the best-conditioned instance is least altered, then ἥκιστα recurs at 381b applied to god holding many forms and at 382b applied to accepting falsehood in the soul."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s002"
+      ],
+      "observation": "ἁπλοῦν at 380d is paired with not departing from τῆς ἑαυτοῦ ἰδέας; ἁπλῶς at 381c is paired with μένει ἐν τῇ αὑτοῦ μορφῇ; ἁπλοῦν at 382e is paired with ἀληθές. Simplicity moves from a question about form-constancy to a conclusion pairing simplicity with truth."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "ψεῦδος accumulates seven instances from 382a to 382d, divided explicitly into τὸ ὡς ἀληθῶς ψεῦδος (ἡ ἐν τῇ ψυχῇ ἄγνοια) and τὸ ἐν τοῖς λόγοις ψεῦδος, which is then called μίμημα, εἴδωλον, and οὐ πάνυ ἄκρατον ψεῦδος—three qualifications localizing it as secondary and mixed."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s009"
+      ],
+      "observation": "The concrete sequence σῶμα, φυτόν, ψυχή, σκεύη/οἰκοδομήματα/ἀμφιέσματα at 380e–381a is punctuated by ἥκιστα six times, building an inductive accumulation from bodily examples through soul to crafted objects, all leading to the claim about god at 381b."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s006"
+      ],
+      "observation": "λόγος and ἔργον are paired three times: as modes in which god might lie (382a), as modes in which god is ἁπλοῦν καὶ ἀληθές (382e), and as modes in which god does not deceive (383a). The pairing frames the falsehood inquiry and reappears in the simplicity conclusion."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016"
+      ],
+      "observation": "ἀψευδές is stated as the divine attribute at 382e, then immediately placed in Thetis's mouth at 383b—τὸ Φοίβου θεῖον ἀψευδὲς στόμα ἤλπιζον—followed by the fourfold αὐτός anaphora identifying Apollo as the one who sang, attended, spoke, and killed her son."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013"
+      ],
+      "observation": "γόης appears at 380d with φαντάζεσθαι; φάντασμα recurs at 382a in the question about divine lying; γοητεύοντες returns at 381e paired with ἐξαπατῶντες; φαντασίας recurs at 382e; γόητας closes the argument at 383a. The γοητ- and φαντ- families interweave across the section."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s004"
+      ],
+      "observation": "τὸ ἐν τοῖς λόγοις ψεῦδος is called φάρμακον at 382c—useful for enemies and deranged friends—while τὸ ὡς ἀληθῶς ψεῦδος in the soul is universally hated. The pharmakon image locates instrumental utility in the secondary, word-level falsehood."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s001"
+      ],
+      "observation": "The question at 381b presents ἐπὶ τὸ βέλτιον or ἐπὶ τὸ χεῖρον as exhaustive directions for μεταβάλλει; the answer ἀνάγκη ἐπὶ τὸ χεῖρον, εἴπερ ἀλλοιοῦται joins the change-vocabulary (μεταβάλλω, ἀλλοιόω) to the directional pair and makes divine change impossible by eliminating one direction."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s022"
+      ],
+      "observation": "ἑκών appears twice: no one ἑκὼν makes himself worse (381c), and no one ἑκὼν ἐθέλει to be false τῷ κυριωτάτῳ ἑαυτῶν περὶ τὰ κυριώτατα (382a). Both denials invoke willing and locate the refusal in relation to one's own authoritative self or matters."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019"
+      ],
+      "observation": "τύπος is introduced as δεύτερον τύπον at 383a, then taken up by Adeimantus as τοὺς τύπους τούτους at 383c, where he adds ὡς νόμοις ἂν χρῴμην—accepting the pattern as something to be used as laws."
+    },
+    {
+      "signal_ids": [
+        "s020",
+        "s002"
+      ],
+      "observation": "παντοῖοι τελέθοντες (381d Homeric quotation) and παντοδαποῖς/παντοδαποὺς at 381e name the all-various appearances denied to gods, contrasting with the singular μορφῇ in which each god μένει ἀεὶ ἁπλῶς (381c)."
+    },
+    {
+      "signal_ids": [
+        "s023",
+        "s018"
+      ],
+      "observation": "The section closes by moving from denying χορόν to barring διδασκάλους from using such poets ἐπὶ παιδείᾳ τῶν νέων, to stating the goal that φύλακες become θεοσεβεῖς τε καὶ θεῖοι (383c), then Adeimantus affirms the τύπους and adds he would use them ὡς νόμοις—a progression from exclusion through education to legislative use."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s001"
+      ],
+      "observation": "μεταβολή and μεταβάλλω at 381b name the change god would not undergo; ἀλλοιόω saturates the examples leading to that conclusion. Both verb families converge in the claim that god does not change, with μεταβάλλειν appearing again in the final formulation at 383a."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s014"
+      ],
+      "observation": "The division of ψεῦδος into two kinds (382a–c) generates the ψευδ- family's proliferation: ψεύδεσθαι, ἐψεῦσθαι, ἐψευσμένου, ψευδής, ψεύδοιτο, culminating in ἀψευδές (382e) applied to τὸ δαιμόνιον and τὸ θεῖον, then ἀψευδές again in the Aeschylus quotation where the hoped-for divine truthfulness is betrayed."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄριστα ἔχει",
+          "lemma": null,
+          "location": "381b",
+          "context": "ὁ θεός γε καὶ τὰ τοῦ θεοῦ πάντῃ ἄριστα ἔχει"
+        }
+      ],
+      "observation": "ἄριστα ἔχει is stated as the condition of god and τὰ τοῦ θεοῦ, concluding the analogy sequence and grounding the claim that god would least hold many forms."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τῇ ψυχῇ περὶ τὰ ὄντα",
+          "lemma": null,
+          "location": "382b",
+          "context": "τῇ ψυχῇ περὶ τὰ ὄντα ψεύδεσθαί τε καὶ ἐψεῦσθαι"
+        }
+      ],
+      "observation": "τῇ ψυχῇ περὶ τὰ ὄντα localizes the truly-real falsehood: in the soul concerning the things that are."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαπατῶντα",
+          "lemma": "ἐξαπατάω",
+          "location": "380d",
+          "context": "ἡμᾶς ἀπατῶντα"
+        },
+        {
+          "form": "ἐξαπατῶντες",
+          "lemma": "ἐξαπατάω",
+          "location": "381e",
+          "context": "ἐξαπατῶντες καὶ γοητεύοντες"
+        },
+        {
+          "form": "ἐξαπατᾷ",
+          "lemma": "ἐξαπατάω",
+          "location": "382e",
+          "context": "οὔτε ἄλλους ἐξαπατᾷ"
+        }
+      ],
+      "observation": "ἐξαπατάω appears at the opening question (380d), recurs with γοητεύοντες at 381e, and returns in the final denial at 382e that god deceives others."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "χρήσιμον",
+          "lemma": "χρήσιμος",
+          "location": "382c",
+          "context": "ὡς φάρμακον χρήσιμον γίγνεται"
+        },
+        {
+          "form": "χρήσιμον",
+          "lemma": "χρήσιμος",
+          "location": "382d",
+          "context": "οὕτω χρήσιμον ποιοῦμεν"
+        }
+      ],
+      "observation": "χρήσιμον recurs twice, naming the instrumental usefulness of falsehood in words: as pharmakon against enemies and in mythology where ignorance is likened to truth."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "382e",
+          "context": "οὔθʼ ὕπαρ οὐδʼ ὄναρ"
+        },
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "382e",
+          "context": "οὔθʼ ὕπαρ οὐδʼ ὄναρ"
+        }
+      ],
+      "observation": "ὕπαρ and ὄναρ (waking and dreaming) appear as the final pair in the series denying modes of divine deception at 382e."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "σημείων πομπάς",
+          "lemma": null,
+          "location": "382e",
+          "context": "οὔτε κατὰ σημείων πομπάς"
+        }
+      ],
+      "observation": "σημείων πομπάς (sendings of signs) appears in the catalogue of modes by which god does not deceive at 382e."
+    }
+  ]
+}
