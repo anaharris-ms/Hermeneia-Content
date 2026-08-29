@@ -1,0 +1,200 @@
+{
+  "section_id": "republic-chapter-03-section-09",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s010"
+      ],
+      "observation": "`s002` records φύλαξ shifting from guarding the city to guarding a δόγμα to self-guarding (φύλαξ αὑτοῦ) to guarding offspring's natures. `s010` shows δόγμα first as the conviction within oneself to be guarded (παρʼ αὑτοῖς δόγματος, τούτου τοῦ δόγματος), then as the rulers' decrees (τῶν ἀρχόντων δόγμασιν). Guarding moves from internal conviction to serving external command."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "`s008` places βασανίζω first in the simile of testing gold in fire (βασανίζοντας πολὼ μᾶλλον ἢ χρυσὸν ἐν πυρί, 413e) and immediately after in lifelong testing through age-stages. `s009` records χρυσός first in that testing simile and then in the noble lie as the metal mixed into rulers at birth (χρυσὸν ἐν τῇ γενέσει συνέμειξεν, 415a). The gold tested by fire becomes the gold received at birth."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "`s006` contrasts voluntary departure of false opinion with involuntary departure of all true opinion (ἑκουσίως μὲν ἡ ψευδής, ἀκουσίως δὲ πᾶσα ἡ ἀληθής). `s005` lists three modes of involuntary loss (κλαπέντες, γοητευθέντες, βιασθέντες) that apply only to true opinion. The voluntary/involuntary contrast governs which opinion-type can be stolen, enchanted, or forced."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013"
+      ],
+      "observation": "`s013` narrates formation under the earth (ὑπὸ γῆς ἐντός) and release upward (ἀνῆκεν). `s007` records the four metals mixed into souls ἐν τῇ γενέσει during that underground formation. The spatial movement from below to above is when the metallic nature is received."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s007"
+      ],
+      "observation": "`s001` records ἄρχω/ἄρχων recurring from the opening question (οἵτινες ἄρξουσί τε καὶ ἄρξονται, 412b) through requirements for rulers to the noble lie (ὅσοι μὲν ὑμῶν ἱκανοὶ ἄρχειν, 415a). `s007` places χρυσόν with those fit to rule within the myth (χρυσὸν ἐν τῇ γενέσει συνέμειξεν αὐτοῖς, διὸ τιμιώτατοί εἰσιν, 415a). The capacity to rule, articulated throughout, receives a metallic ground within the lie."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "`s014` clusters kinship terms in the noble lie: earth as μήτηρ and τροφός, citizens as ἀδελφοί and συγγενεῖς. `s015` records κήδομαι first as a requirement for rulers (caring for what one loves, 412d) and last as the effect of the lie (τῆς πόλεώς τε καὶ ἀλλήλων κήδεσθαι, 415d). The kinship vocabulary within the myth aims at producing the care named earlier as a ruling qualification."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s018"
+      ],
+      "observation": "`s003` traces φύλαξ from self-guarding (φύλαξ αὑτοῦ, 413e) to complete external and internal guarding (φύλακας παντελεῖς τῶν τε ἔξωθεν πολεμίων τῶν τε ἐντὸς φιλίων, 414b) to the destructive iron or bronze φύλαξ (ὁ σιδηροῦς φύλαξ ἢ ὁ χαλκοῦς, 415c). `s018` contrasts external enemies and internal friends, differentiated by will versus capacity to harm (βουλήσονται / δυνήσονται κακουργεῖν). The iron/bronze guardian whose guarding destroys the city appears after the explicit naming of internal and external threats."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012",
+        "s020"
+      ],
+      "observation": "`s011` clusters πείθω around the introduction of the noble lie (γενναῖόν τι ἓν ψευδομένους πεῖσαι, πεῖσαι δὲ συχνῆς πειθοῦς, 414c). `s012` records ψεῦδος/ψεύδομαι and Socrates' shame (ᾐσχύνου τὸ ψεῦδος λέγειν, 414e). `s020` records Socrates proposing to persuade rulers first, then the city (πρῶτον μὲν αὐτοὺς τοὺς ἄρχοντας πείθειν … ἔπειτα δὲ καὶ τὴν ἄλλην πόλιν, 414d), but the interlocutor answers that the rulers themselves cannot be persuaded, only their sons (οὐδαμῶς … ὅπως γʼ ἂν αὐτοὶ οὗτοι· ὅπως μεντἂν οἱ τούτων ὑεῖς, 415d). Persuasion of the lie fails with its first intended audience."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s007"
+      ],
+      "observation": "`s017` articulates testing through life-stages (παισί, νεανίσκοις, ἀνδράσι, 413e) and honors extending to living and dead (ζῶντι καὶ τελευτήσαντι, τάφων, μνημείων, 414a). `s007` records the metals mixed ἐν τῇ γενέσει and the ὑπο- compounds naming concealed metallic offspring (ὑπόχαλκος, ὑποσίδηρος, ὑπόχρυσος, ὑπάργυρος, 415b-c). The life-span of testing culminates in identifying the proven guardian, but the myth requires lifelong vigilance over offspring's hidden natures, a guardianship extending beyond one's own lifetime."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s019"
+      ],
+      "observation": "`s004` records γοητεύω as one mode of losing true opinion and δυσγοήτευτος as the quality of resistance (413b-e). `s005` lists enchantment (γοητευθέντες) alongside theft and force, then explains it as being charmed by pleasure or frightened by fear (ὑφʼ ἡδονῆς κηληθέντες ἢ ὑπὸ φόβου τι δείσαντες, 413c). `s019` clusters hesitation and shame around the noble lie: Socrates hesitates (ὀκνέω twice), does not know what boldness (τόλμα) to use, is told not to fear (μὴ φοβοῦ), and the interlocutor names his shame (ᾐσχύνου, 414c-e). The enchantment defined by pleasure and fear returns as the speaker's own fear and shame in speaking the lie."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s011"
+      ],
+      "observation": "`s016` introduces the lie as Φοινικικόν τι and explicitly not new (μηδὲν καινόν, 414c), something poets claim happened elsewhere but not in the speakers' time. `s011` immediately follows with πεῖσαι and πεπείκασιν, noting that poets have persuaded others of it (ὥς φασιν οἱ ποιηταὶ καὶ πεπείκασιν, 414c). The lie's status as old, foreign, and poetically persuasive precedes the question of whether the speakers themselves can persuade anyone."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s007"
+      ],
+      "observation": "`s002` records the final recurrence of φύλαξ in the oracle (ὁ σιδηροῦς φύλαξ ἢ ὁ χαλκοῦς φυλάξῃ, 415c): the city perishes when the iron or bronze guardian guards it. `s007` assigns iron and bronze (σίδηρον δὲ καὶ χαλκόν) to farmers and other craftsmen (τοῖς τε γεωργοῖς καὶ τοῖς ἄλλοις δημιουργοῖς, 415a). The metals that should never guard appear in the oracle as the city's destruction."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014",
+        "s021"
+      ],
+      "observation": "`s021` records πλάττω first for citizens fashioned under the earth (ὑπὸ γῆς ἐντὸς πλαττόμενοι, 414d) and then for the god fashioning them with metals (ὁ θεὸς πλάττων, 415a). `s013` places this formation underground and the earth's release of them upward (ἡ γῆ αὐτοὺς μήτηρ οὖσα ἀνῆκεν, 414e). `s014` identifies earth as μήτηρ and τροφός and citizens as ἀδελφοί. The god's fashioning occurs within the earth-mother's space, and kinship follows from shared underground formation and common upward birth."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sequence_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐκλεκτέον",
+          "lemma": "ἐκλέγω",
+          "location": "412d",
+          "context": "ἐκλεκτέον ἄρʼ ἐκ τῶν ἄλλων φυλάκων"
+        },
+        {
+          "form": "ἐκλογή",
+          "lemma": "ἐκλογή",
+          "location": "414a",
+          "context": "τοιαύτη τις … ἡ ἐκλογὴ εἶναι καὶ κατάστασις"
+        },
+        {
+          "form": "ἐγκριτέον",
+          "lemma": "ἐγκρίνω",
+          "location": "413d",
+          "context": "τὸν μὲν μνήμονα καὶ δυσεξαπάτητον ἐγκριτέον"
+        },
+        {
+          "form": "ἀποκριτέον",
+          "lemma": "ἀποκρίνω",
+          "location": "413d",
+          "context": "τὸν δὲ μὴ ἀποκριτέον"
+        },
+        {
+          "form": "καταστατέον",
+          "lemma": "καθίστημι",
+          "location": "414a",
+          "context": "καταστατέον ἄρχοντα τῆς πόλεως καὶ φύλακα"
+        }
+      ],
+      "observation": "A sequence of verbal adjectives in -τέον governs the selection procedure: ἐκλεκτέον (must select from guardians, 412d), ἐγκριτέον and ἀποκριτέον (must accept/reject after testing, 413d), καταστατέον (must establish as ruler, 414a), culminating in ἐκλογή as the name for the entire process (414a)."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀνείρατα",
+          "lemma": "ὄνειρος",
+          "location": "414d",
+          "context": "ὥσπερ ὀνείρατα ἐδόκουν ταῦτα πάντα πάσχειν τε καὶ γίγνεσθαι"
+        }
+      ],
+      "observation": "ὀνείρατα appears singularly within the noble lie to describe the guardians' education as if it were a dream (ὥσπερ ὀνείρατα ἐδόκουν, 414d), contrasted with what truly happened ὑπὸ γῆς ἐντός."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χρησμοῦ",
+          "lemma": "χρησμός",
+          "location": "415c",
+          "context": "ὡς χρησμοῦ ὄντος τότε τὴν πόλιν διαφθαρῆναι"
+        }
+      ],
+      "observation": "χρησμός appears once, naming the prophecy that the city will be destroyed when the iron or bronze guardian guards it (ὡς χρησμοῦ ὄντος τότε τὴν πόλιν διαφθαρῆναι, ὅταν αὐτὴν ὁ σιδηροῦς φύλαξ ἢ ὁ χαλκοῦς φυλάξῃ, 415c)."
+    },
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "τιμιώτατοι",
+          "lemma": "τίμιος",
+          "location": "415a",
+          "context": "διὸ τιμιώτατοί εἰσιν"
+        },
+        {
+          "form": "τιμήν",
+          "lemma": "τιμή",
+          "location": "415c",
+          "context": "τὴν τῇ φύσει προσήκουσαν τιμὴν ἀποδόντες"
+        },
+        {
+          "form": "τιμήσαντες",
+          "lemma": "τιμάω",
+          "location": "415c",
+          "context": "τιμήσαντες ἀνάξουσι τοὺς μὲν εἰς φυλακήν"
+        },
+        {
+          "form": "τιμάς",
+          "lemma": "τιμή",
+          "location": "414a",
+          "context": "καὶ τιμὰς δοτέον καὶ ζῶντι καὶ τελευτήσαντι"
+        }
+      ],
+      "observation": "τιμή, τίμιος, and τιμάω recur: gold-bearers are τιμιώτατοι (most honored, 415a), guardians receive τιμάς after testing (414a), offspring receive the τιμή fitting their nature (415b), and upward-promoted offspring are honored (τιμήσαντες, 415c) before reassignment."
+    }
+  ]
+}
