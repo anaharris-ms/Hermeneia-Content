@@ -1,0 +1,119 @@
+{
+  "section_id": "republic-chapter-01-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s005"
+      ],
+      "observation": "κατέβην marks explicit downward movement into the Piraeus (s001). The initial destination is πρὸς τὸ ἄστυ, named οἴκαδε (s005). Later οἴκαδε names arrival at Polemarchus' house. The descent leads not homeward to the city but to another οἶκος in the port."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s014"
+      ],
+      "observation": "θεάσασθαι states the purpose of descending (s002); προσευξόμενός states prayer as a parallel purpose (s014). προσευξάμενοι marks prayer completed; θεωρήσαντες marks viewing completed. Both purposes are fulfilled before the return begins, yet θεάσασθαι and θεασόμεθα recur in Polemarchus' persuasion to stay."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s013"
+      ],
+      "observation": "ἐκέλευσε, κελεῦσαι, κελεύει relay Polemarchus' command through the slave (s013). περιμεῖναί, περιμεῖναι, περιμένετε, περιμενοῦμεν carry the content of that command forward through the slave's speech, Polemarchus' direct address, and Glaucon's acceptance (s003). The command to wait passes through three speakers in two verbs."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s006",
+        "s007"
+      ],
+      "observation": "Socrates proposes persuasion (πείσωμεν) as the remaining option (s004). Polemarchus replies with a disjunction framing the situation as superior force (κρείττους γένεσθε) or staying (s006), then asks Socrates to see how many they are (ὁράτε ... ὅσοι ἐσμέν) (s007). Glaucon confirms they will not listen (μὴ ἀκουσομένων) (s004). Persuasion is proposed, declared impossible without hearing, and replaced by visible number."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s002"
+      ],
+      "observation": "The torch relay on horseback (λαμπάδια ... ἀφ᾽ ἵππων) is announced as ἄξιον θεάσασθαι (s008, s002). Socrates responds καινόν γε τοῦτο and asks for clarification of the combination. The novelty of the spectacle is marked in dialogue, not narration."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s002"
+      ],
+      "observation": "παννυχίδα names the all-night festival twice (s009), placed after dinner in a projected sequence. θεασόμεθα names the future viewing of this festival (s002). The temporal projection (μετὰ τὸ δεῖπνον ... θεασόμεθα) extends beyond the immediate scene to evening and night."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "Cephalus is seated, garlanded, having just sacrificed (τεθυκὼς ... ἐστεφανωμένος) (s010). He appears very old (μάλα πρεσβύτης) and has not been seen by Socrates for a long time (διὰ χρόνου) (s011). Ritual completion and long absence frame the encounter."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s017"
+      ],
+      "observation": "The slave runs (δραμόντα) and grasps Socrates' cloak from behind (ὄπισθεν ... λαβόμενος τοῦ ἱματίου) (s012). This physical detention follows spatial orientations: seeing from a distance (κατιδὼν πόρρωθεν), Socrates turning (μετεστράφην), and approach from behind (ὄπισθεν προσέρχεται) (s017). The slave's grasp completes a sequence of sightings and turnings."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s002"
+      ],
+      "observation": "The local procession appeared fine (καλή); the Thracian procession appeared no less fitting (οὐ μέντοι ἧττον ... πρέπειν) (s015). Both are objects of θεωρήσαντες (s002). The comparison is made after the viewing is completed, not as initial purpose."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s004"
+      ],
+      "observation": "μένω appears in Polemarchus' disjunction (ἢ μένετ᾽ αὐτοῦ), then as direct command (ἀλλὰ μένετε), then in Glaucon's acceptance (μενετέον εἶναι) (s016). This sequence follows the exchange about persuasion and not listening (s004). The imperative becomes a verbal adjective of necessity."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s010"
+      ],
+      "observation": "οἴκαδε first names the movement πρὸς τὸ ἄστυ, then arrival εἰς τοῦ Πολεμάρχου (s005). Inside Polemarchus' house, Cephalus is found seated, garlanded, having sacrificed in the courtyard (τεθυκὼς ... ἐν τῇ αὐλῇ) (s010). The redirection of οἴκαδε leads to a courtyard with completed ritual."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἄτε νῦν πρῶτον ἄγοντες",
+          "lemma": "ἄγω",
+          "location": "327a",
+          "context": "θεάσασθαι τίνα τρόπον ποιήσουσιν ἅτε νῦν πρῶτον ἄγοντες"
+        },
+        {
+          "form": "ᾖμεν",
+          "lemma": "εἶμι",
+          "location": "328b",
+          "context": "ᾖμεν οὖν οἴκαδε εἰς τοῦ Πολεμάρχου"
+        }
+      ],
+      "observation": "ἄγοντες names the Athenians conducting the festival for the first time. ᾖμεν names Socrates and Glaucon going to Polemarchus' house. Both verbs of leading and going appear in the section, the first attributed to others, the second to the speakers."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἔφη",
+          "lemma": "φημί",
+          "location": "327b, 327c (multiple instances), 328a",
+          "context": "Multiple instances: κελεύει ὑμᾶς, ἔφη, Πολέμαρχος ... ὁρᾶτε οὖν ἡμᾶς, ἔφη ... ἢ τοίνυν τούτων, ἔφη, κρείττους γένεσθε ... ἄρα γε, ἦ δ᾽ ὃς ... ἀφ᾽ ἵππων; ἦν δ᾽ ἐγώ ... οὕτως, ἔφη ὁ Πολέμαρχος"
+        }
+      ],
+      "observation": "ἔφη and ἦν δ᾽ ἐγώ punctuate the dialogue exchange from the slave's relay through Polemarchus' persuasion to Socrates' and Glaucon's responses. The formula recurs across all speakers in the detention sequence."
+    }
+  ]
+}
