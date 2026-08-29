@@ -1,0 +1,232 @@
+{
+  "section_id": "republic-chapter-02-section-09",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "`s015` preserves the step-by-step argument from ἀγαθόν to not-cause-of-evil and positively to cause-of-εὐπραγία. `s001` records the dense accumulation of αἴτιος forms that this chain produces. The chain generates the αἴτιος concentration by deriving each predicate from the prior one."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s016"
+      ],
+      "observation": "`s001` records αἴτιος/ἀναίτιος applied to τὸ ἀγαθόν, then to ὁ θεός. `s016` places the quantitative contrast ὀλίγων/πολλῶν at the moment of transfer from the good to god: god causes few things, is not-cause of many. The few/many asymmetry is inserted precisely where the predicate moves from abstract good to divine agent."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s016"
+      ],
+      "observation": "`s002` tracks ἀγαθός/κακός as sustained contrast. `s016` quantifies that contrast: τἀγαθά are πολὺ ἐλάττω than τὰ κακά for humans. The qualitative opposition becomes a numerical asymmetry: goods are vastly outnumbered."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005"
+      ],
+      "observation": "`s003` records ψεύδομαι qualified by καλῶς/μέγιστον. `s005` places the painter simile with its cluster of likeness-terms (εἰκάζω, ἐοικότα, ὅμοια) immediately after the phrase μὴ καλῶς ψεύδηται. The painter's failure of likeness illustrates what it means to lie not-καλῶς about divine essence (οὐσίαν)."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "`s004` records μέμφομαι recurring three times as the action of blaming poets. `s005` provides the standard: the painter who γράφει μηδὲν ἐοικότα. Blame is grounded in representational failure—producing no likeness to what one wishes to represent."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "`s006` contrasts ποιηταί and οἰκισταί. `s007` records that οἰκισταί must know τύπους while not themselves making μύθους. The role-distinction assigns pattern-knowledge to founders and reserves myth-making for poets, who must work within the supplied patterns."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s018"
+      ],
+      "observation": "`s007` records τύπος introduced and concluded. `s018` records νόμος as the term for the completed rule. At 380c both appear together: εἷς ἂν εἴη τῶν περὶ θεοὺς νόμων τε καὶ τύπων. The pattern (τύπος) becomes law (νόμος) when agreed upon."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s010"
+      ],
+      "observation": "`s010` places σιγᾶσθαι as the preference, with λέγειν admitted only under ἀνάγκη. `s008` records the proliferation of λεκτέος forms throughout the section. The verbal adjectives enact in prescriptive grammar what `s010` states: controlled, necessary speech replacing preferred silence."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013"
+      ],
+      "observation": "`s009` pairs ἔργα and πάθη for Kronos, later for Niobe. `s013` identifies family relations as the locus of divine violence: son against father, son binding mother, father throwing son. The ἔργα/πάθη pair captures actions done and suffered within the kinship structure that `s013` articulates."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "`s010` records the preference for σιγᾶσθαι and the condition for λέγειν: διʼ ἀπορρήτων. `s011` specifies the ritual cost: not a pig but μέγα καὶ ἄπορον θῦμα. The ἄπορον (hard-to-procure) sacrifice enforces the restriction to ὀλιγίστους hearers that `s010` names."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "`s012` accumulates war and enmity terms (πολεμέω, μάχομαι, γιγαντομαχία, θεομαχία, ἔχθρα). `s013` places these conflicts among συγγενεῖς and οἰκείους. The warfare cluster is concentrated within kinship: gods war with kin, and this familial enmity must not be narrated to future guardians."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s014"
+      ],
+      "observation": "`s012` lists divine conflicts to be excluded. `s014` describes opinions absorbed in youth as δυσέκνιπτα and ἀμετάστατα—hard to wash out, immovable. The permanence of early-received opinions justifies the exclusion: stories of divine enmity, once heard, cannot be removed."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s017"
+      ],
+      "observation": "`s017` quotes Homer's two jars (πίθοι) and Zeus as ταμίας distributing goods and evils. `s001` records the αἴτιος concentration that refutes this: god is not αἴτιος πάντων but only of goods. The Homeric images of mixed or distributed causation are rejected by the αἴτιος/ἀναίτιος distinction."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s017"
+      ],
+      "observation": "`s017` places Zeus's jars filled with ἐσθλῶν and δειλῶν, and Zeus mixing both or giving only evils. `s002` records ἀγαθός/κακός as sustained contrast. The Homeric jars represent mixed or distributed goods/evils; the argument replaces mixture with exclusive causation: god causes only ἀγαθά, not κακά."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019"
+      ],
+      "observation": "`s019` records three σύν- compounds in succession: σύμφορα, σύμφωνα, σύμψηφος. `s018` places νόμος as the term for the agreed rule. The σύμψηφος (voting-together) that Adeimantus declares echoes the σύμφορα (advantageous-together) and σύμφωνα (harmonious-together) just predicated of the rule. Agreement enacts the harmony and advantage the rule demands."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s009"
+      ],
+      "observation": "`s003` names τὸ μέγιστον ψεῦδος περὶ τῶν μεγίστων. `s009` identifies the content: Ouranos's ἔργα, Kronos's ἔργα καὶ πάθη. The superlative falsehood concerns the greatest beings (gods) and their greatest deeds and sufferings—the theogonic violence."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s008"
+      ],
+      "observation": "`s006` assigns οἰκισταί the task of knowing τύπους, not making μύθους. `s008` records the proliferation of λεκτέος and related verbal adjectives. The founders' speech is prescription (what must/must-not be said), not mythopoeia; the -τέος forms enact the prescriptive mode proper to οἰκισταί."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "`s001` accumulates αἴτιος forms; `s002` sustains ἀγαθός/κακός contrast. At 379b–c the two chains interlock: τὸ ἀγαθόν is αἴτιον εὐπραγίας but ἀναίτιον τῶν κακῶν; ὁ θεός, being ἀγαθός, is αἴτιος ὀλίγων (ἀγαθῶν) and ἀναίτιος πολλῶν (κακῶν). Causation-language and good/evil-language are woven together to restrict divine causation to the good alone."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ὡς",
+          "lemma": "ὡς",
+          "location": "377e–380c",
+          "context": "ὡς Οὐρανός… (377e), ὡς ἐτιμωρήσατο (378a), ὡς ἀδικῶν… (378b), ὡς οὐδεὶς πώποτε… (378c), ὡς ἄθλιοι… (380b), ὡς ὁ μὲν θεὸς… (380b), ὡς οὔτε ὅσια… (380c)"
+        }
+      ],
+      "observation": "ὡς recurs throughout introducing indirect discourse and content-clauses: what Hesiod said, what must not be said, what must be said. The particle marks the reported or prescribed content that the argument evaluates and restricts."
+    },
+    {
+      "signal_types": [
+        "morphological_variation"
+      ],
+      "elements": [
+        {
+          "form": "ἀκούοντι",
+          "lemma": "ἀκούω",
+          "location": "378b",
+          "context": "οὐδὲ λεκτέον νέῳ ἀκούοντι"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "378a",
+          "context": "διʼ ἀπορρήτων ἀκούειν ὡς ὀλιγίστους"
+        },
+        {
+          "form": "ἀκοῦσαι",
+          "lemma": "ἀκούω",
+          "location": "378a",
+          "context": "ὅπως ὅτι ἐλαχίστοις συνέβη ἀκοῦσαι"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "378e",
+          "context": "ὅτι κάλλιστα μεμυθολογημένα πρὸς ἀρετὴν ἀκούειν"
+        },
+        {
+          "form": "ἀκούειν",
+          "lemma": "ἀκούω",
+          "location": "380b",
+          "context": "μήτε τινὰ ἀκούειν"
+        }
+      ],
+      "observation": "ἀκούω appears in varied grammatical forms: dative participle (ἀκούοντι), infinitive (ἀκούειν), aorist infinitive (ἀκοῦσαι). Each occurrence marks the controlled reception of speech: who may hear, how few, under what conditions, with what content."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὅσιον",
+          "lemma": "ὅσιος",
+          "location": "378c",
+          "context": "οὐδʼ ἔστιν τοῦτο ὅσιον"
+        },
+        {
+          "form": "ὅσια",
+          "lemma": "ὅσιος",
+          "location": "380c",
+          "context": "ὡς οὔτε ὅσια ἂν λεγόμενα"
+        }
+      ],
+      "observation": "ὅσιον appears twice: first denying that mutual civic enmity is ὅσιον, later denying that stories making god cause of evil are ὅσια. The term links civic impiety (citizens hating one another) and theological impiety (god causing evil)."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀληθῆ",
+          "lemma": "ἀληθής",
+          "location": "378a",
+          "context": "οὐδʼ ἂν εἰ ἦν ἀληθῆ ᾤμην δεῖν… λέγεσθαι"
+        },
+        {
+          "form": "ἀληθῆ",
+          "lemma": "ἀληθής",
+          "location": "378c",
+          "context": "οὐδὲ γὰρ ἀληθῆ"
+        },
+        {
+          "form": "ἀληθέστατα",
+          "lemma": "ἀληθής",
+          "location": "379c",
+          "context": "ἀληθέστατα, ἔφη, δοκεῖς μοι λέγειν"
+        }
+      ],
+      "observation": "ἀληθής recurs three times: even if the Kronos stories were true (ἀληθῆ), they should not be told; the stories of divine warfare are not true (ἀληθῆ); the argument that god causes only good is most true (ἀληθέστατα). Truth-value is separated from pedagogical suitability for the first two; rejoined with prescription in the third."
+    }
+  ]
+}
