@@ -1,0 +1,174 @@
+{
+  "section_id": "republic-chapter-04-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s003"
+      ],
+      "observation": "s002 traces ταὐτό/αὐτός from sameness of name (435a) to τὰ αὐτὰ ταῦτα εἴδη in city and soul. s003 moves εἶδος from singular (τὸ τῆς δικαιοσύνης εἶδος at 435b) to plural (τὰ τρία εἴδη at 435c). The singular εἶδος of justice becomes three εἴδη that are ταὐτά in both domains."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s015"
+      ],
+      "observation": "s001 records the fourfold repetition of ὅμοιος answering whether city and individual are alike. s015 poses the new question as τῷ αὐτῷ or τρισὶν οὖσιν ἄλλο ἄλλῳ versus ὅλῃ τῇ ψυχῇ. The question shifts from likeness between city and individual to unity or plurality within the soul."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s014"
+      ],
+      "observation": "s006 names three γένη in the city (435b), three εἴδη in the soul (435c), three agents (436a). s014 assigns μανθάνομεν to ἑτέρῳ, θυμούμεθα to ἄλλῳ, ἐπιθυμοῦμεν to τρίτῳ τινί—three verbs distributed across three distinct agents matching the threefold structure."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s018"
+      ],
+      "observation": "s005 lists the four virtues (δικαία, σώφρων, ἀνδρεία, σοφή) at 435b in connection with each kind doing τὸ αὑτῶν ἕκαστον ἔπραττεν. s018 restates πράττω at 436a–b as the question of whether we πράττομεν τῷ αὐτῷ or τρισὶν οὖσιν. The city's virtues depend on each kind doing its work; the soul's structure will turn on whether doing occurs by one or three."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009"
+      ],
+      "observation": "s007 contrasts φαῦλον (435c, denied by Glaucon citing χαλεπὰ τὰ καλά) with repeated χαλεπός (436a twice, 436b). s009 distinguishes the present μέθοδοι from ἄλλη μακροτέρα καὶ πλείων ὁδός. Both configurations articulate difficulty: the inquiry is not φαῦλον but χαλεπόν; the current method is not the longer road."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "s011 names τὸ θυμοειδές, τὸ φιλομαθές, τὸ φιλοχρήματον as three soul-dispositions. s012 assigns each to a τόπος: spiritedness to Thrace, Scythia, and τὸν ἄνω τόπον; love of learning to τὸν παρʼ ἡμῖν τόπον; love of money to Phoenicia and Egypt. The soul's three parts are given geographical embodiments."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "s010 uses ἐμπεπτώκαμεν for falling into the inquiry and ἀφῖκται for εἴδη arriving into the city from individuals—both directional movements. s012 locates the θυμοειδές κατὰ τὸν ἄνω τόπον, φιλομαθές in 'our region,' φιλοχρήματον in Phoenicia/Egypt. Movement and location are interwoven: the soul's parts arrive from places and the inquiry moves into its question."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s015"
+      ],
+      "observation": "s003 moves εἶδος from singular (justice's εἶδος) to plural (three εἴδη in the soul). s015 poses the question τῷ αὐτῷ or τρισὶν οὖσιν versus ὅλῃ τῇ ψυχῇ. The three εἴδη become the explicit alternative to the whole soul acting as one."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "s008 pairs μεθόδων and ὁδός at 435d. s009 contrasts the current μέθοδοι with ἄλλη μακροτέρα καὶ πλείων ὁδός and notes they suffice relative to τῶν γε προειρημένων τε καὶ προεσκεμμένων. The present μέθοδοι are a shorter path distinct from the longer ὁδός that would reach precision."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s016"
+      ],
+      "observation": "s014 assigns ἐπιθυμοῦμεν to τρίτῳ τινί. s016 specifies this third as τῶν περὶ τὴν τροφήν τε καὐ γέννησιν ἡδονῶν καὶ ὅσα τούτων ἀδελφά. The desiring verb receives concrete referents: nourishment, generation, and their kindred."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s006"
+      ],
+      "observation": "s002 moves from ταὐτὸν at 435a to τὰ αὐτὰ ταῦτα εἴδη at 435c and τὰ αὐτὰ ἐν ἑκάστῳ at 435e. s006 specifies these as τριττὰ γένη, τὰ τρία εἴδη, τρισὶν οὖσιν. The sameness (αὐτά) consists precisely in threeness across city and soul."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s004"
+      ],
+      "observation": "s004 frames the city-soul comparison as μεῖζόν and ἔλαττον (435a). s001 answers with fourfold ὅμοιος: the larger and smaller are alike. The size difference does not prevent likeness."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s019"
+      ],
+      "observation": "s007 traces χαλεπός from Glaucon's denial (οὐ πάνυ μοι δοκοῦμεν εἰς φαῦλον, ὅτι χαλεπὰ τὰ καλά) through 436a (οὐδὲν χαλεπὸν γνῶναι, then τόδε δὲ ἤδη χαλεπόν) to 436b (τὰ χαλεπὰ διορίσασθαι). s019 marks the difficulty's locus: ὅταν ὁρμήσωμεν—when we set out. The χαλεπόν question arises at the moment of ὁρμή."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἀκριβῶς",
+          "lemma": "ἀκριβῶς",
+          "location": "435d",
+          "context": "ἀκριβῶς μὲν τοῦτο ἐκ τοιούτων μεθόδων ... οὐ μή ποτε λάβωμεν"
+        }
+      ],
+      "observation": "Socrates states that precision (ἀκριβῶς) will not be attained from the current methods, marking the limit of the present approach."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἐν τῷ παρόντι",
+          "lemma": null,
+          "location": "435d",
+          "context": "ἐμοὶ μὲν γὰρ ἔν γε τῷ παρόντι ἱκανῶς ἂν ἔχοι"
+        }
+      ],
+      "observation": "Glaucon accepts the current method ἐν τῷ παρόντι—in the present moment—contrasting present adequacy with future precision."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἱκανῶς",
+          "lemma": "ἱκανός",
+          "location": "435d",
+          "context": "ἐμοὶ μὲν γὰρ ἔν γε τῷ παρόντι ἱκανῶς ἂν ἔχοι"
+        },
+        {
+          "form": "ἐξαρκέσει",
+          "lemma": "ἐξαρκέω",
+          "location": "435d",
+          "context": "ἔμοιγε καὶ πάνυ ἐξαρκέσει"
+        }
+      ],
+      "observation": "ἱκανῶς and ἐξαρκέσει appear in successive responses (Glaucon, then Socrates), both affirming sufficiency despite the lack of ἀκριβῶς."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὅσα τούτων ἀδελφά",
+          "lemma": null,
+          "location": "436a-436b",
+          "context": "τῶν περὶ τὴν τροφήν τε καὶ γέννησιν ἡδονῶν καὶ ὅσα τούτων ἀδελφά"
+        }
+      ],
+      "observation": "The pleasures of nourishment and generation are supplemented by ὅσα τούτων ἀδελφά—whatever is kindred to these—extending the third part's scope through kinship."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "διορίσασθαι ἀξίως λόγου",
+          "lemma": null,
+          "location": "436b",
+          "context": "ταῦτʼ ἔσται τὰ χαλεπὰ διορίσασθαι ἀξίως λόγου"
+        }
+      ],
+      "observation": "The section closes by naming the task: to distinguish (διορίσασθαι) in a manner worthy of λόγος—the difficulty is explicitly one of rational distinction."
+    }
+  ]
+}
