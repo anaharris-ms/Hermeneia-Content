@@ -1,0 +1,208 @@
+{
+  "section_id": "republic-chapter-04-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The hunting imagery (`s001`: κυνηγέτας, θάμνον, ἴχνος) and the dense seeing cluster (`s002`) combine as two aspects of the same pursuit. The hunters encircle and track; Socrates commands Glaucon to look and see (κατιδεῖν, ἴδῃς). Then κατιδών (432d) announces the seeing accomplished within the hunt: 'I have caught sight.'"
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004"
+      ],
+      "observation": "`s003` places justice near (πρὸ ποδῶν) while they looked far (πόρρω). `s004` supplies the parallel image: people holding something in their hands (ἐν ταῖς χερσὶν ἔχοντες) while searching for it (ζητοῦσιν ὃ ἔχουσιν). Both configure possession without recognition through spatial inversion—near/far, in-hand/sought-elsewhere."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s013"
+      ],
+      "observation": "`s005` describes the place as σκοτεινός, ἐπίσκιος, dark and shadowy. `s013` closes with the fire-stick image: rubbing city and individual together to make justice flash forth (ἐκλάμψαι ἐκ πυρείων). The section moves from darkness to anticipated light produced by friction."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s013"
+      ],
+      "observation": "`s008` traces justice from threatened invisibility (ἀφανισθεῖσα ἄδηλος) through appearance (φανερόν, φαίνεται) to final visibility (φανερὰν γενομένην). `s013` provides the method for the final stage: making it flash forth like fire (ἐκλάμψαι) through rubbing (τρίβοντες). The light vocabulary culminates in ignition."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s015"
+      ],
+      "observation": "`s011` shows justice was rolling at their feet ἐξ ἀρχῆς and that they laid down a principle ἐξ ἀρχῆς when founding the city. `s015` identifies justice as τὸ ὑπόλοιπον, the remainder after the three other virtues. The principle from the beginning turns out to be what is left over after subtraction—first and last coincide."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s017"
+      ],
+      "observation": "`s006` presents τὰ αὑτοῦ πράττειν opposed to πολυπραγμονεῖν/πολυπραγμοσύνη throughout. `s017` clusters μετα- compounds (μεταλαμβάνω, μεταλλάττω, μεταβολή) around the exchange of tools and roles. Doing one's own vs. meddling is enacted as remaining vs. exchanging (μετα-)."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s017"
+      ],
+      "observation": "`s016` contrasts minor harm (τέκτων and σκυτοτόμος exchanging: οὐ πάνυ μέγα βλάψαι) with destruction (class-crossing: ὄλεθρον). `s017` supplies the same verb μεταλαμβάνω for both exchanges. The identical action (exchanging tools) produces opposite outcomes depending on which γένη exchange."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s018"
+      ],
+      "observation": "`s010` stages Glaucon following (ἑπομένῳ, ἕπου) and Socrates leading (ἡγοῦ) through the search. `s018` ends with a double movement: transferring findings to the individual (ἐπαναφέρωμεν εἰς τὸν ἕνα), then returning to the city (ἐπανιόντες ἐπὶ τὴν πόλιν). The linear hunt becomes a reciprocal path between πόλις and ἄνθρωπος."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s012"
+      ],
+      "observation": "`s009` records Socrates declaring ἰτέον and Glaucon echoing ἰτέον γάρ. `s012` shows Socrates declaring δύσκριτον ἂν εἴη and Glaucon echoing δύσκριτον, ἔφη. Both pairs place Glaucon's voice as immediate confirmation, one affirming the imperative to proceed, the other the difficulty of judgment."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "`s015` identifies justice as the remainder (τὸ ὑπόλοιπον, τὸ ὑπολειφθέν) after three virtues. `s014` clusters ἐγγίγνομαι and ἔνειμι forms for the presence of each virtue. Justice is what is left but also what enables the others to come-to-be (ἐγγενέσθαι) and provides preservation (σωτηρίαν) while present (ἕωσπερ ἂν ἐνῇ)—the remainder is the condition."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s018"
+      ],
+      "observation": "`s001` opens with hunters encircling (κύκλῳ περιίστασθαι) a thicket. `s018` closes with movement back and forth (ἐπαναφέρωμεν, ἐπανιόντες) between city and individual, then rubbing them side by side (παρʼ ἄλληλα σκοποῦντες καὶ τρίβοντες). The circular hunt gives way to reciprocal testing and friction."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "sound_form_echo"
+      ],
+      "elements": [
+        {
+          "form": "ἰοὺ ἰού",
+          "lemma": null,
+          "location": "432d",
+          "context": "καὶ ἐγὼ κατιδών, ἰοὺ ἰού, εἶπον"
+        }
+      ],
+      "observation": "Socrates' hunting cry ἰοὺ ἰού marks the moment of sighting (κατιδών). The doubled exclamation performs discovery as an outcry."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βλακικόν",
+          "lemma": "βλακικός",
+          "location": "432d",
+          "context": "ἦ μήν, ἦν δʼ ἐγώ, βλακικόν γε ἡμῶν τὸ πάθος"
+        },
+        {
+          "form": "καταγελαστότατοι",
+          "lemma": "καταγέλαστος",
+          "location": "432d",
+          "context": "ἀλλʼ ἦμεν καταγελαστότατοι"
+        }
+      ],
+      "observation": "After the sighting, Socrates names their condition as βλακικόν (dull, sluggish) and καταγελαστότατοι (utterly ridiculous). Two terms of self-reproach for failing to see what was present."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "τρία",
+          "lemma": "τρεῖς",
+          "location": "434b",
+          "context": "ἡ τριῶν ἄρα ὄντων γενῶν πολυπραγμοσύνη"
+        },
+        {
+          "form": "τριῶν",
+          "lemma": "τρεῖς",
+          "location": "434c",
+          "context": "χρηματιστικοῦ, ἐπικουρικοῦ, φυλακικοῦ γένους"
+        }
+      ],
+      "observation": "The number τρία/τριῶν explicitly counts the γένη whose exchange constitutes ὄλεθρον. The three classes answer the three virtues found earlier (σωφροσύνη, ἀνδρεία, φρόνησις)."
+    },
+    {
+      "signal_types": [
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "παιδί",
+          "lemma": "παῖς",
+          "location": "433d",
+          "context": "ἐνὸν καὶ ἐν παιδὶ καὶ ἐν γυναικὶ καὶ δούλῳ καὶ ἐλευθέρῳ"
+        },
+        {
+          "form": "γυναικί",
+          "lemma": "γυνή",
+          "location": "433d",
+          "context": null
+        },
+        {
+          "form": "δούλῳ",
+          "lemma": "δοῦλος",
+          "location": "433d",
+          "context": null
+        },
+        {
+          "form": "ἐλευθέρῳ",
+          "lemma": "ἐλεύθερος",
+          "location": "433d",
+          "context": null
+        },
+        {
+          "form": "δημιουργῷ",
+          "lemma": "δημιουργός",
+          "location": "433d",
+          "context": null
+        },
+        {
+          "form": "ἄρχοντι",
+          "lemma": "ἄρχων",
+          "location": "433d",
+          "context": null
+        },
+        {
+          "form": "ἀρχομένῳ",
+          "lemma": "ἄρχω",
+          "location": "433d",
+          "context": null
+        }
+      ],
+      "observation": "Seven datives in rapid succession enumerate persons in whom τὸ αὑτοῦ πράττειν may be present: child, woman, slave, free person, craftsman, ruler, ruled. The catalogue crosses age, gender, status, and political position."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "βασανιοῦμεν",
+          "lemma": "βασανίζω",
+          "location": "434e",
+          "context": "πάλιν ἐπανιόντες ἐπὶ τὴν πόλιν βασανιοῦμεν"
+        },
+        {
+          "form": "βεβαιωσόμεθα",
+          "lemma": "βεβαιόω",
+          "location": "435a",
+          "context": "φανερὰν γενομένην βεβαιωσόμεθα αὐτὴν παρʼ ἡμῖν αὐτοῖς"
+        }
+      ],
+      "observation": "The final sentence pairs βασανιοῦμεν (we will test by rubbing) and βεβαιωσόμεθα (we will confirm, make secure). Testing leads to securing; both share the root sense of firmness and friction."
+    }
+  ]
+}
