@@ -1,0 +1,161 @@
+{
+  "section_id": "republic-chapter-01-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "The dense concentration of πλεονεκτέω forms (s001) operates entirely through the ὅμοιος/ἀνόμοιος distinction (s002). The just person overreaches only the unlike (τοῦ ἀνομοίου), the unjust overreaches both like and unlike (τοῦ ὁμοίου καὶ τοῦ ἀνομοίου). The pleonexia vocabulary appears only in constructions specifying this contrast."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s002"
+      ],
+      "observation": "The musician/doctor examples (s006) enact the ὅμοιος/ἀνόμοιος pattern (s002) in craft terms: the μουσικός does not seek πλέον ἔχειν of another μουσικός (the like) but does of the ἄμουσος (the unlike). The generalization to πᾶσα ἐπιστήμη extends this: the knower does not overreach the knower."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "Thrasymachus places ἀδικία in the class of ἀρετή and σοφία (s005). The craft examples (s006) reverse this by showing that the knower (ἐπιστήμων) behaves as the just person does, not as the unjust. The conclusion at 350d aligns δικαιοσύνη with σοφία and ἀδικία with ἀμαθία."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005"
+      ],
+      "observation": "Both pairs use εὐ- compounds: εὐήθεια/εὐβουλία for Thrasymachus's characterization (s003), then ἀρετή-σοφία / κακία-ἀμαθία in the conclusion (s005). The εὐβουλία Thrasymachus assigns to injustice is replaced by ἀμαθία in the final mapping."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "The στάσις cluster (s009) follows the descending sequence πόλις → δυοῖν → ἐν ἑνί (s010). Injustice produces στάσεις in cities, then makes two people στασιάζειν, and finally leaves a single person στασιάζοντα καὶ οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ—at faction with himself."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s011"
+      ],
+      "observation": "Injustice produces στάσις, μίση, and μάχαι (s009, s011); justice produces ὁμόνοια and φιλία (s011). The στασιάζοντα καὶ οὐχ ὁμονοοῦντα pair at 352a sets the consequences in opposition: faction versus concord."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "The scaling sequence (s010) culminates in the single unjust person who is ἐχθρὸν ἑαυτῷ (352a). This self-enmity is then extended: ἐχθρὸν ἑαυτῷ τε καὶ τῷ ἐναντίῳ παντὶ καὶ τῷ δικαίῳ, and finally ἐχθρὸς θεοῖς (s012). The descent to the individual opens upward to gods."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s011"
+      ],
+      "observation": "The gods are δίκαιοι (s012), so the unjust person is ἐχθρὸς θεοῖς and the just person φίλος. This echoes the φιλία that justice produces (s011), now applied to the divine sphere."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s010"
+      ],
+      "observation": "τέλειος/τελέως (s013) appears in Thrasymachus's claim about complete injustice being more profitable (348b), in his qualification about those τελέως capable of injustice (348d), and in the conclusion that the completely unjust are τελέως ἀδύνατοι to act together (352c). The scaling to groups (s010) demonstrates this incapacity: complete injustice disables collective action."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s004"
+      ],
+      "observation": "Thrasymachus blushes (ἐρυθριῶντα) and sweats remarkably (ἱδρῶτος θαυμαστοῦ ὅσου) when he concedes the ἀρετή/σοφία alignment (s007, s005). This bodily moment follows immediately after he had refused the εἰκός alignment (s004) with sarcasm (ὦ ἥδιστε). The blush marks the reversal."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s014"
+      ],
+      "observation": "Socrates contrasts two modes: one requiring external δικασταί to measure (s008), another where interlocutors are both δικασταί and ῥήτορες. Thrasymachus threatens to reduce his role to nodding and shaking like a listener to old women's tales (s014), refusing the δικαστής/ῥήτωρ simultaneity Socrates proposed."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015"
+      ],
+      "observation": "Thrasymachus compares Socrates to γραυσίν telling μύθους and says he will only nod and shake (s014). Socrates calls the remainder an ἑστίασις (feast) to complete (s015). The two metaphors—storytelling/gesture versus banquet—compete for the character of the exchange."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "The πλεονεκτέω concentration (s001) establishes that the unjust seek πλέον ἔχειν πάντων. The conclusion uses τελέως (s013) to show that those τελέως ἄδικοι are τελέως ἀδύνατοι πράττειν. Seeking to overreach all disables action entirely."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s001"
+      ],
+      "observation": "The section closes with the question ὅντινα τρόπον χρὴ ζῆν (s016). This question was introduced through whether the unjust ἄμεινον ζῶσιν—the πλεονεκτέω argument (s001) was framed to determine who lives better, which returns as the explicitly named remaining task."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "ἔοικεν",
+          "lemma": "ἔοικα",
+          "location": "349d",
+          "context": "οὐκοῦν καὶ ἔοικε τῷ φρονίμῳ καὶ τῷ ἀγαθῷ ὁ ἄδικος, ὁ δὲ δίκαιος οὐκ ἔοικεν; — πῶς γὰρ οὐ μέλλει, ἔφη, ὁ τοιοῦτος ὢν καὶ ἐοικέναι τοῖς τοιούτοις"
+        }
+      ],
+      "observation": "ἔοικεν (resembles) recurs three times in rapid succession at 349d. Socrates asks whether the unjust ἔοικε the wise and good; Thrasymachus confirms with ἐοικέναι. The resemblance vocabulary concentrates at the moment of identifying whom each party resembles."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ὁμολογοῦμεν",
+          "lemma": "ὁμολογέω",
+          "location": "350c",
+          "context": "ἀλλὰ μὴν ὡμολογοῦμεν, ᾧ γε ὅμοιος ἑκάτερος εἴη, τοιοῦτον καὶ ἑκάτερον εἶναι. — ὡμολογοῦμεν γάρ."
+        }
+      ],
+      "observation": "ὁμολογέω appears twice in parallel first-person plural forms (ὡμολογοῦμεν ... ὡμολογοῦμεν γάρ) at the moment of recalling the resemblance principle: whom one resembles, that one is."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἀδύνατοι",
+          "lemma": "ἀδύνατος",
+          "location": "351e, 352a, 352c",
+          "context": "ἀδύνατοι ... κοινῇ μετ᾽ ἀλλήλων πράττειν ... πράττειν ἀδύνατοι"
+        }
+      ],
+      "observation": "ἀδύνατοι (unable) recurs to describe the effect of injustice on collective action: groups cannot act κοινῇ μετ᾽ ἀλλήλων, and the completely unjust are τελέως ἀδύνατοι to accomplish anything."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κοινῇ",
+          "lemma": "κοινῇ",
+          "location": "351c, 351e, 352c",
+          "context": "ὅσα κοινῇ ἐπί τι ἔρχεται ἀδίκως ... ἀδύνατοι κοινῇ μετ᾽ ἀλλήλων πράττειν ... κοινῇ μετ᾽ ἀλλήλων πρᾶξαι"
+        }
+      ],
+      "observation": "κοινῇ (in common, jointly) appears three times to specify what injustice destroys: the capacity to undertake or accomplish anything jointly."
+    }
+  ]
+}
