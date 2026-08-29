@@ -1,0 +1,226 @@
+{
+  "section_id": "republic-chapter-03-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s003"
+      ],
+      "observation": "s001 names the three components of μέλος: λόγος, ἁρμονία, ῥυθμός. s002 and s003 trace the chain of following across the section: ἁρμονία and ῥυθμός must follow (ἀκολουθεῖν) λόγος at 398d, ῥυθμός follows (ἑπόμενον) ἁρμονίαι at 399e, εὔρυθμον follows (ἕπεται) καλὴ λέξις at 400d, and λέξις follows (ἕπεται) the ἦθος of the soul at 400d. The three elements named at the opening are subordinated in sequence through ἀκολουθέω and ἕπομαι, terminating in the ἦθος of the soul."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "s005 records the sequential removal of θρηνώδεις and μαλακαί/συμποτικαί harmonies, leaving only Dorian and Phrygian. s004 names the two retained harmonies as βίαιον and ἑκούσιον, corresponding to warlike and peaceful action. The successive elimination recorded in s005 produces the explicit pair named in s004 at 399c."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007"
+      ],
+      "observation": "s007 presents three paired εὐ-/ἀ- contrasts (εὐσχημοσύνη/ἀσχημοσύνη, εὔρυθμος/ἄρρυθμος, εὐάρμοστος/ἀνάρμοστος) at 400c–d. s006 records a dense cluster of five εὐ- compounds at 400d–e, all said to follow εὐήθεια. The paired negations in s007 are immediately followed by the affirmative cluster in s006, which specifies what the εὐ- qualities follow."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s024"
+      ],
+      "observation": "s008 contrasts Apollo and his instruments (lyre, kithara) with Marsyas and his (aulos). s009 clusters πολυ- and παν- compounds characterizing the rejected instruments. s024 distributes lyre and kithara to the city, syrinx to the country. The instruments of Apollo, characterized by simplicity against the πολυχορδότατον aulos, are retained and placed in the city; the pastoral syrinx is assigned to herdsmen in the country."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s004"
+      ],
+      "observation": "s010 traces μιμέομαι/μίμημα across four subjects: a harmony imitating the tones of a brave man (399a), the aulos as imitation of παναρμόνια (399d), rhythms as imitations of lives (400a), and good form/rhythm as imitations of good character (401a). s004 names the two retained harmonies as those that imitate (μιμήσονται) the sounds of βίαιον and ἑκούσιον lives. The initial use of μιμέομαι at 399a specifies what the two retained harmonies will imitate; the noun μίμημα then recurs for rejected instruments, for rhythms, and finally for the products of all craftwork."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s013"
+      ],
+      "observation": "s011 records the purifying vocabulary (διακαθαίροντες, καθαίρωμεν) at 399e, noting they have been purifying the city called luxurious (τρυφᾶν). s013 traces τρέφω/τροφή across the section, culminating in μουσική as the most authoritative τροφή at 401d. The city said to be τρυφᾶν is being purified (διακαθαίροντες); proper τροφή in μουσική produces one who is καλός τε κἀγαθός. The two τρυφ-/τρεφ- stems appear in immediate proximity at 399e, contrasting luxurious indulgence with proper nourishment."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "s013 records τρέφω/τροφή appearing six times, including guardians τρεφόμενοι in bad images at 401b and the young τραφεῖεν most beautifully at 401d. s014 contrasts two environmental images: guardians grazing (δρεπόμενοί τε καὶ νεμόμενοι) in bad pasture (κακῇ βοτάνῃ) at 401c versus young people dwelling in a healthy place (ὑγιεινῷ τόπῳ) where a breeze (αὔρα) brings health at 401c–d. The recurrence of τρέφω frames the two spatial images as alternative modes of nourishment: passive grazing in bad pasture versus dwelling where health arrives from elsewhere."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s006"
+      ],
+      "observation": "s015 records two κατα- compounds for downward/inward movement into the soul: rhythm and harmony sink (καταδύεται) into the interior (εἰς τὸ ἐντός) at 401d, and the properly trained person receives (καταδεχόμενος) beautiful things into the soul (εἰς τὴν ψυχήν) at 401e. s006 records the five εὐ- compounds (including εὐρυθμία) that follow εὐήθεια at 400d–e. The two verbs of inward movement at 401d–e specify how rhythm and harmony, named among the εὐ- qualities in s006, enter and act upon the soul."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s001"
+      ],
+      "observation": "s016 draws an analogy: recognizing letters (στοιχεῖα) and their images in water and mirrors at 402a–b parallels recognizing the εἴδη of virtues and their images everywhere at 402c, both requiring the same τέχνη and μελέτη. s001 names the three components of μέλος: λόγος, ἁρμονία, ῥυθμός. The analogy at 402a–c specifies that recognizing virtue-forms in their appearances requires the same practice as recognizing letters, extending the principle applied to μέλος components throughout the section."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s019"
+      ],
+      "observation": "s017 records the opening announcement of what remains (τὸ περὶ ᾠδῆς … λοιπόν at 398c) and the closing declaration that the λόγος about μουσική reaches its τέλος at 403c, terminating in τὰ τοῦ καλοῦ ἐρωτικά. s019 clusters ἔρως and its cognates at 402d–403c: the most beautiful is most lovable (ἐρασμιώτατον), the μουσικός would love (ἐρῴη) such people, ὀρθὸς ἔρως loves moderately and musically, and μουσική terminates in τὰ τοῦ καλοῦ ἐρωτικά. The announced remainder in s017 reaches completion in the ἐρως-vocabulary of s019."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s010"
+      ],
+      "observation": "s018 records ἀδελφά used three times at 401a: bad form and bad character are siblings (ἀδελφά), good form and good character are siblings and imitations (ἀδελφά τε καὶ μιμήματα), and the virtues are siblings (ὅσα τούτων ἀδελφά). s010 traces μίμημα across the section. At 401a the two terms appear together: good εὐσχημοσύνη and εὐρυθμία are both ἀδελφά and μιμήματα of good character. The sibling-relation and the imitation-relation are explicitly joined."
+    },
+    {
+      "signal_ids": [
+        "s020",
+        "s019"
+      ],
+      "observation": "s020 contrasts σωφροσύνη with ὑπερβάλλουσα ἡδονή at 402e–403a, calling excessive pleasure ἔκφρων and the pleasure of τὰ ἀφροδίσια most μανική. s019 defines ὀρθὸς ἔρως as loving moderately and musically (σωφρόνως τε καὶ μουσικῶς) at 403a. The contrast in s020 immediately precedes the definition in s19: ὀρθὸς ἔρως is characterized by the σωφροσύνη that has just been set against excessive pleasure."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s022"
+      ],
+      "observation": "s021 records Glaucon laughing and declaring himself ἐκτὸς τῶν πάντων at 398c. s022 records Socrates disclaiming knowledge (οὐκ οἶδα τὰς ἁρμονίας at 399a, deferring to Damon at 400b, hearing οὐ σαφῶς). Both speakers disclaim competence at the opening of the harmonic and rhythmic discussions, yet both proceed to specify what is retained."
+    },
+    {
+      "signal_ids": [
+        "s023",
+        "s005"
+      ],
+      "observation": "s005 records the sequential removal of harmonies: θρηνώδεις modes are removed, then μαλακαί/συμποτικαί, leaving Dorian and Phrygian. s023 traces λείπω through the successive stages: harmonies are 'left' (λείπεσθαι, λεῖπε, λείπειν at 399a–c), instruments are 'left' (λείπεται at 399d), rhythms are 'to be left' (λειπτέον at 400b). The verb λείπω articulates each stage of the selection process recorded in s005 and extends it to instruments and rhythms."
+    },
+    {
+      "signal_ids": [
+        "s025",
+        "s026"
+      ],
+      "observation": "s025 records seven verbal adjectives in -τέον/-τέα articulating what must be done: modes ἀφαιρετέαι, qualities διωκτέα, craftsmen ἐπιστατητέον and διακωλυτέον, pleasure προσοιστέον. s026 traces δημιουργός and its cognates from makers of polychord instruments who will not be maintained (399d) to all craftsmen who must be supervised (401b) to craftsmen who can track the beautiful (401c). The sequence of -τέον forms in s025 includes the supervision of δημιουργοί recorded in s026."
+    },
+    {
+      "signal_ids": [
+        "s027",
+        "s002",
+        "s003"
+      ],
+      "observation": "s027 traces συμφωνέω/συμφωνία in shifting contexts: consistency with prior agreements (συμφωνήσειν at 398c), the soul's consonance with καλὸς λόγος (συμφωνίαν at 401d), accord between soul and bodily form (συμφωνοῦντα at 402d). s002 and s003 trace the chain of following (ἀκολουθέω, ἕπομαι) from ἁρμονία and ῥυθμός following λόγος to λέξις following the soul's ἦθος. The συμφωνία between soul and καλὸς λόγος at 401d joins the following-chain recorded in s002–s003: what follows must also sound together."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "τῆς αὐτῆς τέχνης τε καὶ μελέτης",
+          "lemma": null,
+          "location": "402b",
+          "context": "ἀλλʼ ἔστιν τῆς αὐτῆς τέχνης τε καὶ μελέτης … ἀλλὰ τῆς αὐτῆς οἰώμεθα τέχνης εἶναι καὶ μελέτης"
+        }
+      ],
+      "observation": "The exact phrase τῆς αὐτῆς τέχνης τε καὶ μελέτης recurs at 402b and 402c, first concluding the letter-recognition analogy, then concluding the virtue-recognition analogy, marking both as requiring the same practice."
+    },
+    {
+      "signal_types": [
+        "morphological_parallel"
+      ],
+      "elements": [
+        {
+          "form": "ἐν σμικρῷ οὔτʼ ἐν μεγάλῳ",
+          "lemma": null,
+          "location": "402a–b",
+          "context": "οὔτʼ ἐν σμικρῷ οὔτʼ ἐν μεγάλῳ ἠτιμάζομεν αὐτά"
+        },
+        {
+          "form": "μήτε ἐν σμικροῖς μήτε ἐν μεγάλοις",
+          "lemma": null,
+          "location": "402c",
+          "context": "καὶ μήτε ἐν σμικροῖς μήτε ἐν μεγάλοις ἀτιμάζωμεν"
+        }
+      ],
+      "observation": "The paired construction 'neither in small nor in large' recurs at 402a–b and 402c, first regarding letters, then regarding virtue-forms, with near-identical syntax (οὔτε/μήτε, ἠτιμάζομεν/ἀτιμάζωμεν)."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνοι",
+          "lemma": "λανθάνω",
+          "location": "402a",
+          "context": "τὰ στοιχεῖα μὴ λανθάνοι ἡμᾶς"
+        },
+        {
+          "form": "λανθάνωσιν",
+          "lemma": "λανθάνω",
+          "location": "401c",
+          "context": "ἕν τι συνιστάντες λανθάνωσιν κακὸν μέγα"
+        },
+        {
+          "form": "λανθάνῃ",
+          "lemma": "λανθάνω",
+          "location": "401d",
+          "context": "εὐθὺς ἐκ παίδων λανθάνῃ … ἄγουσα"
+        },
+        {
+          "form": "λελήθαμεν",
+          "lemma": "λανθάνω",
+          "location": "399e",
+          "context": "λελήθαμέν γε διακαθαίροντες"
+        }
+      ],
+      "observation": "λανθάνω recurs four times: they have been purifying unawares (λελήθαμεν) at 399e, guardians may unconsciously accumulate (λανθάνωσιν) great evil at 401c, the young are led unawares (λανθάνῃ) toward consonance with καλὸς λόγος at 401d, and the στοιχεῖα must not escape notice (μὴ λανθάνοι) at 402a."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "καλός τε κἀγαθός",
+          "lemma": null,
+          "location": "402a",
+          "context": "γίγνοιτο καλός τε κἀγαθός"
+        },
+        {
+          "form": "καλὰ ἔργων",
+          "lemma": null,
+          "location": "401c",
+          "context": "ἀπὸ τῶν καλῶν ἔργων"
+        },
+        {
+          "form": "καλοῦ",
+          "lemma": "καλός",
+          "location": "401c",
+          "context": "τὴν τοῦ καλοῦ τε καὶ εὐσχήμονος φύσιν"
+        },
+        {
+          "form": "καλῷ λόγῳ",
+          "lemma": null,
+          "location": "401d",
+          "context": "συμφωνίαν τῷ καλῷ λόγῳ"
+        },
+        {
+          "form": "τοῦ καλοῦ ἐρωτικά",
+          "lemma": null,
+          "location": "403c",
+          "context": "τελευτᾶν τὰ μουσικὰ εἰς τὰ τοῦ καλοῦ ἐρωτικά"
+        }
+      ],
+      "observation": "καλός recurs throughout the final movement: craftsmen track the nature of τὸ καλόν at 401c, the young receive impressions from καλὰ ἔργα at 401c, they are led into συμφωνία with καλῷ λόγῳ at 401d, the properly trained one becomes καλός τε κἀγαθός at 402a, and μουσική terminates in τὰ τοῦ καλοῦ ἐρωτικά at 403c."
+    }
+  ]
+}
