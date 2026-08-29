@@ -1,0 +1,181 @@
+{
+  "section_id": "republic-chapter-02-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s003",
+        "s008"
+      ],
+      "observation": "The gentle/harsh contrast toward οἰκείους/πολεμίους is restated through the dog's behavior toward γνωρίμους/ἀγνῶτας, then grounded in the epistemological pair καταμαθεῖν/ἀγνοῆσαι. The behavioral opposition is relocated from a political relation to a cognitive one."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s005"
+      ],
+      "observation": "The impasse (ἀποροῦμεν, ἀδύνατον) follows the abandonment of an εἰκών. The dog (σκύλαξ, κύων) then resolves the impasse, showing the combination is δυνατόν. The image that seemed lost returns as the solution."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s009"
+      ],
+      "observation": "θυμοειδής appears as required, then as opposing πρᾳεῖα φύσις. The dog shows both present together. φιλόσοφον is then added as a further requirement, grounded in the same canine example. The resolution of one opposition opens space for an additional element."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s008"
+      ],
+      "observation": "The dog is called φιλόσοφον because it distinguishes friend from stranger by καταμαθεῖν/ἀγνοῆσαι. φιλομαθές is then equated with φιλόσοφον and transferred to the human guardian. The cognitive ground for the dog's behavior becomes the defining qualification."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s007"
+      ],
+      "observation": "The search for φύσεις ἐπιτήδειαι reaches an impasse when opposed natures seem required. Discovery that such φύσεις exist (375d) resolves the ἀδύνατον. The plural φύσεις marks both the problem (we thought they did not exist) and the solution (they do exist)."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s014"
+      ],
+      "observation": "Physical qualities (ὀξύν, ἐλαφρὸν, ἰσχυρὸν, ἀνδρεῖον) are listed for the φύλακα, then θυμοειδής is added as a psychic requirement, then φιλόσοφος. The final summary (376c) gathers φιλόσοφος, θυμοειδής, ταχύς, ἰσχυρός as the complete φύσιν for the φύλαξ πόλεως."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s001"
+      ],
+      "observation": "Multiple τέχναι (σκυτική, γεωργική, etc.) are prohibited to each craftsman. Warfare is then identified as a τέχνη requiring exclusive devotion. The φυλάκων ἔργον is the μέγιστον and demands πλείστης σχολῆς. The one-craft principle is applied to guardianship as the supreme craft."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s008"
+      ],
+      "observation": "The οἰκείους/πολεμίους opposition is restated through the dog's behavior toward συνήθεις καὶ γνωρίμους versus ἀγνῶτας, then abstracted as οἰκεῖον/ἀλλότριον distinguished by knowing versus not-knowing. The political boundary becomes an epistemological boundary."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s009"
+      ],
+      "observation": "ἐννενόηκας/ἐννενόηκα marks Glaucon's confirmation of θυμός. ἐννενοήκαμεν (negative) marks the missed discovery of combined φύσεις. ἐννοῶ (negative) marks Glaucon's failure to grasp the φιλόσοφον claim. The noticing-verb tracks stages of recognition and non-recognition."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006"
+      ],
+      "observation": "The γενναῖος σκύλαξ is paired with the εὐγενής νεανίσκος, then γενναίων κυνῶν recurs when the dog's nature is examined. Noble birth terms concentrate in the initial comparison and return when the dog provides the resolution."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s005"
+      ],
+      "observation": "The dog is called θηρίον and declared ἄξιον θαυμάσαι. Socrates then asks if Glaucon has yet wondered at it (ἐθαύμασας). The animal worthy of wonder is presented, then Glaucon's lack of wonder is noted."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s002"
+      ],
+      "observation": "Requirements for the guardian are divided between σώματος (declared clear) and ψυχῆς (θυμοειδῆ). ψυχὴ πᾶσα with θυμός present is ἄφοβος καὶ ἀήττητος. The psychic requirement produces the problem that the body does not."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s015"
+      ],
+      "observation": "Guardians must be πρᾴους toward οἰκείους and χαλεπούς toward πολεμίους. The dog is πρᾳοτάτους toward γνωρίμους and τοὐναντίον toward ἀγνῶτας. This then becomes distinguishing οἰκεῖον from ἀλλότριον. The double opposition (gentle/harsh, own/alien) shifts through three lexical pairs."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "καλῶς",
+          "lemma": "καλῶς",
+          "location": "374a, 374b (twice), 374c (twice)",
+          "context": "ὡμολογήσαμεν καλῶς... ἕνα πολλὰς καλῶς ἐργάζεσθαι τέχνας... τὸ τῆς σκυτικῆς ἔργον καλῶς γίγνοιτο... καλῶς ἀπεργάσεσθαι"
+        }
+      ],
+      "observation": "καλῶς recurs five times in close sequence as the standard for work done according to the one-craft principle, concentrating the criterion of excellence in craft execution."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀσπάζεται",
+          "lemma": "ἀσπάζομαι",
+          "location": "376a",
+          "context": "ὃν δʼ ἂν γνώριμον, ἀσπάζεται"
+        },
+        {
+          "form": "χαλεπαίνει",
+          "lemma": "χαλεπαίνω",
+          "location": "376a",
+          "context": "ὃν μὲν ἂν ἴδῃ ἀγνῶτα, χαλεπαίνει"
+        }
+      ],
+      "observation": "The dog's two actions toward the known (ἀσπάζεται) and unknown (χαλεπαίνει) are stated as observable responses, with χαλεπαίνει echoing the earlier required χαλεπούς toward enemies."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "κἂν μηδὲν πώποτε ὑπʼ αὐτοῦ ἀγαθὸν πεπόνθῃ",
+          "lemma": null,
+          "location": "376a",
+          "context": "ὃν δʼ ἂν γνώριμον, ἀσπάζεται, κἂν μηδὲν πώποτε ὑπʼ αὐτοῦ ἀγαθὸν πεπόνθῃ"
+        },
+        {
+          "form": "οὐδὲ ἓν κακὸν προπεπονθώς",
+          "lemma": null,
+          "location": "376a",
+          "context": "ὃν μὲν ἂν ἴδῃ ἀγνῶτα, χαλεπαίνει, οὐδὲ ἓν κακὸν προπεπονθώς"
+        }
+      ],
+      "observation": "The dog welcomes the known even if it has suffered no good from him, and is harsh to the unknown even having suffered no evil. The behavioral response is independent of prior benefit or harm."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "συνέσει",
+          "lemma": "σύνεσις",
+          "location": "376b",
+          "context": "συνέσει τε καὶ ἀγνοίᾳ ὁριζόμενον"
+        }
+      ],
+      "observation": "σύνεσις appears paired with ἀγνοία as the defining boundary for οἰκεῖον and ἀλλότριον, naming understanding as the cognitive faculty that distinguishes."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "καλὸς κἀγαθὸς",
+          "lemma": null,
+          "location": "376c",
+          "context": "ὁ μέλλων καλὸς κἀγαθὸς ἔσεσθαι φύλαξ πόλεως"
+        }
+      ],
+      "observation": "The guardian is to become καλὸς κἀγαθός. This traditional dual term appears as the final characterization after the composite nature has been assembled."
+    }
+  ]
+}
