@@ -1,0 +1,238 @@
+{
+  "section_id": "republic-chapter-03-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002"
+      ],
+      "observation": "δικαστήριά τε καὶ ἰατρεῖα opens at 405a; δικαστικῆς closes at 410a with the simple μουσική that produces σωφροσύνη. The paired arts frame the entire section, each requiring internal purity: the judge's soul must be ἄπειρος and ἀκέραιος, the doctor heals σῶμα with ψυχή."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s022"
+      ],
+      "observation": "αἰσχρός recurs in escalating forms (405a-d) to describe a city needing courts and doctors; 410a closes with μουσική producing σωφροσύνη, and 405a opens with ἀκολασία requiring those same institutions. The shame-vocabulary measures the distance from the musical virtue named at the end."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s012"
+      ],
+      "observation": "τεκμήριον at 405a-b names evidence of bad education; at 405e Socrates uses τεκμαίρομαι for his own inference about Asclepius' sons; at 409a the judge must τεκμαίρεσθαι others' injustice ἀφʼ αὑτῆς but not from οἰκεία ἐμπειρία. The judge's inferential method reverses the ordinary evidential relation: ἀλλοτρίαν ἐν ἀλλοτρίαις, not οἰκείαν."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s012"
+      ],
+      "observation": "ψυχῇ σῶμα (408e) distinguishes the doctor's instrument from σώματι σῶμα; ψυχῇ ψυχῆς ἄρχει (409a) names the judge's relation. The judge must know injustice as ἀλλοτρία not οἰκεία (409b-c), by ἐπιστήμη not ἐμπειρία οἰκεία. Both arts require the practitioner's soul to remain untouched by what it treats or judges."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s014"
+      ],
+      "observation": "παιδεία appears as κακή and αἰσχρά (405a), then in compounds across the medical discussion (παιδαγωγική, παιδοτρίβης), then as φύσεως παιδευομένης at 409d. That final occurrence completes the asymmetry: πονηρία cannot know ἀρετή or itself, but ἀρετή educated in time will know both itself and πονηρία. Education enables the knowing that vice cannot achieve."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s015"
+      ],
+      "observation": "εἰωθυῖα δίαιτα recurs three times (406b, 406e, 407d) as the regimen Asclepius and his sons restore after quick cure. σχολή (406c, 406d) names what no one has for lifelong illness; ἀσχολία (406b) describes Herodicus' entire life. μακρὰ δίαιτα (406d) is rejected; the carpenter returns εἰς τὴν εἰωθυῖαν δίαιταν (406e) and either lives ὑγιής or dies."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s018"
+      ],
+      "observation": "λυσιτελέω ζῆν recurs four times (406d, 407a twice, 407e, 408b), each linked to ἔργον. The carpenter says οὐ λυσιτελεῖ οὕτω ζῆν (406d); Socrates asks whether life is worth living without one's ἔργον (407a); Asclepius judges the incurable οὔτε αὑτῷ οὔτε πόλει λυσιτελῆ (407e). The rich man οὐδὲν ἔχει ἔργον προκείμενον (407a). Profitable life requires assigned work."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s015"
+      ],
+      "observation": "Herodicus ἀπέκναισε first himself then others (406b, active); then he lived ἀποκναιόμενος (passive participle) in ἀσχολία τε πάντων ἐν ἀσχολίᾳ ἰατρευόμενος διὰ βίου. The verb shifts voice: the wearing-down he inflicted returns as his own worn state, consuming all σχολή."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s003"
+      ],
+      "observation": "The twisting vocabulary (στροφάς στρέφεσθαι, διεξόδους διεξελθών, ἀποστραφῆναι λυγιζόμενος, 405c) describes the litigant who καλλωπίζεται as δεινός περὶ τὸ ἀδικεῖν. This is called αἴσχιον even than spending life ἐν δικαστηρίοις. The bodily contortions of evasion are more shameful than the original αἴσχιστον of needing courts."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s013"
+      ],
+      "observation": "The good judge must be γέρων not νέος, ὀψιμαθής (409b). νέοι οἱ ἐπιεικεῖς are εὐήθεις, οὐκ ἔχοντες ἐν ἑαυτοῖς παραδείγματα ὁμοιοπαθῆ τοῖς πονηροῖς (409a-b). The clever villain has παραδείγματα ἐν αὑτῷ (409c) but οὐκ ἔχων παράδειγμα of the healthy (409d). Age, late learning, and the absence of inner wicked models configure the judge's knowledge."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014"
+      ],
+      "observation": "παράδειγμα appears three times: the decent lack inner models (409b), the villain uses his own (409c), he lacks a model of health (409d). Then πονηρία μὲν γὰρ ἀρετήν τε καὶ αὑτὴν οὔποτʼ ἂν γνοίη, ἀρετὴ δὲ φύσεως παιδευομένης χρόνῳ will know both (409d-e). The asymmetry: vice has inner models but cannot know; virtue lacks wicked inner models but will know both itself and vice."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s020"
+      ],
+      "observation": "Asclepius enters via κομψοὺς Ἀσκληπιάδας (405d, ironic), his era is inferred by τεκμαίρομαι (405e), his medical policy is constructed (407c-d), Glaucon calls him πολιτικός (407e), then the poets' account is rejected via chiastic disjunction: εἰ μὲν θεοῦ ἦν, οὐκ ἦν αἰσχροκερδής· εἰ δʼ αἰσχροκερδής, οὐκ ἦν θεοῦ (408c). The god's character is assembled by exclusion and inference, not by received tradition."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s016"
+      ],
+      "observation": "ἐν Τροίᾳ (405e, 408a) and Asclepius' sons' practice anchor the argument twice. The first occurrence introduces Eurypylus' drink; the second adds Menelaus' wound, the Homeric verse (αἷμʼ ἐκμυζήσαντες ἐπʼ ἤπια φάρμακʼ ἔπασσον, Il. 4.218), and the principle: φαρμάκων ἱκανῶν ἰάσασθαι ἄνδρας πρὸ τῶν τραυμάτων ὑγιεινούς (408a-b). The Homeric evidence confirms πολιτικόν Ἀσκληπιόν."
+    },
+    {
+      "signal_ids": [
+        "s019",
+        "s007"
+      ],
+      "observation": "κάμνω recurs five times: no one has σχολή to κάμνειν lifelong (406c), the carpenter κάμνων (406d) has οὐ σχολή to κάμνειν, doctors should κάμοιεν all diseases themselves (408e), excessive care makes one think one is always κάμνειν (407c). δίαιτα interlaces: εἰωθυῖα (three times) is restored, μακρά is refused. Being sick and regimen configure the boundary of medical art."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s001"
+      ],
+      "observation": "At 410a the bodily incurable will be allowed to die (ἀποθνῄσκειν ἐάσουσιν); the psychically incurable the judges αὐτοὶ ἀποκτενοῦσιν. The doctors let die; the judges kill. This division of lethal authority closes the paired medical and judicial arts introduced at 405a as δικαστήριά τε καὶ ἰατρεῖα."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s010",
+        "s011"
+      ],
+      "observation": "The litigant twisting through πάσας στροφάς (405c) is called αἴσχιον than even spending life ἐν δικαστηρίοις; the escalating αἰσχρός-vocabulary (405a-d) measures civic deformation. Against this the good judge must be γέρων and ὀψιμαθής (409b), his soul ἄπειρος and ἀκέραιος (409a). The contorted litigant and the late-learning, upright judge are inverse figures."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἄπειρον",
+          "lemma": "ἄπειρος",
+          "location": "409a",
+          "context": "ἀλλʼ ἄπειρον αὐτὴν καὶ ἀκέραιον δεῖ κακῶν ἠθῶν νέαν οὖσαν γεγονέναι"
+        },
+        {
+          "form": "ἀκέραιον",
+          "lemma": "ἀκέραιος",
+          "location": "409a",
+          "context": null
+        }
+      ],
+      "observation": "ἄπειρον and ἀκέραιον paired: the judge's soul must be inexperienced and unmixed with wicked characters when young."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "διὰ βίου",
+          "lemma": null,
+          "location": "406b",
+          "context": "ἐν ἀσχολίᾳ τε πάντων ἰατρευόμενος διὰ βίου ἔζη"
+        },
+        {
+          "form": "διὰ βίου",
+          "lemma": null,
+          "location": "406c",
+          "context": "οὐδενὶ σχολὴ διὰ βίου κάμνειν ἰατρευομένῳ"
+        }
+      ],
+      "observation": "διὰ βίου recurs: Herodicus lived his entire life in treatment; Asclepius' principle forbids anyone spending their whole life sick and being treated."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "χρυσοῦ",
+          "lemma": "χρυσός",
+          "location": "408b",
+          "context": "ὑπὸ δὲ χρυσοῦ πεισθῆναι πλούσιον ἄνδρα θανάσιμον ἤδη ὄντα ἰάσασθαι"
+        },
+        {
+          "form": "Μίδου πλουσιώτεροι",
+          "lemma": null,
+          "location": "408b",
+          "context": "οὐδʼ εἰ Μίδου πλουσιώτεροι εἶεν"
+        }
+      ],
+      "observation": "χρυσός in the poets' bribery story (408b) is answered immediately by Μίδου πλουσιώτεροι: even wealth surpassing Midas would not warrant treatment of the constitutionally intemperate."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑγιεινῶς",
+          "lemma": "ὑγιεινός",
+          "location": "407c",
+          "context": "τοὺς μὲν φύσει τε καὶ διαίτῃ ὑγιεινῶς ἔχοντας τὰ σώματα"
+        },
+        {
+          "form": "ὑγιεινούς",
+          "lemma": "ὑγιεινός",
+          "location": "408a",
+          "context": "πρὸ τῶν τραυμάτων ὑγιεινούς τε καὶ κοσμίους ἐν διαίτῃ"
+        },
+        {
+          "form": "ὑγιεινοὶ",
+          "lemma": "ὑγιεινός",
+          "location": "408e",
+          "context": "εἶεν μὴ πάνυ ὑγιεινοὶ φύσει"
+        },
+        {
+          "form": "ὑγιεινούς",
+          "lemma": "ὑγιεινός",
+          "location": "408d",
+          "context": "πλείστους μὲν ὑγιεινούς, πλείστους δὲ νοσώδεις μετεχειρίσαντο"
+        }
+      ],
+      "observation": "ὑγιεινός recurs four times: Asclepius' patients are ὑγιεινῶς by nature and regimen (407c), the wounded at Troy were ὑγιεινούς and orderly (408a), doctors should not be ὑγιεινοί themselves (408e), and Glaucon proposes doctors who have handled both ὑγιεινούς and sick (408d)."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "νοσώδης",
+          "lemma": "νοσώδης",
+          "location": "406a",
+          "context": "Ἡρόδικος δὲ παιδοτρίβης ὢν καὶ νοσώδης γενόμενος"
+        },
+        {
+          "form": "νοσώδη",
+          "lemma": "νοσώδης",
+          "location": "408b",
+          "context": "νοσώδη δὲ φύσει τε καὶ ἀκόλαστον"
+        },
+        {
+          "form": "νοσώδεις",
+          "lemma": "νοσώδης",
+          "location": "408d",
+          "context": "πλείστους μὲν ὑγιεινούς, πλείστους δὲ νοσώδεις μετεχειρίσαντο"
+        }
+      ],
+      "observation": "νοσώδης: Herodicus became sick (406a), the constitutionally sick and intemperate should not be treated (408b), Glaucon proposes doctors who have handled both healthy and sick (408d)."
+    }
+  ]
+}
