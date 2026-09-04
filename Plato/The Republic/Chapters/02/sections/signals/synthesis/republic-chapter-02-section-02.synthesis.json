@@ -1,0 +1,215 @@
+{
+  "section_id": "republic-chapter-02-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s005",
+        "s006",
+        "s022"
+      ],
+      "observation": "The εἴσω/ἔξω turning of the bezel (s006) toggles ἀφανής/φανερός and ἄδηλος/δῆλος (s005), and the same invisibility is what makes the bearer ἰσόθεον ὄντα ἐν τοῖς ἀνθρώποις (s022). The godlike epithet is attached precisely to the inward-turned, unseen position."
+    },
+    {
+      "signal_id": [
+        "s010",
+        "s011"
+      ],
+      "signal_ids": [
+        "s010",
+        "s011"
+      ],
+      "observation": "The pastoral cluster ποιμήν/νέμω/ποίμνιον (s010) locates the ancestor as shepherd reporting τὰ περὶ τὰ ποίμνια to the king; the completed sequence (s011) has him become ἄγγελος to that same king, seduce the queen, kill him, and take the ἀρχή. The shepherd's monthly report to the βασιλεύς is the position from which the seizure of βασιλεία is launched."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s021"
+      ],
+      "observation": "Justice is placed μεταξύ and ἐν μέσῳ between best and worst (s021); the Gyges narrative stages a literal descent into a χάσμα and exit (s004). The spatial middle of the definition and the vertical down-and-up of the tale occupy the same section as two distinct spatializations."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s016",
+        "s018"
+      ],
+      "observation": "The just man is γυμνωτέος, βεβασανισμένος, ἐκκαθαίρεται (s016) so that only δικαιοσύνη remains while δόξα is stripped; the δοκεῖν/εἶναι contrast (s002) is then routed through the Aeschylus tag (s018), first attached to the just man as οὐ δοκεῖν ἀλλ' εἶναι and afterwards reassigned as more properly said κατὰ τοῦ ἀδίκου."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s016"
+      ],
+      "observation": "The purgative verbs applied to the just man—γυμνωτέος, βεβασανισμένος, ἐκκαθαίρεις (s016)—stand next to the future-passive catalogue μαστιγώσεται, στρεβλώσεται, δεδήσεται, ἐκκαυθήσεται τὠφθαλμώ, ἀνασχινδυλευθήσεται (s003). The same figure who is cleaned like a statue for judgment is then whipped, racked, blinded, and impaled."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s015",
+        "s022"
+      ],
+      "observation": "The δύναμις Glaucon asks after αὐτὸ καθ' αὑτὸ (s007) is answered in the ring's δύναμις, which is defined as doing ὅτι ἂν βούληται (s015) and reaches ἰσόθεον (s022). The abstract opening question about a power in the soul is re-instantiated as unlimited wanting sanctioned by invisibility."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "The ἀδικεῖν/ἀδικεῖσθαι pairing (s001) is glossed by the ἑκών/ἄκων contrast (s013): practitioners of justice act ἄκοντες because they cannot ἀδικεῖν without being ἀδικεῖσθαι, and οὐδεὶς ἑκὼν δίκαιος follows once ἀδικεῖν becomes possible under the ring."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s014"
+      ],
+      "observation": "Thrasymachus charmed ὥσπερ ὄφις (s014) sits at the opening; at the close of the constructed unjust man he is equipped πείθειν and βιάσασθαι (s009). The snake-charming simile and the paired persuasion-and-force equipment frame speech as both spell and weapon."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s020"
+      ],
+      "observation": "The πρῶτον/δεύτερον/τρίτον programme (s020) is stitched by ἐπιτηδεύω (s012): the second head names οἱ ἐπιτηδεύοντες as ἄκοντες, the κρίσις passage places each man εἰς τὸ ἑαυτοῦ ἐπιτήδευμα, and the unjust man is finally ἐπιτηδεύοντα πρᾶγμα ἀληθείας ἐχόμενον."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s023"
+      ],
+      "observation": "The dense ἀκούω cluster in 358b–e (s023) is what αὐτὸ καθ' αὑτό (s008) qualifies: Glaucon wants to hear justice ἐγκωμιαζόμενον αὐτὸ καθ' αὑτό, and the phrase recurs precisely inside the demand-to-hear."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s019"
+      ],
+      "observation": "ὅτι ἂν βούληται / ὁπόθεν ἂν βούληται (s015) governs the unjust man's marriages and associations; the cultic cluster θυσίας, ἀναθήματα, θύειν, ἀνατιθέναι, θεραπεύειν (s019) extends the same unrestricted wanting to the gods, ending in θεοφιλέστερον."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s014"
+      ],
+      "observation": "The κρίσις/κρίνω recurrence (s017) is attached to the ἀνδριάς simile (s014): the two men are ἐκκαθαίρεις ὥσπερ ἀνδριάντα εἰς τὴν κρίσιν, so the judgment-frame arrives already as sculpture-inspection."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "semantic_cluster",
+        "local_density"
+      ],
+      "elements": [
+        {
+          "form": "ὄμβρου πολλοῦ",
+          "lemma": null,
+          "location": "359d",
+          "context": "ὄμβρου δὲ πολλοῦ γενομένου"
+        },
+        {
+          "form": "σεισμοῦ",
+          "lemma": "σεισμός",
+          "location": "359d",
+          "context": "καὶ σεισμοῦ ῥαγῆναί τι τῆς γῆς"
+        },
+        {
+          "form": "ῥαγῆναι",
+          "lemma": "ῥήγνυμι",
+          "location": "359d",
+          "context": "ῥαγῆναί τι τῆς γῆς"
+        },
+        {
+          "form": "χάσμα",
+          "lemma": "χάσμα",
+          "location": "359d",
+          "context": "γενέσθαι χάσμα κατὰ τὸν τόπον"
+        }
+      ],
+      "observation": "Rain, earthquake, and rupture of the earth cluster to produce the χάσμα, giving the opening of the ground a compound meteorological-seismic cause."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἵππον χαλκοῦν, κοῖλον, θυρίδας ἔχοντα",
+          "lemma": null,
+          "location": "359d",
+          "context": "ἵππον χαλκοῦν, κοῖλον, θυρίδας ἔχοντα"
+        },
+        {
+          "form": "ἐγκύψαντα",
+          "lemma": "ἐγκύπτω",
+          "location": "359d",
+          "context": "καθʼ ἃς ἐγκύψαντα ἰδεῖν ἐνόντα νεκρόν"
+        },
+        {
+          "form": "μείζω ἢ κατʼ ἄνθρωπον",
+          "lemma": null,
+          "location": "359d",
+          "context": "ὡς φαίνεσθαι μείζω ἢ κατʼ ἄνθρωπον"
+        }
+      ],
+      "observation": "The hollow bronze horse with windows contains a corpse larger than human; the ancestor stoops in (ἐγκύψαντα) to see it before taking the ring from its hand."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἀπέχεσθαι τῶν ἀλλοτρίων",
+          "lemma": null,
+          "location": "360b",
+          "context": "ἀπέχεσθαι τῶν ἀλλοτρίων καὶ μὴ ἅπτεσθαι"
+        },
+        {
+          "form": "λαμβάνειν",
+          "lemma": "λαμβάνω",
+          "location": "360b",
+          "context": "ἐκ τῆς ἀγορᾶς ἀδεῶς ὅτι βούλοιτο λαμβάνειν"
+        },
+        {
+          "form": "συγγίγνεσθαι",
+          "lemma": "συγγίγνομαι",
+          "location": "360c",
+          "context": "εἰσιόντι εἰς τὰς οἰκίας συγγίγνεσθαι"
+        },
+        {
+          "form": "ἀποκτεινύναι",
+          "lemma": "ἀποκτείνω",
+          "location": "360c",
+          "context": "ἀποκτεινύναι καὶ ἐκ δεσμῶν λύειν"
+        },
+        {
+          "form": "ἐκ δεσμῶν λύειν",
+          "lemma": null,
+          "location": "360c",
+          "context": null
+        }
+      ],
+      "observation": "The list of what the ring-bearer can do—take from the agora, enter houses to have intercourse, kill, release from bonds—articulates the exposition of the δύναμις as a catalogue of transgressions across property, marriage, life, and confinement."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀλλοτρίων",
+          "lemma": "ἀλλότριος",
+          "location": "360b",
+          "context": "ἀπέχεσθαι τῶν ἀλλοτρίων"
+        },
+        {
+          "form": "ἀλλοτρίων",
+          "lemma": "ἀλλότριος",
+          "location": "360d",
+          "context": "μηδὲ ἅψαιτο τῶν ἀλλοτρίων"
+        }
+      ],
+      "observation": "τῶν ἀλλοτρίων recurs twice with ἅπτεσθαι/ἅψαιτο as the touch-test of justice under the ring."
+    }
+  ]
+}
