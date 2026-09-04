@@ -1,0 +1,107 @@
+{
+  "section_id": "republic-chapter-02-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s014"
+      ],
+      "observation": "The opening opposition δοκεῖν πεπεικέναι / ἀληθῶς πεῖσαι (s001, s002) returns at the section's close in δοκεῖ τοῖς πολλοῖς and εὐδοκιμήσεων διὰ δόξαν (s014): the δοκ- stem shifts from Socrates' possibly seeming to have persuaded, to what seems to the many, to reputation as motive for justice."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013",
+        "s019"
+      ],
+      "observation": "The third kind's cluster γυμνάζεσθαι, ἰατρεύεσθαι, χρηματισμός, ἐπίπονα (s009) is exactly the εἶδος into which the many place justice at 358a (s013, ἐπιπόνου), and μισθῶν recurs verbatim from 357d to 358a (s019). The classification built abstractly at 357c is reoccupied word-for-word by the popular view."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005"
+      ],
+      "observation": "ἀσπάζομαι (s005) marks the first two kinds as welcomed, while δέχομαι (s004) frames the same kinds as accepted-to-have and then, for the third kind, negated (οὐκ ἂν δεξαίμεθα). The two verbs of receiving track the goods positively across kinds one and two and invert at kind three."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012",
+        "s011"
+      ],
+      "observation": "Socrates' supposed release from argument (ᾤμην λόγου ἀπηλλάχθαι, s012) is reclassified in the same breath as προοίμιον (s010), and the reopening is carried out by the ἀνδρειότατος Glaucon (s011) who οὐκ ἀπεδέξατο Thrasymachus' ἀπόρρησις. The naming as prelude and the refusal-to-accept stand together as the section's reopening."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s015",
+        "s018"
+      ],
+      "observation": "Three paired contrasts stack at 358a: καλλίστῳ / ἐπιπόνου (s013), ἐπαινεῖται / ψέγεται with justice and injustice reversed (s015), μακαρίῳ / χαλεπόν (s018). Each pair sets Socrates' placement of justice against the popular and Thrasymachean placement in the same lines."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s006",
+        "s016"
+      ],
+      "observation": "The governing δίκαιον/ἄδικον question (s016) is not answered directly but redirected through the threefold εἶδος-classification (s003) organized by the αὐτὸ αὑτοῦ ἕνεκα / τῶν ἀποβαινόντων axis (s006). The just/unjust contrast is held open while the good is partitioned."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀπηλλάχθαι",
+          "lemma": "ἀπαλλάττω",
+          "location": "357a",
+          "context": "ᾤμην λόγου ἀπηλλάχθαι"
+        },
+        {
+          "form": "ἀπόρρησιν",
+          "lemma": "ἀπόρρησις",
+          "location": "357a",
+          "context": "τοῦ Θρασυμάχου τὴν ἀπόρρησιν οὐκ ἀπεδέξατο"
+        },
+        {
+          "form": "ἀπεδέξατο",
+          "lemma": "ἀποδέχομαι",
+          "location": "357a",
+          "context": "οὐκ ἀπεδέξατο"
+        }
+      ],
+      "observation": "A local density of ἀπο- compounds clusters at 357a around the attempted closing of the argument: ἀπηλλάχθαι, ἀπόρρησιν, ἀπεδέξατο."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἀγαπητέον",
+          "lemma": "ἀγαπάω",
+          "location": "358a",
+          "context": "ἀγαπητέον τῷ μέλλοντι μακαρίῳ ἔσεσθαι"
+        },
+        {
+          "form": "φευκτέον",
+          "lemma": "φεύγω",
+          "location": "358a",
+          "context": "αὐτὸ δὲ διʼ αὑτὸ φευκτέον"
+        },
+        {
+          "form": "ἐπιτηδευτέον",
+          "lemma": "ἐπιτηδεύω",
+          "location": "358a",
+          "context": "μισθῶν θʼ ἕνεκα καὶ εὐδοκιμήσεων διὰ δόξαν ἐπιτηδευτέον"
+        }
+      ],
+      "observation": "Three verbal adjectives in -τέον cluster at 358a — ἀγαπητέον, ἐπιτηδευτέον, φευκτέον — stating what must be loved, practiced, or fled with respect to justice."
+    }
+  ]
+}
