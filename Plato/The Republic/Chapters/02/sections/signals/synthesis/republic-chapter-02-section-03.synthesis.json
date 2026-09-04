@@ -1,0 +1,112 @@
+{
+  "section_id": "republic-chapter-02-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s014",
+        "s012"
+      ],
+      "observation": "The dense recurrence of δόξα/δοκέω (s001) and the recurrence of ἐπαινέω (s012) meet in the αὐτό-contrast (s014): fathers ἐπαινοῦσιν not αὐτὸ δικαιοσύνην but its εὐδοκιμήσεις (363a), and Adeimantus' closing ἐπαίνεσον (367d) demands praise of what justice does αὐτὴ διʼ αὑτήν with δόξας set aside (367b, 367d). The same verb of praise returns with its object stripped of the δόξα-terms that had accompanied it earlier."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s004",
+        "s003"
+      ],
+      "observation": "πείθω (s002), λανθάνω (s004), and the persuasion/force pair (s003) cluster at 365c–366a: escaping notice of humans requires conspiracies, τὰ μὲν πείσομεν τὰ δὲ βιασόμεθα; gods can neither be escaped nor forced, so persuasion of gods through sacrifice returns (πείθοντες, 366a). The same three verbs that operate on humans are then redirected onto gods."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016",
+        "s002"
+      ],
+      "observation": "Sacrifice-vocabulary (s015), τελεταί (s016), and πείθω (s002) converge: begging priests πείθουσιν through θυσίαι (364b), Homer's line has men παρατρωπῶσι gods with λοιβή and κνίση (364e), and the young man's calculation concludes ἀδικητέον καὶ θυτέον (365e) and invokes τελεταί (366a). Sacrifice is placed each time as the instrument by which πείθω reaches the gods."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s008",
+        "s016",
+        "s020"
+      ],
+      "observation": "ἐν Ἅιδου (s006) organizes the afterlife scenes: the crowned symposium and eternal drunkenness set against mud and sieve (s008) at 363c–d, then τελεταί answering ἐν Ἅιδου δίκη at 366a (s016), with ζῶσιν/τελευτήσασιν (s020) spanning both. The same location returns first as reward-and-punishment picture, then as the threat that τελεταί are said to dissolve."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s017"
+      ],
+      "observation": "The two Hesiodic roads (s009)—smooth-near vice, long-rough-uphill virtue with sweat before it—are answered by the young man's spatial construction (s017): a painted facade of virtue set as πρόθυρα around himself while the fox is dragged ἐξόπισθεν. The uphill road is replaced by a circular enclosure with front and behind."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011",
+        "s018"
+      ],
+      "observation": "The proverb ἀδελφὸς ἀνδρὶ παρείη (s010) is invoked precisely when Socrates says Glaucon's speech has wrestled him down (καταπαλαῖσαι, s011) and Adeimantus declares the most essential thing unsaid and begins the ἐναντίοι λόγοι (s018). The brother's arrival is placed as reinforcement to a wrestler already thrown."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s021",
+        "s014"
+      ],
+      "observation": "μισθοί (s005) frame the section's ends: poets promise μισθοί from gods (363d), and Adeimantus tells Socrates μισθοὺς δὲ καὶ δόξας πάρες ἄλλοις (367d), setting them opposite the list ὁρᾶν, ἀκούειν, φρονεῖν, ὑγιαίνειν (s021) as goods τῇ αὑτῶν φύσει—the αὐτό-side of the contrast in s014."
+    },
+    {
+      "signal_ids": [
+        "s019",
+        "s004"
+      ],
+      "observation": "The counterfactual at 367a turns λανθάνω (s004) inside out: where the whole preceding argument treated escaping notice of others and gods as the practical problem, the guarding-vocabulary (s019) shifts from ἀλλήλους ἐφυλάττομεν to αὐτὸς αὑτοῦ … ἄριστος φύλαξ, relocating the watch from outside to inside the same person."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑπερβήῃ",
+          "lemma": "ὑπερβαίνω",
+          "location": "364e",
+          "context": "ὅτε κέν τις ὑπερβήῃ καὶ ἁμάρτῃ (Homer quotation)"
+        },
+        {
+          "form": "ὑπερβαίνοντες",
+          "lemma": "ὑπερβαίνω",
+          "location": "366a",
+          "context": "ἄδικοι δὲ κερδανοῦμέν τε καὶ λισσόμενοι ὑπερβαίνοντες καὶ ἁμαρτάνοντες"
+        }
+      ],
+      "observation": "The Homeric pair ὑπερβήῃ καὶ ἁμάρτῃ (364e) recurs almost verbatim in the young man's own resolution ὑπερβαίνοντες καὶ ἁμαρτάνοντες (366a); the quoted transgression-vocabulary is taken up as first-person program."
+    },
+    {
+      "signal_types": [
+        "exact_repetition",
+        "structural_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "μὴ ἐνδείξῃ μόνον τῷ λόγῳ ὅτι δικαιοσύνη ἀδικίας κρεῖττον, ἀλλὰ τί ποιοῦσα ἑκατέρα",
+          "lemma": null,
+          "location": "367b",
+          "context": "Adeimantus' first formulation of the demand"
+        },
+        {
+          "form": "μὴ ἐνδείξῃ μόνον τῷ λόγῳ ὅτι δικαιοσύνη ἀδικίας κρεῖττον, ἀλλὰ καὶ τί ποιοῦσα ἑκατέρα",
+          "lemma": null,
+          "location": "367e",
+          "context": "the same demand repeated at the close"
+        }
+      ],
+      "observation": "Adeimantus' commission to Socrates is stated in nearly identical wording at 367b and 367e, framing the intervening list of goods (ὁρᾶν, ἀκούειν, φρονεῖν, ὑγιαίνειν) between two occurrences of the same sentence."
+    }
+  ]
+}
