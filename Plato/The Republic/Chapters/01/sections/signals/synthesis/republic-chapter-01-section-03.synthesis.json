@@ -1,0 +1,118 @@
+{
+  "section_id": "republic-chapter-01-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s006"
+      ],
+      "observation": "The pair ὀφειλόμενα/ἀποδιδόναι, introduced at 331e as the definition of justice, is fitted at 332c–d into the parallel τέχνη-frame (ἰατρική renders φάρμακα to σώματα, μαγειρική renders ἡδύσματα to ὄψοις, δικαιοσύνη renders ὠφελίας/βλάβας to φίλοις/ἐχθροῖς). The τίσιν τί ἀποδιδοῦσα question absorbs the initial ὀφειλόμενα-formula into the same syntactic slot occupied by the crafts."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s016"
+      ],
+      "observation": "The χρήσιμος/ἄχρηστος antithesis at 333c–d lands precisely on παρακατατίθημι: justice is χρήσιμος ὅταν παρακαταθέσθαι καὶ σῶν εἶναι. The deposit case that opened the section at 331e as the exception to giving back returns as the single domain where justice proves useful, now inverted—useful only when the thing deposited is itself ἄχρηστον."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s013"
+      ],
+      "observation": "The φίλος/ἐχθρός assignment of ὠφελεῖν/βλάπτειν is undone by the τοῦ ἐναντίου series at 335d (heat cannot cool, dryness cannot moisten, the good cannot harm). The paired opposites φίλος/ἐχθρός and ὠφελία/βλάβη, held together throughout, are split by inserting ἀγαθόν/ἐναντίον between them, so that βλάπτειν detaches from the just person entirely."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010"
+      ],
+      "observation": "The φύλαξ/κλέπτης equivalence at 334a is immediately supplied with a Homeric ancestor: Autolycus, Odysseus' maternal grandfather, excelling πάντας ἀνθρώπους κλεπτοσύνῃ. The δεινὸς φύλαξ = δεινὸς φώρ figure is then re-attributed jointly κατὰ σέ, καθʼ Ὅμηρον, καὶ κατὰ Σιμωνίδην, placing Polemarchus alongside the poets already invoked."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s010",
+        "s014"
+      ],
+      "observation": "Simonides is first said to have spoken ποιητικῶς by αἰνίττομαι (332b), then joined at 334b with Homer as co-author of justice-as-κλεπτική, and finally displaced at 336a: the saying is reassigned from σοφοί to Periander, Perdiccas, Xerxes, or Ismenias—wealthy powerful men rather than poets or sages."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012"
+      ],
+      "observation": "Two parallel triads sit adjacent at 335b–c. The first (ἵπποι, κύνες, ἄνθρωποι) shows harm making each χείρους εἰς τὴν οἰκείαν ἀρετήν; the second (μουσική/μουσικοί, ἱππική/ἱππικοί, δικαιοσύνη/δίκαιοι) shows that a τέχνη cannot make its practitioners into its opposites. The δίκαιοι/ἀδίκους term appears as the third member of both series."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s015"
+      ],
+      "observation": "The section opens with Polemarchus named κληρονόμος of the λόγος (331e) and closes with Socrates and Polemarchus declaring μαχούμεθα κοινῇ and κοινωνεῖν τῆς μάχης on behalf of the same λόγος (335e). Inheritance of the argument at the start is answered by joint combat for it at the end."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "σοφὸς",
+          "lemma": "σοφός",
+          "location": "331e",
+          "context": "Σιμωνίδῃ γε οὐ ῥᾴδιον ἀπιστεῖν—σοφὸς γὰρ καὶ θεῖος ἀνήρ"
+        },
+        {
+          "form": "σοφὸς",
+          "lemma": "σοφός",
+          "location": "335e",
+          "context": "οὐκ ἦν σοφὸς ὁ ταῦτα εἰπών"
+        },
+        {
+          "form": "σοφῶν",
+          "lemma": "σοφός",
+          "location": "335e",
+          "context": "ἤ τινʼ ἄλλον τῶν σοφῶν τε καὶ μακαρίων ἀνδρῶν"
+        }
+      ],
+      "observation": "σοφός is applied to Simonides at 331e as ground for not distrusting him, then withdrawn at 335e (οὐκ ἦν σοφὸς ὁ ταῦτα εἰπών), and immediately re-extended to a class of σοφοί τε καὶ μακάριοι ἄνδρες whose attribution of the saying would provoke joint battle."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐναντίον",
+          "lemma": "ἐναντίος",
+          "location": "334e",
+          "context": "τοὐναντίον ἢ τὸν Σιμωνίδην ἔφαμεν λέγειν"
+        },
+        {
+          "form": "ἐναντίου",
+          "lemma": "ἐναντίος",
+          "location": "335d",
+          "context": "ἀλλὰ τοῦ ἐναντίου"
+        },
+        {
+          "form": "ἐναντίου",
+          "lemma": "ἐναντίος",
+          "location": "335d",
+          "context": "οὐδὲ ξηρότητος ὑγραίνειν ἀλλὰ τοῦ ἐναντίου"
+        },
+        {
+          "form": "ἐναντίου",
+          "lemma": "ἐναντίος",
+          "location": "335d",
+          "context": "τοῦ ἐναντίου, τοῦ ἀδίκου"
+        }
+      ],
+      "observation": "ἐναντίον/ἐναντίου recurs at 334e as the outcome opposite to Simonides' saying and then four times at 335d as the principle that each ἔργον belongs to its opposite, culminating in τοῦ ἀδίκου as the ἐναντίον of the just."
+    }
+  ]
+}
