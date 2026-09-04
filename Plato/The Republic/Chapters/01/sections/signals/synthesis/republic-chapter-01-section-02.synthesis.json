@@ -1,0 +1,109 @@
+{
+  "section_id": "republic-chapter-01-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004",
+        "s015",
+        "s016"
+      ],
+      "observation": "The section opens with καταβαίνων marking Socrates' descent to the Piraeus and Cephalus figuring old age as an ὁδός already traveled (s004); it closes with Cephalus himself departing πρὸς τὰ ἱερά (s016) after handing the λόγος to Polemarchus as κληρονόμος (s015). The road-image and the inheritance-handover place Cephalus's exit along the very ὁδός he described."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009",
+        "s018"
+      ],
+      "observation": "Sophocles' escape from a λυττῶντα καὶ ἄγριον δεσπότην and Cephalus's release from δεσποτῶν μαινομένων (s007), set against τρόπος rather than γῆρας as cause (s009), return in the ὅπλα counterexample where the friend has become μανείς (s018): the mad master reappears now as the mad friend from whom one withholds what was received."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s015",
+        "s019"
+      ],
+      "observation": "The inheritance sequence of παραλαμβάνω/καταλείπω across grandfather, father, and Cephalus (s010), together with the recurring οὐσία-κτάομαι pairing (s019), is answered by Cephalus's παραδίδωμι τὸν λόγον to Polemarchus named κληρονόμος (s015): the λόγος is transmitted in the same terms as the estate."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013",
+        "s014"
+      ],
+      "observation": "The μῦθοι about Hades and δίκη ἐκεῖ (s012), previously καταγελώμενοι and now στρέφουσιν τὴν ψυχήν (s013), are set beside the split of ἐλπίς into κακή and ἡδεῖα/ἀγαθὴ γηροτρόφος (s014): the same afterlife tales that twist one soul nourish another's old age."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005",
+        "s007"
+      ],
+      "observation": "Bodily ἡδοναί wither while λόγος-pleasures grow (s003); the lamenting old recall τἀφροδίσια, πότοι, εὐωχίαι (s005); Sophocles names τἀφροδίσια as the raging δεσπότης escaped (s007). The same catalogue of youthful pleasures is mourned as loss and celebrated as escape within the same exchange."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s001",
+        "s016"
+      ],
+      "observation": "Cephalus's doubled δεῦρο ἰέναι (s002), counterfactual then imperative, frames Socrates' καταβαίνων arrival (s001); the section ends with Cephalus's own ᾔει πρὸς τὰ ἱερά (s016), a third motion-verb closing the arrivals that opened it."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ῥᾳδίως",
+          "lemma": "ῥᾴδιος",
+          "location": "328c",
+          "context": "ἐν δυνάμει ἦ τοῦ ῥᾳδίως πορεύεσθαι πρὸς τὸ ἄστυ"
+        },
+        {
+          "form": "ῥᾳδία",
+          "lemma": "ῥᾴδιος",
+          "location": "328e",
+          "context": "ῥᾳδία καὶ εὔπορος"
+        },
+        {
+          "form": "ῥᾳδίως",
+          "lemma": "ῥᾴδιος",
+          "location": "329e",
+          "context": "ῥᾳδίως τὸ γῆρας φέρειν"
+        },
+        {
+          "form": "ῥᾳδίως",
+          "lemma": "ῥᾴδιος",
+          "location": "330a",
+          "context": "ῥᾳδίως γῆρας μετὰ πενίας ἐνέγκοι"
+        }
+      ],
+      "observation": "ῥᾴδιος/ῥᾳδίως recurs: first of physical travel to the city, then of the ὁδός of old age, then twice of bearing γῆρας — the same word tracks literal and figurative ease of passage."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιθυμίαι",
+          "lemma": "ἐπιθυμία",
+          "location": "328d",
+          "context": "αἱ περὶ τοὺς λόγους ἐπιθυμίαι"
+        },
+        {
+          "form": "ἐπιθυμίαι",
+          "lemma": "ἐπιθυμία",
+          "location": "329c",
+          "context": "ἐπειδὰν αἱ ἐπιθυμίαι παύσωνται κατατείνουσαι"
+        }
+      ],
+      "observation": "ἐπιθυμίαι appears first as growing (concerning λόγοι) and then as ceasing and slackening (κατατείνουσαι, χαλάσωσιν) — the same word marks opposite motions within Cephalus's speech."
+    }
+  ]
+}
