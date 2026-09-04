@@ -1,0 +1,98 @@
+{
+  "section_id": "republic-chapter-03-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s013"
+      ],
+      "observation": "The fear-cluster (δείδω, δεῖμα, δεινός, φοβερός, φρίττω, φρίκη) culminates at 387c in φρίκη producing θερμότεροι καὶ μαλακώτεροι: the chilling word for shivering yields overheated and softened guardians, so the fear-vocabulary turns on itself in a thermal reversal."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003"
+      ],
+      "observation": "θάνατος, introduced at 386a as what the courageous must not fear, is by 386b and 387b bound to δουλεία in a fixed pairing (πρὸ ἥττης τε καὶ δουλείας θάνατον; δουλείαν θανάτου μᾶλλον πεφοβημένους); at 387b δουλεία is set against ἐλευθέρους, so the object of proper fear has been displaced from death onto slavery."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s014"
+      ],
+      "observation": "Within the Homeric quotations the soul leaves behind ἀνδροτῆτα καὶ ἥβην and persists as ψυχή, εἴδωλον, σκιαί, νέκυες without φρένες; the very ἀνδρεῖος-quality Socrates' prose requires at 386a–b is what the quoted verses depict as lost in death."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s011",
+        "s016"
+      ],
+      "observation": "The removal-verbs ἐξαλείψομεν, διαγράφωμεν, ἀποβλητέα, ἀφαιρετέα, cast in the -τέον/-τέα form alongside ἀκουστέον, λεκτέον, ποιητέον, converge at 387c on τύπος, which pivots from the τύπος to be removed to the ἐναντίον τύπον to be spoken and made."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s009",
+        "s017"
+      ],
+      "observation": "Ἅιδης, named twice in Socrates' prose, returns inside the quotations in dialectal Ἀΐδαο, Ἄϊδόσδε and is filled out by downward and airborne motion (πταμένη, κατὰ χθονός, ἀΐσσουσι, ποτέονται) and by the triple squeak τετριγυῖα/τρίζουσαι/τετριγυῖαι—the abstract place-name of the argument acquires direction and sound only within the verses marked for erasure."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s015"
+      ],
+      "observation": "ἀκουστέον at 386a is set from παίδων as both what may and may not be heard; at 387b it returns with παισὶ καὶ ἀνδράσιν and is bound by an inverse proportion to ποιητικώτερα and ἡδέα, so the more poetic and pleasant the verses, the less audible they become for the same hearers."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s012"
+      ],
+      "observation": "The request at 386b that poets not λοιδορεῖν but ἐπαινεῖν τὰ ἐν Ἅιδου is answered at 387b–c by the list Κωκυτούς, Στύγας, ἐνέρους, ἀλίβαντας marked as ὀνόματα δεινά to be discarded: the names themselves are treated as the reviling."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ποιῆσαι",
+          "lemma": "ποιέω",
+          "location": "386a",
+          "context": "οἷα αὐτοὺς ποιῆσαι ἥκιστα τὸν θάνατον δεδιέναι"
+        },
+        {
+          "form": "ποιητικὰ",
+          "lemma": "ποιητικός",
+          "location": "387b",
+          "context": "οὐχ ὡς οὐ ποιητικὰ καὶ ἡδέα"
+        },
+        {
+          "form": "ποιητὰς",
+          "lemma": "ποιητής",
+          "location": "387b",
+          "context": "Ὅμηρόν τε καὶ τοὺς ἄλλους ποιητὰς"
+        },
+        {
+          "form": "ποιητικώτερα",
+          "lemma": "ποιητικός",
+          "location": "387b",
+          "context": null
+        },
+        {
+          "form": "ποιητέον",
+          "lemma": "ποιέω",
+          "location": "387c",
+          "context": "λεκτέον τε καὶ ποιητέον"
+        }
+      ],
+      "observation": "The ποιέω/ποιητ- family runs from making the young courageous (ποιῆσαι) through the poets (ποιητάς) and their poetic quality (ποιητικά, ποιητικώτερα) to the concluding ποιητέον, so the same root names both the effect to be produced in guardians and the composing that produces the verses."
+    }
+  ]
+}
