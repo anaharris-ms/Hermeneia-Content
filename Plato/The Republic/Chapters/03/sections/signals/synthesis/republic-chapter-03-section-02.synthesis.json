@@ -1,0 +1,157 @@
+{
+  "section_id": "republic-chapter-03-section-02",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s009",
+        "s010"
+      ],
+      "observation": "The prohibition of ὀδυρμοί across s001 is answered by the prohibition of γέλως in s009, and s010's ἰσχυρῷ γέλωτι / ἰσχυρὰν μεταβολήν places laughter under the same measure of intensity that the ἥκιστα-cluster (s004) applied to grief. Uncontrolled weeping and uncontrolled laughing stand as paired excesses within the same section."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008"
+      ],
+      "observation": "The bodily sequence of Achilles (s007: side, supine, prone, upright, wandering the shore) sits inside the ascending series of s008 (notable men → Achilles → Priam → gods → greatest god). The most detailed spatial articulation falls on the middle term of the vertical scale, so that Achilles' shifting positions are framed by figures at the extremes who are only named, not posed."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s013",
+        "s015"
+      ],
+      "observation": "The φάρμακον image at s011 (falsehood entrusted to ἰατροί) is extended by the practitioner cluster of s013 (ἰατρός, παιδοτρίβης, κυβερνήτης) and then s015 turns the κυβερνήτης analogy inside out: the city is itself a ship that untruth can overturn. The ruler-as-doctor giving the drug and the citizen-as-liar overturning the ship occupy opposite ends of the same set of craft analogies."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s019"
+      ],
+      "observation": "s016 has λόγος σημαίνειν and πειστέον governing the interlocutors; s019 closes with ἔργα completed ἐπί λόγῳ. The section's opening acceptance of the λόγος and its closing conditional about ἔργα answering λόγος frame the intervening prescriptions."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s006",
+        "s018"
+      ],
+      "observation": "The optative ἐξαιροῖμεν in s002 is immediately paired with ἀποδιδοῖμεν redistributing θρῆνοι to women and bad men (s006), while s018 identifies the men from whom they are removed as those raised ἐπὶ φυλακῇ τῆς χώρας and later named ἄρχοντες. Removal from one group and reassignment to another are executed in a single grammatical movement."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005"
+      ],
+      "observation": "The three δεινόν negations in s003 cluster around the αὐτὸς αὑτῷ αὐτάρκης phrase of s005: the triple αὐτ- self-enclosure and the triple denial that loss is δεινόν occupy the same short stretch at 387d–e."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s014",
+        "s017"
+      ],
+      "observation": "The ψεῦδος/ψεύδομαι recurrence (s012) moves from definition to authorization to punishment; along that path s017's μέν/δέ (useless to gods, useful to humans) and s014's ἀλήθεια → τἀληθῆ → τὰ ὄντα run in the opposite direction, from a general principle down to what subordinates owe experts. Falsehood expands its scope as truth contracts to a subordinate's utterance."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐποίησε",
+          "lemma": "ποιέω",
+          "location": "388b",
+          "context": "ὅσα καὶ οἷα ἐκεῖνος ἐποίησε"
+        },
+        {
+          "form": "ποιεῖν",
+          "lemma": "ποιέω",
+          "location": "388a",
+          "context": "μὴ ποιεῖν Ἀχιλλέα θεᾶς παῖδα"
+        },
+        {
+          "form": "ποιεῖν",
+          "lemma": "ποιέω",
+          "location": "388b",
+          "context": "θεούς γε ποιεῖν ὀδυρομένους"
+        },
+        {
+          "form": "ποιῇ",
+          "lemma": "ποιέω",
+          "location": "389a",
+          "context": "ἄν τις ποιῇ"
+        },
+        {
+          "form": "ποιητέον",
+          "lemma": "ποιέω",
+          "location": "389b",
+          "context": "ἀλήθειάν γε περὶ πολλοῦ ποιητέον"
+        }
+      ],
+      "observation": "ποιέω recurs across the section: what the poet ἐποίησε and what poets are asked μὴ ποιεῖν stand beside the guardians' ποιητέον regarding ἀλήθεια."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κλαίοντά",
+          "lemma": "κλαίω",
+          "location": "388b",
+          "context": "κλαίοντά τε καὶ ὀδυρόμενον"
+        },
+        {
+          "form": "θρήνους",
+          "lemma": "θρῆνος",
+          "location": "387e",
+          "context": "ἐξαιροῖμεν τοὺς θρήνους"
+        },
+        {
+          "form": "θρήνους",
+          "lemma": "θρῆνος",
+          "location": "388d",
+          "context": "θρήνους ἂν ᾄδοι καὶ ὀδυρμούς"
+        },
+        {
+          "form": "οἴκτους",
+          "lemma": "οἶκτος",
+          "location": "387d",
+          "context": "τοὺς ὀδυρμοὺς … καὶ τοὺς οἴκτους"
+        },
+        {
+          "form": "ὀλοφύρεται",
+          "lemma": "ὀλοφύρομαι",
+          "location": "388c",
+          "context": "ἐμὸν δʼ ὀλοφύρεται ἦτορ"
+        }
+      ],
+      "observation": "Alongside the ὀδυρ- family (s001), a wider lament vocabulary — οἶκτος, θρῆνος, κλαίω, ὀλοφύρομαι — is distributed across the section's treatment of grief."
+    },
+    {
+      "signal_types": [
+        "directional_spatial_cluster"
+      ],
+      "elements": [
+        {
+          "form": "κυλινδόμενον κατὰ κόπρον",
+          "lemma": null,
+          "location": "388b",
+          "context": "λιτανεύοντά τε καὶ κυλινδόμενον κατὰ κόπρον"
+        },
+        {
+          "form": "χευάμενον κὰκ κεφαλῆς",
+          "lemma": null,
+          "location": "388b",
+          "context": "κόνιν αἰθαλόεσσαν χευάμενον κὰκ κεφαλῆς"
+        }
+      ],
+      "observation": "Priam rolling in dung and Achilles pouring ashes down over his head extend the bodily downward positions of the Achilles sequence (s007) with further low, ground-directed postures of grief."
+    }
+  ]
+}
