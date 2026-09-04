@@ -1,0 +1,92 @@
+{
+  "section_id": "republic-chapter-02-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s009",
+        "s015"
+      ],
+      "observation": "The letters analogy binds size (μείζω/ἐλάττω in s004), sharpness of vision (ὀξὺ βλέπω recurring from the inquiry to the reader in s005), the acts of reading and seeing-down (ἀναγνῶναι, καθορᾷς in s009), and the check of sameness (τὰ αὐτὰ ὄντα τυγχάνει / ὁμοιότητα in s015). The same four-part arrangement is then transposed onto πόλις and ἀνήρ, so that the letters scene and the justice-search share one configuration of larger, smaller, seeing, and sameness."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s010",
+        "s011"
+      ],
+      "observation": "The fivefold βοηθέω/ἐπικουρεῖν cluster (s001) is placed around a personified δικαιοσύνη κακηγορουμένη whom one might ἀπαγορεύειν (s011), while Socrates qualifies his obligation by ἔτι ἐμπνέοντα καὶ δυνάμενον φθέγγεσθαι (s010). Aid, abandonment, breath, and voice are arranged around justice as around a maligned person needing rescue."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s017"
+      ],
+      "observation": "The persuasion/trust/distrust triad (πέπεισθε, πιστεύω, ἠπίστουν in s002) is redistributed across the λόγοι/τρόπος split (s017): λόγοι would yield ἀπιστία, τρόπος yields πίστις, and πέπεισθε is denied on both sides. Trust and persuasion are separated and assigned to different sources of evidence."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013",
+        "s014"
+      ],
+      "observation": "The parallel siting of δικαιοσύνη in ἀνδρὸς ἑνός and ὅλης πόλεως (s007) is set into motion by the γίγνομαι triple (s014) and the θεάομαι→ἰδεῖν sequence (s013): the city and justice come into being together in λόγος, and the act of watching becomes the act of seeing what was sought."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s016"
+      ],
+      "observation": "παῖδες in Socrates' address and παῖδες Ἀρίστωνος in the quoted verse (s016) are joined by θεῖον migrating from κλεινοῦ θεῖον γένος ἀνδρός to θεῖον πεπόνθατε (s003). The elegiac line's genealogical epithet is turned onto the interlocutors' present condition of unpersuaded defense."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s012"
+      ],
+      "observation": "The ζητ- family (s012) tracks the intention-completion arc of s008: ζήτημα names the problem, ζήτησις the domain, ζητήσωμεν the proposed act, ζητοῦμεν the shared undertaking, closed by ἔσκεπται. The request διερευνήσασθαι is answered in the same lexical field it entered."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπισκοπεῖν",
+          "lemma": "ἐπισκοπέω",
+          "location": "368d",
+          "context": "ἐκεῖνα πρῶτον ἀναγνόντας οὕτως ἐπισκοπεῖν τὰ ἐλάττω"
+        },
+        {
+          "form": "ἐπισκεψώμεθα",
+          "lemma": "ἐπισκοπέω",
+          "location": "369a",
+          "context": "ἔπειτα οὕτως ἐπισκεψώμεθα καὶ ἐν ἑνὶ ἑκάστῳ"
+        },
+        {
+          "form": "ἐπισκοποῦντες",
+          "lemma": "ἐπισκοπέω",
+          "location": "369a",
+          "context": "τὴν τοῦ μείζονος ὁμοιότητα ἐν τῇ τοῦ ἐλάττονος ἰδέᾳ ἐπισκοποῦντες"
+        },
+        {
+          "form": "σκοπεῖτε",
+          "lemma": "σκοπέω",
+          "location": "369b",
+          "context": "οὐκ ὀλίγον ἔργον αὐτὸ εἶναι· σκοπεῖτε οὖν"
+        },
+        {
+          "form": "ἔσκεπται",
+          "lemma": "σκοπέω",
+          "location": "369b",
+          "context": "ἔσκεπται, ἔφη ὁ Ἀδείμαντος"
+        }
+      ],
+      "observation": "The σκοπ-/ἐπισκοπ- family recurs at the pivot from analogy to method and closes the section: ἐπισκοπεῖν the smaller letters, ἐπισκεψώμεθα the individual, ἐπισκοποῦντες the resemblance, σκοπεῖτε as imperative, ἔσκεπται as perfective response."
+    }
+  ]
+}
