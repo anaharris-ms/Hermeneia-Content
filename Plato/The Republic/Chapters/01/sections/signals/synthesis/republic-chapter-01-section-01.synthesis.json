@@ -1,0 +1,112 @@
+{
+  "section_id": "republic-chapter-01-section-01",
+  "connections": [
+    {
+      "signal_ids": [
+        "s003",
+        "s013",
+        "s012"
+      ],
+      "observation": "The command περιμεῖναι passes through three mouths — Polemarchus' ἐκέλευσε, the slave's κελεύει, then the plural περιμένετε — while the physical transmission runs in parallel: the slave δραμόντα forward and then ὄπισθεν λαβόμενος τοῦ ἱματίου. The verbal relay of κελεύω/περιμένω is doubled by a bodily relay that catches Socrates from behind."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s006",
+        "s007"
+      ],
+      "observation": "Polemarchus' disjunction κρείττους γένεσθε ἢ μένετε and his question ὅσοι ἐσμέν set the exchange as a count of force; Socrates' remaining option τὸ ἢν πείσωμεν is answered by πεῖσαι μὴ ἀκούοντας and μὴ ἀκουσομένων. Persuasion is named as the leftover of a contest already decided by number, and then closed off by refusal to hear."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s005",
+        "s015"
+      ],
+      "observation": "κατέβην down to the Piraeus opens the section; the return πρὸς τὸ ἄστυ is glossed οἴκαδε, and οἴκαδε then names entry εἰς τοῦ Πολεμάρχου. The homeward vector is deflected sideways into another house, while the two πομπαί (ἐπιχωρίων and Θρᾷκες) already stand as a doubled object at the point of descent."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s014",
+        "s009",
+        "s008"
+      ],
+      "observation": "προσευξόμενός and θεάσασθαι are stated as the twin purposes of κατέβην; προσευξάμενοι and θεωρήσαντες mark their completion; then θεάσασθαι and θεασόμεθα return attached to the παννυχίς and the λαμπὰς ἀφ᾽ ἵππων. The completed viewing is reopened by a further, still-future object of the same verb."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s006"
+      ],
+      "observation": "μένω runs from Polemarchus' disjunctive ἢ μένετε through his imperative μένετε to Glaucon's verbal adjective μενετέον. What began as one branch of a forced alternative arrives as a stated necessity in another speaker's mouth."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s012"
+      ],
+      "observation": "κατιδὼν πόρρωθεν, μετεστράφην, and ὄπισθεν προσέρχεται arrange sight and turning around Socrates; the slave's ὄπισθεν λαβόμενος τοῦ ἱματίου occupies the same rear position with a hand rather than an approach."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011",
+        "s014"
+      ],
+      "observation": "Cephalus is found ἐστεφανωμένος and τεθυκὼς ἐν τῇ αὐλῇ, μάλα πρεσβύτης and seen διὰ χρόνου; his completed sacrifice sits inside the house at the end of a section whose outward movement began with προσευξόμενός τῇ θεῷ."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "directional_spatial_cluster",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐκαθεζόμεθα οὖν παρ᾽ αὐτόν· ἔκειντο γὰρ δίφροι τινὲς αὐτόθι κύκλῳ",
+          "lemma": null,
+          "location": "328c",
+          "location_note": "",
+          "context": "seating around Cephalus on chairs arranged in a circle"
+        }
+      ],
+      "observation": "The section closes with seats set αὐτόθι κύκλῳ around the seated Cephalus, a circular arrangement of stationary δίφροι answering the earlier linear movements κατέβην, πρὸς τὸ ἄστυ, and οἴκαδε."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὡρμῆσθαι",
+          "lemma": "ὁρμάω",
+          "location": "327c",
+          "context": "δοκεῖτέ μοι πρὸς ἄστυ ὡρμῆσθαι ὡς ἀπιόντες"
+        },
+        {
+          "form": "ὡρμημένους",
+          "lemma": "ὁρμάω",
+          "location": "327b",
+          "context": "οἴκαδε ὡρμημένους"
+        }
+      ],
+      "observation": "ὁρμάω describes the departing party twice: once as seen by Polemarchus from afar (ὡρμημένους οἴκαδε), then in Polemarchus' own address (πρὸς ἄστυ ὡρμῆσθαι)."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "διαλεξόμεθα",
+          "lemma": "διαλέγομαι",
+          "location": "328a",
+          "context": "συνεσόμεθά τε πολλοῖς τῶν νέων αὐτόθι καὶ διαλεξόμεθα"
+        }
+      ],
+      "observation": "Among Polemarchus' inducements to stay, alongside δεῖπνον, παννυχίς, and being with πολλοῖς τῶν νέων, διαλεξόμεθα is named as a further activity αὐτόθι."
+    }
+  ]
+}
