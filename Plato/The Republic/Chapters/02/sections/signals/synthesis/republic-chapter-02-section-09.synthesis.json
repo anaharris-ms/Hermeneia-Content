@@ -1,0 +1,108 @@
+{
+  "section_id": "republic-chapter-02-section-09",
+  "connections": [
+    {
+      "signal_ids": [
+        "s003",
+        "s005",
+        "s015"
+      ],
+      "observation": "The painter simile at 377e (γραφεύς, εἰκάζῃ, ἐοικότα, ὅμοια in s005) defines bad ψεῦδος (s003) as making οὐσία unlike what it depicts; the step-by-step deduction at 379b (s015) then constructs the correct likeness of ὁ θεός by tying ἀγαθόν to non-βλάπτειν to non-αἴτιον κακοῦ. The painter's failed resemblance and the chain's forced resemblance stand at opposite ends of the section on the same axis of εἰκάζειν οὐσίαν."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s016",
+        "s017"
+      ],
+      "observation": "The αἴτιον/ἀναίτιον pair (s001) is quantified at 379c by ὀλίγων/πολλῶν and ἐλάττω (s016), and the Homeric πίθοι and ταμίας (s017) are quoted immediately after as the rejected image of a Zeus who dispenses both. The two jars and the steward figure the very πάντων αἴτιον that ὀλίγων/πολλῶν has just partitioned away."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s013"
+      ],
+      "observation": "ἔργα καὶ πάθη (s009) recur bound to kinship (s013): Kronos's ἔργα καὶ πάθη ὑπὸ τοῦ ὑέος at 378a return at 380a as Νιόβης πάθη and θεοῦ ἔργα. The same word-pair carries first intra-divine kin-violence and later the human sufferer set against divine deed."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s008",
+        "s018"
+      ],
+      "observation": "The ποιηταί/οἰκισταί contrast (s006) is joined at 379a to τύποι (s007), which by 380c returns as νόμων τε καὶ τύπων (s018); the proliferating verbal adjectives in -τέον (s008) fill the space between, so that οἰκισταί do not ποιεῖν μύθους but issue λεκτέον, ἐατέον, ποιητέον directives that culminate as νόμος."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011",
+        "s014"
+      ],
+      "observation": "σιγᾶσθαι and the restriction of ἀκούειν to the fewest through a costly μέγα καὶ ἄπορον θῦμα (s010, s011) at 378a are answered at 378d–e by δυσέκνιπτα and ἀμετάστατα (s014): what is heard young sets indelibly, so the ritual barrier at 378a and the psychological indelibility at 378d name the same problem of ἀκοή from opposite sides."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s013"
+      ],
+      "observation": "The war-cluster πολεμοῦσι, ἐπιβουλεύουσι, μάχονται, γιγαντομαχία, θεομαχία, ἔχθρα, ἀπεχθάνεσθαι (s012) is placed exactly at πρὸς συγγενεῖς τε καὶ οἰκείους (s013): the enmity terms and the kinship terms coincide, so that divine warfare is articulated only as kin-warfare."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019"
+      ],
+      "observation": "The νόμος named at 380c (s018) is ratified by Adeimantus's σύμψηφος, which stands beside σύμφορα and σύμφωνα αὐτὰ αὑτοῖς (s019). The σύν- prefix of the criteria for permitted speech reappears in the σύν- prefix of the assent that closes the νόμος."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἠργάσατο",
+          "lemma": "ἐργάζομαι",
+          "location": "377e",
+          "context": "ὡς Οὐρανός τε ἠργάσατο ἅ φησι δρᾶσαι αὐτόν"
+        },
+        {
+          "form": "ἠργάζετο",
+          "lemma": "ἐργάζομαι",
+          "location": "380b",
+          "context": "ὁ μὲν θεὸς δίκαιά τε καὶ ἀγαθὰ ἠργάζετο"
+        }
+      ],
+      "observation": "ἐργάζομαι appears at 377e for Ouranos's rejected deeds and returns at 380b for what θεός is to be said to have worked, δίκαιά τε καὶ ἀγαθά."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "κολάζων",
+          "lemma": "κολάζω",
+          "location": "378b",
+          "context": "ἀδικοῦντα πατέρα κολάζων παντὶ τρόπῳ"
+        },
+        {
+          "form": "κολαζόμενοι",
+          "lemma": "κολάζω",
+          "location": "380b",
+          "context": "οἱ δὲ ὠνίναντο κολαζόμενοι"
+        },
+        {
+          "form": "κολάσεως",
+          "lemma": "κόλασις",
+          "location": "380b",
+          "context": "ὅτι ἐδεήθησαν κολάσεως"
+        }
+      ],
+      "observation": "κολάζω recurs: at 378b the young man punishing his father is forbidden, at 380b those punished are benefited and κόλασις is what the wicked needed."
+    }
+  ]
+}

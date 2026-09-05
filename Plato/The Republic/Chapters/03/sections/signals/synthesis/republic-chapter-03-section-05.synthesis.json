@@ -1,0 +1,137 @@
+{
+  "section_id": "republic-chapter-03-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s003"
+      ],
+      "observation": "The tripartite definition of μέλος as λόγος, ἁρμονία, ῥυθμός (s001) is set into a hierarchy by the recurring verbs of following (s002, s003): ἁρμονία and ῥυθμός must ἀκολουθεῖν τῷ λόγῳ, foot and μέλος must ἕπεσθαι λόγῳ, and later λέξις itself ἕπεται τῷ τῆς ψυχῆς ἤθει. The three components named at 398d are redistributed as successive links in a chain of subordination."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s008",
+        "s009",
+        "s023",
+        "s024"
+      ],
+      "observation": "The selection proceeds by successive λείπω operations (s023): θρηνώδεις and μαλακαί harmoniai are removed leaving Dorian and Phrygian (s005); πολυχορδία and παναρμόνιον instruments are removed (s009), leaving lyre and kithara for πόλις and syrinx for ἀγροί (s024); this residue is then named as the judgment of Apollo's instruments over Marsyas's (s008)."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012",
+        "s013"
+      ],
+      "observation": "The purification vocabulary (s011) is marked by Socrates' oath νὴ τὸν κύνα (s012) at the moment of noticing the purging has occurred λελήθαμεν; τρέφω/τροφή then recurs (s013) with the same city that had been called τρυφᾶν now being reconstituted as the site where guardians are nourished on beautiful works."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s018"
+      ],
+      "observation": "The paired εὐ-/ἀ- contrasts of σχῆμα, ῥυθμός, ἁρμονία (s007) resolve into the five εὐ- compounds converging on εὐήθεια (s006), which are then declared ἀδελφά to good ἦθος while their opposites are ἀδελφά to κακοήθεια (s018). The oppositional pairs and the sibling-vocabulary place form-qualities and character-qualities as kin."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015",
+        "s013"
+      ],
+      "observation": "The pasture/healthy-place images (s014) are joined to the κατα- verbs of downward entry into the soul (s015) and to the τρέφω cluster (s013): guardians either graze in κακῇ βοτάνῃ or dwell where a breeze carries health, while ῥυθμὸς and ἁρμονία καταδύεται εἰς τὸ ἐντὸς τῆς ψυχῆς and the nurtured youth καταδέχεται beauty into the soul."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s019",
+        "s020"
+      ],
+      "observation": "The announced remainder τὸ περὶ ᾠδῆς τρόπου καὶ μελῶν (s017) closes at τέλος in τὰ τοῦ καλοῦ ἐρωτικά, and the ἔρως cluster (s019) arrives only at the section's end, immediately preceded by the σωφροσύνη/ἡδονὴ ὑπερβάλλουσα contrast (s020) that excludes μανικόν and ἀκόλαστον from ὀρθὸς ἔρως."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s022"
+      ],
+      "observation": "Glaucon's laugh and disclaimer of being ἐκτὸς τῶν πάντων (s021) is answered later by Socrates' own disclaimers οὐκ οἶδα τὰς ἁρμονίας and οὐ σαφῶς concerning what he heard from Damon (s022); both interlocutors profess non-knowledge yet the specifications of harmonies and rhythms proceed."
+    },
+    {
+      "signal_ids": [
+        "s016",
+        "s027"
+      ],
+      "observation": "The letters-and-images analogy (s016) requiring recognition of στοιχεῖα and their εἰκόνες in water and mirrors is aligned with the συμφωνία cluster (s027): the initial demand to συμφωνήσειν with prior agreements returns as the soul's συμφωνία with καλὸς λόγος and as the συμφωνοῦντα between ἦθος in soul and εἶδος in body, with ἀσύμφωνος blocking ἔρως."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s026"
+      ],
+      "observation": "μίμημα (s010) migrates from a harmony imitating the tones of a brave man, to the aulos as μίμημα of παναρμόνια, to rhythms as μιμήματα of lives, to good form as μιμήματα of good ἦθος; in parallel δημιουργός (s026) migrates from rejected instrument-makers to all craftsmen who must be supervised to those who track τὴν τοῦ καλοῦ φύσιν."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λανθάνωσιν",
+          "lemma": "λανθάνω",
+          "location": "401c",
+          "context": "ἕν τι συνιστάντες λανθάνωσιν κακὸν μέγα ἐν τῇ αὑτῶν ψυχῇ"
+        },
+        {
+          "form": "λανθάνῃ",
+          "lemma": "λανθάνω",
+          "location": "401d",
+          "context": "εὐθὺς ἐκ παίδων λανθάνῃ εἰς ὁμοιότητά … ἄγουσα"
+        },
+        {
+          "form": "λελήθαμεν",
+          "lemma": "λανθάνω",
+          "location": "399e",
+          "context": "λελήθαμέν γε διακαθαίροντες πάλιν … πόλιν"
+        },
+        {
+          "form": "λανθάνοι",
+          "lemma": "λανθάνω",
+          "location": "402a",
+          "context": "ὅτε τὰ στοιχεῖα μὴ λανθάνοι ἡμᾶς"
+        }
+      ],
+      "observation": "λανθάνω recurs in four different contexts: the interlocutors purifying the city unnoticed, the guardians unnoticedly assembling a great evil in the soul from bad pasture, the beautiful breeze unnoticedly leading children into συμφωνία with καλὸς λόγος, and στοιχεῖα that must not escape notice."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὀργάνων",
+          "lemma": "ὄργανον",
+          "location": "399e",
+          "context": "τὰ τοῦ Ἀπόλλωνος ὄργανα"
+        },
+        {
+          "form": "ὀργάνων",
+          "lemma": "ὄργανον",
+          "location": "399e",
+          "context": "τῶν ἐκείνου ὀργάνων"
+        },
+        {
+          "form": "ὀργάνων",
+          "lemma": "ὄργανον",
+          "location": "399c",
+          "context": "πάντων ὀργάνων ὅσα πολύχορδα"
+        }
+      ],
+      "observation": "ὄργανον recurs three times within the instrument selection, first for all πολύχορδα instruments to be rejected, then paired between Apollo's and Marsyas's ὄργανα."
+    }
+  ]
+}

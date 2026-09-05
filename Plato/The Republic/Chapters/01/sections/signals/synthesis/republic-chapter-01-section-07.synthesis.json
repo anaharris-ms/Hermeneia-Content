@@ -1,0 +1,107 @@
+{
+  "section_id": "republic-chapter-01-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s006"
+      ],
+      "observation": "The πλεονεκτέω/πλέον ἔχειν cluster (s001) is articulated through the ὅμοιος/ἀνόμοιος axis (s002) and then routed through the craft-examples of μουσικός and ἰατρικός generalized to πᾶσα ἐπιστήμη (s006): the knower not overreaching the like is placed beside the just person not overreaching the like, so that the pleonexia vocabulary lands on the knower via the same grammatical frame."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s005"
+      ],
+      "observation": "Thrasymachus's paired εὐ- compounds (s003: γενναία εὐήθεια for justice, εὐβουλία for injustice) and his refusal of the ἀρετή/κακία mapping (s004) place ἀδικία ἐν ἀρετῆς καὶ σοφίας μέρει (s005); the final formulation δικαιοσύνη = ἀρετή καὶ σοφία, ἀδικία = κακία καὶ ἀμαθία inverts each of the earlier placements at once."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010",
+        "s011",
+        "s012"
+      ],
+      "observation": "The στάσις lemma (s009) tracks the descending scale πόλις → δυοῖν → ἐν ἑνί (s010), and at each level the pair μίση/μάχαι against ὁμόνοια/φιλία recurs (s011); the descent extends past the single self to ἐχθρός to the gods (s012), so that the same opposition is enacted at city, pair, self, and divine levels."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s016"
+      ],
+      "observation": "τέλειος/τελέως (s013) moves from Thrasymachus's τελέα ἀδικία as more profitable, through τελέως οἷοί τε ἀδικεῖν, to τελέως ἄδικοι τελέως πράττειν ἀδύνατοι; the completion word turns into incapacity just as the closing question shifts to ὅντινα τρόπον χρὴ ζῆν (s016)."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s014",
+        "s015"
+      ],
+      "observation": "Thrasymachus's blush and summer sweat (s007) sit between his own reduction of himself to nodding like old women telling μῦθοι (s014) and Socrates' renaming of the continuing exchange as ἑστίασις to be filled out (s015); the bodily concession is framed on one side by γραῦς-storytelling and on the other by feast."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s015"
+      ],
+      "observation": "The opening alternative — external δικασταί counting goods versus the interlocutors being δικασταὶ καὶ ῥήτορες themselves (s008) — is answered when the exchange is renamed ἑστίασις (s015) and Thrasymachus's threatened δημηγορεῖν is set aside; the chosen procedure of mutual questioning is what the closing feast-image continues."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "λυσιτελεστέραν",
+          "lemma": "λυσιτελέω",
+          "location": "348b",
+          "context": "τὴν τελέαν ἀδικίαν... λυσιτελεστέραν φῂς εἶναι"
+        },
+        {
+          "form": "λυσιτελεῖν",
+          "lemma": "λυσιτελέω",
+          "location": "348c",
+          "context": "λέγω ἀδικίαν μὲν λυσιτελεῖν, δικαιοσύνην δ᾽ οὔ"
+        },
+        {
+          "form": "λυσιτελεῖ",
+          "lemma": "λυσιτελέω",
+          "location": "348d",
+          "context": "λυσιτελεῖ μὲν οὖν... καὶ τὰ τοιαῦτα, ἐάνπερ λανθάνῃ"
+        },
+        {
+          "form": "λυσιτελεῖν",
+          "lemma": "λυσιτελέω",
+          "location": "348e",
+          "context": "εἰ γὰρ λυσιτελεῖν μὲν τὴν ἀδικίαν ἐτίθεσο"
+        }
+      ],
+      "observation": "λυσιτελέω recurs four times in 348b–348e as the initial framing of Thrasymachus's thesis, then drops out of the argument once ἀρετή/σοφία is adopted."
+    },
+    {
+      "signal_types": [
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἀντικατατείναντες λέγωμεν... λόγον παρὰ λόγον",
+          "lemma": null,
+          "location": "348a",
+          "context": "ἀντικατατείναντες λέγωμεν αὐτῷ λόγον παρὰ λόγον"
+        },
+        {
+          "form": "ἀριθμεῖν... μετρεῖν",
+          "lemma": null,
+          "location": "348a-b",
+          "context": "ἀριθμεῖν δεήσει τἀγαθὰ καὶ μετρεῖν"
+        }
+      ],
+      "observation": "The rejected procedure is specified as speech-against-speech with counting and measuring of goods — a concrete pair (ἀριθμεῖν/μετρεῖν) set against the adopted homologia-procedure."
+    }
+  ]
+}

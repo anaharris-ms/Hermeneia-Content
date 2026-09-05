@@ -1,0 +1,115 @@
+{
+  "section_id": "republic-chapter-03-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s020"
+      ],
+      "observation": "The paired ἅ τε λεκτέον καὶ ὡς λεκτέον frames the section at 392c and 398b (s004, s005), and between these frames Socrates says the λόγος carries them like πνεῦμα wherever it will (s020). The declared program and the drifting wind stand in the same section as fixed frame and unfixed movement."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s010",
+        "s012"
+      ],
+      "observation": "Socrates' retelling of the Iliad opening (s009) renames Χρύσης successively as ὁ ἱερεύς and πρεσβύτης (s010) and is delivered ἄνευ μέτρου with the disclaimer οὐ γάρ εἰμι ποιητικός (s012). The very passage that defines ἁπλῆ διήγησις is itself performed as ἁπλῆ διήγησις within the dialogue."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s013",
+        "s021"
+      ],
+      "observation": "The dense μιμ- family (s001) converges on the φύλακες (s021) at the point where mimesis from youth is said to settle into ἔθη and φύσιν across σῶμα, φωνή, διάνοια (s013). The lexical saturation and the bodily-vocal-mental register meet on the same named subjects."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s018",
+        "s019"
+      ],
+      "observation": "The one/many contrast (ἓν καλῶς / πολλῶν ἀποτυγχάνοι, s011) is later enacted syntactically in the tripled doubling σκυτοτόμον σκυτοτόμον, γεωργὸν γεωργὸν, πολεμικὸν πολεμικὸν (s018) and in the denial of the διπλοῦς or πολλαπλοῦς man (s019). The doubled craft-names occur in a city that admits no doubled man."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016",
+        "s017"
+      ],
+      "observation": "The versatile poet is ἡδύς (s016) and receives myrrh, wool, and reverence as ἱερόν before being sent away (s015); the city keeps the αὐστηρότερος καὶ ἀηδέστερος poet, the ἄκρατος imitator of the ἐπιεικής rather than the κεκραμένος (s017). Anointing-and-expulsion and unmixed-versus-mixed align on the same figure."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s008"
+      ],
+      "observation": "Socrates calls himself γελοῖος διδάσκαλος and ἀσαφής right after Adeimantus asks σαφέστερον μαθεῖν (s008), and the μανθάνω verb then recurs across the section (s003), culminating in Socrates' imperative μάνθανε answering Adeimantus' declarative μανθάνω at 394b."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s022",
+        "s023"
+      ],
+      "observation": "The φύλακες, released from all δημιουργίαι yet named δημιουργοὶ ἐλευθερίας (s021, s022), are permitted to imitate ἀνδρείους, σώφρονας, ὁσίους, ἐλευθέρους but not τὰ ἀνελεύθερα (s023). The word ἐλευθερία appears as both the product they craft and the trait they may imitate."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ηὔχετο",
+          "lemma": "εὔχομαι",
+          "location": "393e",
+          "context": "ἐλθὼν ὁ ἱερεὺς ηὔχετο ἐκείνοις μὲν τοὺς θεοὺς δοῦναι"
+        },
+        {
+          "form": "ηὔχετο",
+          "lemma": "εὔχομαι",
+          "location": "394a",
+          "context": "πολλὰ τῷ Ἀπόλλωνι ηὔχετο"
+        }
+      ],
+      "observation": "Within Socrates' prose retelling, ηὔχετο recurs: first the priest prays for the Achaeans' safe return, then, after Agamemnon's refusal, prays against them to Apollo."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "τύπους",
+          "lemma": "τύπος",
+          "location": "396e",
+          "context": "ἐνιστάναι εἰς τοὺς τῶν κακιόνων τύπους"
+        },
+        {
+          "form": "τύπον",
+          "lemma": "τύπος",
+          "location": "396e",
+          "context": "οἷόν γε ἀνάγκη τὸν τύπον εἶναι τοῦ τοιούτου ῥήτορος"
+        },
+        {
+          "form": "τύπῳ",
+          "lemma": "τύπος",
+          "location": "397c",
+          "context": "τῷ ἑτέρῳ τούτων ἐπιτυγχάνουσιν τύπῳ τῆς λέξεως"
+        },
+        {
+          "form": "τύποις",
+          "lemma": "τύπος",
+          "location": "398b",
+          "context": "ἐν ἐκείνοις τοῖς τύποις οἷς κατʼ ἀρχὰς ἐνομοθετησάμεθα"
+        }
+      ],
+      "observation": "τύπος recurs as the molds of worse men one refuses to press oneself into, the τύπος of the good speaker, the τύπος of λέξις, and the τύποι legislated for educating soldiers."
+    }
+  ]
+}

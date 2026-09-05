@@ -1,0 +1,146 @@
+{
+  "section_id": "republic-chapter-01-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s004",
+        "s010"
+      ],
+      "observation": "The referent of κρείττων migrates across the section: at 338c it names the ruler; Socrates immediately displaces it onto Polydamas the pancratist and beef (s004); at 341b it returns bound to the ἀκριβὴς λόγος (s010), no longer either political ruler or physical athlete but the strict-sense craftsman."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s003",
+        "s015"
+      ],
+      "observation": "συμφέρον begins attached to τὸ κρεῖττον and τὸ ἄρχον (338c, 338e) and ends at 342e attached to τὸ ἀρχόμενον; the same lexical pair ἄρχων/ἀρχόμενος frames both poles, so the recurring word συμφέρον is transferred from ruler to ruled while the vocabulary of ruling stays in place."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s011",
+        "s013"
+      ],
+      "observation": "ἁμαρτάνειν, admitted of rulers at 339c, is progressively expelled: ἐπιστήμη and δημιουργός at 340e make error external to the craftsman qua craftsman, and at 342b ἁμαρτία is denied of any τέχνη at all. The ἀπέραντον of 342a marks the point where this expulsion is sealed—no further τέχνη is needed to correct the τέχνη."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s008",
+        "s009"
+      ],
+      "observation": "κακουργέω and συκοφαντέω cluster together across 338d–341c as the charge Thrasymachus levels, Socrates denies, and Thrasymachus reissues as a command (κακούργει καὶ συκοφάντει); the lion-shaving image at 341c places Thrasymachus himself as the λέων at the endpoint of that same accusation-sequence."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s014",
+        "s016"
+      ],
+      "observation": "The catalogue of craftsmen (ἰατρός, λογιστής, γραμματιστής, κυβερνήτης) is introduced by Thrasymachus himself at 340d, but each concession that narrows these figures toward the ἀρχόμενος is marked by the narrator as μόγις (342c, 342e); the χρηματιστής/θεραπευτής split at 341c is the hinge where the craftsman's identity is forced onto the θεραπευτής side."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s015"
+      ],
+      "observation": "The deficient body needing medicine and the eyes and ears needing sight and hearing (341e–342a) are set as parallels; the closing image at 342e of the ruler βλέπων πρὸς ἐκεῖνο answers that earlier ὄψεως/ἀκοῆς figure by making the ruler himself the organ that looks toward what it serves."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s018",
+        "s003"
+      ],
+      "observation": "The three regime-verbs at 338d are collapsed into one τὸ ἄρχον (338d), whose νόμοι make the transgressor both παρανομῶν and ἀδικῶν (s018); the same ἄρχων/ἀρχόμενος pair is then carried out of the political register into the craft examples and reversed at 342e."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἀκριβεῖ",
+          "lemma": "ἀκριβής",
+          "location": "340e",
+          "context": "κατὰ τὸν ἀκριβῆ λόγον"
+        },
+        {
+          "form": "ἀκριβολογῇ",
+          "lemma": "ἀκριβολογέομαι",
+          "location": "340e",
+          "context": "ἐπειδὴ καὶ σὺ ἀκριβολογῇ"
+        },
+        {
+          "form": "ἀκριβέστατον",
+          "lemma": "ἀκριβής",
+          "location": "340e",
+          "context": "τὸ δὲ ἀκριβέστατον ἐκεῖνο τυγχάνει ὄν"
+        },
+        {
+          "form": "ἀκριβεστάτῳ",
+          "lemma": "ἀκριβής",
+          "location": "341b",
+          "context": "τὸν τῷ ἀκριβεστάτῳ λόγῳ ἄρχοντα"
+        },
+        {
+          "form": "ἀκριβὴς ἰατρός",
+          "lemma": null,
+          "location": "342d",
+          "context": "ὁ ἀκριβὴς ἰατρὸς σωμάτων εἶναι ἄρχων"
+        },
+        {
+          "form": "ἀκριβὴς",
+          "lemma": "ἀκριβής",
+          "location": "342d",
+          "context": "ὁ κυβερνήτης ὁ ἀκριβὴς ναυτῶν εἶναι ἄρχων"
+        }
+      ],
+      "observation": "ἀκριβής and its cognates recur at each turning point of the strict-sense argument, migrating from λόγος (340e, 341b) to ἰατρός and κυβερνήτης (342d), attaching the modifier that first isolated the ruler to the craftsmen who replace him."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "σῶμα",
+          "lemma": "σῶμα",
+          "location": "338c",
+          "context": "συμφέρει τὰ βόεια κρέα πρὸς τὸ σῶμα"
+        },
+        {
+          "form": "σῶμά",
+          "lemma": "σῶμα",
+          "location": "341e",
+          "context": "σῶμά ἐστιν πονηρὸν"
+        },
+        {
+          "form": "σώματι",
+          "lemma": "σῶμα",
+          "location": "341e",
+          "context": "εἰ ἐξαρκεῖ σώματι εἶναι σώματι"
+        },
+        {
+          "form": "σώματι",
+          "lemma": "σῶμα",
+          "location": "342c",
+          "context": "ἰατρικὴ τὸ συμφέρον σκοπεῖ ἀλλὰ σώματι"
+        },
+        {
+          "form": "σωμάτων",
+          "lemma": "σῶμα",
+          "location": "342d",
+          "context": "ὁ ἀκριβὴς ἰατρὸς σωμάτων"
+        }
+      ],
+      "observation": "σῶμα first appears at 338c as what beef benefits in the Polydamas example, then returns at 341e–342d as the deficient object that the ἰατρική serves; the same word carries the referent from Socrates' initial counter-example into the craft argument's ruled term."
+    }
+  ]
+}

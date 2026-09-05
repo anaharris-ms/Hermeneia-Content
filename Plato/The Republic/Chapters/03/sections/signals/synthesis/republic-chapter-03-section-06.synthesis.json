@@ -1,0 +1,119 @@
+{
+  "section_id": "republic-chapter-03-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "The σῶμα/ψυχή pair at 403d is stated as a reversal (ψυχή by its ἀρετή makes σῶμα best), while at 404e the same pair returns pluralized as ψυχαῖς/σώμασιν, now distributed in parallel across μουσική and γυμναστική rather than in causal reversal."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s005"
+      ],
+      "observation": "μουσική and γυμναστική stand at the section's start as sequence (μετὰ μουσικὴν γυμναστικῇ), at its middle as kinship (ἀδελφή of ἁπλῆ μουσική), and at its close as paired assignments to ψυχαί and σώματα; the kinship term at 404b sits between the succession and the parallel distribution."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s008"
+      ],
+      "observation": "ἁπλοῦς/ἁπλότης and ποικιλία, first used as adjectives of disciplines and of Sicilian food, converge at 404e as the two subject-nouns of the closing four-term contrast producing ἀκολασία/νόσος against σωφροσύνη/ὑγίεια."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s017",
+        "s016"
+      ],
+      "observation": "The enumerated food-luxuries (fish, boiled meat, seasonings, Syracusan table, Sicilian ὄψον, Corinthian girl, Attic pastries) are gathered by ἀπεικάζω twice into a likeness with song made ἐν παναρμονίῳ and ἐν πᾶσι ῥυθμοῖς; the culinary list and the πᾶς-saturated musical phrase are set as the two terms of the same comparison."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011",
+        "s012"
+      ],
+      "observation": "The doubled φύλαξ (φύλακα φύλακος) at 403e, the ὑπνώδης ἕξις of ordinary ἀσκηταί, and the κύνες ἀγρύπνοι at 404a place sleep against wakefulness across the guardian figures: the drunk guardian who does not know ὅπου γῆς ἐστιν stands opposite the dog-like wakefulness with sharp sight and hearing."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s019"
+      ],
+      "observation": "ὑγίεια appears first as what athletic ἕξις is σφαλερά toward and what warrior-athletes must not be ἀκροσφαλεῖς toward, then at 404e as the positive product of ἁπλότης in σώματα; the two precariousness-words precede the term they had modified as endangered."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s014"
+      ],
+      "observation": "Homer is cited twice — once for what heroes eat (roasted only), once for what he never mentioned (ἡδύσματα) — bracketing the catalogue of rejected luxuries (Syracusan, Sicilian, Corinthian, Attic) between a positive and a negative Homeric citation."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "local_contrast",
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μεθυσθέντι",
+          "lemma": "μεθύω",
+          "location": "403e",
+          "context": "φύλακι μεθυσθέντι μὴ εἰδέναι ὅπου γῆς ἐστιν"
+        },
+        {
+          "form": "ὅπου γῆς ἐστιν",
+          "lemma": null,
+          "location": "403e",
+          "context": "not knowing where on earth he is"
+        },
+        {
+          "form": "ὀξὺ ὁρᾶν καὶ ἀκούειν",
+          "lemma": null,
+          "location": "404a",
+          "context": "warrior-athletes must see and hear sharply"
+        }
+      ],
+      "observation": "The drunk guardian who does not know ὅπου γῆς ἐστιν is set against the requirement to ὀξὺ ὁρᾶν καὶ ἀκούειν: disorientation of place against sharpness of the distance senses."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὑδάτων",
+          "lemma": "ὕδωρ",
+          "location": "404a",
+          "context": "changes of waters"
+        },
+        {
+          "form": "σίτων",
+          "lemma": "σῖτος",
+          "location": "404b",
+          "context": "and of other foods"
+        },
+        {
+          "form": "εἱλήσεων",
+          "lemma": "εἴλησις",
+          "location": "404b",
+          "context": "heats"
+        },
+        {
+          "form": "χειμώνων",
+          "lemma": "χειμών",
+          "location": "404b",
+          "context": "colds"
+        }
+      ],
+      "observation": "A four-item list of environmental changes (waters, foods, heats, colds) that warrior-athletes must endure on campaign without becoming ἀκροσφαλεῖς."
+    }
+  ]
+}

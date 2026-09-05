@@ -1,0 +1,123 @@
+{
+  "section_id": "republic-chapter-02-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s003",
+        "s006"
+      ],
+      "observation": "The opening question at 380d aligns three variables — ἰδέα, μορφή, and ἁπλοῦν — against ἀλλοιόω. As the argument proceeds, ἰδέα drops out after 380d, μορφή carries the divine-form question through 381b–c, and ἁπλοῦς alone returns in the 382e summary, so that the three initially co-posed terms are narrowed to one by the conclusion."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s013",
+        "s020"
+      ],
+      "observation": "γόης, the φαντάζω family, and the παντοῖος/παντοδαπός cluster co-occur at the opening question (380d), at the 381e restatement (γοητεύοντες… παντοδαποὺς φαίνεσθαι), and at the final τύπος (383a κατὰ φαντασίας… γόητας), so the three lexical strands travel together as the same denied configuration."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s001",
+        "s010"
+      ],
+      "observation": "ἥκιστα is placed beside ἀλλοιόω across the analogical sequence of σῶμα, φυτόν, ψυχή, and σκεύη/οἰκοδομήματα/ἀμφιέσματα at 380e–381a, then transferred at 382b to ἥκιστα ἂν δέξαιντο the ψεῦδος, carrying the same superlative from bodily alteration to soul's reception of falsehood."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016",
+        "s014"
+      ],
+      "observation": "ἀψευδές, just concluded of τὸ θεῖον at 382e, reappears at 383b inside Thetis's ἤλπιζον εἶναι and is immediately followed by the fourfold αὐτός… αὐτός… αὐτός… αὐτός ending in ὁ κτανὼν τὸν παῖδα. The repeated αὐτός accumulates onto the very mouth just called ἀψευδές."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019",
+        "s023"
+      ],
+      "observation": "τύπος at 383a is answered by Adeimantus's τοὺς τύπους τούτους at 383c together with ὡς νόμοις ἂν χρῴμην, and the intervening lines move from χορὸν οὐ δώσομεν through διδάσκαλοι and παιδεία to φύλακες, placing the τύπος-to-νόμος correspondence across the sequence of poet, teacher, and guardian."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s022",
+        "s011"
+      ],
+      "observation": "The βέλτιον/χεῖρον contrast at 381b is answered at 381c by ἑκὼν αὑτὸν χείρω ποιεῖν, and ἑκών recurs at 382a beside κυριώτατος/κυριώτατα, so the refusal to move toward τὸ χεῖρον in form is set beside the refusal to willingly hold ψεῦδος in the most authoritative part."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s017"
+      ],
+      "observation": "ψεῦδος is partitioned at 382a–c into ὡς ἀληθῶς ψεῦδος in the soul and its μίμημα/εἴδωλον in words (οὐ πάνυ ἄκρατον), and the latter is then named φάρμακον χρήσιμον at 382c, so the distinction between the two ψεύδη is placed beside the single term that qualifies only one of them."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_correspondence"
+      ],
+      "elements": [
+        {
+          "form": "ἐξαπατῶντες",
+          "lemma": "ἐξαπατάω",
+          "location": "381e",
+          "context": "ἐξαπατῶντες καὶ γοητεύοντες"
+        },
+        {
+          "form": "ἀπατῶντα",
+          "lemma": "ἀπατάω",
+          "location": "380d",
+          "context": "ἡμᾶς ἀπατῶντα"
+        },
+        {
+          "form": "ἐξαπατᾷ",
+          "lemma": "ἐξαπατάω",
+          "location": "382e",
+          "context": "οὔτε ἄλλους ἐξαπατᾷ"
+        }
+      ],
+      "observation": "The ἀπατ-/ἐξαπατ- family recurs at the opening question (380d), at the 381e reformulation beside γοητεύοντες, and in the final summary denial (382e), tracking the same three positions as γόης."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὕπαρ",
+          "lemma": "ὕπαρ",
+          "location": "382e",
+          "context": "οὔθʼ ὕπαρ οὐδʼ ὄναρ"
+        },
+        {
+          "form": "ὄναρ",
+          "lemma": "ὄναρ",
+          "location": "382e",
+          "context": "οὔθʼ ὕπαρ οὐδʼ ὄναρ"
+        },
+        {
+          "form": "ἐνυπνίου",
+          "lemma": "ἐνύπνιον",
+          "location": "383a",
+          "context": "τὴν τοῦ ἐνυπνίου πομπὴν ὑπὸ Διὸς τῷ Ἀγαμέμνονι"
+        },
+        {
+          "form": "σημείων πομπάς",
+          "lemma": null,
+          "location": "382e",
+          "context": "οὔτε κατὰ σημείων πομπάς"
+        }
+      ],
+      "observation": "The waking/dream pair and σημείων πομπαί at 382e are immediately followed at 383a by the specific τοῦ ἐνυπνίου πομπή sent by Zeus to Agamemnon, so the general denial and the named Homeric instance are placed in sequence."
+    }
+  ]
+}

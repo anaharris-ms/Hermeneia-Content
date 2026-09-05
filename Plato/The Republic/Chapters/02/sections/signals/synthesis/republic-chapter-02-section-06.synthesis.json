@@ -1,0 +1,116 @@
+{
+  "section_id": "republic-chapter-02-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s008"
+      ],
+      "observation": "The simple city's life ἐν εἰρήνῃ μετὰ ὑγιείας (s008, s004) is redescribed as ἀληθινὴ πόλις … ὥσπερ ὑγιής τις and opposed to φλεγμαίνουσαν πόλιν (s005); the same section that names health as peaceful living ends by locating πολέμου γένεσιν in the feverish counterpart."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s015"
+      ],
+      "observation": "ἱκανός recurs as territory ceases to suffice (s006) precisely where τὸ ἀναγκαῖον is named as the transgressed ὅρον (s007), and the transgression is enacted spatially as ἀποτμητέον of neighbours' land and ὑπερβάντες the boundary (s015)."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s009",
+        "s012"
+      ],
+      "observation": "ὄψον, τραγήματα, and κλῖναι/τράπεζαι each appear first as items in Socrates' or Glaucon's dining scene (s001, s002, s009) and return within the luxurious catalogue at 373a alongside μύρα, θυμιάματα, ἑταῖραι, πέμματα (s012); the earlier singulars reappear embedded in the accumulating list."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s014"
+      ],
+      "observation": "Glaucon's ὑῶν πόλιν taunt (s003) is answered by συβωτῶν appearing among the ὀψοποιῶν, μαγείρων and other service occupations of the feverish city (s014, s003): the swineherd Glaucon invoked against the simple city is placed instead in the luxurious one."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s013",
+        "s014"
+      ],
+      "observation": "The dense repetition of δεησόμεθα/προσδεησόμεθα/δεήσει at 373c (s010) is interleaved with the two occupational catalogues (s013, s014); each new need brings a new class of persons."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s008"
+      ],
+      "observation": "The simple city's παραδώσουσιν of the same βίον to ἐκγόνοις (s011) stands against the γένεσις discovered at the section's close—not of another generation but of πόλεμος (s008)."
+    },
+    {
+      "signal_ids": [
+        "s018",
+        "s019",
+        "s005"
+      ],
+      "observation": "σκοπέω doubled (s018) marks the shift from examining one πόλις to also examining the τρυφῶσαν/φλεγμαίνουσαν one (s005), with κατίδοιμεν τήν τε δικαιοσύνην καὶ ἀδικίαν (s019) supplied as the reason the inquiry admits the second city."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἰδίᾳ",
+          "lemma": "ἴδιος",
+          "location": "373e",
+          "context": "ταῖς πόλεσιν καὶ ἰδίᾳ καὶ δημοσίᾳ κακὰ γίγνεται"
+        },
+        {
+          "form": "δημοσίᾳ",
+          "lemma": "δημόσιος",
+          "location": "373e",
+          "context": "ταῖς πόλεσιν καὶ ἰδίᾳ καὶ δημοσίᾳ κακὰ γίγνεται"
+        }
+      ],
+      "observation": "ἰδίᾳ and δημοσίᾳ are set beside one another as paired locations of the κακά arising from war's genesis."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παντοδαπά",
+          "lemma": "παντοδαπός",
+          "location": "373a",
+          "context": "ἕκαστα τούτων παντοδαπά"
+        },
+        {
+          "form": "παντοδαπῶν",
+          "lemma": "παντοδαπός",
+          "location": "373b",
+          "context": "σκευῶν τε παντοδαπῶν δημιουργοί"
+        }
+      ],
+      "observation": "παντοδαπός recurs at 373a and 373b, applied first to the luxury items themselves and then to the σκεύη their δημιουργοί produce."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ἄπειρον",
+          "lemma": "ἄπειρος",
+          "location": "373d",
+          "context": "ἐπὶ χρημάτων κτῆσιν ἄπειρον"
+        }
+      ],
+      "observation": "The neighbours' pursuit of possessions is qualified as ἄπειρον, standing against the ὅρον of necessities named in the same sentence."
+    }
+  ]
+}

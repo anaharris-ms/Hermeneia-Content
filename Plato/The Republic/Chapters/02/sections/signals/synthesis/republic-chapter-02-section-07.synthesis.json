@@ -1,0 +1,104 @@
+{
+  "section_id": "republic-chapter-02-section-07",
+  "connections": [
+    {
+      "signal_ids": [
+        "s010",
+        "s001",
+        "s016"
+      ],
+      "observation": "The one-craft principle at 374a-c cites σκυτοτόμος, γεωργός, ὑφάντης, οἰκοδόμος as each fitted to a single τέχνη πρὸς ὃ ἐπεφύκει (s010, s016); the argument then names φυλακή as itself such an ἔργον requiring its own ἐπιτήδεια φύσις (s001, s016), so that φύλαξ enters the list of trades by the same criterion that separated them."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s005",
+        "s008"
+      ],
+      "observation": "The gentle/harsh contradiction πρᾴους/χαλεπούς toward οἰκεῖοι/πολέμιοι (s003) is dissolved by transferring the distinction onto the dog (s005), where the pair reappears as γνώριμος/ἄγνωτος (s008): the political opposition of s003 is re-drawn along a cognitive axis of recognition."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s015"
+      ],
+      "observation": "γνώριμος/ἄγνωτος (s008) is reformulated at 376b as καταμαθεῖν/ἀγνοῆσαι and then as οἰκεῖον/ἀλλότριον (s015), which licenses calling the dog φιλομαθές and φιλόσοφον (s009); the same discrimination the dog performs by scent is renamed as learning."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s012",
+        "s013"
+      ],
+      "observation": "The ἀπορία at 375d (s007) is marked by ἐννενοήκαμεν οὐκ (s012), and the reversal to δυνατόν is introduced through θαυμάσαι/ἐθαύμασας (s013): the impasse and its release are both staged as failures and awakenings of noticing."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s011"
+      ],
+      "observation": "θυμοειδής is first placed under σῶμα-then-ψυχή (s011) as required, then declared ἐναντία to πρᾳεῖα φύσις (s002, s003); the same term that settled the ψυχή side of the guardian generates the contradiction that ψυχή must then resolve."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s009",
+        "s002"
+      ],
+      "observation": "The puppy's list ὀξύς, ἐλαφρός, ἰσχυρός, ἀνδρεῖος (s014) at 375a is recapitulated at 376c as ταχύς, ἰσχυρός, θυμοειδής (s002), with φιλόσοφος (s009) inserted into the sequence — the closing enumeration carries an added term not present in the opening list."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s006",
+        "s001"
+      ],
+      "observation": "γενναῖος is applied to σκύλαξ (s006) at the moment the dog is first paralleled with the guardian (s001, s005), and returns as γενναίων κυνῶν at 375e when the dog is revisited to resolve the aporia; the epithet brackets the two appearances of the canine comparison."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "παρεβάλλομεν",
+          "lemma": "παραβάλλω",
+          "location": "375e",
+          "context": "ἐν ᾧ ἡμεῖς παρεβάλλομεν τῷ φύλακι"
+        },
+        {
+          "form": "προυθέμεθα εἰκόνος",
+          "lemma": "εἰκών",
+          "location": "375d",
+          "context": "ἧς γὰρ προυθέμεθα εἰκόνος ἀπελείφθημεν"
+        }
+      ],
+      "observation": "The comparison to the dog is named retrospectively as an εἰκών that had been proposed (προυθέμεθα) and abandoned (ἀπελείφθημεν), then reclaimed by παρεβάλλομεν; the image is marked as something set aside and returned to."
+    },
+    {
+      "signal_types": [
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "οὐδὲ ἓν κακὸν προπεπονθώς",
+          "lemma": null,
+          "location": "376a",
+          "context": "ὃν μὲν ἂν ἴδῃ ἀγνῶτα, χαλεπαίνει, οὐδὲ ἓν κακὸν προπεπονθώς"
+        },
+        {
+          "form": "μηδὲν πώποτε ὑπʼ αὐτοῦ ἀγαθὸν πεπόνθῃ",
+          "lemma": null,
+          "location": "376a",
+          "context": "ὃν δʼ ἂν γνώριμον, ἀσπάζεται, κἂν μηδὲν πώποτε ὑπʼ αὐτοῦ ἀγαθὸν πεπόνθῃ"
+        }
+      ],
+      "observation": "The dog's response is explicitly detached from any prior κακόν suffered or ἀγαθόν received, making recognition rather than benefit or harm the sole ground of its reaction."
+    }
+  ]
+}

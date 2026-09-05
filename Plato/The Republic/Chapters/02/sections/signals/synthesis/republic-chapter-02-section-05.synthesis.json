@@ -1,0 +1,116 @@
+{
+  "section_id": "republic-chapter-02-section-05",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s006",
+        "s001"
+      ],
+      "observation": "οὐκ αὐτάρκης at 369b and the question πῶς ἡ πόλις ἀρκέσει at 369d place sufficiency first in the individual (negated) and then in the city (as question); the recurring δεῖ/δέομαι forms and the recurring χρεία fill the space between the two, so that what the person lacks and what the city must supply are named by the same recurring vocabulary."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s003",
+        "s024"
+      ],
+      "observation": "The reciprocal ἄλλος ἄλλῳ μεταδίδωσι at 369c is stated abstractly at the founding; at 371b the same verb returns as μεταδώσουσιν posed as a question (πῶς ἀλλήλοις μεταδώσουσιν), answered immediately by πωλοῦντες καὶ ὠνούμενοι, ἀγορά, and νόμισμα σύμβολον. The early reciprocal formula is displaced into the concrete institutions of market and coin."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s017",
+        "s004"
+      ],
+      "observation": "The ordinal enumeration τροφή/οἴκησις/ἐσθής at 369d and the four craftsmen (γεωργός, οἰκοδόμος, ὑφάντης, σκυτοτόμος) at 369d are answered at 372a-b by the concrete inventory σῖτον, οἶνον, ἱμάτια, ὑποδήματα, οἰκίας, κριθαί, πυροί, μᾶζαι, ἄρτοι. The abstract triad of needs and its four producers reappear as the specific foods and garments consumed."
+    },
+    {
+      "signal_ids": [
+        "s015",
+        "s016",
+        "s020"
+      ],
+      "observation": "The proposal ποιῶμεν πόλιν at 369c and the question ηὔξηται ἡ πόλις ὥστʼ εἶναι τελέα at 371e frame the construction; immediately after τελέα comes the locative question ποῦ... ἐν αὐτῇ εἴη ἥ τε δικαιοσύνη καὶ ἡ ἀδικία, and the section closes with εὐλαβούμενοι πενίαν ἢ πόλεμον. Completion, the question of justice's location, and the naming of πόλεμος fall in immediate succession at the end."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s010",
+        "s023"
+      ],
+      "observation": "The doubled κενός at 370e–371a (goes empty, returns empty) is placed exactly at the point where διάκονος first appears; from that emptiness the section generates ἔμποροι, κάπηλοι, and μισθωτοί, and διάκονος-forms recur through each new role. The empty servant is the pivot from which the exchange-roles proliferate."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s022",
+        "s013"
+      ],
+      "observation": "The formula εἷς ἓν κατὰ φύσιν at 370c is flanked by σχολή twice (what work will not wait for, what the specialist gains) at 370b–c; at 371e the μισθωτοί are defined by lacking διάνοια but possessing σώματος ἰσχύν, which they πωλοῦσιν. The one-person-one-task principle appears once as κατὰ φύσιν craftsmanship and again as a mind/body division sold for wages."
+    },
+    {
+      "signal_ids": [
+        "s021",
+        "s007",
+        "s012"
+      ],
+      "observation": "The οἰκ- root threads from συνοικία (the name given to the gathering at 369c) through κατοικίσαι the city in a τόπος (370e) to ἱδρυμένους ἐν ἀγορᾷ opposed to πλανήτας ἐπὶ τὰς πόλεις (371d); κοινωνία tracks alongside, from κοινωνοί at 369c to κοινωνίαν ποιησάμενοι πόλιν ᾠκίσαμεν at 371b. Settledness and partnership recur together, and the wandering merchant is set against both."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "semantic_cluster",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "πενίαν ἢ πόλεμον",
+          "lemma": null,
+          "location": "372c",
+          "context": "εὐλαβούμενοι πενίαν ἢ πόλεμον"
+        },
+        {
+          "form": "οὐχ ὑπὲρ τὴν οὐσίαν",
+          "lemma": null,
+          "location": "372b",
+          "context": "οὐχ ὑπὲρ τὴν οὐσίαν ποιούμενοι τοὺς παῖδας"
+        }
+      ],
+      "observation": "πενία and πόλεμος are named together at the section's close as the twin objects of εὐλάβεια, coupled with the restraint on begetting children beyond one's οὐσία."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "μίλακί τε καὶ μυρρίναις",
+          "lemma": null,
+          "location": "372b",
+          "context": "στιβάδων ἐστρωμένων μίλακί τε καὶ μυρρίναις"
+        },
+        {
+          "form": "ἐστεφανωμένοι",
+          "lemma": "στεφανόω",
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "ὑμνοῦντες τοὺς θεούς",
+          "lemma": "ὑμνέω",
+          "location": "372b",
+          "context": null
+        },
+        {
+          "form": "τὰ παιδία",
+          "lemma": "παιδίον",
+          "location": "372b",
+          "context": "εὐωχήσονται αὐτοί τε καὶ τὰ παιδία"
+        }
+      ],
+      "observation": "The closing scene gathers plant-materials (smilax, myrtle), garlands, hymning of gods, and the presence of children at the feast."
+    }
+  ]
+}

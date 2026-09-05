@@ -1,0 +1,124 @@
+{
+  "section_id": "republic-chapter-02-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s013"
+      ],
+      "observation": "The dense recurrence of παιδεύω forms (s001) and of μῦθος forms (s002) is interlaced by the fourfold πρότερον (s013): each πρότερον places μουσική, ψευδῆ, or μῦθοι ahead of gymnastics or exercises, so that the priority markers fall between the recurring παιδ- and μυθ- words rather than beside either alone."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s006",
+        "s007"
+      ],
+      "observation": "πλάττω (s003) shifts subject from the young child, to fabricated μῦθοι, to souls molded by μῦθοι; the ψυχή/σῶμα pair (s006) reappears exactly at the third πλάττειν, where molding souls with μῦθοι is set beside molding σώματα with hands; τύπος (s007) sits between these, first as what is stamped on the young and then as what greater and lesser μῦθοι must share."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s002",
+        "s009"
+      ],
+      "observation": "The ἀληθές/ψεῦδος division of λόγοι (s004) is applied to μῦθοι (s002), which are called mostly ψεῦδος with ἀληθῆ inside; then the ἐγκριτέον/ἀποκριτέον pair (s009) sorts μῦθοι by καλόν, not by the earlier true/false division, so the criterion of selection displaces the criterion of division."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s016"
+      ],
+      "observation": "σκοπέω and σκέψις (s011) cluster at the opening around κατιδεῖν justice; ὀψόμεθα (s016) closes the section with seeing directed at μείζους μῦθοι. The verbs of looking frame the section, with justice at one end and μῦθοι at the other."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s003"
+      ],
+      "observation": "θρέψονται opens with rearing (s012); τροφούς return as those who will speak the approved μῦθοι and πλάττειν souls (s003, s012), so that the nurses who feed become the nurses who mold."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s002"
+      ],
+      "observation": "The etymological echo μύθῳ μυθολογοῦντές (s010) stands at the first occurrence of μῦθος in the section; the subsequent six occurrences of μῦθος-words (s002) unfold from that doubled opening."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s003",
+        "s007"
+      ],
+      "observation": "The conjunction of ἀρχή, νέῳ, ἁπαλῷ (s014) precedes and prepares the first πλάττεται and τύπος (s003, s007): softness and beginning stand immediately before the language of molding and stamping."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτυχόντας",
+          "lemma": "ἐπιτυγχάνω",
+          "location": "377b",
+          "context": "τοὺς ἐπιτυχόντας ὑπὸ τῶν ἐπιτυχόντων μύθους πλασθέντας"
+        },
+        {
+          "form": "ἐπιτυχόντων",
+          "lemma": "ἐπιτυγχάνω",
+          "location": "377b",
+          "context": null
+        }
+      ],
+      "observation": "ἐπιτυχόντας and ἐπιτυχόντων occur adjacently, the same participle applied both to the children who hear and to those who fabricate the μῦθοι."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιστατητέον",
+          "lemma": "ἐπιστατέω",
+          "location": "377b",
+          "context": "ἐπιστατητέον τοῖς μυθοποιοῖς"
+        },
+        {
+          "form": "ἐγκριτέον",
+          "lemma": "ἐγκρίνω",
+          "location": "377c",
+          "context": "ἐγκριτέον"
+        },
+        {
+          "form": "ἀποκριτέον",
+          "lemma": "ἀποκρίνω",
+          "location": "377c",
+          "context": "ἀποκριτέον"
+        },
+        {
+          "form": "ἐκβλητέον",
+          "lemma": "ἐκβάλλω",
+          "location": "377c",
+          "context": "ἐκβλητέον"
+        },
+        {
+          "form": "παιδευτέον",
+          "lemma": "παιδεύω",
+          "location": "377a",
+          "context": "παιδευτέον δʼ ἐν ἀμφοτέροις"
+        },
+        {
+          "form": "ἁπτέον",
+          "lemma": "ἅπτω",
+          "location": "377a",
+          "context": "μουσικῆς πρότερον ἁπτέον"
+        }
+      ],
+      "observation": "A cluster of verbal adjectives in -τέον accumulates across 377a–c, each stating an obligation regarding education, oversight, selection, and rejection."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "section_id": "republic-chapter-03-section-03",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s004",
+        "s010"
+      ],
+      "observation": "σωφροσύνη is introduced (s001) as rule over pleasures of πότοι, ἀφροδίσια, ἐδωδαί (s004); the concrete cluster then unfolds in the quoted scenes — Odyssean feast, Zeus overcome by ἀφροδισίων ἐπιθυμίαν — where the counter-example καρτερίαι/τέτλαθι (s010) is set beside ἐπιλανθανόμενον and ἐκπλαγέντα. The abstract term at 389d and its opposite enactments in cited verse stand in the same section."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s014"
+      ],
+      "observation": "σωφρονεστάτου applied to Peleus (s001) is placed immediately beside the diagnosis of Achilles as containing νοσήματε δύο ἐναντίω ἀλλήλοιν (s014): the superlative of the section's opening virtue names the father just as the son is charged with its two contraries."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s014"
+      ],
+      "observation": "The dense δῶρον concentration at 390e with δωροδόκους and φιλοχρημάτους (s002) returns compressed inside Achilles' first disease, ἀνελευθερίαν μετὰ φιλοχρηματίας (s014); the earlier lexical density reappears as one half of the paired νοσήματε."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s008",
+        "s016"
+      ],
+      "observation": "Forms of πείθω (s003), the -τέον verbal adjectives including πειστέον and ἀκουστέον (s008), and the recurrences of ἀκούω (s016) are woven together: what the young ἀκούουσιν and what is πειστέον are governed by the same prescriptive verbal-adjective series, and πείθω itself appears both as Homeric ἐπιπείθεο and as πεισθείς describing the harmed listener."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s007"
+      ],
+      "observation": "The μέν/δέ contrast of ἀρχόντων ὑπηκόους / ἄρχοντας ἡδονῶν (s005) is completed by νεανιεύματα ἰδιωτῶν εἰς ἄρχοντας, placing νεανίαι (s007) on both sides: those who must obey rulers and rule themselves are the same young whose insolent speech toward rulers is then quoted."
+    },
+    {
+      "signal_ids": [
+        "s009",
+        "s011"
+      ],
+      "observation": "The accumulated articulations of divine parentage — θεᾶς παῖς, θεοῦ παῖδα, θεῶν ἀγχίσποροι, αἷμα δαιμόνων (s009) — sit inside the enumeration θεῶν, δαιμόνων, ἡρώων, ἐν Ἅιδου, ἀνθρώπων (s011); the heroes-as-god-children discussion at 391c–e occupies exactly the δαιμόνων/ἡρώων slot the enumeration then names as completed."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012",
+        "s013"
+      ],
+      "observation": "The descending sequence gods→daimons→heroes→Hades→humans (s011) halts at ἀνθρώπων with ἀδύνατον … ἐν τῷ παρόντι τάξαι (s012); the poets' paired contrasts ἄδικοι εὐδαίμονες / δίκαιοι ἄθλιοι and ἀλλότριον ἀγαθόν / οἰκεία ζημία (s013) are cited as the very content whose refutation must wait for δικαιοσύνη to be found."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003"
+      ],
+      "observation": "The quoted line δῶρα θεοὺς πείθει, δῶρʼ αἰδοίους βασιλῆας joins the δῶρον density (s002) to the πείθω recurrence (s003) at a single point: gifts persuading gods stands at 390e as the hinge from which the subsequent chain of πείθεσθαι/πειστέον/πειθώμεθα about the young unfolds."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "σοφώτατον",
+          "lemma": "σοφός",
+          "location": "390a",
+          "context": "ποιεῖν ἄνδρα τὸν σοφώτατον λέγοντα"
+        },
+        {
+          "form": "σοφωτάτῳ",
+          "lemma": "σοφός",
+          "location": "391c",
+          "context": "ὑπὸ τῷ σοφωτάτῳ Χείρωνι τεθραμμένος"
+        }
+      ],
+      "observation": "The superlative σοφώτατος appears twice: of the wisest man (Odysseus) whose speech about full tables is quoted, and of Chiron as Achilles' wisest educator."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιτήδεια",
+          "lemma": "ἐπιτήδειος",
+          "location": "390a",
+          "context": "νέοις ἐπιτήδεια ἀκούειν"
+        },
+        {
+          "form": "ἐπιτήδειον",
+          "lemma": "ἐπιτήδειος",
+          "location": "390b",
+          "context": "ἐπιτήδειον εἶναι πρὸς ἐγκράτειαν ἑαυτοῦ ἀκούειν νέῳ"
+        },
+        {
+          "form": "ἐπιτήδειον",
+          "lemma": "ἐπιτήδειος",
+          "location": "390c",
+          "context": "οὔ μοι φαίνεται ἐπιτήδειον"
+        }
+      ],
+      "observation": "ἐπιτήδειος recurs three times as the criterion by which cited verses are judged suitable or unsuitable for the young to hear."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὅσιον",
+          "lemma": "ὅσιος",
+          "location": "391a",
+          "context": "οὐδʼ ὅσιον ταῦτά γε κατὰ Ἀχιλλέως φάναι"
+        },
+        {
+          "form": "ὅσια",
+          "lemma": "ὅσιος",
+          "location": "391e",
+          "context": "οὔθʼ ὅσια ταῦτα οὔτε ἀληθῆ"
+        }
+      ],
+      "observation": "ὅσιος recurs paired with ἀληθῆ, marking the twofold ground on which the stories are rejected."
+    }
+  ]
+}

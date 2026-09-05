@@ -1,0 +1,114 @@
+{
+  "section_id": "republic-chapter-03-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s005",
+        "s006",
+        "s008",
+        "s009"
+      ],
+      "observation": "The iron simile (`σίδηρον ἐμάλαξεν`) at 411a passes into the melting/pouring verbs (`τήκει καὶ λείβει`, `ἐκτήξῃ`) and culminates in `ἐκτέμῃ ὥσπερ νεῦρα` and `μαλθακὸν αἰχμητήν`: the metallurgical figure begun as beneficial softening extends into liquefaction and then into the cutting of sinews, so that the same μαλακ-/μαλθακ- family that names the harmonies at 411a reappears as the name of the finished warrior."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s005"
+      ],
+      "observation": "The κατα- pouring of music through the ears as through a χώνη at 411a is placed just before the metallurgical melting at 411b: the funnel image (pouring in) and the melting-out (`τήκει καὶ λείβει`) share the liquid register on opposite sides of the ψυχή, one entering through the ears, the other flowing out of θυμός."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s014",
+        "s015"
+      ],
+      "observation": "The ἁρμόζω family (410e–412a) is answered at 412a by the string-tuning verbs `ἐπιτεινομένω καὶ ἀνιεμένω` and `χορδάς`, and the recurring `τοῦ δέοντος` of 410d–e is replaced by `μέχρι τοῦ προσήκοντος`: the harmonic vocabulary literalizes into string-tension at the same point where the excess-marker is exchanged for a fitting-marker."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s016",
+        "s013"
+      ],
+      "observation": "The gymnastics-only person becomes `μισόλογος` and `ἄμουσος` (411d), no longer using `πειθοῖ διὰ λόγων` but `βίᾳ`, while his φιλομαθές goes `ἀσθενές, κωφὸν, τυφλόν`: the loss of μουσική, the loss of λόγος-persuasion, and the sensory deprivation of the learning-part are placed together as one configuration."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s018",
+        "s006"
+      ],
+      "observation": "`ἄγροικος` at 411a (unharmonized soul) and `ἀγριότητι ὥσπερ θηρίον` at 411e frame the ἄγριος pair from 410d: the same rough-savage term returns first as an epithet of the ἀναρμόστου ψυχή and then as the mode of action of the ἄμουσος person likened to a beast."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s004",
+        "s017"
+      ],
+      "observation": "The correction at 411e — the two τέχναι are given by a θεός `ἐπὶ τὸ θυμοειδὲς καὶ τὸ φιλόσοφον, οὐκ ἐπὶ ψυχὴν καὶ σῶμα` — gathers the θυμοειδές/φιλόσοφος pairing, the earlier ψυχή/σῶμα correction of 410c, and the singular divine attribution into one statement that reassigns both arts to parts of the soul."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "ἐπιταθὲν",
+          "lemma": "ἐπιτείνω",
+          "location": "410d",
+          "context": "μᾶλλον δʼ ἐπιταθὲν τοῦ δέοντος σκληρόν τε καὶ χαλεπόν"
+        },
+        {
+          "form": "ἀνεθέντος",
+          "lemma": "ἀνίημι",
+          "location": "410e",
+          "context": "μᾶλλον μὲν ἀνεθέντος αὐτοῦ μαλακώτερον"
+        },
+        {
+          "form": "ἐπιτεινομένω",
+          "lemma": "ἐπιτείνω",
+          "location": "412a",
+          "context": "ἐπιτεινομένω καὶ ἀνιεμένω μέχρι τοῦ προσήκοντος"
+        },
+        {
+          "form": "ἀνιεμένω",
+          "lemma": "ἀνίημι",
+          "location": "412a",
+          "context": "ἐπιτεινομένω καὶ ἀνιεμένω"
+        }
+      ],
+      "observation": "The paired verbs ἐπιτείνω/ἀνίημι occur first (410d–e) as the excesses that make θυμοειδές too hard and φιλόσοφον too soft, and return together at 412a as the tuning motion applied μέχρι τοῦ προσήκοντος."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "γευόμενον",
+          "lemma": "γεύομαι",
+          "location": "411d",
+          "context": "οὔτε μαθήματος γευόμενον οὐδενὸς οὔτε ζητήματος"
+        },
+        {
+          "form": "εὐωχῆται",
+          "lemma": "εὐωχέομαι",
+          "location": "411c",
+          "context": "γυμναστικῇ πολλὰ πονῇ καὶ εὐωχῆται εὖ μάλα"
+        },
+        {
+          "form": "ἐμπίμπλαται",
+          "lemma": "ἐμπίμπλημι",
+          "location": "411c",
+          "context": "φρονήματός τε καὶ θυμοῦ ἐμπίμπλαται"
+        }
+      ],
+      "observation": "Eating vocabulary (feasting well, being filled, tasting) crosses body and soul: the gymnast `εὐωχῆται` and is `ἐμπίμπλαται` with θυμός, while his φιλομαθές never `γευόμενον` any lesson."
+    }
+  ]
+}

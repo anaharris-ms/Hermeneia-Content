@@ -1,0 +1,88 @@
+{
+  "section_id": "republic-chapter-01-section-04",
+  "connections": [
+    {
+      "signal_ids": [
+        "s006",
+        "s007",
+        "s013"
+      ],
+      "observation": "At 336d Thrasymachus prohibits five benefit-terms as answers about τὸ δίκαιον; at 337b Socrates answers with an analogy about τὰ δώδεκα that pre-lists four prohibited factorizations (δὶς ἕξ, τρὶς τέτταρα, ἑξάκις δύο, τετράκις τρία). The two prohibition-lists stand as parallel enumerations of forbidden answers, and at 338c τὸ συμφέρον, the last item Thrasymachus forbade, returns as the head of his own definition τὸ τοῦ κρείττονος συμφέρον."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s011"
+      ],
+      "observation": "Thrasymachus' entry is figured as a beast (ὥσπερ θηρίον) springing to tear (διαρπασόμενος) at 336b, then placed as speech εἰς τὸ μέσον, then localized again at 337a in the σαρδάνιον laugh. The animal-image, the middle-placement, and the marked laugh cluster his bodily manner across the section's openings of his speech."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009"
+      ],
+      "observation": "The counterfactual ἄφωνος ἂν γενέσθαι at 336d is tied to priority of seeing (εἰ μὴ πρότερος ἑωράκη); the paired προσβλέπων/προσέβλεψα αὐτὸν πρότερος enact the same priority-of-looking that the counterfactual specified as the condition of speech."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s015",
+        "s016"
+      ],
+      "observation": "The teaching/learning cluster (μαθεῖν, διδάσκειν, μανθάνειν) is doubled by a payment configuration: Thrasymachus demands ἀπότεισον ἀργύριον (337d), Glaucon answers ἔστιν and πάντες εἰσοίσομεν, and Socrates later says he can only ἐπαινεῖν because χρήματα οὐκ ἔχω (338b). Learning-from-the-knower is set beside monetary repayment, with praise substituted for coin."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s012",
+        "s017"
+      ],
+      "observation": "The dense ἀποκρίνομαι-forms cross with Thrasymachus' prediction that Socrates εἰρωνεύσοιο rather than ἀποκρινοῖο (337a) and with Thrasymachus' own trajectory from ἐπιθυμῶν εἰπεῖν through συνεχώρησεν to φημὶ … εἶναι τὸ δίκαιον (338c): the contested act of answering shifts from Socrates (accused of refusing) to Thrasymachus (who ends by answering)."
+    },
+    {
+      "signal_ids": [
+        "s005",
+        "s018"
+      ],
+      "observation": "φλυαρία/φλυαρῇς and ὑποκατακλίνω each recur across speaker: Thrasymachus first hurls φλυαρία at Socrates (336c) and later uses φλυαρῇς to bar answers (337b); ὑποκατακλινόμενοι is his accusation at 336c and returns in Socrates' mouth at 336e inside the gold-analogy. Both terms cross from accusation into reuse by the accused party."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "exact_repetition",
+        "narration_dialogue_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "πρότερος",
+          "lemma": "πρότερος",
+          "location": "336d",
+          "context": "εἰ μὴ πρότερος ἑωράκη αὐτὸν ἢ ἐκεῖνος ἐμέ"
+        },
+        {
+          "form": "πρότερος",
+          "lemma": "πρότερος",
+          "location": "336d",
+          "context": "προσέβλεψα αὐτὸν πρότερος"
+        }
+      ],
+      "observation": "πρότερος recurs twice within 336d, once in the counterfactual about seeing first and once in the narrated act of looking first."
+    },
+    {
+      "signal_types": [
+        "exact_repetition"
+      ],
+      "elements": [
+        {
+          "form": "δύναμαι",
+          "lemma": "δύναμαι",
+          "location": "338b",
+          "context": "ἐκτίνω γὰρ ὅσην δύναμαι. δύναμαι δὲ ἐπαινεῖν μόνον"
+        }
+      ],
+      "observation": "δύναμαι repeats immediately at 338b, linking capacity-to-repay with capacity-only-to-praise."
+    }
+  ]
+}

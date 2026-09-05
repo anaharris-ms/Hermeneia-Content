@@ -1,0 +1,155 @@
+{
+  "section_id": "republic-chapter-03-section-09",
+  "connections": [
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s007"
+      ],
+      "observation": "χρυσός appears at 413e in the simile βασανίζοντας πολὺ μᾶλλον ἢ χρυσὸν ἐν πυρί, testing guardians as gold is tested; at 415a the same metal is what ὁ θεὸς mixed into rulers' souls at birth. The testing image and the noble-lie metal share the substance, so what was a comparandum for trial becomes, in the μῦθος, the constituent that trial was searching out."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s015"
+      ],
+      "observation": "φύλαξ moves from φύλαξ αὑτοῦ (413e) to φύλακες παντελεῖς guarding ἔξωθεν πολεμίων and ἐντὸς φιλίων (414b) to φύλακες ἀγαθοί who φυλάξουσι their own ἐκγόνους' metallic natures (415b) and finally to the σιδηροῦς or χαλκοῦς φύλαξ whose φυλάξῃ would destroy the city (415c); the same lemma names the guarding subject, the guarded object, and the guardian whose guarding is ruin. κήδεσθαι at 415d closes this by making mutual care of city and one another the aim, echoing the early κηδεμόνας τῆς πόλεως (412c)."
+    },
+    {
+      "signal_ids": [
+        "s004",
+        "s005",
+        "s019"
+      ],
+      "observation": "γοητεύω names one of the three modes by which true opinion is lost (413b), is glossed as ἡδονή or φόβος (413c), and returns as the τρίτου εἴδους γοητείας ἅμιλλαν through which guardians are tested (413d); the same φόβος that defines being enchanted then appears in μὴ φοβοῦ (414c) addressed to Socrates as he hesitates to speak the lie."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s012",
+        "s016",
+        "s019"
+      ],
+      "observation": "The introduction of the noble lie concentrates πεῖσαι/πειθοῦς (414c), ψεῦδος/ψευδομένους (414b–e), the marker μηδὲν καινόν … Φοινικικόν τι (414c), and Socrates' ὀκνεῖν, τόλμα, ᾐσχύνου alongside μὴ φοβοῦ; the cluster of persuasion-vocabulary, falsehood-vocabulary, and hesitation-vocabulary is packed into the same passage where the μῦθος is announced but not yet told."
+    },
+    {
+      "signal_ids": [
+        "s013",
+        "s014",
+        "s021"
+      ],
+      "observation": "πλάττω names both the citizens fashioned ὑπὸ γῆς ἐντός (414d) and the god's fashioning with metals (415a); between these, γῆ becomes μήτηρ who ἀνῆκεν them upward and then χώρα as μήτηρ καὶ τροφός, so the spatial movement (inside earth → released up) and the kinship names (μήτηρ, τροφός, ἀδελφοί, γηγενῶν, συγγενεῖς) are bound together by the repeated πλάττω."
+    },
+    {
+      "signal_ids": [
+        "s006",
+        "s005",
+        "s010"
+      ],
+      "observation": "Opinion exits διανοίας ἑκουσίως or ἀκουσίως (412e–413a); the involuntary side is then subdivided into κλαπέντες/γοητευθέντες/βιασθέντες (413b). The δόγμα the guardians must be φυλακικοί of (412e) and the δόγμα παρʼ αὑτοῖς (413c) is precisely what these three modes would remove, so the voluntary/involuntary contrast and the three-mode list together specify what guarding a δόγμα guards against."
+    },
+    {
+      "signal_ids": [
+        "s017",
+        "s008"
+      ],
+      "observation": "The age-sequence παισί, νεανίσκοις, ἀνδράσι (413e) at which one is βασανιζόμενος is continued past life into ζῶντι καὶ τελευτήσαντι with τάφων and μνημεῖα (414a); testing across ages extends into honors across the living/dead boundary."
+    },
+    {
+      "signal_ids": [
+        "s020",
+        "s011"
+      ],
+      "observation": "Socrates proposes πρῶτον … τοὺς ἄρχοντας πείθειν, ἔπειτα … τὴν ἄλλην πόλιν (414d); Glaucon's answer οὐδαμῶς … ὅπως γʼ ἂν αὐτοὶ οὗτοι, ὅπως μεντἂν οἱ τούτων ὑεῖς (415d) reverses the proposed first step: the ones named first as the target of πείθειν are the ones who cannot be persuaded."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἐτρέφομεν",
+          "lemma": "τρέφω",
+          "location": "414d",
+          "context": "ἃ ἡμεῖς αὐτοὺς ἐτρέφομέν τε καὶ ἐπαιδεύομεν"
+        },
+        {
+          "form": "τρεφόμενοι",
+          "lemma": "τρέφω",
+          "location": "414d",
+          "context": "ὑπὸ γῆς ἐντὸς πλαττόμενοι καὶ τρεφόμενοι"
+        },
+        {
+          "form": "τροφοῦ",
+          "lemma": "τροφός",
+          "location": "414e",
+          "context": "ὡς περὶ μητρὸς καὶ τροφοῦ τῆς χώρας"
+        }
+      ],
+      "observation": "τρέφω recurs at 414d in two contrasting frames within a single sentence: what 'we' were rearing and educating (ἐτρέφομεν) is redescribed as what was in truth being reared under the earth (τρεφόμενοι); τροφός at 414e then transfers the nurturing role to χώρα."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὥσπερ ὀνείρατα",
+          "lemma": "ὄνειρον",
+          "location": "414d",
+          "context": "ὥσπερ ὀνείρατα ἐδόκουν ταῦτα πάντα πάσχειν"
+        },
+        {
+          "form": "τῇ ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "location": "414d",
+          "context": "ἦσαν δὲ τότε τῇ ἀληθείᾳ ὑπὸ γῆς ἐντὸς πλαττόμενοι"
+        }
+      ],
+      "observation": "Within the lie itself, the earlier education is called dream-like (ὥσπερ ὀνείρατα) while the underground fashioning is marked τῇ ἀληθείᾳ; the vocabulary of dream and truth is inverted inside the μῦθος that has just been named ψεῦδος."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "ὅπλα",
+          "lemma": "ὅπλον",
+          "location": "414e",
+          "context": "καὶ τὰ ὅπλα αὐτῶν"
+        },
+        {
+          "form": "σκευή",
+          "lemma": "σκευή",
+          "location": "414e",
+          "context": "καὶ ἡ ἄλλη σκευὴ δημιουργουμένη"
+        },
+        {
+          "form": "δημιουργουμένη",
+          "lemma": "δημιουργέω",
+          "location": "414e",
+          "context": null
+        },
+        {
+          "form": "δημιουργοῖς",
+          "lemma": "δημιουργός",
+          "location": "415a",
+          "context": "τοῖς τε γεωργοῖς καὶ τοῖς ἄλλοις δημιουργοῖς"
+        },
+        {
+          "form": "δημιουργούς",
+          "lemma": "δημιουργός",
+          "location": "415c",
+          "context": "ὤσουσιν εἰς δημιουργοὺς ἢ εἰς γεωργούς"
+        }
+      ],
+      "observation": "δημιουργέω names the fashioning of the underground citizens' arms and equipment (414e), and immediately after δημιουργοί names the class into which iron/bronze souls are pushed (415a, 415c); the verb of underground crafting and the noun for the crafting class stand next to one another."
+    }
+  ]
+}

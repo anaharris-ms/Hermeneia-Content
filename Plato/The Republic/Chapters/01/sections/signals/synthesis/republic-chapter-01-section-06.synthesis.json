@@ -1,0 +1,108 @@
+{
+  "section_id": "republic-chapter-01-section-06",
+  "connections": [
+    {
+      "signal_ids": [
+        "s002",
+        "s005",
+        "s009"
+      ],
+      "observation": "The shepherd cluster (s002) is bound to σκοπέω (s005) and συμφέρον (s009): Thrasymachus asks whether shepherds σκοποῦσι the good of sheep or of masters (343b), and at 345c–d Socrates returns πιαίνειν and πρόβατα together with σκοπεῖσθαι τὸ βέλτιστον for the ruled, so the same pastoral image and the same verb of looking-to carry the disputed συμφέρον from κρείττων to ἀρχόμενος."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s004",
+        "s006",
+        "s007"
+      ],
+      "observation": "Bodily-care images cluster around Socrates: Thrasymachus asks after his τίτθη (s003), charges the nurse with leaving him κορυζῶντα and unwiped (s004), addresses him as εὐηθέστατε while calling the ruled εὐηθικῶν (s006), and is then narrated as a βαλανεύς drenching their ears with speech (s007). The infantilizing address is answered by an image in which Thrasymachus himself performs a bath-attendant's bodily service."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s013",
+        "s018"
+      ],
+      "observation": "Thrasymachus's case is built by paired extremes: the just always ἔλαττον, the unjust πλέον (s011); the doer εὐδαιμονέστατον, the sufferer ἀθλιώτατος (s013); partial wrongdoers κατὰ μέρη named as thieves against the tyrant who takes συλλήβδην (s018). The three pairings place quantitative less/more, superlative happy/wretched, and partial/whole side by side."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s014",
+        "s015",
+        "s016"
+      ],
+      "observation": "The μισθός cluster (s010) is answered by the ἑκών/ἀνάγκη configuration (s014): because no craft benefits its practitioner, wage or ζημία must be added to make the good consent to rule, and the greatest ζημία is being ruled by a worse man (s015), which yields the reversal whereby τὸ μὴ ἄρχειν would be περιμάχητον as τὸ ἄρχειν is now (s016)."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s009"
+      ],
+      "observation": "ἀλλότριον ἀγαθόν / οἰκεία βλάβη (s001) and the migrating συμφέρον (s009) hold the same configuration from opposite sides: Thrasymachus locates the ἀγαθόν and συμφέρον with the κρείττων and the βλάβη with the ruled; Socrates keeps the τῷ ἀρχομένῳ position but moves συμφέρον into it."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s017"
+      ],
+      "observation": "Thrasymachus's intended ἀπιέναι, blocked by forced ὑπομεῖναι (s008), is set beside Socrates' framing of the question as ὅλου βίου διαγωγή and the closing return to βίος of just and unjust (s017): the attempted departure is held in place by the scale of what the λόγος concerns."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "changed_context_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὡς ἀληθῶς ἄρχοντας",
+          "lemma": null,
+          "location": "345e",
+          "context": "τοὺς ὡς ἀληθῶς ἄρχοντας"
+        },
+        {
+          "form": "ὡς ἀληθῶς ἄρχουσιν",
+          "lemma": null,
+          "location": "343b",
+          "context": "οἳ ὡς ἀληθῶς ἄρχουσιν"
+        },
+        {
+          "form": "τὸν ὡς ἀληθῶς ἰατρὸν … τὸν ὡς ἀληθῶς ποιμένα",
+          "lemma": null,
+          "location": "345c",
+          "context": "τὸν ὡς ἀληθῶς ἰατρὸν τὸ πρῶτον ὁριζόμενος τὸν ὡς ἀληθῶς ποιμένα"
+        }
+      ],
+      "observation": "The phrase ὡς ἀληθῶς attached to ἄρχων recurs in both speakers: Thrasymachus uses it of rulers who truly rule (343b), and Socrates picks up the same qualifier for the true doctor, true shepherd, and true ruler (345c, 345e)."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ὑπηρετοῦντος",
+          "lemma": "ὑπηρετέω",
+          "location": "343c",
+          "context": "τοῦ πειθομένου τε καὶ ὑπηρετοῦντος"
+        },
+        {
+          "form": "ὑπηρετοῦντες",
+          "lemma": "ὑπηρετέω",
+          "location": "343c",
+          "context": "εὐδαίμονα ἐκεῖνον ποιοῦσιν ὑπηρετοῦντες"
+        },
+        {
+          "form": "ὑπηρετεῖν",
+          "lemma": "ὑπηρετέω",
+          "location": "343e",
+          "context": "μηδὲν ἐθέλῃ αὐτοῖς ὑπηρετεῖν παρὰ τὸ δίκαιον"
+        }
+      ],
+      "observation": "ὑπηρετέω recurs in Thrasymachus's speech for the position of the ruled who serve another's happiness, and for the just man who refuses to serve his own against justice."
+    }
+  ]
+}

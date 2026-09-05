@@ -1,0 +1,126 @@
+{
+  "section_id": "republic-chapter-01-section-08",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s003",
+        "s004",
+        "s006",
+        "s007"
+      ],
+      "observation": "The chain ἔργον→ἀρετή→κακία is first fitted to δρέπανον, then to ὀφθαλμοί and ὦτα (with τυφλότης supplied by Thrasymachus as the κακία opposite ὄψις), and then transferred onto ψυχή, whose ἔργον is specified as ἐπιμελεῖσθαι, ἄρχειν, βουλεύεσθαι, τὸ ζῆν, so that δικαιοσύνη and ἀδικία arrive in the slot already prepared by the pruning-hook and the eye."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s010",
+        "s011",
+        "s014"
+      ],
+      "observation": "μακάριος is first predicated of ὁ εὖ ζῶν and then immediately reused as vocative ὦ μακάριε Θρασύμαχε, at the same moment Thrasymachus offers the argument as a feast (εἱστιάσθω) at the Βενδίδια and Socrates answers οὐ καλῶς εἱστίαμαι, comparing himself to λίχνοι who snatch each passing dish — the predicate of blessed life is displaced onto the addressee just as the shared meal is declared badly eaten."
+    },
+    {
+      "signal_ids": [
+        "s001",
+        "s002",
+        "s007",
+        "s008",
+        "s009",
+        "s012",
+        "s015"
+      ],
+      "observation": "The section drives through ἔργον, ἀρετή, δικαιοσύνη, εὐδαίμων, and λυσιτελέστερον to the conclusion that injustice is never more profitable than justice, and then Socrates says the outcome of the διάλογος is μηδὲν εἰδέναι because τὸ δίκαιον ὅτι ποτ' ἐστίν, the first question, was left behind — the completed sequence of concessions is set beside its own retracted starting point."
+    },
+    {
+      "signal_ids": [
+        "s010",
+        "s011",
+        "s015"
+      ],
+      "observation": "The feast image (εἱστιάσθω / οὐ καλῶς εἱστίαμαι / λίχνοι snatching τοῦ ἀεὶ παραφερομένου) is mapped onto the ordered list of abandoned questions in s015: each dish taken before the previous is enjoyed corresponds to each later question pursued before τὸ δίκαιον ὅτι ποτ' ἐστίν was found."
+    },
+    {
+      "signal_ids": [
+        "s003",
+        "s007",
+        "s013"
+      ],
+      "observation": "The κακία/ἀρετή pair, applied to the soul as ἀδικία/δικαιοσύνη, is voiced in the same stretch where Thrasymachus becomes πρᾷος and stops χαλεπαίνων; the disposition-shift in the interlocutor sits beside the concessions (συνεχωρήσαμεν) that supply the argument's premises."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "lemma_recurrence",
+        "local_contrast"
+      ],
+      "elements": [
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "353c",
+          "context": "τὸ αὑτῶν ἔργον εὖ ἐργάσεται"
+        },
+        {
+          "form": "κακῶς",
+          "lemma": "κακῶς",
+          "location": "353c",
+          "context": "κακίᾳ δὲ κακῶς"
+        },
+        {
+          "form": "κακῶς",
+          "lemma": "κακῶς",
+          "location": "353e",
+          "context": "κακῇ ψυχῇ κακῶς ἄρχειν"
+        },
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "353e",
+          "context": "τῇ δὲ ἀγαθῇ πάντα ταῦτα εὖ πράττειν"
+        },
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "353e",
+          "context": "εὖ βιώσεται"
+        },
+        {
+          "form": "εὖ",
+          "lemma": "εὖ",
+          "location": "354a",
+          "context": "ὅ γε εὖ ζῶν"
+        }
+      ],
+      "observation": "The adverbial pair εὖ/κακῶς recurs at each stage where ἀρετή/κακία is applied — tool-work, eye-work, soul's ἄρχειν and ἐπιμελεῖσθαι, βιοῦν, ζῆν — carrying the ἔργον-schema from action to life."
+    },
+    {
+      "signal_types": [
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "οἰκείαν",
+          "lemma": "οἰκεῖος",
+          "location": "353c",
+          "context": "τὴν αὑτῶν οἰκείαν ἀρετήν"
+        },
+        {
+          "form": "οἰκείᾳ",
+          "lemma": "οἰκεῖος",
+          "location": "353c",
+          "context": "τῇ οἰκείᾳ ἀρετῇ"
+        },
+        {
+          "form": "οἰκείας",
+          "lemma": "οἰκεῖος",
+          "location": "353e",
+          "context": "στερομένη τῆς οἰκείας ἀρετῆς"
+        }
+      ],
+      "observation": "οἰκεῖος recurs three times to qualify the ἀρετή belonging to a thing itself, binding ἀρετή to that particular thing's own ἔργον."
+    }
+  ]
+}
