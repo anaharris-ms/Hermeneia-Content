@@ -1,0 +1,130 @@
+{
+  "section_id": "republic-chapter-03-section-10",
+  "connections": [
+    {
+      "signal_ids": [
+        "s001",
+        "s017",
+        "s005"
+      ],
+      "observation": "The prescribed military sequence at 415d–e (ὁπλίσαντες, προάγωμεν, θεασάσθων, στρατοπεδευσάμενοι, θύσαντες, εὐνὰς ποιησάσθων) culminates in οἰκήσεις; the same encampment verb returns at 416e as ὥσπερ ἐστρατοπεδευμένους governing κοινῇ ζῆν, so the initial one-time encamping is redescribed as the permanent mode of dwelling that οἴκησις/οἰκεῖν names across 415e–417b."
+    },
+    {
+      "signal_ids": [
+        "s002",
+        "s003",
+        "s004",
+        "s016"
+      ],
+      "observation": "The pastoral cluster at 416a (ποιμέσι, κύνας, ποιμνίων, προβάτοις) with λύκος (already named at 415e as the external attacker) is reformulated at 416b without pastoral vocabulary as ἐπίκουροι/πολῖται, δεσπόται ἀγρίοις/σύμμαχοι εὐμενεῖς, and the ἀντί construction carries the same reversal into the non-pastoral register; ἥμεροι at 416c then answers ἀγρίοις at 416b across that translation."
+    },
+    {
+      "signal_ids": [
+        "s007",
+        "s004",
+        "s013"
+      ],
+      "observation": "The ἔνδον/ἔξωθεν pair at 415e names those the guardians control and repel; at 417b the same pair returns with δεδιότες, and the reciprocal participle pairs μισοῦντες/μισούμενοι, ἐπιβουλεύοντες/ἐπιβουλευόμενοι fall on the ἔνδον side—the direction once held outward is folded inward, and the ἀντί reversals (φυλάκων→οἰκονόμοι, συμμάχων→δεσπόται) sit in the same 417a–b stretch."
+    },
+    {
+      "signal_ids": [
+        "s008",
+        "s009",
+        "s018",
+        "s010"
+      ],
+      "observation": "At 416e–417a gold is split: θεῖον/ἀκήρατον in the ψυχή against θνητοῦ/ἀνθρωπείου outside; the physical-contact verbs ἅπτεσθαι, μεταχειρίζεσθαι, περιάψασθαι, πίνειν and the roof (ὄροφον) specify the prohibition bodily, while συμμειγνύντας μιαίνειν names the crossing of the two that must not occur."
+    },
+    {
+      "signal_ids": [
+        "s014",
+        "s004"
+      ],
+      "observation": "γηγενεῖς at 415d names the guardians' origin from earth; γῆν ἰδίαν at 417a is what they must not acquire, and stands inside the ἀντί sequence (οἰκονόμοι καὶ γεωργοὶ ἀντὶ φυλάκων)—the earth from which they come reappears as the private ground whose possession converts φύλακες into γεωργοί."
+    },
+    {
+      "signal_ids": [
+        "s011",
+        "s015",
+        "s005"
+      ],
+      "observation": "κακουργεῖν at 416a (dogs against sheep) returns at 416d attached to οἴκησις-arrangements that must not incite it; between the two occurrences παιδεία is named as insufficient by itself (416b–c), so οἴκησις and παιδεία are placed together as the double condition against κακουργεῖν."
+    },
+    {
+      "signal_ids": [
+        "s012",
+        "s007"
+      ],
+      "observation": "σῴζοιντό τʼ ἂν καὶ σῴζοιεν τὴν πόλιν at 417a stands immediately before the ὁπότε δέ clause that reintroduces τοὺς ἔνδον...τοὺς ἔξωθεν πολεμίους at 417b; the reflexive-transitive pair of saving is set directly against the reciprocal participles of hatred and plotting that follow."
+    }
+  ],
+  "new_signals": [
+    {
+      "signal_types": [
+        "local_contrast",
+        "lemma_recurrence"
+      ],
+      "elements": [
+        {
+          "form": "ἰδίαν",
+          "lemma": "ἴδιος",
+          "location": "416d",
+          "context": "οὐσίαν κεκτημένον μηδεμίαν μηδένα ἰδίαν"
+        },
+        {
+          "form": "ἰδίαν",
+          "lemma": "ἴδιος",
+          "location": "417a",
+          "context": "γῆν τε ἰδίαν καὶ οἰκίας"
+        },
+        {
+          "form": "κοινῇ",
+          "lemma": "κοινός",
+          "location": "416e",
+          "context": "ὥσπερ ἐστρατοπεδευμένους κοινῇ ζῆν"
+        }
+      ],
+      "observation": "ἰδίαν occurs twice as what the guardians must not possess (οὐσίαν at 416d, γῆν at 417a); κοινῇ at 416e names the opposed mode of life."
+    },
+    {
+      "signal_types": [
+        "semantic_cluster"
+      ],
+      "elements": [
+        {
+          "form": "συσσίτια",
+          "lemma": "συσσίτιον",
+          "location": "416e",
+          "context": "φοιτῶντας δὲ εἰς συσσίτια"
+        },
+        {
+          "form": "μισθὸν",
+          "lemma": "μισθός",
+          "location": "416e",
+          "context": "δέχεσθαι μισθὸν τῆς φυλακῆς"
+        },
+        {
+          "form": "ταμιεῖον",
+          "lemma": "ταμιεῖον",
+          "location": "416d",
+          "context": "οἴκησιν καὶ ταμιεῖον μηδενὶ εἶναι"
+        }
+      ],
+      "observation": "συσσίτια, μισθός, and ταμιεῖον together specify the economic-domestic arrangements: no storeroom, a fixed wage neither surplus nor deficient, common mess."
+    },
+    {
+      "signal_types": [
+        "other_textual_configuration"
+      ],
+      "elements": [
+        {
+          "form": "ὄροφον",
+          "lemma": "ὄροφος",
+          "location": "417a",
+          "context": "οὐδʼ ὑπὸ τὸν αὐτὸν ὄροφον ἰέναι"
+        }
+      ],
+      "observation": "ὄροφον at 417a names the roof under which gold and guardians must not come together, one further bodily-spatial specification alongside the touching verbs."
+    }
+  ]
+}
